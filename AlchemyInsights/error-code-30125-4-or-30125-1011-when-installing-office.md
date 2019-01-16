@@ -1,0 +1,34 @@
+---
+title: Kód chyby 30125-4 alebo 30125-1011 pri inštalácii balíka Office
+ms.author: pebaum
+author: pebaum
+ms.date: 11/1/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
+ms.openlocfilehash: 85512ad5e40cb97e8af6d9bd83d8b21bb747028c
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: sk-SK
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28310569"
+---
+# <a name="solutions-for-error-30125-4-or-30125-1011"></a>Riešenia pre chybu 30125-4 alebo 30125-1011
+
+Táto chyba sa môže zobraziť, ak anti-virus softvér, firewall, proxy nastavenie alebo pripojenie zabrániť inštalácii balíka Office. Tu sú niektoré veci, môžete sa pokúsiť vyriešiť problém:
+  
+- Reštartujte počítač a preinštalovať balík Office
+    
+- Inštalácia balíka Office pomocou [Office offline Inštalátor](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)
+    
+- Dočasne vypnúť nastavenia servera proxy
+    
+- Dočasne vypnite antivírusový softvér
+    
+- Dočasne vypnite bránu firewall
+    
+Viac informácií nájdete [kód chyby 30125-4 alebo 30125-1011 pri inštalácii balíka Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)
+  
+
