@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: sk-SK
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383465"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Odstránenie používateľov](/AlchemyInsights/deleting-users) | je |
 | 1/11/2019 | [Nasadiť bezšvové jediného prihlásenia](/AlchemyInsights/deploy-seamless-single-sign-on) | je |
 | 1/11/2019 | [Zakázať prístup na sieť Yammer](/AlchemyInsights/disable-access-to-yammer) | je |
+
+
+## <a name="week-of-january-14-2019"></a>Týždeň 14 januára 2019
+
+
+| Zverejnené na |Názov témy | Zmena |
+|------|------------|--------|
+| 1/14/2019 | Zástupných symbolov alchýmie | odstránené |
+| 1/14/2019 | Pridať doménu alchýmia | odstránené |
+| 1/14/2019 | [Alchýmia postrehy domov](/AlchemyInsights/index) | je |
+| 1/17/2019 | [rovnaký ako názov súboru je najlepšie [pravidlo #-Popis]](/AlchemyInsights/1-alchemy-insight-template) | pridané |
