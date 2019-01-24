@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383465"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454445"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383465"
 ## <a name="week-of-january-07-2019"></a>Týždeň január 07, 2019
 
 
-| Zverejnené na |Názov témy | Zmena |
+| Zverejnené na |Názov témy | Zmeniť. |
 |------|------------|--------|
 | 1/7/2019 | [Zmena hesla](/AlchemyInsights/change-your-password-in-outlook.com) | pridané |
 | 1/7/2019 | [Zmeniť povolenia pre poštovú schránku](/AlchemyInsights/changing-permissions-on-a-mailbox) | pridané |
@@ -302,7 +302,7 @@ ms.locfileid: "29383465"
 | 1/10/2019 | [Vytvoriť lokalitu komunikácie](/AlchemyInsights/create-a-communication-site) | pridané |
 | 1/10/2019 | [Vytvoriť tok](/AlchemyInsights/create-a-flow) | pridané |
 | 1/10/2019 | [Vytvorenie modernej tímovej lokality](/AlchemyInsights/create-a-modern-team-site) | pridané |
-| 1/10/2019 | [Vytvorenie zdieľanej poštovej schránky](/AlchemyInsights/create-a-shared-mailbox) | pridané |
+| 1/10/2019 | Vytvorenie zdieľanej poštovej schránky | pridané |
 | 1/10/2019 | [Vytvorenie lokality SharePoint](/AlchemyInsights/create-a-sharepoint-site) | pridané |
 | 1/10/2019 | [Vytvorenie lokality SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | pridané |
 | 1/10/2019 | [Vytvorenie a používanie zdieľanej poštovej schránky](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | pridané |
@@ -599,7 +599,7 @@ ms.locfileid: "29383465"
 | 1/11/2019 | [Vytvoriť lokalitu komunikácie](/AlchemyInsights/create-a-communication-site) | je |
 | 1/11/2019 | [Vytvoriť tok](/AlchemyInsights/create-a-flow) | je |
 | 1/11/2019 | [Vytvorenie modernej tímovej lokality](/AlchemyInsights/create-a-modern-team-site) | je |
-| 1/11/2019 | [Vytvorenie zdieľanej poštovej schránky](/AlchemyInsights/create-a-shared-mailbox) | je |
+| 1/11/2019 | Vytvorenie zdieľanej poštovej schránky | je |
 | 1/11/2019 | [Vytvorenie lokality SharePoint](/AlchemyInsights/create-a-sharepoint-site) | je |
 | 1/11/2019 | [Vytvorenie lokality SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | je |
 | 1/11/2019 | [Vytvorenie a používanie zdieľanej poštovej schránky](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | je |
@@ -637,7 +637,7 @@ ms.locfileid: "29383465"
 ## <a name="week-of-january-14-2019"></a>Týždeň 14 januára 2019
 
 
-| Zverejnené na |Názov témy | Zmena |
+| Zverejnené na |Názov témy | Zmeniť. |
 |------|------------|--------|
 | 1/14/2019 | Zástupných symbolov alchýmie | odstránené |
 | 1/14/2019 | Pridať doménu alchýmia | odstránené |
