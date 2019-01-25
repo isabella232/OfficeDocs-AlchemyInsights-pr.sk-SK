@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
 ms.openlocfilehash: b246b17a2809859b06841c262011e368e72c77b3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310823"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29488890"
 ---
 # <a name="restore-a-user-in-office-365"></a>Obnovenie používateľa v balíku Office 365
 

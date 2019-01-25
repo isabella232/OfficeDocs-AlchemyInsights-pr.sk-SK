@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
 ms.openlocfilehash: 2835e0665e602caaf793ec6bb78b0ee2cc43527e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310669"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29488484"
 ---
 Ak používatelia potrebujú prístup k poštovým schránkam než je ich vlastný, musia mať povolenia na prácu s týchto poštových schránok. Ako priradiť tieto povolenia, závisí od typu poštovej schránky. Ak používatelia potrebujú prístup k:
   

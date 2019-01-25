@@ -1,5 +1,5 @@
 ---
-title: Platobné možnosti
+title: Možnosti platby.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28311766"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489195"
 ---
- **Platobné možnosti**
+ Možnosti platby.
   
 Kreditnej karty, bankového účtu (inkasa) a faktúry (platiť šekom alebo elektronických prevodov peňažných prostriedkov)
   
@@ -32,7 +32,7 @@ Ak vaše predplatné stojí nad určitú sumu peňazí (Táto suma závisí od s
   
 Ak platíte faktúry za predplatné, dostanete e-mail, ktorý hovorí, výpise z účtu je pripravená na zobrazenie. Tento e-mail neobsahuje kópiu výpise z účtu. Však môžete nastaviť aj na [prijímanie kópiu výpise z účtu e-mailom](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Fakturačné vyhlásenie obsahuje podrobnosti o možnostiach platbe. Ak zadáte číslo nákupnej objednávky (PO), keď si kúpite predplatné, číslo sa objaví na výpise z účtu. Informácie o prístupe fakturačné vyhlásenia, zobrazenie [vášho účtu alebo faktúry](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Zmena spôsobu platby**
+ Zmena spôsobu platby.
   
 Ak by ste chceli zmeniť spôsob platby pre aktuálne predplatné, postupujte podľa pokynov [tu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
