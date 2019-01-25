@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310582"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29488415"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopírovať alebo presúvať položky v knižnici dokumentov lokality SharePoint
 
@@ -37,6 +37,6 @@ Môžete kopírovať a premiestňovať súbory, priečinky a odkazy na rôzne um
 3. Kliknite **tu skopírovať** alebo **presunúť sem**.
     
 > [!NOTE]
->  Môžete skopírovať až 500 MB súborov a priečinkov naraz. > Pri kopírovaní dokumentov, ktoré majú históriu verzií, skopíruje len najnovšiu verziu. Pri presúvaní dokumentov, ich História je tiež presunutý. 
+>  Môžete skopírovať až 500 MB súborov a priečinkov naraz. > pri kopírovaní dokumentov, ktoré majú histórie verzií, len Najnovšia verzia sa skopíruje. Pri presúvaní dokumentov, ich História je tiež presunutý. 
   
 
