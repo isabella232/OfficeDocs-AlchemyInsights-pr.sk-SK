@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
 ms.openlocfilehash: e34dac731fd80c8b0b66ac2a298b678b30b061cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28311856"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489348"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Neponižuj mě upgrade. Ako môžem vrátiť späť k predchádzajúcej verzii balíka Office?
 

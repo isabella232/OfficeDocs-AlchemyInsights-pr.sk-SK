@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
 ms.openlocfilehash: 8c708fd3595a1388411c6188ea3b9342476895a9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310634"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29488344"
 ---
 # <a name="add-a-user-to-office-365"></a>Pridanie používateľa do služby Office 365
 
@@ -28,6 +28,6 @@ Tieto kroky môžete použiť na pridanie používateľa do služby Office 365:
     
 3. Zadajte informácie pre používateľa. Keď skončíte, vyberte položku **Pridať** . 
     
-[Prečítajte si viac...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+Ďalšie informácie
   
 
