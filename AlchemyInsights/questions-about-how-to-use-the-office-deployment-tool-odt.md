@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: c16b7ac7d79794307fa33ed1039305ed5b842cf6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310600"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29488967"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="2e8d7-102">Otázky o tom, ako používať Office Deployment Tool (ODT)</span><span class="sxs-lookup"><span data-stu-id="2e8d7-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="43059-102">Otázky o tom, ako používať Office Deployment Tool (ODT)</span><span class="sxs-lookup"><span data-stu-id="43059-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="2e8d7-103">Stiahnuť Office nasadenia nástroj z [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="2e8d7-103">Download the Office Deployment Tool from the [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="43059-103">Stiahnuť Office nasadenia nástroj z [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="43059-103">Download the Office Deployment Tool from the [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="2e8d7-104">Po stiahnutí súboru, spustite samorozbaľovací spustiteľný súbor, ktorý obsahuje Office nasadenia nástroj spustiteľný (setup.exe) a ukážkový konfiguračný súbor (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="2e8d7-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="43059-104">Po stiahnutí súboru, spustite samorozbaľovací spustiteľný súbor, ktorý obsahuje Office nasadenia nástroj spustiteľný (setup.exe) a ukážkový konfiguračný súbor (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="43059-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="2e8d7-105">**Ak chcete vylúčiť alebo odstrániť Office 365 ProPlus produkty z klientskych počítačov:**</span><span class="sxs-lookup"><span data-stu-id="2e8d7-105">**To exclude or remove Office 365 ProPlus products from client computers:**</span></span>
+ <span data-ttu-id="43059-105">**Ak chcete vylúčiť alebo odstrániť Office 365 ProPlus produkty z klientskych počítačov:**</span><span class="sxs-lookup"><span data-stu-id="43059-105">**To exclude or remove Office 365 ProPlus products from client computers:**</span></span>
   
-<span data-ttu-id="2e8d7-p101">Pri inštalácii balíka Office 365 ProPlus, môžete vylúčiť konkrétne produkty. Tak chcete urobiť, postupujte podľa krokov na inštaláciu balíka Office s ODT, ale obsahujú ExcludeApp prvok v konfiguračnom súbore. Napríklad tento konfiguračný súbor nainštaluje všetky Office 365 ProPlus výrobky okrem Vydavateľ:</span><span class="sxs-lookup"><span data-stu-id="2e8d7-p101">When installing Office 365 ProPlus, you can exclude specific products. To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file. For example, this configuration file installs all the Office 365 ProPlus products except Publisher:</span></span>
+<span data-ttu-id="43059-p101">Pri inštalácii balíka Office 365 ProPlus, môžete vylúčiť konkrétne produkty. Tak chcete urobiť, postupujte podľa krokov na inštaláciu balíka Office s ODT, ale obsahujú ExcludeApp prvok v konfiguračnom súbore. Napríklad tento konfiguračný súbor nainštaluje všetky Office 365 ProPlus výrobky okrem Vydavateľ:</span><span class="sxs-lookup"><span data-stu-id="43059-p101">When installing Office 365 ProPlus, you can exclude specific products. To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file. For example, this configuration file installs all the Office 365 ProPlus products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ ms.locfileid: "28310600"
 </Add>
 ```
 
-[<span data-ttu-id="2e8d7-109">Prehľad nástroja nasadenia Office</span><span class="sxs-lookup"><span data-stu-id="2e8d7-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[<span data-ttu-id="43059-109">Prehľad nástroja nasadenia Office</span><span class="sxs-lookup"><span data-stu-id="43059-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 
