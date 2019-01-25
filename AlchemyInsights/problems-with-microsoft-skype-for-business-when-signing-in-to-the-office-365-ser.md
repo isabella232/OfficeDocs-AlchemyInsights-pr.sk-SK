@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Ak máte problémy s prihlásením na Skype for Business, môžete riešiť s Support and Recovery Assistant (SaRA). Tento nástroj umožňuje automaticky diagnostikovať a opraviť rad známe problémy týkajúce sa prihlásenia Skype for Business.
 ms.openlocfilehash: 53ed1ac82ed5d731e987fcc0a0350cab511d05a7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28311706"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29488772"
 ---
 Ak máte problémy s prihlásením na Skype for Business, môžete riešiť s Support and Recovery Assistant (SaRA). Tento nástroj umožňuje automaticky diagnostikovať a opraviť rad známe problémy týkajúce sa prihlásenia Skype for Business.
   
