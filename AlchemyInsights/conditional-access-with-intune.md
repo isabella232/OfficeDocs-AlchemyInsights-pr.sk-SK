@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310702"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489140"
 ---
 # <a name="conditional-access-with-intune"></a>Podmienený prístup so službou Intune
 
@@ -25,7 +25,7 @@ Používanie **Podmieneného prístupu** s Intune vyžaduje 3 kroky:
     
 - Zabezpečiť **Súlad politík** a **Podmieneného prístupu politiky** sú zamerané na požadovanej skupiny používateľov. To môže vyžadovať vytvorenie konkrétnym skupinám používateľov Azure Active Directory. 
     
-Prečítajte si viac:
+Ďalšie informácie
   
 - [Podmieneného prístupu osvedčených postupov](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
     

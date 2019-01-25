@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
 ms.openlocfilehash: 506287d5ecc7a725d490b3cdc32c3ab45373ffba
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310597"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29488422"
 ---
 Keď je zapnutá archívnej poštovej schránky, môžete použiť **eDiscovery vyhľadávanie a exportovať** zistiť obsah v primárnej a Archív poštových schránok. Informácie o používaní **eDiscovery Hľadať Export** nájsť obsah, postupujte kroky uvedené [tu](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
   
