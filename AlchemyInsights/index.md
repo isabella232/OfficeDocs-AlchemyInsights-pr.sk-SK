@@ -10,10 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: c41104c5d386fa4054467767d80dd946eecf15bb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9da9d4090dc0e3130a30631e9cf5160366a021f3
+ms.sourcegitcommit: 438a5425367e36daed58df11c64df5ed3c55887d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488373"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612614"
 ---
+# <a name="alchemy-insights"></a><span data-ttu-id="774f7-102">Alchýmia postrehy</span><span class="sxs-lookup"><span data-stu-id="774f7-102">Alchemy Insights</span></span>
+
+<span data-ttu-id="774f7-103">Táto knižnica je vyhradená pre obsah Pomocníka v aplikácii.</span><span class="sxs-lookup"><span data-stu-id="774f7-103">This library is reserved for in-app help content.</span></span>
