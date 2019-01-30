@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454445"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454445"
 ## <a name="week-of-january-07-2019"></a>Týždeň január 07, 2019
 
 
-| Zverejnené na |Názov témy | Zmeniť. |
+| Zverejnené na |Názov témy | Zmena |
 |------|------------|--------|
 | 1/7/2019 | [Zmena hesla](/AlchemyInsights/change-your-password-in-outlook.com) | pridané |
 | 1/7/2019 | [Zmeniť povolenia pre poštovú schránku](/AlchemyInsights/changing-permissions-on-a-mailbox) | pridané |
@@ -302,7 +294,7 @@ ms.locfileid: "29454445"
 | 1/10/2019 | [Vytvoriť lokalitu komunikácie](/AlchemyInsights/create-a-communication-site) | pridané |
 | 1/10/2019 | [Vytvoriť tok](/AlchemyInsights/create-a-flow) | pridané |
 | 1/10/2019 | [Vytvorenie modernej tímovej lokality](/AlchemyInsights/create-a-modern-team-site) | pridané |
-| 1/10/2019 | Vytvorenie zdieľanej poštovej schránky | pridané |
+| 1/10/2019 | [Vytvorenie zdieľanej poštovej schránky](/AlchemyInsights/create-a-shared-mailbox) | pridané |
 | 1/10/2019 | [Vytvorenie lokality SharePoint](/AlchemyInsights/create-a-sharepoint-site) | pridané |
 | 1/10/2019 | [Vytvorenie lokality SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | pridané |
 | 1/10/2019 | [Vytvorenie a používanie zdieľanej poštovej schránky](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | pridané |
@@ -599,7 +591,7 @@ ms.locfileid: "29454445"
 | 1/11/2019 | [Vytvoriť lokalitu komunikácie](/AlchemyInsights/create-a-communication-site) | je |
 | 1/11/2019 | [Vytvoriť tok](/AlchemyInsights/create-a-flow) | je |
 | 1/11/2019 | [Vytvorenie modernej tímovej lokality](/AlchemyInsights/create-a-modern-team-site) | je |
-| 1/11/2019 | Vytvorenie zdieľanej poštovej schránky | je |
+| 1/11/2019 | [Vytvorenie zdieľanej poštovej schránky](/AlchemyInsights/create-a-shared-mailbox) | je |
 | 1/11/2019 | [Vytvorenie lokality SharePoint](/AlchemyInsights/create-a-sharepoint-site) | je |
 | 1/11/2019 | [Vytvorenie lokality SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | je |
 | 1/11/2019 | [Vytvorenie a používanie zdieľanej poštovej schránky](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | je |
@@ -637,9 +629,25 @@ ms.locfileid: "29454445"
 ## <a name="week-of-january-14-2019"></a>Týždeň 14 januára 2019
 
 
-| Zverejnené na |Názov témy | Zmeniť. |
+| Zverejnené na |Názov témy | Zmena |
 |------|------------|--------|
 | 1/14/2019 | Zástupných symbolov alchýmie | odstránené |
 | 1/14/2019 | Pridať doménu alchýmia | odstránené |
 | 1/14/2019 | [Alchýmia postrehy domov](/AlchemyInsights/index) | je |
 | 1/17/2019 | [rovnaký ako názov súboru je najlepšie [pravidlo #-Popis]](/AlchemyInsights/1-alchemy-insight-template) | pridané |
+
+
+## <a name="week-of-january-21-2019"></a>Týždeň 21 januára 2019
+
+
+| Zverejnené na |Názov témy | Zmena |
+|------|------------|--------|
+| 1/22/2019 | [1047 antiSpam 550 5.7.708 služba nedostupná. Prístup odmietnutý, prevádzka neprijímajú z tejto IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | je |
+| 1/22/2019 | [1049 antiSpam 4.5.3 príliš veľa príjemcov (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | je |
+| 1/22/2019 | [1050 antispam 4.7.500 Server je zaneprázdnený. Prosím skúste to znova neskôr od [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | je |
+| 1/22/2019 | [1051 antispam 4.7.500 prístup odmietnutý, prosím skúste to znova neskôr](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | je |
+| 1/22/2019 | [Relé pošty prostredníctvom služieb Office 365](/AlchemyInsights/relay-email-through-office-365) | je |
+| 1/24/2019 | [Vytvorenie ovládacieho prvku skupín](/AlchemyInsights/control-creation-of-groups) | je |
+| 1/24/2019 | [Problémy programu Outlook s Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | pridané |
+| 1/24/2019 | [Obnoviť Office 365 skupiny pomocou výmeny admin center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | premenovať |
+| 1/24/2019 | [Riešenie problémov s Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | premenovať |
