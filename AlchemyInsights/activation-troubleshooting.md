@@ -2,44 +2,28 @@
 title: Riešenie problémov s aktiváciou
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Začnite Váš článok veľmi stručný úvod (1 veta). Vžite sa do čitateľskej miesto - prečo sú tu? Čo by mali robiť?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498281"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646974"
 ---
-<span data-ttu-id="05ad2-p102">Začnite Váš článok veľmi stručný úvod (1 veta). Vžite sa do čitateľskej miesto - prečo sú tu? Čo by mali robiť?</span><span class="sxs-lookup"><span data-stu-id="05ad2-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
-  
-1. <span data-ttu-id="05ad2-108">Zoberte rýchly zoznam krokov pre splnenie úlohy.</span><span class="sxs-lookup"><span data-stu-id="05ad2-108">Get straight to a quick list of steps to accomplish the task.</span></span>
-    
-    <span data-ttu-id="05ad2-109">Ak potrebujete vysvetliť pojem, alebo majú urobiť predpokladom kroky, pridať stručné zhrnutie nižšie krok, kde potrebujú, a [odkaz](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) na koncept alebo kroky.</span><span class="sxs-lookup"><span data-stu-id="05ad2-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
-    
-2. <span data-ttu-id="05ad2-110">Majte postupy short - najlepšie 5 alebo menej krokov, nie viac ako 8.</span><span class="sxs-lookup"><span data-stu-id="05ad2-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
-    
-3. <span data-ttu-id="05ad2-111">Použiť **štýl používateľského rozhrania** pre používateľské rozhranie prvky alebo text ľudia musieť zadať.</span><span class="sxs-lookup"><span data-stu-id="05ad2-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
-    
-4. <span data-ttu-id="05ad2-112">Použitie slovesami vybrať, vyberte, alebo zadať ako akcie a formátovanie menu ako **Menu** \> **príkaz**.</span><span class="sxs-lookup"><span data-stu-id="05ad2-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
-    
-5. <span data-ttu-id="05ad2-113">Voliteľne pridať snímku pre kontext (ak UI je ťažké nájsť, alebo je potrebné na dokončenie úlohy).</span><span class="sxs-lookup"><span data-stu-id="05ad2-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
-    
-    <span data-ttu-id="05ad2-p103">Maximálna šírka: 520 pixelov. Použite štandardný motív, Zobraziť žiadne osobné informácie a nie orezať Ukázať, len čo je dôležité.</span><span class="sxs-lookup"><span data-stu-id="05ad2-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
-    
-    ![Zástupný symbol - maximálna šírka pre SOC článku umenie je 520 pixelov](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-<span data-ttu-id="05ad2-117">Ak chcete pridať video či snímku, použite dva stĺpce mriežky a krokov doľava a video alebo obrázok v pravom - pozri [kroky a príklad video mriežky](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span><span class="sxs-lookup"><span data-stu-id="05ad2-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
-  
-<span data-ttu-id="05ad2-118">Zacieliť na viac ako 500 slov za článok.</span><span class="sxs-lookup"><span data-stu-id="05ad2-118">Target no more than 500 words for an article.</span></span>
-  
-# <a name="example-article"></a><span data-ttu-id="05ad2-119">Napríklad článok</span><span class="sxs-lookup"><span data-stu-id="05ad2-119">Example article</span></span>
+# <a name="activation-troubleshooting"></a><span data-ttu-id="9c7b7-102">Riešenie problémov s aktiváciou</span><span class="sxs-lookup"><span data-stu-id="9c7b7-102">Activation troubleshooting</span></span>
 
-[<span data-ttu-id="05ad2-120">Zmeniť moju fotku</span><span class="sxs-lookup"><span data-stu-id="05ad2-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+<span data-ttu-id="9c7b7-p101">V **Ovládacom paneli** \> **programy a súčasti**, vyhľadajte úradu. Mali by ste vidieť Microsoft Office 365 ProPlus alebo Microsoft Office 365 Business. Ak uvidíte viac ako jednu verziu balíka Office uvedené, odinštalujte verziu nepoužívate.</span><span class="sxs-lookup"><span data-stu-id="9c7b7-p101">In **Control Panel** \> **Programs and Features**, search for Office. You should see Microsoft Office 365 ProPlus or Microsoft Office 365 Business. If you see more than one version of Office listed, uninstall the version you aren't using.</span></span> 
   
-
+<span data-ttu-id="9c7b7-106">Ak nemôžete odinštalovať úspešne pomocou ovládacieho panela, použite [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) odinštalovať verziu nepoužívate.</span><span class="sxs-lookup"><span data-stu-id="9c7b7-106">If you can't uninstall successfully using the Control Panel, use the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) to uninstall the version you aren't using.</span></span> 
+  
+<span data-ttu-id="9c7b7-p102">Ak úrad je stále bez licencie, ísť späť do **Ovládacieho panela** \> **programy a súčasti**. Kliknite pravým tlačidlom myši zostávajúce Office nainštalovať, vyberte **Upraviť** (alebo zmeniť) a potom vyberte **Opravu Online**. Opravy online môže trvať dlhšie. Potom reštartujte Office a prihláste sa pomocou vášho pracovného alebo školské konto, ak výzva.</span><span class="sxs-lookup"><span data-stu-id="9c7b7-p102">If Office is still unlicensed, go back to the **Control Panel** \> **Programs and Features**. Right-click the remaining Office install, select **Modify** (or Change), and then select **Online Repair**. The online repair might take awhile. Then, restart Office and sign in using your work or school account, if prompted.</span></span>
+  
+<span data-ttu-id="9c7b7-111">Ak úrad je stále bez licencie, prevezmite a spustite [aktiváciu poradcu](https://aka.ms/SARA-OfficeActivation-Alchemy) na postihnuté stroj opraviť problémy s aktiváciou.</span><span class="sxs-lookup"><span data-stu-id="9c7b7-111">If Office is still unlicensed, download and then run the [Activation troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) on the affected machine to fix the activation issues.</span></span> 
+  
+<span data-ttu-id="9c7b7-112">Ďalšie informácie nájdete v téme: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span><span class="sxs-lookup"><span data-stu-id="9c7b7-112">For more information, see: [Unlicensed Product and activation errors in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>

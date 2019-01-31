@@ -2,51 +2,30 @@
 title: Vymazať lokalitu SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489199"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660031"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="610f9-102">Vymazať lokalitu SharePoint</span><span class="sxs-lookup"><span data-stu-id="610f9-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="610f9-103">**Odstrániť lokality, ktoré patria do skupiny Office 365:**</span><span class="sxs-lookup"><span data-stu-id="610f9-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="76f9f-102">Vymazať lokalitu SharePoint</span><span class="sxs-lookup"><span data-stu-id="76f9f-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="76f9f-103">**Odstránenie lokality z nového SharePoint admin center**</span><span class="sxs-lookup"><span data-stu-id="76f9f-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="610f9-p101">Pri vytvorení novej lokality tímu z SharePoint domova (alebo vytváraní novej lokality tímu z nového SharePoint admin center náhľadu), automaticky sa vytvorí zodpovedajúce skupiny Office 365. Office 365 skupiny pripojené tímové lokality vytvorené aj pri vytváraní skupiny Office 365 alebo tím v Microsoft Teams. Ak chcete odstrániť lokalitu SharePoint, ktorý patrí do skupiny Office 365, musíte odstrániť samotnej skupiny Office 365.</span><span class="sxs-lookup"><span data-stu-id="610f9-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="76f9f-p101">Odstránenie aktívna lokalita, prejsť na aktuálne SharePoint admin center, kliknite na tlačidlo "Skúste to teraz" v pravom hornom rohu. Vyberte **aktívne stránky**, vyberte lokalitu a potom vyberte **odstrániť**. [Zobraziť a obnoviť odstránené lokalít v nových SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte **Odstránené stránky**. Pre viac informácií, pozri [Spravovať lokality nové SharePoint admin Center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="76f9f-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="610f9-107">Prejdite na [stránku skupiny Office 365 admin Center](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="610f9-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="76f9f-p102">**Dôležité:** Ak lokalita súčasťou politiky uchovávania údajov, nie je možné odstrániť, kým miesto je odstránený z [bezpečnosť &amp; súlad Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). Viac informácií nájdete v časti [Prehľad politiky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .</span><span class="sxs-lookup"><span data-stu-id="76f9f-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="610f9-108">Začiarknite políčko vedľa skupiny.</span><span class="sxs-lookup"><span data-stu-id="610f9-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="610f9-109">Vyberte položku **odstrániť**.</span><span class="sxs-lookup"><span data-stu-id="610f9-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="610f9-110">Poznámka: Ak chcete odstrániť skupinu, môžu existovať oneskorenie pred stránky je odstránený z lokality SharePoint.</span><span class="sxs-lookup"><span data-stu-id="610f9-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="610f9-111">**Odstránenie oznámení alebo klasické miestami:**</span><span class="sxs-lookup"><span data-stu-id="610f9-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="610f9-112">Prejdite na lokalitu.</span><span class="sxs-lookup"><span data-stu-id="610f9-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="610f9-113">Kliknite na položku \*\* Nastavenia \*\* (ozubené koleso ikona) v pravom hornom rohu.</span><span class="sxs-lookup"><span data-stu-id="610f9-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="610f9-p102">Kliknite na položku **Nastavenie lokality**. Podľa **Informácie lokality** alebo **Akcie lokality**kliknite na položku **odstrániť túto lokalitu**a potom kliknite na tlačidlo **odstrániť**.</span><span class="sxs-lookup"><span data-stu-id="610f9-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="610f9-116">**Odstrániť kolekciu lokalít SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="610f9-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="610f9-117">Na odstránenie tejto klasickej kolekcie:</span><span class="sxs-lookup"><span data-stu-id="610f9-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="610f9-118">Klasické SharePoint admin Center, na stránke kolekcie lokalít, začiarknite **políčko** vedľa kolekcii.</span><span class="sxs-lookup"><span data-stu-id="610f9-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="610f9-119">Na karte kolekcie lokalít začiarknite **odstrániť.**</span><span class="sxs-lookup"><span data-stu-id="610f9-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="610f9-120">**Stránky odstránené pri nehode?**</span><span class="sxs-lookup"><span data-stu-id="610f9-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="610f9-121">V téme [Obnovenie odstránených lokalít](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="610f9-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="76f9f-110">Tipy:</span><span class="sxs-lookup"><span data-stu-id="76f9f-110">Tips:</span></span>
+- <span data-ttu-id="76f9f-p103">Globálne admin a správcovia SharePoint teraz môžete odstrániť stránky, ktoré patria do **Skupiny Office 365**. Týmto odstránite skupina a všetkých jeho zdrojov, vrátane poštových schránok programu Outlook a kalendár a všetky tímy kanály. Ďalšie informácie nájdete v téme [Odstránenie lokality SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="76f9f-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="76f9f-p104">Môžete obnoviť odstránené lokalít pre 93 dní. Všimnite si, že odstránené skupiny musí byť obnovený do 30 dní. Ďalšie informácie nájdete v téme [Zobraziť a obnoviť odstránené stránky](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="76f9f-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="76f9f-117">Úplné odstránenie lokality pomocou prostredia Powershell, pozri príklad cmdlet [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) .</span><span class="sxs-lookup"><span data-stu-id="76f9f-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 
