@@ -2,51 +2,30 @@
 title: Vymazať lokalitu SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489199"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660031"
 ---
 # <a name="delete-a-sharepoint-site"></a>Vymazať lokalitu SharePoint
-
- **Odstrániť lokality, ktoré patria do skupiny Office 365:**
+ **Odstránenie lokality z nového SharePoint admin center**
   
-Pri vytvorení novej lokality tímu z SharePoint domova (alebo vytváraní novej lokality tímu z nového SharePoint admin center náhľadu), automaticky sa vytvorí zodpovedajúce skupiny Office 365. Office 365 skupiny pripojené tímové lokality vytvorené aj pri vytváraní skupiny Office 365 alebo tím v Microsoft Teams. Ak chcete odstrániť lokalitu SharePoint, ktorý patrí do skupiny Office 365, musíte odstrániť samotnej skupiny Office 365. 
+Odstránenie aktívna lokalita, prejsť na aktuálne SharePoint admin center, kliknite na tlačidlo "Skúste to teraz" v pravom hornom rohu. Vyberte **aktívne stránky**, vyberte lokalitu a potom vyberte **odstrániť**. [Zobraziť a obnoviť odstránené lokalít v nových SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte **Odstránené stránky**. Pre viac informácií, pozri [Spravovať lokality nové SharePoint admin Center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Prejdite na [stránku skupiny Office 365 admin Center](https://portal.office.com/adminportal/home#/groups).
+**Dôležité:** Ak lokalita súčasťou politiky uchovávania údajov, nie je možné odstrániť, kým miesto je odstránený z [bezpečnosť &amp; súlad Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). Viac informácií nájdete v časti [Prehľad politiky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Začiarknite políčko vedľa skupiny.
-  
-3. Vyberte položku **odstrániť**. 
-  
-Poznámka: Ak chcete odstrániť skupinu, môžu existovať oneskorenie pred stránky je odstránený z lokality SharePoint.
-  
- **Odstránenie oznámení alebo klasické miestami:**
-  
-1. Prejdite na lokalitu.
-  
-2. Kliknite na položku ** Nastavenia ** (ozubené koleso ikona) v pravom hornom rohu. 
-  
-3. Kliknite na položku **Nastavenie lokality**. Podľa **Informácie lokality** alebo **Akcie lokality**kliknite na položku **odstrániť túto lokalitu**a potom kliknite na tlačidlo **odstrániť**. 
-  
- **Odstrániť kolekciu lokalít SharePoint:**
-  
-Na odstránenie tejto klasickej kolekcie:
-  
-1. Klasické SharePoint admin Center, na stránke kolekcie lokalít, začiarknite **políčko** vedľa kolekcii. 
-  
-2. Na karte kolekcie lokalít začiarknite **odstrániť.**
-  
- **Stránky odstránené pri nehode?**
-  
-V téme [Obnovenie odstránených lokalít](https://go.microsoft.com/fwlink/?linkid=867660).
+Tipy:
+- Globálne admin a správcovia SharePoint teraz môžete odstrániť stránky, ktoré patria do **Skupiny Office 365**. Týmto odstránite skupina a všetkých jeho zdrojov, vrátane poštových schránok programu Outlook a kalendár a všetky tímy kanály. Ďalšie informácie nájdete v téme [Odstránenie lokality SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Môžete obnoviť odstránené lokalít pre 93 dní. Všimnite si, že odstránené skupiny musí byť obnovený do 30 dní. Ďalšie informácie nájdete v téme [Zobraziť a obnoviť odstránené stránky](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Úplné odstránenie lokality pomocou prostredia Powershell, pozri príklad cmdlet [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) . 
   
 

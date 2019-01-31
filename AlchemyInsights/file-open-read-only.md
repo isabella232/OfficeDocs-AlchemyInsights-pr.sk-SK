@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499541"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661802"
 ---
 # <a name="file-open-read-only"></a>Súbor otvorí iba na čítanie
 
@@ -30,7 +30,7 @@ Vlastnosti súboru môžete skontrolovať kliknutím pravým tlačidlom myši na
   
  **Obsah je v chránenom zobrazení**
   
-Súbory z internetu a z iných potenciálne nebezpečných umiestnení môžu obsahovať vírusy, červy alebo iné druhy škodlivého softvéru, ktorý môže poškodiť počítač. To je tiež bežne v prípade príloh e-mailu alebo súbory prevzaté. Na ochranu počítača sú otvorené súbory z týchto potenciálne nebezpečných umiestnení v chránenom zobrazení. V chránenom zobrazení, môžete čítať súbor a zobraziť jeho obsah súčasne znižujete riziká. Pre viac informácií o chránené zobrazenie a Zmena nastavení, pozrite si tento článok: [čo je chránené zobrazenie?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Súbory z internetu a z iných potenciálne nebezpečných umiestnení môžu obsahovať vírusy, červy alebo iné druhy škodlivého softvéru, ktorý môže poškodiť počítač. To je tiež bežne v prípade príloh e-mailu alebo súbory prevzaté. Na ochranu počítača sú otvorené súbory z týchto potenciálne nebezpečných umiestnení v chránenom zobrazení. V chránenom zobrazení, môžete čítať súbor a zobraziť jeho obsah súčasne znižujete riziká. Pre viac informácií o chránené zobrazenie a Zmena nastavení, pozrite si tento článok: [čo je chránené zobrazenie?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive je plná?**
   
@@ -38,7 +38,7 @@ Ak súbor je uložený na OneDrive a OneDrive ukladací priestor je plný, nebud
   
  **Je aktivovaný Office?**
   
-Ak Office nie je aktivovaná, alebo ak vaše predplatné skončila, mohol byť v read-only režime s obmedzenou funkčnosťou. Informácie o tom, ako aktivovať Office nájdete: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Ak Office nie je aktivovaná, alebo ak vaše predplatné skončila, mohol byť v read-only režime s obmedzenou funkčnosťou. Informácie o tom, ako aktivovať Office nájdete: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Ak všetko ostatné zlyhá...**
   

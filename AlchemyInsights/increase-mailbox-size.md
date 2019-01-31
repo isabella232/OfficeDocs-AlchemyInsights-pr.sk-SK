@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488318"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661658"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Prepínač plánuje zvýšiť veľkosť poštovej schránky
 
 Ak veľkosť poštovej schránky je už 100 GB, neexistuje žiadny spôsob, ako ju zvýšiť. V takom prípade postupujte podľa [tohto odporúčania](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Ak veľkosť poštovej schránky 50 GB, môžete zvýšiť na 100 GB prechod na [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) alebo [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Tu sú kroky, ak chcete prepnúť na iný plán služieb Office 365:
+Ak veľkosť poštovej schránky 50 GB, môžete zvýšiť na 100 GB prechod na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) alebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu sú kroky, ak chcete prepnúť na iný plán služieb Office 365:
   
 1. Office 365 admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
     

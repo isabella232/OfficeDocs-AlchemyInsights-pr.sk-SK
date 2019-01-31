@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 3ee77c3c4f625a6c0e7e712dbed670383847f788
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ab06154f65190ba04ee61cfcb2a1636e07535d01
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488309"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662105"
 ---
 # <a name="set-passwords-to-never-expire"></a>Nastaviť heslo nikdy skončí
 
 Nastaviť heslo nikdy skončí z [zabezpečenia &amp; ochrany](https://portal.office.com/adminportal/home#/settings/security). Kliknite na "Upraviť" vedľa politika hesla, a zase jazdca na "on".
   
-Podrobnejšie informácie nájdete: [Nastavenie politiky uplynutia platnosti hesla pre vašu organizáciu](https://support.office.com/en-us/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
+Podrobnejšie informácie nájdete: [Nastavenie politiky uplynutia platnosti hesla pre vašu organizáciu](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
   
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489292"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661226"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Ako zmeniť z platby kreditnou kartou na faktúru?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29489292"
 2. Vyberte na predplatné, ktoré chcete zmeniť. V časti **spôsob platby** vyberte **zmeniť platobné Podrobnosti**.
     
 3. **Zmeniť platobné Podrobnosti** table, vyberte **zmeniť spôsob platby**.
-    
-    > [!TIP]
-    > Ak na prepojenie **zmeniť spôsob platby** nezobrazuje, znamená to, že prechod z kreditnej karty alebo bankového konta na fakturáciu nie je k dispozícii pre upisovanie pretože predplatné nespĺňa minimálne náklady suma fakturácie faktúry. Minimálnych nákladov sumu potrebnú na úhradu faktúry sa líši podľa geografickej polohy. 
+<br>*Poznámka: Ak odkaz **zmeniť spôsob platby** nezobrazuje, znamená to, že prechod z kreditnej karty alebo bankového konta na fakturáciu nie je k dispozícii pre upisovanie pretože predplatné nespĺňa minimálne náklady suma fakturácie faktúry. Minimálnych nákladov sumu potrebnú na úhradu faktúry sa líši podľa geografickej polohy.*
   
 4. V ** zmeniť spôsob platby ** dialógové okno, vyberte **pokračovať**.
     
 5. Vyberte **OK** sa vrátite do centra spravovania. 
-    
-
+   

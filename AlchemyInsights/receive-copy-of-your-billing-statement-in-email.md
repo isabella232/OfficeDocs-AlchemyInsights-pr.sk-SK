@@ -6,16 +6,18 @@ manager: mnirkhe
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c9ccae554ac802966dd7efe27548c9d39cf573dc
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488997"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646506"
 ---
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Dostanete kópiu výpise z účtu e-mailom
 Môžete získať kópiu výpise z účtu ako prílohu e-mailu. Ak ste byť vedomí, že:
   
 - E-mail sa odošle ako primárny a alternatívny e-mailovú adresu pre každého človeka je uvedené upozornenie.

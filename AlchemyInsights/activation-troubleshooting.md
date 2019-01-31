@@ -2,44 +2,28 @@
 title: Riešenie problémov s aktiváciou
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Začnite Váš článok veľmi stručný úvod (1 veta). Vžite sa do čitateľskej miesto - prečo sú tu? Čo by mali robiť?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498281"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646974"
 ---
-Začnite Váš článok veľmi stručný úvod (1 veta). Vžite sa do čitateľskej miesto - prečo sú tu? Čo by mali robiť? 
-  
-1. Zoberte rýchly zoznam krokov pre splnenie úlohy.
-    
-    Ak potrebujete vysvetliť pojem, alebo majú urobiť predpokladom kroky, pridať stručné zhrnutie nižšie krok, kde potrebujú, a [odkaz](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) na koncept alebo kroky. 
-    
-2. Majte postupy short - najlepšie 5 alebo menej krokov, nie viac ako 8.
-    
-3. Použiť **štýl používateľského rozhrania** pre používateľské rozhranie prvky alebo text ľudia musieť zadať. 
-    
-4. Použitie slovesami vybrať, vyberte, alebo zadať ako akcie a formátovanie menu ako **Menu** \> **príkaz**.
-    
-5. Voliteľne pridať snímku pre kontext (ak UI je ťažké nájsť, alebo je potrebné na dokončenie úlohy).
-    
-    Maximálna šírka: 520 pixelov. Použite štandardný motív, Zobraziť žiadne osobné informácie a nie orezať Ukázať, len čo je dôležité. 
-    
-    ![Zástupný symbol - maximálna šírka pre SOC článku umenie je 520 pixelov](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Ak chcete pridať video či snímku, použite dva stĺpce mriežky a krokov doľava a video alebo obrázok v pravom - pozri [kroky a príklad video mriežky](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Zacieliť na viac ako 500 slov za článok.
-  
-# <a name="example-article"></a>Napríklad článok
+# <a name="activation-troubleshooting"></a>Riešenie problémov s aktiváciou
 
-[Zmeniť moju fotku](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+V **Ovládacom paneli** \> **programy a súčasti**, vyhľadajte úradu. Mali by ste vidieť Microsoft Office 365 ProPlus alebo Microsoft Office 365 Business. Ak uvidíte viac ako jednu verziu balíka Office uvedené, odinštalujte verziu nepoužívate. 
   
-
+Ak nemôžete odinštalovať úspešne pomocou ovládacieho panela, použite [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) odinštalovať verziu nepoužívate. 
+  
+Ak úrad je stále bez licencie, ísť späť do **Ovládacieho panela** \> **programy a súčasti**. Kliknite pravým tlačidlom myši zostávajúce Office nainštalovať, vyberte **Upraviť** (alebo zmeniť) a potom vyberte **Opravu Online**. Opravy online môže trvať dlhšie. Potom reštartujte Office a prihláste sa pomocou vášho pracovného alebo školské konto, ak výzva.
+  
+Ak úrad je stále bez licencie, prevezmite a spustite [aktiváciu poradcu](https://aka.ms/SARA-OfficeActivation-Alchemy) na postihnuté stroj opraviť problémy s aktiváciou. 
+  
+Ďalšie informácie nájdete v téme: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
