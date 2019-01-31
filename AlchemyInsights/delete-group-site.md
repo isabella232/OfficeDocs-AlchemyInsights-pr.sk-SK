@@ -3,31 +3,30 @@ title: Odstrániť skupinu stránok
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489316"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660686"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Vymazať lokalitu SharePoint, ktorý patrí do skupiny Office 365
 
-Pri vytvorení novej lokality tímu z SharePoint domova (alebo vytváraní novej lokality tímu z nového SharePoint admin center náhľadu), automaticky sa vytvorí zodpovedajúce skupiny Office 365. Office 365 skupiny pripojené tímové lokality vytvorené aj pri vytváraní skupiny Office 365 alebo tím v Microsoft Teams. Ak chcete odstrániť lokalitu SharePoint, ktorý patrí do skupiny Office 365, musíte odstrániť samotnej skupiny Office 365. 
+Globálne administrátorov a správcovia SharePoint môžete odstrániť stránky, ktoré patria do skupiny Office 365. Odstránením týchto stránok odstránite skupina a všetkých jeho zdrojov, vrátane poštových schránok programu Outlook a kalendár a všetky tímy kanály.
   
-1. Prejdite na [stránku skupiny Office 365 admin Center](https://portal.office.com/adminportal/home#/groups).
-    
-2. Začiarknite políčko vedľa skupiny.
-    
-3. Vyberte položku **odstrániť**.
-    
-Poznámka: Ak chcete odstrániť skupinu, môžu existovať oneskorenie pred stránky je odstránený z lokality SharePoint.
+Dôležité:
+- Môžete obnoviť odstránené lokalít pre 93 dní. Ďalšie informácie nájdete v téme Zobrazenie a obnovenie odstránených lokalít. Všimnite si, že odstránené skupiny musí byť obnovený do 30 dní. 
+- Ak lokalita súčasťou politiky uchovávania údajov, nie je možné odstrániť, kým miesto je odstránený z [bezpečnosť &amp; súlad Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Viac informácií nájdete v časti [Prehľad politiky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+  
+[Zobraziť a obnoviť odstránené lokalít v nových SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte **Odstránené stránky**. Vyberte lokalitu, ktorá bola odstránená a obnoviť alebo odstrániť, (ktorá bude natrvalo odstrániť lokalitu). Ak chcete odstrániť lokalitu aktívne, vyberte **aktívne** stránky, vyberte stránky a vyberte **odstrániť**. Pre viac informácií, pozri [Spravovať lokality nové SharePoint admin Center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

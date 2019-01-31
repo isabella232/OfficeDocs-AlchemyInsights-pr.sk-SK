@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: e24659e4161d21fd9498692ae699f0d98f0cf8f8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0ab0f05a871f338a283ecc10aad958455c19db19
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488653"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655610"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Predplatné oznámenia v Office klienta?
 
-Vyzerá to, že ste videli oznámenia v Office klienta súvisí stav predplatného na Office 365. Môžete nájsť informácie o riešení problému v tomto článku: [po otvorení aplikácie Office 365 sa zobrazí upozornenie predplatné](https://support.office.com/article/https://support.office.com/en-us/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Vyzerá to, že ste videli oznámenia v Office klienta súvisí stav predplatného na Office 365. Môžete nájsť informácie o riešení problému v tomto článku: [po otvorení aplikácie Office 365 sa zobrazí upozornenie predplatné](https://support.office.com/article/https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Ak vaše predplatné na Office 365 je aktuálny, mohol mať hit dočasný problém, ktorý spôsobil Office Aktivácia zlyhanie. Existujú jednoduché kroky, ako zabrániť tieto správy, kontrola vášho počítačového času, beží úrad ako správca a prihlásením aktivovať. Tu nájdete podrobný postup na riešenie týchto problémov v tomto článku: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/article/https://support.office.com/en-us/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). 
+Ak vaše predplatné na Office 365 je aktuálny, mohol mať hit dočasný problém, ktorý spôsobil Office Aktivácia zlyhanie. Existujú jednoduché kroky, ako zabrániť tieto správy, kontrola vášho počítačového času, beží úrad ako správca a prihlásením aktivovať. Tu nájdete podrobný postup na riešenie týchto problémov v tomto článku: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/article/https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). 
   
 Ak tieto nefungujú pre vás, prosím kontaktujte nás s nižšie uvedené odkazy a budeme radi pomôžeme.
   

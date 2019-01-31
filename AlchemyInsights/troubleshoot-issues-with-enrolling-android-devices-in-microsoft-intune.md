@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
-ms.openlocfilehash: 2f4fc434128ebe7323f0b8c08aec3be82112bbda
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6b26b2d77bceb063090986ff4e20bc4a56bb1242
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488710"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655898"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Riešenie problémov s zapísať Android zariadení Microsoft Intune
 
@@ -22,7 +22,7 @@ Preskúmanie zdrojov uvedených nižšie vyriešiť váš problém teraz.
   
 Niektoré spoločné problémy a rozlíšenie kroky:
   
- **Zariadenia nie sú šifrované chyba v portáli spoločnosti:** Novšie verzie Androidu, najmä počnúc v7.0, požadovať heslo pri spustení uistite sa, že vaše zariadenie je plne šifrované. Povolenie kódu pin pri spustení alebo plne šifrovanie zariadenia sa spoločné riešenia. Prečítať [Tento dokument](https://docs.microsoft.com/en-us/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) pre ďalšie informácie. 
+ **Zariadenia nie sú šifrované chyba v portáli spoločnosti:** Novšie verzie Androidu, najmä počnúc v7.0, požadovať heslo pri spustení uistite sa, že vaše zariadenie je plne šifrované. Povolenie kódu pin pri spustení alebo plne šifrovanie zariadenia sa spoločné riešenia. Prečítať [Tento dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) pre ďalšie informácie. 
   
  **Zariadenia nedokážu skontrolovať pomocou služby Windows Intune alebo Zobraziť ako "Nezdravých" Intune admin konzole:** Niektoré Samsung 4.4 a 5,5 zariadenia môže skontrolovať do služby. Existujú 3 možné riešenia tohto problému: 
   
@@ -30,16 +30,16 @@ Niektoré spoločné problémy a rozlíšenie kroky:
     
 2. Aktualizujte zariadenie na Android 6.0 alebo vyšší.
     
-3. Zakázať riadenie portáli Intune spoločnosti Samsung Smart Manager. Prečítať [Tento dokument](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) pre ďalšie podrobnosti o týchto otázkach a uznesenia. 
+3. Zakázať riadenie portáli Intune spoločnosti Samsung Smart Manager. Prečítať [Tento dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) pre ďalšie podrobnosti o týchto otázkach a uznesenia. 
     
  **Užívateľ licencie typu neplatný** alebo **užívateľské meno nerozpozná chyba:** užívateľ musí prideliť licenciu Windows Intune alebo EMS. Revidovať tieto dokumenty priradiť licenciu prostredníctvom: Office Admin Center alebo Azure portál. 
   
 Dodatočné zdroje, ktoré pomôžu vyriešiť váš problém:
   
-1. Používajte [Windows Intune riešenia problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné zlyhania registrácie. Prečítať [Tento dokument](https://docs.microsoft.com/en-us/intune/help-desk-operators) pre ďalšie podrobnosti. 
+1. Používajte [Windows Intune riešenia problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné zlyhania registrácie. Prečítať [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) pre ďalšie podrobnosti. 
     
-2. Prečítať [Tento dokument](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pre zoznam bežných chýb, ktoré bránia zápisnice a uznesenia každému. 
+2. Prečítať [Tento dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pre zoznam bežných chýb, ktoré bránia zápisnice a uznesenia každému. 
     
-3. [Naučte sa zapísať Android zariadení Microsoft Intune](https://docs.microsoft.com/en-us/intune/android-enroll).
+3. [Naučte sa zapísať Android zariadení Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
     
 
