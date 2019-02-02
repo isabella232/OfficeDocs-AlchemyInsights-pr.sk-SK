@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662945"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697145"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Požadované zákazníkom čelia H1, H2 nefunguje
-Príklad textu blok - postupujte podľa týchto pokynov:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vyžaduje alchýmie hlavičke H1, H2-nefungujú.
+Najlepšie postupy a pokyny pre authoring alchýmia:
 
+1. **Nest alchýmia postrehy v priečinkoch**- to bude prestávka v url štruktúru. Hľadáme do stanovenie tejto.
 1. Súbory v priečinku **AlchemyInsights** by mali mať identifikácia pravidla a pravidlo názov z [alchýmie Partner portálu](https://alchemyportal.azurewebsites.net) v názve súboru.
     1. ex. ***976-How-to-enable-litigation-hold***
 1. Metadáta použiť v hornej časti tento súbor ako šablónu. Nič iné nevyžaduje.
@@ -35,7 +36,6 @@ Príklad textu blok - postupujte podľa týchto pokynov:
 
 A to je naozaj už trochu príliš dlho. Najlepšie je asi 400 znakov---
 
-Akonáhle váš obsah je pripravený, vytiahnite ju na živé vetvy. Potom [alchýmia Partner portálu](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa url. Uistite sa, že pohľad Review a publikovanej hovorí "áno" a kliknite na tlačidlo pravidlo pre aktualizáciu. (To bude vyzerať hezčí v novej verzii portálu - uvoľnenie čoskoro.)
-
-![URL poľa](media/for-content-team.PNG)
+Akonáhle váš obsah je pripravený, vytiahnite ju na živé vetvy. Potom [alchýmia Partner portálu](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa url. Uistite sa, že pohľad Review a publikovanej hovorí "áno" a kliknite na tlačidlo pravidlo pre aktualizáciu. **(To bude vyzerať hezčí v novej verzii portálu - uvoľnenie čoskoro.)** 
+ ![url poľa](media/for-content-team.PNG)
 
