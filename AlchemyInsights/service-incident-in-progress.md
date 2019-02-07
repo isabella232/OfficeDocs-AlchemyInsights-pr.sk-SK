@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
-ms.openlocfilehash: 73dbf3154550bdedba65813aa5baea358a0982dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 0025c77949de0eb76f6a617dab0e3bfbd357241e
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488527"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758863"
 ---
 # <a name="service-incident-in-progress"></a>Služba udalosti v priebehu
 
-Môže byť ovplyvnená incident služby alebo poradenské ktorý je v súčasnosti vyšetrovaný. Môžete skontrolovať najnovšie stav tým, že pôjdete na stránku [Stav služby](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) . 
+Môže byť ovplyvnená incident služby alebo poradenské ktorý je v súčasnosti vyšetrovaný. Môžete skontrolovať najnovšie stav tým, že pôjdete na stránku [Stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
   
 Pre vaše pohodlie môžete nájsť súhrn tejto udalosti nižšie:
   
-> **Udalosť číslo:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)
+> **Udalosť číslo:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Vplyv Popis: {ImpactDescription}
     
