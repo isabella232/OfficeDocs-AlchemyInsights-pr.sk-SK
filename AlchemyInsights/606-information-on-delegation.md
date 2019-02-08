@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489183"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770668"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="9272c-102">O delegátov v programe Outlook a Outlook na webe</span><span class="sxs-lookup"><span data-stu-id="9272c-102">About delegates in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="64839-102">Riešenie problémov s delegáciou v programe Outlook a Outlook na webe</span><span class="sxs-lookup"><span data-stu-id="64839-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="9272c-103">Ďalšie informácie nájdete v týchto témach:</span><span class="sxs-lookup"><span data-stu-id="9272c-103">For more information, see these topics:</span></span>
-  
-- <span data-ttu-id="9272c-104">**Outlook**: [Povoliť inej osobe spravovať vašu poštu a kalendár](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span><span class="sxs-lookup"><span data-stu-id="9272c-104">**Outlook**: [Allow someone else to manage your mail and calendar](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span></span>
-    
-- <span data-ttu-id="9272c-105">**Outlook na webe**: [delegácia kalendár programu Outlook na webe pre podnikanie](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span><span class="sxs-lookup"><span data-stu-id="9272c-105">**Outlook on the web**: [Calendar delegation in Outlook on the web for business](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span></span>
-    
+<span data-ttu-id="64839-103">**Riešenie problémov s nástrojom SaRA:**</span><span class="sxs-lookup"><span data-stu-id="64839-103">**Troubleshooting with the SaRA tool:**</span></span>
 
+1. <span data-ttu-id="64839-104">Prevezmite a nainštalujte nástroj SaRA tu</span><span class="sxs-lookup"><span data-stu-id="64839-104">Download and install SaRA tool from here</span></span>
+1. <span data-ttu-id="64839-105">Vyberte program Outlook, potom "Mám problémy s môj kalendár"</span><span class="sxs-lookup"><span data-stu-id="64839-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
+1. <span data-ttu-id="64839-106">Povedať áno pre postihnutého stroja</span><span class="sxs-lookup"><span data-stu-id="64839-106">Say Yes for affected machine</span></span>
+1. <span data-ttu-id="64839-107">Pridať e-mailovú adresu príslušného používateľa</span><span class="sxs-lookup"><span data-stu-id="64839-107">Add the e-mail address of the affected user</span></span>
+1. <span data-ttu-id="64839-108">Vyberte "Mám problémy s povolenia delegátov"</span><span class="sxs-lookup"><span data-stu-id="64839-108">Select "I\`m having problems with delegate permissions"</span></span>
+1. <span data-ttu-id="64839-p101">Do ďalšieho riadku, ak ste osoba, ktorá dáva oprávnenia, zadajte e-mailovú adresu svojho delegáta. Ak ste dostali povolenie a delegát, zadajte e-mailovú adresu osoby, ktorú ste získali povolenia.</span><span class="sxs-lookup"><span data-stu-id="64839-p101">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate. If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="64839-111">V ďalšej ponuke vyberte možnosť, ktorá zodpovedá vašej situácii.</span><span class="sxs-lookup"><span data-stu-id="64839-111">At the next menu, select the option that fits your scenario.</span></span> 
+1. <span data-ttu-id="64839-112">V ďalšej ponuke vyberte úroveň povolenia.</span><span class="sxs-lookup"><span data-stu-id="64839-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="64839-113">V tejto etape SaRA nástroj bude vykonávať automatizované kontroly a vám poskytne možné riešenie alebo alternatívne bude poskytovať diagnostické denníka, ktorý môže byť použitý pre ďalšie riešenie problémov.</span><span class="sxs-lookup"><span data-stu-id="64839-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="64839-114">Môžete nájsť prihlási v priečinku SaRA výsledky na C:\Users\Username\AppData\Local\SaraResults</span><span class="sxs-lookup"><span data-stu-id="64839-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
