@@ -838,3 +838,57 @@
 | 1/30/2019 | [123 dostať účet zakázaný chyby v OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | je |
 | 2/1/2019 | [rovnaký ako názov súboru je najlepšie [pravidlo #-Popis]](/AlchemyInsights/1-alchemy-insight-template) | je |
 | 2/1/2019 | [Zmeniť povolenia pre poštovú schránku](/AlchemyInsights/changing-permissions-on-a-mailbox) | je |
+
+
+## <a name="week-of-february-04-2019"></a>Týždeň február 04, 2019
+
+
+| Zverejnené na |Názov témy | Zmena |
+|------|------------|--------|
+| 2/4/2019 | [Pridať používateľov do služby Office 365](/AlchemyInsights/add-users-to-office-365) | je |
+| 2/6/2019 | [Zamestnanec opúšťa](/AlchemyInsights/employee-leaving) | je |
+| 2/6/2019 | [Admin prevzatia](/AlchemyInsights/admin-takeover) | je |
+| 2/6/2019 | [127 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
+| 2/6/2019 | [959 zmeniť zobrazovaný názov](/AlchemyInsights/959-change-display-name) | je |
+| 2/6/2019 | [Pridanie alebo odstránenie e-mailový alias používateľa](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | je |
+| 2/6/2019 | Pridať miest na predplatené prihlásenie na odber | odstránené |
+| 2/6/2019 | [Pridať používateľov do služby Office 365](/AlchemyInsights/add-users-to-office-365) | je |
+| 2/6/2019 | [Pridanie externých používateľov do distribučnej skupiny?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | je |
+| 2/6/2019 | Admin - globálne Office 365 nastavenie a správu | odstránené |
+| 2/6/2019 | Admin - spravovať používateľov, skupiny a zdrojov | odstránené |
+| 2/6/2019 | Admin - nastavenie domény a nastavenia DNS | odstránené |
+| 2/6/2019 | Admin - prihlásenie a heslo | odstránené |
+| 2/6/2019 | [Zrušiť predplatné na Office 365](/AlchemyInsights/cancel-office-365-subscription) | je |
+| 2/6/2019 | [Zmeniť užívateľské meno a e-mailovú adresu](/AlchemyInsights/change-a-user-s-name-and-email-address) | je |
+| 2/6/2019 | Commerce - spravovať účty, platby, predplatného a licencií | odstránené |
+| 2/6/2019 | [TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
+| 2/6/2019 | [E-mail dodávky problémy s?](/AlchemyInsights/having-email-delivery-issues-0) | je |
+| 2/6/2019 | [E-mail dodávky problémy s?](/AlchemyInsights/having-email-delivery-issues) | je |
+| 2/6/2019 | [Máte problémy dostať pripojenia programu Outlook?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | je |
+| 2/6/2019 | [Máte problémy dostať pripojenia programu Outlook?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | je |
+| 2/6/2019 | Intune - stiahnuť, nastaviť a používať Windows Intune | odstránené |
+| 2/6/2019 | [Problém s Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | je |
+| 2/6/2019 | ODSP | odstránené |
+| 2/6/2019 | Office klient - Excel | odstránené |
+| 2/6/2019 | [Obnoviť odstránené používateľské](/AlchemyInsights/restore-deleted-user) | je |
+| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-0) | je |
+| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-1) | je |
+| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-2) | je |
+| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-3) | je |
+| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-4) | je |
+| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-5) | je |
+| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress) | je |
+| 2/6/2019 | [Nastavenie projektov](/AlchemyInsights/setting-up-project) | je |
+| 2/6/2019 | Nastavenie súladu funkcie ako Archív, uchovávania, súdne spory, eDiscovery a MDM | odstránené |
+| 2/6/2019 | Pomocou Offline Inštalátor balíka Office | odstránené |
+| 2/6/2019 | Yammer - nastavenie a služby Yammer | odstránené |
+| 2/7/2019 | [Excel havaruje?](/AlchemyInsights/excel-crashing) | je |
+| 2/7/2019 | [Ako pridať alebo upraviť VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | je |
+| 2/7/2019 | [Vydanie Minecraft so službami Office 365 Education pre voľný](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | je |
+| 2/7/2019 | [606 informácie o delegovanie](/AlchemyInsights/606-information-on-delegation) | je |
+| 2/7/2019 | [Skupina sa nezobrazuje v zoznam skupín](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | je |
+| 2/8/2019 | [DLP politiky tipy nefungujú](/AlchemyInsights/dlp-policy-tips-not-working) | je |
+| 2/8/2019 | [DLP pravidlo pre USA / UK číslo pasu nefunguje](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | je |
+| 2/8/2019 | [Office 365 Education pre voľný](/AlchemyInsights/office-365-education-for-free) | je |
+| 2/8/2019 | [Požadované licencie pre Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | je |
+| 2/8/2019 | [Politiky uchovávania údajov v Exchange Admin Center nefunguje](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | je |
