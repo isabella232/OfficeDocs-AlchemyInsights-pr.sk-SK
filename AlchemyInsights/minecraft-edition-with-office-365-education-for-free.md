@@ -7,31 +7,31 @@ ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 4fa4b424ee698f5cdb56ed4e41da22b037ae2362
-ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
+ms.openlocfilehash: 889c50a5f350a51cd042bbcd231ad8d201288dae
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "29770632"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29902139"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a><span data-ttu-id="3fe5b-102">Vydanie Minecraft so službami Office 365 Education pre voľný</span><span class="sxs-lookup"><span data-stu-id="3fe5b-102">Minecraft Edition with Office 365 Education for Free</span></span>
+# <a name="minecraft-edition-with-office-365-education-for-free"></a><span data-ttu-id="06288-102">Vydanie Minecraft so službami Office 365 Education pre voľný</span><span class="sxs-lookup"><span data-stu-id="06288-102">Minecraft Edition with Office 365 Education for Free</span></span>
 
-[<span data-ttu-id="3fe5b-103">Vydanie Minecraft so službami Office 365 Education pre voľný</span><span class="sxs-lookup"><span data-stu-id="3fe5b-103">Minecraft Edition with Office 365 Education for Free</span></span>](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[<span data-ttu-id="06288-103">Vydanie Minecraft so službami Office 365 Education pre voľný</span><span class="sxs-lookup"><span data-stu-id="06288-103">Minecraft Edition with Office 365 Education for Free</span></span>](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- <span data-ttu-id="3fe5b-104">**Minecraft: Education Edition** vyžaduje Windows 10</span><span class="sxs-lookup"><span data-stu-id="3fe5b-104">**Minecraft: Education Edition** requires Windows 10</span></span> 
+- <span data-ttu-id="06288-104">**Minecraft: Education Edition** vyžaduje Windows 10</span><span class="sxs-lookup"><span data-stu-id="06288-104">**Minecraft: Education Edition** requires Windows 10</span></span> 
     
-- <span data-ttu-id="3fe5b-105">Skúšky alebo predplatné **Minecraft: Education Edition** sú ponúkané vzdelávanie nájomníkov, ktoré sú riadené Azure Active Directory (Azure AD)</span><span class="sxs-lookup"><span data-stu-id="3fe5b-105">Trials or subscriptions of **Minecraft: Education Edition** are offered to education tenants that are managed by Azure Active Directory (Azure AD)</span></span> 
+- <span data-ttu-id="06288-105">Skúšky alebo predplatné **Minecraft: Education Edition** sú ponúkané vzdelávanie nájomníkov, ktoré sú riadené Azure Active Directory (Azure AD)</span><span class="sxs-lookup"><span data-stu-id="06288-105">Trials or subscriptions of **Minecraft: Education Edition** are offered to education tenants that are managed by Azure Active Directory (Azure AD)</span></span> 
     
-  - <span data-ttu-id="3fe5b-106">Ak vaša škola nemá Azure AD nájomca, [správca môže nastaviť](https://docs.microsoft.com/education/windows/school-get-minecraft) ako súčasť procesu prípravy **Minecraft: Education Edition**.</span><span class="sxs-lookup"><span data-stu-id="3fe5b-106">If your school doesn't have an Azure AD tenant, the [IT administrator can set one up](https://docs.microsoft.com/education/windows/school-get-minecraft) as part of the process of getting **Minecraft: Education Edition**.</span></span>
+  - <span data-ttu-id="06288-106">Ak vaša škola nemá Azure AD nájomca, [správca môže nastaviť](https://docs.microsoft.com/education/windows/school-get-minecraft) ako súčasť procesu prípravy **Minecraft: Education Edition**.</span><span class="sxs-lookup"><span data-stu-id="06288-106">If your school doesn't have an Azure AD tenant, the [IT administrator can set one up](https://docs.microsoft.com/education/windows/school-get-minecraft) as part of the process of getting **Minecraft: Education Edition**.</span></span>
     
-  - <span data-ttu-id="3fe5b-p101">Office 365 Education, ktorý zahŕňa online verzie balíka Office aplikácie plus online ukladací priestor 1 TB je zadarmo pre učiteľov a študentov. [Zaregistrujte vašu školu na Office 365 Education](https://products.office.com/academic/office-365-education-plan).</span><span class="sxs-lookup"><span data-stu-id="3fe5b-p101">Office 365 Education, which includes online versions of Office apps plus 1 TB online storage is free for teachers and students. [Sign up your school for Office 365 Education](https://products.office.com/academic/office-365-education-plan).</span></span>
+  - <span data-ttu-id="06288-p101">Office 365 Education, ktorý zahŕňa online verzie balíka Office aplikácie plus online ukladací priestor 1 TB je zadarmo pre učiteľov a študentov. [Zaregistrujte vašu školu na Office 365 Education](https://products.office.com/academic/office-365-education-plan).</span><span class="sxs-lookup"><span data-stu-id="06288-p101">Office 365 Education, which includes online versions of Office apps plus 1 TB online storage is free for teachers and students. [Sign up your school for Office 365 Education](https://products.office.com/academic/office-365-education-plan).</span></span>
     
-  - <span data-ttu-id="3fe5b-p102">Ak vaša škola má predplatné na Office 365 Education, zahŕňa zadarmo predplatné Azure AD. [Register free Azure reklamy predplatné](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="3fe5b-p102">If your school has an Office 365 Education subscription, it includes a free Azure AD subscription. [Register your free Azure AD subscription](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span></span>
+  - <span data-ttu-id="06288-p102">Ak vaša škola má predplatné na Office 365 Education, zahŕňa zadarmo predplatné Azure AD. [Register free Azure reklamy predplatné](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="06288-p102">If your school has an Office 365 Education subscription, it includes a free Azure AD subscription. [Register your free Azure AD subscription](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span></span>
     
-<span data-ttu-id="3fe5b-111">[Zistite, ako učitelia môžu získať a distribuovať Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span><span class="sxs-lookup"><span data-stu-id="3fe5b-111">[Learn how teachers can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span></span>
+<span data-ttu-id="06288-111">[Zistite, ako učitelia môžu získať a distribuovať Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span><span class="sxs-lookup"><span data-stu-id="06288-111">[Learn how teachers can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span></span>
   
-<span data-ttu-id="3fe5b-112">[Zistite, ako správcovia IT môžu získať a distribuovať Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), a ako môžete spravovať povolenia pre hru Minecraft.</span><span class="sxs-lookup"><span data-stu-id="3fe5b-112">[Learn how IT administrators can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), and how to manage permissions for Minecraft.</span></span>
+<span data-ttu-id="06288-112">[Zistite, ako správcovia IT môžu získať a distribuovať Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), a ako môžete spravovať povolenia pre hru Minecraft.</span><span class="sxs-lookup"><span data-stu-id="06288-112">[Learn how IT administrators can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), and how to manage permissions for Minecraft.</span></span>
   
 
