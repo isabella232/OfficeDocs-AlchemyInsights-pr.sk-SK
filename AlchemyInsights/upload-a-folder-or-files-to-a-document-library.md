@@ -7,27 +7,27 @@ ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 1bfaec871ddbb4c56500127c1c4ac610faa37a31
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 66462dff344d0b6ad5ae6eabf78bede2e3335356
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488581"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940155"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="d1e5d-102">Nahrať súbor alebo súbory do knižnice dokumentov SharePoint</span><span class="sxs-lookup"><span data-stu-id="d1e5d-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="0ce12-102">Nahrať súbor alebo súbory do knižnice dokumentov SharePoint</span><span class="sxs-lookup"><span data-stu-id="0ce12-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="d1e5d-p101">Nahrať zložku, musíte používať Microsoft Edge, prehliadač Google Chrome alebo Mozilla FireFox. Nemožno odovzdávať priečinky v klasickej knižnici skúsenosti, alebo pomocou programu Internet Explorer 10 alebo 11.</span><span class="sxs-lookup"><span data-stu-id="d1e5d-p101">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox. You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="0ce12-p101">Nahrať zložku, musíte používať Microsoft Edge, prehliadač Google Chrome alebo Mozilla FireFox. Nemožno odovzdávať priečinky v klasickej knižnici skúsenosti, alebo pomocou programu Internet Explorer 10 alebo 11.</span><span class="sxs-lookup"><span data-stu-id="0ce12-p101">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox. You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="d1e5d-105">Otvorte knižnicu dokumentov, kde chcete nahrať priečinok alebo súbory.</span><span class="sxs-lookup"><span data-stu-id="d1e5d-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="0ce12-105">Otvorte knižnicu dokumentov, kde chcete nahrať priečinok alebo súbory.</span><span class="sxs-lookup"><span data-stu-id="0ce12-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="d1e5d-106">Na počítači spustite Prieskumníka a vyhľadajte požadovaný priečinok alebo súbory, ktoré chcete nahrať.</span><span class="sxs-lookup"><span data-stu-id="d1e5d-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="0ce12-106">Na počítači spustite Prieskumníka a vyhľadajte požadovaný priečinok alebo súbory, ktoré chcete nahrať.</span><span class="sxs-lookup"><span data-stu-id="0ce12-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="d1e5d-p102">Presuňte požadovaný priečinok alebo súbory do knižnice dokumentov. Ak sa nezobrazujú položky, ktoré ste nahrali objavia v knižnici, obnovte stránku.</span><span class="sxs-lookup"><span data-stu-id="d1e5d-p102">Drag the folder or files to the document library. If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="0ce12-p102">Presuňte požadovaný priečinok alebo súbory do knižnice dokumentov. Ak sa nezobrazujú položky, ktoré ste nahrali objavia v knižnici, obnovte stránku.</span><span class="sxs-lookup"><span data-stu-id="0ce12-p102">Drag the folder or files to the document library. If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="d1e5d-109">Ak nechcete nahrať presunutím položky medzi windows, môžete použiť tlačidlo **Upload** knižnice dokumentov vyberte požadovaný priečinok alebo súbory, ktoré chcete nahrať.</span><span class="sxs-lookup"><span data-stu-id="d1e5d-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="0ce12-109">Ak nechcete nahrať presunutím položky medzi windows, môžete použiť tlačidlo **Upload** knižnice dokumentov vyberte požadovaný priečinok alebo súbory, ktoré chcete nahrať.</span><span class="sxs-lookup"><span data-stu-id="0ce12-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 
