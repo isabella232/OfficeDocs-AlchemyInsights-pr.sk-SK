@@ -7,16 +7,16 @@ ms.date: 5/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5ec81b41e5a381366eb050458669435b7213f72f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 66bbb2f0d2b1de1b8d07c0b24b7baf1139c710cb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488545"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29914451"
 ---
 # <a name="how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-items"></a>Ako nájsť a obnoviť chýbajúce alebo vypúšťa e-mailu, kalendára alebo kontaktov položky
 
