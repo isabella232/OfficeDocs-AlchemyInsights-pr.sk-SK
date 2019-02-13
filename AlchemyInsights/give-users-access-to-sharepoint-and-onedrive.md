@@ -7,28 +7,28 @@ ms.date: 11/14/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 5a1cdeefa4474e8ce0e6a7a37be016cc87b9791d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498029"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29933855"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a><span data-ttu-id="ff7f5-102">Poskytnúť používateľom prístup k službe SharePoint a OneDrive</span><span class="sxs-lookup"><span data-stu-id="ff7f5-102">Give users access to SharePoint and OneDrive</span></span>
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a><span data-ttu-id="040ac-102">Poskytnúť používateľom prístup k službe SharePoint a OneDrive</span><span class="sxs-lookup"><span data-stu-id="040ac-102">Give users access to SharePoint and OneDrive</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="ff7f5-p101">Ak lokalitu služby OneDrive alebo SharePoint nie je k dispozícii pre viacerých používateľov, ktorí predtým prístup, môže byť problém pri dočasnej služby. [Kontrola tabuľa stav služby](https://portal.office.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ff7f5-p101">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue. [Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="040ac-p101">Ak lokalitu služby OneDrive alebo SharePoint nie je k dispozícii pre viacerých používateľov, ktorí predtým prístup, môže byť problém pri dočasnej služby. [Kontrola tabuľa stav služby](https://portal.office.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="040ac-p101">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue. [Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth)</span></span>
   
-<span data-ttu-id="ff7f5-p102">Ak chcete ľudia vo vašej organizácii mohli prihlásiť a používať SharePoint a OneDrive, budete musieť pridať kontá pre nich, a uistite sa, že majú licenciu, ktorá im umožňuje prístup k službe SharePoint a OneDrive. Najjednoduchší spôsob, ako pridať používateľov je Office 365 admin Center.</span><span class="sxs-lookup"><span data-stu-id="ff7f5-p102">If you want people in your organization to be able to sign in and use SharePoint and OneDrive, you need to add accounts for them and make sure they have a license that gives them access to SharePoint and OneDrive. The easiest way to add users is in the Office 365 admin center.</span></span>
+<span data-ttu-id="040ac-p102">Ak chcete ľudia vo vašej organizácii mohli prihlásiť a používať SharePoint a OneDrive, budete musieť pridať kontá pre nich, a uistite sa, že majú licenciu, ktorá im umožňuje prístup k službe SharePoint a OneDrive. Najjednoduchší spôsob, ako pridať používateľov je Office 365 admin Center.</span><span class="sxs-lookup"><span data-stu-id="040ac-p102">If you want people in your organization to be able to sign in and use SharePoint and OneDrive, you need to add accounts for them and make sure they have a license that gives them access to SharePoint and OneDrive. The easiest way to add users is in the Office 365 admin center.</span></span>
   
-1. <span data-ttu-id="ff7f5-107">Prejdite na [stránku aktívnych používateľov Office 365 admin Center](https://portal.office.com/adminportal/home#/users)a kliknite na tlačidlo **Pridať používateľa**.</span><span class="sxs-lookup"><span data-stu-id="ff7f5-107">Go to the [Active users page in the Office 365 admin center](https://portal.office.com/adminportal/home#/users), and then click **Add a user**.</span></span>
+1. <span data-ttu-id="040ac-107">Prejdite na [stránku aktívnych používateľov Office 365 admin Center](https://portal.office.com/adminportal/home#/users)a kliknite na tlačidlo **Pridať používateľa**.</span><span class="sxs-lookup"><span data-stu-id="040ac-107">Go to the [Active users page in the Office 365 admin center](https://portal.office.com/adminportal/home#/users), and then click **Add a user**.</span></span>
     
-2. <span data-ttu-id="ff7f5-108">Vyplňte údaje pre používateľa a uistite sa, že pod **licenciami produktov**, licencia je priradená a vybrané **Služby SharePoint Online** .</span><span class="sxs-lookup"><span data-stu-id="ff7f5-108">Fill in the information for the user, and make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="040ac-108">Vyplňte údaje pre používateľa a uistite sa, že pod **licenciami produktov**, licencia je priradená a vybrané **Služby SharePoint Online** .</span><span class="sxs-lookup"><span data-stu-id="040ac-108">Fill in the information for the user, and make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
-<span data-ttu-id="ff7f5-p103">Všimnite si, že ak chcete povoliť externé zdieľanie vašej organizácie, užívateľov môžete zdieľať obsah SharePoint a OneDrive s ľuďmi mimo organizácie. Nemusíte dať tieto externým užívateľom licencie. Tiež nemusíte pridať kontá pre nich, ak nie zdieľanie je nastavená na "Len existujúce externých používateľov." V takom prípade, ak ľudia nie sú v adresári vašej organizácie, musíte pridať ako hodnotenie používateľov Azure AD admin Center.</span><span class="sxs-lookup"><span data-stu-id="ff7f5-p103">Note that if you allow external sharing in your organization, users can share SharePoint and OneDrive content with people outside the organization. You don't need to give these external users licenses. You also don't need to add accounts for them, unless sharing is set to "Only existing external users." In that case, if the people aren't in your organization's directory, you need to add them as guest users in the Azure AD admin center.</span></span>
+<span data-ttu-id="040ac-p103">Všimnite si, že ak chcete povoliť externé zdieľanie vašej organizácie, užívateľov môžete zdieľať obsah SharePoint a OneDrive s ľuďmi mimo organizácie. Nemusíte dať tieto externým užívateľom licencie. Tiež nemusíte pridať kontá pre nich, ak nie zdieľanie je nastavená na "Len existujúce externých používateľov." V takom prípade, ak ľudia nie sú v adresári vašej organizácie, musíte pridať ako hodnotenie používateľov Azure AD admin Center.</span><span class="sxs-lookup"><span data-stu-id="040ac-p103">Note that if you allow external sharing in your organization, users can share SharePoint and OneDrive content with people outside the organization. You don't need to give these external users licenses. You also don't need to add accounts for them, unless sharing is set to "Only existing external users." In that case, if the people aren't in your organization's directory, you need to add them as guest users in the Azure AD admin center.</span></span>
   
 
