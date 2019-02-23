@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 892eff30359f71984cae2f4ae2448dad49e4d6bd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906783"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208312"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Prepínač plánuje zvýšiť veľkosť poštovej schránky
 
@@ -24,7 +24,7 @@ Ak veľkosť poštovej schránky je už 100 GB, neexistuje žiadny spôsob, ako 
   
 Ak veľkosť poštovej schránky 50 GB, môžete zvýšiť na 100 GB prechod na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) alebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu sú kroky, ak chcete prepnúť na iný plán služieb Office 365:
   
-1. Office 365 admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
+1. Microsoft 365 admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
     
 2. Vyberte **prepínač plány** zobrazíte zoznam nových plánov, ktoré sú k dispozícii. 
     

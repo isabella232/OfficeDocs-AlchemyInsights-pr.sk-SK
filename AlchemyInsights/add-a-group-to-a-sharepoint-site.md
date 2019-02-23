@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: a0d28ea749012d852b5eb593d61ca899e6e0c4c7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 767805b8de07e22ca14447adeea6a0cbd078750c
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898251"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209392"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Pridať skupinu lokality SharePoint
 
@@ -24,7 +24,7 @@ Niektoré lokality SharePoint team (vrátane tých, ktoré sú vytvorené v Micr
   
 Spravovať členov skupiny Office 365:
   
-1. Prejdite na [stránku skupín v Office 365 admin center](https://portal.office.com/adminportal/home#/groups).
+1. Prejdite na [stránku skupiny Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).
     
 2. Vyberte skupinu pre zobrazenie svojich majiteľov a členov. Pridanie alebo odstránenie ľudí, kliknite na odkaz **Upraviť** v riadku **prevádzkovateľom** alebo **spoločníkmi** . 
     

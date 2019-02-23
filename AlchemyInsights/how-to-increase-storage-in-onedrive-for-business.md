@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906423"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207772"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Ako zvýšiť ukladací priestor v službe OneDrive for Business
 
@@ -27,7 +27,7 @@ Toto nastavenie priestor skladovanie platí pre všetkých používateľov, ktor
   
 Zvýšiť úložný priestor v službe OneDrive for Business, vybrať plánu Office 365, ktorý obsahuje **OneDrive for Business plán 2** alebo **Office 365 Enterprise E3**. 
   
-Zmena plánov Office 365 admin Center, prejdite na **fakturačné** \> **predplatné**a potom vyberte **prepínať plány.**
+Zmena plánov, Microsoft 365 admin Center, prejdite na **fakturačné** \> **predplatné**a potom vyberte **prepínať plány.**
   
 Ďalšie informácie o prepínaní plánov a OneDrive pre obchodné skladovanie, pozri [Prepnúť do rôznych služieb Office 365 for business plán](https://go.microsoft.com/fwlink/?LinkId=2031117) a [OneDrive for Business služby Popis](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

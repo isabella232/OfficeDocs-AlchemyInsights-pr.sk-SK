@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 5cbc69c723b311f4e1c5b8fb2831c878641a065d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec33ae6f35f22666185ae3e45c2222329e8f9207
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914163"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208132"
 ---
 # <a name="creating-public-folders"></a>Vytváranie verejných priečinkov
 
 Predtým, ako môžu používatelia použiť verejných priečinkov v balíku Office 365, musíte vytvoriť aspoň jeden verejný priečinok poštovej schránky. Ak chcete vytvoriť:
   
-1. Office 365 admin Center, prejdite na **Admin centier** \> **výmena**.
+1. Microsoft 365 admin Center, prejdite na **Admin centier** \> **výmena**.
     
 2. Prejsť na **verejné priečinky** \> **poštové schránky verejných priečinkov**a kliknite na tlačidlo **Pridať**.
     
