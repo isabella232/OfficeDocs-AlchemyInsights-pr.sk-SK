@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
-ms.openlocfilehash: 40368816ac3a8aa5652bbe502ba0293fbc24ceef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1f7fcac094135573220aef58ca20008223046474
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927447"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244056"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Odporúčaný postup Ak účet je ohrozená
 
-[![Stanovenie ohrozeným kontom Office 365](media/797f355b-22a1-468e-91a4-a9d5bc45b19a.png)](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: Stanovenie ohrozeným kontom Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Obnoviť heslo](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) okamžite. Nové heslo prostredníctvom e-mailu nekomunikuje koncovému používateľovi. 
     

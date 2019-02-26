@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925539"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244380"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Nastavenie e-mailu v aplikácii Outlook mobilnej
 
-1. Vyberte **Začať** Ak po prvýkrát nastavujete email v mobile app. inak, klepnite na **ponuku**![tlačidlo Menu](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) a potom ťuknite na položku **nastavenia** \> **Pridať účet** \> **Pridajte e-mailové konto**. 
+1. Vyberte **Začať** , ak je to vaša prvýkrát nastavenie e-mailu v mobile app. inak **Menu** a potom ťuknite na **nastavenia** \> **Pridať účet** \> **Pridajte e-mailové konto**. 
     
 2. Zadajte svoju úplnú e-mailovú adresu a ťuknite na položku **pokračovať** alebo **Pridať konto**.
     

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
-ms.openlocfilehash: 7187e877bc1d62fb5b837fde3c0f1220a27a41b3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 331a7c16b1b0f6a22a8dfbfa56c87bbb7ba83326
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941163"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244452"
 ---
 # <a name="how-to-reply-to-or-forward-messages"></a>Ako odpoveď na alebo posielanie správ ďalej
 
 V službe Outlook.com beta, tlačidlá **odpovedať**, **Odpovedať všetkým**a **dopredu** sa ikony. 
   
-V pravom hornom rohu podokna správy vyberte ![Odpovedanie](media/08ad5200-369a-4a2f-bef5-ebdcbef5545f.png), ![Odpovedať všetkým](media/be5f41a1-dbea-471f-ba5d-7be4256922d2.png), alebo ![Preposlanie](media/29fd06ec-1642-40d1-8faa-ec437ef156fc.png) Ak chcete odpovedať, odpovedať všetkým alebo poslať ďalej. 
+V pravom hornom rohu podokna správy vyberte vľavo zakrivené šípky, zakrivenie Dvojitá šípka vľavo alebo šípkou smerujúce odpoveď, odpovedať všetkým alebo Preposlať. 
   
 Ďalšie informácie o tom, ako [vytvoriť, odpovedať, alebo dopredu e-mailových správ v službe Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).
   
