@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347422"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376087"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Ukladanie správ v službe Outlook.com
 
@@ -29,4 +29,4 @@ Microsoft tlač do PDF nástroj súčasťou systému Windows 10 umožňuje vytla
 4. Vyberte položku **Tlačiť**.
 5. Zadajte názov súboru a potom kliknite na tlačidlo **Uložiť**.
 
-Poznámka: To sa neodporúča na zdieľaných alebo verejných počítačoch ako ostatní používatelia mohli mať prístup do všetkých súborov PDF Uložiť do počítača a neodstraňujte.
+**Poznámka:** To sa neodporúča na zdieľaných alebo verejných počítačoch ako ostatní používatelia mohli mať prístup do všetkých súborov PDF Uložiť do počítača a neodstraňujte.
