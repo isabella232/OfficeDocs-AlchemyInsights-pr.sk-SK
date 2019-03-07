@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941595"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468498"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="f9829-102">Microsoft tímov - hosťovský prístup</span><span class="sxs-lookup"><span data-stu-id="f9829-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="1e7f2-102">Microsoft tímov - hosťovský prístup</span><span class="sxs-lookup"><span data-stu-id="1e7f2-102">Microsoft Teams - Guest Access</span></span>
 
+<span data-ttu-id="1e7f2-103">Potrebujete pomôcť Zapnutie a nastavenie funkcie hosťovský prístup v Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="1e7f2-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="f9829-103">Ak chcete zapnúť alebo konfigurovať úlohu Hodnotenie prístupu v Microsoft Teams, máme pre vás sprievodca krok za krokom inštrukcie: [Hodnotenie prístupu Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span><span class="sxs-lookup"><span data-stu-id="f9829-103">If you need to enable or configure the Guest Access Role in Microsoft Teams, we have a step-by-step instruction guide for you: [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span></span>
-  
-<span data-ttu-id="f9829-104">Možno budete musieť čakať až 24 hodín pre tímy zmeny konfigurácie sa prejavia.</span><span class="sxs-lookup"><span data-stu-id="f9829-104">You may need to wait up to 24 hours for Teams configuration changes to take effect.</span></span>
-  
+<span data-ttu-id="1e7f2-104">Tu je to, čo musíte urobiť:</span><span class="sxs-lookup"><span data-stu-id="1e7f2-104">Here's what you need to do:</span></span>
+
+1. <span data-ttu-id="1e7f2-105">Povoliť prístup hosťa.</span><span class="sxs-lookup"><span data-stu-id="1e7f2-105">Authorize guest access.</span></span>
+1. <span data-ttu-id="1e7f2-106">Pridať hodnotenie používateľov k vášmu tímu.</span><span class="sxs-lookup"><span data-stu-id="1e7f2-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="1e7f2-107">Nastaviť Hodnotenie používateľské povolenia.</span><span class="sxs-lookup"><span data-stu-id="1e7f2-107">Set up guest user permissions.</span></span>
+
+<span data-ttu-id="1e7f2-108">Ďalšie informácie vrátane videá s návodmi nájdete [hosťovský prístup v Microsoft tímov](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="1e7f2-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span></span>
 
