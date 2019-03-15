@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939322"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634519"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vyžaduje alchýmie hlavičke H1, H2-nefungujú.
 Najlepšie postupy a pokyny pre authoring alchýmia:
 
 1. **Nest alchýmia postrehy v priečinkoch**- to bude prestávka v url štruktúru. Hľadáme do stanovenie tejto.
 1. Súbory v priečinku **AlchemyInsights** by mali mať identifikácia pravidla a pravidlo názov z [alchýmie Partner portálu](https://alchemyportal.azurewebsites.net) v názve súboru.
-    1. ex. ***976-How-to-enable-litigation-hold***
+    1. ex. ***976-How-to-Enable-Litigation-hold***
 1. Metadáta použiť v hornej časti tento súbor ako šablónu. Nič iné nevyžaduje.
 1. [Alchýmia Partner portal](https://alchemyportal.azurewebsites.net)prejdite nadol do sekcie **zákazníka Insight titul:** a použiť ho ako východiskový bod pre nadpis H1 pre pochopenie. 
     > [!NOTE]
