@@ -1,5 +1,5 @@
 ---
-title: 'rovnaký ako názov súboru je najlepšie [pravidlo #-Popis]'
+title: Najlepšie je rovnaký ako názov súboru
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
-ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.openlocfilehash: ec979c2f2246fa06945b79bbb9348a7a57ad5180
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30634519"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683864"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vyžaduje alchýmie hlavičke H1, H2-nefungujú.
 Najlepšie postupy a pokyny pre authoring alchýmia:
 
 1. **Nest alchýmia postrehy v priečinkoch**- to bude prestávka v url štruktúru. Hľadáme do stanovenie tejto.
-1. Súbory v priečinku **AlchemyInsights** by mali mať identifikácia pravidla a pravidlo názov z [alchýmie Partner portálu](https://alchemyportal.azurewebsites.net) v názve súboru.
-    1. ex. ***976-How-to-Enable-Litigation-hold***
-1. Metadáta použiť v hornej časti tento súbor ako šablónu. Nič iné nevyžaduje.
+1. Súbory v priečinku **AlchemyInsights** by mali mať malé písmená názvov súborov s pomlčkami medzery ex. ***jak-na-enable--zadržanie***.
+    1. Zahŕňajú identifikácia pravidla alebo vedierko ID z [alchýmie Partner portal](https://alchemyportal.azurewebsites.net) v poli ms.custom. ex. ***MS.Custom: 100021***
+1. Použite zvyšok metaúdaje v hornej časti tohto súboru ako šablóny.
 1. [Alchýmia Partner portal](https://alchemyportal.azurewebsites.net)prejdite nadol do sekcie **zákazníka Insight titul:** a použiť ho ako východiskový bod pre nadpis H1 pre pochopenie. 
     > [!NOTE]
     > Alchýmia poznatky musí mať iba jeden H1 navrchu alebo bude prestávka vo výrobe. H2s neznemožňujú tak použiť **tučné** alebo iných dohovorov znamenať samostatných sekcií.
@@ -33,9 +33,8 @@ Najlepšie postupy a pokyny pre authoring alchýmia:
     1. Číslované zoznamy príliš
     1. **Tučné písmo** a *kurzíva* sú a-ok
     1. Odkazy by mali byť vždy buď **"Odkazy na web" / externý** alebo **hlboko-odkazy na prvky používateľského rozhrania**, nie interné odkazy.
+    1. Obrázky nie sú oficiálne podporované v tejto dobe, ale to je na pláne.
 
 A to je naozaj už trochu príliš dlho. Najlepšie je asi 400 znakov---
 
-Akonáhle váš obsah je pripravený, vytiahnite ju na živé vetvy. Potom [alchýmia Partner portálu](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa url. Uistite sa, že pohľad Review a publikovanej hovorí "áno" a kliknite na tlačidlo pravidlo pre aktualizáciu. **(To bude vyzerať hezčí v novej verzii portálu - uvoľnenie čoskoro.)** 
- ![url poľa](media/for-content-team.PNG)
-
+Akonáhle váš obsah je pripravený, vytiahnite ju na živé vetvy. Potom [alchýmia Partner portálu](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa url. M
