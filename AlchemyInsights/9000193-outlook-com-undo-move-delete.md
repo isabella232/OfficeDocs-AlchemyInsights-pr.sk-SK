@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: cdac247b0a60af9d74481dfffba9b06c07c837e3
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 566a12c192e117401a9d49486b468b0f4af93d5c
+ms.sourcegitcommit: 53ac59b8afb80cac084eeeec9d2f65591ebcb232
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347566"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30701514"
 ---
 # <a name="action-confirmations"></a>Akcia potvrdenia
 
-Akcia potvrdenie funkcie v službe Outlook.com umožňuje vrátiť späť premiestnenie alebo správu vypustenie, ktoré ste práve urobil omylom. Dialógovom okne späť sa zobrazí v spodnej časti obrazovky asi 5 sekúnd a zvrátia ťah alebo správy akcia odstránenia.
+Akcie potvrdenie funkcie v službe Outlook.com umožňuje vrátiť späť premiestnenie alebo správu vypustenie, ktoré ste práve urobil omylom. Dialógovom okne späť sa zobrazí v spodnej časti obrazovky asi 5 sekúnd, a zvrátiť pohyb alebo odstrániť akciu.
 
-Môžete vypnúť to podľa časti **nastavenia** > **Všeobecné** > **oznámenia** > **[Akcia potvrdenia](https://outlook.live.com/mail/options/general/notifications)**.
+Môžete to vypnúť v [akcii potvrdenia](https://outlook.live.com/mail/options/general/notifications) (**nastavenia** > **Zobraziť všetky Outlook nastavenia** > **všeobecné** > **oznámenia**).
 
-Poznámka: Nemôžete vrátiť odosielanie správ. Prečítajte si [chcem pripomenúť správy v službe Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a) pre viac informácií.
+Poznámka: Nemôžete vrátiť odosielanie správ. Ďalšie informácie nájdete v časti [chcem pripomenúť správy v službe Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
