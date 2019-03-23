@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: d6896e9c2b2b4b428459b4c0f3aee0658b02322e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2eb86e0c2e4741ea42c1476c4b76f5d2d318126f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927807"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757941"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="e1d1d-102">Opraviť problémy s SharePoint knižnice mapované sieťové jednotky</span><span class="sxs-lookup"><span data-stu-id="e1d1d-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="ae883-102">Opraviť problémy s SharePoint knižnice mapované sieťové jednotky</span><span class="sxs-lookup"><span data-stu-id="ae883-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
 
-<span data-ttu-id="e1d1d-103">Pri prechode na pripojenej sieťovej jednotky, zobrazí sa jedno z nasledujúcich hlásení:</span><span class="sxs-lookup"><span data-stu-id="e1d1d-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
+<span data-ttu-id="ae883-103">Pri prechode na pripojenej sieťovej jednotky, zobrazí sa jedno z nasledujúcich hlásení:</span><span class="sxs-lookup"><span data-stu-id="ae883-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
   
-- <span data-ttu-id="e1d1d-104">**\\Cesta nie je prístupný. Nemáte povolenie na používanie tohto sieťového prostriedku. Obráťte sa na správcu servera a zistiť, ak máte prístupové povolenia.**</span><span class="sxs-lookup"><span data-stu-id="e1d1d-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
+- <span data-ttu-id="ae883-104">**\\Cesta nie je prístupný. Nemáte povolenie na používanie tohto sieťového prostriedku. Obráťte sa na správcu servera a zistiť, ak máte prístupové povolenia.**</span><span class="sxs-lookup"><span data-stu-id="ae883-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
     
-- <span data-ttu-id="e1d1d-105">**Prístup bol odmietnutý. Pred otvorením súborov v tomto umiestnení, musíte najprv pridať webovú lokalitu do zoznamu dôveryhodných lokalít, prejdite na webovú lokalitu a vybrať možnosť automatického prihlásenia.**</span><span class="sxs-lookup"><span data-stu-id="e1d1d-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
+- <span data-ttu-id="ae883-105">**Prístup bol odmietnutý. Pred otvorením súborov v tomto umiestnení, musíte najprv pridať webovú lokalitu do zoznamu dôveryhodných lokalít, prejdite na webovú lokalitu a vybrať možnosť automatického prihlásenia.**</span><span class="sxs-lookup"><span data-stu-id="ae883-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
     
-<span data-ttu-id="e1d1d-106">[Získajte pomoc s riešením namapované sieťové jednotky](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span><span class="sxs-lookup"><span data-stu-id="e1d1d-106">[Get help troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
+<span data-ttu-id="ae883-106">[Získajte pomoc s riešením namapované sieťové jednotky](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span><span class="sxs-lookup"><span data-stu-id="ae883-106">[Get help troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
   
-<span data-ttu-id="e1d1d-p101">Mapovania knižnice ako sieťovú jednotku je dočasné a podporovaný iba v programe Internet Explorer. Namiesto toho [synchronizovať súbory servera SharePoint pomocou nového klienta synchronizácie OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) obsahujúcu [Súbory On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Prístup všetky vaše súbory v službe OneDrive bez použitia miestneho ukladacieho priestoru.</span><span class="sxs-lookup"><span data-stu-id="e1d1d-p101">Mapping a library as a network drive is temporary and supported only in Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="ae883-107">Mapovania knižnice ako sieťovú jednotku je dočasné a podporovaný iba v programe Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="ae883-107">Mapping a library as a network drive is temporary and supported only in Internet Explorer.</span></span> <span data-ttu-id="ae883-108">Namiesto toho [synchronizovať súbory servera SharePoint pomocou nového klienta synchronizácie OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) obsahujúcu [Súbory On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="ae883-108">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="ae883-109">Prístup všetky vaše súbory v službe OneDrive bez použitia miestneho ukladacieho priestoru.</span><span class="sxs-lookup"><span data-stu-id="ae883-109">Access all your files in OneDrive without using local storage space.</span></span>
   
 
