@@ -1,39 +1,37 @@
 ---
-title: Heslá aplikácií
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 heslá aplikácií
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938247"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762547"
 ---
 # <a name="app-passwords"></a>Heslá aplikácií
 
-Heslo aplikácie je kód, ktorý dáva povolenie aplikácii alebo zariadeniu získať prístup k vášmu kontu Office 365. Ak váš správca zapol viacnásobné overovanie pre vašu organizáciu a používate aplikácie, ktoré sa pripájajú k vášmu kontu Office 365, budete musieť vygenerovať heslo aplikácie, takže aplikácie môžete pripojiť k Office 365. Napríklad, ak používate Outlook 2016 alebo skôr so službami Office 365, budete musieť vytvoriť heslo aplikácie.
+Heslo aplikácie je kód, ktorý dáva povolenie aplikácii alebo zariadeniu získať prístup k Office 365work alebo školské konto. Ak vaše konto vyžaduje viacnásobné overovanie (MFA) a aplikácia pripojí k vášmu účtu, budete musieť vygenerovať heslo aplikácie, takže aplikácie môžete pripojiť k Office 365. Napríklad, program Outlook 2016 a staršie verzie Outlook vyžadujú heslo aplikácie.
   
-1. Skontrolujte, či váš Office 365 admin zmenil na viacnásobné overovanie pre váš účet. Ak sa tak nestalo, keď sa snaží urobiť tieto kroky nebudete vidieť možnosti v balíku Office 365.
+ **Poznámka**: skôr než vyskúšate nasledujúce kroky, overte, či váš Office 365 admin MFA potrebné pre váš účet. Ak nie, možnosti opísané v krokoch nebude k dispozícii.
+  
+1. S vašej práce alebo školy konta a heslo, prihláste sa do služby Office 365.
     
-2. Prihláste sa do služby Office 365 pomocou konta práca alebo škola s heslom ako obyčajne. Po výbere **Prihlásiť**sa uvidíte stránku s svoje užívateľské meno a niekoľko možností 
+2. Vyberte si **ho teraz nastaviť**.
     
-3. Vyberte si **ho teraz nastaviť**. 
+3. Vyberte metódu overenia a postupujte podľa pokynov.
     
-4. Vyberte metódu overovania a potom postupujte podľa pokynov na stránke.
+4. Po overení alternatívny spôsob kontaktu, vyberte si **ďalšiu**.
     
-5. Po overení alternatívny spôsob kontaktu, vyberte si **ďalšiu**. 
-    
-6. Dostanete heslo aplikácie, ktoré môžete použiť program Outlook, Apple Mail, atď. Vyberte ikonu Kopírovať Skopírujte heslo do schránky. Nebudete musieť zapamätať toto heslo. 
-    
-7. Keď pridáte e-mailového konta Office 365 do programu Outlook (alebo inej aplikácie), a sa zobrazí výzva na zadanie hesla, cez toto heslo aplikácie do poľa heslo a namiesto písania hesla konta. 
+5. Dostanete heslo aplikácie, ktoré môžete použiť s programom Outlook, Apple Mail a ďalšie aplikácie, ktoré ju potrebujú. Vyberte **Kopírovať** kopírovať heslo, takže ju môžete prilepiť inde (nemusíte zapamätať). 
     
 
