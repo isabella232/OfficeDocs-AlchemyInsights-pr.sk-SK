@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208312"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752145"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Prepínač plánuje zvýšiť veľkosť poštovej schránky
 
@@ -34,4 +34,4 @@ Ak veľkosť poštovej schránky 50 GB, môžete zvýšiť na 100 GB prechod na 
     
 Ďalšie podrobnosti nájdete v časti [prechod na iný plán služieb Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Ak máte [plán služby O365 archívna, ktorý podporuje](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), môžete tiež získať dodatočné email skladovanie umožnením archívnej poštovej schránky.  Archívna poštová schránka vám dáva ďalší úložný priestor a umožňuje presunúť, kopírovať a vyhľadávanie správ v primárnej a archívnej poštovej schránky. Kroky na zapnutie archívnej poštovej schránky, v téme [Zapnúť archívnu poštovú schránku](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
