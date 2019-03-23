@@ -1,28 +1,33 @@
 ---
-title: TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912039"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754269"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?
 
-Existuje niekoľko rôznych dôvodov, prečo môže dostanete chybové hlásenie, že je blokovaný prístup na nájomcu. Vyriešiť problém, vyskúšajte nasledujúce kroky:
+Existuje niekoľko rôznych dôvodov, prečo dostávate túto chybu. Napríklad:
   
-- Skontrolujte, že predplatné je platná na stránke [prihlásenia na odber](https://admin.microsoft.com/adminportal/home#/subscriptions) . 
+- Skontrolujte, či vaše predplatné platné **fakturačné** \> **predplatné** stránky Microsoft 365 admin Center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- Prejdite na stránku [Billing](https://admin.microsoft.com/adminportal/home#/billoverview) pre všetky minulé poplatky na svojom účte. 
+- Vyhľadať všetky oznámenia vo **fakturácii** \> **účty** stránku Microsoft 365 admin Center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
-- Ak váš účet je teraz v poriadku, ale nedávno zmenila, môže to chvíľu trvať pre zmeny propagovať všetky servery. Skúste to znova o niekoľko minút, a ak problém pretrváva, kontaktujte nás.
+- Ak boli nedávno aktualizované Fakturácia a predplatné v konte, môže trvať čas pre zmeny propagovať. Skúste znova o niekoľko minút, a ak problém pretrváva, kontaktujte nás.
     
 

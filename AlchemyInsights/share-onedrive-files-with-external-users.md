@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917871"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754449"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Zdieľanie súborov v službe OneDrive s ľuďmi mimo vašej organizácie
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917871"
   - **Konkrétnych ľudí** poskytuje prístup len k ľuďom určíte, aj keď ostatní ľudia už majú prístup. Ak ľudia poslať pozvanie na zdieľanie, iba ľudia, ktorí už majú prístup k položke budú môcť použiť odkaz. 
     
     > [!NOTE]
-    > Ak niektorú z týchto možností nie je dostupná, alebo ak chcete iný odkaz typu predvolene zobrazia, môžete zmeniť nastavenia pre celú organizáciu na OneDrive admin Center a kliknutím **zdieľania** na ľavej table. [Dozvedieť sa viac](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ak niektorú z týchto možností nie je dostupná, alebo ak chcete iný odkaz typu predvolene zobrazia, môžete zmeniť nastavenia pre celú organizáciu na OneDrive admin Center a kliknutím **zdieľania** na ľavej table. [zistiť viac](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Podľa predvoleného nastavenia je zapnutá **povoliť úpravu** . Ak chcete ľudia len prezeranie súborov, zrušte začiarknutie políčka. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29917871"
     
 6. Keď ste pripravení poslať odkaz, kliknite na tlačidlo **Odoslať**. 
     
-[Ďalšie informácie](https://go.microsoft.com/fwlink/?linkid=871861)
+[zistiť viac](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
