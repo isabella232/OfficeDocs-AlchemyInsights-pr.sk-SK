@@ -83,476 +83,393 @@
 | 3/8/2019 | [8000076 Outlook.com zablokovať odosielateľa - francúzština](/AlchemyInsights/8000076-outlook-com-block-sender-french) | pridané |
 
 
-## <a name="week-of-february-04-2019"></a>Týždeň február 04, 2019
+## <a name="week-of-march-11-2019"></a>Týždeň 11 marca 2019
 
 
 | Zverejnené na |Názov témy | Zmena |
 |------|------------|--------|
-| 2/4/2019 | [Pridať používateľov do služby Office 365](/AlchemyInsights/add-users-to-office-365) | je |
-| 2/6/2019 | [Zamestnanec opúšťa](/AlchemyInsights/employee-leaving) | je |
-| 2/6/2019 | [Admin prevzatia](/AlchemyInsights/admin-takeover) | je |
-| 2/6/2019 | [127 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
-| 2/6/2019 | [959 zmeniť zobrazovaný názov](/AlchemyInsights/959-change-display-name) | je |
-| 2/6/2019 | [Pridanie alebo odstránenie e-mailový alias používateľa](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | je |
-| 2/6/2019 | Pridať miest na predplatené prihlásenie na odber | odstránené |
-| 2/6/2019 | [Pridať používateľov do služby Office 365](/AlchemyInsights/add-users-to-office-365) | je |
-| 2/6/2019 | [Pridanie externých používateľov do distribučnej skupiny?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | je |
-| 2/6/2019 | Admin - globálne Office 365 nastavenie a správu | odstránené |
-| 2/6/2019 | Admin - spravovať používateľov, skupiny a zdrojov | odstránené |
-| 2/6/2019 | Admin - nastavenie domény a nastavenia DNS | odstránené |
-| 2/6/2019 | Admin - prihlásenie a heslo | odstránené |
-| 2/6/2019 | [Zrušiť predplatné na Office 365](/AlchemyInsights/cancel-office-365-subscription) | je |
-| 2/6/2019 | [Zmeniť užívateľské meno a e-mailovú adresu](/AlchemyInsights/change-a-user-s-name-and-email-address) | je |
-| 2/6/2019 | Commerce - spravovať účty, platby, predplatného a licencií | odstránené |
-| 2/6/2019 | [TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
-| 2/6/2019 | [E-mail dodávky problémy s?](/AlchemyInsights/having-email-delivery-issues-0) | je |
-| 2/6/2019 | [E-mail dodávky problémy s?](/AlchemyInsights/having-email-delivery-issues) | je |
-| 2/6/2019 | [Máte problémy dostať pripojenia programu Outlook?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | je |
-| 2/6/2019 | [Máte problémy dostať pripojenia programu Outlook?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | je |
-| 2/6/2019 | Intune - stiahnuť, nastaviť a používať Windows Intune | odstránené |
-| 2/6/2019 | [Problém s Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | je |
-| 2/6/2019 | ODSP | odstránené |
-| 2/6/2019 | Office klient - Excel | odstránené |
-| 2/6/2019 | [Obnoviť odstránené používateľské](/AlchemyInsights/restore-deleted-user) | je |
-| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-0) | je |
-| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-1) | je |
-| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-2) | je |
-| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-3) | je |
-| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-4) | je |
-| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress-5) | je |
-| 2/6/2019 | [Služba udalosti v priebehu](/AlchemyInsights/service-incident-in-progress) | je |
-| 2/6/2019 | [Nastavenie projektov](/AlchemyInsights/setting-up-project) | je |
-| 2/6/2019 | Nastavenie súladu funkcie ako Archív, uchovávania, súdne spory, eDiscovery a MDM | odstránené |
-| 2/6/2019 | Pomocou Offline Inštalátor balíka Office | odstránené |
-| 2/6/2019 | Yammer - nastavenie a služby Yammer | odstránené |
-| 2/7/2019 | [Excel havaruje?](/AlchemyInsights/excel-crashing) | je |
-| 2/7/2019 | [Ako pridať alebo upraviť VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | je |
-| 2/7/2019 | [Vydanie Minecraft so službami Office 365 Education pre voľný](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | je |
-| 2/7/2019 | [606 informácie o delegovanie](/AlchemyInsights/606-information-on-delegation) | je |
-| 2/7/2019 | [Skupina sa nezobrazuje v zoznam skupín](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | je |
-| 2/8/2019 | [DLP politiky tipy nefungujú](/AlchemyInsights/dlp-policy-tips-not-working) | je |
-| 2/8/2019 | [DLP pravidlo pre USA / UK číslo pasu nefunguje](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | je |
-| 2/8/2019 | [Office 365 Education pre voľný](/AlchemyInsights/office-365-education-for-free) | je |
-| 2/8/2019 | [Požadované licencie pre Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | je |
-| 2/8/2019 | [Politiky uchovávania údajov v Exchange Admin Center nefunguje](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | je |
+| 3/12/2019 | 8000054 doručenej pošty služby Outlook.com nenačítajú | pridané |
+| 3/12/2019 | [8000078 doručenej pošty služby Outlook.com nenačítajú](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | premenovať |
+| 3/12/2019 | [8000078 doručenej pošty služby Outlook.com nenačítajú](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | je |
+| 3/13/2019 | [Relé pošty prostredníctvom služieb Office 365](/AlchemyInsights/relay-email-through-office-365) | je |
+| 3/14/2019 | [rovnaký ako názov súboru je najlepšie [pravidlo #-Popis]](/AlchemyInsights/1-alchemy-insight-template) | je |
+| 3/14/2019 | [Zvýšiť veľkosť poštovej schránky](/AlchemyInsights/increase-mailbox-size) | je |
+| 3/15/2019 | [Desktop odvolanie správy programu Outlook alebo nahradiť e-mailovej správy](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | pridané |
 
 
-## <a name="week-of-february-11-2019"></a>Týždeň 11 februára 2019
+## <a name="week-of-march-18-2019"></a>Týždeň 18 marca 2019
 
 
 | Zverejnené na |Názov témy | Zmena |
 |------|------------|--------|
-| 2/11/2019 | [Pomocou Office pripravenosť Toolkit](/AlchemyInsights/9000176-using-the-office-readiness-toolkit) | pridané |
-| 2/11/2019 | [Nové funkcie služby SharePoint oznámil](/AlchemyInsights/sharepoint-new-features-announced) | je |
-| 2/11/2019 | [rovnaký ako názov súboru je najlepšie [pravidlo #-Popis]](/AlchemyInsights/1-alchemy-insight-template) | je |
-| 2/11/2019 | [1047 antiSpam 550 5.7.708 služba nedostupná. Prístup odmietnutý, prevádzka neprijímajú z tejto IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | je |
-| 2/11/2019 | [1048 5.7.750 služba nedostupná. Klient odosielanie z neregistrovaných domén](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | je |
-| 2/11/2019 | [1049 antiSpam 4.5.3 príliš veľa príjemcov (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | je |
-| 2/11/2019 | [1050 antispam 4.7.500 Server je zaneprázdnený. Prosím skúste to znova neskôr od [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | je |
-| 2/11/2019 | [1051 antispam 4.7.500 prístup odmietnutý, prosím skúste to znova neskôr](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | je |
-| 2/11/2019 | [1065 odsudzovanie EOP odchádzajúce IP adresa rangesMC146155](/AlchemyInsights/1065-deprecation-of-eop-outbound-ip-address-ranges-mc146155) | je |
-| 2/11/2019 | [1081 kalendár - RBA všehochuť](/AlchemyInsights/1081-calendarrba-catchall) | je |
-| 2/11/2019 | [122 musíte vytvoriť podpis v programe Outlook na webe?](/AlchemyInsights/122-need-to-create-a-signature-in-outlook-on-the-web) | je |
-| 2/11/2019 | [123 dostať účet zakázaný chyby v OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | je |
-| 2/11/2019 | [124 povolenie chyba zobrazuje pri prístupe k zdieľanej poštovej schránky v aplikácii OWA?](/AlchemyInsights/124-getting-a-permission-error-when-accessing-a-shared-mailbox-in-owa) | je |
-| 2/11/2019 | [125 Chyba neplatný preukaz v Outlooku na webe?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | je |
-| 2/11/2019 | [126 dostať poštovú schránku nemožno nájsť chyby v OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | je |
-| 2/11/2019 | [1264 IP blokované pre odosielanie príliš veľa spamu (550 5.7.51)](/AlchemyInsights/1264-ip-blocked-for-sending-too-much-spam-550-5-7-51) | je |
-| 2/11/2019 | [127 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
-| 2/11/2019 | [128 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
-| 2/11/2019 | [1314 duplikovať objekt sanácie](/AlchemyInsights/1314-duplicate-object-remediation) | je |
-| 2/11/2019 | [1332 OWA - doručenej pošty pravidiel sa nevykonáva pre poštovú schránku](/AlchemyInsights/1332-owainbox-rule-s-are-not-executing-for-a-mailbox) | je |
-| 2/11/2019 | [1336 RecoverableItems priečinok je plný.](/AlchemyInsights/1336-recoverableitems-folder-is-full) | je |
-| 2/11/2019 | [1374 vyriešiť dve poštové schránky howto](/AlchemyInsights/1374-resolve-two-mailboxes-howto) | je |
-| 2/11/2019 | [Chyba rozhrania Winsock 1554 10061](/AlchemyInsights/1554-winsock-error-10061) | je |
-| 2/11/2019 | [1600036 synchronizácia kalendára telefónu alebo tabuľky](/AlchemyInsights/1600036-syncing-calendar-to-phone-or-table) | je |
-| 2/11/2019 | [1800001 vytvoriť alebo upraviť profil](/AlchemyInsights/1800001-create-or-edit-a-profile) | je |
-| 2/11/2019 | [1800001 odstrániť profil](/AlchemyInsights/1800001-delete-profile) | je |
-| 2/11/2019 | [1800005 oprava Hľadať problémy opätovným zostavením katalógu okamžitého hľadania](/AlchemyInsights/1800005-fix-search-issues-by-rebuilding-your-instant-search-catalog) | je |
-| 2/11/2019 | [1800009Outlook pre Mac z aplikácie podporu](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | je |
-| 2/11/2019 | [1800014 získať podporu v aplikácii Outlook mobilnej aplikácie](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | je |
-| 2/11/2019 | [1800014 nastaviť e-mail v programe Outlook mobile app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | je |
-| 2/11/2019 | [1800014 riešenie problémov programu Outlook mobile nastavenie zdieľanej schránky](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | je |
-| 2/11/2019 | [1800014 pomocou zdieľanej poštovej schránky na mobilnom zariadení](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | je |
-| 2/11/2019 | [1800018 Pridanie/nastaviť e-mailové kontá](/AlchemyInsights/1800018-add-set-up-email-accounts) | je |
-| 2/11/2019 | [1800018 nájsť nastavenia servera POP a IMAP](/AlchemyInsights/1800018-find-your-pop-and-imap-server-settings) | je |
-| 2/11/2019 | [1800019 zobrazení prioritnej doručenej pošty v programe Outlook mobile](/AlchemyInsights/1800019-focused-inbox-in-outlook-mobile) | je |
-| 2/11/2019 | [1800019 zameral doručenej pošty v programe Outlook](/AlchemyInsights/1800019-focused-inbox-in-outlook) | je |
-| 2/11/2019 | [1800021 ako vytvoriť pravidlo v programe Outlook pre Mac](/AlchemyInsights/1800021-how-to-create-a-rule-in-outlook-for-mac) | je |
-| 2/11/2019 | [1800029 pripojené kontá nie sú podporované v programe Outlook na webe](/AlchemyInsights/1800029-connected-accounts-not-supported-in-outlook-on-the-web) | je |
-| 2/11/2019 | [182 spustite SaRA diagnostikovať &amp; vyriešiť problémy s overovaním služby Outlook](/AlchemyInsights/182-please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | je |
-| 2/11/2019 | [204. ako zistiť chýbajúce alebo obnoviť chýbajúce Outlook pošta, kalendár alebo kontakty](/AlchemyInsights/204-how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | je |
-| 2/11/2019 | [321 problémy, keď používateľ nie je prijímanie e-mailov](/AlchemyInsights/321-issues-when-a-user-isn-t-receiving-email) | je |
-| 2/11/2019 | [322 problémy, keď používateľ má problémy odosielanie](/AlchemyInsights/322-issues-when-a-user-is-having-issues-sending) | je |
-| 2/11/2019 | [323 problémy s oneskorením v e-maile](/AlchemyInsights/323-issues-with-delays-in-email) | je |
-| 2/11/2019 | [324 problémy s email(s) ísť na nesprávny cieľ](/AlchemyInsights/324-issues-with-email-s-going-to-the-wrong-destination) | je |
-| 2/11/2019 | [3800017 riešenie problémov synchronizácie kalendára na zariadenie](/AlchemyInsights/3800017-troubleshoot-syncing-calendar-to-your-device) | je |
-| 2/11/2019 | [398 kalendár - rezervácia](/AlchemyInsights/398-calendarbooking) | je |
-| 2/11/2019 | [399 kalendár - delegát](/AlchemyInsights/399-calendardelegate) | je |
-| 2/11/2019 | [400 kalendár - FreeBusy](/AlchemyInsights/400-calendarfreebusy) | je |
-| 2/11/2019 | [401 hybrid - FreeBusy](/AlchemyInsights/401-hybridfreebusy) | je |
-| 2/11/2019 | [402 kalendár - O365Groups](/AlchemyInsights/402-calendaro365groups) | je |
-| 2/11/2019 | [408 RBA](/AlchemyInsights/408-rba) | je |
-| 2/11/2019 | [410 kalendár zdieľanie v Office365](/AlchemyInsights/410-calendar-sharing-in-office365) | je |
-| 2/11/2019 | [411 kalendára povolenie](/AlchemyInsights/411-calendaring-permission) | je |
-| 2/11/2019 | [412 chyba politiky pri zdieľaní kalendára](/AlchemyInsights/412-policy-error-when-sharing-calendar) | je |
-| 2/11/2019 | [413 pochopenie programu Mail](/AlchemyInsights/413-understanding-agenda-mail) | je |
-| 2/11/2019 | [414 vyhľadávanie skúsenosti aktualizované](/AlchemyInsights/414-search-experience-updated) | je |
-| 2/11/2019 | [415 vyhľadávanie skúsenosti aktualizované](/AlchemyInsights/415-search-experience-updated) | je |
-| 2/11/2019 | [423 Org Security - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | je |
-| 2/11/2019 | [424 Org Security - Spam falošne pozitívne](/AlchemyInsights/424-org-securityspam-false-positive) | je |
-| 2/11/2019 | [500 heslá aplikácií](/AlchemyInsights/500-app-passwords) | je |
-| 2/11/2019 | [597 Microsoft rezervácie App](/AlchemyInsights/597-microsoft-bookings-app) | je |
-| 2/11/2019 | [603 Naučte sa upraviť nastavenia programu](/AlchemyInsights/603-learn-how-to-adjust-agenda-settings) | je |
-| 2/11/2019 | [604 tipy Kategória](/AlchemyInsights/604-troubleshooting-categories) | je |
-| 2/11/2019 | [606 informácie o delegovanie](/AlchemyInsights/606-information-on-delegation) | je |
-| 2/11/2019 | [607 voľnom poradcu](/AlchemyInsights/607-free-busy-troubleshooter) | je |
-| 2/11/2019 | [608 informácie kalendára na hybridné nastavenia](/AlchemyInsights/608-calendar-information-on-hybrid-setups) | je |
-| 2/11/2019 | [609 informácie o importe a exporte kalendárov](/AlchemyInsights/609-information-on-importing-and-exporting-calendars) | je |
-| 2/11/2019 | [610 ďalšie informácie o skupiny Office 365](/AlchemyInsights/610-learn-about-office-365-groups) | je |
-| 2/11/2019 | [611 zdieľanie kalendára](/AlchemyInsights/611-calendar-sharing) | je |
-| 2/11/2019 | [612 učiť ako o kalendáre a verejné priečinky](/AlchemyInsights/612-learn-how-about-calendars-and-public-folders) | je |
-| 2/11/2019 | [613 kalendár publikovania informácií](/AlchemyInsights/613-calendar-publishing-information) | je |
-| 2/11/2019 | [614 ako vytvoriť a spravovať poštové schránky miestnosti](/AlchemyInsights/614-how-to-create-and-manage-room-mailboxes) | je |
-| 2/11/2019 | [615 typy zdieľanie, a ako ich zriadil.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | je |
-| 2/11/2019 | [616 zdieľanie kalendára](/AlchemyInsights/616-calendar-sharing) | je |
-| 2/11/2019 | [617 dozvedieť o externé možnosti zdieľania](/AlchemyInsights/617-learn-about-external-sharing-options) | je |
-| 2/11/2019 | [618 kalendár politika zdieľania](/AlchemyInsights/618-calendar-sharing-policy) | je |
-| 2/11/2019 | [620 nastaviť časové pásmo a jazyk nastavenia programu Outlook na webe](/AlchemyInsights/620-adjust-time-zone-and-language-setting-in-outlook-on-the-web) | je |
-| 2/11/2019 | [646 konfigurovaní AADConnect](/AlchemyInsights/646-how-to-configure-aadconnect) | je |
-| 2/11/2019 | [711 vytvoriť distribučný zoznam alebo skupinu](/AlchemyInsights/711-creating-a-distribution-list-or-group) | je |
-| 2/11/2019 | [712 prevod distribučného zoznamu do skupiny Office 365](/AlchemyInsights/712-converting-a-distribution-list-to-an-office-365-group) | je |
-| 2/11/2019 | [713 pridať ďalšiu e-mailovú adresu do distribučného zoznamu](/AlchemyInsights/713-adding-an-additional-email-address-to-a-distribution-list) | je |
-| 2/11/2019 | [714 povolenie externých odosielateľov do e-mailových distribučných zoznamov](/AlchemyInsights/714-allowing-external-senders-to-email-distribution-lists) | je |
-| 2/11/2019 | [717 povolenie používateľom odosielanie e-mailu distribučného zoznamu](/AlchemyInsights/717-allowing-users-to-send-email-as-a-distribution-list) | je |
-| 2/11/2019 | [718 pridávanie externé kontakty a ľudia mimo organizácie do distribučného zoznamu](/AlchemyInsights/718-adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | je |
-| 2/11/2019 | [723 tvorby e-mailový alias primárnej e-mailovej pre užívateľa](/AlchemyInsights/723-making-an-email-alias-a-primary-email-for-the-user) | je |
-| 2/11/2019 | [725 pomocou e-mailový alias v mobilnom zariadení](/AlchemyInsights/725-using-email-alias-on-mobile-device) | je |
-| 2/11/2019 | [726 blokovanie preposielanie e-mailov](/AlchemyInsights/726-blocking-email-forwarding) | je |
-| 2/11/2019 | [743 vytváranie užívateľom bez licencie](/AlchemyInsights/743-creating-users-without-a-license) | je |
-| 2/11/2019 | [744 vytváranie používateľov, keď organizácia je hybridný režim](/AlchemyInsights/744-creating-users-when-organization-is-in-hybrid-mode) | je |
-| 2/11/2019 | [760 pripojenie k Exchange Online PowerShell](/AlchemyInsights/760-connecting-to-exchange-online-powershell) | je |
-| 2/11/2019 | [761 pripojenie Exchange Online PowerShell zapnuté MZV](/AlchemyInsights/761-connecting-to-exchange-online-powershell-when-mfa-is-enabled) | je |
-| 2/11/2019 | [763 blokovanie Exchange Online PowerShell prístup pre užívateľov](/AlchemyInsights/763-blocking-exchange-online-powershell-access-for-users) | je |
-| 2/11/2019 | [764 pridať/nastavenie e-mailových účtov](/AlchemyInsights/764-add-setup-email-accounts) | je |
-| 2/11/2019 | [8000001 vypnúť zobrazení prioritnej doručenej pošty](/AlchemyInsights/8000001-turn-off-focused-inbox) | je |
-| 2/11/2019 | [8000002 zmeniť heslo v službe Outlook.com](/AlchemyInsights/8000002-change-your-password-in-outlook-com) | je |
-| 2/11/2019 | [8000003 ako nájsť a obnoviť chýbajúce alebo vypúšťa e-mailu, kalendára alebo kontaktov položky](/AlchemyInsights/8000003-how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-it) | je |
-| 2/11/2019 | [8000005 úzkej Outlookcom účet](/AlchemyInsights/8000005-close-outlookcom-account) | je |
-| 2/11/2019 | [8000006 zmeniť názov profilu v službe Outlook.com](/AlchemyInsights/8000006-change-profile-name-in-outlook-com) | je |
-| 2/11/2019 | [8000007 kontrola pravopisu v službe Outlook.com](/AlchemyInsights/8000007-check-spelling-in-outlook-com) | je |
-| 2/11/2019 | [8000008 odhlásiť zo služby Outlook.com](/AlchemyInsights/8000008-sign-out-of-outlook-com) | je |
-| 2/11/2019 | [8000008 automaticky neprihlasoval do služby Outlook.com](/AlchemyInsights/8000008-stop-signing-in-automatically-to-outlook-com) | je |
-| 2/11/2019 | [8000009 vytvoriť priečinok v službe Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | je |
-| 2/11/2019 | [8000010 zmeniť môj e-mailovú adresu v službe Outlook.com](/AlchemyInsights/8000010-change-my-email-address-in-outlook-com) | je |
-| 2/11/2019 | [8000011 obnoviť zmazané e-maily v službe Outlook.com](/AlchemyInsights/8000011-recover-deleted-email-in-outlook-com) | je |
-| 2/11/2019 | [8000012 odstránenie kontaktu v službe Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | je |
-| 2/11/2019 | [8000013 Zmena písma v službe Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | je |
-| 2/11/2019 | [8000014 ako zmeniť jazyk v službe Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | je |
-| 2/11/2019 | [8000015 blokovanie alebo odblokovanie odosielateľov](/AlchemyInsights/8000015-block-or-unblock-senders) | je |
-| 2/11/2019 | [8000015 prijímanie e-mail od blokovaných odosielateľov v službe Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | je |
-| 2/11/2019 | [8000016 odstrániť priečinok v službe Outlook.com](/AlchemyInsights/8000016-delete-a-folder-in-outlook-com) | je |
-| 2/11/2019 | [8000019 importovať kontakty v službe Outlook.com](/AlchemyInsights/8000019-import-contacts-in-outlook-com) | je |
-| 2/11/2019 | [8000020 export kontaktov v službe Outlook.com](/AlchemyInsights/8000020-export-contacts-in-outlook-com) | je |
-| 2/11/2019 | [8000024 Outlook.com nemôžete prihlásiť do služby Outlook.com](/AlchemyInsights/8000024-outlook-com-can-t-sign-in-to-outlook-com) | je |
-| 2/11/2019 | [8000028 Odstránenie reklám v službe Outlook.com](/AlchemyInsights/8000028-remove-ads-in-outlook-com) | je |
-| 2/11/2019 | [8000029 zaoberať neoprávneným získavaním údajov v službe Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | je |
-| 2/11/2019 | [8000029 riešenie nevyžiadanej pošty v službe Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | je |
-| 2/11/2019 | [8000029 zaoberať spam alebo phishing v službe Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | je |
-| 2/11/2019 | [8000030 ako na overenie konta](/AlchemyInsights/8000030-how-to-verify-your-account) | je |
-| 2/11/2019 | [8000031 nie je možné odstrániť fotografie zo súborov](/AlchemyInsights/8000031-unable-to-delete-photos-from-files) | je |
-| 2/11/2019 | [8000033 ako odpovedať alebo poslať správy v službe Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | je |
-| 2/11/2019 | [8000034 prečítaní v službe Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | je |
-| 2/11/2019 | [8000035 opustiť Outlook.com beta](/AlchemyInsights/8000035-leave-the-outlook-com-beta) | je |
-| 2/11/2019 | [8000036 zmeniť obrázok v službe Outlook.com](/AlchemyInsights/8000036-change-picture-in-outlook-com) | je |
-| 2/11/2019 | [8000036 Zmena názvu pošty v službe Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | je |
-| 2/11/2019 | [8000036 zmeniť názov profilu v službe Outlook.com](/AlchemyInsights/8000036-change-your-profile-name-in-outlook-com) | je |
-| 2/11/2019 | [8000037 nedostali e-mail v službe Outlook.com](/AlchemyInsights/8000037-not-receiving-email-in-outlook-com) | je |
-| 2/11/2019 | [8000038 overenie účtu HDPR detí](/AlchemyInsights/8000038-gdpr-child-account-verification) | je |
-| 2/11/2019 | [8000039 Outlook.com účet hacknut](/AlchemyInsights/8000039-outlook-com-account-hacked) | je |
-| 2/11/2019 | [8000040 pridať konto Outlook.com v Outlooku pre Windows](/AlchemyInsights/8000040-add-your-outlook-com-account-in-outlook-for-windows) | je |
-| 2/11/2019 | [8000041 Zmena vzhľadu poštovej schránke Outlook.com](/AlchemyInsights/8000041-change-the-look-of-your-outlook-com-mailbox) | je |
-| 2/11/2019 | [8000043 POP, IMAP a SMTP nastavenia pre Outlook.com](/AlchemyInsights/8000043-pop-imap-and-smtp-settings-for-outlook-com) | je |
-| 2/11/2019 | [8000044 odoslané e-mail sa vráti späť "dodania zlyhal" v službe Outlook.com](/AlchemyInsights/8000044-sent-email-comes-back-delivery-failed-in-outlook-com) | je |
-| 2/11/2019 | [8000046 ako tlačiť prílohu](/AlchemyInsights/8000046-how-to-print-an-attachment) | je |
-| 2/11/2019 | [8000046 tlačiť e-maily a kalendáre v službe Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | je |
-| 2/11/2019 | [8000047 ako vytvoriť podpis e-mailu v službe Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | je |
-| 2/11/2019 | [8000048 nemôže prečítať email Gogole Chrome s Adblock](/AlchemyInsights/8000048-can-t-read-email-in-gogole-chrome-with-adblock) | je |
-| 2/11/2019 | [8000048 nemôže prečítať email v prehliadači Google Chrome s Adblock](/AlchemyInsights/8000048-can-t-read-email-in-google-chrome-with-adblock) | je |
-| 2/11/2019 | [8000048 nemôžete vybrať kontakty, pri vytváraní e-mailu v službe Outlook.com](/AlchemyInsights/8000048-can-t-select-contacts-when-composing-email-in-outlook-com) | je |
-| 2/11/2019 | [8000048 prepojenia v Outlook.com nefungujú v prehliadači Firefox](/AlchemyInsights/8000048-links-in-outlook-com-don-t-work-in-firefox) | je |
-| 2/11/2019 | [8000048 Outlook.com odošle e-mail "v mene" svoju emailovú adresu](/AlchemyInsights/8000048-outlook-com-sends-email-on-behalf-of-my-email-address) | je |
-| 2/11/2019 | [8000049 Outlook.com stav vždy zobrazuje ako dostupné](/AlchemyInsights/8000049-outlook-com-status-always-shows-as-available) | je |
-| 2/11/2019 | [8000049 komunikácia s rodinou a priateľmi cez Skype v službe Outlook.com](/AlchemyInsights/8000049-talk-to-family-and-friends-on-skype-in-outlook-com) | je |
-| 2/11/2019 | [8000050 nemôžete prihlásiť do služby Outlook.com](/AlchemyInsights/8000050-can-t-sign-in-to-outlook-com) | je |
-| 2/11/2019 | [8000051 Outlook.com dlhého behu skriptu](/AlchemyInsights/8000051-outlook-com-long-running-script) | je |
-| 2/11/2019 | [8000052 Priloženie súborov v službe Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | je |
-| 2/11/2019 | [8000053 nie je možné poslať skupine e-mailov](/AlchemyInsights/8000053-unable-to-send-group-emails) | je |
-| 2/11/2019 | [8000054 Outlook.com skladovanie limit bol prekročený](/AlchemyInsights/8000054-outlook-com-storage-limit-exceeded) | je |
-| 2/11/2019 | [8000055 ako na prihlásenie alebo odhlásenie zo služby Outlook.com](/AlchemyInsights/8000055-how-to-sign-in-to-or-out-of-outlook-com) | je |
-| 2/11/2019 | [8000056 ako získať prístup k službe Outlook.com cestách](/AlchemyInsights/8000056-how-to-access-outlook-com-while-traveling) | je |
-| 2/11/2019 | [8000057 bezpečné odkazy v službe Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | je |
-| 2/11/2019 | [8000057 bezpečné odkazy v službe Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com) | je |
-| 2/11/2019 | [8000059 vytvoriť nový priečinok](/AlchemyInsights/8000059-create-new-folder) | je |
-| 2/11/2019 | [8000059 ako zmeniť tému akcie (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | je |
-| 2/11/2019 | [8000059 ako zmeniť rozloženie](/AlchemyInsights/8000059-how-to-change-your-layout) | je |
-| 2/11/2019 | [8000059 Spam filter nefunguje](/AlchemyInsights/8000059-spam-filter-not-working) | je |
-| 2/11/2019 | [8000059 vypnúť zobrazení prioritnej doručenej pošty](/AlchemyInsights/8000059-turn-off-focused-inbox) | je |
-| 2/11/2019 | [8000060 Outlook.com MSA dôkazy](/AlchemyInsights/8000060-outlook-com-msa-proofs) | je |
-| 2/11/2019 | [8000061 Outlook.com chýbajúce priečinky](/AlchemyInsights/8000061-outlook-com-missing-folders) | je |
-| 2/11/2019 | [8000062 presun priečinka v službe Outlook.com](/AlchemyInsights/8000062-moving-a-folder-in-outlook-com) | je |
-| 2/11/2019 | [8000063 ako kliknutie pravým tlačidlom na Mac](/AlchemyInsights/8000063-how-to-right-click-on-a-mac) | je |
-| 2/11/2019 | [8000077 nemôžete prihlásiť do služby Hotmail alebo Outlook.com?](/AlchemyInsights/8000077-can-t-sign-in-to-hotmail-or-outlook-com) | je |
-| 2/11/2019 | [878 druhy zdieľanie, a ako ich zriadil](/AlchemyInsights/878-types-of-sharing-and-how-to-set-them-up) | je |
-| 2/11/2019 | [898 ďalšie informácie o externých zdieľanie Možnosti kalendára](/AlchemyInsights/898-learn-about-external-calendar-sharing-options) | je |
-| 2/11/2019 | [899 kalendár politika zdieľania](/AlchemyInsights/899-calendar-sharing-policy) | je |
-| 2/11/2019 | [Pomocou Office pripravenosť Toolkit](/AlchemyInsights/9000176-using-the-office-readiness-toolkit) | je |
-| 2/11/2019 | [902 (sync chyby spôsobené duplicitné objekty)](/AlchemyInsights/902-sync-errors-due-to-duplicate-objects) | je |
-| 2/11/2019 | [911 vypnutie prioritná Doručená pošta klienta](/AlchemyInsights/911-turning-off-focused-inbox-in-the-client) | je |
-| 2/11/2019 | [912 konfigurovať zameriavali doručené pre každého vo vašej organizácii](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | je |
-| 2/11/2019 | [922 pravidlá pre doručenú poštu](/AlchemyInsights/922-inbox-rules) | je |
-| 2/11/2019 | [924 pravidlo obmedzuje](/AlchemyInsights/924-rule-limits) | je |
-| 2/11/2019 | [929 doručenú deflectTransport pravidiel](/AlchemyInsights/929-inbox-rules-to-deflecttransport-rules) | je |
-| 2/11/2019 | [932 inovácia AADConnect](/AlchemyInsights/932-upgrading-aadconnect) | je |
-| 2/11/2019 | [934 Povoliť POP a IMAP účtov](/AlchemyInsights/934-enable-pop-and-imap-accounts) | je |
-| 2/11/2019 | [955 konfigurovaní MZV](/AlchemyInsights/955-how-to-configure-mfa) | je |
-| 2/11/2019 | [956 ako vytvoriť a spravovať poštové schránky miestnosti](/AlchemyInsights/956-how-to-create-and-manage-room-mailboxes) | je |
-| 2/11/2019 | [959 zmeniť zobrazovaný názov](/AlchemyInsights/959-change-display-name) | je |
-| 2/11/2019 | [973 migrácie StalledDueTo * pravidlo](/AlchemyInsights/973-migration-stalleddueto-rule) | je |
-| 2/11/2019 | [Zmena hesla](/AlchemyInsights/change-your-password-in-outlook.com) | je |
-| 2/11/2019 | [Zmeniť povolenia pre poštovú schránku](/AlchemyInsights/changing-permissions-on-a-mailbox) | je |
-| 2/11/2019 | [Prevod poštovej schránky používateľa do zdieľanej poštovej schránky?](/AlchemyInsights/converting-user-mailbox-into-a-shared-mailbox) | je |
-| 2/11/2019 | [Excel havaruje?](/AlchemyInsights/excel-crashing) | je |
-| 2/11/2019 | [Odstránenie domény](/AlchemyInsights/remove-domain) | je |
-| 2/11/2019 | [Nastaviť SPF v balíku Office 365](/AlchemyInsights/set-up-spf-in-office-365) | je |
-| 2/11/2019 | [Čiernom pozadí sa objaví, alebo formátovanie buniek nezobrazuje správne](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | je |
-| 2/11/2019 | [Prístup odmietnutý pri mapovaní jednotky na lokalitu SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | je |
-| 2/11/2019 | [Prístup odmietnutý pri zobrazení pracovného postupu](/AlchemyInsights/access-denied-when-viewing-a-workflow) | je |
-| 2/11/2019 | [Služby Access Services](/AlchemyInsights/access-services) | je |
-| 2/11/2019 | [Aktivovať nové predplatné pomocou kódu product key](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | je |
-| 2/11/2019 | [Aktivácia balíka Office](/AlchemyInsights/activate-office) | je |
-| 2/11/2019 | [Aktivácia balíka Microsoft Office 365 objem licenciu predplatného](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | je |
-| 2/11/2019 | [Riešenie problémov s aktiváciou](/AlchemyInsights/activation-troubleshooting) | je |
-| 2/11/2019 | [Pridať skupinu lokality SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | je |
-| 2/11/2019 | [Pridať iný e-mailový alias](/AlchemyInsights/add-another-email-alias) | je |
-| 2/11/2019 | [Pridať kontakty do služby O365 skupiny](/AlchemyInsights/add-contacts-to-o365-group) | je |
-| 2/11/2019 | [Pridanie alebo odstránenie e-mailový alias používateľa](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | je |
-| 2/11/2019 | [Pridať miest na predplatené prihlásenie na odber](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | je |
-| 2/11/2019 | [Pridať používateľov do služby Office 365](/AlchemyInsights/add-users-to-office-365) | je |
-| 2/11/2019 | [Pridanie externých používateľov do distribučnej skupiny?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | je |
-| 2/11/2019 | [Pridanie externých používateľov](/AlchemyInsights/adding-external-users) | je |
-| 2/11/2019 | [ADFS federácia certifikát uplynie](/AlchemyInsights/adfs-federation-certificate-expiring) | je |
-| 2/11/2019 | [Admin úlohy a priradenie](/AlchemyInsights/admin-role-and-how-to-assign) | je |
-| 2/11/2019 | [Admin prevzatia](/AlchemyInsights/admin-takeover) | je |
-| 2/11/2019 | [Pokročilý nasadenia chytiť všetky pravidla](/AlchemyInsights/advanced-deployment-catch-all-rule) | je |
-| 2/11/2019 | [Alchemy - nemôžete prihlásiť do služby Outlook.com](/AlchemyInsights/alchemycan-t-sign-in-to-outlook-com) | je |
-| 2/11/2019 | [Alchemy - Zmena hesla v službe Outlook.com](/AlchemyInsights/alchemychange-your-password-in-outlook-com) | je |
-| 2/11/2019 | [Alchemy - vytvorenie a Pridanie podpisu do správy v programe Outlook](/AlchemyInsights/alchemycreate-and-add-signature-to-messages-in-outlook) | je |
-| 2/11/2019 | [Alchemy - vytvoriť email podpisy](/AlchemyInsights/alchemycreate-email-signatures) | je |
-| 2/11/2019 | [Alchemy - diagnostikovať a vyriešiť problémy s pripojením programu Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | je |
-| 2/11/2019 | [Alchemy - Outlook crash kroky na riešenie problémov](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | je |
-| 2/11/2019 | [Alchemy - Outlook chyba "nemôže spustiť program Microsoft Outlook"](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | je |
-| 2/11/2019 | [Alchemy - vyhľadávanie programu Outlook nie idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | je |
-| 2/11/2019 | [Alchemy - znovu profilu programu Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | je |
-| 2/11/2019 | [Všetky odbery sú aktívne](/AlchemyInsights/all-subscriptions-are-active) | je |
-| 2/11/2019 | [Už zaplatené?](/AlchemyInsights/already-paid) | je |
-| 2/11/2019 | [Anonymný zdieľanie](/AlchemyInsights/anonymous-sharing) | je |
-| 2/11/2019 | [Heslá aplikácií](/AlchemyInsights/app-passwords) | je |
-| 2/11/2019 | [Ste stále príliš veľa spam alebo phishing v poštovej schránke?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | je |
-| 2/11/2019 | [Priradiť alebo odstrániť licencie používateľov](/AlchemyInsights/assign-or-remove-users-licenses) | je |
-| 2/11/2019 | [Priradiť rozbočovač stránky](/AlchemyInsights/associate-a-hub-site) | je |
-| 2/11/2019 | [Výsledky auditu sú prázdne](/AlchemyInsights/auditing-results-are-blank) | je |
-| 2/11/2019 | [Ako sa stať správcom](/AlchemyInsights/become-an-admin) | je |
-| 2/11/2019 | [Cyklus fakturácie kreditnej karty](/AlchemyInsights/billing-cycle-credit-card) | je |
-| 2/11/2019 | [Zakúpenie predplatného na Office 365 pre podniky z bezplatnej skúšobnej verzie](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | je |
-| 2/11/2019 | [Nákup ďalších licencií](/AlchemyInsights/buy-additional-licenses) | je |
-| 2/11/2019 | [Nemôžete pridať predvolený tok činností schvaľovania 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | je |
-| 2/11/2019 | [Zrušiť predplatné na Office 365](/AlchemyInsights/cancel-office-365-subscription) | je |
-| 2/11/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription-0) | je |
-| 2/11/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription-1) | je |
-| 2/11/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription-2) | je |
-| 2/11/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription) | je |
-| 2/11/2019 | [Zmeniť užívateľské meno a e-mailovú adresu](/AlchemyInsights/change-a-user-s-name-and-email-address) | je |
-| 2/11/2019 | [Zmena domény Office 365 skupiny](/AlchemyInsights/change-domain-for-office-365-group) | je |
-| 2/11/2019 | [Zmeniť názov domény v službe SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | je |
-| 2/11/2019 | [Zmeniť, ako často budete platiť](/AlchemyInsights/change-how-often-you-pay) | je |
-| 2/11/2019 | [Zmena MDM úradu](/AlchemyInsights/change-mdm-authority) | je |
-| 2/11/2019 | [Zmena nameservery](/AlchemyInsights/change-nameservers) | je |
-| 2/11/2019 | [Zmena OneDrive for Business Kvóta ukladacieho priestoru](/AlchemyInsights/change-onedrive-for-business-storage-quota) | je |
-| 2/11/2019 | [Zmena spôsobu platby](/AlchemyInsights/change-payment-method) | je |
-| 2/11/2019 | [Zmeniť povolenia pre zoznam SharePoint alebo knižnicu](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | je |
-| 2/11/2019 | [Zmena alternatívnej e-mailovej adresy fakturačných upozornení](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | je |
-| 2/11/2019 | [Zmeniť UPN](/AlchemyInsights/change-upn) | je |
-| 2/11/2019 | [Zmeny na prístup externého používateľa](/AlchemyInsights/changes-to-external-user-access) | je |
-| 2/11/2019 | [Zmena veľkosti správy alebo prílohy](/AlchemyInsights/changing-message-or-attachment-size) | je |
-| 2/11/2019 | [Zmeniť povolenia pre verejný priečinok](/AlchemyInsights/changing-public-folder-permissions-0) | je |
-| 2/11/2019 | [Zmeniť povolenia pre verejný priečinok](/AlchemyInsights/changing-public-folder-permissions) | je |
-| 2/11/2019 | [Zmeniť zdieľanej poštovej schránky Odoslať ako správanie](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | je |
-| 2/11/2019 | [Skontrolovať stav synchronizácie AAD Identity](/AlchemyInsights/check-aad-identity-sync-status) | je |
-| 2/11/2019 | [Skontrolovať viacero súborov naraz](/AlchemyInsights/check-in-several-files-at-once) | je |
-| 2/11/2019 | [Porovnajte plány služieb Office 365](/AlchemyInsights/compare-office-365-plans) | je |
-| 2/11/2019 | [Podmienený prístup so službou Intune](/AlchemyInsights/conditional-access-with-intune) | je |
-| 2/11/2019 | [Konfigurácia nastavenia auditu](/AlchemyInsights/configure-audit-settings) | je |
-| 2/11/2019 | [Pripojenie klasickej lokality SharePoint team do skupiny](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | je |
-| 2/11/2019 | [ConsistencyGuid / sourceAnchor správanie](/AlchemyInsights/consistencyguidsourceanchor-behavior) | je |
-| 2/11/2019 | [Obsah sa nezobrazí vo výsledkoch vyhľadávania SharePoint](/AlchemyInsights/content-doesn-t-appear-in-sharepoint-search-results) | je |
-| 2/11/2019 | [Vytvorenie ovládacieho prvku skupín](/AlchemyInsights/control-creation-of-groups) | je |
-| 2/11/2019 | [Konverzia stránky na lokalite rozbočovača](/AlchemyInsights/convert-a-site-to-a-hub-site) | je |
-| 2/11/2019 | [Previesť zdieľanej poštovej schránke užívateľa](/AlchemyInsights/convert-a-users-mailbox-to-a-shared-mailbox) | je |
-| 2/11/2019 | [Previesť zdieľanej poštovej schránke používateľa poštovej schránky](/AlchemyInsights/convert-user-mailbox-to-shared-mailbox) | je |
-| 2/11/2019 | [Kopírovanie položky v knižnici dokumentov lokality SharePoint](/AlchemyInsights/copy-items-in-a-sharepoint-document-library) | je |
-| 2/11/2019 | [Kopírovať alebo presúvať položky v knižnici dokumentov lokality SharePoint](/AlchemyInsights/copy-or-move-items-in-a-sharepoint-document-library) | je |
-| 2/11/2019 | [Vytvoriť lokalitu classic](/AlchemyInsights/create-a-classic-site) | je |
-| 2/11/2019 | [Vytvoriť lokalitu komunikácie](/AlchemyInsights/create-a-communication-site) | je |
-| 2/11/2019 | [Vytvoriť tok](/AlchemyInsights/create-a-flow) | je |
-| 2/11/2019 | [Vytvorenie modernej tímovej lokality](/AlchemyInsights/create-a-modern-team-site) | je |
-| 2/11/2019 | [Vytvorenie zdieľanej poštovej schránky](/AlchemyInsights/create-a-shared-mailbox) | je |
-| 2/11/2019 | [Vytvorenie lokality SharePoint](/AlchemyInsights/create-a-sharepoint-site) | je |
-| 2/11/2019 | [Vytvorenie lokality SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | je |
-| 2/11/2019 | [Vytvorenie a používanie zdieľanej poštovej schránky](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | je |
-| 2/11/2019 | [Vytvoriť a používať zdieľané schránky](/AlchemyInsights/create-and-use-a-shared-mailbox) | je |
-| 2/11/2019 | [Vytvorenie aplikácie v PowerApps](/AlchemyInsights/create-apps-in-powerapps) | je |
-| 2/11/2019 | [Vytvorenie zdieľanej poštovej schránky](/AlchemyInsights/create-shared-mailbox) | je |
-| 2/11/2019 | [Vytváranie pravidiel pre doručenú poštu pre zdieľané poštové schránky](/AlchemyInsights/creating-inbox-rules-for-shared-mailboxes) | je |
-| 2/11/2019 | [Vytváranie verejných priečinkov](/AlchemyInsights/creating-public-folders-0) | je |
-| 2/11/2019 | [Vytváranie verejných priečinkov](/AlchemyInsights/creating-public-folders) | je |
-| 2/11/2019 | [Úverové check status žiadosť](/AlchemyInsights/credit-check-status-request) | je |
-| 2/11/2019 | [Úverové/vrátenie](/AlchemyInsights/credit-refund) | je |
-| 2/11/2019 | [CTRL + H ukazuje nájsť, nenahrádza v programe Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | je |
-| 2/11/2019 | [Okamžitej migrácie do služby Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | je |
-| 2/11/2019 | [Denné e-mail Limit prekročený. Tok činností je zavesené chyba](/AlchemyInsights/daily-email-limit-exceeded-workflow-is-suspended-error) | je |
-| 2/11/2019 | [Umiestnenie údajov](/AlchemyInsights/data-location) | je |
-| 2/11/2019 | [Odmietnutá kreditnej karty](/AlchemyInsights/declined-credit-card) | je |
-| 2/11/2019 | [Povolenia delegované poštovej schránky v prostredí hybridné](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | je |
-| 2/11/2019 | [Odstránenie lokality oznámení](/AlchemyInsights/delete-a-communication-site) | je |
-| 2/11/2019 | [Odstránenie strany](/AlchemyInsights/delete-a-page) | je |
-| 2/11/2019 | [Vymazať lokalitu SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | je |
-| 2/11/2019 | [Vymazať lokalitu SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | je |
-| 2/11/2019 | [Odstránenie lokality oznámení](/AlchemyInsights/delete-communication-site) | je |
-| 2/11/2019 | [Odstrániť skupinu stránok](/AlchemyInsights/delete-group-site) | je |
-| 2/11/2019 | [Odstrániť položky na lokalite SharePoint](/AlchemyInsights/delete-items-in-sharepoint) | je |
-| 2/11/2019 | [Odstrániť stránku](/AlchemyInsights/delete-page) | je |
-| 2/11/2019 | [Odstrániť kolekciu lokalít](/AlchemyInsights/delete-site-collection) | je |
-| 2/11/2019 | [Odstrániť podlokality alebo klasické tímovej lokality](/AlchemyInsights/delete-subsite-or-classic-team-site) | je |
-| 2/11/2019 | [Vymazať lokalitu tímu](/AlchemyInsights/delete-team-site) | je |
-| 2/11/2019 | [Odstránenie používateľov](/AlchemyInsights/deleting-users) | je |
-| 2/11/2019 | [Nasadiť bezšvové jediného prihlásenia](/AlchemyInsights/deploy-seamless-single-sign-on) | je |
-| 2/11/2019 | [Zakázať prístup na sieť Yammer](/AlchemyInsights/disable-access-to-yammer) | je |
-| 2/11/2019 | [Zrušiť vzatie k sebe](/AlchemyInsights/discard-a-check-out) | je |
-| 2/11/2019 | [Distribučná skupina nezobrazuje v zoznam skupín](/AlchemyInsights/distribution-group-not-showing-in-groups-list) | je |
-| 2/11/2019 | [Distribučná skupina {AimKIObject} nezobrazuje v zoznam skupín po minútach {AimKITimeElapsed}](/AlchemyInsights/distribution-groupaimkiobjectnot-showing-in-groups-list-after-aimkitimeelapsed-m) | je |
-| 2/11/2019 | [Distribučné zoznamy nie sú zobrazené](/AlchemyInsights/distribution-lists-not-showing) | je |
-| 2/11/2019 | [DLP nefunguje podľa očakávania](/AlchemyInsights/dlp-not-working-as-expected) | je |
-| 2/11/2019 | [DLP politiky tipy nefungujú](/AlchemyInsights/dlp-policy-tips-not-working) | je |
-| 2/11/2019 | [DLP pravidlo číslo kreditnej karty nefunguje](/AlchemyInsights/dlp-rule-for-credit-card-number-not-working) | je |
-| 2/11/2019 | [DLP pravidlo pre SSN nefunguje](/AlchemyInsights/dlp-rule-for-ssn-not-working) | je |
-| 2/11/2019 | [DLP pravidlo pre nás bankový účet číslo nefunguje](/AlchemyInsights/dlp-rule-for-us-bank-account-number-not-working) | je |
-| 2/11/2019 | [DLP pravidlo pre USA / UK číslo pasu nefunguje](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | je |
-| 2/11/2019 | [Máte legitímnych správ ako spamu?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | je |
-| 2/11/2019 | [Potrebujete prejsť telefónne číslo od jedného poskytovateľa na Office 365?](/AlchemyInsights/do-you-need-to-move-a-phone-number-from-one-provider-over-to-office-365) | je |
-| 2/11/2019 | [Nahrať dokument](/AlchemyInsights/document-upload) | je |
-| 2/11/2019 | [Neponižuj mě upgrade. Ako môžem vrátiť späť k predchádzajúcej verzii balíka Office?](/AlchemyInsights/don-t-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version) | je |
-| 2/11/2019 | [Stiahnutie a inštalácia balíka Office](/AlchemyInsights/download-and-install-office) | je |
-| 2/11/2019 | [Stiahnuť a nainštalovať alebo preinštalovať Office 365 alebo Office 2016 pre PC alebo Mac](/AlchemyInsights/download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac) | je |
-| 2/11/2019 | [eDiscovery vývoz nástroj](/AlchemyInsights/ediscovery-export-tool) | je |
-| 2/11/2019 | [Upraviť súbor iba na čítanie](/AlchemyInsights/edit-a-read-only-file) | je |
-| 2/11/2019 | [Zamestnanec opúšťa](/AlchemyInsights/employee-leaving) | je |
-| 2/11/2019 | [Zapnúť archívnu poštovú schránku](/AlchemyInsights/enable-an-archive-mailbox) | je |
-| 2/11/2019 | [Povoliť externé zdieľanie](/AlchemyInsights/enable-external-sharing) | je |
-| 2/11/2019 | [Povoliť auditovanie poštovej schránky](/AlchemyInsights/enable-mailbox-auditing) | je |
-| 2/11/2019 | [Umožnite tímom Microsoft](/AlchemyInsights/enable-microsoft-teams) | je |
-| 2/11/2019 | [Umožniť Microsoft úlohy](/AlchemyInsights/enable-microsoft-to-do) | je |
-| 2/11/2019 | [Umožniť Multifactor overovania](/AlchemyInsights/enable-multifactor-authentication) | je |
-| 2/11/2019 | [Zapnutie spravovania verzií v zozname alebo knižnici](/AlchemyInsights/enable-versioning-in-a-list-or-library) | je |
-| 2/11/2019 | [Chyba 0-1036 pri inštalácii balíka office](/AlchemyInsights/error-0-1036-when-installing-office) | je |
-| 2/11/2019 | [Chyba AttributeValueMustBeUnique](/AlchemyInsights/error-attributevaluemustbeunique) | je |
-| 2/11/2019 | [Kód chyby 0x15](/AlchemyInsights/error-code-0x15) | je |
-| 2/11/2019 | [Kód chyby 30125-4 alebo 30125-1011 pri inštalácii balíka Office](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | je |
-| 2/11/2019 | [Chybový kód 550 5.7.501 odmietnutý prístup, zneužívanie spam zistená](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | je |
-| 2/11/2019 | [Kód chyby 550 5.7.705 prístup odmietnutý, nájomca prekročila prah](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | je |
-| 2/11/2019 | [Chybové hlásenie pri zdieľaní súborov z Prieskumníka Windows](/AlchemyInsights/error-message-when-sharing-files-from-windows-explorer) | je |
-| 2/11/2019 | [Chybové hlásenie pri zdieľaní súborov](/AlchemyInsights/error-message-when-sharing-files) | je |
-| 2/11/2019 | [Chyba OneDrive nemôžete pripojiť k systému Windows](/AlchemyInsights/error-onedrive-cannot-connect-to-windows) | je |
-| 2/11/2019 | [Chyba pri odosielaní e-mailu blokovaný SpamHaus](/AlchemyInsights/error-sending-email-blocked-by-spamhaus) | je |
-| 2/11/2019 | [Problém filtra programu Excel](/AlchemyInsights/excel-autofilter-issue) | je |
-| 2/11/2019 | [Dochádza opakovane výzva na zadanie hesla v programe Outlook pre Mac?](/AlchemyInsights/experiencing-repeated-password-prompts-in-outlook-for-mac) | je |
-| 2/11/2019 | [Po uplynutí platnosti predplatného](/AlchemyInsights/expired-subscription) | je |
-| 2/11/2019 | [Predĺženie skúšobnej verzie služieb Office 365 for Business](/AlchemyInsights/extend-your-trial-for-office-365-for-business) | je |
-| 2/11/2019 | [Externé zdieľanie s tímovej lokality](/AlchemyInsights/external-sharing-with-a-team-site) | je |
-| 2/11/2019 | [Obmedzenia súborov](/AlchemyInsights/file-limits) | je |
-| 2/11/2019 | [Súbor otvorí iba na čítanie](/AlchemyInsights/file-open-read-only-0) | je |
-| 2/11/2019 | [Súbor otvorí iba na čítanie](/AlchemyInsights/file-open-read-only-1) | je |
-| 2/11/2019 | [Súbor otvorí iba na čítanie](/AlchemyInsights/file-open-read-only) | je |
-| 2/11/2019 | [Nájsť stratené alebo chýbajúce súbory OneDrive alebo SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | je |
-| 2/11/2019 | [Opraviť nepodarilo toku](/AlchemyInsights/fix-a-failed-flow) | je |
-| 2/11/2019 | [Odstránenie problémov so synchronizáciou OneDrivu](/AlchemyInsights/fix-onedrive-sync-issues) | je |
-| 2/11/2019 | [Riešenie problémov so synchronizáciou OneDrivu](/AlchemyInsights/fix-onedrive-sync-problems) | je |
-| 2/11/2019 | [Riešenie problémov s nahrávaním súborov do služby OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | je |
-| 2/11/2019 | [Problémy s formátovaním písma v programe Excel 2016](/AlchemyInsights/font-formatting-problems-in-excel-2016) | je |
-| 2/11/2019 | [Začíname s prietokom](/AlchemyInsights/get-started-with-flow) | je |
-| 2/11/2019 | [Začíname s SharePoint Online](/AlchemyInsights/get-started-with-sharepoint-online) | je |
-| 2/11/2019 | [Získanie kľúča hybrid](/AlchemyInsights/getting-a-hybrid-key) | je |
-| 2/11/2019 | [TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
-| 2/11/2019 | [Poskytnúť používateľom prístup k službe SharePoint a OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | je |
-| 2/11/2019 | [Dostal "Parameter sa nenašiel" chyba?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | je |
-| 2/11/2019 | [Povolili ste tímy pre vašich študentov?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | je |
-| 2/11/2019 | [E-mail dodávky problémy s?](/AlchemyInsights/having-email-delivery-issues-0) | je |
-| 2/11/2019 | [E-mail dodávky problémy s?](/AlchemyInsights/having-email-delivery-issues) | je |
-| 2/11/2019 | [Máte problémy dostať pripojenia programu Outlook?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | je |
-| 2/11/2019 | [Máte problémy dostať pripojenia programu Outlook?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | je |
-| 2/11/2019 | [Pomocník pre pochopenie hodnoty pridanej hodnoty (DPH)](/AlchemyInsights/help-understanding-value-added-tax-vat) | je |
-| 2/11/2019 | [Pomôcť pochopiť váš účet](/AlchemyInsights/help-understanding-your-bill) | je |
-| 2/11/2019 | [Ako pridať kreditnú kartu?](/AlchemyInsights/how-do-i-add-a-credit-card) | je |
-| 2/11/2019 | [Ako zmeniť z platby kreditnou kartou na faktúru?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | je |
-| 2/12/2019 | [Ako nainštalovať Office](/AlchemyInsights/how-to-install-office) | je |
-| 2/12/2019 | [Ak chcete nainštalovať Office z](/AlchemyInsights/where-to-install-office-from) | je |
-| 2/12/2019 | [1489-permissions-required-for-eDiscovery-Searches](/AlchemyInsights/1489-permissions-required-for-ediscovery-searches) | pridané |
-| 2/12/2019 | [1490-riešenie problémov-eDiscovery-zlyhania](/AlchemyInsights/1490-troubleshooting-ediscovery-failures) | pridané |
-| 2/12/2019 | [1491-Search-not-Returning-Expected-results](/AlchemyInsights/1491-search-not-returning-expected-results) | pridané |
-| 2/12/2019 | [1581 otvorenie a používanie zdieľanej poštovej schránky v programe Outlook na webe](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | pridané |
-| 2/12/2019 | [1800001 vytvoriť alebo upraviť profil](/AlchemyInsights/1800001-create-or-edit-a-profile) | je |
-| 2/12/2019 | [1800001 odstrániť profil](/AlchemyInsights/1800001-delete-profile) | je |
-| 2/12/2019 | [1800005 oprava Hľadať problémy opätovným zostavením katalógu okamžitého hľadania](/AlchemyInsights/1800005-fix-search-issues-by-rebuilding-your-instant-search-catalog) | je |
-| 2/12/2019 | [1800018 Pridanie/nastaviť e-mailové kontá](/AlchemyInsights/1800018-add-set-up-email-accounts) | je |
-| 2/12/2019 | [1800018 nájsť nastavenia servera POP a IMAP](/AlchemyInsights/1800018-find-your-pop-and-imap-server-settings) | je |
-| 2/12/2019 | [204. ako zistiť chýbajúce alebo obnoviť chýbajúce Outlook pošta, kalendár alebo kontakty](/AlchemyInsights/204-how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | je |
-| 2/12/2019 | [604 tipy Kategória](/AlchemyInsights/604-troubleshooting-categories) | je |
-| 2/12/2019 | [606 informácie o delegovanie](/AlchemyInsights/606-information-on-delegation) | je |
-| 2/12/2019 | [607 voľnom poradcu](/AlchemyInsights/607-free-busy-troubleshooter) | je |
-| 2/12/2019 | [609 informácie o importe a exporte kalendárov](/AlchemyInsights/609-information-on-importing-and-exporting-calendars) | je |
-| 2/12/2019 | [611 zdieľanie kalendára](/AlchemyInsights/611-calendar-sharing) | je |
-| 2/12/2019 | [616 zdieľanie kalendára](/AlchemyInsights/616-calendar-sharing) | je |
-| 2/12/2019 | [620 nastaviť časové pásmo a jazyk nastavenia programu Outlook na webe](/AlchemyInsights/620-adjust-time-zone-and-language-setting-in-outlook-on-the-web) | je |
-| 2/12/2019 | [764 pridať/nastavenie e-mailových účtov](/AlchemyInsights/764-add-setup-email-accounts) | je |
-| 2/12/2019 | [959 zmeniť zobrazovaný názov](/AlchemyInsights/959-change-display-name) | je |
-| 2/12/2019 | [Alchemy - diagnostikovať a vyriešiť problémy s pripojením programu Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | je |
-| 2/12/2019 | [Alchemy - Outlook crash kroky na riešenie problémov](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | je |
-| 2/12/2019 | [Alchemy - Outlook chyba "nemôže spustiť program Microsoft Outlook"](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | je |
-| 2/12/2019 | [Alchemy - vyhľadávanie programu Outlook nie idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | je |
-| 2/12/2019 | [Alchemy - znovu profilu programu Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | je |
-| 2/12/2019 | [Nájsť stratené alebo chýbajúce súbory OneDrive alebo SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | je |
-| 2/12/2019 | [Odstránenie problémov so synchronizáciou OneDrivu](/AlchemyInsights/fix-onedrive-sync-issues) | je |
-| 2/12/2019 | [Riešenie problémov so synchronizáciou OneDrivu](/AlchemyInsights/fix-onedrive-sync-problems) | je |
-| 2/12/2019 | [Riešenie problémov s nahrávaním súborov do služby OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | je |
-| 2/12/2019 | [Inštalácia a konfigurácia služby OneDrive](/AlchemyInsights/install-and-configure-onedrive) | je |
-| 2/12/2019 | [Inštalácia OneDrive](/AlchemyInsights/install-onedrive) | je |
-| 2/12/2019 | [Neplatné názvy súborov v službe OneDrive](/AlchemyInsights/invalid-file-names-in-onedrive) | je |
-| 2/12/2019 | [Spravovať používateľské profily v dobírají](/AlchemyInsights/manage-user-profiles-in-delve) | je |
-| 2/12/2019 | [Obnoviť OneDrive](/AlchemyInsights/restore-your-onedrive) | je |
-| 2/12/2019 | [Nastavenie OneDrive](/AlchemyInsights/set-up-onedrive) | je |
-| 2/12/2019 | [Synchronizácia používateľského profilu](/AlchemyInsights/sync-a-user-s-profile-picture) | je |
-| 2/12/2019 | [Synchronizovať súbory servera SharePoint pomocou nového klienta synchronizácie OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | je |
-| 2/12/2019 | [Upload súborov OneDrive alebo SharePoint](/AlchemyInsights/upload-files-to-onedrive-or-sharepoint) | je |
-| 2/12/2019 | [1488-perform-eDiscovery-and-Content-Searches](/AlchemyInsights/1488-perform-ediscovery-and-content-searches) | pridané |
-| 2/12/2019 | [1489-permissions-required-for-eDiscovery-Searches](/AlchemyInsights/1489-permissions-required-for-ediscovery-searches) | je |
-| 2/12/2019 | [286 povoliť auditovanie](/AlchemyInsights/286-enable-auditing) | pridané |
-| 2/12/2019 | [976-How-to-Enable-Litigation-hold](/AlchemyInsights/976-how-to-enable-litigation-hold) | pridané |
-| 2/13/2019 | [Zmena domény Office 365 skupiny](/AlchemyInsights/change-the-domain-for-group) | pridané |
-| 2/14/2019 | [Aktualizácie záznamov DNS](/AlchemyInsights/update-dns-records) | je |
-| 2/14/2019 | [1221-Import-Export-Outlook-email-contacts-Calendar](/AlchemyInsights/1221-import-export-outlook-email-contacts-calendar) | pridané |
-| 2/14/2019 | [1245-import-PST-služby](/AlchemyInsights/1245-import-pst-services) | pridané |
-| 2/14/2019 | [1385-office-365-upozornenie-podmienky](/AlchemyInsights/1385-office-365-alert-policies) | pridané |
-| 2/15/2019 | [Ako nainštalovať Office](/AlchemyInsights/how-to-install-office) | je |
+| 3/18/2019 | [Vymazať lokalitu SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | je |
+| 3/19/2019 | [Nastavenie projektov](/AlchemyInsights/setting-up-project) | je |
+| 3/19/2019 | [Najlepšie je rovnaký ako názov súboru](/AlchemyInsights/1-alchemy-insight-template) | je |
+| 3/20/2019 | [9000193 späť premiestniť alebo odstrániť v službe Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | je |
+| 3/21/2019 | [Outlook.com LinkedIn](/AlchemyInsights/8000079-outlook-com-linkedin) | premenovať |
+| 3/21/2019 | [Outlook.com ako sa dostať podporu](/AlchemyInsights/outlook-com-how-to-get-support-rule-1) | pridané |
+| 3/21/2019 | [Outlook.com ako sa dostať podporu](/AlchemyInsights/outlook-com-how-to-get-support-rule-2) | pridané |
+| 3/21/2019 | [Najlepšie je rovnaký ako názov súboru](/AlchemyInsights/alchemy-insight-template) | premenovať |
+| 3/22/2019 | 127 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu? | odstránené |
+| 3/22/2019 | 128 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu? | odstránené |
+| 3/22/2019 | 415 vyhľadávanie skúsenosti aktualizované | odstránené |
+| 3/22/2019 | [1048 5.7.750 služba nedostupná. Klient odosielanie z neregistrovaných domén](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | premenovať |
+| 3/22/2019 | 500 heslá aplikácií | odstránené |
+| 3/22/2019 | 8000059 vypnúť zobrazení prioritnej doručenej pošty | odstránené |
+| 3/22/2019 | 878 druhy zdieľanie, a ako ich zriadil | odstránené |
+| 3/22/2019 | 899 kalendár politika zdieľania | odstránené |
+| 3/22/2019 | 956 ako vytvoriť a spravovať poštové schránky miestnosti | odstránené |
+| 3/22/2019 | [Najlepšie je rovnaký ako názov súboru](/AlchemyInsights/alchemy-insight-template) | je |
+| 3/22/2019 | [1245-import-PST-služby](/AlchemyInsights/import-pst-services) | premenovať |
+| 3/22/2019 | [1385-office-365-upozornenie-podmienky](/AlchemyInsights/office-365-alert-policies) | premenovať |
+| 3/22/2019 | [Čiernom pozadí sa objaví, alebo formátovanie buniek nezobrazuje správne](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | je |
+| 3/22/2019 | [Prístup odmietnutý pri mapovaní jednotky na lokalitu SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | je |
+| 3/22/2019 | [Služby Access Services](/AlchemyInsights/access-services) | je |
+| 3/22/2019 | [Aktivovať nové predplatné pomocou kódu product key](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | je |
+| 3/22/2019 | [Aktivácia balíka Office](/AlchemyInsights/activate-office) | je |
+| 3/22/2019 | [Aktivácia balíka Microsoft Office 365 objem licenciu predplatného](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | je |
+| 3/22/2019 | [Pridať skupinu lokality SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | je |
+| 3/22/2019 | [Pridať iný e-mailový alias](/AlchemyInsights/add-another-email-alias) | je |
+| 3/22/2019 | [Pridať kontakty do služby O365 skupiny](/AlchemyInsights/add-contacts-to-o365-group) | je |
+| 3/22/2019 | [Pridať miest na predplatené prihlásenie na odber](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | je |
+| 3/22/2019 | [1800018 Pridanie/nastaviť e-mailové kontá](/AlchemyInsights/add-set-up-email-accounts) | premenovať |
+| 3/22/2019 | [764 pridať/nastavenie e-mailových účtov](/AlchemyInsights/add-setup-email-accounts) | premenovať |
+| 3/22/2019 | [Pridať používateľov do služby Office 365](/AlchemyInsights/add-users-to-office-365) | je |
+| 3/22/2019 | [8000040 pridať konto Outlook.com v Outlooku pre Windows](/AlchemyInsights/add-your-outlook-com-account-in-outlook-for-windows) | premenovať |
+| 3/22/2019 | [713 pridať ďalšiu e-mailovú adresu do distribučného zoznamu](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | premenovať |
+| 3/22/2019 | [718 pridávanie externé kontakty a ľudia mimo organizácie do distribučného zoznamu](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | premenovať |
+| 3/22/2019 | [Pridanie externých používateľov](/AlchemyInsights/adding-external-users) | je |
+| 3/22/2019 | [ADFS federácia certifikát uplynie](/AlchemyInsights/adfs-federation-certificate-expiring) | je |
+| 3/22/2019 | [620 nastaviť časové pásmo a jazyk nastavenia programu Outlook na webe](/AlchemyInsights/adjust-time-zone-and-language-setting-in-outlook-on-the-web) | premenovať |
+| 3/22/2019 | [Admin úlohy a priradenie](/AlchemyInsights/admin-role-and-how-to-assign) | je |
+| 3/22/2019 | [Admin prevzatia](/AlchemyInsights/admin-takeover) | je |
+| 3/22/2019 | [Alchemy - nemôžete prihlásiť do služby Outlook.com](/AlchemyInsights/alchemycan-t-sign-in-to-outlook-com) | je |
+| 3/22/2019 | [Alchemy - Zmena hesla v službe Outlook.com](/AlchemyInsights/alchemychange-your-password-in-outlook-com) | je |
+| 3/22/2019 | [Alchemy - vytvorenie a Pridanie podpisu do správy v programe Outlook](/AlchemyInsights/alchemycreate-and-add-signature-to-messages-in-outlook) | je |
+| 3/22/2019 | [Alchemy - diagnostikovať a vyriešiť problémy s pripojením programu Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | je |
+| 3/22/2019 | [Alchemy - Outlook crash kroky na riešenie problémov](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | je |
+| 3/22/2019 | [Alchemy - Outlook chyba "nemôže spustiť program Microsoft Outlook"](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | je |
+| 3/22/2019 | [Alchemy - vyhľadávanie programu Outlook nie idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | je |
+| 3/22/2019 | [Alchemy - znovu profilu programu Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | je |
+| 3/22/2019 | [Všetky odbery sú aktívne](/AlchemyInsights/all-subscriptions-are-active) | je |
+| 3/22/2019 | [714 povolenie externých odosielateľov do e-mailových distribučných zoznamov](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | premenovať |
+| 3/22/2019 | [717 povolenie používateľom odosielanie e-mailu distribučného zoznamu](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | premenovať |
+| 3/22/2019 | [Už zaplatené?](/AlchemyInsights/already-paid) | je |
+| 3/22/2019 | [1049 antiSpam 4.5.3 príliš veľa príjemcov (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | premenovať |
+| 3/22/2019 | [1051 antispam 4.7.500 prístup odmietnutý, prosím skúste to znova neskôr](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | premenovať |
+| 3/22/2019 | [1050 antispam 4.7.500 Server je zaneprázdnený. Prosím skúste to znova neskôr od [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | premenovať |
+| 3/22/2019 | [1047 antiSpam 550 5.7.708 služba nedostupná. Prístup odmietnutý, prevádzka neprijímajú z tejto IP](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | premenovať |
+| 3/22/2019 | [500 heslá aplikácií](/AlchemyInsights/app-passwords) | je |
+| 3/22/2019 | [Priradiť alebo odstrániť licencie používateľov](/AlchemyInsights/assign-or-remove-users-licenses) | je |
+| 3/22/2019 | [8000052 Priloženie súborov v službe Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | premenovať |
+| 3/22/2019 | [Výsledky auditu sú prázdne](/AlchemyInsights/auditing-results-are-blank) | je |
+| 3/22/2019 | [Cyklus fakturácie kreditnej karty](/AlchemyInsights/billing-cycle-credit-card) | je |
+| 3/22/2019 | [8000015 blokovanie alebo odblokovanie odosielateľov](/AlchemyInsights/block-or-unblock-senders) | premenovať |
+| 3/22/2019 | [726 blokovanie preposielanie e-mailov](/AlchemyInsights/blocking-email-forwarding) | premenovať |
+| 3/22/2019 | [763 blokovanie Exchange Online PowerShell prístup pre užívateľov](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | premenovať |
+| 3/22/2019 | [Zakúpenie predplatného na Office 365 pre podniky z bezplatnej skúšobnej verzie](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | je |
+| 3/22/2019 | [Nákup ďalších licencií](/AlchemyInsights/buy-additional-licenses) | je |
+| 3/22/2019 | [608 informácie kalendára na hybridné nastavenia](/AlchemyInsights/calendar-information-on-hybrid-setups) | premenovať |
+| 3/22/2019 | [613 kalendár publikovania informácií](/AlchemyInsights/calendar-publishing-information) | premenovať |
+| 3/22/2019 | [410 kalendár zdieľanie v Office365](/AlchemyInsights/calendar-sharing-in-office365) | premenovať |
+| 3/22/2019 | [616 zdieľanie kalendára](/AlchemyInsights/calendar-sharing-owa) | premenovať |
+| 3/22/2019 | [618 kalendár politika zdieľania](/AlchemyInsights/calendar-sharing-policy) | premenovať |
+| 3/22/2019 | [611 zdieľanie kalendára](/AlchemyInsights/calendar-sharing) | premenovať |
+| 3/22/2019 | [398 kalendár - rezervácia](/AlchemyInsights/calendarbooking) | premenovať |
+| 3/22/2019 | [399 kalendár - delegát](/AlchemyInsights/calendardelegate) | premenovať |
+| 3/22/2019 | [400 kalendár - FreeBusy](/AlchemyInsights/calendarfreebusy) | premenovať |
+| 3/22/2019 | [411 kalendára povolenie](/AlchemyInsights/calendaring-permission) | premenovať |
+| 3/22/2019 | [402 kalendár - O365Groups](/AlchemyInsights/calendaro365groups) | premenovať |
+| 3/22/2019 | [1081 kalendár - RBA všehochuť](/AlchemyInsights/calendarrba-catchall) | premenovať |
+| 3/22/2019 | [8000048 nemôže prečítať email Gogole Chrome s Adblock](/AlchemyInsights/can-t-read-email-in-gogole-chrome-with-adblock) | premenovať |
+| 3/22/2019 | [8000048 nemôže prečítať email v prehliadači Google Chrome s Adblock](/AlchemyInsights/can-t-read-email-in-google-chrome-with-adblock) | premenovať |
+| 3/22/2019 | [8000048 nemôžete vybrať kontakty, pri vytváraní e-mailu v službe Outlook.com](/AlchemyInsights/can-t-select-contacts-when-composing-email-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000077 nemôžete prihlásiť do služby Hotmail alebo Outlook.com?](/AlchemyInsights/can-t-sign-in-to-hotmail-or-outlook-com) | premenovať |
+| 3/22/2019 | [8000050 nemôžete prihlásiť do služby Outlook.com](/AlchemyInsights/can-t-sign-in-to-outlook-com) | premenovať |
+| 3/22/2019 | [Zrušiť predplatné na Office 365](/AlchemyInsights/cancel-office-365-subscription) | je |
+| 3/22/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription-0) | je |
+| 3/22/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription-1) | je |
+| 3/22/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription-2) | je |
+| 3/22/2019 | [Zrušenie predplatného na Office 365?](/AlchemyInsights/canceling-your-office-365-subscription) | je |
+| 3/22/2019 | [959 zmeniť zobrazovaný názov](/AlchemyInsights/change-display-name) | premenovať |
+| 3/22/2019 | [Zmena domény Office 365 skupiny](/AlchemyInsights/change-domain-for-group) | je |
+| 3/22/2019 | [8000013 Zmena písma v službe Outlook.com](/AlchemyInsights/change-font-in-outlook-com) | premenovať |
+| 3/22/2019 | [Zmeniť, ako často budete platiť](/AlchemyInsights/change-how-often-you-pay) | je |
+| 3/22/2019 | [8000010 zmeniť môj e-mailovú adresu v službe Outlook.com](/AlchemyInsights/change-my-email-address-in-outlook-com) | premenovať |
+| 3/22/2019 | [Zmena nameservery](/AlchemyInsights/change-nameservers) | je |
+| 3/22/2019 | [Zmena OneDrive for Business Kvóta ukladacieho priestoru](/AlchemyInsights/change-onedrive-for-business-storage-quota) | je |
+| 3/22/2019 | [Zmena spôsobu platby](/AlchemyInsights/change-payment-method) | je |
+| 3/22/2019 | [Zmeniť povolenia pre zoznam SharePoint alebo knižnicu](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | je |
+| 3/22/2019 | [8000036 zmeniť obrázok v službe Outlook.com](/AlchemyInsights/change-picture-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000006 zmeniť názov profilu v službe Outlook.com](/AlchemyInsights/change-profile-name-in-outlook-com) | premenovať |
+| 3/22/2019 | [Zmena alternatívnej e-mailovej adresy fakturačných upozornení](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | je |
+| 3/22/2019 | [Zmena domény Office 365 skupiny](/AlchemyInsights/change-the-domain-for-group) | je |
+| 3/22/2019 | [8000041 Zmena vzhľadu poštovej schránke Outlook.com](/AlchemyInsights/change-the-look-of-your-outlook-com-mailbox) | premenovať |
+| 3/22/2019 | [Zmeniť UPN](/AlchemyInsights/change-upn) | je |
+| 3/22/2019 | [8000036 Zmena názvu pošty v službe Outlook.com](/AlchemyInsights/change-your-email-name-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000002 zmeniť heslo v službe Outlook.com](/AlchemyInsights/change-your-password-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000036 zmeniť názov profilu v službe Outlook.com](/AlchemyInsights/change-your-profile-name-in-outlook-com) | premenovať |
+| 3/22/2019 | [Zmeny na prístup externého používateľa](/AlchemyInsights/changes-to-external-user-access) | je |
+| 3/22/2019 | [8000026 zmeny do služby Outlook.com](/AlchemyInsights/changes-to-outlook-com) | premenovať |
+| 3/22/2019 | [Zmeniť povolenia pre verejný priečinok](/AlchemyInsights/changing-public-folder-permissions) | je |
+| 3/22/2019 | [Zmeniť zdieľanej poštovej schránky Odoslať ako správanie](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | je |
+| 3/22/2019 | [Skontrolovať stav synchronizácie AAD Identity](/AlchemyInsights/check-aad-identity-sync-status) | je |
+| 3/22/2019 | [8000007 kontrola pravopisu v službe Outlook.com](/AlchemyInsights/check-spelling-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000005 úzkej Outlookcom účet](/AlchemyInsights/close-outlookcom-account) | premenovať |
+| 3/22/2019 | [Porovnajte plány služieb Office 365](/AlchemyInsights/compare-office-365-plans) | je |
+| 3/22/2019 | [Konfigurácia nastavenia auditu](/AlchemyInsights/configure-audit-settings) | je |
+| 3/22/2019 | [912 konfigurovať zameriavali doručené pre každého vo vašej organizácii](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | premenovať |
+| 3/22/2019 | [1800029 pripojené kontá nie sú podporované v programe Outlook na webe](/AlchemyInsights/connected-accounts-not-supported-in-outlook-on-the-web) | premenovať |
+| 3/22/2019 | [761 pripojenie Exchange Online PowerShell zapnuté MZV](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | premenovať |
+| 3/22/2019 | [760 pripojenie k Exchange Online PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | premenovať |
+| 3/22/2019 | [ConsistencyGuid / sourceAnchor správanie](/AlchemyInsights/consistencyguidsourceanchor-behavior) | je |
+| 3/22/2019 | [Vytvorenie ovládacieho prvku skupín](/AlchemyInsights/control-creation-of-groups) | je |
+| 3/22/2019 | [Previesť zdieľanej poštovej schránke užívateľa](/AlchemyInsights/convert-a-users-mailbox-to-a-shared-mailbox) | je |
+| 3/22/2019 | [Previesť zdieľanej poštovej schránke používateľa poštovej schránky](/AlchemyInsights/convert-user-mailbox-to-shared-mailbox) | je |
+| 3/22/2019 | [712 prevod distribučného zoznamu do skupiny Office 365](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | premenovať |
+| 3/22/2019 | [Kopírovanie položky v knižnici dokumentov lokality SharePoint](/AlchemyInsights/copy-items-in-a-sharepoint-document-library) | je |
+| 3/22/2019 | [Kopírovať alebo presúvať položky v knižnici dokumentov lokality SharePoint](/AlchemyInsights/copy-or-move-items-in-a-sharepoint-document-library) | je |
+| 3/22/2019 | [Vytvoriť tok](/AlchemyInsights/create-a-flow) | je |
+| 3/22/2019 | [8000009 vytvoriť priečinok v službe Outlook.com](/AlchemyInsights/create-a-folder-in-outlook-com) | premenovať |
+| 3/22/2019 | [Vytvorenie lokality SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | je |
+| 3/22/2019 | [8000059 vytvoriť nový priečinok](/AlchemyInsights/create-new-folder) | premenovať |
+| 3/22/2019 | [1800001 vytvoriť alebo upraviť profil](/AlchemyInsights/create-or-edit-a-profile) | premenovať |
+| 3/22/2019 | [Vytvorenie zdieľanej poštovej schránky](/AlchemyInsights/create-shared-mailbox) | je |
+| 3/22/2019 | [711 vytvoriť distribučný zoznam alebo skupinu](/AlchemyInsights/creating-a-distribution-list-or-group) | premenovať |
+| 3/22/2019 | [Vytváranie verejných priečinkov](/AlchemyInsights/creating-public-folders) | je |
+| 3/22/2019 | [744 vytváranie používateľov, keď organizácia je hybridný režim](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | premenovať |
+| 3/22/2019 | [743 vytváranie užívateľom bez licencie](/AlchemyInsights/creating-users-without-a-license) | premenovať |
+| 3/22/2019 | [Úverové check status žiadosť](/AlchemyInsights/credit-check-status-request) | je |
+| 3/22/2019 | [CTRL + H ukazuje nájsť, nenahrádza v programe Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | je |
+| 3/22/2019 | [8000029 zaoberať neoprávneným získavaním údajov v službe Outlook.com](/AlchemyInsights/deal-with-phishing-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000029 riešenie nevyžiadanej pošty v službe Outlook.com](/AlchemyInsights/deal-with-spam-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000029 zaoberať spam alebo phishing v službe Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | premenovať |
+| 3/22/2019 | [Odmietnutá kreditnej karty](/AlchemyInsights/declined-credit-card) | je |
+| 3/22/2019 | [8000012 odstránenie kontaktu v službe Outlook.com](/AlchemyInsights/delete-a-contact-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000016 odstrániť priečinok v službe Outlook.com](/AlchemyInsights/delete-a-folder-in-outlook-com) | premenovať |
+| 3/22/2019 | [Odstránenie strany](/AlchemyInsights/delete-a-page) | je |
+| 3/22/2019 | [Vymazať lokalitu SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | je |
+| 3/22/2019 | [Odstránenie lokality oznámení](/AlchemyInsights/delete-communication-site) | je |
+| 3/22/2019 | [Odstrániť skupinu stránok](/AlchemyInsights/delete-group-site) | je |
+| 3/22/2019 | [Odstrániť položky na lokalite SharePoint](/AlchemyInsights/delete-items-in-sharepoint) | je |
+| 3/22/2019 | [Odstrániť stránku](/AlchemyInsights/delete-page) | je |
+| 3/22/2019 | [1800001 odstrániť profil](/AlchemyInsights/delete-profile) | premenovať |
+| 3/22/2019 | [Odstrániť kolekciu lokalít](/AlchemyInsights/delete-site-collection) | je |
+| 3/22/2019 | [Odstrániť podlokality alebo klasické tímovej lokality](/AlchemyInsights/delete-subsite-or-classic-team-site) | je |
+| 3/22/2019 | [Vymazať lokalitu tímu](/AlchemyInsights/delete-team-site) | je |
+| 3/22/2019 | [Odstránenie používateľov](/AlchemyInsights/deleting-users) | je |
+| 3/22/2019 | [Nasadiť bezšvové jediného prihlásenia](/AlchemyInsights/deploy-seamless-single-sign-on) | je |
+| 3/22/2019 | [1065 odsudzovanie EOP odchádzajúce IP adresa rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | premenovať |
+| 3/22/2019 | [Distribučná skupina nezobrazuje v zoznam skupín](/AlchemyInsights/distribution-group-not-showing-in-groups-list) | je |
+| 3/22/2019 | [Distribučné zoznamy nie sú zobrazené](/AlchemyInsights/distribution-lists-not-showing) | je |
+| 3/22/2019 | [Nahrať dokument](/AlchemyInsights/document-upload) | je |
+| 3/22/2019 | [Neponižuj mě upgrade. Ako môžem vrátiť späť k predchádzajúcej verzii balíka Office?](/AlchemyInsights/don-t-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version) | je |
+| 3/22/2019 | [Stiahnutie a inštalácia balíka Office](/AlchemyInsights/download-and-install-office) | je |
+| 3/22/2019 | [1314 duplikovať objekt sanácie](/AlchemyInsights/duplicate-object-remediation) | premenovať |
+| 3/22/2019 | [eDiscovery vývoz nástroj](/AlchemyInsights/ediscovery-export-tool) | je |
+| 3/22/2019 | [Zamestnanec opúšťa](/AlchemyInsights/employee-leaving) | je |
+| 3/22/2019 | [286 povoliť auditovanie](/AlchemyInsights/enable-auditing) | premenovať |
+| 3/22/2019 | [Povoliť auditovanie poštovej schránky](/AlchemyInsights/enable-mailbox-auditing) | je |
+| 3/22/2019 | [Umožnite tímom Microsoft](/AlchemyInsights/enable-microsoft-teams) | je |
+| 3/22/2019 | [Umožniť Microsoft úlohy](/AlchemyInsights/enable-microsoft-to-do) | je |
+| 3/22/2019 | [934 Povoliť POP a IMAP účtov](/AlchemyInsights/enable-pop-and-imap-accounts) | premenovať |
+| 3/22/2019 | [Chyba AttributeValueMustBeUnique](/AlchemyInsights/error-attributevaluemustbeunique) | je |
+| 3/22/2019 | [Chyba pri odosielaní e-mailu blokovaný SpamHaus](/AlchemyInsights/error-sending-email-blocked-by-spamhaus) | je |
+| 3/22/2019 | [Problém filtra programu Excel](/AlchemyInsights/excel-autofilter-issue) | je |
+| 3/22/2019 | [Po uplynutí platnosti predplatného](/AlchemyInsights/expired-subscription) | je |
+| 3/22/2019 | [8000020 export kontaktov v službe Outlook.com](/AlchemyInsights/export-contacts-in-outlook-com) | premenovať |
+| 3/22/2019 | [Predĺženie skúšobnej verzie služieb Office 365 for Business](/AlchemyInsights/extend-your-trial-for-office-365-for-business) | je |
+| 3/22/2019 | [Nájsť stratené alebo chýbajúce súbory OneDrive alebo SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | je |
+| 3/22/2019 | [1800018 nájsť nastavenia servera POP a IMAP](/AlchemyInsights/find-your-pop-and-imap-server-settings) | premenovať |
+| 3/22/2019 | [Opraviť nepodarilo toku](/AlchemyInsights/fix-a-failed-flow) | je |
+| 3/22/2019 | [Riešenie problémov so synchronizáciou OneDrivu](/AlchemyInsights/fix-onedrive-sync-problems) | je |
+| 3/22/2019 | [1800005 oprava Hľadať problémy opätovným zostavením katalógu okamžitého hľadania](/AlchemyInsights/fix-search-issues-by-rebuilding-your-instant-search-catalog) | premenovať |
+| 3/22/2019 | [1800019 zobrazení prioritnej doručenej pošty v programe Outlook mobile](/AlchemyInsights/focused-inbox-in-outlook-mobile) | premenovať |
+| 3/22/2019 | [1800019 zameral doručenej pošty v programe Outlook](/AlchemyInsights/focused-inbox-in-outlook) | premenovať |
+| 3/22/2019 | [Problémy s formátovaním písma v programe Excel 2016](/AlchemyInsights/font-formatting-problems-in-excel-2016) | je |
+| 3/22/2019 | [607 voľnom poradcu](/AlchemyInsights/free-busy-troubleshooter) | premenovať |
+| 3/22/2019 | [8000038 overenie účtu HDPR detí](/AlchemyInsights/gdpr-child-account-verification) | premenovať |
+| 3/22/2019 | [1800014 získať podporu v aplikácii Outlook mobilnej aplikácie](/AlchemyInsights/get-in-app-support-for-the-outlook-mobile-app) | premenovať |
+| 3/22/2019 | [Začíname s SharePoint Online](/AlchemyInsights/get-started-with-sharepoint-online) | je |
+| 3/22/2019 | [126 dostať poštovú schránku nemožno nájsť chyby v OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | premenovať |
+| 3/22/2019 | [124 povolenie chyba zobrazuje pri prístupe k zdieľanej poštovej schránky v aplikácii OWA?](/AlchemyInsights/getting-a-permission-error-when-accessing-a-shared-mailbox-in-owa) | premenovať |
+| 3/22/2019 | [127 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | je |
+| 3/22/2019 | [123 dostať účet zakázaný chyby v OWA?](/AlchemyInsights/getting-an-account-disabled-error-in-owa) | premenovať |
+| 3/22/2019 | [125 Chyba neplatný preukaz v Outlooku na webe?](/AlchemyInsights/getting-an-invalid-license-error-in-outlook-on-the-web) | premenovať |
+| 3/22/2019 | [Poskytnúť používateľom prístup k službe SharePoint a OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | je |
+| 3/22/2019 | [Pomocník pre pochopenie hodnoty pridanej hodnoty (DPH)](/AlchemyInsights/help-understanding-value-added-tax-vat) | je |
+| 3/22/2019 | [Pomôcť pochopiť váš účet](/AlchemyInsights/help-understanding-your-bill) | je |
+| 3/22/2019 | [Ako pridať kreditnú kartu?](/AlchemyInsights/how-do-i-add-a-credit-card) | je |
+| 3/22/2019 | [Ako zmeniť z platby kreditnou kartou na faktúru?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | je |
+| 3/22/2019 | [Ako odstrániť moje informácie o kreditnej karte?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | je |
+| 3/22/2019 | [Ako aktualizovať moje informácie o kreditnej karte?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | je |
+| 3/22/2019 | [8000056 ako získať prístup k službe Outlook.com cestách](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | premenovať |
+| 3/22/2019 | [Pridanie alebo znížiť licencií](/AlchemyInsights/how-to-add-or-reduce-licenses) | je |
+| 3/22/2019 | [Priradenie licencie k používateľovi](/AlchemyInsights/how-to-assign-a-license-to-a-user) | je |
+| 3/22/2019 | [8000014 ako zmeniť jazyk v službe Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | premenovať |
+| 3/22/2019 | [8000059 ako zmeniť tému akcie (FMS)](/AlchemyInsights/how-to-change-theme-action-fms) | premenovať |
+| 3/22/2019 | [8000059 ako zmeniť rozloženie](/AlchemyInsights/how-to-change-your-layout) | premenovať |
+| 3/22/2019 | [646 konfigurovaní AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | premenovať |
+| 3/22/2019 | [955 konfigurovaní MZV](/AlchemyInsights/how-to-configure-mfa) | premenovať |
+| 3/22/2019 | [1800021 ako vytvoriť pravidlo v programe Outlook pre Mac](/AlchemyInsights/how-to-create-a-rule-in-outlook-for-mac) | premenovať |
+| 3/22/2019 | [8000047 ako vytvoriť podpis e-mailu v službe Outlook.com](/AlchemyInsights/how-to-create-an-email-signature-in-outlook-com) | premenovať |
+| 3/22/2019 | [614 ako vytvoriť a spravovať poštové schránky miestnosti](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | premenovať |
+| 3/22/2019 | [976-How-to-Enable-Litigation-hold](/AlchemyInsights/how-to-enable-litigation-hold) | premenovať |
+| 3/22/2019 | [Ako umožniť bezproblémový SSO](/AlchemyInsights/how-to-enable-seamless-sso) | je |
+| 3/22/2019 | [8000003 ako nájsť a obnoviť chýbajúce alebo vypúšťa e-mailu, kalendára alebo kontaktov položky](/AlchemyInsights/how-to-find-and-recover-missing-or-deleted-email-calendar-or-contacts-it) | premenovať |
+| 3/22/2019 | [204. ako zistiť chýbajúce alebo obnoviť chýbajúce Outlook pošta, kalendár alebo kontakty](/AlchemyInsights/how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | premenovať |
+| 3/22/2019 | [Ako identifikovať poplatok na vašej kreditnej karte alebo bankovom výpise](/AlchemyInsights/how-to-identify-a-charge-on-your-credit-card-or-bank-statement) | je |
+| 3/22/2019 | [Ako nainštalovať Mac Office z portálu](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | premenovať |
+| 3/22/2019 | [Ako nákup služieb Office 365](/AlchemyInsights/how-to-make-an-office-365-purchase) | je |
+| 3/22/2019 | [8000046 ako tlačiť prílohu](/AlchemyInsights/how-to-print-an-attachment) | premenovať |
+| 3/22/2019 | [Ako nakupovať ponuka vzdelávania](/AlchemyInsights/how-to-purchase-education-offer) | je |
+| 3/22/2019 | [Ako si kúpiť plány služieb Office 365 Education](/AlchemyInsights/how-to-purchase-office-365-education-plans-0) | je |
+| 3/22/2019 | [Ako si kúpiť plány služieb Office 365 Education](/AlchemyInsights/how-to-purchase-office-365-education-plans-1) | je |
+| 3/22/2019 | [Ako si kúpiť plány služieb Office 365 Education](/AlchemyInsights/how-to-purchase-office-365-education-plans) | je |
+| 3/22/2019 | [Ako nákup služieb Office 365 pre neziskové organizácie](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | je |
+| 3/22/2019 | [Ako nákup služieb Office 365 pre neziskové organizácie](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | je |
+| 3/22/2019 | [Ako nákup služieb Office 365 pre neziskové organizácie](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | je |
+| 3/22/2019 | [Ako znova aktivovať predplatné](/AlchemyInsights/how-to-reactivate-a-subscription) | je |
+| 3/22/2019 | [Ako aktivovať a spravovať predĺženia](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | je |
+| 3/22/2019 | [8000033 ako odpovedať alebo poslať správy v službe Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | premenovať |
+| 3/22/2019 | [8000063 ako kliknutie pravým tlačidlom na Mac](/AlchemyInsights/how-to-right-click-on-a-mac) | premenovať |
+| 3/22/2019 | [8000055 ako na prihlásenie alebo odhlásenie zo služby Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | premenovať |
+| 3/22/2019 | [8000030 ako na overenie konta](/AlchemyInsights/how-to-verify-your-account) | premenovať |
+| 3/22/2019 | [401 hybrid - FreeBusy](/AlchemyInsights/hybridfreebusy) | premenovať |
+| 3/22/2019 | [8000019 importovať kontakty v službe Outlook.com](/AlchemyInsights/import-contacts-in-outlook-com) | premenovať |
+| 3/22/2019 | [1221-Import-Export-Outlook-email-contacts-Calendar](/AlchemyInsights/import-export-outlook-email-contacts-calendar) | premenovať |
+| 3/22/2019 | [929 doručenú deflectTransport pravidiel](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | premenovať |
+| 3/22/2019 | [922 pravidlá pre doručenú poštu](/AlchemyInsights/inbox-rules) | premenovať |
+| 3/22/2019 | [Zvýšiť veľkosť poštovej schránky pre Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | je |
+| 3/22/2019 | [Zvýšiť veľkosť poštovej schránky pre SMB SKU](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | je |
+| 3/22/2019 | [Zvýšiť veľkosť poštovej schránky](/AlchemyInsights/increase-mailbox-size) | je |
+| 3/22/2019 | [Alchýmia postrehy domov](/AlchemyInsights/index) | je |
+| 3/22/2019 | [606 informácie o delegovanie](/AlchemyInsights/information-on-delegation) | premenovať |
+| 3/22/2019 | [609 informácie o importe a exporte kalendárov](/AlchemyInsights/information-on-importing-and-exporting-calendars) | premenovať |
+| 3/22/2019 | [Nainštalovať Office 2013 oznámenie](/AlchemyInsights/install-office-2013-notification) | je |
+| 3/22/2019 | [Inštalácia Skypu for Business](/AlchemyInsights/install-skype-for-business) | je |
+| 3/22/2019 | [Neplatné názvy súborov v službe OneDrive](/AlchemyInsights/invalid-file-names-in-onedrive) | je |
+| 3/22/2019 | [1264 IP blokované pre odosielanie príliš veľa spamu (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | premenovať |
+| 3/22/2019 | [322 problémy, keď používateľ má problémy odosielanie](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | premenovať |
+| 3/22/2019 | [321 problémy, keď používateľ nie je prijímanie e-mailov](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | premenovať |
+| 3/22/2019 | [323 problémy s oneskorením v e-maile](/AlchemyInsights/issues-with-delays-in-email) | premenovať |
+| 3/22/2019 | [324 problémy s email(s) ísť na nesprávny cieľ](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | premenovať |
+| 3/22/2019 | [898 ďalšie informácie o externých zdieľanie Možnosti kalendára](/AlchemyInsights/learn-about-external-calendar-sharing-options) | premenovať |
+| 3/22/2019 | [617 dozvedieť o externé možnosti zdieľania](/AlchemyInsights/learn-about-external-sharing-options) | premenovať |
+| 3/22/2019 | [610 ďalšie informácie o skupiny Office 365](/AlchemyInsights/learn-about-office-365-groups) | premenovať |
+| 3/22/2019 | [612 učiť ako o kalendáre a verejné priečinky](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | premenovať |
+| 3/22/2019 | [603 Naučte sa upraviť nastavenia programu](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | premenovať |
+| 3/22/2019 | [8000035 opustiť Outlook.com beta](/AlchemyInsights/leave-the-outlook-com-beta) | premenovať |
+| 3/22/2019 | [Limity a veľkých súborov v službe SharePoint](/AlchemyInsights/limits-and-large-files-in-sharepoint) | je |
+| 3/22/2019 | [8000048 prepojenia v Outlook.com nefungujú v prehliadači Firefox](/AlchemyInsights/links-in-outlook-com-don-t-work-in-firefox) | premenovať |
+| 3/22/2019 | [Podíváme-li kúpiť nové predplatné?](/AlchemyInsights/looking-to-buy-a-new-subscription) | je |
+| 3/22/2019 | [8000035 ako vytvoriť nový vzhľad Outlook.com ako ten starý](/AlchemyInsights/make-new-outlook-com-like-old-version) | premenovať |
+| 3/22/2019 | [723 tvorby e-mailový alias primárnej e-mailovej pre užívateľa](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | premenovať |
+| 3/22/2019 | [Spravovať požiadavky na prístup](/AlchemyInsights/manage-access-requests) | je |
+| 3/22/2019 | [Spravovať automatické obnovenie](/AlchemyInsights/manage-auto-renewal) | je |
+| 3/22/2019 | [Spravovať môj účet a platby](/AlchemyInsights/manage-my-bill-and-payments) | je |
+| 3/22/2019 | [Spravovať moju faktúru](/AlchemyInsights/manage-my-bill) | je |
+| 3/22/2019 | [Spravovať synchronizáciu používateľských kont](/AlchemyInsights/manage-synchronized-user-accounts) | je |
+| 3/22/2019 | [Riadiť, kto môže vytvoriť skupín v Office 365](/AlchemyInsights/manage-who-can-create-office-365-groups) | je |
+| 3/22/2019 | [Spravujte svoje SharePoint alebo OneDrive úložisko](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | je |
+| 3/22/2019 | [Mapa knižnice SharePoint k sieťovej jednotke](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | je |
+| 3/22/2019 | [Knižnice SharePoint Mapa sieťovú jednotku](/AlchemyInsights/map-sharepoint-library-to-network-drive) | je |
+| 3/22/2019 | [Priradená jednotka odpojený](/AlchemyInsights/mapped-drive-disconnected) | je |
+| 3/22/2019 | [597 Microsoft rezervácie App](/AlchemyInsights/microsoft-bookings-app) | premenovať |
+| 3/22/2019 | [Migráciu e-mail od G Suite na Office 365](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | je |
+| 3/22/2019 | [Migrácia medzi dvoma rôznymi nájomníkov](/AlchemyInsights/migrate-mailboxes-between-two-different-tenants) | je |
+| 3/22/2019 | [Prejsť verejného priečinka údajov na Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365) | je |
+| 3/22/2019 | [973 migrácie StalledDueTo * pravidlo](/AlchemyInsights/migration-stalleddueto-rule) | premenovať |
+| 3/22/2019 | [Premiestniť e-mail do služby Office 365](/AlchemyInsights/move-email-to-office-365) | je |
+| 3/22/2019 | [Premiestniť položky v knižnici dokumentov lokality SharePoint](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | je |
+| 3/22/2019 | [8000062 presun priečinka v službe Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | premenovať |
+| 3/22/2019 | [Viac pokusov o nabíjanie online platobných nástrojov](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | je |
+| 3/22/2019 | [1703 potrebujú informácie o tímoch a Polycom telefónov](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | premenovať |
+| 3/22/2019 | [122 musíte vytvoriť podpis v programe Outlook na webe?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | premenovať |
+| 3/22/2019 | [8000037 nedostali e-mail v službe Outlook.com](/AlchemyInsights/not-receiving-email-in-outlook-com) | premenovať |
+| 3/22/2019 | [Služieb Office 365 for Business plány a ceny](/AlchemyInsights/office-365-for-business-plans-and-pricing) | je |
+| 3/22/2019 | [Office 365 pre vzdelávanie plány a ceny](/AlchemyInsights/office-365-for-education-plans-and-pricing) | je |
+| 3/22/2019 | [Office 365 Enterprise plán](/AlchemyInsights/office-365-for-enterprise-plan) | je |
+| 3/22/2019 | [Office 365 pre vládne plány a ceny](/AlchemyInsights/office-365-for-government-plans-and-pricing) | je |
+| 3/22/2019 | [Office 365 Nonprofit – plány a ceny](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | je |
+| 3/22/2019 | [Office 365 URL a IP adresy](/AlchemyInsights/office-365-urls-and-ip-addresses) | je |
+| 3/22/2019 | [Medzi lokálnym federácia služby certifikátov končí](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | je |
+| 3/22/2019 | [Ukladací priestor služby OneDrive](/AlchemyInsights/onedrive-storage) | je |
+| 3/22/2019 | [Otvorenie knižnice v programe Prieskumník](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | je |
+| 3/22/2019 | [1581 otvorenie a používanie zdieľanej poštovej schránky v programe Outlook na webe](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | premenovať |
+| 3/22/2019 | [Open s Explorer tlačidlo je zakázaný](/AlchemyInsights/open-with-explorer-button-is-disabled) | je |
+| 3/22/2019 | [Otvoriť v programe Prieskumník chýba tlačidlo](/AlchemyInsights/open-with-explorer-button-missing) | je |
+| 3/22/2019 | [Open s Explorer nefunguje](/AlchemyInsights/open-with-explorer-doesn-t-work) | je |
+| 3/22/2019 | [423 Org Security - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | premenovať |
+| 3/22/2019 | [424 Org Security - Spam falošne pozitívne](/AlchemyInsights/org-securityspam-false-positive) | premenovať |
+| 3/22/2019 | [8000073 Outlook.com účet hacknut - francúzština](/AlchemyInsights/outlook-com-account-hacked-french) | premenovať |
+| 3/22/2019 | [8000039 Outlook.com účet hacknut](/AlchemyInsights/outlook-com-account-hacked) | premenovať |
+| 3/22/2019 | [8000068 - Outlook.com pridajte konto - španielčina](/AlchemyInsights/outlook-com-add-account-spanish) | premenovať |
+| 3/22/2019 | [9000236 Outlook.com pridajte konto](/AlchemyInsights/outlook-com-add-account) | premenovať |
+| 3/22/2019 | [9000238 Outlook.com pridajte alias](/AlchemyInsights/outlook-com-add-alias) | premenovať |
+| 3/22/2019 | [Outlook.com Pridanie vlajky alebo pripomenutia](/AlchemyInsights/outlook-com-adding-flags-reminders) | pridané |
+| 3/22/2019 | [9000232 adresu knihy služby Outlook.com](/AlchemyInsights/outlook-com-address-book) | premenovať |
+| 3/22/2019 | [8000076 Outlook.com zablokovať odosielateľa - francúzština](/AlchemyInsights/outlook-com-block-sender-french) | premenovať |
+| 3/22/2019 | [8000069 - Outlook.com zablokovať odosielateľa - Španielska](/AlchemyInsights/outlook-com-block-sender-spanish) | premenovať |
+| 3/22/2019 | [9000198 kalendár Outlook.com Beta](/AlchemyInsights/outlook-com-calendar-beta) | premenovať |
+| 3/22/2019 | [8000024 Outlook.com nemôžete prihlásiť do služby Outlook.com](/AlchemyInsights/outlook-com-can-t-sign-in-to-outlook-com) | premenovať |
+| 3/22/2019 | [Outlook.com nemôžete prijímať e-mail](/AlchemyInsights/outlook-com-cannot-receive-email) | pridané |
+| 3/22/2019 | [Outlook.com nemôže odoslať e-mailom](/AlchemyInsights/outlook-com-cannot-send-email) | pridané |
+| 3/22/2019 | [Outlook.com nemôžete odosielať alebo prijímať e-maily](/AlchemyInsights/outlook-com-cannot-send-receive-email) | pridané |
+| 3/22/2019 | [8000070 - Outlook.com nemôžete prihlásiť - španielčina](/AlchemyInsights/outlook-com-cant-sign-in-spanish) | premenovať |
+| 3/22/2019 | [9000071 nemôžete zadať @ symbol na Mac](/AlchemyInsights/outlook-com-cant-type-@-on-mac) | premenovať |
+| 3/22/2019 | [Outlook.com zmeniť jazyk](/AlchemyInsights/outlook-com-change-language) | pridané |
+| 3/22/2019 | [Outlook.com Zmena vzhľadu poštovej schránky](/AlchemyInsights/outlook-com-change-look-of-mailbox) | pridané |
+| 3/22/2019 | [8000075 zmeniť heslo služby Outlook.com - francúzština](/AlchemyInsights/outlook-com-change-password-french) | premenovať |
+| 3/22/2019 | [8000074 Outlook.com zrušiť konto - francúzština](/AlchemyInsights/outlook-com-close-account-french) | premenovať |
+| 3/22/2019 | [8000067 - Outlook.com zrušiť účet - španielčina](/AlchemyInsights/outlook-com-close-account-spanish) | premenovať |
+| 3/22/2019 | [8000093 povolenia konta Outlook.com pripojený](/AlchemyInsights/outlook-com-connected-account-permissions) | premenovať |
+| 3/22/2019 | [Zoznamy kontaktov služby Outlook.com](/AlchemyInsights/outlook-com-contact-lists) | pridané |
+| 3/22/2019 | [Outlook.com nakopírovať](/AlchemyInsights/outlook-com-copy-paste) | pridané |
+| 3/22/2019 | [9000203 Outlook.com filtre](/AlchemyInsights/outlook-com-filters) | premenovať |
+| 3/22/2019 | [8000071 Outlook.com fix e-mail synchronizáciu - francúzština](/AlchemyInsights/outlook-com-fix-email-sync-french) | premenovať |
+| 3/22/2019 | [8000064 e-mail v službe Outlook.com nemôže synchronizovať - španielčina](/AlchemyInsights/outlook-com-fix-email-sync-spanish) | premenovať |
+| 3/22/2019 | [9000239 presmerovanie služby Outlook.com](/AlchemyInsights/outlook-com-forwarding) | premenovať |
+| 3/22/2019 | [8000066 - pravidlo 2 - Outlook.com hacknut - španielčina](/AlchemyInsights/outlook-com-hack-spanish) | premenovať |
+| 3/22/2019 | [8000066 - pravidla 1 - Outlook.com hacknut - španielčina](/AlchemyInsights/outlook-com-hacked-spanish) | premenovať |
+| 3/22/2019 | [8000078 doručenej pošty služby Outlook.com nenačítajú](/AlchemyInsights/outlook-com-inbox-not-loading) | premenovať |
+| 3/22/2019 | [8000086 Outlook.com vložiť obrázok](/AlchemyInsights/outlook-com-insert-image) | premenovať |
+| 3/22/2019 | [9000234 Outlook.com vnútorná chyba servera](/AlchemyInsights/outlook-com-internal-server-error) | premenovať |
+| 3/22/2019 | [8000072 nevyžiadanej pošty služby Outlook.com - francúzština](/AlchemyInsights/outlook-com-junk-mail-french) | premenovať |
+| 3/22/2019 | [8000065 Outlook.com nevyžiadané Nevyžiadaná - španielčina](/AlchemyInsights/outlook-com-junk-spam-spanish) | premenovať |
+| 3/22/2019 | [8000087 Outlook.com klávesové skratky](/AlchemyInsights/outlook-com-keyboard-shortcuts) | premenovať |
+| 3/22/2019 | [8000051 Outlook.com dlhého behu skriptu](/AlchemyInsights/outlook-com-long-running-script) | premenovať |
+| 3/22/2019 | [8000061 Outlook.com chýbajúce priečinky](/AlchemyInsights/outlook-com-missing-folders) | premenovať |
+| 3/22/2019 | [8000060 Outlook.com MSA dôkazy](/AlchemyInsights/outlook-com-msa-proofs) | premenovať |
+| 3/22/2019 | [9000202 možnosti služby Outlook.com](/AlchemyInsights/outlook-com-options) | premenovať |
+| 3/22/2019 | [Outlook.com phishing](/AlchemyInsights/outlook-com-phishing) | pridané |
+| 3/22/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | premenovať |
+| 3/22/2019 | [8000043 POP, IMAP a SMTP nastavenia pre Outlook.com](/AlchemyInsights/outlook-com-pop-imap-and-smtp-settings) | premenovať |
+| 3/22/2019 | [Outlook.com premium](/AlchemyInsights/outlook-com-premium) | pridané |
+| 3/22/2019 | [8000091 Outlook.com reagovať pop up](/AlchemyInsights/outlook-com-react-pop-up) | premenovať |
+| 3/22/2019 | [9000199 PST súbory v službe Outlook.com](/AlchemyInsights/outlook-com-read-pst-files) | premenovať |
+| 3/22/2019 | [9000240 Outlook.com odpovede](/AlchemyInsights/outlook-com-replies) | premenovať |
+| 3/22/2019 | [8000035 požiadať vrátiť z Outlook.com beta na klasické služby Outlook.com](/AlchemyInsights/outlook-com-roll-back-from-beta-to-classic) | premenovať |
+| 3/22/2019 | [8000089 Outlook.com Trezor odosielateľov](/AlchemyInsights/outlook-com-safe-senders) | premenovať |
+| 3/22/2019 | [8000088 uložiť e-mail v službe Outlook.com](/AlchemyInsights/outlook-com-save-emails) | premenovať |
+| 3/22/2019 | [8000090 Outlook.com vyberte všetky](/AlchemyInsights/outlook-com-select-all) | premenovať |
+| 3/22/2019 | [8000048 Outlook.com odošle e-mail "v mene" svoju emailovú adresu](/AlchemyInsights/outlook-com-sends-email-on-behalf-of-my-email-address) | premenovať |
+| 3/22/2019 | [Nastavenia služby Outlook.com](/AlchemyInsights/outlook-com-settings) | pridané |
+| 3/22/2019 | [8000049 ikonu Skypu v službe Outlook.com chýbajú](/AlchemyInsights/outlook-com-skype-button) | premenovať |
+| 3/22/2019 | [Outlook.com spam a nevyžiadanú](/AlchemyInsights/outlook-com-spam) | pridané |
+| 3/22/2019 | [8000049 Outlook.com stav vždy zobrazuje ako dostupné](/AlchemyInsights/outlook-com-status-always-shows-as-available) | premenovať |
+| 3/22/2019 | [Outlook.com hlásenia stop ísť do junk zložky](/AlchemyInsights/outlook-com-stop-email-from-going-to-junk-folder) | pridané |
+| 3/22/2019 | [8000054 Outlook.com skladovanie limit bol prekročený](/AlchemyInsights/outlook-com-storage-limit-exceeded) | premenovať |
+| 3/22/2019 | [9000215 Outlook.com predplatné](/AlchemyInsights/outlook-com-subscriptions) | premenovať |
+| 3/22/2019 | [9000193 späť premiestniť alebo odstrániť v službe Outlook.com](/AlchemyInsights/outlook-com-undo-move-delete) | premenovať |
+| 3/22/2019 | [8000036 zmena pic/názov profilu v službe Outlook.com](/AlchemyInsights/outlook-com-update-profile) | premenovať |
+| 3/22/2019 | [Outlook.com aktualizácia](/AlchemyInsights/outlook-com-update) | pridané |
+| 3/22/2019 | [8000054 Outlook.com skladovanie limit bol prekročený](/AlchemyInsights/outlook-com-usage-limit-exceeded) | premenovať |
+| 3/22/2019 | [8000092 Outlook.com Zobraziť zdroj správy](/AlchemyInsights/outlook-com-view-message-source) | premenovať |
+| 3/22/2019 | [1800009 program outlook for Mac v aplikácii podpora](/AlchemyInsights/outlook-for-mac-in-app-support) | premenovať |
+| 3/22/2019 | [1332 OWA - doručenej pošty pravidiel sa nevykonáva pre poštovú schránku](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | premenovať |
+| 3/22/2019 | [Zaplatiť faktúru](/AlchemyInsights/pay-by-invoice) | je |
+| 3/22/2019 | [1488-perform-eDiscovery-and-Content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | premenovať |
 
 
 ## <a name="week-of-february-18-2019"></a>Týždeň 18 februára 2019
