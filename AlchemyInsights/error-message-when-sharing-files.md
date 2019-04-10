@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: da7d2ccfa2f5e74c76c530893fd4457e21a32280
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941271"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747397"
 ---
 # <a name="error-messages-when-sharing"></a>Chybové hlásenia pri zdieľaní
 
 Ak prijmete chybové hlásenie, keď sa pokúšate o zdieľanie s externého používateľa, najpravdepodobnejšie externé zdieľanie nie je povolená alebo zdieľanie nastavená neumožňuje úroveň zdieľania používateľ pokúša.
   
-V * klasické * admin center SharePoint, kliknite na tlačidlo **zdieľania** na ľavej table. Vyberte úroveň zdieľania môžete povoliť. Uistite sa, že externé zdieľanie je zapnutá pre lokalitu. 
+Nové lokality SharePoint admin Center, kliknite na tlačidlo **zdieľania** na ľavej table. Vyberte úroveň zdieľania môžete povoliť. Uistite sa, že externé zdieľanie je zapnutá pre lokalitu. 
   
 Ak sa používateľ snaží prihlásiť dostane chybové hlásenie, skúste nasledujúce kroky:
   

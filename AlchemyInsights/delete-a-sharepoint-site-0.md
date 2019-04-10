@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754665"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748009"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Odstrániť lokality, ktoré patria do skupiny Office 365:
 
-Pri vytvorení novej lokality tímu z SharePoint domova (alebo vytváraní novej lokality tímu z nového SharePoint admin center náhľadu), automaticky sa vytvorí zodpovedajúce skupiny Office 365. Office 365 skupiny pripojené tímové lokality vytvorené aj pri vytváraní skupiny Office 365 alebo tím v Microsoft Teams. Ak chcete odstrániť lokalitu SharePoint, ktorý patrí do skupiny Office 365, musíte odstrániť samotnej skupiny Office 365. 
+Pri vytvorení novej lokality tímu z domova SharePoint alebo vytvorenie novej lokality tímu z nového SharePoint admin center, sa automaticky vytvorí zodpovedajúci skupiny Office 365. Office 365 skupiny pripojené tímové lokality vytvorené aj pri vytváraní skupiny Office 365 alebo tím v Microsoft Teams. Ak chcete odstrániť lokalitu SharePoint, ktorý patrí do skupiny Office 365, musíte odstrániť samotnej skupiny Office 365. 
   
 1. Prejdite na [stránku skupiny Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Poznámka: Ak chcete odstrániť skupinu, môžu existovať oneskorenie pred str
   
 **Odstrániť kolekciu lokalít SharePoint:**
 
-Na odstránenie tejto klasickej kolekcie:
+Odstránenie lokality:
   
-1. Klasické SharePoint admin Center, na stránke kolekcie lokalít, začiarknite **políčko** vedľa kolekcii. 
+1. Nové lokality SharePoint admin Center, na stránke lokality kliknite na **začiarkavacie políčko** vedľa stránky, ktorú chcete odstrániť. 
     
-2. Na karte kolekcie lokalít začiarknite **odstrániť.**
+2. Na páse s nástrojmi panel s nástrojmi, kliknite na **odstráňte.**
     
 **Stránky odstránené pri nehode?**
 

@@ -484,55 +484,23 @@
 | 3/28/2019 | [Obmedziť SharePoint Online na klasický režim](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | premenovať |
 
 
-## <a name="week-of-february-25-2019"></a>Týždeň 25 februára 2019
+## <a name="week-of-april-01-2019"></a>Týždeň 01 máj 2019
 
 
 | Zverejnené na |Názov témy | Zmena |
 |------|------------|--------|
-| 2/25/2019 | [1800014 získať podporu v aplikácii Outlook mobilnej aplikácie](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | je |
-| 2/25/2019 | [1800014 nastaviť e-mail v programe Outlook mobile app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | je |
-| 2/25/2019 | [8000001 vypnúť zobrazení prioritnej doručenej pošty](/AlchemyInsights/8000001-turn-off-focused-inbox) | je |
-| 2/25/2019 | [8000009 vytvoriť priečinok v službe Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | je |
-| 2/25/2019 | [8000012 odstránenie kontaktu v službe Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | je |
-| 2/25/2019 | [8000013 Zmena písma v službe Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | je |
-| 2/25/2019 | [8000014 ako zmeniť jazyk v službe Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | je |
-| 2/25/2019 | [8000015 blokovanie alebo odblokovanie odosielateľov](/AlchemyInsights/8000015-block-or-unblock-senders) | je |
-| 2/25/2019 | [8000015 prijímanie e-mail od blokovaných odosielateľov v službe Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | je |
-| 2/25/2019 | [8000029 zaoberať neoprávneným získavaním údajov v službe Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | je |
-| 2/25/2019 | [8000029 riešenie nevyžiadanej pošty v službe Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | je |
-| 2/25/2019 | [8000029 zaoberať spam alebo phishing v službe Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | je |
-| 2/25/2019 | [8000033 ako odpovedať alebo poslať správy v službe Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | je |
-| 2/25/2019 | [8000034 prečítaní v službe Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | je |
-| 2/25/2019 | [8000036 Zmena názvu pošty v službe Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | je |
-| 2/25/2019 | [8000046 tlačiť e-maily a kalendáre v službe Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | je |
-| 2/25/2019 | [8000047 ako vytvoriť podpis e-mailu v službe Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | je |
-| 2/25/2019 | [8000052 Priloženie súborov v službe Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | je |
-| 2/25/2019 | [8000059 ako zmeniť tému akcie (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | je |
-| 2/25/2019 | [Odporúčaný postup Ak účet je ohrozená](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | je |
-| 2/26/2019 | [Obnoviť odstránené skupiny Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | je |
-| 2/26/2019 | [9000215 Outlook.com predplatné](/AlchemyInsights/9000215-outlook-com-subscriptions) | pridané |
-| 2/27/2019 | [9000199 PST súbory v službe Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | pridané |
-| 2/27/2019 | [9000202 možnosti služby Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | pridané |
-| 2/27/2019 | [9000203 Outlook.com filtre](/AlchemyInsights/9000203-outlook-com-filters) | pridané |
-| 2/28/2019 | [8000036 zmena pic/názov profilu v službe Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | pridané |
-| 2/28/2019 | [8000049 ikonu Skypu v službe Outlook.com chýbajú](/AlchemyInsights/8000049-2-outlook-com-skype-button) | pridané |
-| 2/28/2019 | [8000088 uložiť e-mail v službe Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | pridané |
-| 2/28/2019 | [9000071 nemôžete zadať @ symbol na Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | pridané |
-| 2/28/2019 | [9000193 späť premiestniť alebo odstrániť v službe Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | pridané |
-| 2/28/2019 | [9000198 kalendár Outlook.com Beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | pridané |
-| 3/1/2019 | [8000035 požiadať vrátiť z Outlook.com beta na klasické služby Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | pridané |
-| 3/1/2019 | [8000035 ako vytvoriť nový vzhľad Outlook.com ako ten starý](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | pridané |
-| 3/1/2019 | [8000043 POP, IMAP a SMTP nastavenia pre Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | pridané |
-| 3/1/2019 | [8000090 Outlook.com vyberte všetky](/AlchemyInsights/8000090-outlook-com-select-all) | pridané |
-| 3/1/2019 | [8000091 Outlook.com reagovať pop up](/AlchemyInsights/8000091-outlook-com-react-pop-up) | pridané |
-| 3/1/2019 | [8000092 Outlook.com Zobraziť zdroj správy](/AlchemyInsights/8000092-outlook-com-view-message-source) | pridané |
-| 3/1/2019 | [8000093 povolenia konta Outlook.com pripojený](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | pridané |
-| 3/1/2019 | [1800009Outlook pre Mac z aplikácie podporu](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | je |
-| 3/1/2019 | [8000057 bezpečné odkazy v službe Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | je |
-| 3/1/2019 | [9000232 adresu knihy služby Outlook.com](/AlchemyInsights/9000232-outlook-com-address-book) | pridané |
-| 3/1/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | pridané |
-| 3/1/2019 | [9000234 Outlook.com vnútorná chyba servera](/AlchemyInsights/9000234-outlook-com-internal-server-error) | pridané |
-| 3/1/2019 | [9000236 Outlook.com pridajte konto](/AlchemyInsights/9000236-outlook-com-add-account) | pridané |
-| 3/1/2019 | [9000238 Outlook.com pridajte alias](/AlchemyInsights/9000238-outlook-com-add-alias) | pridané |
-| 3/1/2019 | [9000239 presmerovanie služby Outlook.com](/AlchemyInsights/9000239-outlook-com-forwarding) | pridané |
-| 3/1/2019 | [9000240 Outlook.com odpovede](/AlchemyInsights/9000240-outlook-com-replies) | pridané |
+| 4/1/2019 | [Povoliť Office 365 ATP pre SharePoint a OneDrive Microsoft tímy](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | pridané |
+| 4/1/2019 | [Inštaláciu balíka Office 365 rozšírené ohrozenie ochrany (ATP)](/AlchemyInsights/office-365-atp-setup) | pridané |
+| 4/1/2019 | [9000071 nemôžete zadať @ symbol na Mac](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | premenovať |
+| 4/1/2019 | [Obnoviť Office 365 skupiny pomocou výmeny admin center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | je |
+| 4/1/2019 | [Riešenie problémov s Office 365 rozšírené ohrozenie ochrany (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | pridané |
+| 4/2/2019 | Klasifikácia menoviek v balíku Office 365 | pridané |
+| 4/2/2019 | Prehľad údajov Loss Prevention (DLP) | pridané |
+| 4/2/2019 | Desktop aplikácií pre SharePoint | pridané |
+| 4/2/2019 | Rozbočovač stránky limity a obmedzenia | pridané |
+| 4/2/2019 | OneDrive: Chýbajúce súbory alebo priečinky | pridané |
+| 4/2/2019 | Uložiť ako šablónu lokality alebo zoznamu | pridané |
+| 4/2/2019 | Prehľad SharePointu rozbočovač lokalít | pridané |
+| 4/2/2019 | Miesto a obsahovú štruktúru odstránené | pridané |
+| 4/2/2019 | Riešenie problémov s chyba 404 súbor nebol nájdený | pridané |
+| 4/3/2019 | [Kód chyby 550 5.7.705 prístup odmietnutý, nájomca prekročila prah](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | je |

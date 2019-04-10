@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941775"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747865"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Zdieľanie súboru alebo priečinka v SharePoint alebo OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941775"
   - **Konkrétnych ľudí** poskytuje prístup len k ľuďom určíte, aj keď ostatní ľudia už majú prístup. Ak ľudia poslať pozvanie na zdieľanie, iba ľudia, ktorí už majú prístup k položke budú môcť použiť odkaz. 
     
     > [!NOTE]
-    > Ak niektorú z týchto možností nie je dostupná, alebo ak chcete iný odkaz typu predvolene zobrazia, môžete zmeniť nastavenia pre celú organizáciu bude klasické SharePoint admin center a kliknutím na tlačidlo **zdieľania** na ľavej table. [Dozvedieť sa viac](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Ak niektorú z týchto možností nie je dostupná, alebo ak chcete iný odkaz typu predvolene zobrazia, môžete zmeniť nastavenia pre celú organizáciu chystá nové SharePoint admin center a kliknutím na tlačidlo **zdieľania** na ľavej table. [zistiť viac](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Podľa predvoleného nastavenia je zapnutá **povoliť úpravu** . Ak chcete ľudia len prezeranie súborov, zrušte začiarknutie políčka. 
     
