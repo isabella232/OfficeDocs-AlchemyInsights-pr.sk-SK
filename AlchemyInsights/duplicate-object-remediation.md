@@ -10,21 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1314
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 3bd8e27d101f7ca4e260c8206436c558ebb4d196
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d1f4577b7e92ddd72fb049e14934e06e3363f198
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779316"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859443"
 ---
 # <a name="duplicate-object-synchronization-errors"></a>Duplicitný objekt chyby synchronizácie
 
 Ak sa zobrazí jedno z nasledujúce chyby počas synchronizácie:
-  
-- Objekt synchronizované s rovnakou adresou servera proxy už existuje v adresári služby Online spoločnosti Microsoft.
-    
-- Podobné správy pre UserPrincipalName.
-    
-pomocou nového AADConnect zdravie diagnostické vyriešiť duplicitné objekt chyby. Ďalšie informácie nájdete v téme [diagnostika a náprava chýb synchronizácie Duplicitný atribút](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
-  
 
+- Objekt synchronizované s rovnakou adresou servera proxy už existuje v adresári služby Online spoločnosti Microsoft.
+
+- Podobné správy pre UserPrincipalName.
+
+Pomocou nového AADConnect zdravie diagnostické vyriešiť duplicitné objekt chyby. Ďalšie informácie nájdete v téme [diagnostika a náprava chýb synchronizácie Duplicitný atribút](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
