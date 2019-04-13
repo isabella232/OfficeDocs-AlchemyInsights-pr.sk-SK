@@ -11,27 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762547"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857859"
 ---
 # <a name="app-passwords"></a>Heslá aplikácií
 
 Heslo aplikácie je kód, ktorý dáva povolenie aplikácii alebo zariadeniu získať prístup k Office 365work alebo školské konto. Ak vaše konto vyžaduje viacnásobné overovanie (MFA) a aplikácia pripojí k vášmu účtu, budete musieť vygenerovať heslo aplikácie, takže aplikácie môžete pripojiť k Office 365. Napríklad, program Outlook 2016 a staršie verzie Outlook vyžadujú heslo aplikácie.
-  
- **Poznámka**: skôr než vyskúšate nasledujúce kroky, overte, či váš Office 365 admin MFA potrebné pre váš účet. Ak nie, možnosti opísané v krokoch nebude k dispozícii.
-  
-1. S vašej práce alebo školy konta a heslo, prihláste sa do služby Office 365.
-    
-2. Vyberte si **ho teraz nastaviť**.
-    
-3. Vyberte metódu overenia a postupujte podľa pokynov.
-    
-4. Po overení alternatívny spôsob kontaktu, vyberte si **ďalšiu**.
-    
-5. Dostanete heslo aplikácie, ktoré môžete použiť s programom Outlook, Apple Mail a ďalšie aplikácie, ktoré ju potrebujú. Vyberte **Kopírovať** kopírovať heslo, takže ju môžete prilepiť inde (nemusíte zapamätať). 
-    
 
+ **Poznámka**: skôr než vyskúšate nasledujúce kroky, overte, či váš Office 365 admin MFA potrebné pre váš účet. Ak nie, možnosti opísané v krokoch nebude k dispozícii.
+
+1. S vašej práce alebo školy konta a heslo, prihláste sa do služby Office 365.
+
+2. Vyberte si **ho teraz nastaviť**.
+
+3. Vyberte metódu overenia a postupujte podľa pokynov.
+
+4. Po overení alternatívny spôsob kontaktu, vyberte si **ďalšiu**.
+
+5. Dostanete heslo aplikácie, ktoré môžete použiť s programom Outlook, Apple Mail a ďalšie aplikácie, ktoré ju potrebujú. Vyberte **Kopírovať** kopírovať heslo, takže ju môžete prilepiť inde (nemusíte zapamätať).
