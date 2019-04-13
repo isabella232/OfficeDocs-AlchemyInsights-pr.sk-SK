@@ -10,15 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
-ms.openlocfilehash: 4bae5e165664d2621ef032865915be65ebf077f6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5562ace93ed1e85cf18c876788683e68a82b4f33
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778021"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858579"
 ---
-# <a name="configure-mail-and-calendar-delegates"></a><span data-ttu-id="8fb5a-102">Konfigurovať mail a kalendár delegátov</span><span class="sxs-lookup"><span data-stu-id="8fb5a-102">Configure mail and calendar delegates</span></span>
+# <a name="configure-mail-and-calendar-delegates"></a><span data-ttu-id="fceb4-102">Konfigurovať mail a kalendár delegátov</span><span class="sxs-lookup"><span data-stu-id="fceb4-102">Configure mail and calendar delegates</span></span>
 
-<span data-ttu-id="8fb5a-103">Poskytnite ostatným používateľom prístup k poštovej schránke, nájdete v téme [povolenie iným osobám spravovať vašu poštu a kalendár](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span><span class="sxs-lookup"><span data-stu-id="8fb5a-103">To give other users access to your mailbox, see [Allow someone else to manage your mail and calendar](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span></span>
-  
-
+<span data-ttu-id="fceb4-103">Poskytnite ostatným používateľom prístup k poštovej schránke, nájdete v téme [povolenie iným osobám spravovať vašu poštu a kalendár](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span><span class="sxs-lookup"><span data-stu-id="fceb4-103">To give other users access to your mailbox, see [Allow someone else to manage your mail and calendar](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx).</span></span>
