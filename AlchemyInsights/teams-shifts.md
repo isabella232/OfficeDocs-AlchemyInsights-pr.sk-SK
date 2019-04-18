@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1686
-ms.openlocfilehash: 64327d37216a3fbf379f52fcb9e723676edbe1a1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 77d5e2d924197fb529fe23a3f496d828000c951c
+ms.sourcegitcommit: 31fad829e53a293e5ec474785f16ccc23494aa8d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781941"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31914753"
 ---
 # <a name="using-teams-shifts"></a>Pomocou tímy posuny
 
 Aplikácia posuny v tímoch umožňuje rýchly a efektívny časový manažment a komunikácia pre prvej línii tímy. To umožní manažéri a zamestnanci používať svoje mobilné zariadenia spravovať plány a majte na dotyk.
 
-Dozvedieť viac pozri [Spravovať posuny aplikácie pre organizáciu v Microsoft tímov](https://docs.microsoft.com/en-us/microsoftteams/manage-the-shifts-app-for-your-organization-in-teams). Získate informácie o tom, ako získať posuny a ako ho môžete nastaviť.
+Ďalšie informácie nájdete [presúva pre tímy](https://docs.microsoft.com/en-us/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). Získate informácie o tom, ako získať posuny a ako ho môžete nastaviť.
 
 Ak ste už povolili posuny, si [začať pracovať na smeny](https://support.office.com/en-us/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) a Naučte sa vytvoriť plány.
 
