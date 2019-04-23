@@ -1,5 +1,5 @@
 ---
-title: Ako aktualizovať moje informácie o kreditnej karte?
+title: Ako aktualizujem informácie o kreditnej karte?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405194"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763843"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Ako aktualizovať moje informácie o kreditnej karte?
+# <a name="how-do-i-update-my-credit-card-information"></a>Ako aktualizujem informácie o kreditnej karte?
 
-1. Admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
+1. V centre spravovania prejdite na stránku [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vyberte položky **Fakturácia** \> **Predplatné**.
     
-2. Vyberte na predplatné, ktoré ste si zakúpili pomocou kreditnej karty alebo bankového konta, ktoré chcete aktualizovať, a potom vyberte **aktualizovať platobné Podrobnosti**.
+2. Vyberte predplatné zakúpené pomocou bankového účtu alebo kreditnej karty, ktoré chcete aktualizovať. Potom vyberte položku **Aktualizovať podrobnosti o platbe**.
     
-3. Vyberte rozbaľovaciu šípku pod **Pridať alebo vyberte spôsob platby**, vyberte si kreditnú kartu alebo bankový účet, ktorý chcete aktualizovať, vyberte **Upraviť podrobnosti**.
+3. Vyberte rozbaľovaciu šípku v časti **Pridanie alebo výber spôsobu úhrady** a vyberte kreditnú kartu alebo bankový účet, ktoré chcete aktualizovať. Potom vyberte položku **Upraviť podrobnosti**.
     
-4. Aktualizovať informácie kreditnej karty alebo bankového účtu (meno na kreditnú kartu alebo bankový účet, fakturačná adresa. telefónne číslo alebo dátum expirácie), podľa potreby a vyberte **Odoslať**.
+4. Podľa potreby aktualizujte informácie o kreditnej karte alebo bankovom účte (meno na kreditnej karte alebo meno majiteľa bankového účtu, adresa pre fakturáciu, telefónne číslo alebo dátum uplynutia platnosti) a potom vyberte položku **Odoslať**.
     
-5. Potvrdenie sa zjaví.
+5. Malo by sa zobraziť potvrdenie.
     
-Ďalšie informácie nájdete v časti [Riešenie problémov kreditných kariet a bankových účtov](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Ďalšie informácie nájdete v téme [Riešenie problémov s kreditnými kartami alebo bankovými účtami](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

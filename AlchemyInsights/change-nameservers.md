@@ -1,5 +1,5 @@
 ---
-title: Zmena nameservery
+title: Zmena názvových serverov
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405338"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754701"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Aktualizovať svoje nameservery domény Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Aktualizácia názvových serverov domény v službách Office 365
 
-Poznámka: Nameserver zmeny môže niekedy trvať až 48 hodín.
+Poznámka: Rozšírenie zmien názvových serverov môže trvať až 48 hodín.
   
-Ak chcete nastaviť doménu v Office 365, nameservery u registrátora treba aktualizovať. Vytvoriť alebo upraviť váš nameserver záznamov registrátora vašej domény.
+Ak chcete nastaviť doménu v službách Office 365, názvové servery u vášho registrátora musia byť aktualizované. Vytvorte alebo upravte záznamy názvového servera u registrátora domén.
   
-1. Navštívte webovú lokalitu registrátora domény a nájsť oblasti, kde si môžete upravovať nameservery.
+1. Prejdite na webovú lokalitu registrátora domén a vyhľadajte miesto, kde môžete upraviť názvové servery.
     
-2. Vytvorenie alebo úprava dvoch nameserver záznamy, ktoré zodpovedajú tieto hodnoty:
+2. Vytvorte alebo upravte dva záznamy názvového servera, ktoré sa zhodujú s týmito hodnotami:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - ns2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
 3. Uložte zmeny.
     
-V tomto článku nájdete podrobné pokyny: [Zmena nameservery nastavenie Office 365 pomocou akéhokoľvek registrátora domény](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Podrobné pokyny nájdete aj v tomto článku: [Zmena názvových serverov na nastavenie služieb Office 365 s ľubovoľným registrátorom domén](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 
