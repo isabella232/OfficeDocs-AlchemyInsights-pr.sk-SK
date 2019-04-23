@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 62d18bf39bcebf4bb22e88dda6d87020816459d7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 678a881b70b2117dc2d93b5835aafc0389706cdb
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761792"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869646"
 ---
 # <a name="create-an-outlook-profile"></a>Vytvoriť profil programu Outlook
 
-Na vytvorenie alebo re-vytvorenie profilu programu Outlook, môžete spustiť [nástroj Outlook profil](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutého počítača. 
+Na vytvorenie alebo re-vytvorenie profilu programu Outlook, môžete spustiť [nástroj Outlook profil] (https://aka.ms/ SaRA-OutlookSetupProfile-alchýmia) postihnutého počítača. 
   
 Nástroj vykoná rôzne kontroly, a keď budete pripravení vytvoriť profil programu Outlook s e-mailovú adresu.
   

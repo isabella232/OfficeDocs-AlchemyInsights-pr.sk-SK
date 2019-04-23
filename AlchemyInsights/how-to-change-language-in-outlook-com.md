@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000014
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 77e9a6f21702189aa7ec4b56323b92eb0766bd08
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775501"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903679"
 ---
 # <a name="change-your-language"></a>Zmena jazyka
 
-1. V pravom hornom rohu, vyberte **nastavenia** \> **Možnosti**.
+1. V pravom hornom rohu, vyberte **nastavenia** \> **Zobraziť všetkých nastavení programu Outlook**.
     
-2. V časti **Možnosti**vyberte **Všeobecné** \> **región a časové pásmo**.
+2. Podľa **Všeobecné**, vyberte [**jazyk a čas**](https://outlook.live.com/mail/options/general/timeAndLanguage).
     
-3. Podľa **regiónu a časové pásma nastavenia**, vyberte svoj jazyk.
+3. Vyberte svoj jazyk.
     
 4. Kliknite na tlačidlo **Uložiť**.
     

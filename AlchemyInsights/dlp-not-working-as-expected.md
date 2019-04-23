@@ -10,17 +10,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1e5ff53d903a14064147621df0a883152c32eff5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6d8e3e540494e99e42f04080681f46324f2936bd
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919671"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869574"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nefunguje podľa očakávania
 
 
-Máte problémy s **Data Loss Prevention (DLP)** v Office 365 nefunguje ako sa očakávalo? Ak áno, uistite sa, že **DLP politiky** je nastavenie správne, a že údaje obsahujú aké **DLP politiky** hľadá, keď je hodnotený. 
+Máte problémy s **Data Loss Prevention (DLP)** v Office 365 nefunguje ako sa očakávalo? Ak áno, uistite sa, že **DLP politiky** je nastavený správne, a že údaje obsahujú aké **DLP politiky** hľadá, keď je hodnotený. 
   
  **Nastavenie DLP:**
   
