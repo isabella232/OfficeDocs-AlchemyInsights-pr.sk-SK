@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927843"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404100"
 ---
 # <a name="enable-an-archive-mailbox"></a>Zapnúť archívnu poštovú schránku
 
@@ -33,7 +33,7 @@ Tu je návod, ako vytvoriť archívnej poštovej schránky:
     
 Môžete tiež hromadne-zapnúť Archív poštových schránok výberom viacerých používateľov (pomocou klávesy **Shift** alebo **Ctrl** ) a v table s podrobnosťami kliknutím na položku **Povoliť** . 
   
-Ďalšie informácie sa nachádzajú v téme:
+Ďalšie informácie nájdete v téme:
   
 - [Povoliť archívna poštová schránka v balíku Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
     

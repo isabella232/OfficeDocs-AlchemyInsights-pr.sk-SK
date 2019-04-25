@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1369
 ms.assetid: ''
 ms.openlocfilehash: 7fb2c161c558a7eb961f86ca2b86e33750d902fd
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909545"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417226"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifikovať preposielanie externých e-mailov je nakonfigurovaný poštových schránok
 

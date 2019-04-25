@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: 204
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
 ms.openlocfilehash: a8cc842946372a46f103a09952568b14116036d6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772841"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417726"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Ako nájsť a obnoviť chýbajúce správy, kontakty a položky kalendára v programe Outlook
 
 - [mám problémy odosielanie, prijímanie, alebo nájsť e-mailovej správy nástroj](https://aka.ms/SaRA-OutlookSendReceive) môžete použiť na postihnutého počítača. Tento nástroj bude kontrolovať množstvo otázok a navrhovať možné riešenia. 
     
-- [Určite, či účet je napadnutý](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ak napadnutý, postupujte podľa [reagovať na ohrozenia e-mailového konta Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
+- [Určiť, či bolo konto zneužité](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ak napadnutý, postupujte podľa [reagovať na ohrozenia e-mailového konta Office 365.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
     
 - [Vyhľadávanie správy alebo položky pomocou funkcie okamžité vyhľadávanie](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
     

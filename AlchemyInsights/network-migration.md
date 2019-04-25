@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904695"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417717"
 ---
 # <a name="network-migration"></a>Migračnej siete
 
@@ -29,7 +29,7 @@ Služby O365 nájomcom je prípadne spojená s viac sieť Yammer sietí v 1 náj
     
 Vezmite prosím na vedomie:
   
-- **Sieť migrácie migruje iba aktívne a čakajúce používateľov.** Spolu s aktívnych používateľov, používateľov informácií, napríklad meno či profilovú fotografiu aj migrácie. Obsah siete, vrátane skupín je nepreniesla. 
+- **Sieť migrácie migruje iba aktívne a čakajúce užívateľom.** Spolu s aktívnych používateľov, používateľov informácií, napríklad meno či profilovú fotografiu aj migrácie. Obsah siete, vrátane skupín je nepreniesla. 
     
 - **Sieť migrácie nie je možné zvrátiť.** Nebudete mať prístup k sieti dcérskej spoločnosti a jej obsah po migrácii. Takže pred vami zvážiť migrácie, chcete starostlivo naplánovať. 
     
