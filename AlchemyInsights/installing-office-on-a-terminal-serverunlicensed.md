@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918996"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410137"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Inštalácia balíka Office na terminálový Server
 
@@ -25,9 +25,9 @@ Na nasadenie balíka Office 365 ProPlus na serveri Windows Server pomocou Remote
     
 Ak chcete nainštalovať Office 365 ProPlus na RDS z Office 365 portálu, ** *ktoré používa predvolené nastavenia inštalácie* **, postupujte nasledovne: 
   
-1. Skontrolujte, aký máte plán služieb Office 365. [Učiť ako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Skontrolujte, aký máte plán služieb Office 365. [Zistite ako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Ak potrebné, prepnúť na rôzne Office 365 plánu. [Učiť ako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Ak potrebné, prepnúť na rôzne Office 365 plánu. [Zistite ako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Ak Office je už nainštalovaný na serveri RDS používať iné plány služieb Office 365, odinštalujte ju. Napríklad tým, že pôjdete do ovládacieho panela \> odinštalovať program. Odinštalovať pomocou [Microsoft Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ak ste beží do problémov. 
     
