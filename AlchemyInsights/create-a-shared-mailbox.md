@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 96c69b3e6bf64a0db9517059864c4a8c0718335c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917835"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407269"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="15d17-102">Vytvorenie zdieľanej poštovej schránky</span><span class="sxs-lookup"><span data-stu-id="15d17-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="159a3-102">Vytvorenie zdieľanej poštovej schránky</span><span class="sxs-lookup"><span data-stu-id="159a3-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="15d17-103">Zdieľanej poštovej schránky umožňuje viacerým osobám, odosielanie a prijímanie e-mail pre alias, ako **sales@contoso.com**, bez priradenia ďalšiu licenciu.</span><span class="sxs-lookup"><span data-stu-id="15d17-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="159a3-103">Zdieľanej poštovej schránky umožňuje viacerým osobám, odosielanie a prijímanie e-mail pre alias, ako **sales@contoso.com**, bez priradenia ďalšiu licenciu.</span><span class="sxs-lookup"><span data-stu-id="159a3-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="15d17-104">Ďalšie informácie v téme [vytvorenie zdieľanej poštovej schránky](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) .</span><span class="sxs-lookup"><span data-stu-id="15d17-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
+<span data-ttu-id="159a3-104">Ďalšie informácie v téme [vytvorenie zdieľanej poštovej schránky](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) .</span><span class="sxs-lookup"><span data-stu-id="159a3-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
   
 
