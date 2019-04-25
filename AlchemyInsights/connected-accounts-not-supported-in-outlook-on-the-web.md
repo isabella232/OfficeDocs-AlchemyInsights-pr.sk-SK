@@ -10,11 +10,11 @@ localization_priority: Normal
 ms.custom: 1800029
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
 ms.openlocfilehash: be664418e6e61807e94958cee2fe0a5b6368696c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785581"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392781"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>Pripojené kontá už nie sú podporované
 

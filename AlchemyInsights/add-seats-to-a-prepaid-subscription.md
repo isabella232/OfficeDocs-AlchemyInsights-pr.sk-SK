@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763519"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398761"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Pridať miest na predplatené prihlásenie na odber
 
-1. Admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
+1. V centre spravovania prejdite na stránku [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vyberte položky **Fakturácia** \> **Predplatné**.
     
 2. Vyberte predplatené predplatné, ktoré by ste chceli pridať používateľov.
     

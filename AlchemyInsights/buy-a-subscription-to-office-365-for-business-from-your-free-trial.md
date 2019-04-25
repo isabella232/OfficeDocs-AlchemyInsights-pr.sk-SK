@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761612"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396774"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Zakúpenie predplatného na Office 365 z bezplatnej skúšobnej verzie
 
@@ -24,7 +24,7 @@ Ste vyskúšali Office 365, a teraz ste pripravení kúpiť. Máte dve možnosti
   
  **Môžete si kúpiť rovnaký plán ako skúšobnej verzie**
   
-1. Admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
+1. V centre spravovania prejdite na stránku [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vyberte položky **Fakturácia** \> **Predplatné**.
     
 2. Vyberte **Kúp teraz** pre skúšobné predplatné, ktoré chcete, a postupujte podľa krokov na check-out. 
     

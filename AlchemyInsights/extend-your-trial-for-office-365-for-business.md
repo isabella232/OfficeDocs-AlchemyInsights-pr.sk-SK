@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754341"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401996"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Predĺženie skúšobnej verzie služieb Office 365 for Business
 
 Ak vaše hodnotenie predplatné je do 15 dní od končí a súdnom konaní nebol bol rozšírený pred, môžete rozšíriť vaše hodnotenie na ďalšie 30-dňové obdobie. Môžete urobiť len to raz.
   
-1. Admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
+1. V centre spravovania prejdite na stránku [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vyberte položky **Fakturácia** \> **Predplatné**.
     
 2. Vyberte si skúšobnú predplatné, ktoré chcete rozšíriť.
     
