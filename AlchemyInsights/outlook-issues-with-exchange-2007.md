@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
 ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923280"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372827"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Riešenie chyby "budete môcť prijímať e-maily v aktuálnej schránke"
 Budete dostávať tieto chyby Ak sa pokúsite použiť 365/2016 programu Outlook s Exchange 2007 server:

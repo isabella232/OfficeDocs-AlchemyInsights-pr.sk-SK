@@ -10,11 +10,11 @@ ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30782711"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32373259"
 ---
 # <a name="stop-messages-going-to-your-junk-email-folder"></a>Stop správy bude do priečinka nevyžiadanej pošty
 
