@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 1047
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
 ms.openlocfilehash: 907f74c5a20a45ef8bf111de5f7671485e189e91
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859623"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397131"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="a76b8-103">550 5.7.708 prístup odmietnutý, prevádzka neprijímajú z tejto IP</span><span class="sxs-lookup"><span data-stu-id="a76b8-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="c4c55-103">550 5.7.708 prístup odmietnutý, prevádzka neprijímajú z tejto IP</span><span class="sxs-lookup"><span data-stu-id="c4c55-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="a76b8-104">Táto chyba sa vyskytuje pri odosielaní e-mailu od známych, nízke povesť adries IP, ktoré sú zvyčajne využívané nových zákazníkov.</span><span class="sxs-lookup"><span data-stu-id="a76b8-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="c4c55-104">Táto chyba sa vyskytuje pri odosielaní e-mailu od známych, nízke povesť adries IP, ktoré sú zvyčajne využívané nových zákazníkov.</span><span class="sxs-lookup"><span data-stu-id="c4c55-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
-<span data-ttu-id="a76b8-105">Ak budete posielať e-maily z týchto adries IP skôr, ako si môžete zakúpiť licencie, obráťte sa na podporu požiadať o výnimku, kým budete môcť zakúpiť licencie.</span><span class="sxs-lookup"><span data-stu-id="a76b8-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="c4c55-105">Ak budete posielať e-maily z týchto adries IP skôr, ako si môžete zakúpiť licencie, obráťte sa na podporu požiadať o výnimku, kým budete môcť zakúpiť licencie.</span><span class="sxs-lookup"><span data-stu-id="c4c55-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
