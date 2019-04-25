@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.openlocfilehash: b11feec336371a19c09217d1ee88dc1cef01f9d8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906171"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420355"
 ---
 # <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Riešenie problémov s Apple MDM Push certifikát Microsoft Intune
 

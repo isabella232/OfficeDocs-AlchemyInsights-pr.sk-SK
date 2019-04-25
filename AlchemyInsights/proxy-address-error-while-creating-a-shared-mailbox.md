@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.openlocfilehash: be85c3636d128ae80c6a2dfedd0c1c8670bfb1ef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901671"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388846"
 ---
 # <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Chyba servera proxy adresy pri vytváraní zdieľanej poštovej schránky
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
 ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753369"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400326"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Pomocník pre pochopenie hodnoty pridanej hodnoty (DPH)
 
