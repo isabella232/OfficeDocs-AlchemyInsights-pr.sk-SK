@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: 898
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
 ms.openlocfilehash: 5342cc5463840a404239e7a225324dce8f78c90e
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858291"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410029"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="b330e-102">Ďalšie informácie o externých zdieľanie Možnosti kalendára</span><span class="sxs-lookup"><span data-stu-id="b330e-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="12238-102">Ďalšie informácie o externých zdieľanie Možnosti kalendára</span><span class="sxs-lookup"><span data-stu-id="12238-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="b330e-103">Zobraziť [kalendáre zdieľať s externými používateľmi](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span><span class="sxs-lookup"><span data-stu-id="b330e-103">See [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
+<span data-ttu-id="12238-103">Zobraziť [kalendáre zdieľať s externými používateľmi](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span><span class="sxs-lookup"><span data-stu-id="12238-103">See [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
