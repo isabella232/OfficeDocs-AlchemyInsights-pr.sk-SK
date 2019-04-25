@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Týždeň 11 marca 2019
-
-
-| Zverejnené na |Názov témy | Zmena |
-|------|------------|--------|
-| 3/12/2019 | 8000054 doručenej pošty služby Outlook.com nenačítajú | pridané |
-| 3/12/2019 | [8000078 doručenej pošty služby Outlook.com nenačítajú](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | premenovať |
-| 3/12/2019 | [8000078 doručenej pošty služby Outlook.com nenačítajú](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | je |
-| 3/13/2019 | [Prenos e-mailov prostredníctvom služieb Office 365](/AlchemyInsights/relay-email-through-office-365) | je |
-| 3/14/2019 | [rovnaký ako názov súboru je najlepšie [pravidlo #-Popis]](/AlchemyInsights/1-alchemy-insight-template) | je |
-| 3/14/2019 | [Zvýšiť veľkosť poštovej schránky](/AlchemyInsights/increase-mailbox-size) | je |
-| 3/15/2019 | [Desktop odvolanie správy programu Outlook alebo nahradiť e-mailovej správy](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | pridané |
-
-
 ## <a name="week-of-march-18-2019"></a>Týždeň 18 marca 2019
 
 
@@ -530,3 +516,47 @@
 | 4/12/2019 | [932 inovácia AADConnect](/AlchemyInsights/upgrading-aadconnect) | je |
 | 4/12/2019 | [725 pomocou e-mailový alias v mobilnom zariadení](/AlchemyInsights/using-email-alias-on-mobile-device) | je |
 | 4/12/2019 | [Chyba rozhrania Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | je |
+
+
+## <a name="week-of-april-15-2019"></a>Týždeň z 15. apríla 2019
+
+
+| Zverejnené na |Názov témy | Zmena |
+|------|------------|--------|
+| 4/15/2019 | [Alchemy - diagnostikovať a vyriešiť problémy s pripojením programu Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | je |
+| 4/15/2019 | [Alchemy - znovu profilu programu Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | je |
+| 4/15/2019 | [DLP potrebovať vlastný typ](/AlchemyInsights/dlp-might-need-custom-type) | pridané |
+| 4/15/2019 | [DLP nefunguje podľa očakávania](/AlchemyInsights/dlp-not-working-as-expected) | je |
+| 4/15/2019 | [DLP politiky tipy nefungujú](/AlchemyInsights/dlp-policy-tips-not-working) | je |
+| 4/15/2019 | [Outlook.com chyba 550](/AlchemyInsights/outlook-com-error-550) | pridané |
+| 4/15/2019 | [Outlook.com nad kvótu](/AlchemyInsights/outlook-com-over-quota) | pridané |
+| 4/15/2019 | [Outlook.com odstrániť Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | pridané |
+| 4/15/2019 | [Outlook.com odstrániť Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | pridané |
+| 4/15/2019 | [182 spustite SaRA diagnostikovať &amp; vyriešiť problémy s overovaním služby Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | je |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | je |
+| 4/16/2019 | [Outlook.com odstrániť Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | je |
+| 4/16/2019 | [8000088 uložiť e-mail v službe Outlook.com](/AlchemyInsights/outlook-com-save-emails) | je |
+| 4/16/2019 | [8000052 Priloženie súborov v službe Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | je |
+| 4/16/2019 | [8000015 blokovanie alebo odblokovanie odosielateľov](/AlchemyInsights/block-or-unblock-senders) | je |
+| 4/16/2019 | [8000014 ako zmeniť jazyk v službe Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | je |
+| 4/16/2019 | [8000059 ako zmeniť rozloženie](/AlchemyInsights/how-to-change-your-layout) | je |
+| 4/16/2019 | [8000033 ako odpovedať alebo poslať správy v službe Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | je |
+| 4/16/2019 | [8000055 ako na prihlásenie alebo odhlásenie zo služby Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | je |
+| 4/16/2019 | [8000062 presun priečinka v službe Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | je |
+| 4/16/2019 | [Auto-uplatňovať označenia citlivosti](/AlchemyInsights/auto-apply-sensitivity-labels) | pridané |
+| 4/16/2019 | [Citlivosť menovky nie je uvedený](/AlchemyInsights/sensitivity-labels-not-appearing) | pridané |
+| 4/16/2019 | [Nové etikety uchovávania údajov automaticky vytvorí](/AlchemyInsights/new-retention-labels-created-automatically) | pridané |
+| 4/16/2019 | [SharePoint a OneDrive auditové denníky](/AlchemyInsights/classic-sharepoint-audit-log-reports) | pridané |
+| 4/16/2019 | [Identifikáciu odstrániť správu udalostí v denníkoch auditu](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | pridané |
+| 4/16/2019 | [Určiť externé preposielanie na poštové schránky v denníkoch auditu](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | pridané |
+| 4/16/2019 | [Doručená pošta pravidlo aktivitu v denníkoch auditu určiť](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | pridané |
+| 4/16/2019 | [Určiť adresy IP a klient v denníkoch auditu](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | pridané |
+| 4/16/2019 | [Oprava súboru .pst pred importom](/AlchemyInsights/repair-pst-before-importing) | pridané |
+| 4/16/2019 | [Klasické zostavy denníka auditu SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | pridané |
+| 4/16/2019 | [Klasické zostavy denníka auditu SharePoint](/AlchemyInsights/classic-sharepoint-audit-log-reports) | je |
+| 4/16/2019 | [Určiť externé preposielanie na poštové schránky v denníkoch auditu](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | je |
+| 4/16/2019 | [Doručená pošta pravidlo aktivitu v denníkoch auditu určiť](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | je |
+| 4/16/2019 | [Klasické zostavy denníka auditu SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | je |
+| 4/17/2019 | [Vyriešiť otázky doručovanie pošty do e-mailu verejných priečinkov](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | pridané |
+| 4/17/2019 | [Tímy posuny](/AlchemyInsights/teams-shifts) | je |
+| 4/18/2019 | [8000011 obnoviť zmazané e-maily v službe Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | je |
