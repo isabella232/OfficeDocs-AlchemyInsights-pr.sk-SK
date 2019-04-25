@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
 ms.openlocfilehash: 6c452e629723b3c24a006dfd9fad72bbc248287d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758121"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410209"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="c487f-102">Inštalácia Skypu for Business</span><span class="sxs-lookup"><span data-stu-id="c487f-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="b2fa2-102">Inštalácia Skypu for Business</span><span class="sxs-lookup"><span data-stu-id="b2fa2-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="c487f-103">Skype for Business môžete nainštalovať podľa nasledujúcich krokov v tomto článku: [Nainštalujte Skype pre podniky](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span><span class="sxs-lookup"><span data-stu-id="c487f-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
+<span data-ttu-id="b2fa2-103">Skype for Business môžete nainštalovať podľa nasledujúcich krokov v tomto článku: [Nainštalujte Skype pre podniky](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span><span class="sxs-lookup"><span data-stu-id="b2fa2-103">You can install Skype for Business by following the steps in this article: [Install Skype for Business](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)</span></span>
   
 
