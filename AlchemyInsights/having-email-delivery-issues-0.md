@@ -1,5 +1,5 @@
 ---
-title: E-mail dodávky problémy s?
+title: Máte problémy s doručením e-mailov?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
 ms.openlocfilehash: aee07143064fbc29055a2f7999fc1dc7265d8cce
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404654"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400588"
 ---
-# <a name="having-email-delivery-issues"></a>E-mail dodávky problémy s?
+# <a name="having-email-delivery-issues"></a>Máte problémy s doručením e-mailov?
 
-Zistili sme, že používatelia nemôžu prijímať e-maily odoslané do nasledujúcich domény:
+Zistili sme, že používatelia nemôžu prijímať e-maily odoslané na tieto domény:
   
 {HealthCheckString}
   
-NS alebo MX záznamy domény (DNS) nastavenia nie je správne nakonfigurovaný pre doručovanie e-mailov do služby Office 365. [Aktualizácia DNS záznamy v balíku Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) môžete označovať podrobné pokyny. 
+Záznamy NS alebo MX v nastaveniach domény (DNS) nie sú správne nakonfigurované na doručovanie e-mailov do služieb Office 365. Podrobné pokyny nájdete v téme [Aktualizácia záznamov DNS v službách Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Opraviť, prosím prejdite na stránku [domény](https://admin.microsoft.com/adminportal/home#/Domains) Microsoft 365 admin Center a my vám pomôžeme s tým. 
+Ak to chcete opraviť, prejdite na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) v Centre spravovania služby Microsoft 365 a my vám pomôžeme. 
   
-[Kontrola domény FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) iných spoločných riešení. 
+Ďalšie bežné riešenia nájdete v téme [Domény: najčastejšie otázky](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 
