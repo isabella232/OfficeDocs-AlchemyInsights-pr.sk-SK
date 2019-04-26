@@ -1,5 +1,5 @@
 ---
-title: Doména je už v prevádzke
+title: Doména sa už používa
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/8/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405410"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370269"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="e4d4f-102">Doména je už v prevádzke</span><span class="sxs-lookup"><span data-stu-id="e4d4f-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="ae4f2-102">Doména sa už používa</span><span class="sxs-lookup"><span data-stu-id="ae4f2-102">The domain is already in use</span></span>
 
-<span data-ttu-id="e4d4f-p101">Doména, ktorú sa pokúšate pridať, už patrí do inej organizácie. Musíte najprv odstrániť domény z organizácie pred pridaním do tejto organizácie. Nasledujúce články vás prevedie tieto procesy.</span><span class="sxs-lookup"><span data-stu-id="e4d4f-p101">The domain you're trying to add already belongs to another organization. You must first remove the domain from that organization before you can add it to this organization. The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="ae4f2-103">Doména, ktorú sa pokúšate pridať, sa používa v inej organizácii.</span><span class="sxs-lookup"><span data-stu-id="ae4f2-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="ae4f2-104">Doménu budete môcť pridať k tejto organizácii až potom, čo ju odstránite z organizácie, kde sa používa.</span><span class="sxs-lookup"><span data-stu-id="ae4f2-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="ae4f2-105">Články uvedené nižšie obsahujú postupy týkajúce sa týchto procesov.</span><span class="sxs-lookup"><span data-stu-id="ae4f2-105">The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="e4d4f-106">Odstrániť domény z Office 365</span><span class="sxs-lookup"><span data-stu-id="e4d4f-106">Remove a domain from Office 365</span></span>](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [<span data-ttu-id="ae4f2-106">Odstránenie domény zo služieb Office 365</span><span class="sxs-lookup"><span data-stu-id="ae4f2-106">Remove a domain from Office 365</span></span>](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
-- [<span data-ttu-id="e4d4f-107">Pridať doménu a vytvoriť DNS záznamy</span><span class="sxs-lookup"><span data-stu-id="e4d4f-107">Add a domain and create DNS records</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [<span data-ttu-id="ae4f2-107">Pridanie domény a vytvorenie záznamov DNS</span><span class="sxs-lookup"><span data-stu-id="ae4f2-107">Add a domain and create DNS records</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
 
