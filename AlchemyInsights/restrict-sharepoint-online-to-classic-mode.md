@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422190"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761774"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="49c41-102">Obmedziť SharePoint Online na klasický režim</span><span class="sxs-lookup"><span data-stu-id="49c41-102">Restrict SharePoint Online to classic mode</span></span>
+# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="0f1bb-102">Obmedziť SharePoint Online na klasický režim</span><span class="sxs-lookup"><span data-stu-id="0f1bb-102">Restrict SharePoint Online to classic mode</span></span>
 
-<span data-ttu-id="49c41-103">Niektoré organizácie stále vyžaduje klasický režim skúsenosti.</span><span class="sxs-lookup"><span data-stu-id="49c41-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="49c41-104">Neexistujú žiadne plány na odstránenie klasického režimu granulovaného úrovni, od apríla 1,2019, to už nebude možné obmedziť celú organizáciu (nájomca) na klasický režim pre zoznamy a knižnice.</span><span class="sxs-lookup"><span data-stu-id="49c41-104">While there are no plans to remove classic mode at a granular level, starting April 1,2019, it will no longer be possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
+<span data-ttu-id="0f1bb-103">Niektoré organizácie stále vyžaduje klasický režim skúsenosti.</span><span class="sxs-lookup"><span data-stu-id="0f1bb-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="0f1bb-104">Neexistujú žiadne plány na odstránenie klasického režimu granulovaného úrovni, už nie je možné obmedziť celú organizáciu (nájomca) na klasický režim pre zoznamy a knižnice.</span><span class="sxs-lookup"><span data-stu-id="0f1bb-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
 
-<span data-ttu-id="49c41-105">Admin bude mať nasledujúce možnosti spravovať jednotlivé zoznamy a knižnice v klasickom režime pomocou granulovaného odhlásiť prepínačov, ktoré poskytujeme na nasledujúcich úrovniach:</span><span class="sxs-lookup"><span data-stu-id="49c41-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
+<span data-ttu-id="0f1bb-105">Admin bude mať nasledujúce možnosti spravovať jednotlivé zoznamy a knižnice v klasickom režime pomocou granulovaného odhlásiť prepínačov, ktoré poskytujeme na nasledujúcich úrovniach:</span><span class="sxs-lookup"><span data-stu-id="0f1bb-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
 
-- <span data-ttu-id="49c41-106">kolekcie lokalít</span><span class="sxs-lookup"><span data-stu-id="49c41-106">site collection</span></span>
-- <span data-ttu-id="49c41-107">stránky</span><span class="sxs-lookup"><span data-stu-id="49c41-107">site</span></span>
-- <span data-ttu-id="49c41-108">Zoznam</span><span class="sxs-lookup"><span data-stu-id="49c41-108">list</span></span>
-- <span data-ttu-id="49c41-109">Knižnica</span><span class="sxs-lookup"><span data-stu-id="49c41-109">library</span></span>
+- <span data-ttu-id="0f1bb-106">kolekcie lokalít</span><span class="sxs-lookup"><span data-stu-id="0f1bb-106">site collection</span></span>
+- <span data-ttu-id="0f1bb-107">stránky</span><span class="sxs-lookup"><span data-stu-id="0f1bb-107">site</span></span>
+- <span data-ttu-id="0f1bb-108">Zoznam</span><span class="sxs-lookup"><span data-stu-id="0f1bb-108">list</span></span>
+- <span data-ttu-id="0f1bb-109">Knižnica</span><span class="sxs-lookup"><span data-stu-id="0f1bb-109">library</span></span>
 
-<span data-ttu-id="49c41-110">Navyše, zoznamov, ktoré používajú niektoré funkcie a prispôsobenia, ktoré nie sú podporované modern sa stále automaticky prepne na klasický režim.</span><span class="sxs-lookup"><span data-stu-id="49c41-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
+<span data-ttu-id="0f1bb-110">Navyše, zoznamov, ktoré používajú niektoré funkcie a prispôsobenia, ktoré nie sú podporované modern sa stále automaticky prepne na klasický režim.</span><span class="sxs-lookup"><span data-stu-id="0f1bb-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
 
-<span data-ttu-id="49c41-111">Po 1.apríla, zoznamov a knižníc, ktoré sú v klasickom režime v dôsledku neúčasti nájomca bude automaticky riadené na úrovni lokality a úroveň zoznamu.</span><span class="sxs-lookup"><span data-stu-id="49c41-111">After April 1, lists and libraries that are in classic mode as a result of tenant opt-out will automatically be managed at the site level and list level.</span></span>
+<span data-ttu-id="0f1bb-111">Začiatok 1 Máj 2019, proces vypnúť nájomcu úrovni odhlásiť moderné zoznamu a knižnice začať a pokračovať cez 31 mája 2019.</span><span class="sxs-lookup"><span data-stu-id="0f1bb-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="0f1bb-112">Zoznamy a knižnice, ktoré sú v klasickom režime v dôsledku neúčasti nájomca bude automaticky presunul do modernej.</span><span class="sxs-lookup"><span data-stu-id="0f1bb-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
 
-<span data-ttu-id="49c41-112">Ak požadujete klasický režim nájdete viac informácií tu a PnP Powershell inštrukcie tu, ktorá opisuje možnosti a nástroje môžete použiť dnes pripraviť na odstránenie nájomcu úrovni opt-out 1 apríla.</span><span class="sxs-lookup"><span data-stu-id="49c41-112">If you require classic mode please see more information here and PnP Powershell instruction here that describes options and tools you can use today to prepare for the removal of the tenant level opt-out on April 1.</span></span>
+<span data-ttu-id="0f1bb-113">Ak požadujete klasický režim nájdete viac informácií [tu](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) a PnP Powershell inštrukcie [tu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) popisujúci možnosti a nástroje, ktoré môžete použiť dnes využiť skúsenosti klasický režim.</span><span class="sxs-lookup"><span data-stu-id="0f1bb-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
