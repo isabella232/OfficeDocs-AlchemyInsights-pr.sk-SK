@@ -2,7 +2,7 @@
 title: Doručená pošta pravidlo aktivitu v denníkoch auditu určiť
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1368
 ms.assetid: ''
-ms.openlocfilehash: 9339d9c58056f568dc994b75bffe39f2c8bbdd34
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f130846dd24cef81177934aa2a200c1056172d3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417261"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755052"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Doručená pošta pravidlo aktivitu v denníkoch auditu určiť
 

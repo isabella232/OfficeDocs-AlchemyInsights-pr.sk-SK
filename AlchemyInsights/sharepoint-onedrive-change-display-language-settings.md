@@ -8,14 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 6ef0eb1451bf25866f01f6b46e65158009907a4a
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 9d0a881a3c68e9ddae60a20f7ad6398c35a7a9f6
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719706"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759725"
 ---
 # <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>Zmeniť nastavenia jazyka displeja v SharePoint alebo OneDrive 
 
-<p>Nie ste schopní zmeniť<strong> predvolené nastavenie jazyka</strong> pre SharePoint alebo OneDrive, pretože tieto nastavenia boli definované pri vytvorení vaše predplatenie služieb Office 365. &nbsp;Však môžete zmeniť nastavením jazyka <strong>Zobraziť</strong> .&nbsp;</p> <ol> <li><span style="display: inline !important; float: none; cursor: text; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">Zmeniť osobné nastavenia</span>, pozrite si <a title="zmeniť osobné nastavenia jazyk a oblasť" href="https://support.office.com/en-us/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7">Zmeniť osobné nastavenia jazyk a oblasť</a>.&nbsp;<br /><br /></li> <li>Zmeniť lokalitu používateľské rozhranie, pozri <a title="vyberte jazyky, ktoré chcete sprístupniť pre lokalitu používateľské rozhranie" href="https://support.office.com/en-us/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8">Vyberte jazyky, ktoré chcete sprístupniť pre lokalitu používateľské rozhranie</a>. Ďalšie informácie o riešenie problémov s nastavením jazyka Zobraziť <a title="nemôžete zmeniť predvolený jazyk pre kolekciu lokality SharePoint Online" href="https://support.office.com/en-us/article/you-can-t-change-the-default-language-for-a-sharepoint-online-site-collection-40dda07e-6b41-49e9-9828-8805dcb92964">Nemôžete zmeniť predvolený jazyk pre kolekciu lokality SharePoint Online</a>.</li> </ol> <p>&nbsp;</p>
+Nie ste schopní zmeniť predvolené nastavenie jazyka pre SharePoint alebo OneDrive, pretože tieto nastavenia boli definované pri vytvorení predplatného na Office 365. Môžete však zmeniť nastavenia jazyka zobrazenia.
+
+Zmeniť osobné nastavenia, pozrite si [zmeniť osobný jazyk a oblasť nastavenia](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
+
+Ak chcete zmeniť lokalitu používateľské rozhranie, pozri [Vyberte jazyky, ktoré chcete sprístupniť pre lokalitu používateľské rozhranie](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
+
+Ďalšie informácie o riešenie problémov s nastavením jazyka v téme [nie je možné zmeniť jazyk pre kolekciu lokality SharePoint Online](https://support.office.com/article/you-can-t-change-the-default-language-for-a-sharepoint-online-site-collection-40dda07e-6b41-49e9-9828-8805dcb92964).
 
