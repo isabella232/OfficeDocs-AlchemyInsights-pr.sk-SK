@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418155"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771214"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nové etikety uchovávania údajov automaticky vytvorí
 
-Môžete vidieť [tri nové menovky uchovávania údajov](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automaticky vytvorí vo vašej organizácii podľa **značiek uchovávania údajov** bezpečnosti alebo dodržiavania admin Center. Značka mená sú:
+Môžete vidieť [tri nové menovky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automaticky vytvorí vo vašej organizácii podľa **značiek uchovávania údajov** bezpečnosti alebo dodržiavania admin Center. Značka mená sú:
 
 - Operačný postup
 - Všeobecné obchodné
@@ -30,4 +30,4 @@ Prvýkrát si vybrať **Súbor plánu** Ak neexistujú žiadne iné uchovávania
 
 1. Vyberte uchovávania menovky, ktoré chcete odstrániť > **odstrániť menovku** > **Áno** na odstránenie štítku.
 
-Plán správcu súborov, môžete spravovať značky uchovávania údajov a politiky v organizácii - ďalšie informácie nájdete v téme [Prehľad plán správcu súborov](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Plán správcu súborov, môžete spravovať značky uchovávania údajov a politiky v organizácii - ďalšie informácie nájdete v téme [Prehľad plán správcu súborov](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 760587c0e58662283c3c1a647d1cc5fb81187545
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370557"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770753"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovenie odstránenej poštovej schránky
 
@@ -33,6 +33,6 @@ Keď používateľ stratí svoju licenciu Exchange Online, poštovej schránke s
     
 3. Priradiť licenciu Exchange Online, a stlačte tlačidlo **Uložiť**
     
-Ak sa pokúšate obnoviť zdieľanej poštovej schránky, je tiež využiteľné pre 30 dní. Nájdete ich pod **užívateľom** \> **odstránené** používateľom; zdieľané poštové schránky nevyžadujú licenciu. Ak si uvedomíte, že potrebujete obnoviť odstránené používateľské, prosím nájdete v časti [obnovenie používateľa v balíku Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Ak sa pokúšate obnoviť zdieľanej poštovej schránky, je tiež využiteľné pre 30 dní. Nájdete ich pod **užívateľom** \> **odstránené** používateľom; zdieľané poštové schránky nevyžadujú licenciu. Ak si uvedomíte, že potrebujete obnoviť odstránené používateľské, prosím nájdete v časti [obnovenie používateľa v balíku Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
 

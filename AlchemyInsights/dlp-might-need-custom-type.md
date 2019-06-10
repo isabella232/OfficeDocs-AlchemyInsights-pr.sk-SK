@@ -10,12 +10,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: cd5bac5efe3a16d32f9b695c8cb452a1eaa3a796
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ccdc524625ac76031004300a2406d5bfddcc759
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399127"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770331"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP potrebovať vlastný typ
 
@@ -25,14 +25,14 @@ Napríklad vašej organizácii môže byť potrebné na identifikáciu a ochranu
   
  **Prispôsobiť typ vstavaný citlivých informácií**
   
-Ak typ vstavaný citlivých informácií by vyhovoval vašim potrebám s niekoľkými Tweak, môžete [prispôsobiť typ vstavaný citlivých informácií](https://docs.microsoft.com/en-us/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Napríklad, môžete pridať alebo odstrániť kľúčové slová, alebo pridať či odstrániť podporné dôkazy napríklad dátum alebo adresu.
+Ak typ vstavaný citlivých informácií by vyhovoval vašim potrebám s niekoľkými Tweak, môžete [prispôsobiť typ vstavaný citlivých informácií](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Napríklad, môžete pridať alebo odstrániť kľúčové slová, alebo pridať či odstrániť podporné dôkazy napríklad dátum alebo adresu.
   
  **Vytvorenie vlastných citlivých informácií typu**
   
-Ale ak potrebujete na identifikáciu a ochranu citlivých informácií typu úplne, môžete [vytvoriť vlastné citlivé informácie typ](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type) v UI & zabezpečenia súladu Center. 
+Ale ak potrebujete na identifikáciu a ochranu citlivých informácií typu úplne, môžete [vytvoriť vlastné citlivé informácie typ](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) v UI & zabezpečenia súladu Center. 
   
 **Vytvorenie vlastných citlivých informácií typu v & zabezpečenia súladu centrum PowerShell**
 
-Nakoniec, ak UI neposkytuje všetky možnosti, ktoré potrebujete, môžete [vytvoriť vlastné citlivé informácie typu v & zabezpečenia súladu centrum PowerShell](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Tým začína súbor XML, môžete použiť k dispozícii.
+Nakoniec, ak UI neposkytuje všetky možnosti, ktoré potrebujete, môžete [vytvoriť vlastné citlivé informácie typu v & zabezpečenia súladu centrum PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Tým začína súbor XML, môžete použiť k dispozícii.
 
     

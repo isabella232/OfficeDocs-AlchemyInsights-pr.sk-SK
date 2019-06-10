@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408733"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769557"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto-uplatňovať označenia citlivosti
 
@@ -25,7 +25,7 @@ Automaticky uplatňovať označenia citlivosti odstraňuje potrebu školenia pou
 Ak chcete automaticky použiť menovky, je potrebné:
 
 - Azure prihlásenia na odber informácií ochrany P2
-- [Stiahnuť a nainštalovať Azure ochranu informácií Jednotné označovanie klienta](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Stiahnuť a nainštalovať Azure ochranu informácií Jednotné označovanie klienta](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Pracujeme na natívnu podporu, ktorá nebude vyžadovať Azure ochranu informácií Jednotné označovanie klient v budúcnosti.
 
@@ -33,5 +33,5 @@ V súčasnosti iba systému Windows podporuje Jednotné označovanie klienta.  T
 
 Viac informácií o označenia citlivosti a ich automaticky použitím obsahu nájdete:
 
-- [Prehľad označenia citlivosti](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Menovkou citlivosť obsah automaticky](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Prehľad označenia citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Menovkou citlivosť obsah automaticky](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

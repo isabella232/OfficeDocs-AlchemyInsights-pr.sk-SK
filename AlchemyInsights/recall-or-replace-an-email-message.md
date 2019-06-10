@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096622"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770823"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Odvolanie alebo nahradenie e-mailovej správy
 
@@ -36,7 +36,7 @@ Pre viac informácií, vrátane toho, ako skontrolovať na odvolanie, [odvolanie
 
 ***Vyhľadať a odstrániť e-mailových správ v organizácii*** Vyhľadať a odstrániť e-mailových správ v organizácii, je to najjednoduchšie, ak ste globálny admin. Ak nie ste globálne admin, váš účet musí pripočítať skupiny rolí správcu eDiscovery, alebo súlad vyhľadávanie rola. Ak chcete odstrániť správy, musíte pripojiť sa k skupine rolí Správa organizácie alebo Hľadať a očistenie rola. Povolenia na tieto roly priradené [centrum zabezpečenia & súladu](https://protection.office.com/).
 
-1. [Vytvoriť obsah vyhľadávať](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) správy odstrániť.
-2. [Pripojiť bezpečnostné & centrum súladu PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Vytvoriť obsah vyhľadávať](https://docs.microsoft.com/office365/securitycompliance/content-search) správy odstrániť.
+2. [Pripojiť bezpečnostné & centrum súladu PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Ak používate MFA, pozrite si [pripojiť k Office 365 zabezpečenia & súlad centrum PowerShell pomocou viacnásobné overovanie](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ak používate MFA, pozrite si [pripojiť k Office 365 zabezpečenia & súlad centrum PowerShell pomocou viacnásobné overovanie](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
