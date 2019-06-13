@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: 2d3d05214e6217568125f8b426aa952176f74fa1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: acbdd1a85cc12c22178506c060bf13ed36dbcddf
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390190"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883391"
 ---
 # <a name="access-services"></a>Služby Access Services
 
@@ -24,4 +24,3 @@ Funkciu prístup služby SharePoint Online je vyňatý. Nový prístup-založen�
   
 [Ďalšie informácie o Microsoft PowerApps](https://powerapps.microsoft.com/)
   
-
