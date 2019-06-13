@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761810"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899561"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovenie odstránenej poštovej schránky
 
@@ -23,11 +24,10 @@ Keď používateľ stratí ich licenciu Exchange Online, poštovej schránke sa 
 Na portáli:
   
 - Prejsť na **užívateľov** \> **aktívnych používateľov**. Vyberte daného užívateľa.
-    
-- Vyberte ** upraviť ** upraviť licencie produktov. 
-    
+
+- Vyberte **Upraviť** zmeniť licencie produktov.
+
 - Priradiť licenciu Exchange Online používateľ, a potom kliknite na tlačidlo **Uložiť**.
-    
+
 Zdieľané poštové schránky sú využiteľné aj 30 dní. Môžete nájsť zdieľané poštové schránky pod **užívateľom** \> **odstránené používateľom**. Zdieľané poštové schránky nevyžadujú licenciu Exchange Online.
   
-
