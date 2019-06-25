@@ -1,35 +1,33 @@
 ---
-title: 8000035 ako vytvoriť nový vzhľad Outlook.com ako ten starý
+title: Ako si vyrobiť nové Outlook.com vyzerať ako ten starý
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409417"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117628"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Ako si vyrobiť nové Outlook.com vyzerať stará verzia
 
-Tu sú niektoré nastavenia a zobrazenie môžete zmeniť tak, aby nové Outlook.com vyzerať ako stará verzia.
+Tu sú niektoré nastavenia môžete zmeniť tak, aby nové Outlook.com vyzerať stará verzia:
 
-1. Vyberte ikonu ozubeného kolesa v hornej časti stránky otvorte nastavenia.
-2. Vyberte preferovaný **témy**.
-3. Zmeniť **Zobrazenie konverzácie** na **najnovšie správy navrchu**.
-4. Zmena **tably čítanie** **Skryť**.
-5. Prepnúť **Zaostrené inbox** **off**.
-6. Prepnúť **odosielateľa obrázok** na **Off**. 
-7. **Zoskupiť správy podľa dátumu** prepne na **Off**. 
-8. Prepnúť **Zobrazenie ukážky prílohy** na **Off**. 
-9. Prepnite **Ukážka textu správy** **na**.
+1. Prejdite na [Nastavenie rozloženia](https://outlook.live.com/mail/options/mail/layout).
+1. Pod **Zaostrené schránky**, vyberte **Nechcem radiť moje posolstvá**.
+1. Podľa **správy organizácie**, vyberte **najnovšie správy navrchu**.
+1. Pod **odosielateľa obrázok**, vyberte **Nezobrazovať obrázky odosielateľa**.
+1. V časti **Tabla na čítanie**, vyberte položku **Skryť tablu čítanie**.
+1. V časti **Ukážka textu správy**, vyberte **Zobraziť ukážku textu**.
+1. Pod **Inline náhľadov**, vyberte **Nezobrazovať príloh v zozname správ**.
 
-Poznámka: Toto sú len niektoré odporúčané nastavenia, ktoré môžu poskytnúť najbližšieho možného usporiadania na klasickú verziu služby Outlook.com. Ešte záleží na požadované nastavenia.
-
-Ak chcete zmeniť nastavenia Mail tak doručenej pošty vyzerá a chová sa spôsobom, ako ho chcete zobraziť [personalizovať vaše nové skúsenosti pošty v službe Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Zmena nastavenia Mail tak doručenej pošty vyzerá a chová tak, ako chcete, pozrite si [zmeniť vzhľad vašej poštovej schránky v službe Outlook.com a nový program Outlook na webe](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

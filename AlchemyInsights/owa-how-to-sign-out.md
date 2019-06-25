@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643610"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273627"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Ako sa odhlásiť z programu Outlook na webe
 
-1. Vyberte meno alebo obrázok v pravom hornom rohu.
-    
-    Ak nevidíte obrázok v hornej časti obrazovky, skontrolujte, či je zapnuté blokovanie reklám. Niekedy to bráni obrázok zobrazuje sa.
-    
-2. Vyberte **odhlásiť**. 
-    
-    Sa neodhlasoval automaticky do práce alebo školy konta, unzačiarknite políčko **ma prihlásení** na stránke, kde zadáte svoje heslo. 
-    
+Odhlásenie z aplikácie Outlook na webe, vyberte meno alebo obrázok v pravom hornom rohu a vyberte možnosť **odhlásiť sa**.
+
+Zastaviť automatické prihlásenie pre svoje pracovné alebo školské konto:
+
+1. Vyberte meno alebo obrázok a vyberte možnosť **odhlásiť sa**.
+1. Prejsť na [Outlook.office.com](https://outlook.office.com/) a vyberte možnosť **použiť iné konto**.
+1. Prihláste sa pomocou e-mailovú adresu, ktorú chcete použiť.
+
 Ďalšie informácie nájdete nájdete [prihlásenie alebo z aplikácie Outlook na webe](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
