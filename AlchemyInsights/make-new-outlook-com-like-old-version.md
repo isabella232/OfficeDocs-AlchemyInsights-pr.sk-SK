@@ -1,35 +1,33 @@
 ---
-title: 8000035 ako vytvoriť nový vzhľad Outlook.com ako ten starý
+title: Ako si vyrobiť nové Outlook.com vyzerať ako ten starý
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409417"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117628"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="8099c-102">Ako si vyrobiť nové Outlook.com vyzerať stará verzia</span><span class="sxs-lookup"><span data-stu-id="8099c-102">How to make the new Outlook.com look like the old version</span></span>
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="06ebf-102">Ako si vyrobiť nové Outlook.com vyzerať stará verzia</span><span class="sxs-lookup"><span data-stu-id="06ebf-102">How to make the new Outlook.com look like the old version</span></span>
 
-<span data-ttu-id="8099c-103">Tu sú niektoré nastavenia a zobrazenie môžete zmeniť tak, aby nové Outlook.com vyzerať ako stará verzia.</span><span class="sxs-lookup"><span data-stu-id="8099c-103">Here are some settings and views you can change to make the new Outlook.com look like the old version.</span></span>
+<span data-ttu-id="06ebf-103">Tu sú niektoré nastavenia môžete zmeniť tak, aby nové Outlook.com vyzerať stará verzia:</span><span class="sxs-lookup"><span data-stu-id="06ebf-103">Here are some settings you can change to make the new Outlook.com look like the old version:</span></span>
 
-1. <span data-ttu-id="8099c-104">Vyberte ikonu ozubeného kolesa v hornej časti stránky otvorte nastavenia.</span><span class="sxs-lookup"><span data-stu-id="8099c-104">Select the gear icon at the top of the page to open Settings.</span></span>
-2. <span data-ttu-id="8099c-105">Vyberte preferovaný **témy**.</span><span class="sxs-lookup"><span data-stu-id="8099c-105">Select your preferred **Theme**.</span></span>
-3. <span data-ttu-id="8099c-106">Zmeniť **Zobrazenie konverzácie** na **najnovšie správy navrchu**.</span><span class="sxs-lookup"><span data-stu-id="8099c-106">Change **Conversation view** to **Newest messages on top**.</span></span>
-4. <span data-ttu-id="8099c-107">Zmena **tably čítanie** **Skryť**.</span><span class="sxs-lookup"><span data-stu-id="8099c-107">Change **Reading pane** to **Hide**.</span></span>
-5. <span data-ttu-id="8099c-108">Prepnúť **Zaostrené inbox** **off**.</span><span class="sxs-lookup"><span data-stu-id="8099c-108">Switch **Focused inbox** to **Off**.</span></span>
-6. <span data-ttu-id="8099c-109">Prepnúť **odosielateľa obrázok** na **Off**.</span><span class="sxs-lookup"><span data-stu-id="8099c-109">Switch **Sender image** to **Off**.</span></span> 
-7. <span data-ttu-id="8099c-110">**Zoskupiť správy podľa dátumu** prepne na **Off**.</span><span class="sxs-lookup"><span data-stu-id="8099c-110">Switch **Group messages by date** to **Off**.</span></span> 
-8. <span data-ttu-id="8099c-111">Prepnúť **Zobrazenie ukážky prílohy** na **Off**.</span><span class="sxs-lookup"><span data-stu-id="8099c-111">Switch **Attachment preview** to **Off**.</span></span> 
-9. <span data-ttu-id="8099c-112">Prepnite **Ukážka textu správy** **na**.</span><span class="sxs-lookup"><span data-stu-id="8099c-112">Switch **Message preview text** to **On**.</span></span>
+1. <span data-ttu-id="06ebf-104">Prejdite na [Nastavenie rozloženia](https://outlook.live.com/mail/options/mail/layout).</span><span class="sxs-lookup"><span data-stu-id="06ebf-104">Go to [Layout settings](https://outlook.live.com/mail/options/mail/layout).</span></span>
+1. <span data-ttu-id="06ebf-105">Pod **Zaostrené schránky**, vyberte **Nechcem radiť moje posolstvá**.</span><span class="sxs-lookup"><span data-stu-id="06ebf-105">Under **Focused inbox**, select **Don't sort my messages**.</span></span>
+1. <span data-ttu-id="06ebf-106">Podľa **správy organizácie**, vyberte **najnovšie správy navrchu**.</span><span class="sxs-lookup"><span data-stu-id="06ebf-106">Under **Message organization**, select **Newest messages on top**.</span></span>
+1. <span data-ttu-id="06ebf-107">Pod **odosielateľa obrázok**, vyberte **Nezobrazovať obrázky odosielateľa**.</span><span class="sxs-lookup"><span data-stu-id="06ebf-107">Under **Sender image**, select **Don't show sender images**.</span></span>
+1. <span data-ttu-id="06ebf-108">V časti **Tabla na čítanie**, vyberte položku **Skryť tablu čítanie**.</span><span class="sxs-lookup"><span data-stu-id="06ebf-108">Under **Reading pane**, select **Hide reading pane**.</span></span>
+1. <span data-ttu-id="06ebf-109">V časti **Ukážka textu správy**, vyberte **Zobraziť ukážku textu**.</span><span class="sxs-lookup"><span data-stu-id="06ebf-109">Under **Message preview text**, select **Show preview text**.</span></span>
+1. <span data-ttu-id="06ebf-110">Pod **Inline náhľadov**, vyberte **Nezobrazovať príloh v zozname správ**.</span><span class="sxs-lookup"><span data-stu-id="06ebf-110">Under **Inline previews**, select **Don't show attachments in message list**.</span></span>
 
-<span data-ttu-id="8099c-113">Poznámka: Toto sú len niektoré odporúčané nastavenia, ktoré môžu poskytnúť najbližšieho možného usporiadania na klasickú verziu služby Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="8099c-113">Note: These are just some recommended settings which can provide the closest possible layout to the classic version of Outlook.com.</span></span> <span data-ttu-id="8099c-114">Ešte záleží na požadované nastavenia.</span><span class="sxs-lookup"><span data-stu-id="8099c-114">It will still depend on your desired settings.</span></span>
-
-<span data-ttu-id="8099c-115">Ak chcete zmeniť nastavenia Mail tak doručenej pošty vyzerá a chová sa spôsobom, ako ho chcete zobraziť [personalizovať vaše nové skúsenosti pošty v službe Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="8099c-115">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Personalize your new Mail experience in Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="06ebf-111">Zmena nastavenia Mail tak doručenej pošty vyzerá a chová tak, ako chcete, pozrite si [zmeniť vzhľad vašej poštovej schránky v službe Outlook.com a nový program Outlook na webe](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="06ebf-111">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Change the look of your mailbox in Outlook.com and the new Outlook on the web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
