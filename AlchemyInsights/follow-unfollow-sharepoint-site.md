@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119773"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222755"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Nasledovať alebo un-nasledovať lokality SharePoint
 
@@ -23,4 +23,4 @@ Pozrite si video a [postupujte podľa lokality SharePoint](https://support.offic
 
 Ak ste schopní nasledovať alebo un-nasledovať stránky a cítiť výsledky nie sú, čo sa očakáva, nájdete, ak problém súvisí s jedného používateľa alebo všetci používatelia vo vašej organizácii. Ak problém sa stretli všetci používatelia, môže byť problém pri dočasnej služby. 
 
-Kontrola [Tabuľa stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)zistiť, ak vaša organizácia je ovplyvnené.
+Kontrola [Tabuľa stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) zistiť, ak vaša organizácia je ovplyvnené.

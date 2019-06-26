@@ -1,5 +1,5 @@
 ---
-title: Súbor otvorí iba na čítanie
+title: Súbory sú zamknuté pre úpravy
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757115"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222683"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Prečo by mohli byť schopní upraviť súbory?
 
@@ -24,9 +24,9 @@ Poznámka: Knižníc s Pokladňa, požadované stĺpce/metaúdaje, alebo ak je n
 
 Pre knižnice, OneDrive, OneDrive sa zobrazí ikona uzamknutia vedľa stav synchronizácie a používateľ nebude môcť synchronizovať knižnice, kým uvedené nastavenia boli odstránené.
 
-Ďalšie informácie o zamknuté súbory Word/Excel prosím odkaz nižšie uvedených článkov.
+Ďalšie informácie o zamknuté súbory slovo alebo Excel prosím odkaz nižšie uvedených článkov.
 
-[Excel súbor je uzamknutý pre úpravy iným používateľom](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel súbor je uzamknutý pre úpravy iným používateľom](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Slovo súbor je uzamknutý pre úpravy iným používateľom](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Slovo súbor je uzamknutý pre úpravy iným používateľom](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
