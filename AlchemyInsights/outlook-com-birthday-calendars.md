@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000229"
 - "1811"
-ms.openlocfilehash: 5908474649dbf3eb77e7b91f8df6a508e36f8080
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+- "9000229"
+ms.openlocfilehash: 1006351fcfd84cc8ab5f4c83739ed3f56f71cded
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643609"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377280"
 ---
 # <a name="add-a-birthday-calendar-in-outlookcom"></a>Pridanie narodenín kalendára v službe Outlook.com
 
-1. V spodnej časti stránky, vyberte ikonu kalendár prejdite do kalendára.
+1. V spodnej časti stránky, vyberte ikonu kalendár [prejdite do kalendára](https://outlook.live.com/mail/calendar).
 1. Na ľavej table, kliknite pravým tlačidlom myši **narodeniny** a vyberte **nové narodeniny**.
 1. Zadajte meno osoby a dátum narodenia, a vyberte položku **vytvoriť**.
 1. Vyberte kalendár **narodenín** prepínať pripomenutia a vypnutie.

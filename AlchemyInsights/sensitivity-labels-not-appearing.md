@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770788"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355748"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Citlivosť menovky nie je uvedený
 
@@ -25,8 +28,7 @@ Ak ste nakonfigurovali označenia citlivosti, ale oni sa nezobrazujú v aplikác
 - Potvrďte, že citlivosť štítok bol [uverejnená](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) používateľom a skupinám, ktoré chcete.
 
 - Potvrďte, že používateľ používa aplikácie, ktorá podporuje označenia citlivosti - pozri [označenia citlivosti v dokumente](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
- 
- 
+
 - Ak ste [prechod Azure ochrany informácie menovky](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), uvedomte si úvahy uvedené [tu](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Ochrana pred únikom údajov (DLP) podpora: v súčasnej dobe iba uchovávania menovky sa môžu použiť ako podmienku DLP politík.  Podpora pre označenia citlivosti DLP politiky ešte nie je k dispozícii, ale pracujeme na tom.

@@ -6,21 +6,23 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000257
+ms.custom:
+- "1849"
+- "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 16d519802535ccf6e5d50e1111911f0a34392961
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418162"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376380"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Zmena vzhľadu poštovej schránke Outlook.com
 
 Môžete zmeniť vzhľad zoznamu a čítanie table správ v službe Outlook.com.
 
-- Zmeniť rozloženie okna správy, vyberte ikonu ozubeného kolesa v hornej časti stránky otvorte **nastavenia**a vyberte príslušnú voľbu v časti **Tabla na čítanie**.
-- Zoskupiť správy podľa konverzácie, vyberte ikonu ozubeného kolesa v hornej časti stránky otvorte **nastavenia**a vyberte možnosť podľa**Zobrazenie konverzácie**.
-- Ak chcete zapnúť alebo vypnúť zobrazení prioritnej doručenej pošty, vyberte ikonu ozubeného kolesa v hornej časti stránky otvorte **nastavenia**a posuňte prepínač vedľa **Zobrazení prioritnej doručenej pošty** na alebo vypnutie.
+- Ak chcete zmeniť rozloženie okna so správou, otvorte možnosti [tably na čítanie](https://outlook.live.com/mail/options/mail/layout/readingPane) .
 - Ak chcete zmeniť zoradenie e-mailov, v hornej časti zoznamu správ, vyberte **Filter** > **Zoradiť** a vyberte, ako chcete zoradiť e-mailu.
+- Zoskupiť správy podľa konverzácie, otvorte možnosti [správy organizácie](https://outlook.live.com/mail/options/mail/layout/conversations) .
+- Ak chcete zapnúť alebo vypnúť zobrazení prioritnej doručenej pošty, otvorte možnosti [rozloženia](https://outlook.live.com/mail/options/mail/layout/focused) .

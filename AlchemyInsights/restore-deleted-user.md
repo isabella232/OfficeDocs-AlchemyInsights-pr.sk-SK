@@ -9,26 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "73"
+- "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: c6277ee3705c30399b230852e849e47ec3f15187
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 36de08adb045eab2c60524cfcdc1e2bc3bc75364
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422286"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356036"
 ---
 # <a name="restore-a-user-in-office-365"></a>Obnovenie používateľa v balíku Office 365
 
 Obnovenie používateľa v balíku Office 365 pomocou nasledujúcich krokov:
   
 1. Prejsť na [užívateľov \> odstránené používateľom](https://admin.microsoft.com/adminportal/home#/deletedusers).
-    
+
 2. Vybrať používateľa vyberte položku **obnoviť**.
-    
+
 3. Postupujte podľa pokynov na nastavenie hesla.
-    
+
 4. Kliknite na položku **Odoslať e-mail a zavrieť**, a máte hotovo!
-    
 
 Nebolo to ľahké? Pre viac informácií a krokov s náhľadmi obrazoviek, pozrite sa na tento článok: [obnovení používateľa v balíku Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Ak si uvedomíte, namiesto toho budete musieť obnoviť v poštovej schránke používateľa, pozrite si: [Odstránenie alebo obnovenie používateľských poštových schránok v systéme Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

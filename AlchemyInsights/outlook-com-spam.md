@@ -1,34 +1,29 @@
 ---
-title: Outlook.com spam a nevyžiadanú
+title: Zaoberajú spam a Nevyžiadaná pošta v službe Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373547"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372024"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Spam a nevyžiadané e-maily v službe Outlook.com
+# <a name="mark-email-messages-as-junk"></a>Označenie správ ako nevyžiadanej pošty
 
-Označenie e-mailu ako nevyžiadanej alebo spam:
+Ak chcete správu označiť ako nevyžiadané alebo spam, v zozname správ vyberte správu a vyberte **nevyžiadanej** > **nevyžiadanej pošty**.
 
-1. Vyberte správu alebo správy v zozname správ.
-1. Nad zoznamom správ, vyberte **Junk** > **nevyžiadanej pošty**.
+Ak chcete zablokovať všetky správy z konkrétnych e-mailovú adresu, vyberte správu alebo správy v zozname správ a potom vyberte **Junk** > **bloku**.
 
-**Poznámka:** Ak zistíte, že e-mail nebol spam, vyberte správu znova (bude v priečinku nevyžiadanej pošty) a výber **nevyžiadanú** > **nejde o nevyžiadanú poštu**. Po 30 dňoch sa odstránia položky v priečinku Nevyžiadaná pošta.  [Ďalšie informácie o tom, ako pomôcť udržať spamu a nevyžiadané e-maily z priečinka doručenej pošty služby Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Ak omylom označíte správu ako nevyžiadanú, vyberte správu do [priečinka nevyžiadanej pošty](https://outlook.live.com/mail/junkemail) a vyberte **iné než nevyžiadané** > **nejde o nevyžiadanú poštu**. (*Poznámka:* po 30 dňoch sa odstránia položky v priečinku Nevyžiadaná pošta.)
 
-Ak chcete zablokovať všetky správy z konkrétnych e-mailových adries alebo domén:
-
-1. Vyberte správu alebo správy v zozname správ a potom vyberte **Junk** > **bloku** > **OK**. (Ak e-mailovú správu je už otvorený v novom okne, **blok** javí ako možnosť v hornej časti okna.)
-1. Otvoriť [Nastavenia nevyžiadanej pošty](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), zadajte e-mailovú adresu alebo doménu, ktorú chcete zablokovať, a vyberte položku **Pridať** > **Uložiť**.
-1. Vaše [filtre nevyžiadanej pošty](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), môžete vybrať len dôverovať e-maily z adresy v mojich dôveryhodných odosielateľov a zoznamu domén a bezpečné poštové zoznamy.
-
-[Ďalšie informácie o tom, ako zablokovať alebo odblokovať odosielateľov v službe Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Ďalšie informácie, prečítajte si [Označenie e-mailu ako nevyžiadanej alebo blokovaných odosielateľov v službe Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

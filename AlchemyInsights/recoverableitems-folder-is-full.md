@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1336
+ms.custom:
+- "1336"
+- "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762095"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370402"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Priečinok Obnoviteľné položky je plný
 
@@ -31,7 +33,7 @@ Keď priečinka Obnoviteľné položky dosiahne limit ukladacieho priestoru, sch
 
 - Pre poštové schránky, ktoré majú zapnuté zapisovanie auditu poštovej schránky, žiadne položky denníka auditu poštovej schránky môžu byť uložené v podpriečinku auditov v priečinku Obnoviteľné položky.
 
-Pre poštové schránky, ktoré nie sú zadržané, správcovia môžu použiť `Search-Mailbox -SearchDumpsterOnly -DeleteContent` príkaz Exchange Online PowerShell odstrániť položky v priečinku Obnoviteľné položky. Ďalšie informácie sa nachádzajú v týchto témach: 
+Pre poštové schránky, ktoré nie sú zadržané, správcovia môžu použiť `Search-Mailbox -SearchDumpsterOnly -DeleteContent` príkaz Exchange Online PowerShell odstrániť položky v priečinku Obnoviteľné položky. Ďalšie informácie sa nachádzajú v týchto témach:
 
 - [Vyhľadanie a odstránenie správ](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
