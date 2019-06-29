@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770823"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356612"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Odvolanie alebo nahradenie e-mailovej správy
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770823"
 - Ak ste správcom, môžete **recall správy v mene používateľov pomocou prostredia PowerShell**. Nemôže odvolať správy z admin center. Prejdite na "Vyhľadať a odstrániť e-mailových správ v organizácii" pre viac informácií.
 
 ***Odvolanie alebo nahradenie e-mailovej správy, ktoré ste odoslali***
+
 1. Na table priečinkov v ľavej časti okna programu Outlook vyberte priečinok Sent Items.
 2. Otvorte správu, ktorú chcete vyvolať. Musí dvojitým kliknutím otvorte správu. Označte príslušnú správu, takže sa zobrazí v table na čítanie nedovolí odvolať správu.
 3. Na karte správy vyberte **akcie** > **Odvolanie tejto správy**.
 4. Vyberte **Odstrániť neprečítané kópie tejto správy** alebo **Odstrániť neprečítané kópie a nahradiť novú správu**, potom vyberte **OK**.
 5. Ak posielate správu náhradné, napísať správu, potom vyberte **Odoslať**.
-6. Úspech či neúspech odvolanie správy závisí od príjemcov nastavenia v programe Outlook. 
+6. Úspech či neúspech odvolanie správy závisí od príjemcov nastavenia v programe Outlook.
 
 Pre viac informácií, vrátane toho, ako skontrolovať na odvolanie, [odvolanie](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)alebo nahradenie e-mailovej správy, ktoré ste odoslali.
 

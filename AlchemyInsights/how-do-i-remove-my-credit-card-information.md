@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "431"
+- "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 0acd5345bb1b352af21b17e353591b8772d718aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b91c6260542577c9cb4775eb3b518ee07e98b7f4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400218"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386100"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Ako odstrániť moje informácie o kreditnej karte?
 
 1. V centre spravovania prejdite na stránku [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vyberte položky **Fakturácia** \> **Predplatné**.
-    
-2. Vybrať všetky predplatné a vyberte **aktualizovať platobné Podrobnosti**.
-    
-3. Vyberte rozbaľovaciu šípku pod **Pridať alebo vyberte spôsob platby**, vyberte si kreditnú kartu alebo bankový účet, ktorý chcete odstrániť, vyberte **odstrániť**.
-    
-4. Vyberte **odstrániť** znova odstránite kreditnú kartu alebo bankový účet. 
-    
-> [!NOTE]
-> Môžete odstrániť kreditnú kartu alebo bankový účet, pokiaľ nemáte nevyrovnaný zostatok na kreditnej karte alebo bankovom účte, a nie používate platiť za aktívne predplatné. 
-  
 
+2. Vybrať všetky predplatné a vyberte **aktualizovať platobné Podrobnosti**.
+
+3. Vyberte rozbaľovaciu šípku pod **Pridať alebo vyberte spôsob platby**, vyberte si kreditnú kartu alebo bankový účet, ktorý chcete odstrániť, vyberte **odstrániť**.
+
+4. Vyberte **odstrániť** znova odstránite kreditnú kartu alebo bankový účet.
+
+> [!NOTE]
+> Môžete odstrániť kreditnú kartu alebo bankový účet, pokiaľ nemáte nevyrovnaný zostatok na kreditnej karte alebo bankovom účte, a nie používate platiť za aktívne predplatné.

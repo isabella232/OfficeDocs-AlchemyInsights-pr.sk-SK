@@ -1,28 +1,31 @@
 ---
-title: 8000061 Outlook.com chýbajúce priečinky
+title: Outlook.com chýbajúce priečinky
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/6/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000061
+ms.custom:
+- "1066"
+- "1067"
+- "1068"
+- "1134"
+- "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 7fb0b01b88b04f11804e415a5a43d5abec364591
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1940b650ca61907fa9121cba4c67aa932086b108
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392260"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373968"
 ---
-# <a name="find-missing-folders-in-outlookcom"></a>Nájsť chýbajúce priečinky v službe Outlook.com
+# <a name="find-missing-folders"></a>Nájsť chýbajúce priečinky
 
-Ak nevidíte vaše priečinky v službe Outlook.com beta, skontrolujte, že priečinky nie sú zbalené. Vyberte šípku vedľa položky **priečinky** na navigačnej table. 
+Ak nevidíte vaše priečinky, skontrolujte, že priečinky nie sú zbalené. Vyberte šípku vedľa položky **priečinky** na ľavej table.
   
-Ak ste omylom zmazať niečo v službe Outlook.com, môžete ho obnoviť, ak je stále v priečinkov odstránené položky alebo Nevyžiadaná pošta. V niektorých prípadoch môžete obnoviť položky potom vyprázdnite priečinok Odstránené položky pomocou [e-mailovú oživenie doplnok](https://appsource.microsoft.com/product/office/WA104380447) (pre klasické Outlook.com). Čítať viac o [Obnovenie odstránených e-mailových správ](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50) a [používanie doplnkov v službe Outlook.com](https://support.office.com/article/a5672109-e4f3-4119-abea-72323e9653cf).
+Ak omylom odstránite priečinok, môžete ho obnoviť, ak je stále v priečinku Odstránené položky. Ďalšie informácie, prečítajte si [Obnovenie odstránené e-mailové správy v službe Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
   
-V niektorých prípadoch priečinky sú chýba. My sa snažíme opraviť. Stále môžete nájsť položky uložené v rámci chýbajúce priečinky pomocou **vyhľadávania**, a to môže pomôcť, ak ste odhlásiť a znova sa prihláste. [Kliknite tu pre prihlásiť.](https://login.live.com/logout.srf)
-  
-
+Existuje známy problém, kde chýbajú priečinky. Pracujeme na to opraviť. Stále môžete nájsť položky uložené v rámci chýbajúce priečinky pomocou **vyhľadávania**, a to môže pomôcť, ak ste odhlásiť a znova sa prihláste. [Kliknite tu pre prihlásiť.](https://login.live.com/logout.srf)

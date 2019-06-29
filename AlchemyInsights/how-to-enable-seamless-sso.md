@@ -9,29 +9,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "628"
+- "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 5a6d34c5dc5cca307cd085011a88cf7171d207ad
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d203c1256785a99426503a5386935d78f8966a8b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408662"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384696"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Ako umožniť bezproblémový SSO
 
 Umožňujú bezproblémovú SSO pomocou [Azure AD pripojiť](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Ak robíte novú inštaláciu Azure AD pripojiť, vyberte [Vlastná inštalácia cesta](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na stránke **používateľské prihlásenia** vyberte možnosť **Povoliť jediné prihlásenie** . 
+Ak robíte novú inštaláciu Azure AD pripojiť, vyberte [Vlastná inštalácia cesta](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na stránke **používateľské prihlásenia** vyberte možnosť **Povoliť jediné prihlásenie** .
   
 Overte, či správne povolený bezšvové SSO:
   
-1. Prihláste sa do [Azure Active Directory administratívne centrum](https://aad.portal.azure.com) ako globálny admin. 
-    
-2. Na ľavej table vyberte **Azure Active Directory** . 
-    
+1. Prihláste sa do [Azure Active Directory administratívne centrum](https://aad.portal.azure.com) ako globálny admin.
+
+2. Na ľavej table vyberte **Azure Active Directory** .
+
 3. Overiť, že bezšvíkové jediného prihlásenia je **zapnutá**.
-    
+
 Ďalšie informácie nájdete v téme [Azure Active Directory bezšvové Single Sign-On: Stručná](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
-

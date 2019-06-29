@@ -1,27 +1,29 @@
 ---
-title: Outlook.com phishing
+title: Čo do činenia s neoprávneným získavaním údajov v službe Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/3/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000289
+ms.custom:
+- "1895"
+- "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5543ff98408b394ad77bbe462b80207f12b30702
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393664"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373572"
 ---
-# <a name="how-to-deal-with-phishing-email-in-outlookcom"></a>Ako sa vysporiadať s phishing e-mail v službe Outlook.com
+# <a name="how-to-deal-with-a-phishing-email"></a>Ako sa vysporiadať s phishing e-mail
 
-Phishing podvod je e-mail, ktorý vyzerá byť v poriadku, ale je pokus získať vaše osobné informácie alebo ukradnúť vaše peniaze. Podvodníci použiť aj techniku zvanú spoofing aby to vyzeralo, ako keby ste dostali e-mail od seba.
+Phishing podvod je e-mail, ktorý sa zdá legitímne, ale je vlastne pokus ukradnúť vaše osobné údaje alebo peniaze. Podvodníci použiť aj techniku zvanú spoofing aby to vyzeralo, ako keby ste dostali e-mail od seba.
 
-Ak dostanete e-mail, ktorý vyzerá ako phishing podvod, môžete ju nahlásiť vybratím správy a výberom **Junk** > **Phishing** > **Správa**.
+Ak dostanete e-mail, ktorý vyzerá ako phishing podvod, môžete ju nahlásiť vybratím správy a výberom **Junk** > **Phishing**.
 
-Keď označíte správu ako phishing, iba správy odosielateľa.Nie je blokovať odosielateľa posielať správy v budúcnosti. Ak chcete zablokovať odosielateľa, musíte pridať odosielateľa do zoznamu zablokovaných odosielateľov. Ďalšie informácie nájdete v téme [blokovanie odosielateľov alebo odblokovanie odosielateľov v službe Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e).
+*Poznámka:* Keď označíte správu ako phishing, iba správy odosielateľa.Nie je blokovať odosielateľa posielať správy v budúcnosti. Ak chcete zablokovať odosielateľa, musíte pridať odosielateľa do zoznamu zablokovaných odosielateľov. Ďalšie informácie nájdete v téme [blokovanie odosielateľov alebo odblokovanie odosielateľov v službe Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
 
-Ďalšie informácie o tom, ako [sa zaoberajú zneužitie, neoprávnené získavanie údajov alebo falšovanie v službe Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) a [Rozšírené Outlook.com zabezpečenia pre predplatiteľov služieb Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
+Informácie o tom, ako sa [vysporiadať s zneužitie, neoprávnené získavanie údajov alebo falšovanie v službe Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) a [rozšíreným zabezpečením Outlook.com pre predplatiteľov služieb Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).

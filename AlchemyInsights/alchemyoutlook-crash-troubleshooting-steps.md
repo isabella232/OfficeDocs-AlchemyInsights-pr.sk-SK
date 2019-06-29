@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883142"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357584"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook crash kroky na riešenie problémov
 
@@ -25,10 +27,9 @@ Ak máte Outlook desktop crash problémy, začnite podľa krokov 3 nižšie, kto
   
 Krok 1: Preskúmať možné problémy s pridať-ins.
   
-Krok 2: Oprava Outlook a spustite [nástroja Support and Recovery Assistant riešenie chyby pri spustení programu Outlook](https://aka.ms/SaRA-OutlookWontStart) na postihnutého počítača. 
+Krok 2: Oprava Outlook a spustite [nástroja Support and Recovery Assistant riešenie chyby pri spustení programu Outlook](https://aka.ms/SaRA-OutlookWontStart) na postihnutého počítača.
   
-Krok 3: Vytvorenie nového profilu programu Outlook, alebo môžete spustiť [nástroj Outlook profil](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutého počítača. 
+Krok 3: Vytvorenie nového profilu programu Outlook, alebo môžete spustiť [nástroj Outlook profil](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutého počítača.
   
 Ak problém vznikol po aktualizácii a kroky uvedené vyššie nefungujú, budete musieť vrátiť na predchádzajúcu verziu. Vidieť, [ako sa vrátiť k staršej verzie balíka Office 2013 alebo Office 2016 klikni a spusti](https://support.microsoft.com/help/2770432).
   
-
