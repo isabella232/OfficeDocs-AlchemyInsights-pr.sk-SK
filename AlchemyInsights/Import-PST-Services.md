@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1245
+ms.custom:
+- "1245"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 01801612a1e2edee53e58005ee86afe304e1e85c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 000f736528db90895bac7b1f373dd6e8a589c75e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389497"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359269"
 ---
-# <a name="office-365-import-service"></a>Služby Office 365 importu 
+# <a name="office-365-import-service"></a>Služby Office 365 importu
 
-Služby Office 365 Import umožňuje hromadné-import viacerých PST súborov do schránky Exchange Online. 
+Služby Office 365 Import umožňuje hromadné-import viacerých PST súborov do schránky Exchange Online.
 
 Prístup k službe Import a spustí proces importovania:
 
@@ -28,10 +30,10 @@ Prístup k službe Import a spustí proces importovania:
 
 2. Na ľavej table **& zabezpečenia súladu Center**kliknite **údaje riadenia > Import**.
 
-3. Na stránke **Import** kliknite na tlačidlo **nové úloha importu**. 
+3. Na stránke **Import** kliknite na tlačidlo **nové úloha importu**.
 
 4. Postupujte podľa pokynov v sprievodcovi, postupujte podľa tieto [pokyny](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Dôležité**: prístup k stránke **Import** v & zabezpečenia súladu Center, priradení [príslušné povolenia](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin). 
+**Dôležité**: prístup k stránke **Import** v & zabezpečenia súladu Center, priradení [príslušné povolenia](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
 Ak chcete importovať PST do poštovej schránky, pozrite si [Tento článok](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
