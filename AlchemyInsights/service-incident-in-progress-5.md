@@ -8,21 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1120857d-8af2-45e6-b6af-ece612448a62
-ms.openlocfilehash: bd07e203747ca1d8b3a8062e4a49897ccb0d91b0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "117"
+- "1653"
+- "1255"
+- "353"
+- "434"
+- "1600015"
+- "1600018"
+- "1600029"
+- "1600044"
+ms.openlocfilehash: 7c2982534180d21a2ef7af203587cfbf96d3011a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32378007"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369104"
 ---
 # <a name="service-incident-in-progress"></a>Služba udalosti v priebehu
 
-Môže byť ovplyvnená incident služby alebo poradenské ktorý je v súčasnosti vyšetrovaný. Môžete skontrolovať najnovšie stav tým, že pôjdete na stránku [Stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
+Môže byť ovplyvnená incident služby alebo poradenské ktorý je v súčasnosti vyšetrovaný. Môžete skontrolovať najnovšie stav tým, že pôjdete na stránku [Stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
 Pre vaše pohodlie môžete nájsť súhrn tejto udalosti nižšie:
   
 > **Udalosť číslo:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Vplyv Popis: {ImpactDescription}
-    
-

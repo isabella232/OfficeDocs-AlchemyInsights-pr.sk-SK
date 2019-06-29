@@ -8,19 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
-ms.openlocfilehash: fb20091867cb1b67f123c1d49161772b87e42fc4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.common:
+- "358"
+- "3500003"
+ms.openlocfilehash: 98d2eea2dc48e1b78784e6fe7857e75703c1c7a8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407115"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364684"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Vytvorenie a používanie zdieľanej poštovej schránky
 
 Zdieľanej poštovej schránky umožňuje viacerým osobám, odosielanie a prijímanie e-mail pre alias, ako sales@contoso.com, bez priradenia ďalšiu licenciu.
   
 - [Choď na začiatok](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
-    
-Môžete si tiež prečítať článok [vytvorenie zdieľanej poštovej schránky](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) , ktorý vám povie všetko, čo potrebujete vedieť o zdieľané poštové schránky, vrátane toho, ako ich používať. 
-  
 
+Môžete si tiež prečítať článok [vytvorenie zdieľanej poštovej schránky](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) , ktorý vám povie všetko, čo potrebujete vedieť o zdieľané poštové schránky, vrátane toho, ako ich používať.
+  
