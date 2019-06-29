@@ -8,28 +8,30 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1251"
+- "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: d4d116a1d6ad43922c892b93ec9fbf316f8796ce
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 289dd4abd5b529f43f01ba03ba2314ecd368dee1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388611"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356684"
 ---
-# <a name="about-office-2019"></a><span data-ttu-id="165e7-102">O Office 2019</span><span class="sxs-lookup"><span data-stu-id="165e7-102">About Office 2019</span></span>
+# <a name="about-office-2019"></a><span data-ttu-id="18497-102">O Office 2019</span><span class="sxs-lookup"><span data-stu-id="18497-102">About Office 2019</span></span>
 
-<span data-ttu-id="165e7-103">Office 2019 je pre zákazníkov, ktorí ešte nie sú pripravené na cloud alebo iná špecifická potreba lokálnym alebo hybridné nasadenie balíka Office.</span><span class="sxs-lookup"><span data-stu-id="165e7-103">Office 2019 is for customers who aren't ready for the cloud yet or have a specific need for on-premises or hybrid Office deployment.</span></span> <span data-ttu-id="165e7-104">Obsahuje zmysluplné podmnožinu funkcií, ktoré už boli pridané do balíka Office 365 za posledné tri roky, ale nie je súčasťou služieb Office 365.</span><span class="sxs-lookup"><span data-stu-id="165e7-104">It includes a meaningful subset of features that have already been added to Office 365 over the last three years, but it's not part of Office 365.</span></span>
+<span data-ttu-id="18497-103">Office 2019 je pre zákazníkov, ktorí ešte nie sú pripravené na cloud alebo iná špecifická potreba lokálnym alebo hybridné nasadenie balíka Office.</span><span class="sxs-lookup"><span data-stu-id="18497-103">Office 2019 is for customers who aren't ready for the cloud yet or have a specific need for on-premises or hybrid Office deployment.</span></span> <span data-ttu-id="18497-104">Obsahuje zmysluplné podmnožinu funkcií, ktoré už boli pridané do balíka Office 365 za posledné tri roky, ale nie je súčasťou služieb Office 365.</span><span class="sxs-lookup"><span data-stu-id="18497-104">It includes a meaningful subset of features that have already been added to Office 365 over the last three years, but it's not part of Office 365.</span></span>
   
-<span data-ttu-id="165e7-105">Office 365 ProPlus, pripojenou ku cloudu verziu balíka Office, prináša najviac produktívne a najbezpečnejšie prostredie balíka Office.</span><span class="sxs-lookup"><span data-stu-id="165e7-105">Office 365 ProPlus, the cloud-connected version of Office, delivers the most productive and most secure Office experience.</span></span> <span data-ttu-id="165e7-106">Poskytuje prístup k balík služieb nad rámec čo majú lokálne verzie a dostane novú funkciu aktualizácie na priebežne.</span><span class="sxs-lookup"><span data-stu-id="165e7-106">It provides access to a suite of services beyond what the on-premises versions have and receives new feature updates on an ongoing basis.</span></span>
+<span data-ttu-id="18497-105">Office 365 ProPlus, pripojenou ku cloudu verziu balíka Office, prináša najviac produktívne a najbezpečnejšie prostredie balíka Office.</span><span class="sxs-lookup"><span data-stu-id="18497-105">Office 365 ProPlus, the cloud-connected version of Office, delivers the most productive and most secure Office experience.</span></span> <span data-ttu-id="18497-106">Poskytuje prístup k balík služieb nad rámec čo majú lokálne verzie a dostane novú funkciu aktualizácie na priebežne.</span><span class="sxs-lookup"><span data-stu-id="18497-106">It provides access to a suite of services beyond what the on-premises versions have and receives new feature updates on an ongoing basis.</span></span>
   
-<span data-ttu-id="165e7-107">Takže, ak máte počítačové aplikácie balíka Office ako súčasť predplatného služieb Office 365 už máte najnovšiu verziu balíka Office.</span><span class="sxs-lookup"><span data-stu-id="165e7-107">So, if you have the Office desktop apps as part of your Office 365 subscription you already have the latest version of Office.</span></span>
+<span data-ttu-id="18497-107">Takže, ak máte počítačové aplikácie balíka Office ako súčasť predplatného služieb Office 365 už máte najnovšiu verziu balíka Office.</span><span class="sxs-lookup"><span data-stu-id="18497-107">So, if you have the Office desktop apps as part of your Office 365 subscription you already have the latest version of Office.</span></span>
   
-<span data-ttu-id="165e7-108">Ďalšie informácie nájdete v téme:</span><span class="sxs-lookup"><span data-stu-id="165e7-108">For more information, see:</span></span>
+<span data-ttu-id="18497-108">Ďalšie informácie nájdete v téme:</span><span class="sxs-lookup"><span data-stu-id="18497-108">For more information, see:</span></span>
   
-[<span data-ttu-id="165e7-109">Najčastejšie otázky Office 2019 komerčné pre Windows a Mac</span><span class="sxs-lookup"><span data-stu-id="165e7-109">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312)
+[<span data-ttu-id="18497-109">Najčastejšie otázky Office 2019 komerčné pre Windows a Mac</span><span class="sxs-lookup"><span data-stu-id="18497-109">Office 2019 Commercial for Windows and Mac frequently asked questions</span></span>](https://support.microsoft.com/help/4133312)
   
-[<span data-ttu-id="165e7-110">Hlavné číslo verzie Office 2019 je zostať na 16,0</span><span class="sxs-lookup"><span data-stu-id="165e7-110">The major version number of Office 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/deployoffice/office2019/overview)
+[<span data-ttu-id="18497-110">Hlavné číslo verzie Office 2019 je zostať na 16,0</span><span class="sxs-lookup"><span data-stu-id="18497-110">The major version number of Office 2019 is staying at 16.0</span></span>](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[<span data-ttu-id="165e7-111">Rok označenia v klientovi aplikácie Office 2016 a Office 365 sa odstránia z položky ponuky Štart</span><span class="sxs-lookup"><span data-stu-id="165e7-111">Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="18497-111">Rok označenia v klientovi aplikácie Office 2016 a Office 365 sa odstránia z položky ponuky Štart</span><span class="sxs-lookup"><span data-stu-id="18497-111">Year designation in Office 2016 and Office 365 client apps will be removed from Start menu entries</span></span>](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
-

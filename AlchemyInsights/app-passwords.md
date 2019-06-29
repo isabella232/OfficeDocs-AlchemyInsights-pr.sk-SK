@@ -9,27 +9,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 500
+ms.custom:
+- "500"
+- "387"
+- "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 4d87e1d5ee477d6aa0fe7d0cb41daa2c2750d4c3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ef5de7f5b782993af2689315c484f7f2b16553a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755542"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356720"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="bcdf9-102">Heslá aplikácií</span><span class="sxs-lookup"><span data-stu-id="bcdf9-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="11733-102">Heslá aplikácií</span><span class="sxs-lookup"><span data-stu-id="11733-102">App passwords</span></span>
 
-<span data-ttu-id="bcdf9-103">Heslo aplikácie je kód, ktorý dáva povolenie aplikácii alebo zariadeniu získať prístup k Office 365work alebo školské konto.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="bcdf9-104">Ak vaše konto vyžaduje viacnásobné overovanie (MFA) a aplikácia pripojí k vášmu účtu, budete musieť vygenerovať heslo aplikácie, takže aplikácie môžete pripojiť k Office 365.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="bcdf9-105">Napríklad, program Outlook 2016 a staršie verzie Outlook vyžadujú heslo aplikácie.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
+<span data-ttu-id="11733-103">Heslo aplikácie je kód, ktorý dáva povolenie aplikácii alebo zariadeniu získať prístup k Office 365work alebo školské konto.</span><span class="sxs-lookup"><span data-stu-id="11733-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="11733-104">Ak vaše konto vyžaduje viacnásobné overovanie (MFA) a aplikácia pripojí k vášmu účtu, budete musieť vygenerovať heslo aplikácie, takže aplikácie môžete pripojiť k Office 365.</span><span class="sxs-lookup"><span data-stu-id="11733-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="11733-105">Napríklad, program Outlook 2016 a staršie verzie Outlook vyžadujú heslo aplikácie.</span><span class="sxs-lookup"><span data-stu-id="11733-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
 
- <span data-ttu-id="bcdf9-106">**Poznámka**: skôr než vyskúšate nasledujúce kroky, overte, či váš Office 365 admin MFA potrebné pre váš účet.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="bcdf9-107">Ak nie, možnosti opísané v krokoch nebude k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+ <span data-ttu-id="11733-106">**Poznámka**: skôr než vyskúšate nasledujúce kroky, overte, či váš Office 365 admin MFA potrebné pre váš účet.</span><span class="sxs-lookup"><span data-stu-id="11733-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="11733-107">Ak nie, možnosti opísané v krokoch nebude k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="11733-107">If it isn't, the options described in the steps won't be available to you.</span></span>
 
-1. <span data-ttu-id="bcdf9-108">S vašej práce alebo školy konta a heslo, prihláste sa do služby Office 365.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-108">Sign in to Office 365 with your work or school account and your password.</span></span>
+1. <span data-ttu-id="11733-108">S vašej práce alebo školy konta a heslo, prihláste sa do služby Office 365.</span><span class="sxs-lookup"><span data-stu-id="11733-108">Sign in to Office 365 with your work or school account and your password.</span></span>
 
-2. <span data-ttu-id="bcdf9-109">Vyberte si **ho teraz nastaviť**.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-109">Choose **Set it up now**.</span></span>
+2. <span data-ttu-id="11733-109">Vyberte si **ho teraz nastaviť**.</span><span class="sxs-lookup"><span data-stu-id="11733-109">Choose **Set it up now**.</span></span>
 
-3. <span data-ttu-id="bcdf9-110">Vyberte metódu overenia a postupujte podľa pokynov.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-110">Select your authentication method and follow the prompts.</span></span>
+3. <span data-ttu-id="11733-110">Vyberte metódu overenia a postupujte podľa pokynov.</span><span class="sxs-lookup"><span data-stu-id="11733-110">Select your authentication method and follow the prompts.</span></span>
 
-4. <span data-ttu-id="bcdf9-111">Po overení alternatívny spôsob kontaktu, vyberte si **ďalšiu**.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-111">After you verify your alternate contact method, choose **Next**.</span></span>
+4. <span data-ttu-id="11733-111">Po overení alternatívny spôsob kontaktu, vyberte si **ďalšiu**.</span><span class="sxs-lookup"><span data-stu-id="11733-111">After you verify your alternate contact method, choose **Next**.</span></span>
 
-5. <span data-ttu-id="bcdf9-112">Dostanete heslo aplikácie, ktoré môžete použiť s programom Outlook, Apple Mail a ďalšie aplikácie, ktoré ju potrebujú.</span><span class="sxs-lookup"><span data-stu-id="bcdf9-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="bcdf9-113">Vyberte **Kopírovať** kopírovať heslo, takže ju môžete prilepiť inde (nemusíte zapamätať).</span><span class="sxs-lookup"><span data-stu-id="bcdf9-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
+5. <span data-ttu-id="11733-112">Dostanete heslo aplikácie, ktoré môžete použiť s programom Outlook, Apple Mail a ďalšie aplikácie, ktoré ju potrebujú.</span><span class="sxs-lookup"><span data-stu-id="11733-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="11733-113">Vyberte **Kopírovať** kopírovať heslo, takže ju môžete prilepiť inde (nemusíte zapamätať).</span><span class="sxs-lookup"><span data-stu-id="11733-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span>
