@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "488"
+- "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 17c8cb304a8f2009279cf9646d8e0026f1f967e8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390333"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366764"
 ---
-# <a name="trying-to-find-a-trial"></a><span data-ttu-id="4a0aa-102">Snažím sa nájsť skúšobná verzia?</span><span class="sxs-lookup"><span data-stu-id="4a0aa-102">Trying to find a trial?</span></span>
+# <a name="trying-to-find-a-trial"></a><span data-ttu-id="eb006-102">Snažím sa nájsť skúšobná verzia?</span><span class="sxs-lookup"><span data-stu-id="eb006-102">Trying to find a trial?</span></span>
 
-<span data-ttu-id="4a0aa-103">Ak by ste chceli vyskúšať novú službu nájdete zoznam odbery k dispozícii skúšobnú verziu Microsoft 365 admin Center.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="eb006-103">Ak by ste chceli vyskúšať novú službu nájdete zoznam odbery k dispozícii skúšobnú verziu Microsoft 365 admin Center.</span><span class="sxs-lookup"><span data-stu-id="eb006-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="4a0aa-104">Prejdite na stránku [Nákup služieb](https://go.microsoft.com/fwlink/p/?linkid=868433) alebo vybrať **fakturácie** \> **nákupných služieb**.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
-    
-2. <span data-ttu-id="4a0aa-105">Nájdite predplatné, ktoré vyhovuje vašim potrebám, myš nad ním, a zvoliť **Spustenie bezplatnej skúšobnej verzie**.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
-    
+1. <span data-ttu-id="eb006-104">Prejdite na stránku [Nákup služieb](https://go.microsoft.com/fwlink/p/?linkid=868433) alebo vybrať **fakturácie** \> **nákupných služieb**.</span><span class="sxs-lookup"><span data-stu-id="eb006-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
+
+2. <span data-ttu-id="eb006-105">Nájdite predplatné, ktoré vyhovuje vašim potrebám, myš nad ním, a zvoliť **Spustenie bezplatnej skúšobnej verzie**.</span><span class="sxs-lookup"><span data-stu-id="eb006-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
+
     > [!NOTE]
-    > <span data-ttu-id="4a0aa-106">Nie všetky predplatné sú k dispozícii ako skúšobná verzia.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-106">Not all subscriptions are available as a trial.</span></span> <span data-ttu-id="4a0aa-107">Ak nevidíte tlačidlo **Štart bezplatnej skúšobnej verzie** , keď myšou nad predplatné, to znamená, že súd nie je k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-107">If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
+    > <span data-ttu-id="eb006-106">Nie všetky predplatné sú k dispozícii ako skúšobná verzia.</span><span class="sxs-lookup"><span data-stu-id="eb006-106">Not all subscriptions are available as a trial.</span></span> <span data-ttu-id="eb006-107">Ak nevidíte tlačidlo **Štart bezplatnej skúšobnej verzie** , keď myšou nad predplatné, to znamená, že súd nie je k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="eb006-107">If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span>
   
-3. <span data-ttu-id="4a0aa-108">Pravdepodobne musieť zadať kreditnú kartu alebo iný spôsob platby poskytovať dodatočné overenie ako bezpečnostné opatrenie.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-108">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure.</span></span> <span data-ttu-id="4a0aa-109">Nebudete musieť platiť za túto bezplatnú skúšobnú verziu.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-109">You won't be charged for this free trial.</span></span> <span data-ttu-id="4a0aa-110">Udrží vaše platobné údaje v súbore, a nebude používať žiadne nákupy bez vášho súhlasu.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-110">We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
-    
-4. <span data-ttu-id="4a0aa-111">Vyberte **odoslať objednávku**.</span><span class="sxs-lookup"><span data-stu-id="4a0aa-111">Choose **Place order**.</span></span>
-    
+3. <span data-ttu-id="eb006-108">Pravdepodobne musieť zadať kreditnú kartu alebo iný spôsob platby poskytovať dodatočné overenie ako bezpečnostné opatrenie.</span><span class="sxs-lookup"><span data-stu-id="eb006-108">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure.</span></span> <span data-ttu-id="eb006-109">Nebudete musieť platiť za túto bezplatnú skúšobnú verziu.</span><span class="sxs-lookup"><span data-stu-id="eb006-109">You won't be charged for this free trial.</span></span> <span data-ttu-id="eb006-110">Udrží vaše platobné údaje v súbore, a nebude používať žiadne nákupy bez vášho súhlasu.</span><span class="sxs-lookup"><span data-stu-id="eb006-110">We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
 
+4. <span data-ttu-id="eb006-111">Vyberte **odoslať objednávku**.</span><span class="sxs-lookup"><span data-stu-id="eb006-111">Choose **Place order**.</span></span>
