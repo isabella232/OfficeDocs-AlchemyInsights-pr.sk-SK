@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377712"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614113"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Pridať alias e-mailom v službe Outlook.com
 
@@ -30,6 +30,6 @@ Ak chcete pridať e-mailovú adresu:
     2. Pridať existujúcu e-mailovú adresu ako alias.
 3. Vyberte položku **Pridať alias**.
 
-Prečítajte si viac o tom, ako [Pridať](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)alebo odstrániť alias e-mailom v službe Outlook.com.  
+Prečítajte si viac o tom, ako [Pridať](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)alebo odstrániť alias e-mailom v službe Outlook.com.  
 
-Prečítajte si, [ako sa pripojiť iný e-mailový účet](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) konta Outlook.com.
+Prečítajte si, [ako sa pripojiť iný e-mailový účet](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) konta Outlook.com.

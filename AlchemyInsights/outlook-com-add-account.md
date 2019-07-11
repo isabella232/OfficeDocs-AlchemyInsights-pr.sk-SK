@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377784"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614149"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Pridanie e-mailových kont do služby Outlook.com
 
@@ -32,6 +32,6 @@ Pridať pripojeného konta:
 
 E-mail môžete odosielať z ľubovoľného konta, ktoré ste pripojili k vášmu kontu Outlook.com. Pri písaní e-mailu, **Vyberte** a vybrať e-mailovú adresu, ktorú chcete použiť, a [aktualizovať vaše predvolené z adresy](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Pre viac informácií, prečítajte si [Pridať vaše ďalšie e-mailové kontá do služby Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Pre viac informácií, prečítajte si [Pridať vaše ďalšie e-mailové kontá do služby Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Ak chcete vytvoriť novú e-mailovú adresu, ktorá používa rovnaké konto Outlook.com, čítať, [Pridať alebo odstrániť alias e-mailu](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Ak chcete vytvoriť novú e-mailovú adresu, ktorá používa rovnaké konto Outlook.com, čítať, [Pridať alebo odstrániť alias e-mailu](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377640"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614185"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Pridanie konta Gmail do služby Outlook.com
 
@@ -30,4 +30,4 @@ Synchronizácia z pripojeného konta do konta Outlook.com je jednosmerný len. E
 
 Môžete poslať e-mail v službe Outlook.com z pripojeného konta Gmail. Pri písaní e-mailu, vyberte **z** a vašej adresy Gmail alebo [aktualizovať vaše predvolené z adresy](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Ďalšie informácie nájdete v téme [Pridanie ďalších kont do služby Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Ďalšie informácie nájdete v téme [Pridanie ďalších kont do služby Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
