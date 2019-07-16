@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 5816d85596560dfa016fc2ed622192f68ec4e818
-ms.sourcegitcommit: 187bd764267e502224fa30ea8b04d071aaae73a4
+ms.openlocfilehash: 4a68140db3117f0ad33bf2ebee94601397376c26
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33546260"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701410"
 ---
 # <a name="encrypt-messages-using-smime"></a>Šifrovanie správy pomocou S/MIME
 
@@ -28,4 +28,4 @@ Ak chcete zmeniť nastavenie S/MIME v programe Outlook na webe:
 1. Prejdite do **ponuky Nastavenia** > **Zobraziť všetkých nastavení programu Outlook**.
 2. Vyberte položku **Mail** > **S/MIME**.
 
-Prečítané [šifrovanie správy pomocou S/MIME v programe Outlook na webe](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480) pre viac informácií.
+Čítať [šifrovanie správy pomocou S/MIME v programe Outlook na webe] (https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ? wt.mc_id=Office_Outlook_com_Alchemy) pre viac informácií.
