@@ -1,7 +1,7 @@
 ---
-title: 127 TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?
-ms.author: kirks
-author: Techwriter40
+title: Read-Only na údržbu správy pri pokuse o použitie SharePoint alebo OneDrive
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5613138e7613deb264a7ab2c966f8b9c4a24763d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736417"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840530"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only na údržbu správy pri pokuse o použitie SharePoint alebo OneDrive
 
-Užívatelia môžu získať Read-Only na údržbu správy pri pokuse o použitie SharePoint alebo OneDrive.
+Používatelia môžu hlásenie **Iba na čítanie pre údržbu** pri pokuse o použitie SharePoint alebo OneDrive.  Ak áno, skontrolujte, či je aktívna údržba vyskytujúce sa na nájomcu prechodom do [centra správ](https://portal.office.com/adminportal/home#/MessageCenter). Tiež, uistite sa, že kontrola tabuľa [Stav služby](https://portal.office.com/adminportal/home#/servicehealth) zistiť akékoľvek upozornenia/incidentov, ktoré sa môže vyskytnúť.
 
-Skontrolujte, či je aktívna údržba vyskytujúce sa na nájomcu prechodom do [centra správ](https://portal.office.com/adminportal/home#/MessageCenter). Nakoniec, zabezpečiť navštívite stránku[Stav služby](https://portal.office.com/adminportal/home#/servicehealth) zistiť akékoľvek upozornenia/incidentov, ktoré sa môže vyskytnúť.
-
-Ak ani Message Center alebo tabuľa stavu služieb zaznamenali niečo o bežná údržba pre nájomcu, môže to byť prehliadač caching problém.
+Ak ani centra správ alebo služby zdravia dashboard uviedli niečo o bežná údržba pre nájomcu, môže to byť prehliadač caching problém.
 
 Prosím pokúsi zmazať cache prehliadača pred vyhľadania lokality.
 
-- V prehliadači Microsoft Edge prejdite na ďalšie nastavenie
+1. V prehliadači Microsoft Edge, vyberte **nastavenia**a potom vyberte položku **súkromie a bezpečnosť**.
+2. Podľa **jasných prehliadania**, vyberte položku **vybrať položky na vymazanie**.
+3. Vyberte **súbory cookie a uložené údaje webových lokalít**a vyberte **Vymazať**.
 
-- Časti jasné prehliadania, vyberte možnosť vybrať položky na vymazanie.
-- Vyberte Cookies a začiarknite políčko údaje uložené webové stránky a vyberte možnosť Vymazať.
+>[!Note] 
+> Tieto kroky sa môžu líšiť, pri použití iných prehliadačov, ako Mozilla Firefox alebo Google Chrome.
 
-**Poznámka**: tieto kroky sa môžu líšiť, pri použití iných prehliadačov ako Firefox alebo Chrome.
-
+>[!Note] 
+> Ďalšou možnosťou by bolo otvoriť lokalitu SharePoint alebo OneDrive v nové okno v režime InPrivate.
