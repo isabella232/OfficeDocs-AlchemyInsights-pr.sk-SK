@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132737"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903953"
 ---
 # <a name="edit-a-read-only-file"></a>Upraviť súbor iba na čítanie
 
@@ -25,7 +25,7 @@ Namiesto kliknutím na názov dokumentu, **Otvorte Menu** (tri bodky) a potom kl
 
 Poznámky:
 
-- Ak by ste radšej dokumentov otvorte na upravovanie v Office Online, keď kliknete na názov, môžete nastaviť knižnicu k tomu, že (ako dlho máte povolenie na zmenu nastavenia knižnice).
+- Ak by ste radšej dokumentov otvorte na upravovanie v kancelárii, keď kliknete na názov, môžete nastaviť knižnicu k tomu, že (ako dlho máte povolenie na zmenu nastavenia knižnice).
 
 - Ak máte knižníc s Pokladňa, požadované stĺpce alebo keď iba používatelia, ktorí môžu upravovať verzia nastavenie SharePoint dokumentu Knižnica, tieto položky sa synchronizuje ako iba na čítanie.
 
