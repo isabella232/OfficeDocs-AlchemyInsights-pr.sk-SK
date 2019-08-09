@@ -1,19 +1,19 @@
 ---
-title: Inštalácia OneDrive
-ms.author: kirks
-author: Techwriter40
+title: Inštalácia, nastavenie a synchronizáciu OneDrive alebo SharePoint súbory na Mac
+ms.author: efrene
+author: efrene
 ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: b984831bae71cb4c98f72fab02455bb26fb08b3b
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: aa1318ca874682d8fcc278a873b6f6f72e8f04c6
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35605906"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269103"
 ---
 # <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Inštalácia, nastavenie a synchronizáciu OneDrive alebo SharePoint súbory na Mac 
 
