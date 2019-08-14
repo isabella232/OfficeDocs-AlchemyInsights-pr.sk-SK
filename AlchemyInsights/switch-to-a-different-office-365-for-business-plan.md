@@ -13,18 +13,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: cfb1012b644d3fa54d385636642b8f7d02a09c0c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367664"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388207"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Prepnúť na rôzne Office 365 pre podnikateľský plán
 
 Keď vaše podnikateľské zámery zmenia, alebo ak potrebujete ďalšie funkcie služieb Office 365, môžete prepínať plány.
   
-1. V centre spravovania prejdite na stránku [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vyberte položky **Fakturácia** \> **Predplatné**.
+1. Admin Center, prejdite na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky.
 
 2. Vyberte **prepínač plány** zobrazíte zoznam nových plánov, ktoré sú k dispozícii.
 
@@ -32,7 +32,6 @@ Keď vaše podnikateľské zámery zmenia, alebo ak potrebujete ďalšie funkcie
 
 Tlačidlo Prepnúť plány nie je podporovaný vo všetkých situáciách. V niektorých prípadoch môže byť schopné manuálne prepínať plány.
   
-Ak sa nezobrazuje tlačidlo **Prejsť plány** môžete pokúsiť [Prejsť plány manuálne](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) alebo pomocou možnosti "Dajte nám zavolať", obráťte sa na pracovníka technickej podpory.
+Ak sa nezobrazuje tlačidlo **Prejsť plány** môžete pokúsiť [Prejsť plány manuálne](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) alebo pomocou možnosti "Dajte nám zavolať", obráťte sa na pracovníka technickej podpory.
   
-Pre všetky varianty prepínania plánov, pozri [Prepnúť na iný úrad 3635 pre podnikateľský plán](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).
-  
+Používate nový admin center? Nový postup nájdete v časti [Inovácia na iný plán](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

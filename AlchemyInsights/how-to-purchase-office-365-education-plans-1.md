@@ -13,16 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 934312fdf790a9f51bb3882c460b8b984f98a310
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383976"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390167"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Ako si kúpiť plány služieb Office 365 Education
 
 Preskúmal vašu žiadosť a určuje táto organizácia nie je oprávnená ako Microsoft oprávnenou vzdelávacou inštitúciou. Vaše aktuálne akademické skúšobnej ponuky uplynie na konci skúšobného obdobia.
   
-Kúpiť Office 365 komerčne, nájdete [dostupné ponuky](https://go.microsoft.com/fwlink/p/?linkid=868433).
-  
+Kúpiť Office 365 komerčne, nájdete [dostupné ponuky](https://go.microsoft.com/fwlink/p/?linkid=868433).  

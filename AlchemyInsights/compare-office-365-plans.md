@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362228"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386635"
 ---
 # <a name="compare-office-365-plans"></a>Porovnajte plány služieb Office 365
 
@@ -28,7 +28,6 @@ Plány služieb Office 365 sú k dispozícii pre [obchodné](https://products.of
   
 Ak vaša organizácia je záujem porovnáva všetky plány a ceny, prezrieť [porovnanie všetkých plánov služieb Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Ak vaša organizácia už zakúpili Office 365 plánu a je záujem o prechod na iný plán môžete tak z Microsoft 365 admin center, prejdite na [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054), alebo vybrať **fakturácie** \> **predplatné**. Vyberte **prepínač plány** zobrazíte zoznam nových plánov, ktoré sú k dispozícii.
+Ak vaša organizácia už zakúpili Office 365 plánu a je záujem o prechod na iný plán, môžete tak urobiť z Microsoft 365 admin center. Prejsť na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku, potom vyberte **prepínač plány** zobrazíte zoznam nových plánov, ktoré sú k dispozícii.
   
-Vaša organizácia môže aj mix a zápas plány služieb Office 365 podľa potrieb a funkcie požiadavky užívateľov. Zo správy služby Office 365, prejdite na stránku [Nákup služieb](https://go.microsoft.com/fwlink/p/?linkid=868433) alebo vybrať **fakturácie** \> **Nákupných služieb**.
-  
+Vaša organizácia môže aj mix a zápas plány služieb Office 365 podľa potrieb a funkcie požiadavky užívateľov. Z admin center, prejdite na **fakturačné** \> [Nákup služieb](https://go.microsoft.com/fwlink/p/?linkid=868433) stránka.

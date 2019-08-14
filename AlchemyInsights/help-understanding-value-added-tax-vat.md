@@ -13,12 +13,12 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386352"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390527"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Pomocník pre pochopenie hodnoty pridanej hodnoty (DPH)
 
@@ -27,4 +27,3 @@ Ak ste v krajine, ktorá využíva oceňované daň z pridanej hodnoty (DPH), ak
 Z daňových dôvodov, musíte zadať registračné číslo DPH v nastavení Fakturácia.
   
 Nemôžete pridať alebo odstrániť sadzieb DPH, ale môžete zmeniť predvolené sadzba DPH v nastavení. V predvolenom nastavení, Fakturácia používa službu na overenie DIČ, ale odporúčame, aby ste si prečítali [VIES vyhlásenie](https://go.microsoft.com/fwlink/?LinkID=841741) uverejnené Európskou Komisiou. Ak vyberiete možnosť vypnúť službu, musíte overiť všetky DIČ.
-  

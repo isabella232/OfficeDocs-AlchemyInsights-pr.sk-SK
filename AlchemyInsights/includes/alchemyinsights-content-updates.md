@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Týždeň od 01 júla 2019
-
-
-| Zverejnené na |Názov témy | Zmena |
-|------|------------|--------|
-| 7/1/2019 | [Klasické zostavy denníka auditu SharePoint](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | je |
-| 7/2/2019 | [Ďalšie informácie o politikách uchovávania údajov](/AlchemyInsights/office-security-compliance-retention-policy) | je |
-
-
 ## <a name="week-of-july-08-2019"></a>Týždeň 08. júla 2019
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [Usporiadanie e-mailov programu Outlook na webe](/AlchemyInsights/owa-organize-email) | je |
 | 8/2/2019 | [Tlačiť e-maily, kalendáre a príloh v programe Outlook na webe](/AlchemyInsights/owa-print-email-calendars-attachments) | je |
 | 8/2/2019 | [Potvrdenia o prečítaní programu Outlook na webe](/AlchemyInsights/owa-read-receipts) | je |
+
+
+## <a name="week-of-august-05-2019"></a>Týždeň 05 augusta 2019
+
+
+| Zverejnené na |Názov témy | Zmena |
+|------|------------|--------|
+| 8/5/2019 | [Ako odpovedať alebo poslať správy v programe Outlook na webe](/AlchemyInsights/owa-reply-forward-messages) | je |
+| 8/5/2019 | [8000003 Hľadať poštu a ľudia v Outlooku na webe](/AlchemyInsights/owa-search-mail-and-people) | je |
+| 8/5/2019 | [Vytvoriť podpis v programe Outlook na webe](/AlchemyInsights/owa-signature) | je |
+| 8/5/2019 | [S/MIME v programe Outlook na webe](/AlchemyInsights/owa-smime) | je |
+| 8/5/2019 | [Stop správy od cesty do priečinka nevyžiadanej pošty v programe Outlook na webe](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | je |
+| 8/5/2019 | [Vypnúť zobrazení prioritnej doručenej pošty](/AlchemyInsights/owa-turn-off-focused-inbox) | je |
+| 8/5/2019 | [1332 OWA - doručenej pošty pravidiel sa nevykonáva pre poštovú schránku](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | je |
+| 8/6/2019 | [Testovanie alchýmia vnorených obrázkov](/AlchemyInsights/testing-alchemy-inline-images) | je |
+| 8/6/2019 | [Rozšírené ohrozenie ochrany v službe SharePoint a OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | je |
+| 8/6/2019 | [Ransomware útok v SharePoint alebo OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | je |
+| 8/6/2019 | [Moderné lokalitu ako root](/AlchemyInsights/modern-site-as-the-root-site) | je |
+| 8/6/2019 | [Problémy počas migrácie údajov do služby SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | je |
+| 8/6/2019 | [Stiahnuť alebo zabrániť sťahovanie súborov z OneDrivu alebo SharePointu](/AlchemyInsights/sharepoint-onedrive-download-files) | je |
+| 8/6/2019 | [Riešenie problémov prístup odmietnutý správy OneDrive pre podnikové lokality](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | je |
+| 8/6/2019 | [Obnovenie odstráneného súboru alebo priečinka](/AlchemyInsights/sharepoint-deleted-items-restore) | je |
+| 8/6/2019 | [Spravovanie verzií v službe SharePoint a OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | je |
+| 8/6/2019 | [Uchovávanie a likvidovanie informácie OneDrive](/AlchemyInsights/one-drive-retention-and-deletion) | je |
+| 8/7/2019 | [Zabrániť súbory boli stiahnuté z SharePoint alebo OneDrive](/AlchemyInsights/prevent-download) | je |
+| 8/7/2019 | [Obnovenie odstráneného súboru alebo priečinka](/AlchemyInsights/sharepoint-deleted-items-restore) | je |
+| 8/7/2019 | [Povoliť externé zdieľanie v službe SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | je |
+| 8/7/2019 | [Odstránenie problémov so synchronizáciou OneDrivu](/AlchemyInsights/fix-onedrive-sync-issues) | je |
+| 8/7/2019 | [Riešenie problémov so synchronizáciou OneDrivu](/AlchemyInsights/fix-onedrive-sync-problems) | je |
+| 8/7/2019 | [Workflow e-mail sa odosiela nie](/AlchemyInsights/workflow-email-not-being-sent) | je |
+| 8/7/2019 | [Tok činností sa nespustí](/AlchemyInsights/workflow-is-not-starting) | je |
+| 8/7/2019 | [Rozšírené ohrozenie ochrany v službe SharePoint a OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | je |
+| 8/7/2019 | [Priradiť rozbočovač stránky](/AlchemyInsights/associate-a-hub-site) | je |
+| 8/7/2019 | [Vytvorenie lokality SharePoint](/AlchemyInsights/create-a-sharepoint-site) | je |
+| 8/7/2019 | [Moderné lokalitu ako root](/AlchemyInsights/modern-site-as-the-root-site) | je |
+| 8/7/2019 | [OneDrive uchovávanie a likvidovanie](/AlchemyInsights/one-drive-retention-and-deletion) | je |
+| 8/7/2019 | [OneDrive bežné problémy a riešenia](/AlchemyInsights/onedrive-common-issues-and-resolutions) | je |
+| 8/7/2019 | [Ransomware útok v SharePoint alebo OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | je |
+| 8/7/2019 | [Externé zdieľanie v službe SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | je |
+| 8/7/2019 | [Spravovanie verzií v službe SharePoint a OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | je |
+| 8/7/2019 | [Externý kontakt je schopná prijať pozvánky zdieľanie](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | je |
+| 8/7/2019 | [SharePoint Online bežné problémy a riešenia](/AlchemyInsights/sharepoint-get-started-faq) | je |
+| 8/7/2019 | [Moderné lokalitu ako root](/AlchemyInsights/sharepoint-modernize-classic-site) | je |
+| 8/7/2019 | [Stiahnuť alebo zabrániť sťahovanie súborov z OneDrivu alebo SharePointu](/AlchemyInsights/sharepoint-onedrive-download-files) | je |
+| 8/7/2019 | [Inštalácia, nastavenie a synchronizáciu OneDrive alebo SharePoint súbory na Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | je |
+| 8/7/2019 | [Riešenie problémov s "Open s Explorer" v SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | je |
+| 8/8/2019 | [Rozšírené ohrozenie ochrany v službe SharePoint a OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | je |
+| 8/8/2019 | [Priradiť rozbočovač stránky](/AlchemyInsights/associate-a-hub-site) | je |
+| 8/8/2019 | [Vytvorenie lokality SharePoint](/AlchemyInsights/create-a-sharepoint-site) | je |
+| 8/8/2019 | [Chyba 404: Súbor nebol nájdený](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | je |
+| 8/8/2019 | [Odstránenie problémov so synchronizáciou OneDrivu v Macu](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | je |
+| 8/8/2019 | [Mapa knižnice SharePoint k sieťovej jednotke](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | je |
+| 8/8/2019 | [Moderné lokalitu ako root](/AlchemyInsights/modern-site-as-the-root-site) | je |
+| 8/8/2019 | [OneDrive uchovávanie a likvidovanie](/AlchemyInsights/one-drive-retention-and-deletion) | je |
+| 8/8/2019 | [Ransomware útok v SharePoint alebo OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | je |
+| 8/8/2019 | [Obnovenie odstráneného súboru alebo priečinka](/AlchemyInsights/sharepoint-deleted-items-restore) | je |
+| 8/8/2019 | [Externý používateľ nemá prístup k obsahu v službe SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | je |
+| 8/8/2019 | [Prehľad SharePointu rozbočovač lokalít](/AlchemyInsights/sharepoint-hub-sites) | je |
+| 8/8/2019 | [Stiahnuť alebo zabrániť sťahovanie súborov z OneDrivu alebo SharePointu](/AlchemyInsights/sharepoint-onedrive-download-files) | je |
+| 8/8/2019 | [Spravovať schéma vyhľadávania SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | je |
+| 8/8/2019 | [Kroky na vytvorenie pracovného postupu SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | je |
+| 8/8/2019 | [Swap vaše klasickej koreňovej lokality s moderný web](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | je |
+| 8/8/2019 | [Riešenie problémov s "Open s Explorer" v SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | je |
+| 8/8/2019 | [Riešenie problémov pracovného postupu](/AlchemyInsights/workflow-troubleshooting) | je |
+| 8/8/2019 | [Povoliť a Hľadať Audit log](/AlchemyInsights/enable-auditing) | je |
+| 8/8/2019 | [Zapnúť a vyhľadávanie denník auditu](/AlchemyInsights/enable-auditing) | je |

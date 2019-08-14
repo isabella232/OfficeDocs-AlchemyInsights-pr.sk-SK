@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371226"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388615"
 ---
 # <a name="prepaid-renewal"></a>Predplatené predĺženia
 
-1. V centre spravovania prejdite na stránku [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vyberte položky **Fakturácia** \> **Predplatné**.
+1. Admin Center, prejdite na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky.
 
 2. Vyberte predplatené predplatné, ktoré by ste chceli rozšíriť, a potom vyberte **rozšíriť**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371226"
 5. Skontrolujte správnosť informácií a potom vybrať **ďalšiu**.
 
 6. Vyberte prepínač predĺžiť dátum ukončenia súčasných licencií a potom vybrať **ďalšiu**.
+
+Používate nový admin center? Nový postup nájdete v časti [Pridanie licencií alebo predĺžiť predplatné zaplatené pomocou kódu product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
