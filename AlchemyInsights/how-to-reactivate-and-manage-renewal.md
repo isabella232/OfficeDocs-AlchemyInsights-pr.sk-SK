@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383544"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389951"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Ako aktivovať a spravovať opakované účtovanie
 
 Vyzerá to, že máte predplatného, že vypršala. Ak by ste chceli aktivovať to, tu je ako.
   
-1. Admin Center, prejdite na [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku alebo ísť do **fakturácie** \> **predplatné**.
+1. Admin Center, prejdite na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky.
 
 2. Vyberte na predplatné, ktoré sú **vypršala** alebo **telesne**.
 
@@ -36,11 +36,10 @@ Vyzerá to, že máte predplatného, že vypršala. Ak by ste chceli aktivovať 
 
 Spravovať mesačné alebo ročné vyúčtovanie si môžete prepínať **opakovaná fakturácie** alebo vypnúť.
   
-1. Admin Center, prejdite na [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku alebo ísť do **fakturácie** \> **predplatné**.
+1. Admin Center, prejdite na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky.
 
 2. Vyberte na predplatné, ktoré chcete spravovať opakované účtovanie.
 
 3. Prepnite prepínač **opakovaná fakturácie** na **zapnuté** alebo **Vypnuté**.
 
-Ďalšie informácie nájdete v téme: [spravovať ďalšie faktúry pre vaše predplatné](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Ďalšie informácie nájdete v téme [Zapnutie ďalšie faktúry alebo vypnutie](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
