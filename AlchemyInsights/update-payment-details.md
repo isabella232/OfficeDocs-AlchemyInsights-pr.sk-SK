@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903730"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387784"
 ---
 # <a name="update-payment-details"></a>Aktualizácia podrobností o platbe
 
-1. V centre spravovania prejdite na stránku [Spôsob platby](https://go.microsoft.com/fwlink/p/?linkid=2018806) alebo vyberte položky **Fakturácia ** \> **Spôsoby platby**.
+1. V centre spravovania prejdite na stránku **Fakturácia** \> [ Spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Ak sa dostanete do slučky, ktorá vás odošle späť na domovskú stránku správcu pred dokončením aktualizácií, skúste režim InPrivate alebo Inkognito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903730"
 
 5. Ak chcete odstrániť tento spôsob platby, vyberte položku **Odstrániť**.
 
-Ďalšie informácie nájdete v téme [Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového účtu v službách Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) a [Riešenie problémov s kreditnými kartami alebo bankovými účtami](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Ďalšie informácie nájdete v téme [Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového účtu v službách Office 365 for business](https://docs.microsoft.com/sk-SK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) a [Riešenie problémov s kreditnými kartami alebo bankovými účtami](https://docs.microsoft.com/sk-SK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
