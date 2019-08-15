@@ -3,28 +3,53 @@ title: Ďalšie informácie o politikách uchovávania údajov
 ms.author: stephow
 author: msft-stephow
 manager: laurawi
+ms.date: 08/14/2019
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.collection: Adm_O365
+ms.custom:
+- "9000048"
+- "1983"
+ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35448850"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404853"
 ---
 # <a name="more-info-about-retention-policies"></a>Ďalšie informácie o politikách uchovávania údajov
 
-Pre väčšinu organizácií, objem a zložitosť ich údajov rastie každým dňom - e-mail, dokumenty, okamžité správy a ďalšie.
-Efektívne riadenie alebo upravujúce tieto informácie je dôležitá a politika uchovávania údajov môže pomôcť dosiahnuť tieto ciele. Ďalšie informácie o politiky uchovávania údajov, navštívte tieto odkazy:
+Pre väčšinu organizácií, objem a zložitosť ich údajov rastie každým dňom - e-mail, dokumenty, okamžité správy a ďalšie. Efektívne riadenie alebo upravujúce tieto informácie je dôležitá a politika uchovávania údajov môže pomôcť dosiahnuť tieto ciele. Ďalšie informácie o politiky uchovávania údajov, navštívte tieto odkazy:
 
-- [Prehľad politík uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+## <a name="a-from-security-and-compliance-center"></a>A) z bezpečnosti a zhody centrum
 
-- [Značky uchovávania údajov a politiky uchovávania údajov](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- Prejsť na dosiahnutie zabezpečenia a zhody > údajov riadenia > uchovávania
+  - Pozri [Tento](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) článok
 
-- [Uplatňovania politiky uchovávania údajov na celú organizáciu alebo konkrétne miesta](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+- Prejsť na dosiahnutie zabezpečenia a zhody > eDiscovery> pokročilé eDiscovery 
+  - Pozri [Tento](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) článok
 
-- [Novo vytvorené alebo aktualizované Retenčná politika v centre výmenu Admin nie sú uplatnenie do poštových schránok](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- Prejsť na zabezpečenie a súlad > klasifikácie > uchovávania
+  - Nájdete v nasledujúcich článkoch
+    - [Označenia citlivosti](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
+    - [Prehľad značiek](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
 
+## <a name="b-legacy-ediscovery-policies"></a>(B) dedičstvo eDiscovery podmienky
+
+- Pozri [Tento](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) článok
+
+## <a name="c-site-closure-and-deletion-policies"></a>(C) miesto uzavretia a vypustenie podmienky
+
+- Pozri [Tento](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) článok  
+
+## <a name="d-information-rights-management-irm"></a>(D) prístupových práv k informáciám (IRM)
+
+- Nájdete v nasledujúcich článkoch
+  - [IRM v knižnici zoznam](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM prehľad](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+
+> [!Note]
+> Dôrazne odporúčame prechod na zabezpečenie a súlad politík Ak stále používate Legacy eDiscovery alebo IRM alebo zatvorení výrobného miesta a odstránenia politiky.
