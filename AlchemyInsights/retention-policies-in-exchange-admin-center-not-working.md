@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369680"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444823"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Politiky uchovávania údajov v Exchange Admin Center
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369680"
   ```
 
  **Poznámka:** Ak poštová schránka je menšie ako 10 MB, Asistent pre spravované priečinky automaticky nespracováva poštovú schránku.
-  
+ 
+Ďalšie informácie o politiky uchovávania údajov v službe Exchange Admin Center, nájdete:
+- [Značky uchovávania údajov a politiky uchovávania údajov](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Uplatniť politiku uchovávania údajov poštových schránok](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Pridanie alebo odstránenie značky uchovávania údajov](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Ako zistiť typ hold umiestnené na poštovú schránku](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
