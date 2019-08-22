@@ -13,14 +13,14 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 133cf9ba507e551d00a3f109f7e3ef7bddc7abed
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537365"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a>Zmeniť jazyk, dátum a čas formát alebo časové pásmo
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Zmeniť jazyk, dátum a čas formát alebo časové pásmo v službe Outlook.com
 
 1. Otvoriť svoje [jazyka a nastavenie času](https://go.microsoft.com/fwlink/?linkid=2085505).
 1. Vyberte jazyk, formát dátumu, formát èasu a časové pásmo, ktoré chcete použiť.

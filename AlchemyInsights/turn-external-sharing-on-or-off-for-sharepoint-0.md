@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: ff481944428f2a67dd4f72b91212db7c33f53632
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de91c62ad894ac247d6c2a40c3fa745972ce42da
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389973"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533261"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Zapnúť externé, Zapnutie alebo vypnutie zdieľania pre SharePoint
 
-1. Microsoft 365 admin Center, prejdite na [služby &amp; pridať-ins stránku](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), a kliknite na tlačidlo **lokality**.
+1. Microsoft 365 admin Center, prejdite na **nastavenia** >[služby &amp; pridať-ins stránku](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), a vyberte položku **SharePoint**.
     
 2. Zapnúť nastavenie alebo vypnúť, alebo vyberte možnosť zdieľania, ak je zapnutý.
     
 > [!NOTE]
-> Vypnutie zdieľania pre SharePoint, vypne OneDrive. Povoliť externé zdieľanie na každom mieste, nastavenie celej organizácie musí byť na. > povoliť externé zdieľanie pre OneDrive alebo akékoľvek jednotlivé lokality SharePoint, musíte zapnúť ju celú organizáciu služby SharePoint. Môžete potom vypnúť to pre určité kolekcie lokality. Spravovať externé nastavenia zdieľania pre komunikačné stránky a stránky, ktoré patria do skupiny Office 365, musíte použiť novú SharePoint admin center alebo PowerShell. Ďalšie informácie o spravovaní externých zdieľanie nastavení, nájdete [Zapnúť externé, Zapnutie alebo vypnutie zdieľania](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Vypnutie zdieľania pre SharePoint, vypne OneDrive. Povoliť externé zdieľanie na každom mieste, nastavenie celej organizácie musí byť na. Povoliť externé zdieľanie pre OneDrive alebo akékoľvek jednotlivé lokality SharePoint, musíte zapnúť ju celú organizáciu služby SharePoint. Môžete potom vypnúť to pre určité kolekcie lokality. Spravovať externé nastavenia zdieľania pre komunikačné stránky a stránky, ktoré patria do skupiny Office 365, musíte použiť novú SharePoint admin center alebo PowerShell. Ďalšie informácie o spravovaní externých zdieľanie nastavení, nájdete [Zapnúť externé, Zapnutie alebo vypnutie zdieľania](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Ďalšie informácie o externých zdieľanie v službe SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

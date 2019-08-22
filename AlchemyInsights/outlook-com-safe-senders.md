@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35602014"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535370"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Stop správy od cesty do priečinka nevyžiadanej pošty
 
-Tam sú časy, keď nechcete správ od konkrétnej osoby alebo doménu skončí v priečinku Nevyžiadaná pošta. Správy z adries alebo z domén v zozname dôveryhodných odosielateľov, nebude sa premiestnili do priečinka nevyžiadanej pošty.
+Tam sú časy, keď nechcete správ od konkrétnej osoby alebo doménu skončí v priečinku Nevyžiadaná pošta v službe Outlook.com. Správy z adries alebo z domén v zozname dôveryhodných odosielateľov, nebude sa premiestnili do priečinka nevyžiadanej pošty.
 
 1. Otvoriť [nastavenia bezpečných odosielateľov](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. Podľa **dôveryhodných odosielateľov a domén**, zadajte e-mailovú adresu alebo doménu, ktorú chcete pridať, a vyberte **Pridať**.

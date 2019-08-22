@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: ce74fa1ae968daf98d8bc9fbdf914d948ee7770b
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: b97c6eaaece5958e3c043551584625d365e59c24
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36048903"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535888"
 ---
-# <a name="permanently-delete-email"></a>Natrvalo odstrániť e-mailovú
+# <a name="permanently-delete-email-in-outlookcom"></a>Natrvalo odstrániť e-mail v službe Outlook.com
 
 Ak chcete vymazať e-mail alebo vyprázdnenie priečinka doručenej pošty:
 

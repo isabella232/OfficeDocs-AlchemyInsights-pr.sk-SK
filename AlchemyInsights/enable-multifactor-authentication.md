@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403690"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527486"
 ---
 # <a name="enable-multi-factor-authentication"></a>Povoliť viaczložkovú autentifikáciu
 
-1. Prejdite na **užívateľov** \> **aktívnych používateľov**
+Povoliť viacnásobné overovanie Microsoft 365 admin Center:
+
+1. Prejsť na **užívateľov** \> **aktívnych používateľov** stránky.
     
-2. Kliknite na položku **Ďalšie** \> **nastavenia Azure viacnásobné auth.**. 
+2. V hornej časti stránky, vyberte **viacnásobné overovanie**. 
     
-3. Nájsť používateľa alebo používateľov, ktoré chcete zapnúť pre MZV. Ak chcete zobraziť všetkých používateľov, potrebujete zmeniť viacnásobné auth. status zobraziť navrchu.
+3. Nájsť používateľa alebo používateľov, ktorí chcete povoliť viacnásobné overovanie. Vidieť všetkých užívateľov, budete musieť zmeniť filter **stavu viacnásobné auth.** navrchu.
     
 4. Začiarknite políčko vedľa používateľov, ktoré chcete zapnúť.
     
-5.  Na table informácie správne užívateľa pod **rýchlymi krokmi** uvidíte zapnúť a spravovať užívateľské nastavenia. Vyberte **Povoliť**. 
+5.  V informačnom okne správne užívateľa, pod **rýchle kroky**, vyberte **Povoliť**. 
     
-6. V dialógovom okne, ktoré otvorí, **kliknite na položku Povoliť viacnásobné auth.**. 
+6. V dialógovom okne, ktoré sa otvorí, vyberte voľbu **Povoliť viacnásobné auth.**. 
     
 
