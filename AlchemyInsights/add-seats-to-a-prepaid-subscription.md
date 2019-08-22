@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385627"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495046"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Pridať miest na predplatené prihlásenie na odber
 
-1. Admin Center, prejdite na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky.
+Predplatený Office 365 licencie sú vydávané ako 25-miestny alfanumerický kód. Po zakúpení licencie, ktoré potrebujete, môžete ich pridať do svojho predplatného. 
 
-2. Vyberte predplatené predplatné, ktoré by ste chceli pridať používateľov.
+1. Admin Center, prejdite na **fakturačné** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
 
-3. V ponuke **Ďalšie akcie** , vyberte **obnoviť alebo pridať licenčné token**.
+2. Nájdite predplatné, ktoré chcete pridať licencie. Vyberte položku **Ďalšie akcie** rozbaľovacieho zoznamu a potom vyberte **obnoviť alebo pridať licenčné token**.
 
-4. Vyberte možnosť **nové a nepoužívané produktu kľúč** . (Ak bol tento odber vytvorený s kódom product key zakúpené v maloobchodných predajniach, budete mať možnosť pridať používateľov s iné platobné metódy.)
+3. Na **obnoviť alebo pridať používateľské licencie na** stránke, **použiť nový a nepoužitý výrobok kľúč**vyberte **ďalší**.
 
-5. Vybrať **ďalší**.
+4. Zadajte kód product key a potom vybrať **ďalšiu**.
 
-6. Zadajte kód product key a potom vybrať **ďalšiu**.
+    > [!NOTE]
+    > Ak máte viac ako jeden kód product key, mô ete **pridať ďalší kód product key** zadať.
 
-7. Vyberte možnosť pridať viac používateľov, vyberte **Ďalšie**, potom vyberte položku **uplatniť**.
+5. Vyberte pridať používateľov do predplatného a potom vyberte **Ďalšie**.
 
-Používate nový admin center? Nový postup nájdete v časti [Pridanie licencií alebo predĺžiť predplatné zaplatené pomocou kódu product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Skontrolujte Podrobnosti objednávky a potom vyberte položku **uplatniť**.
+
+Ďalšie informácie nájdete v téme [Pridať licencie na alebo predĺžiť predplatné zaplatené pomocou kódu product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
