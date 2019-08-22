@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 1313c16454bd23c245d971963bbfab1fc3fa224a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375048"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536990"
 ---
-# <a name="facebook-notifications"></a>Facebook oznámenie
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook upozornenia pomocou služby Outlook.com
 
 Ak nechcete na prijímanie oznámení z Facebooku, môžete zmeniť váš [Facebook nastavenia](https://www.facebook.com/settings?tab=notifications) alebo nastaviť pravidlo pre doručenú poštu.
 

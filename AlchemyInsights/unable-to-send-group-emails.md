@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: 595ed7b6cd27261de82e6d0a96a985a19383f4d3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423882"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533390"
 ---
 # <a name="unable-to-send-group-emails"></a>Nie je možné poslať skupine e-mailov
 
-Ak ste schopný odosielať e-mailové zoznamy kontaktov alebo skupín kontaktov, skúste vykonať nasledovné kroky:
+Ak ste schopný odosielať e-mailové zoznamy kontaktov alebo kontaktov v službe Outlook.com, skúste vykonať nasledovné kroky:
   
 1. Používanie služby Outlook.com beta. Ďalšie informácie nájdete [Ďalšie informácie o službe Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     

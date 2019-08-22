@@ -14,16 +14,16 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 5074cadecea9ea66367e3ddbcddc73ec182d7250
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366476"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533138"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>Nepodarilo sa odstrániť fotografie zo súborov
 
-Odstrániť súbory alebo fotografie:
+Ak chcete odstrániť fotografie zo súborov v službe Outlook.com:
   
 1. Prejsť do priečinka **Doručená pošta** alebo **Odoslaná pošta** a odstráňte e-mailové správy sú pripojené k.
 
