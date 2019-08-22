@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 8b54e5449ed0726170393916df58722bfabc1129
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379080"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522194"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nové etikety uchovávania údajov automaticky vytvorí
 
-Môžete vidieť [tri nové menovky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automaticky vytvorí vo vašej organizácii podľa **značiek uchovávania údajov** bezpečnosti alebo dodržiavania admin Center. Značka mená sú:
+Môžete vidieť [tri nové menovky Office 365 uchovávania](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automaticky vytvorí vo vašej organizácii podľa **značiek uchovávania údajov** bezpečnosti alebo dodržiavania admin Center. Značka mená sú:
 
 - Operačný postup
 - Všeobecné obchodné

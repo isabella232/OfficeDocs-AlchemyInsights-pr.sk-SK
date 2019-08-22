@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 3a0b1c52c54773d51467c6c427374c9270ac6938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389119"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523094"
 ---
 # <a name="help-understanding-your-bill"></a>Pomôcť pochopiť váš účet
 
-Účtovaná suma odráža licencia cena vynásobí počet zakúpených licencií a akékoľvek požadované dane/poplatky.
+Nadrozmernú služieb Office 365 pre podniky predplatné odráža licencia cena vynásobí počet zakúpených licencií a akékoľvek požadované dane/poplatky.
   
-Ak účtovaná suma sa líši, potom očakáva, že existuje niekoľko dôvodov, to sa môže stať:
+Ak účtovaná suma odlišná potom očakáva, sa môže to mať niekoľko príčin:
   
-- Licencie pridaný alebo odstránený z prihlásenia na odber. Keď licencie sú zmenené strednodobé, prejavuje sa v nasledujúcej faktúre. Môžete vidieť úveru a znovu bill za predchádzajúce obdobie služby na účte za túto zmenu.
+- Licencie boli pridané alebo odstránené z vášho predplatného. Keď licencie sú zmenené strednodobé, prejavuje sa v nasledujúcej faktúre. Môžete vidieť úveru a znovu bill za predchádzajúce obdobie služby na účte za túto zmenu.
 
 - Predplatné bola zrušená. Faktúru obdržíte po zrušení s nedoplatkom mínus všetky kredity.
 
 - Prihlásenie na odber obnoviť nový termín a cena licencie zmenil.
 
-Ďalšie informácie o faktúre, pozri: [rozumiem vašej faktúry](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Ďalšie informácie o vašej faktúre, pozri: [rozumiem vašej faktúry](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

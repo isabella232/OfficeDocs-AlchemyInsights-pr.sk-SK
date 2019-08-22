@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385412"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522518"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Priradenie licencie Office pre Mac užívateľov
 
-- Microsoft 365 admin Center, prejdite na stránku [aktívnych používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822) alebo **používateľom** \> **aktívnych používateľov**.
+1. Admin Center, prejdite na **užívateľov** \> [aktívnych používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822) stránky.
 
-- Začiarknite políčko vedľa mena používateľa, ktorému chcete priradiť licenciu.
+2. Vyberte meno používateľa, ktorému chcete priradiť, zmeniť alebo odstrániť licencia.
 
-- Vpravo v riadku **licencie produktov** vyberte **Upraviť**.
+3. Na karte **licencie a aplikácie** vyberte licenciu, ktorý chcete priradiť tomuto používateľovi.
 
-- Na table s **licenciu na produkt**prepnite prepínač do polohy **na** licencie, ktoré chcete prideliť tomuto používateľovi.
+    V predvolenom nastavení, všetky služby spojené s touto licenciou sú automaticky priradené používateľovi. Obmedziť, ktoré služby sú k dispozícii užívateľovi, zrušte začiarknutie políčka pre služby, ktoré nechcete, aby používateľ majú.
 
-- V dolnej časti tably **licencie produktov** , vyberte **Uložiť** \> **blízko** \> **blízko**.
+4. V dolnej table, vyberte **Uložiť zmeny**.
 
 Ďalšie informácie: [Priradenie licencie pre používateľov balíka Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
