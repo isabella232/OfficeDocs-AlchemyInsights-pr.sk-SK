@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398833"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495226"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="229e2-102">Pridať skupinu lokality SharePoint</span><span class="sxs-lookup"><span data-stu-id="229e2-102">Add a group to a SharePoint site</span></span>
+# <a name="add-a-group-to-a-sharepoint-site"></a><span data-ttu-id="a43d8-102">Pridať skupinu lokality SharePoint</span><span class="sxs-lookup"><span data-stu-id="a43d8-102">Add a group to a SharePoint site</span></span>
 
-<span data-ttu-id="229e2-103">Niektoré lokality SharePoint team (vrátane tých, ktoré sú vytvorené v Microsoft Teams) sú riadené vlastníkov skupiny Office 365.</span><span class="sxs-lookup"><span data-stu-id="229e2-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners.</span></span> <span data-ttu-id="229e2-104">Lokality SharePoint a obsah môžu byť tiež zdieľané s Office 365 skupiny a skupiny lokality SharePoint.</span><span class="sxs-lookup"><span data-stu-id="229e2-104">SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="229e2-105">Skupina SharePoint je kolekcia používateľov, ktorí majú rovnakú sadu oprávnenie k lokalitám a k obsahu.</span><span class="sxs-lookup"><span data-stu-id="229e2-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="229e2-106">Klasické weby, odporúčame použiť skupiny pohodlne priradiť rovnakú úroveň povolení veľa ľudí naraz, skôr ako priradenie povolenia jednou osobou v čase.</span><span class="sxs-lookup"><span data-stu-id="229e2-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
+<span data-ttu-id="a43d8-103">Niektoré lokality SharePoint team (vrátane tých, ktoré sú vytvorené v Microsoft Teams) sú riadené vlastníkov skupiny Office 365.</span><span class="sxs-lookup"><span data-stu-id="a43d8-103">Some SharePoint team sites (including those created in Microsoft Teams) are managed by Office 365 group owners.</span></span> <span data-ttu-id="a43d8-104">Lokality SharePoint a obsah môžu byť tiež zdieľané s Office 365 skupiny a skupiny lokality SharePoint.</span><span class="sxs-lookup"><span data-stu-id="a43d8-104">SharePoint sites and content can also be shared with Office 365 groups, and with SharePoint groups.</span></span> <span data-ttu-id="a43d8-105">Skupina SharePoint je kolekcia používateľov, ktorí majú rovnakú sadu oprávnenie k lokalitám a k obsahu.</span><span class="sxs-lookup"><span data-stu-id="a43d8-105">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="a43d8-106">Klasické weby, odporúčame použiť skupiny pohodlne priradiť rovnakú úroveň povolení veľa ľudí naraz, skôr ako priradenie povolenia jednou osobou v čase.</span><span class="sxs-lookup"><span data-stu-id="a43d8-106">For classic sites, we recommend that you use groups to conveniently assign the same permission level to many people at once rather than assigning permissions one person at a time.</span></span>
   
-<span data-ttu-id="229e2-107">Spravovať členov skupiny Office 365:</span><span class="sxs-lookup"><span data-stu-id="229e2-107">Manage Office 365 group members:</span></span>
+<span data-ttu-id="a43d8-107">Spravovať členov skupiny Office 365:</span><span class="sxs-lookup"><span data-stu-id="a43d8-107">Manage Office 365 group members:</span></span>
   
-1. <span data-ttu-id="229e2-108">Prejdite na [stránku skupiny Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="229e2-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="a43d8-108">Prejdite na [stránku skupiny Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="a43d8-108">Go to the [Groups page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="229e2-109">Vyberte skupinu pre zobrazenie svojich majiteľov a členov.</span><span class="sxs-lookup"><span data-stu-id="229e2-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="229e2-110">Pridanie alebo odstránenie ľudí, kliknite na odkaz **Upraviť** v riadku **prevádzkovateľom** alebo **spoločníkmi** .</span><span class="sxs-lookup"><span data-stu-id="229e2-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
+2. <span data-ttu-id="a43d8-109">Vyberte skupinu pre zobrazenie svojich majiteľov a členov.</span><span class="sxs-lookup"><span data-stu-id="a43d8-109">Select a group to see its owners and members.</span></span> <span data-ttu-id="a43d8-110">Pridanie alebo odstránenie ľudí, kliknite na odkaz **Upraviť** v riadku **prevádzkovateľom** alebo **spoločníkmi** .</span><span class="sxs-lookup"><span data-stu-id="a43d8-110">To add or remove people, click the **Edit** link in the **Owners** or **Members** row.</span></span> 
     
-<span data-ttu-id="229e2-111">Komunikácia stránky zdieľať s skupiny Office 365:</span><span class="sxs-lookup"><span data-stu-id="229e2-111">Share a communication site with an Office 365 group:</span></span>
+<span data-ttu-id="a43d8-111">Komunikácia stránky zdieľať s skupiny Office 365:</span><span class="sxs-lookup"><span data-stu-id="a43d8-111">Share a communication site with an Office 365 group:</span></span>
   
-1. <span data-ttu-id="229e2-112">Prejdite na lokalitu v prehľadávači a v pravom hornom rohu kliknite na položku **Share site** .</span><span class="sxs-lookup"><span data-stu-id="229e2-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
+1. <span data-ttu-id="a43d8-112">Prejdite na lokalitu v prehľadávači a v pravom hornom rohu kliknite na položku **Share site** .</span><span class="sxs-lookup"><span data-stu-id="a43d8-112">Go to the site in a browser and click **Share site** in the upper right.</span></span> 
     
-2. <span data-ttu-id="229e2-113">Zadajte názov skupiny a potom vyberte úroveň povolenia (čítanie, upraviť alebo úplné ovládanie).</span><span class="sxs-lookup"><span data-stu-id="229e2-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
+2. <span data-ttu-id="a43d8-113">Zadajte názov skupiny a potom vyberte úroveň povolenia (čítanie, upraviť alebo úplné ovládanie).</span><span class="sxs-lookup"><span data-stu-id="a43d8-113">Enter the group name, and then select the permission level (Read, Edit, or Full Control).</span></span>
     
-<span data-ttu-id="229e2-114">Vytvoriť skupinu SharePoint používať s klasické miesto:</span><span class="sxs-lookup"><span data-stu-id="229e2-114">Create a SharePoint group to use with a classic site:</span></span>
+<span data-ttu-id="a43d8-114">Vytvoriť skupinu SharePoint používať s klasické miesto:</span><span class="sxs-lookup"><span data-stu-id="a43d8-114">Create a SharePoint group to use with a classic site:</span></span>
   
-1. <span data-ttu-id="229e2-115">Prejdite na lokalitu v prehľadávači a kliknite na ikonu nastavenia v pravom hornom rohu.</span><span class="sxs-lookup"><span data-stu-id="229e2-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
+1. <span data-ttu-id="a43d8-115">Prejdite na lokalitu v prehľadávači a kliknite na ikonu nastavenia v pravom hornom rohu.</span><span class="sxs-lookup"><span data-stu-id="a43d8-115">Go to the site in a browser and click the Settings icon in the upper right.</span></span>
     
-2. <span data-ttu-id="229e2-116">Kliknite na položku **Nastavenie lokality**a potom v časti **Používatelia a povolenia**, kliknite na položku **povolenia pre lokalitu**.</span><span class="sxs-lookup"><span data-stu-id="229e2-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
+2. <span data-ttu-id="a43d8-116">Kliknite na položku **Nastavenie lokality**a potom v časti **Používatelia a povolenia**, kliknite na položku **povolenia pre lokalitu**.</span><span class="sxs-lookup"><span data-stu-id="a43d8-116">Click **Site settings**, and then under **Users and Permissions**, click **Site permissions**.</span></span>
     
-3. <span data-ttu-id="229e2-117">Na povolenia karte, kliknite na položku **Vytvoriť skupinu**.</span><span class="sxs-lookup"><span data-stu-id="229e2-117">On the Permissions tab, click **Create Group**.</span></span>
+3. <span data-ttu-id="a43d8-117">Na povolenia karte, kliknite na položku **Vytvoriť skupinu**.</span><span class="sxs-lookup"><span data-stu-id="a43d8-117">On the Permissions tab, click **Create Group**.</span></span>
     
-[<span data-ttu-id="229e2-118">Pripojenie klasickej tímovej lokality do novej skupiny Office 365</span><span class="sxs-lookup"><span data-stu-id="229e2-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
+[<span data-ttu-id="a43d8-118">Pripojenie klasickej tímovej lokality do novej skupiny Office 365</span><span class="sxs-lookup"><span data-stu-id="a43d8-118">Connect a classic team site to a new Office 365 group</span></span>](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[<span data-ttu-id="229e2-119">Ďalšie informácie o používaní skupín SharePoint</span><span class="sxs-lookup"><span data-stu-id="229e2-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
+[<span data-ttu-id="a43d8-119">Ďalšie informácie o používaní skupín SharePoint</span><span class="sxs-lookup"><span data-stu-id="a43d8-119">Learn more about working with SharePoint groups</span></span>](https://go.microsoft.com/fwlink/?linkid=874658)
   
 
