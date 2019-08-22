@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270759"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501094"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap vaše klasickej koreňovej lokality s moderný web
 
 Ak vaše prostredie bola zriadená pred máj 2019, môžete zmeniť koreňovou lokalitou na moderné stránky pomocou Microsoft PowerShell:
 
 - Ak máte rôzne stránky, ktoré chcete použiť ako koreňovú lokalitu, môžete nahradiť (swap) koreň mieste s ním. 
-    - Pomocou [Invoke SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) swap umiestnenie lokality s ďalším mieste počas archivácie pôvodnej lokality. K dispozícii pre tím stránky (nie je pripojený k skupine) a komunikácie miesto. 
+    - Pomocou [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) swap umiestnenie lokality s ďalším mieste počas archivácie pôvodnej lokality. K dispozícii pre tím stránky (nie je pripojený k skupine) a komunikácie miesto. 
 
 - Ďalšie možnosti budú zavedené čoskoro ktoré vám umožní používať obsah na webe, ale prevod existujúcej lokality na lokalitu komunikácie. 
 >[!Important]

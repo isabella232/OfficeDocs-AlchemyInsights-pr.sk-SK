@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059267"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507646"
 ---
-# <a name="search-in-sharepoint-online"></a>Vyhľadávanie v službe SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Prehľadávanie obsahu a indexovanie v SharePoint Online
 
 Obsah musí prechádzať a pridali do vyhľadávacieho indexu užívateľom nájsť, čo hľadajú v SharePoint Online. Automaticky prehľadávania obsahu založené na vopred definovaných crawl plán (plán prehľadávania obsahu nie je možné zmeniť). Modul na prehľadávanie obsahu sa zdvihne obsah, ktorý sa zmenil od posledného prehľadávania a aktualizuje register. Na zabezpečenie prehľadávania obsahu a aktualizácia registra prebieha, uvedomte si nasledovné:
 
@@ -30,7 +30,8 @@ Obsah musí prechádzať a pridali do vyhľadávacieho indexu užívateľom náj
 
     Ak od uskutočnenia prehľadávania obsahu a plnej preindexovania spracoval uplynulo viac ako 24 hodín, prihláste sa podpory prípadu. V mnohých prípadoch už pracujeme na riešení. Prosím, dajte nám aspoň 24 hodín na kompletné riešenie.
 
->[! Dôležité!]: Ak stránky, dokumentu (Knižnica) alebo zoznam bol odstránený a stále ukazuje vo výsledkoch vyhľadávania, používatelia by mali dostávať **Chyba 404 súbor nebol nájdený** pri pokuse o prístup. Tento problém sa zapíšu ako prípad pre ďalšie vyšetrovanie. 
+> [!IMPORTANT]
+> Ak lokalitu, dokument (Knižnica) alebo zoznam bol odstránený a stále zobrazuje vo výsledkoch vyhľadávania, používatelia by mali dostávať **Chyba 404 súbor nebol nájdený** pri pokuse o prístup. Tento problém sa zapíšu ako prípad pre ďalšie vyšetrovanie. 
 
 
 

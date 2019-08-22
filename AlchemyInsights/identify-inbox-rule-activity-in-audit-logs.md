@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383040"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539188"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Doručená pošta pravidlo aktivitu v denníkoch auditu určiť
 
-Vyhľadávanie denník auditu v & zabezpečenia súladu centra môžete zobraziť priečinok Doručená pošta pravidlo akcie (vytváranie, úpravu a odstránenie pravidiel pre doručenú poštu).
+Vyhľadávanie denník auditu v Office 365 zabezpečenia & centrum súladu môžete zobraziť priečinok Doručená pošta pravidlo akcie (vytváranie, úpravu a odstránenie pravidiel pre doručenú poštu).
 
-1. Prihláste sa do [Centrum Office 365 zabezpečenia & súlad](https://protection.office.com/)
+1. Prihláste sa do [Centrum Office 365 zabezpečenia & súladu](https://protection.office.com/).
 
-2. Kliknite na položku **vyhľadávanie a vyšetrovanie** a vyberte **Vyhľadávanie denník auditu**.
+2. Prejdite na **vyhľadávanie** > stránka**vyhľadávanie denník auditu** .
 
 3. Vyberte rozsah dátumov v poliach **Počiatočný dátum** a **Koncový dátum** .
 
