@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 8c0ab0086ca47ead5705d423f01824081d0e109e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755346"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523994"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>TenantAccessBlockedException chyba zobrazuje pri prístupe k e-mailu?
 
 Existuje niekoľko rôznych dôvodov, prečo dostávate túto chybu. Napríklad:
 
-- Skontrolujte, či vaše predplatné platné **fakturačné** \> **predplatné** stránky [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/subscriptions).
+- Skontrolujte, či vaše predplatné platné **fakturačné** \> [produktov & služby](https://portal.office.com/adminportal/home#/subscriptions) stránku Microsoft 365 admin Center.
 
-- Vyhľadať všetky oznámenia vo **fakturácii** \> **účty** stránku [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/billoverview).
+- Skontrolovať všetky upozornenia na **fakturačné** \> [poukážky & platby](https://portal.office.com/adminportal/home#/billoverview) stránky Microsoft 365 admin Center.
 
 - Ak boli nedávno aktualizované Fakturácia a predplatné v konte, môže trvať čas pre zmeny propagovať. Skúste znova o niekoľko minút, a ak problém pretrváva, kontaktujte nás.

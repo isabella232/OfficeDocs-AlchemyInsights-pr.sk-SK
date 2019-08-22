@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405823"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514155"
 ---
 # <a name="delete-a-communication-site"></a>Odstránenie lokality oznámení
 
@@ -25,14 +25,12 @@ Odstránenie lokality oznámení, vykonajte nasledovné kroky:
   
 3. V časti **Informácie o stránkach**, kliknite na položku **odstrániť túto lokalitu**a potom kliknite na tlačidlo **odstrániť**. 
   
-Správcovia môžete odstrániť lokalitu komunikáciu moderné Admin Center pomocou nasledujúcich krokov: 
+Správcovia môžete tiež odstrániť lokalitu komunikácie z novej admin center pomocou nasledujúcich krokov: 
   
-1. Skúste nový Admin Center kliknutím na tlačidlo **skúste teraz** v pravom hornom rohu. 
+1. Vľavo vyberte **aktívnymi lokalitami** . 
   
-2. Vyberte **aktívnymi lokalitami**. 
+2. Kliknite vedľa miesta odstrániť a **odstrániť** možnosť sa zobrazí v hornom menu. 
   
-3. Kliknite vedľa miesta odstrániť a **odstrániť** možnosť sa zobrazí v hornom menu. 
-  
- **Poznámka:** Ak chcete natrvalo odstrániť lokalitu komunikácie (odstránením z koša) tak vám umožňuje znova použiť adresu URL, použite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) hodnotiť koša a [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) odstrániť stránky z koša. 
+ **Poznámka:** Ak chcete natrvalo odstrániť lokalitu komunikácie (odstránením z koša) tak vám umožňuje znova použiť adresu URL, použite [Get-SPODeletedSiteSharePoint](https://aka.ms/Get-SPODeletedSite) hodnotiť Kôš a [Odstrániť SPODeletedSiteSharePoint](https://aka.ms/Remove-SPODeletedSite) odstrániť stránky z koša. 
   
 

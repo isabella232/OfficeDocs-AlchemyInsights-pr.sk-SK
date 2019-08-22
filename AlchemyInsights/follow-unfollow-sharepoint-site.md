@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222755"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524606"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Nasledovať alebo un-nasledovať lokality SharePoint
 
 Existuje niekoľko spôsobov, ako sledovať stránky, ktoré vás zaujíma v službe SharePoint. Umožňujú ľahko nájsť stránky do zoznamu a umožní vidieť aktivitu z lokality. 
 
-Pozrite si video a [postupujte podľa lokality SharePoint](https://support.office.com/en-us/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Pozrite si video a [postupujte podľa lokality SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
 
 Ak ste schopní nasledovať alebo un-nasledovať stránky a cítiť výsledky nie sú, čo sa očakáva, nájdete, ak problém súvisí s jedného používateľa alebo všetci používatelia vo vašej organizácii. Ak problém sa stretli všetci používatelia, môže byť problém pri dočasnej služby. 
 
