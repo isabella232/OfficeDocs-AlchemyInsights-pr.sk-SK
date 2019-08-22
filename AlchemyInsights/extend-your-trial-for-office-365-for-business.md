@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389047"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526154"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Predĺženie skúšobnej verzie služieb Office 365 for Business
 
@@ -32,4 +32,4 @@ Ak vaše hodnotenie predplatné je do 15 dní od končí a súdnom konaní nebol
 
 4. Budete musieť poskytnúť informácie o kreditnej karte na predĺženie skúšobnej verzie. Neúčtujeme kreditnej karty skúšobnej rozšírenie.
 
-Ďalšie informácie o rozšírení štúdií alebo podrobné pokyny, pozri [predĺženie skúšobnej verzie služieb Office 365 pre podniky](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+Ďalšie informácie o rozšírení štúdií alebo podrobné pokyny, pozri [predĺženie skúšobnej verzie služieb Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

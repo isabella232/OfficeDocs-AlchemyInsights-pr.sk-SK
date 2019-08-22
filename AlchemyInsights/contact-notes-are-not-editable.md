@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: af8f9af14e9c4689aae4b904f1a377596624bd79
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9eedb99b9a615f329c83ed17102f650b726ff367
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364064"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516993"
 ---
 # <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nemôžete upraviť pole poznámky kontaktu programu Outlook
 
