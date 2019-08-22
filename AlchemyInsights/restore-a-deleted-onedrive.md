@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: cd40d53606d857eee3a02277b7c1266e0e15f28e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 80582bdcc38a92f85282826aa63822ddf0cb1994
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422442"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509340"
 ---
-# <a name="restore-a-deleted-onedrive"></a><span data-ttu-id="270e7-102">Obnovenie odstránených OneDrive</span><span class="sxs-lookup"><span data-stu-id="270e7-102">Restore a deleted OneDrive</span></span>
+# <a name="restore-a-deleted-onedrive"></a><span data-ttu-id="15c9a-102">Obnovenie odstránených OneDrive</span><span class="sxs-lookup"><span data-stu-id="15c9a-102">Restore a deleted OneDrive</span></span>
 
-<span data-ttu-id="270e7-103">Po odstránení používateľa, môžete pristupovať používateľa OneDrive pomocou Microsoft 365 admin center na 30 dní.</span><span class="sxs-lookup"><span data-stu-id="270e7-103">After you delete a user, you can access the user's OneDrive through the Microsoft 365 admin center for 30 days.</span></span> <span data-ttu-id="270e7-104">Ostatní používatelia môžu naďalej prístup k zdieľaný obsah OneDrive čas ste nastavili OneDrive admin Center.</span><span class="sxs-lookup"><span data-stu-id="270e7-104">Other users can continue to access shared content in the OneDrive for the length of time you've set in the OneDrive admin center.</span></span> <span data-ttu-id="270e7-105">(A Naučte sa nastaviť, pozri [nastaviť predvolené súbor uchovávanie odstránených OneDrive používateľov](https://go.microsoft.com/fwlink/?linkid=874267).) Po tejto dobe OneDrive je presunutý do koša pre 93 dní a potom sa odstráni.</span><span class="sxs-lookup"><span data-stu-id="270e7-105">(To learn how to set this, see [Set the default file retention for deleted OneDrive users](https://go.microsoft.com/fwlink/?linkid=874267).) After that time, the OneDrive is moved to the recycle bin for 93 days, and then it's deleted.</span></span>
+<span data-ttu-id="15c9a-103">Po odstránení používateľa, môžete pristupovať používateľa OneDrive pomocou Microsoft 365 admin center na 30 dní.</span><span class="sxs-lookup"><span data-stu-id="15c9a-103">After you delete a user, you can access the user's OneDrive through the Microsoft 365 admin center for 30 days.</span></span> <span data-ttu-id="15c9a-104">Ostatní používatelia môžu naďalej prístup k zdieľaný obsah OneDrive čas ste nastavili OneDrive admin Center.</span><span class="sxs-lookup"><span data-stu-id="15c9a-104">Other users can continue to access shared content in the OneDrive for the length of time you've set in the OneDrive admin center.</span></span> <span data-ttu-id="15c9a-105">(A Naučte sa nastaviť, pozri [nastaviť predvolené súbor uchovávanie odstránených OneDrive používateľov](https://go.microsoft.com/fwlink/?linkid=874267).) Po tejto dobe OneDrive je presunutý do koša pre 93 dní a potom sa odstráni.</span><span class="sxs-lookup"><span data-stu-id="15c9a-105">(To learn how to set this, see [Set the default file retention for deleted OneDrive users](https://go.microsoft.com/fwlink/?linkid=874267).) After that time, the OneDrive is moved to the recycle bin for 93 days, and then it's deleted.</span></span>
   
-<span data-ttu-id="270e7-106">Po prvých 30 dní, keď odstránený používateľ sa objaví už Microsoft 365 admin Center, môžete pristupovať používateľa OneDrive pomocou prostredia PowerShell.</span><span class="sxs-lookup"><span data-stu-id="270e7-106">After the initial 30 days, when the deleted user no longer appears in the Microsoft 365 admin center, you can access the user's OneDrive through PowerShell.</span></span> <span data-ttu-id="270e7-107">Informácie nájdete v časti [Obnovenie odstránených OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span><span class="sxs-lookup"><span data-stu-id="270e7-107">For info, see [Restore a deleted OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span></span>
+<span data-ttu-id="15c9a-106">Po prvých 30 dní, keď odstránený používateľ sa objaví už Microsoft 365 admin Center, môžete pristupovať používateľa OneDrive pomocou prostredia PowerShell.</span><span class="sxs-lookup"><span data-stu-id="15c9a-106">After the initial 30 days, when the deleted user no longer appears in the Microsoft 365 admin center, you can access the user's OneDrive through PowerShell.</span></span> <span data-ttu-id="15c9a-107">Informácie nájdete v časti [Obnovenie odstránených OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span><span class="sxs-lookup"><span data-stu-id="15c9a-107">For info, see [Restore a deleted OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).</span></span>
   
 

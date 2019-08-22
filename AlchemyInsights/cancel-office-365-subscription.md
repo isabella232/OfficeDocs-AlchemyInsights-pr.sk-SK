@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386187"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494163"
 ---
-# <a name="cancelling-your-office-365-subscription"></a><span data-ttu-id="49f83-102">Zrušenie predplatného na Office 365?</span><span class="sxs-lookup"><span data-stu-id="49f83-102">Cancelling your Office 365 subscription?</span></span>
+# <a name="cancelling-your-office-365-subscription"></a><span data-ttu-id="a7a2e-102">Zrušenie predplatného na Office 365?</span><span class="sxs-lookup"><span data-stu-id="a7a2e-102">Cancelling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="49f83-103">Je nám ľúto vidieť ísť, ale tu sú vaše možnosti zrušiť predplatné:</span><span class="sxs-lookup"><span data-stu-id="49f83-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="a7a2e-103">Je nám ľúto vidieť ísť, ale tu sú vaše možnosti zrušiť predplatné:</span><span class="sxs-lookup"><span data-stu-id="a7a2e-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
   
-- <span data-ttu-id="49f83-104">Ak ste skúšobné zákazníkom, nie je nič zrušiť.</span><span class="sxs-lookup"><span data-stu-id="49f83-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="49f83-105">Skúšobné predplatné skončí automaticky, pokiaľ neposkytnete spôsob platby.</span><span class="sxs-lookup"><span data-stu-id="49f83-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="a7a2e-104">Ak ste skúšobné zákazníkom, nie je nič zrušiť.</span><span class="sxs-lookup"><span data-stu-id="a7a2e-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="a7a2e-105">Skúšobné predplatné skončí automaticky, pokiaľ neposkytnete spôsob platby.</span><span class="sxs-lookup"><span data-stu-id="a7a2e-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
 
-- <span data-ttu-id="49f83-106">Ak máte menej ako 25 pridelené licencie, môžete zrušiť svoje predplatné on-line.</span><span class="sxs-lookup"><span data-stu-id="49f83-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="49f83-107">Prejsť na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054)a potom vyberte **Ďalšie akcie** \> **zrušiť predplatné**.</span><span class="sxs-lookup"><span data-stu-id="49f83-107">Go to **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054), and then choose **More actions** \> **Cancel subscription**.</span></span>
+- <span data-ttu-id="a7a2e-106">Ak máte menej ako 25 pridelené licencie, môžete zrušiť svoje predplatné on-line.</span><span class="sxs-lookup"><span data-stu-id="a7a2e-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="a7a2e-107">Prejsť na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054)a potom vyberte **Ďalšie akcie** \> **zrušiť predplatné**.</span><span class="sxs-lookup"><span data-stu-id="a7a2e-107">Go to **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054), and then choose **More actions** \> **Cancel subscription**.</span></span>
 
-- <span data-ttu-id="49f83-108">Ak máte viac ako 25 priradených licencií, môžete buď odstrániť používateľov kým máte menej ako 25, alebo použite možnosť "Dajte nám zavolať", obráťte sa na pracovníka technickej podpory.</span><span class="sxs-lookup"><span data-stu-id="49f83-108">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
+- <span data-ttu-id="a7a2e-108">Ak máte viac ako 25 priradených licencií, môžete buď odstrániť používateľov kým máte menej ako 25, alebo použite možnosť "Dajte nám zavolať", obráťte sa na pracovníka technickej podpory.</span><span class="sxs-lookup"><span data-stu-id="a7a2e-108">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
 
-- <span data-ttu-id="49f83-109">Ďalšie informácie o zrušení predplatného alebo podrobné pokyny nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="49f83-109">To learn more about canceling a subscription, or for step-by-step instructions, see [Cancel your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+- <span data-ttu-id="a7a2e-109">Ďalšie informácie o zrušení predplatného alebo podrobné pokyny nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="a7a2e-109">To learn more about canceling a subscription, or for step-by-step instructions, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
