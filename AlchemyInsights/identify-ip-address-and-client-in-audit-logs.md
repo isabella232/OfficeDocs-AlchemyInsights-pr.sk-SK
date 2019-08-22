@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382968"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539044"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Určiť adresy IP a klient v denníkoch auditu
 
-Adresu IP, ktorá zodpovedá činnosť používateľa alebo správcu sa zobrazí denníky auditu. Informácie o klientovi je tiež prihlásený. Tu sú kroky na identifikáciu takýchto informácií
+Adresu IP, ktorá zodpovedá činnosti Office 365 používateľa alebo správcu je uvedený v denníkoch auditu. Informácie o klientovi je tiež prihlásený. Tu sú kroky na identifikáciu takýchto informácií
 
-1. Prihláste sa do [Centrum Office 365 zabezpečenia & súlad](https://protection.office.com/)
+1. Prihláste sa do [Centrum Office 365 zabezpečenia & súladu](https://protection.office.com/).
 
-2. Kliknite na položku **vyhľadávanie a vyšetrovanie** a vyberte **Vyhľadávanie denník auditu**.
+2. Prejdite na **vyhľadávanie** > stránka**vyhľadávanie denník auditu** .
 
    Ak máte záujem v konkrétnej činnosti, vyberte ho zo zoznamu **činností** . Ak nie, vrátia všetky aktivity pre vybratého používateľa (predvolené nastavenie).
 
