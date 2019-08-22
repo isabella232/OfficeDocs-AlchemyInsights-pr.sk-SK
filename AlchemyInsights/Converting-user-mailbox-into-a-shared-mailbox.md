@@ -9,13 +9,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
-ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ab34b8939b95b29bedb797f640dd744bc783adef
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374338"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496450"
 ---
+# <a name="convert-a-user-mail-box-into-a-shared-mailbox"></a>Konvertovať zdieľanú poštovú schránku používateľa e-mailovej schránky
+
 Poštovú schránku môžete preniesť len k zdieľanej schránke Ak používateľ nemá licenciu Exchange. Po skonvertovaní poštovej schránky sa bude naďalej zobrazovať v zozname aktívnych užívateľov, pretože tento zoznam obsahuje zdieľané poštové schránky. Však prevedený poštovej schránky sa tiež zobrazí v zozname zdieľanej poštovej schránky. 
   
 Ak sa pokúsite previesť poštovej schránky Exchange Admin konzoly a prevod zlyhá, vymažte vyrovnávaciu pamäť prehliadača a súbory cookie a skúste znova. Ak to stále nefunguje, skúste prevod poštovej schránky v prostredí Exchange Management Shell spustením nasledujúceho príkazu:
@@ -24,5 +26,5 @@ Ak sa pokúsite previesť poštovej schránky Exchange Admin konzoly a prevod zl
 Set-Mailbox -Type Shared
 ```
 
-Viac konverzií informácie poštovej schránky je k dispozícii v [prevod používateľa poštovej schránky zdieľanej poštovej schránke](https://support.office.com/client/2e122487-e1f5-4f26-ba41-5689249d93ba).
+Viac konverzií informácie poštovej schránky je k dispozícii v [prevod používateľa poštovej schránky zdieľanej poštovej schránke](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
   
