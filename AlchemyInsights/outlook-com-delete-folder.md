@@ -13,14 +13,14 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 64bfa0c25969f98eca254d9fc41dd8132cbe335a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 29720d7f8272afea488b807c76d268d67df8bbee
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375372"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546858"
 ---
-# <a name="delete-a-folder"></a>Odstránenie priečinka
+# <a name="delete-a-folder-in-outlookcom"></a>Odstrániť priečinok v službe Outlook.com
 
 1. Na ľavej table, kliknite pravým tlačidlom myši na priečinok alebo podpriečinok chcete zmazať a zvoľte **zmazať zložku**.
 2. Vyberte **OK** potvrďte.
