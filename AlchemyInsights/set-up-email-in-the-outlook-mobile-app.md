@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 168761c46cb7534d466664d6172c6e9f2ce74101
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355316"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509224"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="5151f-102">Nastavenie e-mailu v aplikácii Outlook mobilnej</span><span class="sxs-lookup"><span data-stu-id="5151f-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="98577-102">Nastavenie e-mailu v aplikácii Outlook mobilnej</span><span class="sxs-lookup"><span data-stu-id="98577-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="5151f-103">Vyberte **Začať** , ak je to po prvýkrát nastavujete email v mobilnej aplikácii.</span><span class="sxs-lookup"><span data-stu-id="5151f-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="5151f-104">Inak, ťuknite na položku **ponuka** a potom klepnite na položky **nastavenia** \> **Pridať účet** \> **Pridajte e-mailové konto**.</span><span class="sxs-lookup"><span data-stu-id="5151f-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
+1. <span data-ttu-id="98577-103">Vyberte **Začať** , ak je to po prvýkrát nastavujete email v mobilnej aplikácii.</span><span class="sxs-lookup"><span data-stu-id="98577-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="98577-104">Inak, ťuknite na položku **ponuka** a potom klepnite na položky **nastavenia** \> **Pridať účet** \> **Pridajte e-mailové konto**.</span><span class="sxs-lookup"><span data-stu-id="98577-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
-2. <span data-ttu-id="5151f-105">Zadajte svoju úplnú e-mailovú adresu a ťuknite na položku **pokračovať** alebo **Pridať konto**.</span><span class="sxs-lookup"><span data-stu-id="5151f-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="98577-105">Zadajte svoju úplnú e-mailovú adresu a ťuknite na položku **pokračovať** alebo **Pridať konto**.</span><span class="sxs-lookup"><span data-stu-id="98577-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
 
-3. <span data-ttu-id="5151f-106">Zadajte heslo konta e-mail a ťuknite na položku **Prihlásiť** alebo **Ďalšie**.</span><span class="sxs-lookup"><span data-stu-id="5151f-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+3. <span data-ttu-id="98577-106">Zadajte heslo konta e-mail a ťuknite na položku **Prihlásiť** alebo **Ďalšie**.</span><span class="sxs-lookup"><span data-stu-id="98577-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
 
-4. <span data-ttu-id="5151f-107">Ak je povolené [viacnásobné overovanie](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , overiť metódou nastavíte (6 číselný kód, telefonický hovor alebo aplikácie Microsoft Authenticator).</span><span class="sxs-lookup"><span data-stu-id="5151f-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+4. <span data-ttu-id="98577-107">Ak je povolené [viacnásobné overovanie](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , overiť metódou nastavíte (6 číselný kód, telefonický hovor alebo aplikácie Microsoft Authenticator).</span><span class="sxs-lookup"><span data-stu-id="98577-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
 
-5. <span data-ttu-id="5151f-108">Ak ďalšie IT admin politiky v miesto, ťuknite na položku **aktivovať** im.</span><span class="sxs-lookup"><span data-stu-id="5151f-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+5. <span data-ttu-id="98577-108">Ak ďalšie IT admin politiky v miesto, ťuknite na položku **aktivovať** im.</span><span class="sxs-lookup"><span data-stu-id="98577-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
 
-6. <span data-ttu-id="5151f-109">Program Outlook môže požadovať povolenie na prístup k kalendára, kontakty a iné informácie.</span><span class="sxs-lookup"><span data-stu-id="5151f-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="5151f-110">Vyberte **Áno** , alebo **Povoliť**.</span><span class="sxs-lookup"><span data-stu-id="5151f-110">Select **Yes** or **Allow**.</span></span>
+6. <span data-ttu-id="98577-109">Program Outlook môže požadovať povolenie na prístup k kalendára, kontakty a iné informácie.</span><span class="sxs-lookup"><span data-stu-id="98577-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="98577-110">Vyberte **Áno** , alebo **Povoliť**.</span><span class="sxs-lookup"><span data-stu-id="98577-110">Select **Yes** or **Allow**.</span></span>
 
-<span data-ttu-id="5151f-111">Získajte podrobné nastavenie tu pokyny pre [program Outlook pre iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) alebo [Outlook pre Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) .</span><span class="sxs-lookup"><span data-stu-id="5151f-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+<span data-ttu-id="98577-111">Získajte podrobné nastavenie tu pokyny pre [program Outlook pre iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) alebo [Outlook pre Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) .</span><span class="sxs-lookup"><span data-stu-id="98577-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
   
- <span data-ttu-id="5151f-112">**Potrebujete pomôcť?**</span><span class="sxs-lookup"><span data-stu-id="5151f-112">**Need help?**</span></span>
+ <span data-ttu-id="98577-112">**Potrebujete pomôcť?**</span><span class="sxs-lookup"><span data-stu-id="98577-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="5151f-113">Riešenie problémov s nastavenie e-mailu v mobile</span><span class="sxs-lookup"><span data-stu-id="5151f-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="98577-113">Riešenie problémov s nastavenie e-mailu v mobile</span><span class="sxs-lookup"><span data-stu-id="98577-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [<span data-ttu-id="5151f-114">Pomocník v aplikácii programu Outlook pre iOS a Android</span><span class="sxs-lookup"><span data-stu-id="5151f-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="98577-114">Pomocník v aplikácii programu Outlook pre iOS a Android</span><span class="sxs-lookup"><span data-stu-id="98577-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
