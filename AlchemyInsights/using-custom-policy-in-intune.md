@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: 300e2e90723ec4d46abeda1a4879e0577193ad05
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365932"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531770"
 ---
-# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="4ff42-102">Pomocou vlastné politiky v Intune</span><span class="sxs-lookup"><span data-stu-id="4ff42-102">Using custom policy in Intune</span></span>
+# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="51a3f-102">Pomocou vlastné politiky v Intune</span><span class="sxs-lookup"><span data-stu-id="51a3f-102">Using custom policy in Intune</span></span>
 
-<span data-ttu-id="4ff42-103">Intune má veľa vstavaný nastavenia pre zariadenia Android, iOS, macOS a Windows.</span><span class="sxs-lookup"><span data-stu-id="4ff42-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="4ff42-104">Môžete tiež vytvoriť vlastný profil a potom nasadiť tieto vlastné nastavenia vášho zariadenia pomocou Windows Intune.</span><span class="sxs-lookup"><span data-stu-id="4ff42-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="4ff42-105">Vlastné profily sú zamerané na pridanie zariadenia nastavenia a funkcie, ktoré nie sú postavené Intune.</span><span class="sxs-lookup"><span data-stu-id="4ff42-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
+<span data-ttu-id="51a3f-103">Intune má veľa vstavaný nastavenia pre zariadenia Android, iOS, macOS a Windows.</span><span class="sxs-lookup"><span data-stu-id="51a3f-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="51a3f-104">Môžete tiež vytvoriť vlastný profil a potom nasadiť tieto vlastné nastavenia vášho zariadenia pomocou Windows Intune.</span><span class="sxs-lookup"><span data-stu-id="51a3f-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="51a3f-105">Vlastné profily sú zamerané na pridanie zariadenia nastavenia a funkcie, ktoré nie sú postavené Intune.</span><span class="sxs-lookup"><span data-stu-id="51a3f-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
 
-[<span data-ttu-id="4ff42-106">Vlastné nastavenia pre Android zariadenia v Intune</span><span class="sxs-lookup"><span data-stu-id="4ff42-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
+[<span data-ttu-id="51a3f-106">Vlastné nastavenia pre Android zariadenia v Intune</span><span class="sxs-lookup"><span data-stu-id="51a3f-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
 
-[<span data-ttu-id="4ff42-107">Vlastné nastavenia pre zariadenia Android Enterprise Windows Intune</span><span class="sxs-lookup"><span data-stu-id="4ff42-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[<span data-ttu-id="51a3f-107">Vlastné nastavenia pre zariadenia Android Enterprise Windows Intune</span><span class="sxs-lookup"><span data-stu-id="51a3f-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[<span data-ttu-id="4ff42-108">Vlastné nastavenia pre zariadenia so systémom iOS v Intune</span><span class="sxs-lookup"><span data-stu-id="4ff42-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
+[<span data-ttu-id="51a3f-108">Vlastné nastavenia pre zariadenia so systémom iOS v Intune</span><span class="sxs-lookup"><span data-stu-id="51a3f-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[<span data-ttu-id="4ff42-109">Vlastné nastavenia pre macOS zariadenia Windows Intune</span><span class="sxs-lookup"><span data-stu-id="4ff42-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
+[<span data-ttu-id="51a3f-109">Vlastné nastavenia pre macOS zariadenia Windows Intune</span><span class="sxs-lookup"><span data-stu-id="51a3f-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[<span data-ttu-id="4ff42-110">Vlastné nastavenia pre Windows 10 zariadenia Windows Intune</span><span class="sxs-lookup"><span data-stu-id="4ff42-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[<span data-ttu-id="51a3f-110">Vlastné nastavenia pre Windows 10 zariadenia Windows Intune</span><span class="sxs-lookup"><span data-stu-id="51a3f-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[<span data-ttu-id="4ff42-111">Vlastné nastavenia pre Windows holografické biznis zariadenia Windows Intune</span><span class="sxs-lookup"><span data-stu-id="4ff42-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[<span data-ttu-id="51a3f-111">Vlastné nastavenia pre Windows holografické biznis zariadenia Windows Intune</span><span class="sxs-lookup"><span data-stu-id="51a3f-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

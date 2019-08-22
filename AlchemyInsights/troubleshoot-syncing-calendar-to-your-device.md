@@ -13,14 +13,14 @@ ms.custom:
 - "619"
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: a524244ac5a70b60dec75d29f77202fb8d90f7e2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac534f2308ed031e59fac7d8888f758481f77fad
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367196"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533786"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="decfd-102">Riešiť synchronizáciu kalendára so zariadením</span><span class="sxs-lookup"><span data-stu-id="decfd-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="d1fc9-102">Riešiť synchronizáciu kalendára so zariadením</span><span class="sxs-lookup"><span data-stu-id="d1fc9-102">Troubleshoot syncing your calendar to your device</span></span>
 
-[<span data-ttu-id="decfd-103">Synchronizácia kalendára a kontaktov s môj telefón alebo tablet</span><span class="sxs-lookup"><span data-stu-id="decfd-103">Can't sync calendar and contacts with my phone or tablet</span></span>](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f)
+<span data-ttu-id="d1fc9-103">Ak sa vyskytnú chyby synchronizácie pri nastavovaní mobilného e-mailu po prvýkrát, v téme [Synchronizácia kalendára a kontaktov s môj telefón alebo tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span><span class="sxs-lookup"><span data-stu-id="d1fc9-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   

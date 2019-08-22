@@ -13,13 +13,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 3bd71168fef34f7a1535501269b57b8b071950c6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5c00a7fbcaffc2ca303be44b3e5cba99a82a667c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372708"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545454"
 ---
-# <a name="remove-ads-in-outlookcom"></a><span data-ttu-id="34347-102">Odstránenie reklám v službe Outlook.com</span><span class="sxs-lookup"><span data-stu-id="34347-102">Remove ads in Outlook.com</span></span>
+# <a name="remove-ads-in-outlookcom"></a><span data-ttu-id="a49c7-102">Odstránenie reklám v službe Outlook.com</span><span class="sxs-lookup"><span data-stu-id="a49c7-102">Remove ads in Outlook.com</span></span>
 
-<span data-ttu-id="34347-103">Outlook.com je bezplatná e-mailová služba, ktorá obsahuje reklamy.</span><span class="sxs-lookup"><span data-stu-id="34347-103">Outlook.com is a free email service which contains ads.</span></span> <span data-ttu-id="34347-104">Ak chcete odstrániť reklamy v službe Outlook.com, Microsoft ponúka prémiové funkcie aplikácie Outlook s predplatným služieb Office 365 Home alebo Office 365 Personal.</span><span class="sxs-lookup"><span data-stu-id="34347-104">If you want to remove ads in Outlook.com, Microsoft offers premium Outlook features with Office 365 Home or Office 365 Personal subscriptions.</span></span> <span data-ttu-id="34347-105">Ďalšie informácie nájdete v téme [prémiové funkcie programu Outlook Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span><span class="sxs-lookup"><span data-stu-id="34347-105">For more information, see [Get premium Outlook features with Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span></span>
+<span data-ttu-id="a49c7-103">Outlook.com je bezplatná e-mailová služba, ktorá obsahuje reklamy.</span><span class="sxs-lookup"><span data-stu-id="a49c7-103">Outlook.com is a free email service which contains ads.</span></span> <span data-ttu-id="a49c7-104">Ak chcete odstrániť reklamy v službe Outlook.com, Microsoft ponúka prémiové funkcie aplikácie Outlook s predplatným služieb Office 365 Home alebo Office 365 Personal.</span><span class="sxs-lookup"><span data-stu-id="a49c7-104">If you want to remove ads in Outlook.com, Microsoft offers premium Outlook features with Office 365 Home or Office 365 Personal subscriptions.</span></span> <span data-ttu-id="a49c7-105">Ďalšie informácie nájdete v téme [prémiové funkcie programu Outlook Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span><span class="sxs-lookup"><span data-stu-id="a49c7-105">For more information, see [Get premium Outlook features with Office 365](https://go.microsoft.com/fwlink/?linkid=872181).</span></span>
