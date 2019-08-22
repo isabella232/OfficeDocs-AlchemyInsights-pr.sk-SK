@@ -9,14 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389614"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496018"
 ---
-Možno nastaviť všetky heslo nikdy skončí, [bezpečnosť &amp; ochrany](https://portal.office.com/adminportal/home#/settings/security). Kliknite na položku **Upraviť** vedľa položky **Heslo politiky**a zase jazdca **na**.
+# <a name="set-passwords-to-never-expire"></a>Nastaviť heslo nikdy skončí 
+
+Nastaviť všetky heslá nikdy nevypršia Microsoft 365 admin Center, prejdite na **nastavenia** > [bezpečnostné &amp; súkromia](https://portal.office.com/adminportal/home#/settings/security) stránky. Vyberte možnosť **Upraviť** vedľa položky **heslo politiky**a jazdca **na**.
   
 Podrobnejšie informácie nájdete: [Nastavenie politiky uplynutia platnosti hesla pre vašu organizáciu.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

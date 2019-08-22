@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a6ff804fae307212c454b80ead863667dbdbe781
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35121384"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513122"
 ---
 # <a name="delete-a-site-collection"></a>Odstrániť kolekciu lokalít
 
@@ -28,4 +28,4 @@ Ak chcete odstrániť lokalitu, všetko v ňom vypúšťa, vrátane:
 
 Pred odstránením lokality mohli presunúť údaje do iného umiestnenia, a tiež oznámiť používateľom, keď lokalít sa odstránia oznámte stránky administrátorov a vlastníci všetky podlokality. 
 
-Ďalšie informácie nájdete v téme [Odstránenie kolekcie lokalít](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection). 
+Ďalšie informácie nájdete v téme [Odstránenie kolekcie lokalít](https://docs.microsoft.com/sharepoint/delete-site-collection). 

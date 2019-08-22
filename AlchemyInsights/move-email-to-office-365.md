@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: e85b0af127ff7c92c7c9e0a42f5084de5de689c6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 47a8c880baf73f848b20847c2f61a7a241690a6c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379440"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522266"
 ---
 # <a name="move-email-to-office-365"></a>Premiestniť e-mail do služby Office 365
 
 Máte niekoľko možností pre migráciu e-mail na Office 365. [Office 365 hromadnej migrácie poradca](https://aka.ms/alchemyinsight-mailmigrationadvisor) vám pomôže vybrať ten najlepší pre vaše prostredie a tiež vás prevedie aplikácie mail migration.
   
-Prečítajte si o možnostiach bez spustenia migrácie, nájdete [rozhodnúť na migračné cesty](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/decide-on-a-migration-path).
+Prečítajte si o možnostiach bez spustenia migrácie, nájdete [rozhodnúť na migračné cesty](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
 Tiež skontrolujte stránke [prijať Office 365 s FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) asistovanej pomoc s migráciou, ak je to oprávnené.
   
