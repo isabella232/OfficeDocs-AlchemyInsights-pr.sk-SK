@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388471"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553591"
 ---
-# <a name="question-about-licenses"></a><span data-ttu-id="58683-102">Otázka o licencie</span><span class="sxs-lookup"><span data-stu-id="58683-102">Question about licenses</span></span>
+# <a name="questions-about-your-office-365-license"></a><span data-ttu-id="7ca2e-102">Otázky týkajúce sa vašej licencie balíka Office 365</span><span class="sxs-lookup"><span data-stu-id="7ca2e-102">Questions about your Office 365 license</span></span>
 
-<span data-ttu-id="58683-103">Ak chcete vedieť, koľko licencií, ktoré ste si zakúpili, alebo koľko licencií sú priradené z predplatného:</span><span class="sxs-lookup"><span data-stu-id="58683-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="7ca2e-103">Ak chcete vedieť, koľko licencií, ktoré ste si zakúpili, alebo koľko licencií sú priradené z predplatného:</span><span class="sxs-lookup"><span data-stu-id="7ca2e-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="58683-104">Admin Center, prejdite na **fakturačné** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky.</span><span class="sxs-lookup"><span data-stu-id="58683-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="7ca2e-104">Admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.</span><span class="sxs-lookup"><span data-stu-id="7ca2e-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="58683-105">Vyberte na predplatné, ktoré chcete vedieť viac o.</span><span class="sxs-lookup"><span data-stu-id="58683-105">Choose the subscription you want to know more about.</span></span>
+2. <span data-ttu-id="7ca2e-105">Pod názvom chcete vedieť viac o predplatné, môžete vidieť počet licencií, ktoré ste zaplatili a koľko sú k dispozícii na priradenie.</span><span class="sxs-lookup"><span data-stu-id="7ca2e-105">Under the name of the subscription you want to know more about, you can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-3. <span data-ttu-id="58683-106">Na ľavej strane predplatné karty sú informácie o vašich licencií:</span><span class="sxs-lookup"><span data-stu-id="58683-106">On the left side of the subscription card is information about your licenses:</span></span>
-
-  - <span data-ttu-id="58683-107">**Zakúpené** číslo je počet licencií, ktoré ste zaplatili.</span><span class="sxs-lookup"><span data-stu-id="58683-107">The **Purchased** number is the number of licenses you are paying for.</span></span>
-
-  - <span data-ttu-id="58683-108">**Pridelené** číslo je číslo licencie priradené používateľovi.</span><span class="sxs-lookup"><span data-stu-id="58683-108">The **Assigned** number is the number of licenses assigned to a user.</span></span>
-
-4. <span data-ttu-id="58683-109">Ak chcete pridať viac licencií, alebo ak máte príliš veľa, vyberte **Pridať alebo odstrániť licencie** upraviť množstvo nakúpených.</span><span class="sxs-lookup"><span data-stu-id="58683-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="7ca2e-106">Ak chcete pridať viac licencií, alebo ak máte príliš veľa, vyberte **Pridať alebo odstrániť licencie** upraviť množstvo nakúpených.</span><span class="sxs-lookup"><span data-stu-id="7ca2e-106">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
