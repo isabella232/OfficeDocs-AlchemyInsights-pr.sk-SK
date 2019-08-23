@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355388"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549954"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Skontrolujte e-mail forwarding nastavenia pre poštovú schránku
 
-Je to jednoduché overiť email forwarding nastavenia poštovej schránky! Postupujte podľa týchto krokov.
+Je to jednoduché overiť email forwarding nastavenia poštovej schránky Office 365! Postupujte podľa týchto krokov.
   
-> Ak poštovej schránky používateľa, prejdite na **užívateľov** \> **aktívnych používateľov** a vyberte používateľa kto má poštovej schránky, ktorý odosielate. Podľa e-mailu, vyberte **Upraviť** pre preposielanie e-mailov.
+> Ak poštovej schránky používateľa, prejdite na **užívateľov** \> **aktívnych používateľov** a vyberte používateľa kto má poštovej schránky, ktorý odosielate. Na karte **Pošta** vyberte **Spravovať emaill presmerovanie**.
     
-> Ak ide o zdieľanú poštovú schránku, ísť do **skupiny** \> **zdieľané poštové schránky** a vyberte zdieľanú poštovú schránku, ktorý odosielate. Vyberte si **Upraviť** pre preposielanie e-mailov.
+> Ak ide o zdieľanú poštovú schránku, ísť do **skupiny** \> **zdieľané poštové schránky** a vyberte zdieľanú poštovú schránku, ktorý odosielate. Upravte **Upraviť** pre preposielanie e-mailov.
 
 Ďalšie podrobnosti nájdete v časti [Konfigurovať Preposielanie pošty Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
