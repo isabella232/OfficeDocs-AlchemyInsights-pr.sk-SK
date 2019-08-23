@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389778"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496126"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Odvolanie alebo nahradenie e-mailovej správy
+# <a name="recall-or-replace-an-outlook-email-message"></a>Odvolať alebo premiestniť správu e-mailu programu Outlook
 
 - Ako admin, môžete **pripomenúť správy v mene používateľov pomocou prostredia PowerShell**. Nemôže odvolať správy z admin center.
 - Môžete **len recall správy, ktoré odosielajú ľudí vo vašej organizácii**. Ak bola odoslaná na adresu služby Gmail, napríklad, nemôžem spomenúť to.

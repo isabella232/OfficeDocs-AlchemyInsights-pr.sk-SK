@@ -1,5 +1,5 @@
 ---
-title: WD súbor neotvoril dvojitým kliknutím
+title: Slovo súbor neotvoril dvojitým kliknutím
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752776"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558200"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>Riešenia pre súbory otvoriť v zlej aplikácie
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Dokument programu Word otvorení v aplikácii zle alebo neotvoril
 
 Skúste jeden z týchto návrhov:
 
 **Vyberte program Word ako predvolený**
 
-* Kliknite pravým tlačidlom myši na dokument a vyberte **Otvoriť v programe**vyberte **slovo**
+- Kliknite pravým tlačidlom myši na dokument a vyberte **Otvoriť v programe**vyberte **slovo**
 
 **Spustiť rýchlu opravu**
 

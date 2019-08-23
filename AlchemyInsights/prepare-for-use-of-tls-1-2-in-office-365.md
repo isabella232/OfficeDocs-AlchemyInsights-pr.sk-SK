@@ -11,12 +11,12 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ef04b5b6ab6c365359b6973cbd56d5d1e833554b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370942"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554780"
 ---
 # <a name="prepare-for-use-of-tls-12-in-office-365"></a>Pripravte sa na používanie protokolu TLS 1.2 v Office 365
 

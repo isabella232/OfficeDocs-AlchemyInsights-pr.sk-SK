@@ -13,20 +13,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: ba81be33137660bd4d7e735a6681b13ea88e3761
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a7e84ef41c5c3486eb0bc15ddf4f550c797b5f0c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371376"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554996"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint alebo OneDrive pomalá, neprístupná alebo nedostupná pre viacerých používateľov
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint alebo OneDrive pomalé, neprístupná alebo nedostupné pre viacerých používateľov
 
-Môže byť rôzne dôvody pre SharePoint alebo OneDrive objavujú pomalá, neprístupná alebo nedostupná.
+SharePoint alebo OneDrive môže byť pomalé, neprístupná alebo nie je k dispozícii z viacerých dôvodov:
   
-1. Ak lokalitu SharePoint alebo OneDrive je pomalé alebo oneskorené pre viacerých používateľov, môžu existovať problém pri dočasnej služby tam, kde používatelia môžu vyskytnúť občasné oneskorenia alebo navigačnej chyby pri prístupe na lokality SharePoint alebo OneDrive obsah. Kontrola [Tabuľa stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) zistiť, ak vaša organizácia je ovplyvnené.
+- Ak lokalitu SharePoint alebo OneDrive je pomalé alebo oneskorené pre viacerých používateľov, tam môže byť problém pri dočasnej služby kde používatelia vyskytnúť občasné oneskorenia alebo navigačnej chyby pri prístupe na lokality SharePoint alebo OneDrive obsah. Kontrola [Tabuľa stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) zistiť, ak vaša organizácia je ovplyvnené.
   
-2. Ak vás skúsenosti pomalý výkon **klasickej** lokality SharePoint alebo stránky, využívať [Stránky diagnostický nástroj](https://aka.ms/perftool) na analýzu stránky.
+- Ak vás skúsenosti pomalý výkon **klasickej** lokality SharePoint alebo stránky, využívať [stránky diagnostický nástroj](https://aka.ms/perftool) na analýzu stránky.
   
-3. Ak ste stále všeobecný výkon, prečítajte si podrobne zdroje v dolnej časti článku, ktorý pomôže odhaliť problémy, pozrite si [Úvod k nástroju výkon tuning pre SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334).
+- Ak ste stále všeobecný výkon, skontrolujte zdroje v dolnej časti tohto článku: [Úvod k nástroju výkon tuning pre SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

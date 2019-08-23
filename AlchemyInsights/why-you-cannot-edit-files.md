@@ -9,22 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222683"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558344"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>Prečo by mohli byť schopní upraviť súbory?
+# <a name="why-cant-i-edit-files"></a>Prečo nemôžem upravovať súbory?
 
-Ak dokument, zošit alebo prezentáciu je uzamknutý pre úpravy a nedá sa otvoriť, je možné, že súbor sa už upravuje iný používateľ, alebo ktoré majú súbor vzatý k sebe. Pozrime sa rýchlo pozrieť na niektoré z dôvodov, [Prečo nie byť schopný upraviť súbor](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Ak dokument, zošit alebo prezentáciu je uzamknutý pre úpravy a nedá sa otvoriť vo Windows desktop aplikácie, je možné, že súbor sa už upravuje iný používateľ, alebo ktoré majú súbor vzatý k sebe. Pozrime sa rýchlo pozrieť na niektoré z dôvodov, [Prečo nie byť schopný upraviť súbor](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Poznámka: Knižníc s Pokladňa, požadované stĺpce/metaúdaje, alebo ak je nastavené zabezpečenie položky konceptu buď iba používatelia, ktorí môžu upravovať alebo iba používatelia, ktorí môžu schvaľovať položky vo verzií nastavenie knižnice.
+Ak máte knižníc s **Checkout, vyžaduje** **overenie** stĺpcov alebo metaúdaje, alebo keď **Zabezpečenia položky konceptu** je nastavený na **iba používatelia, ktorí môžu upravovať** alebo **iba používatelia, ktorí môžu schvaľovať položky** v nastavení verzia knižnica:
 
-Pre knižnice, OneDrive, OneDrive sa zobrazí ikona uzamknutia vedľa stav synchronizácie a používateľ nebude môcť synchronizovať knižnice, kým uvedené nastavenia boli odstránené.
+- Pre knižnice dokumentov SharePoint, tieto položky sa synchronizujú iba na čítanie.
 
-Ďalšie informácie o zamknuté súbory slovo alebo Excel prosím odkaz nižšie uvedených článkov.
+- Pre knižnice OneDrive, OneDrive zobrazí ikona zámku (OneDrive súbor uzamknutý ikonu) vedľa synchronizácia stav a nebude možné synchronizovať knižnicu, kým uvedené nastavenia boli odstránené. 
+
+Ďalšie informácie o zamknuté súbory Word alebo Excel, prosím odkaz nižšie uvedených článkov.
 
 - [Excel súbor je uzamknutý pre úpravy iným používateľom](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
