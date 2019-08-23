@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356612"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553447"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Odvolanie alebo nahradenie e-mailovej správy
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Odvolanie alebo nahradenie e-mailovej správy v Office 365
 
 - Môžete **len recall správy, ktoré odosielajú ľudí vo vašej organizácii**. Ak bola odoslaná na adresu služby Gmail, napríklad, nemôžem spomenúť to.
 - Môžete **len recall správy odoslané z programu Outlook 2016 pre PC**. Ak používateľ odošle správu pomocou programu Outlook for Mac alebo Outlook na webe, si nemôžete spomenúť.
 - Ak ste správcom, môžete **recall správy v mene používateľov pomocou prostredia PowerShell**. Nemôže odvolať správy z admin center. Prejdite na "Vyhľadať a odstrániť e-mailových správ v organizácii" pre viac informácií.
 
-***Odvolanie alebo nahradenie e-mailovej správy, ktoré ste odoslali***
+**Odvolanie alebo nahradenie e-mailovej správy, ktoré ste odoslali**
 
 1. Na table priečinkov v ľavej časti okna programu Outlook vyberte priečinok Sent Items.
 2. Otvorte správu, ktorú chcete vyvolať. Musí dvojitým kliknutím otvorte správu. Označte príslušnú správu, takže sa zobrazí v table na čítanie nedovolí odvolať správu.

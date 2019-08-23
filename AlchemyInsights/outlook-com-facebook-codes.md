@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: 9d0d863bdf30986e6ac86fbd786ec881a2e0e18a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375120"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546786"
 ---
-# <a name="not-receiving-facebook-codes"></a>Neprijíma Facebook kódy
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Neprijíma Facebook kódy pomocou služby Outlook.com
 
 Ak ste žiadal o nové heslo od Facebook ale nedostal som e-mail na obnovenie hesla:
 

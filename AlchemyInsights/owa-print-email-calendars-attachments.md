@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171337"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556724"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Tlačiť e-maily, kalendáre a prílohy
 
-Tlač e-mailovej správy:
+Tlač e-mailovej správy v programe Outlook na webe:
   
 1. Vyberte správu, ktorú chcete vytlačiť.
 1. V pravom hornom rohu správy vyberte tri bodky a potom vyberte položku **Tlačiť**.

@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444787"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555248"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Ako vykonať obsahu vyhľadávaní a vyhľadávaní eDiscovery
 
@@ -32,6 +32,6 @@ Použitie obsahu vyhľadávací nástroj v & zabezpečenia súladu Center rýchl
 4. Zadajte požadované podmienky vrátane kľúčové slová a umiestnenia obsahu.  
 5. Kliknite na tlačidlo **Uložiť & spustiť** názov vyhľadávania, spustite ho a potom Zobraziť ukážku výsledkov.
 
-Podrobné pokyny o obsah vyhľadávanie, exportovanie výsledkov a vytvorenie eDiscovery prípadoch držať dáta, vidieť [Obsah Hľadať](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) a [eDiscovery prípadov](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Podrobné pokyny o obsah vyhľadávanie, exportovanie výsledkov a vytvorenie eDiscovery prípadoch držať dáta, vidieť [Obsah Hľadať](https://docs.microsoft.com/office365/securitycompliance/content-search) a [eDiscovery prípadov](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Pochopiť viac o obsahu vyhľadávanie prostredníctvom preskúmania [požiadavky a obmedzenia](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) a [vyšetruje čiastočne indexované položky](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ostatné výsledky musia byť vedomí.
+Pochopiť viac o obsahu vyhľadávanie prostredníctvom preskúmania [požiadavky a obmedzenia](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) a [vyšetruje čiastočne indexované položky](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ostatné výsledky musia byť vedomí.

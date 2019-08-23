@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e90c44b0310ee07ce6d60d991364495a0c5925c9
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: f863adb782abac77c45336ad68a99006e070ee09
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171549"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556760"
 ---
 # <a name="organize-your-email"></a>Usporiadanie e-mailov
 
-Môžete použiť príkazy ako **Sweep** a **Prejsť** automaticky odstrániť alebo presunúť správy od určitého odosielateľa. Tieto príkazy sa zobrazia nad zoznamom správ, keď vyberiete správu v doručenej pošte.
+V Outlooku na webe, môžete použiť príkazy ako **Sweep** a **Prejsť** automaticky odstrániť alebo presunúť správy od určitého odosielateľa. Tieto príkazy sa zobrazia nad zoznamom správ, keď vyberiete správu v doručenej pošte.
 
 - **Zametať** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
  umožňuje rýchle odstránenie správ v priečinku Doručená pošta. Môžete automaticky odstrániť všetky prichádzajúce e-maily od tohto odosielateľa, ponechať iba najnovší e-mail a zvyšné odstráňte alebo odstrániť e-mail staršie ako 10 dní.
