@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518054"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575963"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Kúpiť ďalšie licencie balíka Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518054"
 
     > [!NOTE]
     > Ak platíte za predplatné kreditnej karty alebo bankového účtu, nových licencií, ktoré si kúpite sú k dispozícii ihneď po prijatí potvrdenia objednávky. Ak platíte faktúrou, budete musieť čakať na kontrola kreditu pred nové licencie sú k dispozícii.
-  
+
+Používate starý admin center? Staré kroky, alebo sa dozvedieť viac, pozrite si [kupovať licencie pre vášho predplatného Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Dodatočné zdroje**
 
 - [Priradenie licencie používateľov balíka Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Ďalšie informácie nájdete v téme [kupovať licencie pre vášho predplatného Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

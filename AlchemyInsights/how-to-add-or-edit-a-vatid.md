@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522626"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575013"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Ako pridať alebo upraviť VatID
 
-1.  Microsoft 365 admin Center, prejdite na **fakturačné** \> [produktov & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky.
+1.  Microsoft 365 admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
 
 2. Nájdite predplatné karty pre predplatné, ktoré chcete aktualizovať.
 
@@ -31,4 +31,8 @@ ms.locfileid: "36522626"
 
     Keď kompletné, DPH sa neúčtuje na vašom ďalšom účte.
 
-Ďalšie informácie nájdete v téme [Aké dane budem platiť for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) alebo [Pridať vaše IČ DPH](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Používate starý admin center? Staré kroky, alebo sa dozvedieť viac, pozrite si [Aké dane budem platiť for Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+
+**Dodatočné zdroje**
+
+[Pridať vaše IČ DPH](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

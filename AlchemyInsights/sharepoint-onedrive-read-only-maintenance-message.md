@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840530"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620738"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only na údržbu správy pri pokuse o použitie SharePoint alebo OneDrive
 
-Používatelia môžu hlásenie **Iba na čítanie pre údržbu** pri pokuse o použitie SharePoint alebo OneDrive.  Ak áno, skontrolujte, či je aktívna údržba vyskytujúce sa na nájomcu prechodom do [centra správ](https://portal.office.com/adminportal/home#/MessageCenter). Tiež, uistite sa, že kontrola tabuľa [Stav služby](https://portal.office.com/adminportal/home#/servicehealth) zistiť akékoľvek upozornenia/incidentov, ktoré sa môže vyskytnúť.
+Používatelia môžu hlásenie **Read-Only pre údržbu** pri pokuse o použitie SharePoint alebo OneDrive pre jeden z týchto scenárov. 
 
-Ak ani centra správ alebo služby zdravia dashboard uviedli niečo o bežná údržba pre nájomcu, môže to byť prehliadač caching problém.
+-   Plánované alebo aktívna údržba činnosť.  Skontrolovať ich prechodom do [Centra správ](https://portal.office.com/adminportal/home#/messagecenter).
+-   Vysokou prioritou, aktívne servisné udalosti, ktorá môže vyskytnúť. Kontrola každej návestí podpory incidentov, prechodom do [Služby zdravia](https://portal.office.com/adminportal/home#/servicehealth).
+-   Drobné automatické liečenie zotavenie scenár, ktorý mohol deje z dôvodu neočakávaných udalostí na serveroch, ktoré môže trvať menej ako 30 minút alebo tak. 
+    
+    Neexistujú žiadne Message Center alebo služby zdravia príspevky pre tieto menšie extrakcia, ale mali by ste byť späť do normálneho veľmi skoro.
+
+Veľmi málo príležitostiach sme pozorovali, že jeden z troch scenárov uvedených vyššie boli príčinou, a služba bola obnovená, ale cache prehliadača užívateľov nemá očistili.
 
 Prosím pokúsi zmazať cache prehliadača pred vyhľadania lokality.
 
