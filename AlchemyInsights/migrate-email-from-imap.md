@@ -11,16 +11,16 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379944"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544698"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Ak sa zobrazí chybové hlásenie o neakceptovanej doméne
 
-Pri pokuse o pridanie e-mailovej adresy používateľa alebo skupiny alebo počas migrácie poštových schránok sa môže zobraziť chyba, ktorá hovorí, že **doménu nie je možné použiť, pretože ešte nie je akceptovanou doménou systému Exchange.**
+Pri pokuse o pridanie e-mailovej adresy používateľa alebo skupiny alebo počas migrácie poštových schránok služieb Office 365 sa môže zobraziť chyba, ktorá hovorí, že **doménu nie je možné použiť, pretože ešte nie je akceptovanou doménou systému Exchange.**
   
 Táto chyba je vo väčšine prípadov následkom toho, že názov domény *(napríklad contoso.com)* nie je úplne nastavený pre vašu organizáciu.
   
