@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389011"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575357"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Ako aktualizujem informácie o kreditnej karte?
 
-1. V Centre spravovania služieb ** vyberte položky **Fakturácia\> [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V centre spravovania služieb Microsoft 365 prejdite na stránku **Fakturácia** \> [ Spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Vyberte predplatné zakúpené pomocou bankového účtu alebo kreditnej karty, ktoré chcete aktualizovať. Potom vyberte položku **Aktualizovať podrobnosti o platbe**.
+2. Na stránke **Spôsoby platby** vyberte možnosť aktualizácie kreditnej karty alebo bankového účtu.
 
-3. Vyberte rozbaľovaciu šípku v časti **Pridanie alebo výber spôsobu úhrady** a vyberte kreditnú kartu alebo bankový účet, ktoré chcete aktualizovať. Potom vyberte položku **Upraviť podrobnosti**.
+3. Ak chcete zmeniť informácie o kreditnej karte alebo bankovom účte, vyberte položku **Upraviť podrobnosti o platbe**.
 
-4. Podľa potreby aktualizujte informácie o kreditnej karte alebo bankovom účte (meno na kreditnej karte alebo meno majiteľa bankového účtu, adresa pre fakturáciu, telefónne číslo alebo dátum uplynutia platnosti) a potom vyberte položku **Odoslať**.
+> [!NOTE]
+> Ak bolo predplatné zakúpené iným správcom, informácie o kreditnej karte alebo bankovom účte pre toto predplatné nebudete môcť aktualizovať. Ak platnosť danej kreditnej karty čoskoro uplynie a príslušný správca ju nemôže aktualizovať, prerušeniu poskytovania služby môžete zabrániť tak, že k danému predplatnému pridáte inú kreditnú kartu alebo iné bankový účet.
 
-5. Malo by sa zobraziť potvrdenie.
+4. Podľa potreby aktualizujte informácie o kreditnej karte alebo bankovom účte (meno na kreditnej karte alebo meno majiteľa bankového účtu, adresa pre fakturáciu, telefónne číslo alebo dátum uplynutia platnosti). Potom vyberte položku **Uložiť** > **Hotovo**.
 
-Ďalšie informácie nájdete v téme [Riešenie problémov s kreditnými kartami alebo bankovými účtami](https://docs.microsoft.com/sk-SK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Používate nové centrum spravovania služieb? Nové kroky nájdete v téme[Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v službách Office 365 for business](https://docs.microsoft.com/sk-SK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Používate staré centrum spravovania? Pôvodné kroky a ďalšie informácie nájdete v téme[Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v službách Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

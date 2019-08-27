@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390851"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574777"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Opätovná aktivácia predplatného
 
-Ak platnosť predplatného uplynula, ak ste predplatné zrušili alebo ak ho spoločnosť Microsoft deaktivovala, môžete ho opätovne aktivovať v centre spravovania služieb Microsoft 365.
+Ak platnosť predplatného uplynula, ak ste predplatné zrušili alebo ak ho spoločnosť Microsoft deaktivovala, môžete ho znovu aktivovať v centre spravovania služieb Microsoft 365.
   
-1. V Centre spravovania služieb ** vyberte položky **Fakturácia\> [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V centre spravovania prejdite na stránku **Fakturácia** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Vyberte predplatné, ktoré chcete opätovne aktivovať.
+2. Nájdite predplatné, ktoré chcete znovu aktivovať. V časti **Fakturácia** vyberte položku **Znovu aktivovať**.
 
-3. Vyberte položku **Znovu aktivovať** na pravej strane.
+    Ak sa položka **Znovu aktivovať** nezobrazuje ako dostupná akcia, obráťte sa na oddelenie technickej podpory, kde získate pomoc pri opätovnej aktivácii predplatného.
 
-4. Zobrazí sa výzva na aktualizáciu podrobností platby. Ak sú všetky informácie správne, vyberte položku **Odoslať**.
+3. Potvrďte podrobnosti platby. Na tomto mieste môžete aktualizovať aj svoje existujúce informácie o platbe. Po zadaní spôsobu platby vyberte položku **Znovu aktivovať**.
 
-5. V dolnej časti obrazovky sa zobrazí potvrdenie. Výberom položky **Zavrieť** sa vráťte na stránku **Predplatné**.
-
-6. Ak sa predplatné po niekoľkých minútach nebude zobrazovať ako aktívne, obnovte stránku.
-
-Ďalšie informácie nájdete v téme [Obnovenie služieb Office 365 for business](https://docs.microsoft.com/sk-SK/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Používate staré centrum spravovania? Pôvodné kroky a ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)

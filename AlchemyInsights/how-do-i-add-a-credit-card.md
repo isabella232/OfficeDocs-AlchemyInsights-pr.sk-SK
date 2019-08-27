@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390455"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575675"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Ako pridám kreditnú kartu?
 
-1. V Centre spravovania služieb ** vyberte položky **Fakturácia\> [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V centre spravovania služieb Microsoft 365 prejdite na stránku **Fakturácia** \> [ Spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Vyberte predplatné, za ktoré chcete platiť pomocou novej kreditnej karty alebo nového bankového účtu. Potom vyberte položku **Aktualizovať podrobnosti o platbe**.
+2. Vyberte položku **Pridať spôsob platbu**.
 
-3. Vyberte rozbaľovaciu šípku v časti **Pridanie alebo výber spôsobu úhrady** a potom vyberte položku **Nová kreditná karta** alebo **Nový bankový účet**.
+3. Z rozbaľovacej ponuky na stránke **Spôsoby platby** vyberte spôsob platby.
 
-4. Zadajte informácie pre novú kreditnú kartu alebo nový bankový účet. Potom vyberte položku Odoslať.
+4. Zadajte informácie pre novú kreditnú kartu alebo nový bankový účet. Potom vyberte položku **Uložiť**.
 
-Používate nové centrum spravovania služieb? Nové kroky nájdete v téme[Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v službách Office 365 for business](https://docs.microsoft.com/sk-SK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Používate staré centrum spravovania? Pôvodné kroky a ďalšie informácie nájdete v téme[Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v službách Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
