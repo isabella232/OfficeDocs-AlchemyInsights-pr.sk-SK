@@ -3,7 +3,6 @@ title: Opätovná aktivácia predplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +12,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553375"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666603"
 ---
-# <a name="reactivate-an-office-365-subscription"></a>Aktivovať predplatné na Office 365
+# <a name="reactivate-an-office-365-subscription"></a>Opätovná aktivácia predplatného balíka Office 365
 
-Ak vaše predplatné skončí, zakázal spoločnosti Microsoft, alebo ste to zrušili v polovici obdobia prihlásenia na odber, môžete si aktivovať admin Center.
+Ak uplynie platnosť predplatného, spoločnosť Microsoft ju zakázala alebo ste ju zrušili v strede obdobia predplatného, môžete ju znova aktivovať v centre spravovania.
   
-1. Admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. V centre spravovania prejdite na stránku **fakturačných** \> [produktov _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Vyberte na predplatné, ktoré chcete aktivovať. V časti fakturačné vyberte **aktivovať**.
+2. Vyberte predplatné, ktoré chcete znova aktivovať. V sekcii Fakturácia vyberte možnosť **znova aktivovať**.
 
-    Ak nevidíte **aktivovať** ako žalobu k dispozícii, [zavolajte pracovníkom technickej podpory](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) Opätovná aktivácia prihlásenia na odber.
+    Ak sa nezobrazuje **Opätovná aktivácia** ako dostupná akcia, [zavolajte na podporu](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) na opätovnú aktiváciu predplatného.
 
-3. Potvrdíte Podrobnosti platby. Môžete aktualizovať existujúce platobné informácie tu. Až budete hotoví zadanie spôsobu platby, vyberte **aktivovať**.
+3. Potvrďte platobné údaje. Existujúce platobné informácie môžete aktualizovať tu. Po zadaní spôsobu platby vyberte možnosť **znova aktivovať**.
 
-Ďalšie informácie nájdete v téme [Opätovná aktivácia prihlásenia na odber](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

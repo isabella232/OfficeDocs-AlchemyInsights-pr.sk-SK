@@ -3,21 +3,28 @@ title: S/MIME v programe Outlook na webe
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 5/1/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511586"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666855"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Šifrovanie e-mailových správ v programe Outlook
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Šifrovanie správ v Office 365 je postavený na Microsoft Azure Rights Management (Azure RMS), ktorá je súčasťou Azure ochranu informácií. Ak vaše predplatné obsahuje Azure Rights Management alebo Azure ochrana informácií, <strong style="mso-bidi-font-weight: normal;">nie je potrebné podniknúť akékoľvek opatrenia manuálne povoliť alebo aktivovať</strong> správy prístupových práv.</span></p> <p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Na základe spätnej väzby od zákazníkov, sme sa už umožňujúce Exchange mail tok pravidiel na automatické šifrovanie odchádzajúce e-mail obsahujúci určitý druh citlivé informácie v nájomcu v predvolenom nastavení. &nbsp; Namiesto toho poskytujeme podrobné pokyny o ako môžete tak urobiť sami. &nbsp;Pre ďalšie podrobnosti o tom, ako vytvoriť pravidlo dopravy šifrovať citlivé údaje, nájdete v tomto <a href="https://aka.ms/OmeEtr">článku</a>.</span><u></u><span style="text-decoration: line-through;"></span></p> <ul> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&nbsp;&nbsp; &nbsp; &nbsp; </span> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Ak používate Outlook Web (predtým <strong style="mso-bidi-font-weight: normal;">OWA</strong>): pri písaní e-mailovej správy, stačí kliknúť <strong>Ochrana</strong> v OWA. To bude uplatňovať v predvolenom nastavení &lsquo;ďalej&rsquo; povolenie. Kliknite na položku <strong>zmeniť povolenie</strong> a vyberte voľbu <strong>Zašifrovať</strong> len šifrovanie správy.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; &nbsp; Ak používate <strong style="mso-bidi-font-weight: normal;">klienta Outlook</strong>: odoslať šifrovanú správu z programu Outlook 2013 alebo 2016 alebo Outlook 2016 for Mac, vyberte polo¾ku Voåby &agrave; povolenia, vyberte možnosť ochrany, ktoré potrebujete.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; Na <strong style="mso-bidi-font-weight: normal;">automatické šifrovanie všetkých e-mailov</strong> odoslané do určitých príjemcov alebo externej partnerskej organizácie, musíte vytvoriť pravidlo prenosu tok pošty v službe Exchange Admin Center. Podrobné pokyny sú uvedené v tomto <span style="color: black;"><a href="https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities">podporiť článok</a></span></span></li> </ul>
+Šifrovanie správ v Office 365 je postavený na Microsoft Azure Rights Management (Azure RMS), ktorá je súčasťou Azure ochranu informácií. Ak vaše predplatné obsahuje Azure Rights Management alebo Azure ochrana informácií, **nie je potrebné podniknúť akékoľvek opatrenia manuálne povoliť alebo aktivovať** správy prístupových práv.
+
+Na základe spätnej väzby od zákazníkov, sme sa už umožňujúce Exchange mail tok pravidiel na automatické šifrovanie odchádzajúce e-mail obsahujúci určitý druh citlivé informácie v nájomcu v predvolenom nastavení. Namiesto toho poskytujeme podrobné pokyny o ako môžete tak urobiť sami. Ďalšie podrobnosti o tom, ako vytvoriť pravidlo dopravy šifrovať citlivé údaje, nájdete v [tomto článku](https://aka.ms/OmeEtr).
+
+- Ak používate program Outlook na webe (predtým **OWA**): pri písaní e-mailovej správy, stačí kliknúť **Ochrana** v OWA. To sa vzťahuje povolenie "Do not forward". Kliknite na položku **zmeniť povolenie** a vyberte voľbu **Zašifrovať** iba šifrovanie správy.
+
+- Ak používate **klienta Outlook**: odoslať šifrovanú správu z programu Outlook 2013 alebo 2016 alebo Outlook 2016 for Mac, vyberte polo¾ku **Voåby** > **povolenia**a potom vyberte možnosť ochrany, ktoré potrebujete.
+
+- Na **automatické šifrovanie všetkých e-mailov** odoslané do určitých príjemcov alebo externej partnerskej organizácie, musíte vytvoriť pravidlo prenosu pošty toku v Exchange Admin Center. Podrobné pokyny sú uvedené v [tomto článku technickej podpory](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
 
