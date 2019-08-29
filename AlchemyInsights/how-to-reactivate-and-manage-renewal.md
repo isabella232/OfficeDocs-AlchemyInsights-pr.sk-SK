@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574557"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663975"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Ako aktivovať a spravovať opakované účtovanie
 
@@ -32,7 +32,7 @@ Vyzerá to, že máte predplatného, že vypršala. Ak by ste chceli aktivovať 
 
 3. Potvrdíte Podrobnosti platby. Môžete aktualizovať existujúce platobné informácie tu. Až budete hotoví zadanie spôsobu platby, vyberte **aktivovať**.
 
-Používate starý admin center? Staré kroky, alebo sa dozvedieť viac, pozri [Opätovná aktivácia prihlásenia na odber](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Ďalšie informácie v téme [Opätovná aktivácia prihlásenia na odber](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Spravovať mesačné alebo ročné vyúčtovanie si môžete prepínať **opakovaná fakturácie** alebo vypnúť.
   
@@ -46,4 +46,4 @@ Spravovať mesačné alebo ročné vyúčtovanie si môžete prepínať **opakov
 
 5. Vyberte **Odoslať zmenu**.
 
-Používate starý admin center? Staré kroky, alebo sa dozvedieť viac, pozrite si [zase ďalšie faktúry alebo vypnutie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Ďalšie informácie nájdete v téme [Zapnutie ďalšie faktúry alebo vypnutie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

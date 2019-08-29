@@ -3,7 +3,6 @@ title: Priradenie licencie k používateľovi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522482"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664263"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Priradenie licencie k používateľovi
 
@@ -34,4 +33,4 @@ Používateľ potrebuje licenciu Office 365 na prístup k službám. Tu sú krok
 
 4. V dolnej table, vyberte **Uložiť zmeny**.
 
-Ďalšie informácie v téme [Priradenie licencie pre používateľov balíka Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)a [odstrániť licencie používateľov balíka Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Ďalšie informácie nájdete v téme [Priradenie licencie k užívateľom](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)a [odstrániť licencie používateľov](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

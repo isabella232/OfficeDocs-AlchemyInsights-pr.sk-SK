@@ -1,5 +1,5 @@
 ---
-title: Aktivácia balíka Microsoft Office 365 objem licenciu predplatného
+title: Aktivácia Microsoft Office 365 multilicencie predplatné
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574485"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661203"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivácia balíka Microsoft Office 365 objem licenciu predplatného
+# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivácia Microsoft Office 365 multilicencie predplatné
 
-1. Prihláste sa na [portál Volume Licensing Service Center (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Prihláste sa na [portáli pre centrum služieb hromadnej licencie (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
 
-2. Prejdite na predplatné Office 365 a zvoliť **aktivovať**.
+2. Prejdite na odber balíka Office 365 a vyberte položku **aktivovať**.
 
-3. Online služby (OLS) kontakt sa odošle e-mail.
+3. E-mail bude odoslaný do vášho on-line služby (OLS) kontakt.
 
-4. Aktivačný e-mail vám poskytnúť dve možnosti: **zaregistrovať**alebo **Prihlásiť**. Ak ste v minulosti vytvorili skúšobnú verziu, vyberte **Prihlásiť**. Ak ešte nemáte Office 365 nájomcu, vyberte **Prihlásiť sa**.
+4. Aktivačný e-mail vám poskytne dve možnosti: **Zaregistrujte sa**alebo sa **prihláste**. Ak ste predtým vytvorili skúšobnú verziu, vyberte možnosť **Prihlásiť sa**. Ak ešte nemáte nájomníka balíka Office 365, vyberte možnosť **zaregistrovať sa**.
 
-5. Prihlásenie do služby Office 365 ([https://portal.office.com](https://portal.office.com)) pomocou poverení správcu existujúcich služieb Office 365. Po úspešne sa prihlásite, dostanete ďalší e-mail potvrdzujúci váš nákup.
+5. Prihláste sa do Microsoft 365 admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) pomocou existujúcich poverení správcu Office 365. Po úspešnom prihlásení dostanete ďalší e-mail potvrdzujúci váš nákup.
 
-6. Po prihlásení, môžete ísť do **fakturácie** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky overiť, že váš zakúpený Office 365 predplatné sú aktivované v rámci nájomcu. (Môžete tiež karte **predplatné** v VLSC zobrazíte Podrobnosti overenia, že bol uložený predplatného.)
+6. Po prihlásení môžete prejsť na stránku **fakturácie** \> [Products _ amp _ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) a overiť, či zakúpené prihlásenia na odber balíka Office 365 sú aktivované v rámci nájomcu. (Môžete tiež vybrať kartu **predplatné** v VLSC Zobraziť podrobnosti overenie, že vaše predplatné bolo uložené.)

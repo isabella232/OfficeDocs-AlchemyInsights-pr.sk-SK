@@ -3,19 +3,18 @@ title: Problémy s spoofing, phishing alebo zosobnenie?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765387"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661491"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problémy s spoofing, phishing alebo zosobnenie?
 
@@ -33,6 +32,6 @@ Zistite, ako služby Office 365 chránia vás:
 
 - Overiť, že nemáte nakonfigurované používateľom povoliť položky zoznamu, ktorý by mohol umožniť phishingových útokov.
 
-- Zvážiť poskytovanie vysokej spoľahlivosti nevyžiadanej pošty a neoprávneného získavania údajov správ do karantény namiesto priečinka nevyžiadanej pošty.
+- Za doručovanie vysokou spoľahlivosťou spamu a phishingu správ do karantény namiesto priečinka nevyžiadanej pošty.
 
-**Už ste [hlásená túto správu do spoločnosti Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)? To je najlepší spôsob, ako, dajte nám vedieť, ako si vedú filtre.**
+**[Podávanie správ spoločnosti Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je najlepším spôsobom a dajte nám vedieť, ako si vedú filtre.**

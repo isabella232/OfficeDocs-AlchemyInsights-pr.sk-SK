@@ -1,5 +1,5 @@
 ---
-title: Zmeniť povolenia pre poštovú schránku
+title: Zmena povolení v poštovej schránke
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fc58e79d98a8ec617d065f147d12171a472573b8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359996"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661419"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Zmeniť povolenia pre poštovú schránku
+# <a name="changing-permissions-on-a-mailbox"></a>Zmena povolení v poštovej schránke
 
-Ak používatelia potrebujú prístup k poštovým schránkam než je ich vlastný, musia mať povolenia na prácu s týchto poštových schránok. Ako priradiť tieto povolenia, závisí od typu poštovej schránky. Ak používatelia potrebujú prístup k:
+Ak používatelia potrebujú prístup k Office 365 poštové schránky iné ako ich vlastné, musia byť udelené povolenia na prácu s týmito poštovými schránkami. Spôsob priradenia týchto povolení závisí od typu poštovej schránky. Ak používatelia potrebujú prístup k:
   
-- Poštovým schránkam iných používateľov - Prečítajte si prosím [dať povolenia poštovej schránky iného používateľa v balíku Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Poštové schránky ostatných používateľov – Prečítajte si, prosím, [poskytnite povolenia poštových schránok inému používateľovi v balíku Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
     
-- Zdieľanú poštovú schránku - Prečítajte si [Pridať alebo odstrániť členov zo zdieľanej poštovej schránky](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Zdieľaná poštová schránka – Prečítajte si, prosím, [Pridať alebo odstrániť členov zo zdieľanej poštovej schránky](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Ak povolenia nefungujú správne, po vykonaní vyššie uvedených krokov, prejdite na výmenu admin center a skúste nastaviť povolenia odtiaľ (pozri [Správa povolení pre príjemcov](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Ak povolenia nefungujú správne po urobíte vyššie uvedených krokov, prejdite na Exchange Admin Center a pokúste sa nastaviť povolenia odtiaľ (pozri [Spravovať povolenia pre príjemcov](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

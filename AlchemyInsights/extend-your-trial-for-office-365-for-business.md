@@ -3,7 +3,6 @@ title: Predĺženie skúšobnej verzie služieb Office 365 for Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575653"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665019"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Predĺženie skúšobnej verzie služieb Office 365 for Business
+# <a name="extend-your-trial-for-office-365-for-business"></a>Predĺženie skúšobnej verzie služieb Office 365 pre podniky
 
 Ak vaše hodnotenie predplatné je do 15 dní od končí a súdnom konaní nebol bol rozšírený pred, môžete rozšíriť vaše hodnotenie na ďalšie 30-dňové obdobie. Môžete urobiť len to raz.
   
@@ -32,4 +31,4 @@ Ak vaše hodnotenie predplatné je do 15 dní od končí a súdnom konaní nebol
 
 4. Budete musieť poskytnúť informácie o kreditnej karte na predĺženie skúšobnej verzie. Neúčtujeme kreditnej karty skúšobnej rozšírenie.
 
-Používate starý admin center? Staré kroky, alebo sa dozvedieť viac, pozrite sa na [predĺženie skúšobnej verzie služieb Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Ďalšie informácie, pozrite si [predĺženie skúšobnej verzie služieb Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

@@ -3,7 +3,6 @@ title: Zapnúť a vyhľadávanie denník auditu
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527738"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665091"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Zapnúť a vyhľadávanie denník auditu
+
+**Office 365**
 
 Vyhľadávanie denník auditu Office 365, postupujte [nasledovne](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Vyhľadávanie denník auditu Office 365, postupujte [nasledovne](https://docs.m
 
 - Auditované predvolene Exchange admin činnosti.
 
-- Sme v procese umožňujúce schránku auditovanie predvolene v balíku Office 365. Do tej doby, povoliť auditovanie asingle schránky alebo pre všetky poštové schránky v organizácii, pozrite si [Tento článok](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Schránku auditovania je zapnutá predvolene v balíku Office 365. Ďalšie informácie nájdete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 skupiny poštových schránok a verejných priečinkov poštových schránok v službe Exchange Online nepodporujú denníka pre audit.
 

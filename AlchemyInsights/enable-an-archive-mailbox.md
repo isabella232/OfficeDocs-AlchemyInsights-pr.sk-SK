@@ -2,7 +2,6 @@
 title: Zapnúť archívnu poštovú schránku
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527810"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665158"
 ---
 # <a name="enable-an-archive-mailbox"></a>Zapnúť archívnu poštovú schránku
 
-Archívna poštová schránka Office 365 (tiež volal *Online Archív* ) poskytnúť užívateľom s dodatočné email skladovanie. Používatelia môžu presúvať alebo kopírovať položky do archívnej poštovej schránky, a správcovia môžu vytvoriť politiku archivácie, politiku, ktorá automaticky presúva položky do archívu poštové schránky.
+Archívna poštová schránka Office 365 (tiež volal *Online Archív*) poskytnúť užívateľom s dodatočné email skladovanie. Používatelia môžu presúvať alebo kopírovať položky do archívnej poštovej schránky, a správcovia môžu vytvoriť politiku archivácie, politiku, ktorá automaticky presúva položky do archívu poštové schránky.
   
 Tu je návod, ako vytvoriť archívnej poštovej schránky:
   
@@ -28,13 +27,13 @@ Tu je návod, ako vytvoriť archívnej poštovej schránky:
 
 2. Prihláste sa do služby Office 365 admin účtu.
 
-3. Na ľavej table zabezpečenie &amp; centrum súladu, kliknite **dát riadenia** \> **Archív**.
+3. Na ľavej table zabezpečenie &amp; centrum súladu, vyberte **údaje riadenia** \> **Archív**.
 
 4. Vyberte používateľa, ktorého archívnej poštovej schránky, ktorú chcete zapnúť.
 
-5. V table s podrobnosťami na pravej strane kliknite na tlačidlo **Povoliť** a potom kliknite na tlačidlo **Áno** v chybovom hlásení povoliť archívnej poštovej schránky.
+5. V table s podrobnosťami na pravej strane zvoľte **Povoliť** a potom vyberte **Áno** v chybovom hlásení povoliť archívnej poštovej schránky.
 
-Môžete tiež hromadne-zapnúť Archív poštových schránok výberom viacerých používateľov (pomocou klávesy **Shift** alebo **Ctrl** ) a v table s podrobnosťami kliknutím na položku **Povoliť** .
+Môžete tiež hromadne-zapnúť Archív poštových schránok výberom viacerých používateľov (pomocou klávesy **Shift** alebo **Ctrl** ) a potom vyberiete **Povoliť** v table s podrobnosťami.
   
 Ďalšie informácie nájdete v téme:
   
