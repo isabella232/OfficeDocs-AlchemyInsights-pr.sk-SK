@@ -3,7 +3,6 @@ title: Obnoviť alebo zmeniť heslá
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,18 +13,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d546e7a5f3e7eb6a46467b96ad7f1cea84045cca
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552306"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666423"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a><span data-ttu-id="88256-102">Obnoviť alebo zmeniť heslo Office 365 business</span><span class="sxs-lookup"><span data-stu-id="88256-102">Reset or change Office 365 business passwords</span></span>
+# <a name="reset-or-change-office-365-business-passwords"></a><span data-ttu-id="e96a1-102">Obnoviť alebo zmeniť heslo Office 365 business</span><span class="sxs-lookup"><span data-stu-id="e96a1-102">Reset or change Office 365 business passwords</span></span>
 
-<span data-ttu-id="88256-103">Používateľ môže zmeniť svoje vlastné heslo z [môj účet, bezpečnostné &amp; ochrany](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="88256-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="e96a1-103">Používateľ môže zmeniť svoje vlastné heslo z **môjho účtu** > [bezpečnosť & súkromie](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="e96a1-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="88256-104">Ak používateľ má zabudli svoje heslo, admin môžete resetovať heslo pre **používateľov** > [aktívnych používateľov](https://portal.office.com/adminportal/home#/users), vyberte používateľa alebo používateľov a **hesla**.</span><span class="sxs-lookup"><span data-stu-id="88256-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and select **Reset password**.</span></span>
+<span data-ttu-id="e96a1-104">Ak používateľ má zabudli svoje heslo, admin môžete resetovať heslo pre **používateľov** > [aktívnych používateľov](https://portal.office.com/adminportal/home#/users), výberom (ov) a výberom položky **obnoviť heslo**.</span><span class="sxs-lookup"><span data-stu-id="e96a1-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), selecting the user(s), and selecting **Reset password**.</span></span>
   
-<span data-ttu-id="88256-105">[Kliknite tu sa dozviete viac](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), alebo používateľom obnoviť zabudnuté heslá.</span><span class="sxs-lookup"><span data-stu-id="88256-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="e96a1-105">[Kliknite tu sa dozviete viac](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), alebo používateľom obnoviť zabudnuté heslá.</span><span class="sxs-lookup"><span data-stu-id="e96a1-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
   

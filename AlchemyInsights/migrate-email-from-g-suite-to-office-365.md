@@ -1,5 +1,5 @@
 ---
-title: Migráciu e-mail od G Suite na Office 365
+title: Migrácia e-mailu zo služby G Suite do balíka Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544600"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666927"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="dd3c1-102">Migráciu e-mail od G Suite na Office 365</span><span class="sxs-lookup"><span data-stu-id="dd3c1-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="c7b3d-102">Migrácia e-mailu zo služby G Suite do balíka Office 365</span><span class="sxs-lookup"><span data-stu-id="c7b3d-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="dd3c1-103">Migrovať e-mail od G Suite Office 365, použite naše nástroje migrácie migrovať e-mail, kalendár a kontakty: [vykonať migráciu G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="dd3c1-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="c7b3d-103">Ak chcete migrovať e-maily zo služby G Suite do balíka Office 365, použite naše migračné nástroje na migráciu e-mailov, kalendárov a kontaktov: [vykonajte migráciu G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span><span class="sxs-lookup"><span data-stu-id="c7b3d-103">To migrate email from G Suite to Office 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   
