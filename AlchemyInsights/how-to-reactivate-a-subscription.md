@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574777"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664011"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Opätovná aktivácia predplatného
 
@@ -32,4 +32,4 @@ Ak platnosť predplatného uplynula, ak ste predplatné zrušili alebo ak ho spo
 
 3. Potvrďte podrobnosti platby. Na tomto mieste môžete aktualizovať aj svoje existujúce informácie o platbe. Po zadaní spôsobu platby vyberte položku **Znovu aktivovať**.
 
-Používate staré centrum spravovania? Pôvodné kroky a ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)
+Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)
