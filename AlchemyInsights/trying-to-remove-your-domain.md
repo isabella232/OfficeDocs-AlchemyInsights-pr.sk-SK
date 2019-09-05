@@ -11,18 +11,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: 9dffa6c2284e1960cadd851b197c7afaf66b2704
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533318"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742568"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="b441c-102">Pokúšate sa odstrániť svoju doménu?</span><span class="sxs-lookup"><span data-stu-id="b441c-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="708e9-102">Pokúšate sa odstrániť svoju doménu?</span><span class="sxs-lookup"><span data-stu-id="708e9-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="b441c-103">Odstrániť domény z Office 365, postupujte podľa krokov v tomto článku: [odstrániť domény z Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span><span class="sxs-lookup"><span data-stu-id="b441c-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span></span>
+<span data-ttu-id="708e9-103">Ak chcete odstrániť doménu z balíka Office 365, postupujte podľa krokov v tomto článku: [Odstránenie domény z balíka office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span><span class="sxs-lookup"><span data-stu-id="708e9-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)</span></span>
   
-<span data-ttu-id="b441c-104">Budete musieť aktualizovať používateľov alebo skupiny, ktoré sú priradené k názvu domény, musíte odstrániť domény.</span><span class="sxs-lookup"><span data-stu-id="b441c-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
+<span data-ttu-id="708e9-104">Pred odstránením domény budete musieť aktualizovať všetkých používateľov alebo skupiny, ktoré sú priradené k tomuto názvu domény.</span><span class="sxs-lookup"><span data-stu-id="708e9-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
   
-<span data-ttu-id="b441c-105">Ďalšie bežné riešenia nájdete v téme [Domény: najčastejšie otázky](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).</span><span class="sxs-lookup"><span data-stu-id="b441c-105">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
+<span data-ttu-id="708e9-105">Ďalšie bežné riešenia [nájdete v článku domény](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) .</span><span class="sxs-lookup"><span data-stu-id="708e9-105">[Check the domains article](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for other common solutions.</span></span>
   

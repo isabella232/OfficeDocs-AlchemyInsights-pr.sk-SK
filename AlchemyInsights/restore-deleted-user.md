@@ -1,5 +1,5 @@
 ---
-title: Obnoviť odstránené používateľské
+title: Obnovenie odstráneného používateľa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551826"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745088"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="0a29d-102">Obnovenie používateľa v balíku Office 365</span><span class="sxs-lookup"><span data-stu-id="0a29d-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="61aaf-102">Obnovenie používateľa v balíku Office 365</span><span class="sxs-lookup"><span data-stu-id="61aaf-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="0a29d-103">Obnovenie používateľa v balíku Office 365 pomocou nasledujúcich krokov:</span><span class="sxs-lookup"><span data-stu-id="0a29d-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="61aaf-103">Obnovenie používateľa v balíku Office 365 pomocou týchto krokov:</span><span class="sxs-lookup"><span data-stu-id="61aaf-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="0a29d-104">Prejsť na [užívateľov \> odstránené používateľom](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="0a29d-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
+1. <span data-ttu-id="61aaf-104">Prejsť na [používateľov \> odstránených používateľov](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="61aaf-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
 
-2. <span data-ttu-id="0a29d-105">Vybrať používateľa vyberte položku **obnoviť**.</span><span class="sxs-lookup"><span data-stu-id="0a29d-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="61aaf-105">Vyberte používateľa a potom položku **obnoviť**.</span><span class="sxs-lookup"><span data-stu-id="61aaf-105">Choose the user, then select **Restore**.</span></span>
 
-3. <span data-ttu-id="0a29d-106">Postupujte podľa pokynov na nastavenie hesla.</span><span class="sxs-lookup"><span data-stu-id="0a29d-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="61aaf-106">Postupujte podľa pokynov na nastavenie hesla.</span><span class="sxs-lookup"><span data-stu-id="61aaf-106">Follow the prompts to set the password.</span></span>
 
-4. <span data-ttu-id="0a29d-107">Kliknite na položku **Odoslať e-mail a zavrieť**, a máte hotovo!</span><span class="sxs-lookup"><span data-stu-id="0a29d-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="61aaf-107">Kliknite na tlačidlo **Odoslať e-mail a zavrieť**, a máte hotovo!</span><span class="sxs-lookup"><span data-stu-id="61aaf-107">Click **Send email and close**, and you're done!</span></span>
 
-<span data-ttu-id="0a29d-108">Nebolo to ľahké?</span><span class="sxs-lookup"><span data-stu-id="0a29d-108">Wasn't that easy?</span></span> <span data-ttu-id="0a29d-109">Pre viac informácií a krokov s náhľadmi obrazoviek, pozrite sa na tento článok: [obnovení používateľa v balíku Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span><span class="sxs-lookup"><span data-stu-id="0a29d-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="0a29d-110">Ak si uvedomíte, namiesto toho budete musieť obnoviť v poštovej schránke používateľa, pozrite si: [Odstránenie alebo obnovenie používateľských poštových schránok v systéme Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="0a29d-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
+<span data-ttu-id="61aaf-108">Nebolo to jednoduché?</span><span class="sxs-lookup"><span data-stu-id="61aaf-108">Wasn't that easy?</span></span> <span data-ttu-id="61aaf-109">Pre viac informácií a krokov s obrazoviek, pozrite sa na tento článok: [obnovenie používateľa v balíku Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="61aaf-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span> <span data-ttu-id="61aaf-110">Ak si uvedomíte, že namiesto toho je potrebné obnoviť poštovú schránku používateľa, pozrite si: [Odstránenie alebo obnovenie poštových schránok používateľov v službe Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="61aaf-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>

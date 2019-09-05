@@ -1,5 +1,5 @@
 ---
-title: eDiscovery vývoz nástroj
+title: nástroj na export eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528278"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736340"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="a7731-102">Nemôžete nainštalovať alebo spustiť eDiscovery nástroj pre Export?</span><span class="sxs-lookup"><span data-stu-id="a7731-102">Can't install or run the eDiscovery Export Tool?</span></span>
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a><span data-ttu-id="be7bd-102">Nie je možné nainštalovať alebo spustiť nástroj na export eDiscovery?</span><span class="sxs-lookup"><span data-stu-id="be7bd-102">Can't install or run the eDiscovery Export Tool?</span></span>
 
-<span data-ttu-id="a7731-103">Ak nemôžete nainštalovať alebo spustiť Office 365 eDiscovery vývoz nástroj Stiahnuť výsledky hľadania, skontrolujte nasledovné:</span><span class="sxs-lookup"><span data-stu-id="a7731-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
+<span data-ttu-id="be7bd-103">Ak nemôžete nainštalovať alebo spustiť Office 365 eDiscovery Export nástroj na stiahnutie výsledkov vyhľadávania, skontrolujte nasledujúce veci:</span><span class="sxs-lookup"><span data-stu-id="be7bd-103">If you can't install or run the Office 365 eDiscovery Export Tool to download search results, check the following things:</span></span>
   
-- <span data-ttu-id="a7731-104">Počítač, ktorý používate spĺňa tieto predpoklady:</span><span class="sxs-lookup"><span data-stu-id="a7731-104">The computer you're using meets these pre-requisites:</span></span>
+- <span data-ttu-id="be7bd-104">Počítač, ktorý používate, spĺňa tieto predpoklady:</span><span class="sxs-lookup"><span data-stu-id="be7bd-104">The computer you're using meets these pre-requisites:</span></span>
 
-  - <span data-ttu-id="a7731-105">32 - alebo 64-bitové verzie Windows 7 a novšie verzie</span><span class="sxs-lookup"><span data-stu-id="a7731-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
+  - <span data-ttu-id="be7bd-105">32-alebo 64-bitové verzie systému Windows 7 a novšie verzie</span><span class="sxs-lookup"><span data-stu-id="be7bd-105">32- or 64-bit versions of Windows 7 and later versions</span></span>
 
-  - <span data-ttu-id="a7731-106">Microsoft .NET Framework 4,7</span><span class="sxs-lookup"><span data-stu-id="a7731-106">Microsoft .NET Framework 4.7</span></span>
+  - <span data-ttu-id="be7bd-106">Microsoft .NET Framework 4,7</span><span class="sxs-lookup"><span data-stu-id="be7bd-106">Microsoft .NET Framework 4.7</span></span>
 
-  - <span data-ttu-id="a7731-107">Podporované prehľadávače:</span><span class="sxs-lookup"><span data-stu-id="a7731-107">A supported browser:</span></span>
+  - <span data-ttu-id="be7bd-107">Podporovaný prehliadač:</span><span class="sxs-lookup"><span data-stu-id="be7bd-107">A supported browser:</span></span>
 
-  - <span data-ttu-id="a7731-108">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="a7731-108">Microsoft Edge</span></span>
+  - <span data-ttu-id="be7bd-108">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="be7bd-108">Microsoft Edge</span></span>
 
-    <span data-ttu-id="a7731-109">Alebo</span><span class="sxs-lookup"><span data-stu-id="a7731-109">Or</span></span>
+    <span data-ttu-id="be7bd-109">Alebo</span><span class="sxs-lookup"><span data-stu-id="be7bd-109">Or</span></span>
 
-  - <span data-ttu-id="a7731-110">Internet Explorer 10 a novšie verzie</span><span class="sxs-lookup"><span data-stu-id="a7731-110">Internet Explorer 10 and later versions</span></span>
+  - <span data-ttu-id="be7bd-110">Internet Explorer 10 a novšie verzie</span><span class="sxs-lookup"><span data-stu-id="be7bd-110">Internet Explorer 10 and later versions</span></span>
 
-    <span data-ttu-id="a7731-111">Ostatné prehliadače, ako Google Chrome a Mozilla Firefox nie sú podporované.</span><span class="sxs-lookup"><span data-stu-id="a7731-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
+    <span data-ttu-id="be7bd-111">Iné prehliadače, napríklad Google Chrome a Mozilla Firefox, nie sú podporované.</span><span class="sxs-lookup"><span data-stu-id="be7bd-111">Other browsers, such as Google Chrome and Mozilla Firefox aren't supported.</span></span>
 
-- <span data-ttu-id="a7731-112">Vaša organizácia môže pripojiť k koncového bodu Azure, ktorý je \*\* \*. blob.core.windows.net\*\* (zástupný znak predstavuje jedinečný identifikátor úloha export).</span><span class="sxs-lookup"><span data-stu-id="a7731-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
+- <span data-ttu-id="be7bd-112">Vaša organizácia sa môže pripojiť k koncový bod v Azure, ktorý je \*\* \*. blob.Core.Windows.net\*\* (zástupný znak predstavuje Jednoznačný identifikátor pre vašu úlohu exportu).</span><span class="sxs-lookup"><span data-stu-id="be7bd-112">Your organization can connect to the endpoint in Azure, which is **\*.blob.core.windows.net** (the wildcard represents a unique identifier for your export job).</span></span>
 
-- <span data-ttu-id="a7731-113">Ste priradiť rolu Export v Office 365 zabezpečenia &amp; centrum súladu.</span><span class="sxs-lookup"><span data-stu-id="a7731-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="a7731-114">Predvolene táto rola priradená len eDiscovery skupiny rolí správcu.</span><span class="sxs-lookup"><span data-stu-id="a7731-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="a7731-115">Nájdete v časti [Priradenie povolení eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).</span><span class="sxs-lookup"><span data-stu-id="a7731-115">See [Assign eDiscovery permissions](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).</span></span>
+- <span data-ttu-id="be7bd-113">Priradíte rolu exportu v centre zabezpečenia &amp; Office 365.</span><span class="sxs-lookup"><span data-stu-id="be7bd-113">You're assigned the Export role in the Office 365 Security &amp; Compliance Center.</span></span> <span data-ttu-id="be7bd-114">Táto rola je predvolene priradená len skupine rolí eDiscovery Manager.</span><span class="sxs-lookup"><span data-stu-id="be7bd-114">By default, this role is only assigned to the eDiscovery Manager role group.</span></span> <span data-ttu-id="be7bd-115">Pozrite si [Priradenie povolení eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span><span class="sxs-lookup"><span data-stu-id="be7bd-115">See [Assign eDiscovery permissions](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).</span></span>
 
-<span data-ttu-id="a7731-116">Pre viac informácií, pozri [Export obsahu vyhľadávanie výsledky](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).</span><span class="sxs-lookup"><span data-stu-id="a7731-116">For more information, see [Export Content Search results](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).</span></span>
+<span data-ttu-id="be7bd-116">Ďalšie informácie nájdete v téme [exportovanie výsledkov vyhľadávania obsahu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span><span class="sxs-lookup"><span data-stu-id="be7bd-116">For more information, see [Export Content Search results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
   

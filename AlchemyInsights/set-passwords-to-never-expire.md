@@ -1,5 +1,5 @@
 ---
-title: Nastaviť heslo nikdy skončí
+title: Nastavenie hesiel na nikdy neskončí
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b74e12a2618ff34d27886eb6b8cf628f689307b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550098"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741128"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="f3cbb-102">Nastaviť heslo nikdy skončí</span><span class="sxs-lookup"><span data-stu-id="f3cbb-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="dfc65-102">Nastavenie hesiel na nikdy neskončí</span><span class="sxs-lookup"><span data-stu-id="dfc65-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="f3cbb-103">Nastaviť heslo nikdy skončí z [zabezpečenia &amp; ochrany](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="f3cbb-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="f3cbb-104">Kliknite na "Upraviť" vedľa politika hesla, a zase jazdca na "on".</span><span class="sxs-lookup"><span data-stu-id="f3cbb-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
+<span data-ttu-id="dfc65-103">Nastavenie hesiel nikdy neskončí z [ochrany &amp; osobných údajov zabezpečenia](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="dfc65-103">Set passwords to never expire from [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="dfc65-104">Kliknite na tlačidlo "Upraviť" vedľa politiky hesiel a otočte jazdec na "on".</span><span class="sxs-lookup"><span data-stu-id="dfc65-104">Click "Edit" next to Password Policy, and turn the slider to "on".</span></span>
   
-<span data-ttu-id="f3cbb-105">Podrobnejšie informácie nájdete: [Nastavenie politiky uplynutia platnosti hesla pre vašu organizáciu](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span><span class="sxs-lookup"><span data-stu-id="f3cbb-105">For more detailed information see: [Set the password expiration policy for your organization](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).</span></span>
+<span data-ttu-id="dfc65-105">Podrobnejšie informácie nájdete v téme: [Nastavenie politiky uplynutia platnosti hesla pre vašu organizáciu](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).</span><span class="sxs-lookup"><span data-stu-id="dfc65-105">For more detailed information see: [Set the password expiration policy for your organization](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).</span></span>
   
 

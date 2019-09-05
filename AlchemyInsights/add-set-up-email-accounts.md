@@ -1,5 +1,5 @@
 ---
-title: 1800018 Pridanie/nastaviť e-mailové kontá
+title: 1800018 pridať/nastaviť e-mailové kontá
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494974"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737996"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="42c89-102">Problémy s nastavením konta Exchange e-mail v programe Outlook</span><span class="sxs-lookup"><span data-stu-id="42c89-102">Problems setting up an Exchange email account in Outlook</span></span>
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="207b4-102">Problémy s nastavením e-mailového konta Exchange v programe Outlook</span><span class="sxs-lookup"><span data-stu-id="207b4-102">Problems setting up an Exchange email account in Outlook</span></span>
 
-<span data-ttu-id="42c89-103">Ak máte problémy s nastavením konta Exchange v programe Outlook, môžete spustiť [nástroj Outlook účet nastavenie](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutého počítača.</span><span class="sxs-lookup"><span data-stu-id="42c89-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="42c89-104">Bude vykonávať rôzne kontroly a poskytnúť možné riešenie vášho konta nastavenie problém.</span><span class="sxs-lookup"><span data-stu-id="42c89-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
+<span data-ttu-id="207b4-103">Ak máte problémy s nastavením konta Exchange v programe Outlook, môžete spustiť [nástroj na nastavenie konta programu Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutom počítači.</span><span class="sxs-lookup"><span data-stu-id="207b4-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="207b4-104">Bude vykonávať rôzne kontroly a poskytnúť možné riešenia pre váš problém nastavenia účtu.</span><span class="sxs-lookup"><span data-stu-id="207b4-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
   
-<span data-ttu-id="42c89-105">Ak máte stále problémy, pozrite si [Outlook nemôže nastaviť nový profil pomocou funkcie Exchange Autodiscover pre schránku Exchange Online v Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span><span class="sxs-lookup"><span data-stu-id="42c89-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).</span></span>
+<span data-ttu-id="207b4-105">Ak problémy pretrvávajú, pozrite si [program Outlook nemôže nastaviť nový profil pomocou služby Exchange Autodiscover pre poštovú schránku Exchange Online v balíku Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span><span class="sxs-lookup"><span data-stu-id="207b4-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
   

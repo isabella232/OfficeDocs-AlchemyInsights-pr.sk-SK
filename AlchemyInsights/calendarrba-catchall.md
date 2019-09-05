@@ -1,5 +1,5 @@
 ---
-title: 1081 kalendár - RBA všehochuť
+title: 1081 kalendár-RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505882"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737636"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="bf01f-102">Vytvoriť a spravovať poštové schránky miestnosti</span><span class="sxs-lookup"><span data-stu-id="bf01f-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="19a6e-102">Vytvorenie a spravovanie poštových schránok miestnosti</span><span class="sxs-lookup"><span data-stu-id="19a6e-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="bf01f-103">Vytvoriť a upraviť poštové schránky miestnosti, nájdete v [vytvoriť a spravovať poštové schránky miestnosti](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="bf01f-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="19a6e-103">Ak chcete vytvoriť a upraviť poštové schránky miestnosti, pozrite si časti [Vytvorenie a spravovanie poštových schránok miestnosti](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="19a6e-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="bf01f-104">Ďalšie informácie o schránok miestnosti a zariadenia (tiež známy ako zdroj schránky), pozri [poštové schránky miestnosti a zariadenia](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="bf01f-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="19a6e-104">Ďalšie informácie o poštových schránkach miestnosti a zariadení (známych aj ako poštové schránky prostriedku) nájdete v časti [poštové schránky miestnosti a zariadenia](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="19a6e-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>
