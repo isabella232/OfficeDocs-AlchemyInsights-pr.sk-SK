@@ -1,5 +1,5 @@
 ---
-title: Externého používateľa nemôžete prístup k obsahu
+title: Externý používateľ nemôže získať prístup k obsahu
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526046"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740048"
 ---
-# <a name="external-user-cannot-access-content"></a>Externého používateľa nemôžete prístup k obsahu
+# <a name="external-user-cannot-access-content"></a>Externý používateľ nemôže získať prístup k obsahu
 
-Ak externý používateľ bol pozvaný a nemôže získať prístup k obsahu, prosím skúste navštíviť nižšie uvedené odkazy:
+Ak externý používateľ bol pozvaný a nie je schopný získať prístup k obsahu, skúste navštíviť nižšie uvedené odkazy:
 
-- ["Prístup odmietnutý", "Je potrebné povolenie na prístup k tejto stránke", alebo "Používateľ nenašiel v adresári" chyby v SharePoint Online a OneDrive pre podniky](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Politiky vašej organizácie nepovoľuje zdieľanie s týmito užívateľmi" chyba pri zdieľaní položky alebo lokality SharePoint Online alebo OneDrive pre podniky](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Možnosti zdieľania sú zašednuté, keď zdieľanie zo služby SharePoint Online alebo OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Chybové hlásenie pri externého používateľa prijíma pozvanie na SharePoint Online pomocou iného konta](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE zdieľanie chýb v službe SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Prístup odmietnutý", "potrebujete povolenie na prístup k tejto lokalite" alebo "používateľ nenašiel v adresári" chyby SharePoint Online a OneDrive pre podniky](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Vaša organizácia politiky neumožňujú zdieľať s týmito používateľmi" chyba pri zdieľaní položky alebo lokality SharePoint Online alebo OneDrive pre podniky](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Možnosti zdieľania sú sivé pri zdieľaní z lokality SharePoint Online alebo OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Chybové hlásenie, keď externý používateľ akceptuje SharePoint Online pozvanie pomocou iného konta](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE zdieľanie chýb v SharePointe a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

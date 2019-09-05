@@ -1,5 +1,5 @@
 ---
-title: Swap vaše klasickej koreňovej lokality s moderný web
+title: Swap klasickej koreňovej stránky s moderným mieste
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501094"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749275"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap vaše klasickej koreňovej lokality s moderný web
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap klasickej koreňovej stránky s moderným mieste
 
-Ak vaše prostredie bola zriadená pred máj 2019, môžete zmeniť koreňovou lokalitou na moderné stránky pomocou Microsoft PowerShell:
+Ak bolo vaše prostredie nastavené pred aprílom 2019, môžete zmeniť koreňovú lokalitu na modernú lokalitu pomocou prostredia Microsoft PowerShell:
 
-- Ak máte rôzne stránky, ktoré chcete použiť ako koreňovú lokalitu, môžete nahradiť (swap) koreň mieste s ním. 
-    - Pomocou [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) swap umiestnenie lokality s ďalším mieste počas archivácie pôvodnej lokality. K dispozícii pre tím stránky (nie je pripojený k skupine) a komunikácie miesto. 
+- Ak máte inú lokalitu, ktorú chcete použiť ako svoju koreňovú lokalitu, môžete s ňou nahradiť [(vymeniť) koreňovú lokalitu](https://docs.microsoft.com/sharepoint/modern-root-site) . 
+    - Použitie [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) swap umiestnenie stránky s inou lokalitou pri archivácii pôvodnej stránky. K dispozícii pre obe tímové stránky (nie je pripojený k skupine) a komunikačné stránky. 
 
-- Ďalšie možnosti budú zavedené čoskoro ktoré vám umožní používať obsah na webe, ale prevod existujúcej lokality na lokalitu komunikácie. 
+- Ďalšie možnosti budú predstavené čoskoro, že vám umožní udržať používanie obsahu na webe, ale previesť existujúce stránky na komunikačné miesto. 
 >[!Important]
->Tieto schopnosti bude postupne váľa. Pokračovať v kontrole stredisku správ v Office 365 aktualizácie. 
+>Tieto schopnosti budú postupne váľa. Pokračovať v kontrole Office 365 centrum správ pre aktualizácie. 
 
-## <a name="known-issues-with-swapping-sites"></a>Známe problémy s vymieňania lokalít
+## <a name="known-issues-with-swapping-sites"></a>Známe problémy s vymenením lokalít
 
-- Cieľová lokalita môže vrátiť "nebol nájdený" chyba (HTTP 404) za krátky čas.
-- Obsah bude musieť byť recrawled aktualizovať index vyhľadávania. Neexistuje žiadny manuál krok potrebný - to sa deje automaticky.
-- Všetko závisí od "statické" odkazy (napríklad synchronizáciu súborov a OneNote súbory) treba manuálne opraviť.
-- Ak zdroj stránky bolo organizačné Novinky stránok, aktualizácia URL.Získajte zoznam všetkých organizačných spravodajských webov.
-- Project Server lokality musí validovať zabezpečiť, že sú stále spojené správne.
+- Cieľová lokalita môže vrátiť chybu "Not Found" (HTTP 404) na krátku dobu.
+- Obsah bude musieť byť recrawled aktualizovať vyhľadávací index. Nie je potrebný manuálny krok-to bude vykonané automaticky.
+- Čokoľvek závislé na "statické" odkazy (napríklad synchronizácia súborov a súbory programu OneNote) bude potrebné manuálne opraviť.
+- Ak zdrojová lokalita bola lokalita správy organizácie, aktualizujte adresu URL.Získajte zoznam všetkých organizačných spravodajských webov.
+- Lokality Project Server môže byť potrebné overiť, aby sa zabezpečilo, že sú stále spojené správne.
 
 
 

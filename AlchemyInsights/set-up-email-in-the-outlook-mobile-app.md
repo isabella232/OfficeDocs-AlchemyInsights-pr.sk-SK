@@ -1,5 +1,5 @@
 ---
-title: 1800014 nastaviť e-mail v programe Outlook mobile app
+title: 1800014 nastavenie e-mailu v aplikácii Outlook Mobile App
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509224"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734180"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Nastavenie e-mailu v aplikácii Outlook mobilnej
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Nastavenie e-mailu v mobilnej aplikácii Outlook
 
-1. Vyberte **Začať** , ak je to po prvýkrát nastavujete email v mobilnej aplikácii. Inak, ťuknite na položku **ponuka** a potom klepnite na položky **nastavenia** \> **Pridať účet** \> **Pridajte e-mailové konto**.
+1. Vyberte možnosť **Začíname** , ak je to váš prvý čas nastavenia e-mailu v mobilnej aplikácii. V opačnom prípade ťuknite na **ponuku** a potom na položku **Nastavenie** \> **Pridať konto** \> **Pridať e-mailový účet**.
 
-2. Zadajte svoju úplnú e-mailovú adresu a ťuknite na položku **pokračovať** alebo **Pridať konto**.
+2. Zadajte celú e-mailovú adresu a ťuknite na položku **pokračovať** alebo **Pridať účet**.
 
-3. Zadajte heslo konta e-mail a ťuknite na položku **Prihlásiť** alebo **Ďalšie**.
+3. Zadajte heslo e-mailového konta a ťuknite na položku **Prihlásiť sa** alebo **ďalej**.
 
-4. Ak je povolené [viacnásobné overovanie](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , overiť metódou nastavíte (6 číselný kód, telefonický hovor alebo aplikácie Microsoft Authenticator).
+4. Ak je povolené viacnásobné overovanie, overte pomocou [nastavovacej](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) metódy (6-miestny kód, telefónny hovor alebo aplikáciu Microsoft Authenticator).
 
-5. Ak ďalšie IT admin politiky v miesto, ťuknite na položku **aktivovať** im.
+5. Ak sú na mieste ďalšie politiky správcu IT, ťuknutím na položku **aktivovať** ich povoľte.
 
-6. Program Outlook môže požadovať povolenie na prístup k kalendára, kontakty a iné informácie. Vyberte **Áno** , alebo **Povoliť**.
+6. Program Outlook môže požiadať o povolenie na prístup k kalendáru, kontaktom a ďalším informáciám. Vyberte možnosť **Áno** alebo **Povoliť**.
 
-Získajte podrobné nastavenie tu pokyny pre [program Outlook pre iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) alebo [Outlook pre Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) .
+Získajte podrobné nastavenie pokynov pre [program Outlook pre Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) alebo [Outlook pre iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tu.
   
- **Potrebujete pomôcť?**
+ **Potrebujete pomoc?**
   
-- [Riešenie problémov s nastavenie e-mailu v mobile](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Riešenie problémov s nastavením e-mailu v Mobile](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Pomocník v aplikácii programu Outlook pre iOS a Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Získanie Pomocníka v aplikácii pre program Outlook pre iOS a Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

@@ -1,5 +1,5 @@
 ---
-title: Priradiť alebo odstrániť licencie používateľov
+title: Priradenie alebo odstránenie licencií používateľov
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574449"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736988"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Priradiť alebo odstrániť licencie používateľov
+# <a name="assign-or-remove-users-licenses"></a>Priradenie alebo odstránenie licencií používateľov
 
-Ako správca, môžete upraviť používateľských licencií podľa potreby. Nasledujúce články vám ukáže, ako spravovať licencie používateľov, vrátane:
+Ako správca môžete podľa potreby upraviť licencie používateľov. Nižšie uvedené články vám ukáže, ako spravovať licencie používateľov, vrátane:
   
-- [Priradenie licencie používateľov balíka Office 365 pre podniky](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Priradenie licencií používateľom balíka Office 365 pre podniky](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Priradenie licencie od používateľov balíka Office 365 pre podniky](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Zrušiť priradenie licencií od používateľov balíka Office 365 pre podniky](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Nechcel odpovedať na vašu otázku? bez problémov! Pomocou tlačidla "Potrebujú pomoc", obráťte sa na pracovníka technickej podpory.
+Neodpovedal na vašu otázku? bez problémov! Pomocou tlačidla "potrebujete pomoc" sa porozprávajte s inžinierom technickej podpory.

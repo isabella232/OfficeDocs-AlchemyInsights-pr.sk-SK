@@ -1,5 +1,5 @@
 ---
-title: Zapnúť archívnu poštovú schránku
+title: Povolenie archívnej poštovej schránky
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665158"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736304"
 ---
-# <a name="enable-an-archive-mailbox"></a>Zapnúť archívnu poštovú schránku
+# <a name="enable-an-archive-mailbox"></a>Povolenie archívnej poštovej schránky
 
-Archívna poštová schránka Office 365 (tiež volal *Online Archív*) poskytnúť užívateľom s dodatočné email skladovanie. Používatelia môžu presúvať alebo kopírovať položky do archívnej poštovej schránky, a správcovia môžu vytvoriť politiku archivácie, politiku, ktorá automaticky presúva položky do archívu poštové schránky.
+Archív poštových schránok v balíku Office 365 (nazývané aj *online archívy*) poskytujú používateľom dodatočný ukladací priestor e-mailov. Používatelia môžu presúvať alebo kopírovať položky do archívnej poštovej schránky a správcovia môžu vytvoriť politiku archivácie, ktorá automaticky presunie položky do archívnych poštových schránok.
   
-Tu je návod, ako vytvoriť archívnej poštovej schránky:
+Tu je návod na vytvorenie archívnej poštovej schránky:
   
-1. Prejsť na [https://protection.office.com](https://protection.office.com).
+1. Prejdite na [https://protection.office.com](https://protection.office.com).
 
-2. Prihláste sa do služby Office 365 admin účtu.
+2. Prihláste sa do balíka Office 365 pomocou konta správcu.
 
-3. Na ľavej table zabezpečenie &amp; centrum súladu, vyberte **údaje riadenia** \> **Archív**.
+3. Na ľavej table centra &amp; zabezpečenia súladu vyberte položku **Archív** **správy** \> údajov.
 
-4. Vyberte používateľa, ktorého archívnej poštovej schránky, ktorú chcete zapnúť.
+4. Vyberte používateľa, ktorého archívnu poštovú schránku chcete povoliť.
 
-5. V table s podrobnosťami na pravej strane zvoľte **Povoliť** a potom vyberte **Áno** v chybovom hlásení povoliť archívnej poštovej schránky.
+5. Na table s podrobnosťami vpravo vyberte **Povoliť** a potom vyberte **Áno** v upozorňujúce hlásenie na povolenie archívnej poštovej schránky.
 
-Môžete tiež hromadne-zapnúť Archív poštových schránok výberom viacerých používateľov (pomocou klávesy **Shift** alebo **Ctrl** ) a potom vyberiete **Povoliť** v table s podrobnosťami.
+Môžete tiež hromadne povoliť archívne poštové schránky výberom viacerých používateľov (pomocou klávesov **SHIFT** alebo **Ctrl** ) a následným výberom položky **Povoliť** na table s podrobnosťami.
   
 Ďalšie informácie nájdete v téme:
   
-- [Povoliť archívna poštová schránka v balíku Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Povoliť archívne poštové schránky v balíku Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Nastavte Archív a odstránenie politiky v balíku Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Nastavenie politiky archivácie a odstránenia v balíku Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

@@ -1,5 +1,5 @@
 ---
-title: Návrhy na riešenie "Nelicencované produkt" chyby
+title: Návrhy na riešenie chýb "nelicencovaného produktu"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501058"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743288"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Návrhy na riešenie "Nelicencované produkt" chyby
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Návrhy na riešenie chýb "nelicencovaných produktov"
 
-Zabezpečiť, že máte predplatené služby, ktoré umožňuje klientovi licencie, napríklad Office 365 Business alebo Business Premium a [zabezpečiť používateľ nemá priradené licenciu](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deaktivovať inštalácie](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) Skontrolujte, ak ste prekročili počet inštalácií podporovaný predplatného.
+Uistite sa, že máte predplatné, ktoré umožňuje klientske licencie, ako napríklad Office 365 Business alebo Business Premium, a [zabezpečiť, aby mal používateľ priradenú licenciu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deaktivujte inštaláciu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) a skontrolujte, či ste prekročili počet inštalácií podporovaných predplatným.
   
-Zabezpečiť užívateľ podpisom s rovnakým kontom, ktoré má priradené licenciu.
+Uistite sa, že používateľ sa prihlasuje s rovnakým kontom, ktoré má priradenú licenciu.
   
-Spustite [aktiváciu poradcu](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Spustite [poradcu pri riešení problémov s aktiváciou](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Skontrolujte, ak stav predplatného uplynula
+Kontrola platnosti stavu predplatného
   
-Prejdite na [stránku Office 365 služby zdravia](https://docs.microsoft.com/office365/enterprise/view-service-health) či existujú známe problémy so službou.
+Skontrolujte [Office 365 služby zdravie stránku](https://docs.microsoft.com/office365/enterprise/view-service-health) zistiť, či existujú nejaké známe problémy so službou.
   
-[Vykonanie opravy Online balíka Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Vykonajte online opravu balíka Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Ďalšie riešenie problémov, pozri: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Ďalšie riešenia na riešenie problémov nájdete v téme: [nelicencované produkty a chyby aktivácie v balíku Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

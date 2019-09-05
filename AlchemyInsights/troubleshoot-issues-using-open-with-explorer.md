@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov pomocou Open Explorer
+title: Riešenie problémov s programom otvoriť v programe Prieskumník
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500230"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742748"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Riešenie problémov s Open s Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Riešenie problémov s programom Open Explorer
 
-Vyriešiť bežné problémy s otváraním knižnica dokumentov SharePoint alebo OneDrive pomocou príkazu **Otvoriť v programe Prieskumník** : 
+Oprava bežných problémov s otvorením knižnice dokumentov v SharePointe alebo OneDrive pomocou príkazu **Otvoriť v programe Prieskumník** : 
   
-- Pomocou programu Internet Explorer 10 alebo Internet Explorer 11. **Otvoriť v programe Prieskumník** nie je kompatibilný s Microsoft Edge, prehliadač Google Chrome, Firefox a ďalšie. **Open s Explorer** vypnutá vo všetkých prehliadačoch okrem programu Internet Explorer. 
+- Použite Internet Explorer 10 alebo Internet Explorer 11. **Otvoriť v programe Prieskumník** nie je kompatibilný s prehliadačom Microsoft Edge, Google Chrome, Firefox a ďalšie. **Otvoriť v programe Prieskumník** je vypnutá vo všetkých prehliadačoch okrem Internet Explorer. 
     
-- **Otvoriť v programe Prieskumník** nie je k dispozícii v modernej skúsenosti pre knižnice. Použite **zobrazenie v Prieskumníkovi** . Vyberte **Zobraziť možnosti** \> **zobrazenie v Prieskumníkovi**. Zobrazenie v Prieskumníkovi súborov nie je kompatibilný s Microsoft Edge, prehliadač Google Chrome, Firefox a ďalšie. **Zobrazenie v Prieskumníkovi súborov** k dispozícii len v programe Internet Explorer. 
+- **Otvoriť v programe Prieskumník** nie je k dispozícii v modernom zážitku pre knižnice SharePoint. Namiesto toho použite **Zobraziť v Prieskumníkovi** . **V Prieskumníkovi**vyberte zobrazenie **Možnosti** \> zobrazenia. Zobrazenie v Prieskumníkovi nie je kompatibilné s prehliadačom Microsoft Edge, Google Chrome, Firefox a ďalšie. **Zobrazenie v Prieskumníkovi** dostupné iba v programe Internet Explorer. 
     
-- Uistite sa, že je spustená služba WebClient. Do poľa Hľadať systém Windows zadajte spustiť, vyberte počítačovú aplikáciu spustiť, zadajte services.msc a stlačte kláves Enter. Prejdite na službu WebClient a skontrolujte **stav** stĺpec zobrazí "Beží." Ak nie, dvakrát kliknite na službu, kliknite na tlačidlo **Štart**a potom kliknite na tlačidlo **OK**. (Musíte najprv zapnúť službu výberom buď **manuálne** alebo **automaticky** v **Typ spustenia** políčka.) 
+- Uistite sa, že je spustená služba WebClient. Do poľa Hľadať v systéme Windows zadajte príkaz Spustiť, vyberte položku spustiť počítačovú aplikáciu, zadajte príkaz Services. msc a stlačte kláves ENTER. Posuňte sa nadol na službu WebClient a uistite sa, že v stĺpci **stav** sa zobrazuje "beh". Ak sa tak nestane, dvakrát kliknite na službu, kliknite na tlačidlo **Štart**a potom kliknite na tlačidlo **OK**. (Musíte najprv povoliť službu výberom buď **manuálne** alebo **Automatické** v **Typ spustenia** rámček.) 
     
 > [!NOTE]
-> Otvorenie knižnice v programe Prieskumník sa hodí, ak potrebujete na kopírovanie alebo presúvanie viacerých súborov a priečinkov, akonáhle, ale ak chcete pravidelne pracovať v knižnici, odporúčame vám jeho synchronizáciu. Riešenie problémov otvoriť v programe Prieskumník, pozrite si [Otvoriť v programe Prieskumník](https://go.microsoft.com/fwlink/?linkid=871665). Informácie o nastavení synchronizácie, pozrite si [synchronizovať SharePoint súbory pomocou nového klienta synchronizácie OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
+> Otvorenie knižnice v Prieskumníkovi je užitočné, ak potrebujete skopírovať alebo premiestniť viacero súborov a priečinkov raz, ale ak chcete pravidelne pracovať v knižnici, odporúčame synchronizáciu. Ak chcete riešiť problémy s otvorením v Prieskumníkovi, pozrite si tému [Otvorenie v Prieskumníkovi](https://go.microsoft.com/fwlink/?linkid=871665). Informácie o nastavení synchronizácie nájdete [v téme Synchronizácia súborov SharePoint s novým klientom synchronizácie služby OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Prečítajte si článok [ako používať príkaz "Open s Explorer" riešenie problémov v službe SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) pre viac informácií. 
+Prečítajte si článok [ako používať príkaz "otvoriť v programe Prieskumník" na riešenie problémov SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) ďalšie informácie. 
   
 

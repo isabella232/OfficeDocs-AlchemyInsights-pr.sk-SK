@@ -1,5 +1,5 @@
 ---
-title: Obnoviť odstránené používateľské
+title: Obnovenie odstráneného používateľa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551826"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745088"
 ---
 # <a name="restore-a-user-in-office-365"></a>Obnovenie používateľa v balíku Office 365
 
-Obnovenie používateľa v balíku Office 365 pomocou nasledujúcich krokov:
+Obnovenie používateľa v balíku Office 365 pomocou týchto krokov:
   
-1. Prejsť na [užívateľov \> odstránené používateľom](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Prejsť na [používateľov \> odstránených používateľov](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Vybrať používateľa vyberte položku **obnoviť**.
+2. Vyberte používateľa a potom položku **obnoviť**.
 
 3. Postupujte podľa pokynov na nastavenie hesla.
 
-4. Kliknite na položku **Odoslať e-mail a zavrieť**, a máte hotovo!
+4. Kliknite na tlačidlo **Odoslať e-mail a zavrieť**, a máte hotovo!
 
-Nebolo to ľahké? Pre viac informácií a krokov s náhľadmi obrazoviek, pozrite sa na tento článok: [obnovení používateľa v balíku Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Ak si uvedomíte, namiesto toho budete musieť obnoviť v poštovej schránke používateľa, pozrite si: [Odstránenie alebo obnovenie používateľských poštových schránok v systéme Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Nebolo to jednoduché? Pre viac informácií a krokov s obrazoviek, pozrite sa na tento článok: [obnovenie používateľa v balíku Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Ak si uvedomíte, že namiesto toho je potrebné obnoviť poštovú schránku používateľa, pozrite si: [Odstránenie alebo obnovenie poštových schránok používateľov v službe Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

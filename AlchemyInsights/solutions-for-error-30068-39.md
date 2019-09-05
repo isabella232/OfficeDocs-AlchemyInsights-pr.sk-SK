@@ -1,5 +1,5 @@
 ---
-title: Riešenia pre chybu 30068-39
+title: Riešenie chyby 30068-39
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501706"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743360"
 ---
-# <a name="solutions-for-error-30068-39"></a>Riešenia pre chybu 30068-39
+# <a name="solutions-for-error-30068-39"></a>Riešenie chyby 30068-39
 
-Vyskúšajte tieto riešenia opraviť chyba [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Vyskúšajte tieto riešenia na opravu chyby [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- Reštartujte počítač a spustite [inštaláciu balíka Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Reštartujte počítač a pokúste sa [nainštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Skontrolujte, či **Microsoft klikni a spusti**[služba vypnutá](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , a ak je vypnutá, zmeniť stav na **manuálne** alebo **Automatické**.
+- Skontrolujte, či [je vypnutá služba](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) **Microsoft klikni a spusti** a ak je vypnutá, zmeniť stav **manuálne** alebo **Automatické**.
 
-- Stiahnuť a nainštalovať [technickej podpory a obnovenie asistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Prevezmite a nainštalujte [Asistenta podpory a obnovy](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Keď ju otvorí, **odinštalovať Office produktov** vyberte verziu, ktorú chcete odinštalovať a vyberte **Ďalšie**.
+1. Keď sa otvorí, z **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.
 
-2. Pokračovať ísť cez obrazovky a reštartovať počítač, ak výzva.
+2. Pokračujte v prechádzajúcej obrazovkách a po výzve reštartujte počítač.
 
-    Po reštarte, technickej podpory a obnovenie asistent automaticky znova otvorí dokončiť proces odinštalovania.
+    Po reštartovaní, podpora a obnovenie asistent automaticky znovu otvorí dokončiť proces odinštalovania.
 
-3. Postupujte podľa zvyšných výziev a [preinštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorte Asistenta.
+3. Postupujte podľa zostávajúcich výziev a [preinštalujte program Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorte Asistenta.

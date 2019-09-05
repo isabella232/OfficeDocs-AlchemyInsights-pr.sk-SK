@@ -1,6 +1,6 @@
 ---
-title: Externé zdieľanie s tímovej lokality
-ms.author: kirks
+title: Externé zdieľanie s tímovým lokalitou
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525997"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755899"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Externé zdieľanie s tímovej lokality
+# <a name="external-sharing-with-a-team-site"></a>Externé zdieľanie s tímovým lokalitou
 
-Zapnite externý používateľ zdieľanie tímových lokalít, postupujte nasledovne: 
+Ak chcete zapnúť zdieľanie externých používateľov pre tímové lokality, postupujte nasledovne: 
   
-1. Nové SharePoint admin Center, kliknite na tlačidlo **aktívnych lokalít**.
+1. V novom SharePoint admin Center, kliknite na tlačidlo **aktívne lokality**.
   
-2. Vyberte stránku, ktorá má šablóny **Tímovej lokality** . 
+2. Vyberte lokalitu, ktorá má šablónu **tímovej lokality** . 
   
-3. Z horného menu vyberte tlačidlo **Zdieľanie** . 
+3. V hornom menu vyberte tlačidlo **zdieľania** . 
   
- **Poznámka**: štandardne po vytvorení modernej tímovej lokality externé zdieľanie možnosť nastaví na nových a existujúcich externých používateľov. 
+ **Poznámka**: v predvolenom nastavení, keď je vytvorená moderná Tímová lokalita, možnosť externého zdieľania bude nastavená na nových a existujúcich externých používateľov. 
   
- **Poznámka:** Ak máte viac ako jedno miesto vybrali, tlačidlo **Zdieľanie** sa javia vypnuté. Vyberte len jedno miesto. 
+ **Poznámka:** Ak máte viac ako jednu vybratú lokalitu, tlačidlo **zdieľania** sa zobrazí ako vypnuté. Vyberte iba jednu lokalitu. 
   
 

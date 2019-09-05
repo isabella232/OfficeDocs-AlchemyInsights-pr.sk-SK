@@ -1,6 +1,6 @@
 ---
-title: Zmeniť názov domény v službe SharePoint Online
-ms.author: kirks
+title: Zmena názvu domény v SharePointe Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519206"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747655"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Zmeniť názov domény v službe SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Zmena názvu domény v SharePointe Online
 
-Bohužiaľ, nie je možné zmeniť SharePoint Online doména pre vašu organizáciu balíka Office 365. Napríklad, ak názov vašej organizácie sa zmení z "Contoso" na "Štvrtý kávy", nemôžete zmeniť contoso.sharepoint.com na fourthcoffee.sharepoint.com.
+Bohužiaľ, nie je možné zmeniť názov domény SharePoint Online pre vašu organizáciu v balíku Office 365. Ak sa napríklad názov vašej organizácie zmení z "contoso" na "štvrtú kávu", nemôžete zmeniť contoso.sharepoint.com na fourthcoffee.sharepoint.com.
   
-Ak chcete použiť doménové meno fourthcoffee.sharepoint.com, budete musieť zakúpiť nové predplatné na Office 365 a presunúť všetky e-maily, súbory a iné údaje, ktoré chcete zachovať do nového predplatného.
+Ak chcete použiť názov domény fourthcoffee.sharepoint.com, budete musieť kúpiť nové predplatné Office 365 a presunúť všetky e-maily, súbory a ďalšie údaje, ktoré chcete uchovať na nové predplatné.
   
- **Poznámka**: napríklad, zmeniť názov stránky z https://contoso.sharepoint.com/sites/sample1 na https://contoso.sharepoint.com/sites/sample2, vytvoriť novú lokalitu a potom presunúť všetok obsah z pôvodnej lokality na novú.
+ **Poznámka**: Ak napríklad chcete zmeniť názov lokality https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, vytvorte novú lokalitu a potom premiestnite všetok obsah zo starej lokality do nového.
   
-Info o presunutie položky v knižniciach dokumentov v téme [premiestnenie alebo kopírovanie položiek z knižnice dokumentov SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Informácie o premiestnením položiek v knižniciach dokumentov nájdete [v téme premiestnenie alebo kopírovanie položiek z knižnice dokumentov lokality SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   

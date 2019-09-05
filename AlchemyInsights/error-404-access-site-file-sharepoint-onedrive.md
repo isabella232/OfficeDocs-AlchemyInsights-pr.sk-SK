@@ -1,5 +1,5 @@
 ---
-title: 'Chyba 404: Súbor nebol nájdený'
+title: 'Chyba 404: súbor sa nenašiel'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527414"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740228"
 ---
-# <a name="error-404-file-not-found"></a>Chyba 404: Súbor nebol nájdený
+# <a name="error-404-file-not-found"></a>Chyba 404: súbor sa nenašiel
 
-**Chyba 404: súbor nebol nájdený** je prijaté pri užívateľov sa pokúšate prístup k lokalite alebo súbor SharePoint alebo OneDrive. To je často spôsobené lokality alebo súbor alebo skupina dostať premenovaný, presunutý alebo odstránený.
-Používatelia zažijú chybu pri pokuse o prístup k koreňové kolekcie lokalít a bola odstránená.
+**Chyba 404: súbor sa nenašiel** , keď používatelia sa pokúša získať prístup k lokalite alebo súboru SharePoint alebo OneDrive. Toto je často spôsobené stránky alebo súboru alebo skupiny dostať premenované, premiestnené alebo odstránené.
+Používatelia sa vyskytne chyba pri pokuse o prístup k koreňovej kolekcii lokalít a bola odstránená.
 
-Takto môže pomôcť pri riešení tohto problému:
-- [Zobraziť a obnoviť odstránené lokalít v nových SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): pre moderných stránok (komunikácia, skupina-pripojený, alebo iné stránky), ktoré existujú v novej admin center náhľad.
-- [Obnovenie položiek v priečinku Kôš lokality SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Ak chcete odstrániť súbor (alebo iné položky) ktorý bol premenovaný, premiestnený alebo odstránený prejsť na SharePoint alebo OneDrive stránky a Zobraziť Recycle Bin z obsah lokality.
-- [Vyhľadávanie denník auditu v Office 365 zabezpečenia &amp; centrum súladu](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): vyhľadávanie denník auditu (ak je zapnuté zapisovanie) Ak ste stále nemôžete nájsť položky.
+Pri riešení tohto problému môžu pomôcť nasledovné:
+- [Zobraziť a obnoviť odstránené lokality v novom SharePoint admin Center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): pre moderné lokality (komunikácia, skupina-pripojený, alebo iné stránky), ktoré existujú v novom náhľadu admin Center.
+- [Obnovenie položiek v koši lokality SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Ak chcete odstrániť súbor (alebo inú položku), ktorý bol premenovaný, premiestnený alebo odstránený, prejdite na lokalitu SharePoint alebo OneDrive a zobrazte kôš z obsahu lokality.
+- [Vyhľadávanie v denníku auditu v centre zabezpečenia &amp; súladu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): vyhľadávanie v denníku auditu (ak je zapnuté zapisovanie do denníka), ak stále nemôžete nájsť položku.

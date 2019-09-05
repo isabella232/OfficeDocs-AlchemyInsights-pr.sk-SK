@@ -1,5 +1,5 @@
 ---
-title: Zmeniť UPN
+title: Zmena UPN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520862"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738608"
 ---
 # <a name="change-a-users-email-address"></a>Zmena e-mailovej adresy používateľa
 
-Meniace sa niečí e-mailovej adresy je jednoduché! Postupujte podľa týchto krokov:
+Zmena niečí e-mailovú adresu je jednoduché! Stačí postupovať podľa týchto krokov:
   
-1. Microsoft 365 admin Center, prejdite na stránku [Používatelia](https://go.microsoft.com/fwlink/p/?linkid=834822) alebo **používateľom** \> **Aktívnych používateľov**.
+1. Microsoft 365 admin Center, prejdite na stránku [Používatelia](https://go.microsoft.com/fwlink/p/?linkid=834822) alebo vyberte **používateľov** \> **aktívnych používateľov**.
     
 2. Vyberte používateľa.
     
-3. Na pravej strane v **užívateľské meno / E-mail aliasy** riadok, vybrať, **editovať**.
+3. Vpravo v riadku **meno používateľa/E-mail aliasy** vyberte **Upraviť**.
     
-4. Do poľa **Alias** zadajte nový e-mail a potom vyberte položku **Pridať**.
+4. Do poľa **alias** zadajte nový e-mail a potom vyberte položku **Pridať**.
     
-    **Dôležité upozornenie**: Ak sa zobrazí chybové hlásenie " **parameter sa nenašiel zhodný názov parametra" EmailAddresses**"znamená to, že to trvá trochu dlhšie, pre Office 365 dokončite nastavenie nájomcu alebo vlastnú doménu, ak ste nedávno pridali . Inštalačný proces môže trvať až 4 hodín. Chvíľu počkajte, takže inštalačný proces má čas na dokončenie a potom skúste znova. Ak problém pretrváva, volajte podporu a urobia úplnú synchronizáciu pre vás.
+    **Dôležité**: Ak sa zobrazí chybové hlásenie " **parameter sa nenašiel, že zodpovedá názov parametra" EmailAddresses**"znamená to, že trvá trochu dlhšie Office 365 dokončiť nastavenie nájomcu alebo vlastnej domény, ak ste nedávno pridali jeden . Dokončenie procesu inštalácie môže trvať až 4 hodiny. Chvíľu počkajte, takže inštalačný proces má čas na dokončenie, a potom skúste znova. Ak problém pretrváva, volajte podporu a budú robiť úplnú synchronizáciu pre vás.
     
-    Ak sa zobrazí chybové hlásenie " **Ľutujeme, užívateľ nemohol byť upravovaný. Skontrolujte informácie o používateľovi a skúste to znova**"znamená to nie ste Office 365 globálne admin a nemáte oprávnenie zmeniť meno používateľa.
+    Ak sa zobrazí chybové hlásenie " **Ľutujeme, používateľ sa nedá upraviť. Skontrolujte informácie o používateľovi a skúste to znova**"znamená to, že nie ste globálnym správcom balíka Office 365 a nemáte povolenia na zmenu mena používateľa.
     
-5. Vyberte **nastaviť ako primárnu** e-mailovú adresu, ktoré chcete nastaviť ako primárny e-mailovú adresu pre túto osobu. Ak ste si zakúpili predplatné od GoDaddy, musíte sa prihlásiť na konzole Správa nastaviť primárnu e-mailovú adresu. 
+5. Vyberte **nastaviť ako primárny** pre e-mailovú adresu, ktorú chcete nastaviť ako primárnu e-mailovú adresu pre danú osobu. Ak ste si zakúpili predplatné od spoločnosti GoDaddy, musíte sa prihlásiť do svojej konzoly správy a nastaviť primárnu e-mailovú adresu. 
     
-6. Vyberte **Uložiť**, potom **Zavrieť**, a máte hotovo!
+6. Vyberte **Uložiť**, potom **zatvorte**, a máš Hotovo!
     
-Nebolo to ľahké? Pre viac informácií a postup s obrázkami, pozrite sa na tento článok: [zmeniť užívateľské meno a e-mailovú adresu Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Nebolo to jednoduché? Pre viac informácií a krokov s screenshoty, pozrite sa na tento článok: [Zmena mena používateľa a e-mailová adresa v balíku Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

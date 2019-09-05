@@ -1,26 +1,26 @@
 ---
-title: Podmienený prístup so službou Intune
-ms.author: kirks
+title: Podmienený prístup pomocou Intune
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520181"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755575"
 ---
 # <a name="conditional-access"></a>Podmieneného prístupu
 
-Podmienený prístup je schopnosť Azure Active Directory. S podmieneným prístupom, môžete implementovať automatizovaný prístup kontroly rozhodnutia pre prístup k cloud aplikácie, ktoré sú založené na podmienkach. Pre ďalšie informácie prosím navštívte [Configuring Location-Based podmienky](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Podmienený prístup je schopnosť Azure Active Directory. S podmieneným prístupom môžete implementovať automatizované rozhodnutia o kontrole prístupu pre prístup k cloudovým aplikáciám, ktoré sú založené na podmienkach. Ďalšie informácie nájdete v téme [Konfigurovanie politík založených na polohe](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Ako správca IT, môžete ovládať prístup k službe SharePoint a OneDrive zdrojov na základe definovaných sieťových umiestneniach alebo zariadenia dôverujete. Pre viac informácií, navštívte nižšie uvedené odkazy.
+Ako správca IT môžete tiež kontrolovať prístup k prostriedkom SharePointu a OneDrivu na základe definovaných sieťových umiestnení alebo zariadení, ktorým dôverujete. Ďalšie informácie nájdete na nižšie uvedených odkazoch.
 
-- [Riadenie prístupu k SharePoint Online a OneDrive údajov na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Kontrola prístupu k údajom služby SharePoint Online a OneDrive na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Kontrola prístupu z nespravovaná zariadení](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Ovládanie prístupu z nespravovaných zariadení](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

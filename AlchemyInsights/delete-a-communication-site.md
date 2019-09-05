@@ -1,6 +1,6 @@
 ---
-title: Odstránenie lokality oznámení
-ms.author: kirks
+title: Odstránenie komunikačnej lokality
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 847a340d4d3a05c97fd86f48bf42f7c22859f1b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514155"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748015"
 ---
-# <a name="delete-a-communication-site"></a>Odstránenie lokality oznámení
+# <a name="delete-a-communication-site"></a>Odstránenie komunikačnej lokality
 
-Odstránenie lokality oznámení, vykonajte nasledovné kroky: 
+Ak chcete odstrániť komunikačnú lokalitu, postupujte podľa nasledujúcich krokov: 
   
-1. Prejdite na lokalitu. 
+1. Prejdite na stránku. 
   
-2. Kliknite na ikonu nastavenia (Prevodové) v pravom hornom rohu. 
+2. Kliknite na ikonu nastavenia (ozubené koliesko) v pravom hornom rohu. 
   
-3. V časti **Informácie o stránkach**, kliknite na položku **odstrániť túto lokalitu**a potom kliknite na tlačidlo **odstrániť**. 
+3. V časti **informácie o lokalite**kliknite na položku **odstrániť túto lokalitu**a potom kliknite na položku **odstrániť**. 
   
-Správcovia môžete tiež odstrániť lokalitu komunikácie z novej admin center pomocou nasledujúcich krokov: 
+Správcovia môžu tiež odstrániť komunikačné stránky z nového Admin Center pomocou nasledujúcich krokov: 
   
-1. Vľavo vyberte **aktívnymi lokalitami** . 
+1. Na ľavej strane vyberte **aktívne lokality** . 
   
-2. Kliknite vedľa miesta odstrániť a **odstrániť** možnosť sa zobrazí v hornom menu. 
+2. Kliknite na položku vedľa lokality, ktorú chcete odstrániť, a v hornom menu sa zobrazí možnosť **odstránenia** . 
   
- **Poznámka:** Ak chcete natrvalo odstrániť lokalitu komunikácie (odstránením z koša) tak vám umožňuje znova použiť adresu URL, použite [Get-SPODeletedSiteSharePoint](https://aka.ms/Get-SPODeletedSite) hodnotiť Kôš a [Odstrániť SPODeletedSiteSharePoint](https://aka.ms/Remove-SPODeletedSite) odstrániť stránky z koša. 
+ **Poznámka:** Ak chcete natrvalo odstrániť komunikačnú lokalitu (odstránením z koša), aby ste mohli znova použiť adresu URL lokality, použite položku [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) na vyhodnotenie koša a [Odstránenie spodeletedsite](https://aka.ms/Remove-SPODeletedSite) na odstránenie lokality z koša. 
   
 

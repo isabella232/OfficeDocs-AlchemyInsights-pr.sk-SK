@@ -1,5 +1,5 @@
 ---
-title: Chybový kód 550 5.7.501 odmietnutý prístup, zneužívanie spam zistená
+title: Kód chyby 550 5.7.501 prístup bol odmietnutý, spam zneužitie zistené
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 577104e0517820c6dd7faf7e4db6b55ac2e5398a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527183"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740156"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 odmietnutý prístup, zneužívanie spam zistená
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 prístup odmietnutý, spam zistené zneužívanie
 
-Typicky, toto hlásenie sa vyskytuje, keď používatelia odošlú e-mailové správy od adresy IP pomocou pôvodnej *. onmicrosoft.com* domény, ktorá je priradená k nové nájomníkmi v Office 365. Najjednoduchší spôsob, ako vyriešiť tento problém je:
+Zvyčajne Toto hlásenie sa vyskytuje, keď používatelia odosielať e-mailové správy z adresy IP pomocou počiatočnej domény *. onmicrosoft.com* , ktorý je priradený k novým nájomníkmi v balíku Office 365. Najjednoduchší spôsob, ako vyriešiť tento problém je:
 
-1. [Pridať doménu nájomcu](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).
+1. [Pridajte doménu k nájomníkovi](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [Zmena používateľov primárnu e-mailovú adresu](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) novej domény, ktorú ste práve pridali.
+2. [Zmeňte primárnu e-mailovú adresu používateľov](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) na novú vlastnú doménu, ktorú ste práve pridali.

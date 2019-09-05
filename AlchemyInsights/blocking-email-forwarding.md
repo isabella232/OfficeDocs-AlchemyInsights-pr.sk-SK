@@ -1,5 +1,5 @@
 ---
-title: 726 blokovanie preposielanie e-mailov
+title: 726 blokovanie presmerovanie e-mailov
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 4bb1516964fac51fac484cc5dbbacef495081e30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517622"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737744"
 ---
-# <a name="block-email-forwarding"></a>Blokovať preposielanie e-mailov
+# <a name="block-email-forwarding"></a>Blokovanie posielania e-mailov
 
-Zakázať Preposielanie pošty pre poštových schránok, pozrite si [nastaviť preposielanie e-mailov](https://support.office.com/client/15abf81d-5c5d-49da-ac81-1b4daa1809f6).
+Ak chcete vypnúť presmerovanie e-mailov pre konkrétnu poštovú schránku, pozrite si [Konfigurácia presmerovania e-mailov](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
 
-Blokovať preposielanie e-mailov pre celú organizáciu, [mnoho spôsobov, ako zablokovať automatické preposielanie pošty v službe Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Blokovať presmerovanie e-mailov pre celú organizáciu, [mnoho spôsobov, ako blokovať automatické posielanie e-mailov v službe Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).

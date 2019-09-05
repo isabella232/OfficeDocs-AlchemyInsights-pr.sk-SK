@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540916"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739508"
 ---
 # <a name="how-to-disable-external-groups"></a>Ako zakázať externé skupiny
 
-Yammer externých správ sa uplatňuje Exchange Transport pravidlá (Red), sadu aktívne kontroly na zabrániť zdieľaniu informácií spoločnosti. S cieľom obmedziť používateľov od vytvorenia externé skupiny, musíte nakonfigurovať výmena pravidlo prenosu (ETR), a potom nakonfigurovať sieť Yammer používať Exchange dopravné pravidlo blokovať externých správ.
+Yammer externé správy používa pravidlá prenosu Exchange (ETRs), súbor proaktívne kontroly, aby sa zabránilo zdieľanie informácií spoločnosti. S cieľom obmedziť používateľom vytvárať externé skupiny, musíte nakonfigurovať pravidlo prenosu Exchange (ETR) a potom nakonfigurovať sieť Yammer použiť pravidlo prenosu Exchange blokovať externé správy.
   
-Akonáhle ste vytvorili pravidlo Exchange Online admin Center, postupujte nasledovne nastaviť ETR použiť v sieť Yammer:
+Po vytvorení pravidla Exchange Online admin Center, postupujte nasledovne nastaviť ETR použiť v nariekanie:
   
-- Prihlásenie na sieť Yammer len overené a **Yammer admin center**, prejdite na C **obsahu a zabezpečenia \> nastavenia zabezpečenia.**
+- Prihláste sa na sieť Yammer ako overený správca a v **centre spravovania siete Yammer**prejdite na položku C **obsah a zabezpečenie zabezpečenia \> .**
 
-- Podľa **Externých správ**, vyberte **presadiť vaše Exchange Online Exchange Transport pravidlá (Red) v nariekanie.**
+- V časti **externé správy**vyberte **vynútenie pravidiel Exchange Online Exchange Transport (ETRs) v nariekanie.**
 
 - Vyberte položku **Uložiť**.
 
-Ďalšie informácie nájdete v téme [kontroly externých správ v sieti sieť Yammer s Exchange Transport pravidlá](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+Ďalšie informácie nájdete v téme [zakázanie externých správ v sieti Yammer siete](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

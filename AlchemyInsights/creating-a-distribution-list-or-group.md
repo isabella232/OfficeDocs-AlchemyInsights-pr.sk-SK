@@ -1,5 +1,5 @@
 ---
-title: 711 vytvoriť distribučný zoznam alebo skupinu
+title: 711 vytvorenie distribučného zoznamu alebo skupiny
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: d2fda9d8dd238b5c7881930b02bdd04de6bff3bf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665271"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740768"
 ---
-# <a name="create-distribution-groups"></a>Vytvárať distribučné skupiny
+# <a name="create-distribution-groups"></a>Vytvorenie distribučných skupín
 
-Používate distribučné skupiny (tiež známy ako distribučné zoznamy) v Office 365 dodať e-mailových správ skupinám ľudí vnútri aj mimo vašej organizácie. Ich vytvorenie je jednoduché! Pokyny nájdete v časti [Vytvorenie distribučných zoznamov Microsoft 365 admin Center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
+Distribučné skupiny (označované aj ako distribučné zoznamy) v balíku Office 365 sa používajú na doručovanie e-mailových správ skupinám ľudí vo vašej organizácii aj mimo nej. Ich vytvorenie je jednoduché! Pokyny nájdete v téme [Vytvorenie distribučných zoznamov v centre spravovania Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
 
-**Poznámka**: admin potrebuje spravovať členstvo distribučnej skupiny. Ak chcete používateľom spravovať svoje vlastné členstvo v skupine zoznamy, možno budete chcieť zvážiť [Skupín v Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) namiesto.
+**Poznámka**: Správca musí spravovať členstvo v distribučnej skupine. Ak chcete, aby používatelia spravovali svoje vlastné zoznamy členstva v skupinách, možno budete chcieť namiesto toho zvážiť [skupiny Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .

@@ -12,33 +12,33 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666135"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744584"
 ---
-# <a name="restore-deleted-items-from-sharepoint"></a>Obnovenie odstránených položiek z lokality SharePoint
+# <a name="restore-deleted-items-from-sharepoint"></a>Obnovenie odstránených položiek zo služby SharePoint
 
-Ak chcete odstrániť položku alebo lokality z lokality Sharepoint, nie je okamžite odstránený. Odstránené položky sa nepremiestnia do koša pre určitú dobu. Počas tejto doby môžete obnoviť položky, ktoré ste odstránili do ich pôvodného umiestnenia. Pre viac informácií prosím navštívte nižšie uvedené odkazy.
+Keď odstránite položku alebo lokalitu zo služby SharePoint, nie je okamžite odstránená. Odstránené položky idú do koša po dobu. Počas tohto času môžete obnoviť odstránené položky do pôvodného umiestnenia. Pre viac informácií prosím navštívte nižšie uvedené odkazy.
 
-- [Obnovenie položiek v priečinku Kôš lokality SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Obnovenie položiek v koši lokality SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-- [Obnoviť zmazané súbory alebo priečinky v službe OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Obnovenie odstránených súborov alebo priečinkov v službe OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-- [Položky odstránite, alebo vyprázdniť Kôš](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
+- [Odstránenie položiek alebo vyprázdnenie koša](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-- [Obnovenie odstránených lokalít (vrátane skupiny, komunikačné a iné stránky)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
+- [Obnovenie odstránenej kolekcie lokalít (vrátane skupiny, komunikácie a iných lokalít)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
 
-- [Obnovenie odstránených OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- [Obnovenie odstráneného OneDrivu](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
 - [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Funkcia obnoviť súbory**
+**Funkcia Obnovovanie súborov**
 
-Ak veľa súborov OneDrive alebo Sharepoint dostať vypúšťa, prepísaný, poškodený alebo infikované malware, môžete obnoviť celý OneDrive alebo Sharepoint knižnice do predchádzajúceho stavu pomocou funkcie obnoviť súbory.
+Ak sa veľa súborov OneDrive alebo SharePoint dostane odstránené, prepísané, poškodené alebo infikované malvérom, môžete obnoviť celú OneDrive alebo knižnicu SharePoint do predchádzajúceho času pomocou funkcie Obnovovanie súborov.
 
-- [Obnoviť OneDrive Knižnica](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Obnovenie knižnice OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Obnoviť knižnici dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Obnovenie knižnice dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541240"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739580"
 ---
 # <a name="how-to-disable-external-groups"></a>Ako zakázať externé skupiny
 
-Externí používatelia môžu prístup k sieti sieť Yammer štyrmi spôsobmi.
+Existujú štyri spôsoby externých používateľov prístup k sieti v nariekanie.
   
-1. **Hodnotenie užívateľov** - Yammer správcovia môžu pozvať kontakty z externých domén ako používatelia v domácej sieti. Títo používatelia vidieť všetky spoločnosti kŕmiť a môžete zapojiť siete, ako aj iných skupín.
+1. **Hosťovské užívateľa** -Yammer správcovia môžu pozvať kontakty z externých domén ako používatelia v domácej sieti. Títo používatelia uvidia všetky firemné krmivá a môžu sa pripojiť k iným skupinám v sieťach rovnako.
 
-2. **Externí používatelia v externej skupiny** - externé skupiny povoliť externým používateľom. Pôsobnosti prístup externých používateľov je obmedzená na externé skupiny. S externé skupiny môžete pozvať kontakty z sieť Yammer sietí, ktoré umožňujú používateľom účasť na externých konverzácie.
+2. **Externí používatelia v externej skupine** – externé skupiny umožňujú externým používateľom. Rozsah prístupu externého používateľa je obmedzený na externú skupinu. S externými skupinami môžete pozvať iba kontakty z nariekanie sietí, ktoré umožňujú používateľom zúčastňovať sa externých konverzácií.
 
-3. **Externí používatelia v sieť Yammer konverzácie vo vnútri skupiny** - Táto voľba umožňuje externých účastníkov, aby sa do určitej konverzácie. Externých účastníkov sa môžu zúčastniť len diskusií boli výslovne pozvaní a na všetky prílohy v tom rozhovore. Nahliadajú tieto konverzácie cez Yammer priečinka Doručená pošta (v ich sieti). Nemajú prístup ku zvyšku siete.
+3. **Externí používatelia v nariekanie konverzácie v internej skupine** -Táto možnosť umožňuje externým účastníkom pridať do konkrétnej konverzácie. Externí účastníci sa môžu zúčastniť len konverzácií, ktoré boli explicitne pozvaní na všetky prílohy v tejto konverzácii. Prístup k týmto konverzáciám prostredníctvom ich Yammer schránky (na ich sieti). Nemajú prístup k zvyšku vašej siete.
 
-4. **Externých sietí** - Táto voľba umožňuje pozvať externých používateľov externej siete, ktoré overené Správcovia môžete vytvoriť vo vašej sieti. Táto možnosť je najvhodnejší pre hosťovanie externých spoločenstiev.
+4. **Externé siete** – Táto možnosť vám umožňuje pozvať externých používateľov do externej siete, ktorú môžu v sieti vytvoriť overené správcovia. Táto možnosť je najvhodnejšia pre hosťovanie externých komunít.
 
-Pre viac informácií, prečítajte si [Pridať externých účastníkov správ do konverzácií sieť Yammer](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) a [Externých správ FAQ (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Ďalšie informácie nájdete [v téme Pridanie externých správ účastníkov Yammer konverzácie](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) a [externé správy FAQ (nariekanie)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

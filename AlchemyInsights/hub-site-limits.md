@@ -1,28 +1,28 @@
 ---
-title: Rozbočovač stránky limity a obmedzenia
-ms.author: kirks
+title: Obmedzenia a obmedzenia lokality rozbočovača
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539368"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754603"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint rozbočovač stránky limity a obmedzenia
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Obmedzenia a obmedzenia lokality centra lokality SharePoint Hub
 
-- Odporúča sa vybrať lokalitu komunikácie alebo tímovej lokality, ktorá využíva nové moderné šablóny. Ak používate klasické tímovej lokality, rozbočovač navigácie sa zobrazí iba na moderné stránky a rozbočovač stránky nastavenia sa zobrazia iba na moderné stránky.
+- Odporúča sa vybrať komunikačnú lokalitu alebo tímovú lokalitu, ktorá používa novú modernú šablónu. Ak používate klasickú tímovú lokalitu, navigácia v rozbočovači sa zobrazí len na moderných stránkach a nastavenia lokality Hub sa zobrazia len na moderných stránkach.
 
-- Lokalít, ktoré už sú priradené iným hub **nemôže** konvertovať na lokalite rozbočovača. 
+- Lokality, ktoré už sú priradené k inému rozbočovaču, **nie** je možné konvertovať na lokalitu rozbočovača. 
 
-- Môžete vytvoriť až 100 rozbočovač lokalít pre vašu organizáciu. Neexistuje žiadny limit na počet lokalít, ktoré môžu súvisieť s lokalitou rozbočovača.
+- Môžete vytvoriť až 100 húb lokalít pre vašu organizáciu. Počet lokalít, ktoré môžu byť priradené k lokalite rozbočovača, nemá žiadny limit.
 
-- Keď používatelia priradiť ich lokality rozbočovač stránky, to nemá vplyv na povolenia rozbočovač stránky alebo pridružené lokality. Je dôležité, aby sa všetkým používateľom umožníte priradiť miest do centrály mať povolenie k rozbočovaču.
+- Keď používatelia priradíte svoje lokality k lokalite rozbočovača, nemá vplyv na povolenia lokality rozbočovača alebo priradených lokalít. Je dôležité uistiť sa, že všetci používatelia, ktorým povolíte priradiť lokality k rozbočovaču, majú povolenie pre rozbočovač.
 
 
 

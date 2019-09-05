@@ -1,6 +1,6 @@
 ---
-title: Prístup služieb dôchodkového
-ms.author: kirks
+title: Prístup k službám odchod do dôchodku
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495766"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747799"
 ---
-# <a name="access-services-retirement"></a>Prístup služieb dôchodkového
+# <a name="access-services-retirement"></a>Prístup k službám odchod do dôchodku
 
-Ako sme pôvodne oznámená v MC97576, v marci 2017 a naďalej komunikovať v minulom roku prístup služby sú vyňatý z Office 365. Ďalšia fáza v tomto procese bude odstránenie prístupu Web databáz, ktoré používajú zoznamy SharePoint ako ich základný ukladací priestor údajov.
+Ako sme pôvodne oznámila v MC97576, v marci 2017, a pokračoval komunikovať za uplynulý rok prístup k službám sú v dôchodku z Office 365. Ďalšou fázou tohto procesu bude odstránenie webových databáz programu Access, ktoré používajú zoznamy lokality SharePoint ako ich základné úložisko údajov.
 
-**Ako ma to ovplyvní?**
+**Ako to ovplyvní ma?**
 
-Od júna 2019, budeme zastaviť vytváranie nových databáz programu Access v službe SharePoint Online a vypnutie služby a všetky zostávajúce aplikácie do apríla roku 2020.
+Od júna 2019, budeme zastaviť vytváranie nových databáz programu Access v SharePointe Online a vypnúť službu a všetky zostávajúce aplikácie do apríla 2020.
 
-**Čo je potrebné urobiť pre prípravu na túto zmenu?**
+**Čo potrebujem na to, aby ste sa pripravili na túto zmenu?**
 
-Odporúčame vám vytvoriť plán prechodu vaša organizácia prístup web databáz. Správcovia môžete použiť [SharePoint prístup app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) získať súpis prístup aplikácií, ktoré stránky používajú.
+Odporúčame vám vytvoriť plán prechodu pre webové databázy programu Access vašej organizácie. Správcovia môžu použiť [skener aplikácie SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) na získanie inventára prístupových aplikácií, ktoré lokality používajú.
 
-Existuje niekoľko spôsobov na migráciu údajov databáz web Access:
+Existuje niekoľko spôsobov, ako migrovať údaje webových databáz programu Access:
 
-- Import do lokálnej databázy Access (. ACCDB) alebo do súboru programu Excel.
-- Odporúčame tiež skúmanie Microsoft PowerApps ako alternatívnu platformu vytvoriť bez kódu podnikové riešenia pre web a mobilné zariadenia.
+- Importovanie do lokálnej databázy programu Access (. ACCDB) alebo do súboru programu Excel.
+- Odporúčame tiež preskúmať službu Microsoft PowerApps ako alternatívnu platformu na vytvorenie podnikových riešení bez kódu pre webové a mobilné zariadenia.

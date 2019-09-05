@@ -1,5 +1,5 @@
 ---
-title: Povoliť auditovanie poštovej schránky
+title: Povoliť auditovanie poštových schránok
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 1ef60017f1ea656296bc7b2aa3bc5365646f11f3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527630"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736268"
 ---
-# <a name="enable-mailbox-auditing"></a>Povoliť auditovanie poštovej schránky
+# <a name="enable-mailbox-auditing"></a>Povoliť auditovanie poštových schránok
 
-Povoliť auditovanie poštovej schránky pre jedného používateľa alebo celú organizáciu nasledujúce rutiny cmdlet je nutné spustiť z vzdialené prostredie PowerShell:
+Ak chcete povoliť auditovanie poštových schránok pre jedného používateľa alebo celú organizáciu, musíte spustiť nasledujúce rutiny cmdlet zo vzdialeného napájania Shell:
   
  **Jedného používateľa**
   
-Set-Mailbox - Identity "Jane Dow" - AuditEnabled $true
+Súbor-poštová schránka-identita "Jane Dow"-AuditEnabled $true
   
- **Organizácia**
+ **Organizácie**
   
-Get-Mailbox - ResultSize Unlimited - Filter {RecipientTypeDetails - eq "UserMailbox"} | Nastaviť poštové schránky - AuditEnabled $true
+Get-poštová schránka-ResultSize neobmedzené-filter {RecipientTypeDetails-EQ "UserMailbox"} | Súbor schránky-AuditEnabled $true
   
-[zistiť viac](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[zistiť viac](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   
 

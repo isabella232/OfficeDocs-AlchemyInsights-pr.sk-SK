@@ -1,5 +1,5 @@
 ---
-title: Zvýšiť veľkosť poštovej schránky pre SMB SKU
+title: Zväčšiť veľkosť poštovej schránky pre SMB SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499294"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739256"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Prepínač plánuje zvýšiť veľkosť poštovej schránky
+# <a name="switch-plans-to-increase-mailbox-size"></a>Prepnúť plány na zvýšenie veľkosti poštovej schránky
 
-Ak veľkosť poštovej schránky 50 GB, môžete zvýšiť veľkosť poštovej schránky 100 GB pri prechode na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) alebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu sú kroky, ak chcete prepnúť na iný plán služieb Office 365:
+Ak veľkosť poštovej schránky 50 GB, môžete zväčšiť veľkosť poštovej schránky 100 GB prechodom na [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) alebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu sú kroky na prepnutie na iný plán Office 365:
   
-1. Microsoft 365 admin Center, prejdite na stránku [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo vybrať **fakturácie** \> **predplatné**.
+1. V Microsoft 365 admin Center, prejdite na stránku [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) , alebo vyberte **predplatné** **fakturácie** \> .
     
-2. Vyberte **prepínač plány** zobrazíte zoznam nových plánov, ktoré sú k dispozícii. 
+2. Ak chcete zobraziť zoznam nových plánov, ktoré sú k dispozícii, vyberte možnosť **Prepnúť plány** . 
     
-3. Výber plánu a pozrite sa na nové celkové náklady za mesiac. Uistite sa, že čítať **kľúčové informácie**, potom vybrať **ďalšiu** vyskúšať. 
+3. Vyberte plán na zobrazenie nových celkových nákladov za mesiac. Nezabudnite si prečítať **kľúčové informácie**a potom si vybrať **vedľa** . 
     
-4. Keď skončíte Pokladňa, Office 365 trvá niekoľko minút dokončiť prechod. Môžete začať používať nový odber ihneď.
+4. Po dokončení pokladne, Office 365 trvá niekoľko minút dokončiť prepínač. Nové predplatné môžete začať používať hneď.
     
-Ďalšie podrobnosti nájdete v časti [prechod na iný plán služieb Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Ďalšie podrobnosti nájdete v téme [prepnutie na iný plán balíka Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

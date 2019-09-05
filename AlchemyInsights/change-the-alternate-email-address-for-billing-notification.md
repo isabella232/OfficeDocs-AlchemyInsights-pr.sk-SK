@@ -1,5 +1,5 @@
 ---
-title: Zmena alternatívnej e-mailovej adresy fakturačných upozornení
+title: Zmena alternatívnej e-mailovej adresy pre upozornenie na fakturáciu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 01b8fd0273ea9b0ef716b6f59ac7ee8c9d2acef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521006"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738752"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Zmena alternatívnej e-mailovej adresy fakturačných upozornení
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Zmena alternatívnej e-mailovej adresy pre upozornenie na fakturáciu
 
-Zmena alternatívnej e-mailovej adresy pre fakturačné oznámenia je jednoduchá. Postupujte podľa týchto krokov:
+Zmena alternatívnej e-mailovej adresy pre oznámenie o fakturácii je jednoduchá. Stačí postupovať podľa týchto krokov:
   
-1. Microsoft 365 admin Center, prejdite na **fakturačné** \>stránku [Billing upozornenia](https://go.microsoft.com/fwlink/p/?linkid=853212) .  
+1. V centre spravovania Microsoft 365 prejdite na \>stránku [oznámenia fakturácie](https://go.microsoft.com/fwlink/p/?linkid=853212) fakturácie. ****  
 
 2. Vyberte názov zo zoznamu.
 
-3. **Alternatívna e-mailová adresa** rámček, zadajte alternatívnu e-mailovú adresu.
+3. Do poľa **Alternatívna e-mailová adresa** zadajte alternatívnu e-mailovú adresu.
 
 4. Vyberte **Uložiť** a máte hotovo!
 
-Pre viac informácií a krokov s náhľadmi obrazoviek, pozrite si [zmeniť vaše fakturačné adresy pre Office 365](https://support.office.com/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6).
+Ďalšie podrobnosti a kroky s obrazovkami nájdete v téme [Zmena fakturačných adries pre balík Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   
