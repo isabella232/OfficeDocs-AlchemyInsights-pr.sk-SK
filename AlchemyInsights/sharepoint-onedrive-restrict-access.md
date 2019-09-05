@@ -1,6 +1,6 @@
 ---
-title: Obmedzenie prístupu v SharePoint alebo OneDrive
-ms.author: kirks
+title: Obmedzenie prístupu v SharePointe alebo OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559892"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750679"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Obmedzenie prístupu v SharePoint alebo OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Obmedzenie prístupu v SharePointe alebo OneDrive
 
-Existuje mnoho spôsobov, ako obmedziť prístup k SharePoint Online/OneDrive služby. Tieto rôzne metódy obmedzenie prístupu sú uvedené nižšie. 
+Existuje mnoho spôsobov, ako obmedziť prístup k službám SharePoint Online/OneDrive. Tieto rôzne metódy obmedzenia prístupu sú uvedené nižšie. 
 
-**Povolenie obmedzenie**
+**Obmedzenie povolení**
 
-SharePoint Online a OneDrive pre podniky, Obmedzujeme prístup položiek lokality, súbory a priečinky, ako iba poskytnutím prístupu pre tie skupiny/jednotlivcov, ktorí by mali mať prístup.
+V službe SharePoint Online a OneDrive for Business Obmedzujeme prístup k položkám, ako sú lokality, súbory a priečinky, a to iba poskytnutím prístupu k tým skupinám/jednotlivcom, ktorí majú prístup.
 
-- [Prispôsobiť povolenia pre zoznam SharePoint alebo knižnicu](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Prispôsobenie povolení pre zoznam alebo knižnicu lokality SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Prispôsobiť povolenia pre lokalitu SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Prispôsobenie povolení lokality SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Zmeniť povolenia na podpriečinok](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Zmena povolení pre podpriečinok](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [Kontrola prístupu z nespravovaná zariadení](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Ovládanie prístupu z nespravovaných zariadení](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Ako SharePoint alebo Office 365 globálne admin, môžete zablokovať alebo obmedziť prístup k obsahu služby SharePoint a OneDrive z nespravovaná zariadení (tie hybridné AD pripojil alebo kompatibilné s Windows Intune).
+Ako SharePoint alebo globálny admin v balíku Office 365, môžete blokovať alebo obmedziť prístup k SharePoint a OneDrive obsah z nespravované zariadenia (tie nie hybridné AD pripojil alebo kompatibilné s Intune).
 
-**Sieťové umiestnenie obmedzenia**
+**Obmedzenie sieťového umiestnenia**
 
-Ako správca IT, môžete ovládať prístup k službe SharePoint a OneDrive zdrojov na základe definovaných sieťových umiestneniach, ktoré dôverujete. To je tiež známy ako umiestnenie-založené politiky. Pre viac informácií, prečítajte si [Kontrola prístupu k SharePoint Online a OneDrive údajov na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Ako správca IT môžete ovládať prístup k prostriedkom služby SharePoint a OneDrive na základe definovaných sieťových umiestnení, ktorým dôverujete. Toto je známe aj ako politika založená na polohe. Ďalšie informácie nájdete [v téme kontrola prístupu k údajom služby SharePoint Online a OneDrive na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Obmedzenie lokality zámok** 
+**Obmedzenie zámku lokality** 
 
-V rámci SharePoint Online máte možnosť Uzamknúť kolekciu lokalít, takže nikto nemá prístup. Toto sa nastaví pomocou PowerShell a [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) pomocou vlastnosť uzamknutia - [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) .
+V rámci služby SharePoint Online máte možnosť Uzamknúť kolekciu lokalít, takže nikto nemá prístup. Toto je nastavené pomocou prostredia PowerShell a [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) pomocou vlastnosť [set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
 
-**Obmedziť používateľov od vytvorenia lokalít alebo podlokality**
+**Obmedzenie používateľov na vytváranie lokalít alebo podlokalít**
 
-Ako SharePoint admin alebo Office 365 globálne admin, umožníte používateľom vytvoriť a spravovať vlastné lokality SharePoint, určiť, aký druh stránok môžu vytvárať, a zadajte umiestnenie lokalít. Pre viac informácií, prečítajte si [Vytvorenie spravovať lokality SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Ako správca lokality SharePoint alebo Office 365 globálny správca, môžete umožniť používateľom vytvárať a spravovať svoje vlastné lokality SharePoint, určiť, aký druh lokalít, ktoré môžu vytvoriť, a určiť umiestnenie lokalít. Ďalšie informácie nájdete [v téme Spravovanie vytvárania lokalít v SharePointe Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

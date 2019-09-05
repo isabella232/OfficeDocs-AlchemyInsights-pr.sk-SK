@@ -3,7 +3,6 @@ title: Odstránenie používateľov
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: 96559948c0c7c127f3ccf6e00be4485ffe3df883
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513075"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740516"
 ---
 # <a name="deleting-users"></a>Odstránenie používateľov
 
-Ak chcete okamžite zablokovať používateľovi prístup a potrebu udržať svoje informácie, prosím pozri [mať zamestnanec opúšťa a potrebujete blokovať prístup k údajom email?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)
+Ak chcete okamžite zablokovať prístup používateľov a potrebujete si ponechať svoje informácie, pozrite si [blokovať prístup bývalého zamestnanca k údajom balíka Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).
   
-Ak jednoducho chcete odstrániť používateľa a nie sú s údajom, nájdete, [odstráňte používateľa z vašej organizácie](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e). Týmto sa okamžite uvoľní ich licencie.
+Ak chcete jednoducho odstrániť používateľa a nezaoberajú sa žiadnym z ich údajov, prečítajte si časť [Odstránenie používateľa z vašej organizácie](https://docs.microsoft.com/office365/admin/add-users/delete-a-user). To bude okamžite uvoľniť svoje licencie.
   

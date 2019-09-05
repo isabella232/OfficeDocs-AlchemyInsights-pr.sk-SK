@@ -1,5 +1,5 @@
 ---
-title: SharePoint upozornení nezaujal
+title: Upozornenia na upozornenia služby SharePoint neboli dodané
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504478"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744656"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint upozornení nezaujal
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Upozornenia na upozornenia služby SharePoint neboli dodané
 
-Skontrolujte priečinka nevyžiadanej pošty v e-maile, ako niekedy výstrahy môže ísť tam.
+Skontrolujte priečinok nevyžiadanej pošty v e-maile, pretože niekedy môžu ísť o upozornenia.
 
-Určiť, ak **všetky upozornenia nie sú dodávané** alebo ak **výstrahu individuálne** od konkrétneho súboru alebo knižnica nie je dodané.
+Zistite, či nie **sú dodané všetky výstrahy** alebo ak sa nedoručuje **individuálne upozornenie** z konkrétneho súboru alebo knižnice.
 
-- **Jednotlivé upozornenia nie sú dodávané**: Ak výstrahu individuálne od konkrétneho súboru alebo knižnica nie je dodané, môžete sa pokúsiť odstrániť a znovu ju. Pozri [Správa, Zobraziť, alebo odstráňte SharePoint upozornenia](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) znova vytvoriť upozornenie.
-- **Všetky upozornenia nie sú dodávané**: Ak všetky záznamy z viacerých súborov alebo knižniciach nie sú dodávané, navštívte [Tabuľa služby stavu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) vyhľadať akékoľvek upozornenia incidentov, ktoré môžu súvisieť so SharePoint alebo výmeny. Problém môže byť s SharePoint upozornenia schopnosti alebo oneskorenia v e-maily prostredníctvom výmeny. Tiež je dôležité si uvedomiť, či iný e-mail doručovaný, a ak nie, problém je pravdepodobne s Exchange oneskorenia.
+- **Jednotlivé výstrahy sa nedoručujú**: Ak sa nedoručuje individuálne upozornenie z konkrétneho súboru alebo knižnice, môžete sa pokúsiť ho odstrániť a znova vytvoriť. Ak chcete znova vytvoriť výstrahu, pozrite si [Správa, zobrazenie alebo odstránenie upozornení služby SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) .
+- **Všetky výstrahy sa nedoručujú**: Ak sa nedoručujú všetky výstrahy z viacerých súborov alebo knižníc, navštívte [informačný panel služby zdravie](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a skontrolujte všetky upozornenia/incidenty, ktoré sa môžu vyskytovať so službou SharePoint alebo Exchange. Problém môže byť s možnosťou výstrahy služby SharePoint alebo oneskorenia v e-mailoch prostredníctvom servera Exchange. Bude tiež dôležité si uvedomiť, či iný e-mail je dodávaný, a ak nie, problém je pravdepodobné, výmena oneskorenie.
 
-Najčastejšie otázky týkajúce sa upozornenia:
+Najčastejšie otázky týkajúce sa upozornení:
 
-- Nie je možné odoslať upozornenia do distribučnej skupiny, nielen bezpečnosť a služby O365 skupiny sú podporované.
-- Nemôžete prispôsobiť upozornenie email šablóny; musíte použiť Microsoft FLOW alebo pracovného postupu SharePoint Designer ako ich dosiahnuť.
+- Nie je možné odosielať upozornenia do distribučnej skupiny, podporujú sa iba skupiny zabezpečenia a služby O365.
+- Nemôžete prispôsobiť upozornenia e-mailové šablóny; na dosiahnutie týchto cieľov je potrebné použiť pracovný postup Microsoft FLOW alebo SharePoint Designer.
 
 Ďalšie informácie:
 
-- **Upozornenie inštalácie**: Ďalšie informácie o nastavení upozornení nájdete v téme [Vytvorenie upozornenia chcete dostávať upozornenia, keď sa zmení súbor alebo priečinok v službe SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Riešenie upozornenia**: Ďalšie informácie o riešení problémov s výstrahy, pozrite si [používatelia nebudú dostávať upozornenia SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Rozšírené služby O365 súlad upozornenie podmienky**: Ďalšie informácie o nastavení týchto upozornení, pozri [Alert politikách zabezpečovania súladu](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint a OneDrive Audit denníky**: Ďalšie informácie o postupe pri získaní týchto udalostí, v téme [vyhľadávanie denník auditu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Upozornenia poslal rozšírenú ochranu**: pozri [ATP SharePoint a OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Upozornenie odoslané pred únikom údajov líniami**: pozri [E-mail oznámenia DLP politík](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Nastavenie výstrahy**: Ďalšie informácie o nastavení upozornení nájdete [v téme Vytvorenie upozornenia na získanie upozornenia pri zmene súboru alebo priečinka v službe SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Riešenie problémov s upozorneniami**: Ďalšie informácie o upozorneniach na riešenie problémov nájdete v téme používatelia nedostali upozornenia na upozornenia [služby SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Pokročilé politiky upozornenia na dodržiavanie pravidiel služby O365**: Ďalšie informácie o nastavení týchto upozornení nájdete v téme [politiky upozornení súladu](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **Denníky auditu služby SharePoint a OneDrive**: Ďalšie informácie o možnostiach získania týchto udalostí nájdete v téme [vyhľadávanie v denníku pre audit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Upozornenia odoslané pomocou rozšírenej ochrany pred hrozbami**: Pozrite si [ATP pre SharePoint a OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Upozornenia odoslané politikami na predchádzanie strate údajov**: Pozrite si [oznámenia e-mailom pre politiky DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-## <a name="related-topics"></a>Príbuzné témy
+## <a name="related-topics"></a>Súvisiace témy
 
-Chceš skúsiť Flow Microsoft SharePoint Online?
+Chcete vyskúšať službu Microsoft flow v SharePointe Online?
 
-- [Vytvoriť tok](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Vytvoriť tok](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint a tok](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint a flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

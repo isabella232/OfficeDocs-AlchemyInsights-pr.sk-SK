@@ -1,6 +1,6 @@
 ---
-title: Admin úlohy a priradenie
-ms.author: kirks
+title: Rola správcu a spôsob priradenia
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544626"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754099"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Problémy so službou cloud?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Vyskytli sa problémy s cloudovou službou?
 
-Ak máte problémy so službou cloud, môžete skontrolovať [stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Microsoft 365 admin Center či to je známy problém s rozlíšením v pokrok, skôr, ako zavoláte technickej podpory alebo stráviť čas riešenie problémov. Problém môže byť veľmi dočasný a už identifikované Microsoftom, však môže byť oneskorenie medzi problém identifikácie a vysielanie tabuľa služby stavu. Prosím naďalej kontrola tabuľa služby pre ďalšie aktualizácie.
+Ak máte problémy s cloudovej služby, môžete skontrolovať [stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) v Microsoft 365 admin Center zistiť, či je známy problém s rozlíšením prebieha pred zavoláte podporu alebo tráviť čas riešenie problémov. Problém môže byť veľmi dočasný a už identifikovaný spoločnosťou Microsoft, však môže uplynúť v čase medzi identifikáciou problém a vysielania na tabuľu služby zdravie. Ďalšie aktualizácie nájdete v informačnom paneli služby.
 
-**Politiku notifikácie**
+**Politika oznamovania**
 
-Nastane incident služby Microsoft uznáva, že včasné, cielené a presné komunikácie sú kritické pre zákazníkov. Spoločnosť Microsoft oznámi Office 365 správcovia aktualizovaním nájomcu špecifické [Služby zdravia Dashboard (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na portáli správy služby Office 365. Incident aktualizácie služby sú poskytované na hodinové frekvencie šliapania, alebo inú kadenciu sa budú uvedené vo vysielaní SHD komunikácie. Pre viac informácií, pozrite si [ako skontrolovať stav služby Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Keď sa vyskytne incident služby, Microsoft rozpozná, že včasné, cielené a presné komunikácie sú rozhodujúce pre zákazníkov. Microsoft upozorní Office 365 správcov aktualizáciou nájomcu-špecifické [služby Health Dashboard (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na portáli Office 365 admin. Aktualizácie servisných incidentov sú poskytované na hodinovej kadencie, alebo ak je potrebná iná kadencia, bude uvedená v oznámení SHD komunikácie. Ďalšie informácie nájdete v téme [ako skontrolovať stav služby Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

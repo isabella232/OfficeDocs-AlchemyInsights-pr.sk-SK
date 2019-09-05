@@ -1,5 +1,5 @@
 ---
-Title: Obnoviť pomocou Web connector nefunguje správne
+title: Obnovenie pomocou webového konektora nepracuje správne
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753319"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748915"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Obnoviť pomocou Web connector nefunguje správne
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Obnovenie pomocou webového konektora nepracuje správne
 
-Ak máte web connector skript, ktorý používa funkciu [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) a ste aktualizovali dataset alebo správa po 18. novembra 2016, musíte použiť bránu, aby obnoviť pracovať správne.
+Ak máte webový konektor skript, ktorý používa funkciu [web. Page](https://msdn.microsoft.com/library/mt260924.aspx) a aktualizovali ste množinu údajov alebo zostavu po 18. listopadu 2016, musíte použiť bránu, aby obnoviť pracovať správne.
 
 Ďalšie informácie:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

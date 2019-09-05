@@ -1,6 +1,6 @@
 ---
-title: Vymazať lokalitu SharePoint
-ms.author: kirks
+title: Odstránenie lokality SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/24/2019
 ms.audience: ITPro
@@ -9,21 +9,21 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ba1fee33c3edaed2c320250004a91160f870f8c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513698"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747907"
 ---
-# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Odstránenie lokality z nového SharePoint admin center
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Odstránenie lokality z nového centra spravovania služby SharePoint
 
-Pomocou nového SharePoint admin center, môžete odstrániť klasických i moderných stránok. Vyberte **aktívne stránky**, vyberte lokalitu a potom vyberte **odstrániť**. [Zobraziť a obnoviť odstránené lokalít v nových SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte **Odstránené stránky**. Ďalšie informácie nájdete v téme [Odstránenie lokality nové SharePoint admin Center](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+Pomocou nového centra spravovania služby SharePoint môžete odstrániť klasické aj moderné lokality. Vyberte položku **aktívne lokality**, vyberte lokalitu a potom položku **odstrániť**. Ak chcete [Zobraziť a obnoviť odstránené lokality v novom centre spravovania služby SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), vyberte položku **odstránené lokality**. Ďalšie informácie nájdete v téme [Odstránenie lokality v novom centre spravovania služby SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Dôležité:** Ak lokalita súčasťou politiky uchovávania údajov, nie je možné odstrániť, kým miesto je odstránený z [bezpečnosť &amp; Admin centrum súladu politiky](https://protection.office.com/?rfr=AdminCenter#/homepage). Viac informácií nájdete v časti [Prehľad politiky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+**Dôležité:** Ak je lokalita súčasťou politiky uchovávania údajov, pravdepodobne ju nebudete môcť odstrániť, kým sa lokalita neodstráni z [politiky centra spravovania &amp; zabezpečenia súladu](https://protection.office.com/?rfr=AdminCenter#/homepage). Ďalšie informácie nájdete [v téme Prehľad politík uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 
 Tipy:
-- SharePoint správcovia teraz môžete odstrániť lokality, ktoré patria do **Skupín v Office 365**. Týmto odstránite skupina a všetkých jeho zdrojov, vrátane poštových schránok programu Outlook a kalendár a všetky tímy kanály. Ďalšie informácie nájdete v téme [Odstránenie lokality SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- Môžete obnoviť odstránené lokalít pre 93 dní. Všimnite si, že odstránené skupiny musí byť obnovený do 30 dní. Ďalšie informácie nájdete v téme [Zobraziť a obnoviť odstránené stránky](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
-- Natrvalo odstrániť stránky, v téme [trvalé odstránenie stránky](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Tento krok bude potrebné, ak plánujete opätovne použiť URL. 
-- Odstrániť podlokality, pozrite si [lokalitu odstrániť alebo podlokality quicksteps](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
+- SharePoint správcovia môžu teraz odstrániť lokality, ktoré patria do **skupiny Office 365**. Tým sa odstráni skupina a všetky jej zdroje, vrátane poštovej schránky programu Outlook a kalendára, a všetky tímy kanály. Ďalšie informácie nájdete v téme [Odstránenie lokality SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Môžete obnoviť zmazané stránky za 93 dní. Všimnite si, že odstránené skupiny musia byť obnovené do 30 dní. Ďalšie informácie nájdete v téme [zobrazenie a obnovenie odstránených lokalít](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Ak chcete lokalitu natrvalo odstrániť, pozrite si [stránku trvalé odstránenie lokality](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Tento krok sa bude vyžadovať, ak plánujete znova použiť adresu URL. 
+- Odstránenie podlokality nájdete [v téme Odstránenie rýchlych krokov lokality alebo podlokality](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

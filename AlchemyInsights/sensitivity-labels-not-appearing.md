@@ -1,5 +1,5 @@
 ---
-title: Citlivosť menovky nie je uvedený
+title: Označenia citlivosti, ktoré sa nezobrazujú
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504550"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744836"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Citlivosť menovky nie je uvedený
+# <a name="sensitivity-labels-not-appearing"></a>Označenia citlivosti, ktoré sa nezobrazujú
 
-Označenia citlivosti umožní klasifikovať a chrániť citlivý obsah. Ďalšie informácie o tejto funkcii nájdete v téme [Prehľad označenia citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Štítky citlivosti vám umožňujú klasifikovať a chrániť citlivý obsah. Ďalšie informácie o tejto funkcii nájdete v téme [Prehľad označení citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Ak ste nakonfigurovali označenia citlivosti, ale oni sa nezobrazujú v aplikáciách balíka Office, skontrolujte nasledovné:
+Ak ste nakonfigurovali menovky citlivosti, ale nezobrazujú sa v aplikáciách balíka Office, skontrolujte nasledovné:
 
-- Potvrďte, že citlivosť štítok bol [uverejnená](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) používateľom a skupinám, ktoré chcete.
+- Potvrďte, že štítok citlivosti bol [publikovaný](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) pre používateľov a skupiny, ktoré chcete.
 
-- Potvrďte, že používateľ používa aplikácie, ktorá podporuje označenia citlivosti - pozri [označenia citlivosti v dokumente](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Potvrďte, že používateľ používa aplikáciu, ktorá podporuje menovky citlivosti – Pozrite si [menovky citlivosti v dokumente](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Ak ste [prechod Azure ochrany informácie menovky](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), uvedomte si úvahy uvedené [tu](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Ak [migrujete štítky na ochranu informácií Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), uvedomte si [tu](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)uvedené úvahy.
 
-- Ochrana pred únikom údajov (DLP) podpora: v súčasnej dobe iba uchovávania menovky sa môžu použiť ako podmienku DLP politík.  Podpora pre označenia citlivosti DLP politiky ešte nie je k dispozícii, ale pracujeme na tom.
+- Podpora ochrany pred únikom údajov (DLP): v súčasnosti môžu byť v politikách DLP použité len menovky uchovávania.  Podpora pre označenia citlivosti v politike DLP nie je zatiaľ k dispozícii, ale pracujeme na tom.
 
-Ďalšie informácie o možné problémy v téme [známe problémy s označenia citlivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Ďalšie informácie o možných problémoch nájdete v téme [známe problémy s menovkami citlivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

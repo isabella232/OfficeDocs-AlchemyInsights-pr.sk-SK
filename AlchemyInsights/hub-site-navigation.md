@@ -1,23 +1,23 @@
 ---
-title: Rozbočovač stránky limity a obmedzenia
-ms.author: kirks
+title: Obmedzenia a obmedzenia lokality rozbočovača
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: 0704d846bc30f2773298fb40631be915c88b964d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5bf96213a6ebed97facca81426f31175f57462d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539332"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754567"
 ---
-# <a name="sharepoint-hub-site-navigation"></a>Navigáciu lokality rozbočovač SharePoint
+# <a name="sharepoint-hub-site-navigation"></a>Navigácia lokality programu SharePoint Hub
 
-V hornej časti rozbočovač stránky a všetky pridružené lokality nad navigáciu lokality, je rozbočovač stránky navigačný panel. Ak ste vlastník lokality rozbočovača, môžete prispôsobiť [navigačný panel](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
+V hornej časti rozbočovača stránky a všetky pridružené lokality, nad navigácia na webe, je rozbočovač stránky navigačný panel. Ak ste vlastníkom lokality rozbočovača, môžete prispôsobiť [navigačný panel](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
 
-**Poznámka:** Odporúča sa vybrať lokalitu komunikácie alebo tímovej lokality pomocou moderných šablóny ako rozbočovač stránky. Ak používate klasické tímovej lokality, rozbočovač navigácia sa zobrazia iba na moderné stránky a rozbočovač stránky nastavenia sa zobrazia iba na stránke moderné. 
+**Poznámka:** Odporúča sa vybrať komunikačnú lokalitu alebo tímovú lokalitu pomocou modernej šablóny ako stránky vášho rozbočovača. Ak používate klasickú tímovú lokalitu, navigácia v rozbočovači sa zobrazí len na moderných stránkach a nastavenia rozbočovača sa zobrazia len na modernej stránke. 
 
 

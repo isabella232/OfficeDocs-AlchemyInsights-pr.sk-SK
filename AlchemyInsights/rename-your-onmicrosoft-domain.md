@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666495"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741236"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Premenovanie domény onmicrosoft.com
 
- **Nie je možné premenovať domény onmicrosoft po znamenia-up.** Napríklad, ak východisková doména ste zvolili *fourthcoffee.onmicrosoft.com*, nemôžete zmeniť to treba *fabrikam.onmicrosoft.com*. Používať rôzne onmicrosoft.com domény, budete musieť začať nové predplatné s Office 365.
+ **Po prihlásení nie je možné premenovať doménu onmicrosoft.** Ak bola napríklad Pôvodná doména, ktorú ste vybrali, *fourthcoffee.onmicrosoft.com*, nemôžete ju zmeniť na *fabrikam.onmicrosoft.com*. Ak chcete použiť inú doménu onmicrosoft.com, musíte začať nové predplatné s balíkom Office 365.
   
-Ak chcete použiť vlastnú doménu ako *contoso.com* , môžete [pridať jeden vlastníte](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) alebo [kúpiť od spoločnosti Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Ak chcete použiť vlastnú doménu, ako je *contoso.com* , môžete [pridať jeden](https://docs.microsoft.com/office365/admin/setup/add-domain) , ktorý vlastníte, alebo [kúpiť jeden od spoločnosti Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

@@ -1,6 +1,6 @@
 ---
-title: Vyriešiť problém - používateľ nenašiel v adresári
-ms.author: kirks
+title: Riešenie problému-používateľ sa nenašiel v adresári
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544878"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754207"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Vyriešiť problém - používateľ nenašiel v adresári
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Riešenie problému-používateľ sa nenašiel v adresári
 
-Používateľom sa zobrazuje chybové hlásenie "používateľa sa nenašla" v adresári. Prosím, skúste znova kde typ problému používateľ nie je v adresári.
+Ak používatelia dostávajú chybové hlásenie "používateľ sa nenašiel" v adresári. Skúste to znova, ak je typ problému používateľ nie je v adresári.
 
-Tieto kroky môže byť dokončená na vyriešenie problému.
+Nasledujúce kroky môžu byť dokončené na vyriešenie problému.
 
-- Zabezpečiť konto, e-mailovú pozvánku prijme rovnaké konto, ktoré používa prihlásiť neskôr. Uistite sa, že používateľ používa rovnaké konto prijmite pozvanie a prihláste sa do site. 
+- Uistite sa, že účet, ktorý prijal e-mailovú pozvánku je rovnaký účet, ktorý sa používa na prihlásenie neskôr. Uistite sa, že používateľ používa rovnaký účet prijať pozvanie a prihláste sa na lokalitu. 
 
-Ďalšie informácie nájdete v téme [Správa aliasov konta Microsoft</a> spravovať Office 365 prihlásenie](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Ďalšie informácie nájdete v téme [spravovanie aliasov konta</a> Microsoft na spravovanie prihlásenia na Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Vyhľadajte každý lokalít, v ktorých používateľ dostáva chyba. 
+- Prejdite na každú lokalitu, v ktorej používateľ dostane chybu. 
 
-Pridať "/ _layouts/15/people.aspx/membershipgroupid=0" (do úvodzoviek) na koniec URL stránky. 
+Pridať "/_layouts/15/People.aspx/MembershipGroupId = 0" (v úvodzovkách) na koniec adresy URL lokality. 
 
-Príklad: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Príklad: https://_ lt_ "contoso">. SharePoint. com/_layouts/15/People. aspx/membershipGroupId = 0.
 
-- Vyberte používateľa v zozname.
+- Vyberte používateľa zo zoznamu.
 
-- Kliknite na položku **odstrániť povolenia používateľov** z pása s nástrojmi. 
--  Pridať späť používateľa a odoslať pozvánku používateľovi.
+- Kliknite na položku **odstrániť povolenia používateľa** z pása s nástrojmi. 
+-  Pridajte späť používateľa a odošlite pozvánku používateľovi.
 
