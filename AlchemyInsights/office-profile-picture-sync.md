@@ -1,33 +1,33 @@
 ---
-title: Synchronizácia používateľského profilu
-ms.author: kirks
+title: Synchronizácia obrázka profilu používateľa
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d2a3d08a6ee20cd4f62457b5365449fc5781606
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521870"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753873"
 ---
-# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="aa7f4-102">Synchronizácia používateľského profilu</span><span class="sxs-lookup"><span data-stu-id="aa7f4-102">Sync a user's profile picture</span></span>
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="e7998-102">Synchronizácia obrázka profilu používateľa</span><span class="sxs-lookup"><span data-stu-id="e7998-102">Sync a user's profile picture</span></span>
 
-<span data-ttu-id="aa7f4-103">Môžete pridať alebo zmeniť svoju profilovú fotku v Office 365, z [lokality Office.com](http://www.office.com), alebo pri používaní aplikácií balíka Office 365 na počítači alebo v prehliadači v telefóne.</span><span class="sxs-lookup"><span data-stu-id="aa7f4-103">You can add or change your profile photo in Office 365 from [Office.com](http://www.office.com), or while using Office 365 applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="aa7f4-104">Vaše fotografie sa objaví všade tam je kruh foto profil v Office 365.</span><span class="sxs-lookup"><span data-stu-id="aa7f4-104">Your photo will appear everywhere there's a profile photo circle in Office 365.</span></span>
+<span data-ttu-id="e7998-103">Svoju profilovú fotku môžete pridať alebo zmeniť v balíku Office 365 z [Office.com](http://www.office.com)alebo počas používania aplikácií balíka Office 365 v počítači alebo v prehľadávači v telefóne.</span><span class="sxs-lookup"><span data-stu-id="e7998-103">You can add or change your profile photo in Office 365 from [Office.com](http://www.office.com), or while using Office 365 applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="e7998-104">Vaša fotka sa objaví všade tam je profil foto kruh v balíku Office 365.</span><span class="sxs-lookup"><span data-stu-id="e7998-104">Your photo will appear everywhere there's a profile photo circle in Office 365.</span></span>
 
-<span data-ttu-id="aa7f4-105">Pridať fotku do služieb Office 365 pre podniky</span><span class="sxs-lookup"><span data-stu-id="aa7f4-105">To add your profile photo to Office 365 for business</span></span>
+<span data-ttu-id="e7998-105">Pridanie fotografie profilu do balíka Office 365 pre podniky</span><span class="sxs-lookup"><span data-stu-id="e7998-105">To add your profile photo to Office 365 for business</span></span>
 
-- <span data-ttu-id="aa7f4-106">Nájdite fotografiu, ktorú chcete použiť a uložiť ho na váš počítač, OneDrive alebo iné umiestnenie, môžete získať na</span><span class="sxs-lookup"><span data-stu-id="aa7f4-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to</span></span>
+- <span data-ttu-id="e7998-106">Nájdite fotku, ktorú chcete použiť, a uložte ju do počítača, OneDrivu alebo na iné miesto, kde sa môžete dostať do</span><span class="sxs-lookup"><span data-stu-id="e7998-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to</span></span>
 
-- <span data-ttu-id="aa7f4-107">Prihlásenie do služieb Office 365 s vašou prácou alebo školské konto na [lokalite office.com](http://www.office.com).</span><span class="sxs-lookup"><span data-stu-id="aa7f4-107">Sign into Office 365 with your work or school account at [office.com](http://www.office.com).</span></span>
+- <span data-ttu-id="e7998-107">Prihláste sa do balíka Office 365 so svojím pracovným alebo školským účtom na adrese [Office.com](http://www.office.com).</span><span class="sxs-lookup"><span data-stu-id="e7998-107">Sign into Office 365 with your work or school account at [office.com](http://www.office.com).</span></span>
 
-- <span data-ttu-id="aa7f4-108">Vyberte kruhu v pravom hornom rohu stránky, ktorý ukazuje svoje iniciály alebo ikona osoby.</span><span class="sxs-lookup"><span data-stu-id="aa7f4-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
+- <span data-ttu-id="e7998-108">Vyberte kruh v pravom hornom rohu stránky, ktorá zobrazuje vaše iniciály alebo ikonu osoby.</span><span class="sxs-lookup"><span data-stu-id="e7998-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
 
-- <span data-ttu-id="aa7f4-109">V mojej účty table vyberte kruhu, ktorý ukazuje svoje iniciály alebo ikona osoby.</span><span class="sxs-lookup"><span data-stu-id="aa7f4-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="aa7f4-110">Zmena fotografie v pop-up, ktorý sa objaví.</span><span class="sxs-lookup"><span data-stu-id="aa7f4-110">Change your photo in the pop-up that appears.</span></span>
+- <span data-ttu-id="e7998-109">Na table moje kontá vyberte kruh, ktorý zobrazuje vaše iniciály alebo ikonu osoby.</span><span class="sxs-lookup"><span data-stu-id="e7998-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="e7998-110">Zmeňte fotografiu v zobrazenom pop-up.</span><span class="sxs-lookup"><span data-stu-id="e7998-110">Change your photo in the pop-up that appears.</span></span>
 
-<span data-ttu-id="aa7f4-111">Poznámka: Ak ste už nahrali obrázok chcete skúste kliknúť na SharePoint alebo OneDrive dlaždicu opätovnou synchronizáciou ten obrázok.</span><span class="sxs-lookup"><span data-stu-id="aa7f4-111">Note: If you have already uploaded a picture you may want to try clicking the SharePoint or OneDrive tile to re-sync that picture.</span></span>
+<span data-ttu-id="e7998-111">Poznámka: Ak ste už nahrali obrázok, možno budete chcieť skúsiť kliknutím na dlaždicu SharePoint alebo OneDrive znova synchronizovať tento obrázok.</span><span class="sxs-lookup"><span data-stu-id="e7998-111">Note: If you have already uploaded a picture you may want to try clicking the SharePoint or OneDrive tile to re-sync that picture.</span></span>
 
-<span data-ttu-id="aa7f4-112">Ďalšie informácie, navštívte stránku [informácie o obrázok synchronizácie profilu v balíku Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="aa7f4-112">For more information, please visit [Information about profile picture synchronization in Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+<span data-ttu-id="e7998-112">Ďalšie informácie nájdete [informácie o profile synchronizácia obrázkov v balíku Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).</span><span class="sxs-lookup"><span data-stu-id="e7998-112">For more information, please visit [Information about profile picture synchronization in Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).</span></span>

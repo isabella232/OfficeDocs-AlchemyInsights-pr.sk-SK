@@ -1,6 +1,6 @@
 ---
 title: OneDrive nie je poskytnutá pre tohto používateľa
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a059c1d743b7b1c1ba19025a81049c6a8363bcde
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543648"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753379"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a><span data-ttu-id="6f611-102">OneDrive nie je poskytnutá pre tohto používateľa</span><span class="sxs-lookup"><span data-stu-id="6f611-102">OneDrive is not provisioned for this user</span></span>
+# <a name="onedrive-is-not-provisioned-for-this-user"></a><span data-ttu-id="9de50-102">OneDrive nie je poskytnutá pre tohto používateľa</span><span class="sxs-lookup"><span data-stu-id="9de50-102">OneDrive is not provisioned for this user</span></span>
 
-<span data-ttu-id="6f611-103">Pre novo vytvorené účty, používatelia musia prihlásiť na portáli Office 365 pomocou vlastného konta a kliknite na položku OneDrive na manuálne spustenie poskytovania OneDrive stránky.</span><span class="sxs-lookup"><span data-stu-id="6f611-103">For newly created accounts, users need to sign in to the Office 365 portal with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="9de50-103">Pre novovytvorené kontá, používatelia musia prihlásiť do Microsoft 365 admin Center s vlastným kontom a kliknite na položku OneDrive manuálne spustiť poskytovanie lokality OneDrive.</span><span class="sxs-lookup"><span data-stu-id="9de50-103">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="6f611-104">Avšak, ak používateľ má už klikli OneDrive a ich osobnej lokality nie je poskytnutá do 24 hodín, prihláste lístok technickej podpory o ďalšiu pomoc.</span><span class="sxs-lookup"><span data-stu-id="6f611-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
+<span data-ttu-id="9de50-104">Avšak, ak používateľ už klikli OneDrive a ich osobné stránky nie je poskytnutá do 24 hodín, prosím, prihláste lístok podpory pre ďalšiu pomoc.</span><span class="sxs-lookup"><span data-stu-id="9de50-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
   
 
