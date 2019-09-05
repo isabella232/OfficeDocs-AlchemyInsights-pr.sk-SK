@@ -1,6 +1,6 @@
 ---
-title: Upraviť súbor iba na čítanie
-ms.author: kirks
+title: Úprava súboru iba na čítanie
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528134"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756115"
 ---
-# <a name="edit-a-read-only-file"></a>Upraviť súbor iba na čítanie
+# <a name="edit-a-read-only-file"></a>Úprava súboru iba na čítanie
 
-Možno zistíte, že keď otvoríte súbory, otvoríte len na čítanie. V niektorých prípadoch, to je pre zvýšenie bezpečnosti, ako keď otvárate súbory z internetu a iné časy, môže byť z dôvodu nastavenia, ktoré môžu byť zmenené. V článku [Prečo urobil môj súbor otvorený iba na čítanie](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) môžeme načrtnúť niektoré scenáre, kde sa súbor otvorí iba na čítanie a niektoré kroky, ako zmeniť.
+Možno zistíte, že pri otváraní súborov sa otvoria iba na čítanie. V niektorých prípadoch je to pre pridanú bezpečnosť, napríklad keď otvárate súbory z internetu, a inokedy, môže to byť spôsobené nastavením, ktoré možno zmeniť. V článku [Prečo bol môj súbor otvorený iba na čítanie](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) , načrtneme niektoré scenáre, v ktorých sa súbor otvára iba na čítanie, a niektoré kroky, ktoré môžete podniknúť na zmenu.
 
-Tu je návod na otváranie súborov balíka office pre editáciu.
+Tu je postup, ako otvoriť súbory balíka Office na úpravy.
 
-Namiesto kliknutím na názov dokumentu, **Otvorte Menu** (tri bodky) a potom kliknite na tlačidlo **Upraviť**.
+Namiesto kliknutia na názov dokumentu kliknite na položku **otvoriť ponuku** (tri bodky) a potom kliknite na položku **Upraviť**.
 
 Poznámky:
 
-- Ak by ste radšej dokumentov otvorte na upravovanie v kancelárii, keď kliknete na názov, môžete nastaviť knižnicu k tomu, že (ako dlho máte povolenie na zmenu nastavenia knižnice).
+- Ak chcete mať dokumenty otvorené na úpravy v balíku Office po kliknutí na názov, môžete knižnicu nastaviť tak, aby sa (ak máte povolenie na zmenu nastavenia knižnice).
 
-- Ak máte knižníc s Pokladňa, požadované stĺpce alebo keď iba používatelia, ktorí môžu upravovať verzia nastavenie SharePoint dokumentu Knižnica, tieto položky sa synchronizuje ako iba na čítanie.
+- Ak máte knižnice s pokladnicou, požadované stĺpce alebo keď len používatelia, ktorí môžu upravovať v nastaveniach verzií knižnice dokumentov SharePoint, tieto položky budú synchronizované iba na čítanie.
 
-- Dokument programu Office otvorí v chránenom zobrazení, aj keď môžete zapnúť nastavenie politiky "Open Office dokumenty čítanie/zápis počas prehliadania". Ďalšie informácie nájdete v tejto [článku.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Dokument balíka Office sa otvorí v chránenom zobrazení, aj keď zapnete nastavenie politiky "otvoriť dokumenty balíka Office ako čítanie/zápis počas prehliadania". Ďalšie informácie nájdete v tomto [článku.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

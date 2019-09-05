@@ -1,5 +1,5 @@
 ---
-title: 617 dozvedieť o externé možnosti zdieľania
+title: 617 ďalšie informácie o možnostiach externého zdieľania
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63e0cab7c9dcfd6ef2a6cc9b6b6c00d751727557
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497782"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735368"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Ďalšie informácie o externých zdieľanie Možnosti kalendára
+# <a name="learn-about-external-calendar-sharing-options"></a>Informácie o možnostiach zdieľania externých kalendárov
 
-Ak potrebujete plánovať stretnutia s ľuďmi mimo vašej organizácie, Office 365 umožňuje sprístupniť kalendáre "Externí používatelia," tých, ktorí potrebujú vidieť voľnom čase, ale nemáte používateľské kontá na vašom prostredí Office 365. Ďalšie informácie nájdete v téme [zdieľať kalendáre s externými používateľmi](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Ak potrebujete naplánovať stretnutia s ľuďmi mimo vašej organizácie, Office 365 umožňuje sprístupniť kalendáre "externých používateľov" tých, ktorí potrebujú vidieť voľnom čase, ale nemajú používateľské kontá pre vaše Office 365 prostredia. Ďalšie informácie nájdete v téme [Zdieľanie kalendárov s externými používateľmi](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

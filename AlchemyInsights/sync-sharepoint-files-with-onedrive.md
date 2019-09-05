@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 52429314d1529d0d2df7886feaebbcfd27666a06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 73583b3b27143c708a4cc993cdff94a33131ab52
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559712"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743108"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Riešenie problémov s príkazom Otvoriť v programe Prieskumník v SharePointe Online
 
@@ -25,7 +25,7 @@ Príkaz Otvoriť v programe Prieskumník otvorí lokálnu inštanciu Windows Pr
 
 Ak ste sa miesto nového synchronizačného klienta pre OneDrive rozhodli použiť zobrazenie v Prieskumníkovi, postupujte podľa krokov a najvhodnejších postupov v týchto článkoch:
 
-- [Riešenie problémov v SharePointe Online pomocou príkazu Otvoriť v programe Prieskumník](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
+- [Riešenie problémov v SharePointe Online pomocou príkazu Otvoriť v programe Prieskumník](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
 - [Kopírovanie alebo premiestňovanie súborov v knižnici pomocou príkazu Otvoriť v programe Prieskumník](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 

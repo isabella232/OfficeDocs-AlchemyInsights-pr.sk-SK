@@ -1,6 +1,6 @@
 ---
 title: Chybové hlásenie pri zdieľaní súborov
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527306"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755971"
 ---
 # <a name="error-messages-when-sharing"></a>Chybové hlásenia pri zdieľaní
 
-Ak prijmete chybové hlásenie, keď sa pokúšate o zdieľanie s externého používateľa, najpravdepodobnejšie externé zdieľanie nie je povolená alebo zdieľanie nastavená neumožňuje úroveň zdieľania používateľ pokúša.
+Ak sa zobrazí chybové hlásenie pri pokuse o zdieľanie s externým používateľom, pravdepodobne externé zdieľanie nie je povolená alebo zdieľanie je nastavená na neumožňuje úroveň zdieľania používateľ sa pokúša.
   
-Nové lokality SharePoint admin Center, kliknite na tlačidlo **zdieľania** na ľavej table. Vyberte úroveň zdieľania môžete povoliť. Uistite sa, že externé zdieľanie je zapnutá pre lokalitu. 
+V novom SharePoint admin Center, kliknite na tlačidlo **Zdieľanie** na ľavej table. Vyberte úroveň zdieľania, ktorú chcete povoliť. Presvedčte sa, či je pre lokalitu zapnuté externé zdieľanie. 
   
-Ak sa používateľ snaží prihlásiť dostane chybové hlásenie, skúste nasledujúce kroky:
+Ak sa používateľ pokúša prihlásiť dostane chybové hlásenie, vyskúšajte nasledujúce kroky:
   
-- Zabezpečiť, že používateľ prijal pozvanie na zdieľanie, ktorá bola odoslaná.
+- Uistite sa, že používateľ prijal pozvanie na zdieľanie, ktoré bolo odoslané.
     
-- Uistite sa, že užívateľ prijíma pozvanie e-mailovú adresu, ktorá vám bola odoslaná.
+- Uistite sa, že používateľ prijíma pozvanie s e-mailovú adresu, ktorá bola odoslaná.
     
 

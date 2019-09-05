@@ -1,6 +1,6 @@
 ---
-title: OneDrive nereaguje
-ms.author: kirks
+title: OneDrive neodpovedá
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: e13abc35c04ad692ea72e4d6fd46fbdbc203c2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8a4782bbf12c48e92ac34e40493b53691d82d23
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543220"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753199"
 ---
-# <a name="onedrive-not-responding"></a>OneDrive nereaguje
+# <a name="onedrive-not-responding"></a>OneDrive neodpovedá
 
-Pre novo vytvorené účty, používatelia musia prihlásiť na portáli Office 365 pomocou vlastného konta a kliknite na položku OneDrive na manuálne spustenie poskytovania OneDrive stránky.
+Pre novovytvorené kontá, používatelia musia prihlásiť do Microsoft 365 admin Center s vlastným kontom a kliknite na položku OneDrive manuálne spustiť poskytovanie lokality OneDrive.
   
-Avšak, ak používateľ má už klikli OneDrive a ich osobnej lokality nie je poskytnutá do 24 hodín, prihláste lístok technickej podpory o ďalšiu pomoc.
+Avšak, ak používateľ už klikli OneDrive a ich osobné stránky nie je poskytnutá do 24 hodín, prosím, prihláste lístok podpory pre ďalšiu pomoc.
   
 

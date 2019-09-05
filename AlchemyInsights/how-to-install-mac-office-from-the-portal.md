@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 660a581ada8e7146abf366d83450171b2f440f8f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540448"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735332"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>Ako nainštalovať Mac Office z portálu
 
-1. [Odinštalovanie balíka Office 2011 pre Mac z vášho počítača](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
+1. [Odinštalovanie balíka Office 2011 pre Mac z počítača](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
 
-2. [Zabezpečiť Mac softvér týždeň sú povolené na portáli správy služby Office 365](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).
+2. [Spravovať nastavenia preberania softvéru v balíku Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [Priradiť licenciu Office Mac používateľom](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).
+3. [Priraďte licencie používateľom](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
 
-4. Používatelia potom môžete nainštalovať Office softvér sami, alebo môžete použiť [Nasadiť Office Mac používateľom](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).
+4. Používatelia potom môžu nainštalovať softvér balíka Office sami, alebo môžete použiť [nasadenie balíka Office pre používateľov Macu](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).

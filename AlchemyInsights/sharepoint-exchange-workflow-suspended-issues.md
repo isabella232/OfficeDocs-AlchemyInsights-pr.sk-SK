@@ -1,6 +1,6 @@
 ---
-title: Začíname s SharePoint Online
-ms.author: kirks
+title: Začíname s SharePointom online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504010"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751687"
 ---
-# <a name="workflows-in-sharepoint"></a>Toky činností na lokalite SharePoint
+# <a name="workflows-in-sharepoint"></a>Toky činností v službe SharePoint
 
-Ak pracovné postupy služby SharePoint nie odosielanie e-mailov, organizácii narazili Exchange Online obmedzenia odosielateľa.
+Ak pracovné postupy služby SharePoint neodosielajú e-maily, vaša organizácia pravdepodobne narazila na limity odosielateľa Exchange Online.
 
-"Je prerušený pracovného postupu" chybové hlásenie sa môže vyskytnúť, ak máte jednu z nasledujúcich položiek:
+"Workflow je pozastavená" chybové hlásenie sa môže vyskytnúť, ak máte jednu z nasledujúcich položiek:
 
-- Máte pracovného postupu SharePoint Online, používajúce SharePoint 2010 alebo SharePoint 2013 pracovného postupu typ platformy.
+- Máte pracovný postup SharePoint Online, ktorý používa typ platformy SharePoint 2010 alebo SharePoint 2013 pracovného postupu.
 
-- Pracovný postup je nakonfigurovaný na odosielanie vlastné e-mailové správy vyše 200 používateľov, viac ako 10 000 príjemcov za deň, alebo viac ako 30 správ za minútu.
+- Pracovný postup je nakonfigurovaný na odoslanie vlastnej e-mailovej správy na viac ako 200 používateľov naraz, viac ako 10 000 príjemcov za deň, alebo viac ako 30 správ za minútu.
 
-Pri spustení pracovného postupu, emailovú správu nie je odoslaná a spozorujete chybové hlásenie, vnútorný stav je nastavený na zavesené alebo nie je možné Odoslať príjemcovi je zobrazená.
+Pri spustení pracovného postupu, e-mailová správa nie je odoslaná, a zistíte, že chybové hlásenie, interný stav je nastavený na pozastavené alebo nie je možné Odoslať príjemcovi sa zobrazí.
 
-Ďalšie informácie nájdete v nasledujúcom [článku](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+Ďalšie informácie nájdete v nasledujúcom [článku](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

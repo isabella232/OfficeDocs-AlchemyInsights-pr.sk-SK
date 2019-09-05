@@ -1,6 +1,6 @@
 ---
-title: Nastavenia služby Outlook.com
-ms.author: kirks
+title: Outlook.com nastavenia
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535406"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752911"
 ---
-# <a name="settings-in-outlookcom"></a>Nastavenia v službe Outlook.com
+# <a name="settings-in-outlookcom"></a>Nastavenia v Outlook.com
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ak príjemca je interným alebo externým organizácii a ak sú pomocou e-mailového konta služby Office 365 alebo Outlook.com, nasledujúcim klientom by nemali robiť nič zvláštneho na otvorenie správy: <strong>Outlook 2016, Outlook web / aplikácia Outlook Web App,</strong> <strong>Mobilná aplikácia Outlook</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Delegátov</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">používateľov, že chránené email bol odoslaný na, nemôžete otvoriť chránené správy. Iba pôvodným príjemcom (osoby, ktoré chránené e-mail bol adresovaný) môžu zobraziť informácie v e-maile.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ak je príjemca na iného poskytovateľa internetových služieb a sú&nbsp;nemôže otvoriť správu a pozrite si &lsquo;rpmsg&rsquo; prílohu, prosím poradiť, postupujte podľa nasledujúcich pokynov:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Vyberte <strong style="mso-bidi-font-weight: normal;">Èítaj</strong> hlásenie.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Byť presmerovaný na stránku, kde mali vybrať &lsquo; <strong style="mso-bidi-font-weight: normal;">prihláste jednorazový prístupový kód</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Jednorazové heslo sa odošle na rovnakú emailovú adresu. Zadajte kód v okne prehliadača a potom vyberte <strong style="mso-bidi-font-weight: normal;">pokračovať</strong> čítať vaše správy.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ak ste schopní šifrovaných správ z inej organizácii služby Office 365, postupujte riešenie uvedených v tomto <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">článku</span></a> .</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Ak poštová schránka príjemcu je na <strong>Yahoo alebo Gmail </strong> <span style="mso-bidi-font-weight: bold;">postupujte podľa pokynov</span> v tomto <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">článku</span></a>.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Politiky ochrany sa vzťahujú len na <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">známe formáty súborov</span></a>. PDF a OneDrive for Business prílohu nepodporuje šifrovanie.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Zdieľané poštové schránky</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">nemôžete otvoriť šifrované správy v súčasnosti prostredníctvom ľubovoľného klienta.</span></li> </ul>
+Ak príjemca je interné alebo externé organizácie a ak používate Office 365 alebo Outlook.com e-mailového konta, nasledujúce klienti by nemali robiť nič zvláštneho otvoriť správu: **outlook 2016, Outlook na webe/Outlook Web App, Aplikácia Outlook Mobile App**
+
+**Delegáti** používateľov, ktorým bol odoslaný chránený e-mail, nemôžu otvárať chránené správy. Informácie v e-maile môžu zobraziť iba pôvodní príjemcovia (osoba, ktorá bola odoslaná chráneným e-mailom).
+
+- Ak príjemca je na iný poskytovateľ internetových služieb a nie sú&nbsp;schopní otvoriť správu a vidieť "rpmsg" prílohu, postupujte podľa pokynov nižšie:
+    - Vyberte položku **čítať** správu.
+    - Presmerujú sa na stránku, kde by mali vybrať možnosť **Prihlásiť sa pomocou jedného prístupového kódu**.
+    - Na rovnakú e-mailovú adresu sa odošle prístupový kód na jedno použitie. Zadajte kód v okne prehliadača a potom vyberte položku **pokračovať** a prečítajte si správu.
+- Ak ste schopní šifrované správy z inej organizácie Office 365, postupujte podľa krokov na riešenie uvedené v tomto [článku](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
+- Ak je poštová schránka príjemcu na **Yahoo alebo Gmail**, postupujte podľa pokynov</span> nájdete v tomto [článku](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+- Politiky ochrany sa vzťahujú len na [známe formáty súborov](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Prílohy PDF a OneDrive for Business nie sú podporované na šifrovanie.
+- Zdieľané poštové schránky **nemôžu otvárať šifrované správy v súčasnosti prostredníctvom ľubovoľného klienta**. 

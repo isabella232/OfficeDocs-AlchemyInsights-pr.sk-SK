@@ -1,5 +1,5 @@
 ---
-title: Nastaviť alebo zmeniť povolenia pre verejný priečinok
+title: Nastavenie alebo Zmena povolení pre verejný priečinok
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550170"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734684"
 ---
 # <a name="permissions-and-public-folders"></a>Povolenia a verejné priečinky
 
-Môžete zmeniť povolenia na verejné priečinky pomocou programu Outlook, Exchange admin center (EAC) alebo prostredie PowerShell:
+Môžete zmeniť povolenia vo verejných priečinkoch pomocou programu Outlook, Exchange Admin Center (EAC) alebo PowerShell:
   
-- Outlook návod, [kliknite sem](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- V prípade pokynov programu Outlook [kliknite sem](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- EAC, nájdete v [tomto článku](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pre pokyny. Kliknutím [sem](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) prejdete do EAC. 
+- EAC, nájdete [v tomto článku](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pokyny. 
     
-- Powershell, nájdete [Tento článok](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) pokyny pre používanie rutiny prostredia Add-PublicFolderClientPermission. Ak potrebujete pokyny na pripojenie k Exchange Powershell, kliknite [tu](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Pre PowerShell, nájdete [v tomto článku](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) pokyny na používanie pridať PublicFolderClientPermission commandlet. Ak potrebujete pokyny na pripojenie k službe Exchange PowerShell, kliknite [sem](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Ak sa **Externí používatelia nemôžete posielať e-mailov do e-mailu verejných priečinkov**, dôvodom môže byť verejný priečinok chýba povolenia potrebné pre externý e-mail doručenie. Môžete opraviť pomocou Outlook návod [tu](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), alebo pokynov PowerShell [tu](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Ak **Externí používatelia nemôžu odosielať e-maily do verejného priečinka s podporou e-mailu**, dôvodom môže byť, že verejný priečinok chýba povolenia potrebné pre externé doručovanie e-mailov. Môžete opraviť pomocou programu Outlook pokyny [tu](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), alebo PowerShell inštrukcie [tu](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 
