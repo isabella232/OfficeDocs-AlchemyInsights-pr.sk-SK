@@ -1,5 +1,5 @@
 ---
-title: Nastavením predplatenia služby O365 Business Essentials
+title: Nastavenie predplatného služby O365 Business Essentials
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508906"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744728"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavením predplatenia služby O365 Business Essentials
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavenie predplatného služby O365 Business Essentials
 
-Vytváranie kont Office 365 a pridajte doménu
+Vytvoriť kontá Office 365 a pridať doménu
   
-- V tomto kroku môžete použite Sprievodcu nastavením vytvoriť kont Office 365 pre používateľov a pridať vlastnú doménu. Sprievodca umožňuje prispôsobenie každého užívateľské meno a e-mail pre váš podnik, ako [rob@contoso.com](mailto:rob@contoso.com).
+- V tomto kroku použijete Sprievodcu nastavením vytvoriť Office 365 kontá pre používateľov a pridať vlastnú doménu. Sprievodca vám umožňuje prispôsobiť identifikáciu používateľa a e-mail pre vašu firmu, napríklad [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Prejdite na [Microsoft 365 admin center](https://login.partner.microsoftonline.cn/).
+- Prejdite na [Microsoft 365 admin Center](https://login.partner.microsoftonline.cn/).
     
-- Ak chcete spustiť sprievodcu, vyberte **Prejsť na nastavenie**. Ďalšie informácie, pozrite si [Pridajte používateľov a domény Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Ak chcete spustiť sprievodcu, vyberte položku **Prejsť na nastavenie**. Ďalšie informácie nájdete v téme [Pridanie domény do balíka Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Import e-mailov
   
-- Premiestniť existujúce e-maily a kontakty z iných e-mailových systémov do vašej poštovej schránky Office 365 takže môžete vidieť všetko na jednom mieste. Pre možnosti migrácie [Migrovať e-maily a kontakty do služby Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Premiestnite existujúci e-mail a kontakty z iných e-mailových systémov do poštovej schránky balíka Office 365, aby ste ho mohli vidieť na jednom mieste. Možnosti migrácie, [migrácia e-mailu a kontaktov do balíka Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
-- Pripojenie e-mailové kontá
+- Pripojenie e-mailových kont
     
-  - Okrem správy služby Office 365 e-mail v programe Outlook, môžete pripojiť iných e-mailových kont do programu Outlook, taky, ako sú napríklad Gmail a Yahoo účty. To vám umožní spravovať všetky vaše e-maily na jednom mieste. Môžete pripojiť až 5 e-mailových kont do programu Outlook. Pre viac informácií pozri [pripojiť e-mailových účtov v programe Outlook na webe (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Okrem spravovania e-mailov balíka Office 365 v programe Outlook môžete do programu Outlook pripojiť aj iné e-mailové kontá, ako sú napríklad kontá Gmail a Yahoo. To vám umožní spravovať všetky vaše e-maily na jednom mieste. Do programu Outlook môžete pripojiť až 5 e-mailových kont. Ďalšie podrobnosti nájdete [v časti pripojenie e-mailových kont v programe Outlook na webe (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Inštalácia Skypu for Business
   
-- Spolu s členmi svojho tímu môžete [stiahnuť a nainštalovať Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na všetkých počítačoch, Macoch, tabletoch a telefónoch. Potom budete môcť zobraziť aj stav online svojimi spolupracovníkmi, nadviažte rozhovory z iných aplikácií balíka Office a hostiteľa Videoschôdze až 250 ľudí. 
+- Vy a vaši členovia tímu si môžete [stiahnuť a nainštalovať Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na všetkých svojich počítačoch, Macoch, tablete a telefónoch. Potom budete môcť vidieť on-line stav vašich spolupracovníkov, začať rozhovory z iných aplikácií balíka Office, a hosť video stretnutia s až 250 ľudí. 
     
 Ukladanie súborov online
   
-- Sa dozviete, aké ukladacie priestory sú najlepšie pre vaše podnikanie, vidieť, [kde môžete ukladať súbory v balíku Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Každý dostane ukladací priestor **OneDrive** cloud automaticky pri vytváraní kont Office 365 pre nich. Vďaka službe OneDrive, môžete prístup k súborom cez počítače, telefóny a tablety. 
+- Informácie o tom, ktoré ukladacie miesta sú pre vašu firmu najvhodnejšie, nájdete [v téme kde môžete ukladať súbory v balíku Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Každý dostane **OneDrive** ukladací priestor ukladacieho priestoru automaticky pri vytváraní Office 365 kontá pre nich. V službe OneDrive môžete získať prístup k súborom v počítačoch, telefónoch a tabletoch. 
     
-Podrobnejší návod na nastavenie nájdete v [tomto článku](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+Podrobné kroky pre nastavenie možno nájsť v [tomto článku](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

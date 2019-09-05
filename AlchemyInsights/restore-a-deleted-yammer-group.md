@@ -1,5 +1,5 @@
 ---
-title: Obnoviť odstránené skupiny sieť Yammer
+title: Obnovenie odstránenej skupiny nariekanie
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753267"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745160"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Obnoviť odstránené skupiny sieť Yammer
+# <a name="restore-a-deleted-yammer-group"></a>Obnovenie odstránenej skupiny nariekanie
 
-[Office 365 pripojený skupinami v nariekanie](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) môže byť obnovený do 30 dní od odstránenia pomocou nasledujúcich krokov obnoviť [Odstránené skupiny Office 365](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
-V niektorých prípadoch skupinu nariekanie môže nepripojí do skupiny Office 365. Ak ide o takýto prípad, nie je možné automaticky obnoviť skupinu, ale je možné získať prístup k zmazaných dát v sieť Yammer [exportu údajov](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Ak siete [politiky uchovávania údajov](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) je nastavený na *Mäkké odstrániť*. Obráťte sa na [Overené správca](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) siete sieť Yammer skontrolovať politiku uchovávania údajov alebo vykonať export údajov.
+[Office 365 pripojené skupiny v nariekanie](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) možno obnoviť do 30 dní od odstránenia podľa krokov na [Obnovenie odstránenej skupiny Office 365](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+V niektorých prípadoch nariekanie skupiny nemusia byť pripojené k skupine Office 365. Ak je to tak, nie je možné automaticky obnoviť skupinu, ale môže byť možné získať prístup k vymazaných údajov v nariekanie [údajov](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) , ak je [politika uchovávania údajov](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) siete nastavená na *soft Delete*. Ak chcete skontrolovať politiku uchovávania údajov alebo vykonať export údajov, obráťte sa na [overeného správcu](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) siete sieť Yammer.
