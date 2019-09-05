@@ -1,7 +1,7 @@
 ---
 title: Ďalšie informácie o politikách uchovávania údajov
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521690"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753775"
 ---
 # <a name="more-info-about-retention-policies"></a>Ďalšie informácie o politikách uchovávania údajov
 
-Pre väčšinu organizácií, objem a zložitosť ich údajov rastie každým dňom - e-mail, dokumenty, okamžité správy a ďalšie. Efektívne riadenie alebo upravujúce tieto informácie je dôležitá a politika uchovávania údajov môže pomôcť dosiahnuť tieto ciele. Ďalšie informácie o politiky uchovávania údajov, navštívte tieto odkazy:
+Pre väčšinu organizácií sa zvyšuje objem a zložitosť ich údajov denne-e-mail, dokumenty, okamžité správy a ďalšie. Efektívne spravovanie alebo riadenie týchto informácií je dôležité a politika uchovávania údajov vám môže pomôcť dosiahnuť tieto ciele. Ďalšie informácie o politikách uchovávania údajov nájdete na týchto odkazoch:
 
-## <a name="a-from-security-and-compliance-center"></a>A) z bezpečnosti a zhody centrum
+## <a name="a-from-security-and-compliance-center"></a>A) z centra zabezpečenia a súladu
 
-- Prejsť na dosiahnutie zabezpečenia a zhody > údajov riadenia > uchovávania
+- Prejsť na zabezpečenie a súlad _ Gt_ správa údajov _ Gt_ uchovávanie
   - Pozri [Tento](https://docs.microsoft.com/office365/securitycompliance/retention-policies) článok
 
-- Prejsť na dosiahnutie zabezpečenia a zhody > eDiscovery> pokročilé eDiscovery 
+- Prejsť na zabezpečenie a súlad _ Gt_ eDiscovery> Advanced eDiscovery 
   - Pozri [Tento](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) článok
 
-- Prejsť na zabezpečenie a súlad > klasifikácie > uchovávania
-  - Nájdete v nasledujúcich článkoch
+- Prejsť na zabezpečenie a súlad _ Gt_ klasifikácie _ Gt_ uchovávanie
+  - Pozri tieto články
     - [Označenia citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Prehľad značiek](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Prehľad štítkov](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>(B) dedičstvo eDiscovery podmienky
+## <a name="b-legacy-ediscovery-policies"></a>B) dedičstvo eDiscovery politiky
 
 - Pozri [Tento](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) článok
 
-## <a name="c-site-closure-and-deletion-policies"></a>(C) miesto uzavretia a vypustenie podmienky
+## <a name="c-site-closure-and-deletion-policies"></a>C) politiky uzavretia a odstránenia lokality
 
 - Pozri [Tento](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) článok  
 
-## <a name="d-information-rights-management-irm"></a>(D) prístupových práv k informáciám (IRM)
+## <a name="d-information-rights-management-irm"></a>D) Správa prístupových práv k informáciám (IRM)
 
-- Nájdete v nasledujúcich článkoch
-  - [IRM v knižnici zoznam](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [IRM prehľad](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- Pozri tieto články
+  - [IRM v zozname alebo knižnici](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Prehľad IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Dôrazne odporúčame prechod na zabezpečenie a súlad politík Ak stále používate Legacy eDiscovery alebo IRM alebo zatvorení výrobného miesta a odstránenia politiky.
+> Dôrazne odporúčame presun na zabezpečenie a súlad politík, ak stále používate Legacy eDiscovery alebo IRM alebo stránky uzavretie a vymazanie politiky.

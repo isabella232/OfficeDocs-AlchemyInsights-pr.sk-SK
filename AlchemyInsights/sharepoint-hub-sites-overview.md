@@ -1,34 +1,34 @@
 ---
-title: Prehľad SharePointu rozbočovač lokalít
-ms.author: kirks
+title: Prehľad lokalít lokality SharePoint Hub
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ace1b7adac2f1a15b8d39411f98b23df74eb29b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 585f3d06c358adffd267d76a2a31ea9b2135cccc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508330"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751471"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>Prehľad SharePointu rozbočovač lokalít
+# <a name="sharepoint-hub-sites-overview"></a>Prehľad lokalít lokality SharePoint Hub
 
-SharePoint rozbočovač stránky Pomocníka spĺňali potreby vašej organizácie po pripojení a usporiadaní lokalít na základe projektu, oddelenia, divízie, región, atď, takže je ľahšie:
+Lokality služby SharePoint Hub vám pomôžu uspokojiť potreby vašej organizácie pripojením a organizovaním lokalít založených na projekte, oddelení, divízii, regióne atď., čím sa uľahčí:
 
-- Objavte súvisiaci obsah, ako sú novinky a ďalšie stránky aktivity.
-
-
-- Uplatňovať bežné navigácie a značky cez pridružené lokality.
+- Objavte súvisiaci obsah, ako sú správy a iné aktivity na webe.
 
 
-- Hľadať cez všetky súvisiace stránky.
+- Použite spoločnú navigáciu a značky naprieč pridruženými lokalitami.
 
 
-Ďalšie informácie o ako vytvoriť rozbočovač stránky z nového Admin Center alebo Microsoft PowerShell v téme [Vytvorenie lokality rozbočovač SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) . 
+- Vyhľadávanie vo všetkých pridružených lokalitách.
 
-Ďalšie informácie o tom, ako priradiť existujúce lokality rozbočovač stránky z nového Admin Center alebo PowerShell nájdete v [priradiť lokality SharePoint s lokalitou rozbočovača](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) .  
 
-Pozri [odstráňte rozbočovač stránky](https://docs.microsoft.com/sharepoint/remove-hub-site) ďalšie informácie o ako odstrániť existujúcu lokalitu rozbočovača z nového Admin Center alebo PowerShell. 
+Ďalšie informácie o tom, ako vytvoriť rozbočovač stránky z nového Admin Center alebo Microsoft PowerShell, nájdete [v časti Vytvorenie rozbočovača lokality SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) . 
+
+Ďalšie informácie o tom, ako priradiť existujúce lokality k lokalite rozbočovača z nového centra spravovania alebo PowerShell, nájdete [v téme Priradenie lokality SharePoint k lokalite rozbočovača](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) .  
+
+Ďalšie informácie o odstránení existujúcej lokality rozbočovača z nového centra spravovania alebo prostredia PowerShell nájdete [v časti Odstránenie lokality rozbočovača](https://docs.microsoft.com/sharepoint/remove-hub-site) . 
