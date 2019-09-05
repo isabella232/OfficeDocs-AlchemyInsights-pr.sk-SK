@@ -1,5 +1,5 @@
 ---
-title: Vytvorenie zdieľanej poštovej schránky
+title: Vytvoriť zdieľanú poštovú schránku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: b6ad094a291169bfc76d4c46e8fac1f268684fe6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631847"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740948"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="521a2-102">Vytvorenie zdieľanej poštovej schránky</span><span class="sxs-lookup"><span data-stu-id="521a2-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="fda0d-102">Vytvorenie zdieľanej poštovej schránky</span><span class="sxs-lookup"><span data-stu-id="fda0d-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="521a2-103">Zdieľanej poštovej schránky umožňuje viacerým osobám, odosielanie a prijímanie e-mail pre alias, ako sales@contoso.com, bez priradenia ďalšiu licenciu.</span><span class="sxs-lookup"><span data-stu-id="521a2-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
+<span data-ttu-id="fda0d-103">Zdieľaná poštová schránka umožňuje viac ako jednej osobe odosielať a prijímať e-maily pre alias, napríklad sales@contoso.com, bez priradenia inej licencie.</span><span class="sxs-lookup"><span data-stu-id="fda0d-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span> 
 
-<span data-ttu-id="521a2-104">Nájdete v článku [vytvorenie zdieľanej poštovej schránky](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) pre tipy a ďalšie informácie o používaní zdieľanej poštovej schránky.</span><span class="sxs-lookup"><span data-stu-id="521a2-104">See the article [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) for tips and more info about using a shared mailbox.</span></span> 
+<span data-ttu-id="fda0d-104">Pozrite si článok [vytvorenie zdieľanej poštovej schránky](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) pre tipy a ďalšie informácie o používaní zdieľanej poštovej schránky.</span><span class="sxs-lookup"><span data-stu-id="fda0d-104">See the article [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) for tips and more info about using a shared mailbox.</span></span> 
   
 

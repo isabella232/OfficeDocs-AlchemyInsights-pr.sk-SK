@@ -1,9 +1,8 @@
 ---
-title: 182 spustite SaRA diagnostikovať &amp; vyriešiť problémy s overovaním služby Outlook
+title: 182 spustite SaRA diagnostikovať a vyriešiť problémy s overovaním programu Outlook
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 95a7d06759ea251cce0c35f7a6667dccda62ee28
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371268"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752659"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="c6908-102">Použite SaRA diagnostikovať a vyriešiť problémy s overovaním služby Outlook</span><span class="sxs-lookup"><span data-stu-id="c6908-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="afa2b-102">Použitie SaRA diagnostikovať a vyriešiť problémy s overovaním programu Outlook</span><span class="sxs-lookup"><span data-stu-id="afa2b-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
 
-<span data-ttu-id="c6908-103">Odporúčame vám použiť [program Outlook neustále pýta na heslo](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostické postihnutého počítača problémov kde Outlook neustále vyzve na zadanie hesla.</span><span class="sxs-lookup"><span data-stu-id="c6908-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="c6908-104">Tento [SaRA](https://diagnostics.office.com/#/) diagnostické robí automatizované kontroly a vráti možné riešenia môžete použiť na riešenie zistených problémov.</span><span class="sxs-lookup"><span data-stu-id="c6908-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
+<span data-ttu-id="afa2b-103">Dôrazne odporúčame používať [program Outlook stále žiadajú o moje heslo](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostické na postihnuté stroj riešiť problémy, kde Outlook neustále vyzve na zadanie hesla.</span><span class="sxs-lookup"><span data-stu-id="afa2b-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="afa2b-104">Táto Diagnostika [SaRA](https://diagnostics.office.com/#/) má automatizované kontroly a vracia možné riešenia pre vás použiť na riešenie všetkých zistených problémov.</span><span class="sxs-lookup"><span data-stu-id="afa2b-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
