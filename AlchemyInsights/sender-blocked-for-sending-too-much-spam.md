@@ -12,12 +12,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666351"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744944"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Konto je zablokované z dôvodu odosielania príliš veľkého množstva nevyžiadanej pošty
 
@@ -27,5 +27,5 @@ Ak je konto Office 365 blokované z dôvodu odosielania príliš veľkého množ
 
 2. Prejdite na časť Obmedzení používatelia na **[odblokovanie konta](https://protection.office.com/?hash=/restrictedusers)** v centre zabezpečenia &amp; dodržiavania súladu. Potom by *v priebehu nasledujúcej hodiny* malo byť možné odosielať správy.
 
-3. Aby ste sa vyhli budúcemu zneužitiu konta, postupujte podľa odporúčaní v téme [Najvhodnejšie postupy zabezpečenia pre služby Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. Ak sa chcete vyhnúť budúcemu zneužitiu konta, postupujte podľa odporúčaní v téme [Plán zabezpečenia služieb Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
   
