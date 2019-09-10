@@ -1,5 +1,5 @@
 ---
-title: 9000198 kalendár Outlook.com Beta
+title: 9000198 Outlook.com kalendár beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548154"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821997"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nový kalendár skúsenosti prichádza do služby Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nový kalendár skúsenosti prichádza na Outlook.com
 
-Nový vzhľad prináša najlepšie návrhy a poznatky z mailu skúsenosti do kalendára.
+Nový vzhľad prináša najlepšie návrhy a poznatky z poštového zážitku do kalendára.
 
-Moderný dizajn, ktorý znižuje natahovat a prináša rýchlejšie spôsoby používanie kalendára bude páčiť. Je tiež ľahšie nájsť zaujímavé kalendárov pre vašich obľúbených činností – z TV ukazuje športové tímy a udalosti.
+Budete mať moderný dizajn, ktorý znižuje vizuálny neporiadok a poskytuje vám rýchlejšie spôsoby navigácie v kalendári. Je tiež jednoduchšie nájsť zaujímavé kalendáre pre svoje obľúbené aktivity – z televíznych relácií až po športové tímy a podujatia.
 
-Sme rozšírili našu zbierku ikon, udalostí a aktualizované vzhľad existujúcich — a teraz automaticky pridáme príslušné ikony na vaše akcie, takže môžete ľahko vidieť, čo sa deje v skratke.
+Rozšírili sme našu zbierku ikon udalostí a aktualizovali sme vzhľad a dojem existujúcich-a teraz automaticky pridávame relevantné ikony do vašich podujatí, takže môžete ľahko vidieť, čo sa deje na prvý pohľad.
 
-Spätnú väzbu môžete dať na nové funkcie cez [Outlook.com kalendár UserVoice kanál](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Môžete dať spätnú väzbu na nové funkcie prostredníctvom [Outlook.com kalendár UserVoice kanála](https://go.microsoft.com/fwlink/?linkid=2103075).

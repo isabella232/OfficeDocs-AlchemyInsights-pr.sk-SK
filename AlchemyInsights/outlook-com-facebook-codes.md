@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546786"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822321"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Neprijíma Facebook kódy pomocou služby Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nedostávajúcich Facebook kódy pomocou Outlook.com
 
-Ak ste žiadal o nové heslo od Facebook ale nedostal som e-mail na obnovenie hesla:
+Ak ste požiadali o nové heslo z Facebooku, ale nedostali ste e-mail na obnovenie hesla:
 
-- Skontrolujte [spam alebo Nevyžiadaná pošta priečinok](https://outlook.live.com/mail/junkemail).
-- Skúste [obnoviť Facebook heslo znova](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Skontrolujte [priečinok Nevyžiadaná pošta](https://outlook.live.com/mail/junkemail).
+- Pokúste sa [znova obnoviť svoje heslo na Facebooku](https://aka.ms/facebook-password-reset).
 
-Ak nemôžete obnoviť heslo, pretože nemôžete prístup email alebo číslo mobilného telefónu na vašom účte, skúste [Facebook heslo vynulovať tipy](https://www.facebook.com/help/218815984812734).
+Ak nemôžete obnoviť heslo, pretože nemôžete získať prístup k e-mailu alebo telefónnemu číslu vo vašom konte, vyskúšajte [Tipy na obnovenie hesla na Facebooku](https://aka.ms/facebook-password-help).
