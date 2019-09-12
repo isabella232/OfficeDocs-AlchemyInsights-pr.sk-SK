@@ -1,5 +1,5 @@
 ---
-title: Ako overiť vašu doménu so službami Office 365
+title: Ako overiť svoju doménu s balíkom Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664090"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851735"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Ako overiť vašu doménu so službami Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>Ako overiť svoju doménu s balíkom Office 365
 
-Overiť doménu, musíte pridať záznam TXT na registrátora vašej domény na overenie vlastníctva domény. Najskôr vykonajte [pridať doménu Sprievodca](https://portal.office.com/adminportal/home#/Domains) výberom **nastavenia** \> **Domaisn**, a potom **pridať doménu**.
+Ak chcete overiť svoju doménu, budete musieť pridať záznam TXT do svojho registrátora domény, aby ste overili, či vlastníte doménu. Po prvé, postupujte podľa [Sprievodcu pridaním domény](https://portal.office.com/adminportal/home#/Domains) výberom **nastavenia** \> **domén**, a potom **pridať doménu**.
   
-Postupujte podľa pokynov [Vytvorenie DNS záznamy v akejkoľvek hostiteľskej služby DNS pre Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pridajte záznam TXT na overenie domény.
+Postupujte podľa pokynov v [vytvoriť záznamy DNS na ľubovoľnom serveri DNS hosting pre Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pridať záznam txt na overenie vašej domény.
   
