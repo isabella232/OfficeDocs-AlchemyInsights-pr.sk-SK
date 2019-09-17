@@ -1,5 +1,5 @@
 ---
-title: 1374 vyriešiť dve poštové schránky howto
+title: 1374 vyriešiť dve poštové schránky HOWTO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369860"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992084"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Používateľ má dve poštové schránky
 
-Hybridné prostredia, ktoré využívajú Azure Active Directory pripojenie (AAD pripojenie) alebo DirSync spôsobovať omylom používateľa mať dve poštové schránky: jeden v lokálnej organizácii a jedno v riešení cloud.
+Hybridné prostredia, ktoré používajú Azure Active Directory Connect (AAD Connect) alebo DirSync môže náhodne spôsobiť, že používateľ má dve poštové schránky: jeden lokálne a jeden v cloude. Duplicitné poštovej schránky môže byť vytvorená na jednom mieste.
 
-Ak chcete vyriešiť tento problém, pozri [Natrvalo vymazať predchádzajúce poštovej schránky Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
+Ak chcete vyriešiť tento problém, pozrite si [ako obnoviť, keď poštová schránka existuje v Exchange Online](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)aj lokálne. Ak sa chcete dozvedieť viac o tom, ako sa tomu vyhnúť v budúcnosti, prečítajte si [môj používateľ má poštovú schránku lokálne aj Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+
