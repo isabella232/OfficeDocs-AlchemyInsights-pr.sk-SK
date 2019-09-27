@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744836"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207240"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Označenia citlivosti, ktoré sa nezobrazujú
 
-Štítky citlivosti vám umožňujú klasifikovať a chrániť citlivý obsah. Ďalšie informácie o tejto funkcii nájdete v téme [Prehľad označení citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Štítky citlivosti vám umožňujú klasifikovať a chrániť citlivý obsah. Môžu byť vytvorené v Microsoft 365 Compliance Center, Microsoft 365 centrum zabezpečenia alebo Office 365 zabezpečenia & Compliance Center podľa klasifikácie > citlivosť menovky. Ďalšie informácie o tejto funkcii nájdete v téme [Prehľad označení citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Ak ste nakonfigurovali menovky citlivosti, ale nezobrazujú sa v aplikáciách balíka Office, skontrolujte nasledovné:
 
@@ -32,5 +32,10 @@ Ak ste nakonfigurovali menovky citlivosti, ale nezobrazujú sa v aplikáciách b
 - Ak [migrujete štítky na ochranu informácií Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), uvedomte si [tu](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)uvedené úvahy.
 
 - Podpora ochrany pred únikom údajov (DLP): v súčasnosti môžu byť v politikách DLP použité len menovky uchovávania.  Podpora pre označenia citlivosti v politike DLP nie je zatiaľ k dispozícii, ale pracujeme na tom.
+
+- Ak je šifrovanie zapnuté na štítku citlivosti, môžete vybrať buď:
+    - Priradiť povolenia teraz
+    - Umožniť používateľom priraďovať povolenia
+
 
 Ďalšie informácie o možných problémoch nájdete v téme [známe problémy s menovkami citlivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
