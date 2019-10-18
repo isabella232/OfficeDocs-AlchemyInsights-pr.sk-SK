@@ -18,19 +18,19 @@ ms.contentlocale: sk-SK
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36534218"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="eac82-102">Synchronizácia súborov SharePointu pomocou nového synchronizačného klienta pre OneDrive</span><span class="sxs-lookup"><span data-stu-id="eac82-102">Sync SharePoint files with the new OneDrive sync client</span></span>
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a><span data-ttu-id="4dd0d-102">Synchronizácia súborov SharePointu pomocou nového synchronizačného klienta pre OneDrive</span><span class="sxs-lookup"><span data-stu-id="4dd0d-102">Sync SharePoint files with the new OneDrive sync client</span></span>
 
-1. <span data-ttu-id="eac82-103">V novom Centre spravovania služby SharePoint vyberte položku **Nastavenia**.</span><span class="sxs-lookup"><span data-stu-id="eac82-103">In the new SharePoint admin center, select **settings**.</span></span>
+1. <span data-ttu-id="4dd0d-103">V novom Centre spravovania služby SharePoint vyberte položku **Nastavenia**.</span><span class="sxs-lookup"><span data-stu-id="4dd0d-103">In the new SharePoint admin center, select **settings**.</span></span>
     
-2. <span data-ttu-id="eac82-104">Skontrolujte, či je položka Tlačidlo Synchronizovať vo OneDrive nastavená na možnosť Zobraziť tlačidlo Synchronizovať.</span><span class="sxs-lookup"><span data-stu-id="eac82-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
+2. <span data-ttu-id="4dd0d-104">Skontrolujte, či je položka Tlačidlo Synchronizovať vo OneDrive nastavená na možnosť Zobraziť tlačidlo Synchronizovať.</span><span class="sxs-lookup"><span data-stu-id="4dd0d-104">Make sure "OneDrive Sync Button" is set to "Show the Sync button."</span></span>
     
-3. <span data-ttu-id="eac82-105">Pre položku Synchronizačný klient pre SharePoint vyberte možnosť **Spustiť nového klienta**.</span><span class="sxs-lookup"><span data-stu-id="eac82-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
+3. <span data-ttu-id="4dd0d-105">Pre položku Synchronizačný klient pre SharePoint vyberte možnosť **Spustiť nového klienta**.</span><span class="sxs-lookup"><span data-stu-id="4dd0d-105">For "Sync Client for SharePoint," select **Start the new client**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="eac82-106">Ak sa táto možnosť nezobrazuje, vo vašej organizácii už máte nastavené, aby sa na synchronizáciu súborov SharePointu používal nový synchronizačný klient pre OneDrive.</span><span class="sxs-lookup"><span data-stu-id="eac82-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
+    > <span data-ttu-id="4dd0d-106">Ak sa táto možnosť nezobrazuje, vo vašej organizácii už máte nastavené, aby sa na synchronizáciu súborov SharePointu používal nový synchronizačný klient pre OneDrive.</span><span class="sxs-lookup"><span data-stu-id="4dd0d-106">If this option doesn't appear, your organization is already set up to use the new OneDrive sync client to sync SharePoint files.</span></span> 
   
-4. <span data-ttu-id="eac82-107">Kliknite na tlačidlo **OK**.</span><span class="sxs-lookup"><span data-stu-id="eac82-107">Click **OK**.</span></span>
+4. <span data-ttu-id="4dd0d-107">Kliknite na tlačidlo **OK**.</span><span class="sxs-lookup"><span data-stu-id="4dd0d-107">Click **OK**.</span></span>
     
-<span data-ttu-id="eac82-108">Ďalšie informácie nájdete v téme [Povolenie používateľom synchronizovať súbory v SharePointe pomocou nového synchronizačného klienta pre OneDrive](https://go.microsoft.com/fwlink/?linkid=866433).</span><span class="sxs-lookup"><span data-stu-id="eac82-108">For more info, see [Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433).</span></span> <span data-ttu-id="eac82-109">Ak chcete používateľom poskytnúť pokyny, pozrite si tému [Synchronizácia súborov v SharePointe pomocou nového synchronizačného klienta pre OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="eac82-109">For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
+<span data-ttu-id="4dd0d-108">Ďalšie informácie nájdete v téme [Povolenie používateľom synchronizovať súbory v SharePointe pomocou nového synchronizačného klienta pre OneDrive](https://go.microsoft.com/fwlink/?linkid=866433).</span><span class="sxs-lookup"><span data-stu-id="4dd0d-108">For more info, see [Enable users to sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866433).</span></span> <span data-ttu-id="4dd0d-109">Ak chcete používateľom poskytnúť pokyny, pozrite si tému [Synchronizácia súborov v SharePointe pomocou nového synchronizačného klienta pre OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).</span><span class="sxs-lookup"><span data-stu-id="4dd0d-109">For instructions to give to your users, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span>
   
 
