@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515930"
 ---
-# <a name="create-a-site"></a>Vytvorenie lokality
+# <a name="create-a-site"></a>Vytvoriť lokalitu
 
-Môžete vytvoriť rôzne typy lokalít SharePoint Online. Naučte sa, ako to urobiť nové SharePoint admin Center, v téme [Vytvorenie stránky](https://go.microsoft.com/fwlink/?linkid=866295). Informácie o povolení používateľom vytvárať svoje vlastné stránky, nájdete v časti [Vytvorenie spravovať lokality SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Môžete vytvoriť rôzne typy lokalít SharePoint Online. Ďalšie informácie o tom, ako to urobiť v novom centre spravovania služby SharePoint, nájdete v téme [Vytvorenie lokality](https://go.microsoft.com/fwlink/?linkid=866295). Informácie o umožnení používateľom vytvárať vlastné lokality nájdete [v téme Spravovanie vytvárania lokalít v SharePointe Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Informácie o nových typoch stránok, vidieť [skupiny pripojené tímové lokality](https://go.microsoft.com/fwlink/?linkid=866292) alebo [stránky komunikácie](https://go.microsoft.com/fwlink/?linkid=866294).
+Informácie o nových typoch lokalít nájdete v téme [zoskupovanie prepojených tímových lokalít](https://go.microsoft.com/fwlink/?linkid=866292) alebo [komunikačných lokalít](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

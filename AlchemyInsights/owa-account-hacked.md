@@ -1,5 +1,5 @@
 ---
-title: Outlook na webe účet hacknut
+title: Outlook na webovom konte hacknut
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511214"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Outlook na webe účet hacknut
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook na webovom konte hacknut
 
-Ak vaše konto napadli hakeri, postupujte podľa pokynov [ako bezpečné a obnoviť e-mailovú funkciu podozrivou ohrozená konta Office 365 a poštovej schránky](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
+Ak váš účet bol hacknut, postupujte podľa pokynov v [ako zabezpečiť a obnoviť funkciu e-mailu na podozrenie ohrozená Office 365 konto a poštovú schránku](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).
 
-Ďalšie informácie o ďalšie kroky, ako zabrániť vášho účtu ohrozená, pozri časť [reakcia ohrozená e-mailový účet v Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Ďalšie informácie o ďalších krokoch, ktoré môžete vykonať, aby ste zabránili ohrozeniu vášho konta, nájdete [v téme Odpovedanie na ohrozené e-mailové konto v balíku Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).

@@ -1,5 +1,5 @@
 ---
-title: 1800001 vytvoriť alebo upraviť profil
+title: 1800001 vytvorenie alebo úprava profilu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515174"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Vytvoriť alebo upraviť profil programu Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Vytvorenie alebo úprava profilu programu Outlook
 
-Vytvoriť nový profil programu Outlook, upraviť profil alebo Premenovanie profilu, postupujte nasledovne.
+Ak chcete vytvoriť nový profil programu Outlook, upraviť profil alebo premenovať profil, použite nasledovný postup.
   
-1. V programe Outlook, vyberte **súbor** \> **Nastavenie kont** \> **Spravovať profily**.
+1. V programe Outlook vyberte položku **Nastavenie** \> kont **súborov** \> **spravovať profily**.
     
-2. **Nastavenie pošty** dialógové okno, vyberte položku **Zobraziť profily**.
+2. V dialógovom okne **Nastavenie pošty** vyberte položku **Zobraziť profily**.
     
 3. Vykonajte jeden z nasledujúcich krokov:
     
   - Ak chcete vytvoriť nový profil, vyberte položku **Pridať**.
     
-  - Upraviť alebo premenovať profil, vyberte položku **Vlastnosti**.
+  - Ak chcete upraviť alebo premenovať profil, vyberte položku **Vlastnosti**.
     
-Ak máte problémy vytvárania alebo úprav profilu programu Outlook, môžete spustiť [nástroj Outlook profil](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutého počítača. To bude vykonať niektoré kontroly, a keď ste pripravení vytvoriť profil programu Outlook s e-mailovú adresu. 
+Ak sa vyskytnú problémy s vytvorením alebo úpravou profilu programu Outlook, môžete spustiť [nástroj profil programu Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutom počítači. Bude vykonávať niektoré kontroly, a keď ste pripravení vytvorí profil programu Outlook s vašej e-mailovú adresu. 
   
 

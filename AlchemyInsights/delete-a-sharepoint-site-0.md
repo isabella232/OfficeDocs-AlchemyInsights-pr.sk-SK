@@ -1,5 +1,5 @@
 ---
-title: Vymazať lokalitu SharePoint
+title: Odstránenie lokality SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514076"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Odstrániť lokality, ktoré patria do skupiny Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Odstránenie lokalít patriacich do skupiny Office 365
 
-Pri vytvorení novej lokality tímu z domova SharePoint alebo vytvorenie novej lokality tímu z nového SharePoint admin center, sa automaticky vytvorí zodpovedajúci skupiny Office 365. Office 365 skupiny pripojené tímové lokality vytvorené aj pri vytváraní skupiny Office 365 alebo tím v Microsoft Teams. Ak chcete odstrániť lokalitu SharePoint, ktorý patrí do skupiny Office 365, musíte odstrániť samotnej skupiny Office 365. 
+Keď používatelia vytvoria novú tímovú lokalitu z lokality SharePoint Home alebo vytvoríte novú tímovú lokalitu z nového centra spravovania služby SharePoint, automaticky sa vytvorí zodpovedajúca skupina Office 365. Office 365 skupiny prepojené tímové lokality sa vytvoria aj pri vytváraní skupiny Office 365 alebo tím v Microsoft teams. Ak chcete odstrániť lokalitu SharePoint, ktorá patrí do skupiny Office 365, musíte odstrániť samotnú skupinu Office 365. 
   
 1. Prejdite na [stránku skupiny Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).
     
 2. Začiarknite políčko vedľa skupiny.
     
-3. Vyberte položku **odstrániť**.
+3. Vyberte položku **Delete (odstrániť**).
     
-Poznámka: Ak chcete odstrániť skupinu, môžu existovať oneskorenie pred stránky je odstránený z lokality SharePoint.
+Poznámka: keď odstránite skupinu, môže existovať oneskorenie pred odstránením lokality z lokality SharePoint.
   
-**Odstránenie oznámení alebo klasické miestami:**
+**Vymazanie komunikačných stránok alebo klasických lokalít:**
 
-1. Prejdite na lokalitu.
+1. Prejdite na stránku.
   
 2. Kliknite na ikonu **nastavenia** v pravom hornom rohu. 
   
-3. Kliknite na položku **Nastavenie lokality**. Podľa **Informácie lokality** alebo **Akcie lokality**kliknite na položku **odstrániť túto lokalitu**a potom kliknite na tlačidlo **odstrániť**.
+3. Kliknite na položku **Nastavenie lokality**. V časti **informácie o lokalite** alebo **akcie lokality**kliknite na položku **odstrániť túto lokalitu**a potom kliknite na položku **odstrániť**.
   
-**Odstrániť kolekciu lokalít SharePoint:**
+**Odstránenie kolekcie lokalít SharePoint:**
 
 Odstránenie lokality:
   
-1. Nové lokality SharePoint admin Center, na stránke lokality kliknite na **začiarkavacie políčko** vedľa stránky, ktorú chcete odstrániť. 
+1. V novom centre spravovania služby SharePoint na stránke lokality kliknite na **začiarkavacie políčko** vedľa lokality, ktorú chcete odstrániť. 
     
-2. Na páse s nástrojmi panel s nástrojmi, kliknite na **odstráňte.**
+2. Na páse s nástrojmi, kliknite na tlačidlo **odstrániť.**
     
-**Stránky odstránené pri nehode?**
+**Odstránili ste miesto náhodou?**
 
-V téme [Obnovenie odstránených lokalít](https://go.microsoft.com/fwlink/?linkid=867660).
+Pozrite si [Obnovenie odstránenej kolekcie lokalít](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

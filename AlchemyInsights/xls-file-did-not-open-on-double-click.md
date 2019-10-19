@@ -1,5 +1,5 @@
 ---
-title: XLS súbor neotvoril dvojitým kliknutím
+title: XLS súbor sa neotvorí na Double-kliknite
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530762"
 ---
-# <a name="excel-file-doesnt-open"></a>Súbor programu Excel neotvorí
+# <a name="excel-file-doesnt-open"></a>Súbor programu Excel sa neotvorí
 
-Skúste jeden z týchto návrhov:
+Vyskúšajte jeden z týchto návrhov:
 
-**Vybrať Excel ako predvolený**
+**Vyberte program Excel ako predvolený**
 
-* Kliknite pravým tlačidlom myši na pracovnom hárku, vyberte **Otvoriť v programe**a potom vyberte **Excel**
+* Kliknite pravým tlačidlom myši na pracovný hárok, vyberte položku **Otvoriť**v programe a potom vyberte položku **Excel**
 
-**Spustiť rýchlu opravu**
+**Spustenie rýchlej opravy**
 
-1. Prejdite na **Ovládací Panel > programy > programy a funkcie**.
+1. Prejdite na **Ovládací Panel > programy > programy a súčasti**.
 
-2. Vyberte produkt Office, ktorý chcete opraviť, a potom vyberte **zmeniť**.
+2. Vyberte produkt balíka Office, ktorý chcete opraviť, a potom vyberte položku **zmeniť**.
 
-3. Vyberte možnosť **Rýchle opravy** , a potom vyberte **opravy**.
+3. Vyberte možnosť **rýchla oprava** a potom vyberte položku **opraviť**.
 
-**Odinštalovanie verzie balíka Office, ktoré nepoužívate**
+**Odinštalovanie verzií balíka Office, ktoré nepoužívate**
 
-1. Prejdite na **Ovládací Panel > odinštalovať Program**, a potom vyberte verziu balíka Office, ktorý chcete odstrániť.
+1. Prejdite do **ovládacieho panela > odinštalujte program**a potom vyberte verziu balíka Office, ktorú chcete odstrániť.
 
-2. Kliknite na tlačidlo **odinštalovať**.
+2. Kliknite na položku **odinštalovať**.
 
 3. Reštartujte počítač.
 
-**Spustiť tento poradca nastaviť prípony súborov balíka Office otvoriť v balíku Office**
+**Spustite tento poradca na nastavenie súboru Office Extensions otvoriť v balíku Office**
 
-1. Spustiť tento poradca: https://aka.ms/diag_officefile.
+1. Spustiť Poradcu pri riešení https://aka.ms/diag_officefileproblémov:.
 
-2. V závislosti na vašom prehliadači, **Otvoriť** alebo **Uložiť** poradcu na pracovnú plochu, a potom **Spustiť** to.
+2. V závislosti od prehľadávača **Otvorte** alebo **uložte** poradcu pri riešení problémov na pracovnú plochu a potom ho **spustite** .

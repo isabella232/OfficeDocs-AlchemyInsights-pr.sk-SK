@@ -1,5 +1,5 @@
 ---
-title: Distribučné zoznamy nie sú zobrazené
+title: Distribučné zoznamy, ktoré sa nezobrazujú
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530474"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Distribučná skupina nezobrazuje v zoznam skupín
+# <a name="distribution-group-not-showing-in-groups-list"></a>Distribučná skupina sa nezobrazuje v zozname skupín
 
-To môže trvať až 60 minút pred nový distribučný zoznam sa zobrazuje v centre výmenu admin center.
+Môže trvať až 60 minút pred nový distribučný zoznam sa zobrazí v stredisku Exchange Admin Center.
   
-Ak chcete pridať členov alebo vykonávať iné úpravy práve teraz, prosím, použite funkciu skupiny [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Ak chcete pridať členov alebo vykonať iné úpravy práve teraz, použite funkciu skupiny v [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

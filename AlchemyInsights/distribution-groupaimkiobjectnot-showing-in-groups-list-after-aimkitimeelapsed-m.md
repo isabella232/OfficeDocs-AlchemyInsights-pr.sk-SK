@@ -1,5 +1,5 @@
 ---
-title: Distribučná skupina {AimKIObject} nezobrazuje v zoznam skupín po minútach {AimKITimeElapsed}
+title: Distribučná skupina "{AimKIObject}" nezobrazuje v zozname skupín po {Aimkitimeuplynulé} minút
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530510"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Distribučnej skupine "{AimKIObject}" nezobrazuje v zoznam skupín po minútach {AimKITimeElapsed}
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Distribučná skupina "{AimKIObject}" nezobrazuje v zozname skupín po {Aimkitimeuplynulé} minút
 
-Vašej skupine "{AimKIObject}" bola vytvorená {AimKITimeElapsed} minútami. To normálne nebude trvať dlhšie ako 60 minút pre novú distribučnú skupinu Zobraziť Admin Center.
+Skupina "{AimKIObject}" bola vytvorená {Aimkitimeuplynulý} minútami. Zvyčajne netrvá viac ako 60 minút pre novú distribučnú skupinu sa zobrazí v admin Center.
   
-Môže môcť používať funkciu príjemcov > skupiny v [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) teraz spravovať skupiny alebo použite možnosť "Dajte nám zavolať", obráťte sa na pracovníka technickej podpory. 
+Môžete byť schopní používať príjemcovia > skupiny funkcie v [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) spravovať svoju skupinu teraz, alebo použite "Zavolaj vám" možnosť hovoriť s pracovník technickej podpory. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Stiahnutie a inštalácia balíka Office
+title: Prevzatie a inštalácia balíka Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
 ms.openlocfilehash: 0cf7d60fb0e2d5a64b8df07dbb07060de3e111a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529502"
 ---
-# <a name="download-and-install-office"></a>Stiahnutie a inštalácia balíka Office
+# <a name="download-and-install-office"></a>Prevzatie a inštalácia balíka Office
 
-Predplatné **Business Essentials** neobsahuje aplikácie balíka Office. S cieľom získať Office, budete musieť inovovať na **podnikanie** alebo **Business Premium** predplatné. Pozrite sa na voľné predplatné s Office tu: [Plány Office 365 Business](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Vaše predplatné služby **Business Essentials** nezahŕňa aplikácie balíka Office. Ak chcete získať balík Office, budete musieť inovovať na predplatné **Business** alebo **Business Premium** . Pozrite sa na dostupné predplatné s Office tu: [Office 365 obchodné plány](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

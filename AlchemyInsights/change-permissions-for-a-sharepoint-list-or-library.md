@@ -1,5 +1,5 @@
 ---
-title: Zmeniť povolenia pre zoznam SharePoint alebo knižnicu
+title: Zmena povolení pre zoznam alebo knižnicu lokality SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
 ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519098"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Zmeniť povolenia pre zoznam SharePoint alebo knižnicu
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Zmena povolení pre zoznam alebo knižnicu lokality SharePoint
 
 1. Prejdite na lokalitu SharePoint vo webovom prehľadávači a otvorte zoznam alebo knižnicu.
     
-2. Kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **nastavenia knižnice** alebo **zoznamu**. (Ak nevidíte príkaz, vyberte **knižnicu** alebo **zoznam** kartu otvoriť pása s nástrojmi a potom kliknite na položku **Knižnica** alebo **Zoznam nastavenia** pása s nástrojmi.) 
+2. Kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **nastavenia knižnice** alebo **nastavenia zoznamu**. (Ak sa príkaz nezobrazuje, vyberte kartu **Knižnica** alebo **zoznam** a otvorte pás s nástrojmi a potom kliknite na položku **nastavenia knižnice** alebo **nastavenia zoznamu** na páse s nástrojmi.) 
     
-3. Časti **povolenia a správa**kliknite na položku **povolenia pre tento zoznam** alebo **povolenia pre túto knižnicu dokumentov**.
+3. V časti **povolenia a správa**kliknite na položku **povolenia pre tento zoznam** alebo **povolenia pre túto knižnicu dokumentov**.
     
-Všimnite si, že predvolene SharePoint zoznamy a knižnice dedia povolenia z lokality. Ak si zlomíte dedenie povolení, aktuálne povolenia sa skopírujú do zoznamu alebo knižnice a všetko v ňom. Ak neskôr sú zmenené povolenia pre lokalitu, nepoužijú sa zmeny k zoznamu alebo knižnici a položkách.
+Všimnite si, že v predvolenom nastavení SharePoint zoznamy a knižnice zdedí ich povolenia z lokality. Ak porušíte dedičnosť povolení, aktuálne povolenia sa skopírujú do zoznamu alebo knižnice a všetko v ňom. Ak sú povolenia pre lokalitu neskôr zmenené, zmeny sa nepoužijú na zoznam alebo knižnicu a položky v nej.
   
 

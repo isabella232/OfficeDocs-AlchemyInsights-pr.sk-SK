@@ -1,5 +1,5 @@
 ---
-title: Vytvoriť tok
+title: Vytvorenie toku
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516218"
 ---
-# <a name="microsoft-flow"></a>Microsoft toku
+# <a name="microsoft-flow"></a>Microsoft flow
 
-Microsoft Flow pomáha automatizovať bežné úlohy. Môžete nastaviť pracovné postupy pre zoznamy a knižnice. Naučte sa pridať tok do zoznamu alebo knižnice SharePoint Online alebo OneDrive, v téme [Vytvorenie toku](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft flow vám pomôže automatizovať bežné úlohy. Použite ho na nastavenie pracovných postupov pre zoznamy a knižnice. Ďalšie informácie o pridávaní toku do zoznamu alebo knižnice v SharePointe Online alebo OneDrive nájdete v téme [Vytvorenie toku](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Videá o Microsoft toku](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videá o Microsoft flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Webovej stránky Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
+[Webová lokalita aplikácie Microsoft flow](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

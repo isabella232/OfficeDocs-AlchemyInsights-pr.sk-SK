@@ -1,5 +1,5 @@
 ---
-title: 410 kalendár zdieľanie v Office365
+title: 410 zdieľanie kalendára v Office365
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
 ms.openlocfilehash: f76c16275605a5716d4e20b569c10498763a8204
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518270"
 ---
-# <a name="calendar-sharing-in-office-365"></a>Kalendár zdieľanie v balíku Office 365
+# <a name="calendar-sharing-in-office-365"></a>Zdieľanie kalendára v balíku Office 365
 
-Ak máte problémy prístup k kalendára alebo iných kalendárov, použite [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).
+Ak máte problémy s prístupom k kalendáru alebo k iným kalendárom, použite [podporu spoločnosti Microsoft a Asistenta pre obnovenie balíka Office 365](https://diagnostics.office.com/).
   
-Ďalšie informácie o zdieľaní kalendára, pozri [zdieľať Outlook kalendár s ostatnými ľuďmi](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
+Ďalšie informácie o zdieľaní kalendára sa nachádzajú v téme [Zdieľanie kalendára programu Outlook s inými používateľmi](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
   
 

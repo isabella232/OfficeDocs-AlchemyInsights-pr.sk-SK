@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor správanie
+title: ConsistencyGuid/sourceAnchor správanie
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517010"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor správanie
+# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor správanie
 
-Azure AD pripojiť (verzie 1.1.524.0 a po) teraz podporuje použitie BL-ConsistencyGuid ako atribút sourceAnchor. Pri použití tejto funkcie, Azure AD pripojiť automaticky konfiguruje pravidlá synchronizácie:
+Azure AD Connect (verzia 1.1.524.0 a po) teraz uľahčuje používanie msDS-ConsistencyGuid ako atribút sourceAnchor. Pri používaní tejto funkcie Azure AD Connect automaticky nakonfiguruje pravidlá synchronizácie na:
   
-- Sko-ConsistencyGuid ako atribút sourceAnchor použiť pre používateľa objekty. ObjectGUID sa používa pre iné typy objektov.
+- Použite msDS-ConsistencyGuid ako atribút sourceAnchor pre objekty používateľa. ObjectGUID sa používa pre iné typy objektov.
     
-- Pre ľubovoľnú danú lokálneho AD používateľa objekt ktorého MSD ConsistencyGuid atribút nie je vyplnený, Azure AD pripojenie píše svoju hodnotu objectGUID späť MSD ConsistencyGuid atribút v lokálnej služby Active Directory. Po MSD ConsistencyGuid atribút je vyplnený, Azure AD pripojiť potom exportuje objekt Azure AD.
+- Pre ľubovoľný lokálny objekt používateľa AD, ktorého msDS-ConsistencyGuid atribút nie je vyplnený, Azure AD Connect píše jeho objectGUID hodnotu späť na msDS-ConsistencyGuid atribút lokálnej služby Active Directory. Po msDS-ConsistencyGuid atribút je vyplnený, Azure AD pripojiť potom exportuje objekt Azure AD.
     
- **Poznámka:** Raz lokálneho AD objektu dováža do Azure AD pripojiť (čiže dovezený do priestoru konektor AD a premieta do Metaverse), nemôžete zmeniť jeho sourceAnchor hodnotu anymore. Zadať sourceAnchor hodnotu pre dané lokálneho AD objekt, pred dováža do Azure AD pripojenie nakonfigurovať jeho MSD ConsistencyGuid atribút. 
+ **Poznámka:** Keď je lokálny objekt AD importovaný do Azure AD Connect (čiže importovaný do priestoru pre reklamný konektor a plánovaný do Metaverse), už nie je možné zmeniť jeho hodnotu sourceAnchor. Ak chcete určiť hodnotu sourceAnchor pre daný lokálny objekt AD, nakonfigurujte jeho atribút msDS-ConsistencyGuid pred jeho importovaním do Azure AD Connect. 
   
-Pre viac informácií o SourceAnchor a ConsistencyGuid, označovať takto: [Azure AD pripojiť: vyklápateľným](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Ďalšie informácie o SourceAnchor a ConsistencyGuid, označovať takto: [Azure AD Connect: Koncepty návrhov](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

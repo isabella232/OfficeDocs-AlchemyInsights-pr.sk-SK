@@ -1,5 +1,5 @@
 ---
-title: 8000036 zmena pic/názov profilu v službe Outlook.com
+title: 8000036 Zmena profilu pic/názov v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511373"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Zmeniť svoju profilovú fotku alebo meno v službe Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Zmeniť môj profilový obrázok alebo názov v Outlook.com
 
-1. Prejsť na [vaše Microsoft účtu info](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Vyberte položku **upraviť meno** alebo **zmeniť obrázok**.
+1. Prejdite na [informácie o konte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Vyberte položku **Upraviť názov** alebo **zmeniť obrázok**.
 
-Prosíme o strpenie, až 24 hodín zmeny profilovou fotkou alebo meno ísť do účinku.
+Ak chcete prejsť do platnosti, povoľte do 24 hodín zmeny v profilovej fotografii alebo názve.

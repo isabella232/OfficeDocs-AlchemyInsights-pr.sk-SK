@@ -1,5 +1,5 @@
 ---
-title: Odstrániť položky na lokalite SharePoint
+title: Odstránenie položiek v službe SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513661"
 ---
-# <a name="delete-items-in-sharepoint"></a>Odstrániť položky na lokalite SharePoint
+# <a name="delete-items-in-sharepoint"></a>Odstránenie položiek v službe SharePoint
 
 [Odstránenie zoznamu](https://go.microsoft.com/fwlink/?linkid=869393)
   
@@ -28,7 +28,7 @@ ms.locfileid: "36513661"
   
 [Odstránenie položiek z knižnice dokumentov](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[Odstránenie stĺpca na stránke](https://go.microsoft.com/fwlink/?linkid=869394)
+[Odstránenie stĺpca na strane](https://go.microsoft.com/fwlink/?linkid=869394)
   
 [Odstránenie stĺpca v zozname alebo knižnici](https://go.microsoft.com/fwlink/?linkid=869396)
   
