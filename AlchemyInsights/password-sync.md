@@ -1,5 +1,5 @@
 ---
-title: Ako skontrolovať stav synchronizácie heslo
+title: Ako skontrolovať stav synchronizácie hesla
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555392"
 ---
 # <a name="enable-password-sync"></a>Povoliť synchronizáciu hesla
 
-1.  Vybrať **DirSync stav** na domovskej stránke Microsoft 365 admin center. 
+1.  Vyberte **DirSync stav** na domovskej stránke Microsoft 365 admin Center. 
     
-     *Striedavo, môžete prejsť na **užívateľov** \> **aktívnych používateľov**, a na stránke aktívnych používateľov Vyberte **viac** \> **Synchronizácia adresárov.*** 
+     *Striedavo môžete prejsť na **používateľov** \> **aktívnych**používateľov a na stránke aktívnych používateľov Vyberte možnosť **viac** \> **synchronizácie adresárov.*** 
     
-2. Na table Directory Synchronization vybrať, **prejdite na tému správa DirSync**. 
+2. Na table Synchronizácia adresárov vyberte **Prejsť na DirSync Management**. 
     
-3. Teraz budete vidieť váš stav a zmeny:
+3. Teraz uvidíte svoj status a vykonajte zmeny:
     
-    **Heslo synchronizácia zapnutá:** (True alebo False). Určuje, či máte heslo synchronizácia zapnutá medzi lokálnym a Office 365 nájomcu. 
+    **Synchronizácia hesla povolená:** (true alebo false). Určuje, či je zapnutá Synchronizácia hesiel medzi lokálnym a nájomníkom balíka Office 365. 
     
-    **Posledná synchronizácia heslo:** (Minule bežal heslo synchronizácie). Zobrazí upozornenie a prepojenie na riešenie problému nástroj Ak poslednej synchronizácie bol viac ako tri dni. 
+    **Posledná synchronizácia hesla:** (poslednej dobe Synchronizácia hesiel bežal). Zobrazí sa upozornenie a prepojenie na nástroj na riešenie problémov, ak Posledná synchronizácia bola pred viac ako tromi dňami. 
     
 

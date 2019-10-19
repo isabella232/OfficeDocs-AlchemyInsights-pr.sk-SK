@@ -1,5 +1,5 @@
 ---
-title: Nájsť stratené alebo chýbajúce súbory OneDrive alebo SharePoint
+title: Vyhľadanie stratených alebo chýbajúcich súborov v službe OneDrive alebo SharePointe
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525434"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Nájsť stratené alebo chýbajúce súbory OneDrive alebo SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Vyhľadanie stratených alebo chýbajúcich súborov v službe OneDrive alebo SharePointe
 
-- Skontrolujte Kôš prehľadávania služby OneDrive alebo SharePoint stránky na webe a kliknutím na položku Kôš na ľavej table. (Ak nevidíte Recycle bin v ľavej table, kliknite na ikonu nastavení a vyberte **obsah stránok**. **Kôš** je na pravej strane panela príkazov v hornej časti.) 
+- Skontrolujte Kôš prehľadávaním OneDrive alebo lokality SharePoint na webe a kliknutím na položku Kôš na ľavej table. (Ak sa na ľavej table nezobrazuje Kôš, kliknite na ikonu nastavenia a potom vyberte položku **obsah lokality**. **Kôš** je úplne napravo od panela príkazov v hornej časti.) 
     
-- Ak ste synchronizáciu súborov v počítači, skontrolujte Kôš na vašom počítači. 
+- Ak synchronizujete súbory v počítači, skontrolujte Kôš v počítači. 
     
-- Ak nevidíte položku hľadáte, a to bol nedávno zrušený, správca kolekcie lokality môže byť schopný obnoviť z Koša kolekcie lokalít. Ak ste správcom kolekcie lokality, Zobraziť, [obnoviť odstránené položky z Koša kolekcie lokalít](https://go.microsoft.com/fwlink/?linkid=866439).
+- Ak sa položka, ktorú hľadáte, nezobrazuje a nedávno bola odstránená, správca kolekcie lokalít ho môže obnoviť z Koša kolekcie lokalít. Ak ste správcom kolekcie lokalít, pozrite si stránku [Obnovenie odstránených položiek z Koša kolekcie lokalít](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Viac pomôcť obnoviť zmazané súbory a priečinky v službe OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Ďalšie pomoc pri obnovení odstránených súborov a priečinkov v službe OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

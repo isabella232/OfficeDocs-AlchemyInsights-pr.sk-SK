@@ -1,5 +1,5 @@
 ---
-title: OneDrive súbory zdieľať s externými používateľmi
+title: Zdieľanie súborov OneDrive s externými používateľmi
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549234"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Zdieľanie súborov v službe OneDrive s ľuďmi mimo vašej organizácie
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Zdieľanie súborov v službe OneDrive s používateľmi mimo organizácie
 
-1. Pomocou spúšťača aplikácií vo webovom prehľadávači prejdite do služby OneDrive. 
+1. Pomocou spúšťača aplikácií prejdite do služby OneDrive vo webovom prehľadávači. 
     
 2. Vyberte súbor alebo priečinok, ktorý chcete zdieľať, a potom vyberte položku **zdieľať**. 
     
-3. Ak odkaz typ nastavený na "ľudí v \<organizácii\>," kliknite na šípku nadol a vyberte jednu z nasledujúcich možností: 
+3. Ak je typ prepojenia nastavený na možnosť ľudia vo \<vašej organizácii\>, kliknite na šípku nadol a vyberte jednu z nasledujúcich možností: 
     
-  - **Niekto** dáva prístup k každý, kto prijme toto prepojenie, či získať priamo od vás alebo odovzdané od niekoho iného. To môže zahŕňať ľudí mimo vašej organizácie. 
+  - **Každý** , kto má prístup k komukoľvek, kto dostane tento odkaz, či sa dostanú priamo od vás, alebo odovzdané od niekoho iného. To môže zahŕňať ľudí mimo vašej organizácie. 
     
-  - **Konkrétnych ľudí** poskytuje prístup len k ľuďom určíte, aj keď ostatní ľudia už majú prístup. Ak ľudia poslať pozvanie na zdieľanie, iba ľudia, ktorí už majú prístup k položke budú môcť použiť odkaz. 
+  - **Konkrétnym ľuďom** sa poskytuje prístup len k ľuďom, ktorých určíte, hoci ostatní ľudia už môžu mať prístup. Ak ľudia postúpia pozvánku na zdieľanie, budú môcť použiť prepojenie len osoby, ktoré už majú prístup k danej položke. 
     
     > [!NOTE]
-    > Ak niektorú z týchto možností nie je dostupná, alebo ak chcete iný odkaz typu predvolene zobrazia, môžete zmeniť nastavenia pre celú organizáciu na OneDrive admin Center a kliknutím **zdieľania** na ľavej table. [zistiť viac](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ak jedna z týchto možností nie je k dispozícii, alebo ak chcete, aby sa v predvolenom nastavení zobrazil iný typ prepojenia, môžete zmeniť nastavenia celej organizácie tak, že prejdete na centrum spravovania služby OneDrive a kliknete na položku **Zdieľanie** na ľavej table. [zistiť viac](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Podľa predvoleného nastavenia je zapnutá **povoliť úpravu** . Ak chcete ľudia len prezeranie súborov, zrušte začiarknutie políčka. 
+4. Predvolene je zapnutá **možnosť povoliť úpravy** . Ak chcete, aby ľudia prezerli iba súbory, zrušte začiarknutie políčka. 
     
-5. Zadajte mená ľudí, ktoré chcete zdieľať s a správu, ak chcete.
+5. Zadajte mená osôb, s ktorými chcete zdieľať, a správu, ak chcete.
     
-6. Keď ste pripravení poslať odkaz, kliknite na tlačidlo **Odoslať**. 
+6. Keď ste pripravení odoslať prepojenie, kliknite na tlačidlo **Odoslať**. 
     
 [zistiť viac](https://go.microsoft.com/fwlink/?linkid=871861)
   

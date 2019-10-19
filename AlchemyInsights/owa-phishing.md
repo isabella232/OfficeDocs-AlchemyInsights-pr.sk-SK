@@ -1,5 +1,5 @@
 ---
-title: Čo do činenia s neoprávneným získavaním údajov v službe Outlook.com
+title: Nakladanie s phishingom v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "9000289"
 ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556620"
 ---
 # <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Ako sa vysporiadať s phishing e-mail v programe Outlook na webe
 
-Phishing podvod je e-mail, ktorý sa zdá legitímne, ale je vlastne pokus ukradnúť vaše osobné údaje alebo peniaze. Podvodníci použiť aj techniku zvanú spoofing aby to vyzeralo, ako keby ste dostali e-mail od seba.
+Phishing podvod je e-mail, ktorý sa zdá legitímne, ale je vlastne pokus ukradnúť vaše osobné údaje alebo peniaze. Podvodníci môžu tiež použiť techniku zvanú falšovanie, aby sa to zdať, ako keby ste dostali e-mail od seba.
 
-Ak dostanete e-mail, ktorý vyzerá ako phishing podvod, môžete ju nahlásiť vybratím správy a výberom **Junk** > **Phishing**.
+Ak dostanete e-mail, ktorý vyzerá ako podvod s**neoprávneným získavaním**údajov, môžete ho nahlásiť výberom správy a následným výberom položky **Nevyžiadaná pošta** > .
 
-*Poznámka:* Keď označíte správu ako phishing, iba správy odosielateľa.Nie je blokovať odosielateľa posielať správy v budúcnosti. Ak chcete zablokovať odosielateľa, musíte pridať odosielateľa do zoznamu zablokovaných odosielateľov. Ďalšie informácie nájdete v časti [blokovanie odosielateľov alebo odblokovanie odosielateľom v programe Outlook na webe](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Poznámka:* Keď označíte správu ako phishing, hlási iba odosielateľa.Tento odosielateľ neblokuje odosielanie správ v budúcnosti. Ak chcete odosielateľa zablokovať, musíte pridať odosielateľa do zoznamu blokovaných odosielateľov. Ďalšie informácie nájdete v téme [blokovanie odosielateľov alebo odblokovanie odosielateľov v programe Outlook na webe](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 
-Ďalšie informácie o ako [identifikovať podozrivé správy v Outlooku na webe](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Prečítajte si ďalšie informácie o [identifikácii podozrivých správ v programe Outlook na webe](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).

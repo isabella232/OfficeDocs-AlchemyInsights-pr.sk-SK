@@ -1,5 +1,5 @@
 ---
-title: Outlook.com personalizované e-mailová adresa nie je odosielanie alebo prijímanie
+title: Outlook.com personalizovaná e-mailová adresa nie je odosielanie alebo prijímanie
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545886"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moje osobné e-mailovú adresu služby Outlook.com nie je odosielanie alebo prijímanie
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moje osobné Outlook.com e-mailová adresa nie je odosielanie alebo prijímanie
 
-Vyberte diamond ikonu na paneli s nástrojmi otvorte panel premium.
+Výberom ikony Diamond na paneli s nástrojmi otvorte prémiovú tabuľu.
 
-Ak diamond ikona nezobrazuje v priečinku Doručená pošta (a vidieť reklamy), znamená to, Office 365 predplatné vypršala. Prejsť na [https://account.microsoft.com/services](https://account.microsoft.com/services) na re-aktivovať vaše predplatné, znova pripojiť vašu doménu pomocou krokov v "Get started".
+Ak sa v priečinku Doručená pošta nezobrazuje ikona diamantu (a vy vidíte reklamy), znamená to, že platnosť predplatného balíka Office 365 uplynula. Prejdite na [https://account.microsoft.com/services](https://account.microsoft.com/services) opätovnú aktiváciu predplatného a potom znova pripojte doménu pomocou krokov v časti Začíname.
 
-Ak kartu "Personalizované e-mailovú adresu" má červené stavový riadok, pravdepodobne uplynula domény.
+Ak "personalizovaná e-mailová adresa" karta má červený stavový riadok, vaša doména môže vypršala.
 
-Prečítajte si ďalšie kroky na [personalizované e-mailové adresy v Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Prečítajte si ďalšie kroky na [personalizovaných e-mailových adries v balíku Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

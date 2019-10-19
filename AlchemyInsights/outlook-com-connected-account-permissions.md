@@ -1,5 +1,5 @@
 ---
-title: 8000093 povolenia konta Outlook.com pripojený
+title: 8000093 Outlook.com pripojené konto povolenia
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546909"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Ako opraviť "Vyzerá to nemáme povolenie"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Ako opraviť "vyzerá to, že nemáme oprávnenie"
 
-Ak sa zobrazí chybové hlásenie "vyzerá to nemáme povolenie dostať e-mail pre..." prosím postupujte nasledovne:
+Ak sa zobrazí chybové hlásenie "vyzerá to, že nemáme povolenie na získanie e-mailu pre..." postupujte nasledovne:
 
-1. Otvoriť [nastavenia pripojení konta](https://outlook.live.com/mail/options/mail/accounts) a odstránenie alebo odstránenie pripojeného konta uvedený v chybovom.
-2. Pridať pripojeného konta znova.
-3. Prejdite [späť na poštovej schránke](https://outlook.live.com/mail/inbox).
+1. Otvorte [nastavenia pripojeného konta](https://outlook.live.com/mail/options/mail/accounts) a odstráňte alebo odstráňte pripojené konto uvedené v chybe.
+2. Znova pridajte pripojené konto.
+3. Vráťte [sa do poštovej schránky](https://outlook.live.com/mail/inbox).
 
-To môže trvať nejakú dobu, všetky e-maily znova synchronizovať z pripojeného konta.
+To môže trvať nejaký čas pre všetky e-maily na re-Sync z vášho pripojeného účtu.
 
-Ďalšie informácie o [Odstránenie](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) a [Pridanie](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) pripojené kontá.
+Prečítajte si ďalšie informácie o [odstraňovaní](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) a [pridávaní](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) pripojených kont.

@@ -1,5 +1,5 @@
 ---
-title: 9000236 Outlook.com pridajte konto
+title: 9000236 Outlook.com pridanie účtu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538215"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Pridanie e-mailových kont do služby Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Pridajte svoje ďalšie e-mailové kontá na Outlook.com
 
-Keď pridáte ďalšie e-mailové kontá do služby Outlook.com, môžete Outlook.com používať posielať a čítať e-maily z týchto účtov bez zanechania Outlook.com. Každé konto môžete pridať do služby Outlook.com sa nazýva pripojeného konta.
+Keď pridáte ďalšie e-mailové kontá na Outlook.com, môžete použiť Outlook.com na odosielanie a čítanie e-mailových správ z týchto kont bez opustenia Outlook.com. Každé konto, ktoré pridáte do Outlook.com, sa nazýva pripojené konto.
 
-Poznámka: Synchronizácia z pripojeného konta do konta Outlook.com je len jednosmerné. E-mail odoslaný z pripojeného konta pomocou Outlook.com nezobrazí pripojené konto odoslané položky.
+Poznámka: synchronizácia z pripojeného konta na konto Outlook.com je len jednosmerná. E-mail odoslaný z pripojeného konta pomocou Outlook.com sa nezobrazí vo vašom pripojenom konte odoslané položky.
 
-Pridať pripojeného konta:
+Pridanie pripojeného konta:
 
-1. Otvoriť [nastavenia synchronizácie e-mailu](https://go.microsoft.com/fwlink/?linkid=875264).
-2. V časti **pripojené kontá**, vyberte **služby Gmail** alebo **iných e-mailových účtov**.
-3. Na pripojenie stránku, zadajte zobrazované meno (meno príjemcovia uvidia dostanú e-mailovú správu od vás) a e-mailovú adresu a heslo e-mailového konta, ktoré chcete pripojiť k vášmu kontu Outlook.com.
+1. Otvorte [nastavenia synchronizácie e-mailu](https://go.microsoft.com/fwlink/?linkid=875264).
+2. V časti **pripojené kontá**vyberte položku **Gmail** alebo **iné e-mailové kontá**.
+3. Na stránke pripojiť vaše konto Zadajte zobrazovaný názov (meno príjemcovia uvidia, keď dostanú e-mailovú správu od vás) a úplnú e-mailovú adresu a heslo e-mailového konta, ktoré chcete pripojiť k vášmu účtu Outlook.com.
 
-E-mail môžete odosielať z ľubovoľného konta, ktoré ste pripojili k vášmu kontu Outlook.com. Pri písaní e-mailu, **Vyberte** a vybrať e-mailovú adresu, ktorú chcete použiť, a [aktualizovať vaše predvolené z adresy](https://go.microsoft.com/fwlink/?linkid=875264).
+Môžete odosielať e-maily z ľubovoľného konta, ktoré ste pripojili k vášmu účtu Outlook.com. Pri písaní e-mailu vyberte položku **od** a vyberte, ktorú e-mailovú adresu chcete použiť, alebo [aktualizujte predvolenú adresu z adresy](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Pre viac informácií, prečítajte si [Pridať vaše ďalšie e-mailové kontá do služby Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v téme [Pridanie ďalších e-mailových kont do Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Ak chcete vytvoriť novú e-mailovú adresu, ktorá používa rovnaké konto Outlook.com, čítať, [Pridať alebo odstrániť alias e-mailu](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Ak chcete vytvoriť novú e-mailovú adresu, ktorá používa rovnaké Outlook.com konto, prečítajte si [Pridať alebo odstrániť e-mailový alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

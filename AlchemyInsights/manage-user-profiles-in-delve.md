@@ -1,5 +1,5 @@
 ---
-title: Spravovať používateľské profily v dobírají
+title: Správa používateľských profilov v Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497206"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Spravovať používateľské profily v dobírají
+# <a name="manage-user-profiles-in-delve"></a>Správa používateľských profilov v Delve
 
-Office Delve umožňuje používateľom spravovať ich Office 365 používateľského profilu. Používatelia môžu:
+Office Delve umožňuje používateľom spravovať ich Office 365 profil používateľa. Používatelia môžu:
   
-- Zobrazte a aktualizujte svoje informácie
+- Zobrazenie a aktualizácia ich informácií
     
-- Nechali nejaké informácie
+- Udržujte niektoré informácie súkromné
     
-- Zmeniť svoj profil alebo kryt obrázok
+- Zmena profilu alebo titulnej snímky
     
-- Zmena formátu jazyka a čas pre Delve
+- Zmena formátu jazyka a času pre Delve
     
 > [!NOTE]
-> Ak používateľ aktualizuje obrázok profilu a zmena sa nezobrazuje v SharePoint alebo OneDrive, spýtajte sa ich otvorte webový prehliadač a [Prejsť na lokalitu Office.com](https://www.office.com), prihláste sa pomocou svojej práce alebo školy konto a kliknite na položku OneDrive alebo SharePoint dlaždice. To prinúti obrázok profilu synchronizácia. Používateľ musieť skúste dokončiť tieto kroky s vlastnou verziu svojho prehliadača. 
+> Ak používateľ aktualizoval svoj profilový obrázok a zmena sa nezobrazuje v SharePointe alebo OneDrive, požiadajte ich, aby otvorili webový prehľadávač, [prejdite na lokalitu Office.com](https://www.office.com), prihláste sa pomocou svojho pracovného alebo školského konta a potom kliknite na dlaždicu OneDrive alebo SharePoint. Zobrazí sa výzva na synchronizáciu profilového obrázka. Používateľ môže potrebovať pokúsiť sa dokončiť tieto kroky so súkromnou verziou svojho prehliadača. 
   
-[Zisti viac o aktualizovaní profilov v dobírají](https://go.microsoft.com/fwlink/?linkid=735070)
+[Ďalšie informácie o aktualizácii profilov v Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

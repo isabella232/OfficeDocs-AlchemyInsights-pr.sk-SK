@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753775"
 ---
 # <a name="more-info-about-retention-policies"></a>Ďalšie informácie o politikách uchovávania údajov
@@ -26,13 +26,13 @@ Pre väčšinu organizácií sa zvyšuje objem a zložitosť ich údajov denne-e
 
 ## <a name="a-from-security-and-compliance-center"></a>A) z centra zabezpečenia a súladu
 
-- Prejsť na zabezpečenie a súlad _ Gt_ správa údajov _ Gt_ uchovávanie
+- Prejsť na bezpečnosť a súlad > správa údajov > uchovávanie
   - Pozri [Tento](https://docs.microsoft.com/office365/securitycompliance/retention-policies) článok
 
-- Prejsť na zabezpečenie a súlad _ Gt_ eDiscovery> Advanced eDiscovery 
+- Prejsť na zabezpečenie a súlad > eDiscovery> Advanced eDiscovery 
   - Pozri [Tento](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) článok
 
-- Prejsť na zabezpečenie a súlad _ Gt_ klasifikácie _ Gt_ uchovávanie
+- Prejsť na > klasifikácie zabezpečenia a súladu > uchovávanie
   - Pozri tieto články
     - [Označenia citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Prehľad štítkov](https://docs.microsoft.com/office365/securitycompliance/labels)

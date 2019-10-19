@@ -13,28 +13,28 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497386"
 ---
-# <a name="manage-office-365-app-licenses"></a>Spravovanie licencií aplikácií Office 365
+# <a name="manage-office-365-app-licenses"></a>Spravovať licencie aplikácií balíka Office 365
 
-## <a name="to-change-license-quantity"></a>Ak chcete zmeniť množstvo licencie
+## <a name="to-change-license-quantity"></a>Zmena množstva licencie
 
-1. Prejsť na **fakturačné** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku, potom vyberte **aplikácie** kartu.
-
-2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
-
-3. Vyberte **Pridať alebo odstrániť licencie**.
-
-4. Zadajte nové číslo licencie potrebné. Napríklad, ak ste v súčasnej dobe 5 licencií a potrebujete len 4, zadajte 4 v poli **Celková licencie** . Ak v súčasnosti máte 5 licencií a potrebujete 10 celkom licencií, zadajte do poľa **celkové licencie** 10.
-
-## <a name="to-assign-app-licenses"></a>Priradenie licencie aplikácie
-
-1. Prejsť na **fakturačné** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku, potom vyberte **aplikácie** kartu.
+1. Prejdite na stránku **Fakturácia** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a potom vyberte kartu **aplikácie** .
 
 2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
 
-3. Podľa **nastavenia & akcie**, vyberte odkaz na **Spravovať portál vydavateľa**.
+3. Vyberte položku **Pridať alebo odstrániť licencie**.
+
+4. Zadajte nový počet potrebných licencií. Ak máte napríklad v súčasnosti 5 licencií a potrebujete len 4, zadajte 4 do poľa **celkové licencie** . Ak máte v súčasnosti 5 licencií a potrebujete 10 celkových licencií, zadajte 10 do poľa **celkové licencie** .
+
+## <a name="to-assign-app-licenses"></a>Priradenie licencií aplikácií
+
+1. Prejdite na stránku **Fakturácia** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a potom vyberte kartu **aplikácie** .
+
+2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
+
+3. V časti **nastavenia & akcie**vyberte prepojenie na **spravovanie na portáli programu Publisher**.

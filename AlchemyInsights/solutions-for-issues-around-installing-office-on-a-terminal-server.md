@@ -1,5 +1,5 @@
 ---
-title: Riešenia pre problémy okolo inštaláciu balíka office na terminálový Server
+title: Riešenie problémov v okolí Inštalácia balíka Office na terminálový Server
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501490"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Riešenia pre problémy okolo inštaláciu balíka office na terminálový Server
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Riešenie problémov v okolí Inštalácia balíka Office na terminálový Server
 
-Použitie aktivácie pre zdieľané počítače, musíte mať plán služieb Office 365, ktorý obsahuje Office 365 ProPlus.
+Ak chcete použiť zdieľanú aktiváciu počítača, musíte mať plán Office 365, ktorý obsahuje balík Office 365 ProPlus.
   
-- Overiť, že aktiváciou zdieľaný počítač zapnutá pre Office 365 ProPlus
+- Overte, či je zapnutá Aktivácia zdieľaného počítača pre Office 365 ProPlus
     
-- Overiť, že Aktivácia pre Office 365 ProPlus podarilo
+- Overte, či aktivácia balíka Office 365 ProPlus uspel
     
-- Prečítajte si chybové hlásenia pre aktiváciou zdieľaný počítač:
+- Kontrola chybových hlásení pre zdieľanú aktiváciu počítača:
     
-  - "Produkty sme našli vo vašom účte nemôže byť použitý na aktiváciu balíka Office v zdieľanom počítači scenáre"
+  - "Produkty, ktoré sme našli vo vašom účte, nie je možné použiť na aktiváciu balíka Office v situáciách zdieľaného počítača"
   
-Táto chyba znamená, že nemáte plánu Office 365, ktorý obsahuje Office 365 ProPlus.
+Táto chyba znamená, že nemáte Office 365 plán, ktorý obsahuje Office 365 ProPlus.
     
-  - "Nelicencované produkt"
+  - "Nelicencovaný produkt"
     
-  - Overiť, že používateľovi je priradená licencia na Office 365 ProPlus.
+  - Skontrolujte, či je používateľovi priradená licencia pre balík Office 365 ProPlus.
     
-  - Skontrolujte, že používateľ neprihlási jej používateľské konto pre Office 365
+  - Skontrolujte, či sa používateľ prihlási so svojím používateľským kontom pre balík Office 365
     
-  - Skontrolujte, či je pripojenie medzi zdieľaný počítač a Internet.
+  - Skontrolujte, či existuje pripojenie medzi zdieľaným počítačom a internetom.
     
-Prečítajte si ďalšie tipy na riešenie problémov: [Riešenie problémov s aktiváciou zdieľaný počítač pre Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Ďalšie tipy na riešenie problémov nájdete na: [Riešenie problémov so zdieľanou aktiváciou počítača pre balík Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

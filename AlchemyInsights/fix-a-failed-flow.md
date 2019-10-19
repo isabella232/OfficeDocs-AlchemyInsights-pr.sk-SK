@@ -1,5 +1,5 @@
 ---
-title: Opraviť nepodarilo toku
+title: Oprava zlyhaných tokov
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525270"
 ---
-# <a name="fix-a-flow-that-failed"></a>Fix toku, ktorá zlyhala
+# <a name="fix-a-flow-that-failed"></a>Oprava postupu, ktorý zlyhal
 
-1. Prejdite na [Microsoft toku](https://flow.microsoft.com/)a kliknutím na ikonu v pravom hornom rohu oznámenia. (Alebo v mobilnej aplikácii, vyberte kartu činnosť.) Vyberte tok, ktorý nedokázal pozerať na detaily.
+1. Prejdite na [Microsoft flow](https://flow.microsoft.com/)a kliknite na ikonu oznámenia v pravom hornom rohu. (Alebo v mobilnej aplikácii vyberte kartu aktivita.) Vyberte tok, ktorý sa nepodarilo pozrieť na Podrobnosti.
     
-2. Nájsť krok s ikonou červený výkričník chybové hlásenie pre prietok.
+2. Ak chcete zobraziť chybové hlásenie toku, nájdite krok s červenou ikonou výkričníka.
     
-3. V závislosti od chybové hlásenie, mali by môcť upraviť tok a spravit. 
+3. V závislosti od chybového hlásenia by ste mali byť schopní upraviť postup a opraviť ho. 
     
-[Spoločný tok zlyhania](https://go.microsoft.com/fwlink/?linkid=872110)
+[Bežné zlyhania toku](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

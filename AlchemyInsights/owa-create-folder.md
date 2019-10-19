@@ -1,5 +1,5 @@
 ---
-title: Vytvorte priečinok v programe Outlook na webe
+title: Vytvorenie priečinka v programe Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557264"
 ---
 # <a name="create-a-folder"></a>Vytvorenie priečinka
 
-1. V dolnej časti tably priečinkov programu Outlook na webe, vyberte položku **nový priečinok**. Budete musieť prejdite nadol a pozrite sa na tlačidlo **nový priečinok** na table priečinkov.
-1. V textovom poli zadajte názov priečinka a stlačte kláves Enter.
+1. V dolnej časti tably priečinkov v programe Outlook na webe vyberte položku **nový priečinok**. Ak chcete zobraziť tlačidlo **nový priečinok** , možno bude potrebné posunúť sa nadol na table priečinkov.
+1. Do textového poľa zadajte názov priečinka a stlačte kláves ENTER.
 
-Ďalšie informácie v téme [Práca s správu priečinkov programu Outlook na webe](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Ďalšie informácie nájdete v téme [Práca s priečinkami správ v programe Outlook na webe](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

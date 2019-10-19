@@ -1,5 +1,5 @@
 ---
-title: Pridanie konta Gmail do služby Outlook.com
+title: Pridať Gmail účet na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538143"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Pridanie konta Gmail do služby Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Pridajte svoj Gmail účet na Outlook.com
 
-1. Otvoriť [nastavenia synchronizácie e-mailu](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Časti **pripojené kontá**, vyberte položku **Gmail**.
-3. Zadajte zobrazované meno (meno príjemcovia uvidia dostanú e-mailovú správu od vás).
-4. Vyberte, ak Outlook.com mali importovať váš e-mail od Gmailu a uloženia dovážaný e-mailové.
-5. Vyberte **OK** prejdete na prihlasovacej stránke Google.
+1. Otvorte [nastavenia synchronizácie e-mailu](https://go.microsoft.com/fwlink/?linkid=875264).
+2. V časti **pripojené kontá**vyberte položku **Gmail**.
+3. Zadajte zobrazovaný názov (meno príjemcovia uvidia, keď dostanú e-mailovú správu od vás).
+4. Vyberte, či má Outlook.com importovať e-maily z Gmailu a kde budú uložené importované e-maily.
+5. Výberom položky **OK** prejdete na stránku prihlásenia Google.
 
-Synchronizácia z pripojeného konta do konta Outlook.com je jednosmerný len. E-maily odoslané z konta Gmail pomocou Outlook.com sa nezobrazia v Odoslaná pošta v službe Gmail.
+Synchronizácia z pripojeného konta na konto Outlook.com je len jednosmerná. E-mail odoslaný z vášho účtu Gmail pomocou Outlook.com sa nezobrazí v odoslaných položkách v Gmaile.
 
-Môžete poslať e-mail v službe Outlook.com z pripojeného konta Gmail. Pri písaní e-mailu, vyberte **z** a vašej adresy Gmail alebo [aktualizovať vaše predvolené z adresy](https://go.microsoft.com/fwlink/?linkid=875264).
+Môžete posielať e-maily v Outlook.com z vášho pripojeného účtu Gmail. Pri písaní e-mailu vyberte položku **z** a vyberte svoju adresu v Gmaile alebo [aktualizujte predvolenú adresu z adresy](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Ďalšie informácie nájdete v téme [Pridanie ďalších kont do služby Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v téme [Pridanie ďalších e-mailových kont do Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

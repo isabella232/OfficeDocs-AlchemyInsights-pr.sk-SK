@@ -1,5 +1,5 @@
 ---
-title: Zmeniť obrázok profilu v programe Outlook na webe
+title: Zmena profilovej fotografie v programe Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557228"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Zmeniť obrázok profilu v programe Outlook na webe
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Zmena profilovej fotografie v programe Outlook na webe
 
-1. V hornej časti stránky, vyberte vaše meno alebo profilová fotka.
-1. Na table **môj účet** vyberte obrázok profilu.
-1. V dialógovom okne **zmeniť fotografiu** , vyberte **nahrať novú fotku**.
-1. Vyberte fotku nahrať a vyberte položku **použiť**.
+1. V hornej časti stránky vyberte svoje meno alebo profilovú fotku.
+1. Na table **môj účet** vyberte profilovú fotku.
+1. V dialógovom okne **Zmena fotografie** vyberte položku **odovzdať novú fotku**.
+1. Vyberte fotku, ktorú chcete odovzdať, a vyberte položku **použiť**.
 
-*Poznámka:* Nové fotografie sa objaví nabudúce, prihlásite do služby Office 365.
+*Poznámka:* Pri ďalšom prihlásení do balíka Office 365 sa zobrazí vaša nová fotka.
 
-Ďalšie informácie nájdete v téme [zmeniť svoje fotografie a informácie o účte v Outlooku na webe](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Ďalšie informácie nájdete v téme [Zmena informácií o fotografii a konte v programe Outlook na webe](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

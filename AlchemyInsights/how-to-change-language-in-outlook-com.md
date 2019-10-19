@@ -1,5 +1,5 @@
 ---
-title: Ako zmeniť jazyk v službe Outlook.com
+title: Ako zmeniť jazyk v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541681"
 ---
 # <a name="change-your-language"></a>Zmena jazyka
 
-1. Chang jazyka v programe Outlook, prejdite na nastavenie [**jazyka a času**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**nastavenia** \> **Zobraziť všetky Outlook nastavenia** > **všeobecné** > **jazyka a času**).
+1. Ak chcete Chang jazyk v programe Outlook, prejdite [**na jazyk a čas**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) nastavenia (**Nastavenie** \> **Zobraziť všetky nastavenia** > programu Outlook**Všeobecný** > **jazyk a čas**).
 
-2. Vyberte svoj jazyk.
+2. Vyberte jazyk.
 
-3. Kliknite na tlačidlo **Uložiť**.
+3. Vyberte položku **Uložiť**.
 
-Ďalšie informácie nájdete v téme [zmeniť časové pásmo a nastavenie jazyka v službe Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Ďalšie informácie nájdete v téme [Zmena nastavenia časového pásma a jazyka v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

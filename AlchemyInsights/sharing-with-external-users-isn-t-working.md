@@ -1,5 +1,5 @@
 ---
-title: Zdieľania s externými používateľmi nepracuje
+title: Zdieľanie s externými používateľmi nefunguje
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502246"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Riešenie problémov zdieľania obsahu SharePoint s externými používateľmi
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Riešenie problémov s zdieľaním obsahu služby SharePoint s externými používateľmi
 
-Uistite sa, že externé zdieľanie je zapnutý pre vašu organizáciu:
+Presvedčte sa, či je pre vašu organizáciu zapnuté externé zdieľanie:
   
-1. Prejsť na [služby &amp; pridať-ins stránku Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), a kliknite na tlačidlo **lokality**.
+1. Prejdite na [stránku služby &amp; doplnky Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)a kliknite na tlačidlo **lokality**.
     
-2. Skontrolujte nastavenie je nastavená na "Zap." Ak je vybratá "Len existujúce externých používateľov", uistite sa, že externý používateľ je uvedená Microsoft 365 admin Center.
+2. Presvedčte sa, či je nastavenie zapnuté "zapnuté". Ak je vybratá možnosť "iba existujúcich externých používateľov", uistite sa, že externý používateľ je uvedený v Microsoft 365 admin Center.
     
-Uistite sa, že externé zdieľanie je zapnutá pre lokalitu. Klasické kolekcie:
+Skontrolujte, či je pre lokalitu zapnuté externé zdieľanie. Pre klasickú kolekciu lokalít:
   
-1. Nové lokality SharePoint admin Center, na ľavej table kliknite na položku **lokality**.
+1. V novom SharePoint admin Center, na ľavej table kliknite na položku **lokality**.
     
-2. Vyberte lokality, ani lokality a na páse s nástrojmi, kliknite na položku **Zdieľanie**.
+2. Vyberte lokalitu alebo lokality a na páse s nástrojmi kliknite na položku **Zdieľanie**.
     
-Pre tímovú lokalitu, ktorá patrí do skupiny Office 365 alebo lokalitu komunikácie:
+Pre tímovú lokalitu, ktorá patrí do skupiny Office 365 alebo na komunikačnú lokalitu:
   
-- Tieto nové typy lokalít majú rovnaké zdieľanie nastavenie ako nastavenie pre celú organizáciu, ak nastavenie celej organizácii umožňuje zdieľanie súborov pomocou odkazov, ktoré nevyžadujú prihlásenie. V tomto prípade stránky umožňujú zdieľanie nových a existujúcich externých používateľov, ktorí prihlásenie. Ak chcete zmeniť nastavenie pre konkrétne lokality, použite nové SharePoint admin center alebo PowerShell. [Zistite viac](https://go.microsoft.com/fwlink/?linkid=871863).
+- Tieto nové typy lokalít majú rovnaké nastavenie zdieľania ako nastavenie pre celú organizáciu, pokiaľ nastavenie pre celú organizáciu umožňuje zdieľanie súborov pomocou prepojení, ktoré nevyžadujú prihlásenie. V tomto prípade lokality umožňujú zdieľanie s novými a existujúcimi externými používateľmi, ktorí sa prihlasujú. Ak chcete zmeniť nastavenie pre konkrétne lokality, použite nové centrum spravovania služby SharePoint alebo PowerShell. Ďalšie [informácie](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Externé nastavenie zdieľania na ľubovoľnej lokalite môže byť reštriktívnejšie než nastavenia pre celú organizáciu, ale nie zhovievavejšie ako nastavenie celej organizácie. 
+> Nastavenie externého zdieľania pre ľubovoľnú lokalitu môže byť obmedzujúcejšie ako nastavenie pre celú organizáciu, ale nie viac tolerantnejšie ako nastavenie celej organizácie. 
   
 

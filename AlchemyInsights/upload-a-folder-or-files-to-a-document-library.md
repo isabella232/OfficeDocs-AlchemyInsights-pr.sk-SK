@@ -1,5 +1,5 @@
 ---
-title: Nahrať súbor alebo súbory do knižnice dokumentov
+title: Odovzdanie priečinka alebo súborov do knižnice dokumentov
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532634"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Nahrať súbor alebo súbory do knižnice dokumentov SharePoint
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Odovzdanie priečinka alebo súborov do knižnice dokumentov lokality SharePoint
 
-Nahrať zložku, musíte používať Microsoft Edge, prehliadač Google Chrome alebo Mozilla FireFox. Nemožno odovzdávať priečinky v klasickej knižnici skúsenosti, alebo pomocou programu Internet Explorer 10 alebo 11.
+Ak chcete nahrať priečinok, musíte použiť Microsoft Edge, Google Chrome alebo Mozilla FireFox. Nemôžete odovzdať priečinky v klasickej knižnici skúsenosti alebo pomocou programu Internet Explorer 10 alebo 11.
   
-1. Otvorte knižnicu dokumentov, kde chcete nahrať priečinok alebo súbory.
+1. Otvorte knižnicu dokumentov, do ktorej chcete odovzdať priečinok alebo súbory.
     
-2. Na počítači spustite Prieskumníka a vyhľadajte požadovaný priečinok alebo súbory, ktoré chcete nahrať.
+2. Otvorte Prieskumníka v počítači a vyhľadajte priečinok alebo súbory, ktoré chcete odovzdať.
     
-3. Presuňte požadovaný priečinok alebo súbory do knižnice dokumentov. Ak sa nezobrazujú položky, ktoré ste nahrali objavia v knižnici, obnovte stránku. 
+3. Presuňte priečinok alebo súbory do knižnice dokumentov. Ak sa položky, ktoré ste nahrali, nezobrazujú v knižnici, obnovte stránku. 
     
-Ak nechcete nahrať presunutím položky medzi windows, môžete použiť tlačidlo **Upload** knižnice dokumentov vyberte požadovaný priečinok alebo súbory, ktoré chcete nahrať. 
+Ak nechcete nahrávať presunutím položiek medzi oknami, môžete tiež použiť tlačidlo **odovzdať** v knižnici dokumentov a vybrať priečinok alebo súbory, ktoré chcete odovzdať. 
   
 

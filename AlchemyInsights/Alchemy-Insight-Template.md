@@ -1,5 +1,5 @@
 ---
-title: Najlepšie je rovnaký ako názov súboru
+title: rovnaký názov súboru je najlepší
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800060"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Vyžaduje alchýmie hlavičke H1, H2-nefungujú.
-Najlepšie postupy a pokyny pre authoring alchýmia:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Povinné alchýmia Hlavička H1, H2's nefungujú.
+Osvedčené postupy a usmernenia pre alchýmia Authoring:
 
-1. **Nest alchýmia postrehy v priečinkoch**- to bude prestávka v url štruktúru. Hľadáme do stanovenie tejto.
-1. Súbory v priečinku **AlchemyInsights** by mali mať malé písmená názvov súborov s pomlčkami medzery ex. ***jak-na-enable--zadržanie***.
-    1. Zahŕňajú identifikácia pravidla alebo vedierko ID z [alchýmie Partner portal](https://alchemyportal.azurewebsites.net) v poli ms.custom. ex. ***MS.Custom: 100021***
-1. Použite zvyšok metaúdaje v hornej časti tohto súboru ako šablóny.
-1. [Alchýmia Partner portal](https://alchemyportal.azurewebsites.net)prejdite nadol do sekcie **zákazníka Insight titul:** a použiť ho ako východiskový bod pre nadpis H1 pre pochopenie. 
+1. **Nepoužívajte hniezdo Alchemy postrehy v priečinkoch**-to bude prestávka URL štruktúru. Hľadáme do stanovenia tohto.
+1. Súbory v priečinku **Alchemyinpamiatkam** by mali mať malé názvy súborov s pomlčkami pre medzery ex. ***ako-to-Enable-Litigation-hold***.
+    1. Zahrnúť ID pravidla alebo identifikátor vedierko z [Alchemy partner Portal](https://alchemyportal.azurewebsites.net) v MS. Custom pole. Ex. ***MS. Custom: 100021***
+1. Použite zvyšok metaúdajov v hornej časti tohto súboru ako šablónu.
+1. V [Alchemy partner Portal](https://alchemyportal.azurewebsites.net), prejdite nadol na sekciu **Zákazník Insight názov:** a použiť, že ako východiskový bod pre váš H1 titul pre pochopenie. 
     > [!NOTE]
-    > Alchýmia poznatky musí mať iba jeden H1 navrchu alebo bude prestávka vo výrobe. H2s neznemožňujú tak použiť **tučné** alebo iných dohovorov znamenať samostatných sekcií.
-1. Ďalšie, vyplňte základný text pomocou návrh materiálu v časti prehľady o zákazníkoch alchýmia pravidlo stránky
+    > Alchýmia postrehy musia mať len jeden H1 v hornej alebo budú zlomiť vo výrobe. H2s nespôsobujú ani tak použiť **tučné** alebo iné konvencie znamenať samostatných sekcií.
+1. Potom vyplňte základný text pomocou návrhu materiálu v sekcii prehľady zákazníkov na stránke pravidla alchýmie
     1. Zoznamy s odrážkami sú v poriadku
     1. Číslované zoznamy príliš
-    1. **Tučné písmo** a *kurzíva* sú a-ok
-    1. Odkazy by mali byť vždy buď **"Odkazy na web" / externý** alebo **hlboko-odkazy na prvky používateľského rozhrania**, nie interné odkazy.
-    1. Obrázky nie sú oficiálne podporované v tejto dobe, ale to je na pláne.
+    1. **Tučné** a *kurzíva* sú a-OK
+    1. Odkazy by mali byť vždy buď **"Odkazy na web"/externé** alebo **hlboké-odkazy na prvky používateľského rozhrania**, nie interné odkazy.
+    1. Obrázky nie sú oficiálne podporované v tejto dobe, ale je to na pláne.
 
-A to je naozaj už trochu príliš dlho. Najlepšie je asi 400 znakov---
+A to je naozaj už trochu príliš dlho. Najlepšia prax je asi 400 znakov---------------------------------
 
-Akonáhle váš obsah je pripravený, vytiahnite ju na živé vetvy. Potom [alchýmia Partner portálu](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa url. 
+Akonáhle je váš obsah pripravený, vytiahnite ho do živej pobočky. Potom prejdite na [portál Alchemy partnera](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa Adresa URL. 

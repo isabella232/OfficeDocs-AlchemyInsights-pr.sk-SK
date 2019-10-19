@@ -1,5 +1,5 @@
 ---
-title: Úrovne povolení v SharePoint Online
+title: Úrovne povolení služby SharePoint Online
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534902"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Úrovne povolení v SharePoint Online
+# <a name="sharepoint-online-permission-levels"></a>Úrovne povolení služby SharePoint Online
 
-SharePoint je vybavená niektorých predvolených úrovní povolení, ktoré môžete použiť, ako prispieť a zobraziť iba. Ak nevyhovujú vašim potrebám, môžete vytvoriť ďalšie úrovne. Je to najjednoduchšie na sledovanie povolenia Ak nechcete upraviť alebo zmazať východiskové úrovne, a ak pridáte ľudí do skupín a priradenie úrovní povolení na tie skupiny, namiesto priradenia úrovní povolení jednotlivým používateľom.
+SharePoint sa dodáva s niektorými predvolenými úrovňami povolení, ktoré môžete použiť, ako je napríklad prispievanie a zobrazenie. Ak nespĺňajú vaše požiadavky, môžete vytvoriť ďalšie úrovne povolení. Ak nechcete upraviť alebo odstrániť predvolené úrovne, je najjednoduchšie sledovať povolenia, a ak pridáte ľudí do skupín a priradíte úrovne povolení k týmto skupinám namiesto priradenia úrovní povolení jednotlivým používateľom.
   
-- [Chápanie úrovní povolení](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Vysvetlenie úrovní povolení](https://go.microsoft.com/fwlink/?linkid=867071)
     
 - [Ako vytvoriť a upraviť úrovne povolení](https://go.microsoft.com/fwlink/?linkid=867072)
     

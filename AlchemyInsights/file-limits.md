@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 122da4ef674cdb2f5ae4b8f1eb3991bd2a7d2cfc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525794"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Obmedzenia upload súborov v službe SharePoint Online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Súbor upload limity SharePoint Online
 
-- Knižnice môžete mať až 30 miliónov súbory a priečinky.
+- Knižnica môže mať až 30 000 000 súborov a priečinkov.
     
-- Celková dĺžka adresy URL, vrátane názvu súboru nemôže prekročiť 400 znakov.
+- Celková dĺžka adresy URL, vrátane názvu súboru, nemôže prekročiť 400 znakov.
     
-- Každý súbor kaša byť menej ako 15 GB. Súbory priložené k položkám zoznamu môže byť až 250 MB vo veľkosti.
+- Každý súbor kaše byť menšia ako 15 GB. Súbory pripojené k položkám zoznamu môžu mať veľkosť až 250 MB.
     
-- Optimálny výkon synchronizáciu pomocou nového klienta synchronizácie OneDrive, odporúčame ukladanie maximálne 100 000 súborov v knižnici. 
+- Pre optimálny výkon synchronizáciu s novým OneDrive synchronizácia klienta, odporúčame uložiť nie viac ako 100 000 súbory v knižnici. 
     
-[Znaky, ktoré nemožno použiť v názvoch súborov](https://go.microsoft.com/fwlink/?linkid=866430)
+[Znaky, ktoré nie je možné použiť v názvoch súborov](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[Typy súborov, ktoré nemožno pridať do zoznamu alebo knižnice](https://go.microsoft.com/fwlink/?linkid=273757)
+[Typy súborov, ktoré nie je možné pridať do zoznamu alebo knižnice](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Ďalšie informácie o SharePoint Online limity](https://go.microsoft.com/fwlink/?linkid=271273)
+[Ďalšie informácie o obmedzeniach služby SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

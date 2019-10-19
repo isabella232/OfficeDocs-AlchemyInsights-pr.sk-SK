@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527056"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Chyba: AttributeValueMustBeUnique
 
-Najčastejším dôvodom pre AttributeValueMustBeUnique chyba je dvoch objektov s rôznymi SourceAnchor (immutableId) majú rovnakú hodnotu pre ProxyAddresses alebo UserPrincipalName atribúty. Opraviť AttributeValueMustBeUnique chyba:
+Najčastejším dôvodom pre Attributhodnoemustbeunique chyba je dva objekty s rôznymi SourceAnchor (immutableId) majú rovnakú hodnotu pre ProxyAddresses a/alebo UserPrincipalName atribúty. Oprava AttributeValueMustBeUnique chyba:
   
-1. Identifikáciu duplicitných proxyAddresses, userPrincipalName alebo iné hodnoty atribútu, ktorý spôsobuje chybu. Tiež určiť, ktoré objekty dvoch (alebo viacerých) sú zapojené do konfliktu. Správy generované Azure AD pripojiť zdravie pre synchronizáciu môže pomôcť identifikovať dva objekty.
+1. Identifikujte duplicitné proxyAddresses, userPrincipalName alebo inú hodnotu atribútu, ktorá spôsobuje chybu. Tiež určiť, ktoré dva (alebo viac) objekty sú zapojené do konfliktu. Zostava vygenerovaná Azure AD Connect Health for Sync vám môže pomôcť identifikovať dva objekty.
     
-2. Určiť predmet, ktorý by mal mať duplicitné hodnoty aj naďalej a predmet, ktorý by nemal.
+2. Určiť, ktorý objekt by mal mať aj naďalej duplicitné hodnoty a ktoré objekt by nemal.
     
-3. Odstráňte duplicitné hodnoty objektu, že by nemali mať túto hodnotu. Všimnite si, že by mal urobiť zmeny v adresári kde sa objekt pochádza z. V niektorých prípadoch budete musieť odstrániť objekty v konflikte.
+3. Odstrániť duplicitné hodnoty z objektu, ktorý by nemal mať túto hodnotu. Všimnite si, že by ste mali vykonať zmeny v adresári, kde objekt pochádza z. V niektorých prípadoch možno budete musieť odstrániť jeden z objektov v konflikte.
     
-4. Ak ste vykonali zmeny v objekte na reklamu, nech Azure AD pripojiť synchronizovať zmeny pre chyby opravené.
+4. Ak ste vykonali zmeny v lokálnom AD, nech Azure AD pripojiť synchronizáciu zmeny chyby sa dostať fixné.
     
 

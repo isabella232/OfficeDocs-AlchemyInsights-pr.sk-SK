@@ -1,5 +1,5 @@
 ---
-title: Pridať miest na predplatené prihlásenie na odber
+title: Pridanie kresiel do predplateného predplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661023"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Pridať miest na predplatené prihlásenie na odber
+# <a name="add-seats-to-a-prepaid-subscription"></a>Pridanie kresiel do predplateného predplatného
 
-Predplatený Office 365 licencie sú vydávané ako 25-miestny alfanumerický kód. Po zakúpení licencie, ktoré potrebujete, môžete ich pridať do svojho predplatného. 
+Predplatené Office 365 licencie sú vydávané ako 25-miestny alfanumerický kód. Po zakúpení licencií, ktoré potrebujete, môžete ich pridať do svojho predplatného. 
 
-1. Admin Center, prejdite na **fakturačné** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. V centre spravovania prejdite na stránku **Fakturácia** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Nájdite predplatné, ktoré chcete pridať licencie. V sekcii **licencií** , vyberte možnosť **pridať viac licencií**.
+2. Vyhľadajte predplatné, do ktorého chcete pridať licencie. V časti **licencie** vyberte položku **pridať ďalšie licencie**.
 
-3. Na table **pridať viac licencií** **používať nové a nepoužívané produktu kľúč**vyberte **ďalší**.
+3. Na table **pridať ďalšie licencie** vyberte položku **použiť nový a nepoužitý kód Product Key a**potom vyberte položku **ďalej**.
 
-4. Zadajte kód product key a potom vybrať **ďalšiu**.
+4. Zadajte kód Product Key a potom vyberte položku **ďalej**.
 
     > [!NOTE]
-    > Ak máte viac ako jeden kód product key, mô ete **pridať ďalší kód product key** zadať.
+    > Ak máte viac ako jeden kód Product Key, môžete ich zadať výberom položky **pridať ďalší kód Product Key** .
 
 5. Skontrolujte Podrobnosti objednávky a potom vyberte položku **uplatniť**.
 
-Ďalšie informácie v téme [Pridanie licencií alebo predĺžiť predplatné zaplatené pomocou kódu product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Ďalšie informácie nájdete v téme [Pridanie licencií do alebo rozšírenie predplatného zaplateného pomocou kódu Product Key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

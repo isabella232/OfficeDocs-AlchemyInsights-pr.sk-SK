@@ -1,5 +1,5 @@
 ---
-title: Podmienený prístup so službou Intune
+title: Podmienený prístup pomocou Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,25 +9,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505009"
 ---
-# <a name="conditional-access-with-intune"></a>Podmienený prístup so službou Intune
+# <a name="conditional-access-with-intune"></a>Podmienený prístup pomocou Intune
 
-Používanie **Podmieneného prístupu** s Intune vyžaduje 3 kroky: 
+Použitie **podmieneného prístupu** s Intune vyžaduje 3 kroky: 
   
-- Vytvorenie **Podmieneného prístupu politiky** , ktorá definuje aké zdroje sú chránené a aké podmienky musia byť splnené, aby prístup týchto zdrojov. Napríklad zariadenie musí byť kompatibilné s pred prístupom k podnikovým e-mailom. 
+- Vytvorte **politiku podmieneného prístupu** , ktorá definuje, aké prostriedky sú chránené, a aké podmienky je potrebné splniť na prístup k týmto prostriedkom. Zariadenie musí byť napríklad kompatibilné pred prístupom do podnikového e-mailu. 
     
-- Vytvoriť **Súlad politiky** definuje nastavenia, ktoré musia byť splnené pred zariadenie sa považuje za vyhovujúce. Napríklad zariadenie musí mať pin aspoň 6 číslice, predtým, než sa považuje za vyhovujúce. 
+- Vytvorenie **politiky súladu** na definovanie nastavení, ktoré musia byť splnené pred tým, ako sa zariadenie považuje za vyhovujúce. Zariadenie musí mať napríklad PIN aspoň 6 číslic predtým, ako sa považuje za vyhovujúce. 
     
-- Zabezpečiť **Súlad politík** a **Podmieneného prístupu politiky** sú zamerané na požadovanej skupiny používateľov. To môže vyžadovať vytvorenie konkrétnym skupinám používateľov Azure Active Directory. 
+- Zabezpečenie **politík súladu** a **politiky podmieneného prístupu** sú zacielené na želané skupiny používateľov. To môže vyžadovať vytvorenie konkrétnych skupín používateľov v Azure Active Directory. 
     
-Prečítajte si viac:
+Čítajte viac:
   
-- [Podmieneného prístupu osvedčených postupov](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Osvedčené postupy podmieneného prístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
 - [Začíname s podmieneným prístupom](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     

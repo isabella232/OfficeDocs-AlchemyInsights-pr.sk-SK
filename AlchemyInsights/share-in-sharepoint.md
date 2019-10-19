@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549486"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Ako zdieľať v službe SharePoint Online
+# <a name="how-to-share-in-sharepoint-online"></a>Ako zdieľať SharePoint Online
 
-Zdieľanie stránky:
+Zdieľanie lokality:
   
-1. Vo webovom prehľadávači otvorte lokalitu.
+1. Otvorte lokalitu vo webovom prehľadávači.
     
-2. Ak táto stránka patrí do skupiny Office 365, kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **povolenia pre lokalitu**. Kliknite na položku **pozvať ľudí**a potom vyberte Pridať členov do skupiny Office 365 alebo zdieľať iba lokality. 
+2. Ak lokalita patrí do skupiny Office 365, kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **povolenia lokality**. Kliknite na tlačidlo **pozvať ľudí**, a potom vyberte Pridať členov do skupiny Office 365 alebo zdieľať iba lokality. 
     
-    Pre komunikáciu stránky, kliknite na **Share site** v pravom hornom rohu, zadajte meno osoby a potom vyberte úroveň povolenia (čítanie, upraviť alebo úplné ovládanie). 
+    V prípade komunikačnej lokality kliknite na položku **zdieľať lokalitu** v pravom hornom rohu, zadajte meno osoby a potom vyberte úroveň povolení (čítanie, úprava alebo úplný prístup). 
     
-    Klasické tímovej lokality, kliknite na položku **zdieľať** v pravom hornom rohu. Zadajte meno osoby, ktorú chcete pozvať, alebo napíšte všetci zdieľať so všetkými členmi vašej organizácie. Kliknite na položku **zdieľať**.
+    V prípade klasickej tímovej lokality kliknite na položku **zdieľať** v pravom hornom rohu. Zadajte meno osoby, ktorú chcete pozvať, alebo napíšte všetkým, ktorí sa majú zdieľať s každým vo vašej organizácii. Kliknite na položku **zdieľať**.
     
-[Naučte sa zdieľať súbor alebo priečinok](https://go.microsoft.com/fwlink/?linkid=511430)
+[Informácie o zdieľaní súboru alebo priečinka](https://go.microsoft.com/fwlink/?linkid=511430)
   
 
