@@ -14,12 +14,12 @@ ms.custom:
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
 ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738356"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="cd023-102">Konverzia distribučnej skupiny na skupinu Office 365</span><span class="sxs-lookup"><span data-stu-id="cd023-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="d4a39-102">Konverzia distribučnej skupiny na skupinu Office 365</span><span class="sxs-lookup"><span data-stu-id="d4a39-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="cd023-103">Distribučné skupiny môžete konvertovať na skupiny Office 365, ak spĺňajú určité kritériá.</span><span class="sxs-lookup"><span data-stu-id="cd023-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="cd023-104">Ak chcete konvertovať skupinu alebo riešiť problémy s konverziou, pozrite si tému [Inovácia distribučných zoznamov do skupín Office 365 v programe Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="cd023-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="d4a39-103">Distribučné skupiny môžete konvertovať na skupiny Office 365, ak spĺňajú určité kritériá.</span><span class="sxs-lookup"><span data-stu-id="d4a39-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="d4a39-104">Ak chcete konvertovať skupinu alebo riešiť problémy s konverziou, pozrite si tému [Inovácia distribučných zoznamov do skupín Office 365 v programe Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="d4a39-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>

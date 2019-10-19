@@ -14,19 +14,19 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737100"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="2f7dc-102">Čo sú roly správcu a ako ich priradíte?</span><span class="sxs-lookup"><span data-stu-id="2f7dc-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="c727e-102">Čo sú roly správcu a ako ich priradíte?</span><span class="sxs-lookup"><span data-stu-id="c727e-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="2f7dc-103">Vyzerá to, že máte nejaké otázky týkajúce sa roly správcu.</span><span class="sxs-lookup"><span data-stu-id="2f7dc-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="2f7dc-104">Tieto články by mali zodpovedať všetky vaše otázky.</span><span class="sxs-lookup"><span data-stu-id="2f7dc-104">These articles should answer all your questions.</span></span>
+<span data-ttu-id="c727e-103">Vyzerá to, že máte nejaké otázky týkajúce sa roly správcu.</span><span class="sxs-lookup"><span data-stu-id="c727e-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="c727e-104">Tieto články by mali zodpovedať všetky vaše otázky.</span><span class="sxs-lookup"><span data-stu-id="c727e-104">These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="2f7dc-105">Informácie o úlohách správcu</span><span class="sxs-lookup"><span data-stu-id="2f7dc-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- [<span data-ttu-id="c727e-105">Informácie o úlohách správcu</span><span class="sxs-lookup"><span data-stu-id="c727e-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [<span data-ttu-id="2f7dc-106">Priradenie rolí správcu</span><span class="sxs-lookup"><span data-stu-id="2f7dc-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [<span data-ttu-id="c727e-106">Priradenie rolí správcu</span><span class="sxs-lookup"><span data-stu-id="c727e-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-<span data-ttu-id="2f7dc-107">Neodpovedal na vašu otázku?</span><span class="sxs-lookup"><span data-stu-id="2f7dc-107">Didn't answer your question?</span></span> <span data-ttu-id="2f7dc-108">bez problémov!</span><span class="sxs-lookup"><span data-stu-id="2f7dc-108">No problem!</span></span> <span data-ttu-id="2f7dc-109">Použite možnosť "Dovoľte nám zavolať" a porozprávajte sa s inžinierom technickej podpory.</span><span class="sxs-lookup"><span data-stu-id="2f7dc-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="c727e-107">Neodpovedal na vašu otázku?</span><span class="sxs-lookup"><span data-stu-id="c727e-107">Didn't answer your question?</span></span> <span data-ttu-id="c727e-108">bez problémov!</span><span class="sxs-lookup"><span data-stu-id="c727e-108">No problem!</span></span> <span data-ttu-id="c727e-109">Použite možnosť "Dovoľte nám zavolať" a porozprávajte sa s inžinierom technickej podpory.</span><span class="sxs-lookup"><span data-stu-id="c727e-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
   

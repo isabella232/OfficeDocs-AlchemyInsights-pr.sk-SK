@@ -1,5 +1,5 @@
 ---
-title: Nájsť stratené alebo chýbajúce súbory OneDrive alebo SharePoint
+title: Vyhľadanie stratených alebo chýbajúcich súborov v službe OneDrive alebo SharePointe
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525434"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="2020a-102">Nájsť stratené alebo chýbajúce súbory OneDrive alebo SharePoint</span><span class="sxs-lookup"><span data-stu-id="2020a-102">Find lost or missing files in OneDrive or SharePoint</span></span>
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="4bd04-102">Vyhľadanie stratených alebo chýbajúcich súborov v službe OneDrive alebo SharePointe</span><span class="sxs-lookup"><span data-stu-id="4bd04-102">Find lost or missing files in OneDrive or SharePoint</span></span>
 
-- <span data-ttu-id="2020a-103">Skontrolujte Kôš prehľadávania služby OneDrive alebo SharePoint stránky na webe a kliknutím na položku Kôš na ľavej table.</span><span class="sxs-lookup"><span data-stu-id="2020a-103">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane.</span></span> <span data-ttu-id="2020a-104">(Ak nevidíte Recycle bin v ľavej table, kliknite na ikonu nastavení a vyberte **obsah stránok**.</span><span class="sxs-lookup"><span data-stu-id="2020a-104">(If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**.</span></span> <span data-ttu-id="2020a-105">**Kôš** je na pravej strane panela príkazov v hornej časti.)</span><span class="sxs-lookup"><span data-stu-id="2020a-105">**Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
+- <span data-ttu-id="4bd04-103">Skontrolujte Kôš prehľadávaním OneDrive alebo lokality SharePoint na webe a kliknutím na položku Kôš na ľavej table.</span><span class="sxs-lookup"><span data-stu-id="4bd04-103">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane.</span></span> <span data-ttu-id="4bd04-104">(Ak sa na ľavej table nezobrazuje Kôš, kliknite na ikonu nastavenia a potom vyberte položku **obsah lokality**.</span><span class="sxs-lookup"><span data-stu-id="4bd04-104">(If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**.</span></span> <span data-ttu-id="4bd04-105">**Kôš** je úplne napravo od panela príkazov v hornej časti.)</span><span class="sxs-lookup"><span data-stu-id="4bd04-105">**Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
     
-- <span data-ttu-id="2020a-106">Ak ste synchronizáciu súborov v počítači, skontrolujte Kôš na vašom počítači.</span><span class="sxs-lookup"><span data-stu-id="2020a-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
+- <span data-ttu-id="4bd04-106">Ak synchronizujete súbory v počítači, skontrolujte Kôš v počítači.</span><span class="sxs-lookup"><span data-stu-id="4bd04-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
     
-- <span data-ttu-id="2020a-107">Ak nevidíte položku hľadáte, a to bol nedávno zrušený, správca kolekcie lokality môže byť schopný obnoviť z Koša kolekcie lokalít.</span><span class="sxs-lookup"><span data-stu-id="2020a-107">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin.</span></span> <span data-ttu-id="2020a-108">Ak ste správcom kolekcie lokality, Zobraziť, [obnoviť odstránené položky z Koša kolekcie lokalít](https://go.microsoft.com/fwlink/?linkid=866439).</span><span class="sxs-lookup"><span data-stu-id="2020a-108">If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).</span></span>
+- <span data-ttu-id="4bd04-107">Ak sa položka, ktorú hľadáte, nezobrazuje a nedávno bola odstránená, správca kolekcie lokalít ho môže obnoviť z Koša kolekcie lokalít.</span><span class="sxs-lookup"><span data-stu-id="4bd04-107">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin.</span></span> <span data-ttu-id="4bd04-108">Ak ste správcom kolekcie lokalít, pozrite si stránku [Obnovenie odstránených položiek z Koša kolekcie lokalít](https://go.microsoft.com/fwlink/?linkid=866439).</span><span class="sxs-lookup"><span data-stu-id="4bd04-108">If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).</span></span>
     
-[<span data-ttu-id="2020a-109">Viac pomôcť obnoviť zmazané súbory a priečinky v službe OneDrive</span><span class="sxs-lookup"><span data-stu-id="2020a-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
+[<span data-ttu-id="4bd04-109">Ďalšie pomoc pri obnovení odstránených súborov a priečinkov v službe OneDrive</span><span class="sxs-lookup"><span data-stu-id="4bd04-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Alchemy - Zmena hesla v službe Outlook.com
+title: Alchýmia-Zmena hesla v Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: 3597dd795138af78a2b4cc547deb603fe66593f9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36494182"
 ---
-# <a name="change-your-password"></a><span data-ttu-id="f35cf-102">Zmena hesla</span><span class="sxs-lookup"><span data-stu-id="f35cf-102">Change your password</span></span>
+# <a name="change-your-password"></a><span data-ttu-id="06be6-102">Zmena hesla</span><span class="sxs-lookup"><span data-stu-id="06be6-102">Change your password</span></span>
 
-<span data-ttu-id="f35cf-103">Ak ste zabudli svoje heslo, prejdite na [konto Microsoft obnovenie hesla stránka](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="f35cf-103">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span> <span data-ttu-id="f35cf-104">V opačnom prípade postupujte podľa nasledujúcich pokynov.</span><span class="sxs-lookup"><span data-stu-id="f35cf-104">Otherwise, follow the instructions below.</span></span>
+<span data-ttu-id="06be6-103">Ak ste zabudli heslo, prejdite na [stránku Obnovenie hesla konta Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909).</span><span class="sxs-lookup"><span data-stu-id="06be6-103">If you forgot your password, go to the [Microsoft account password reset page](https://go.microsoft.com/fwlink/p/?linkid=841909).</span></span> <span data-ttu-id="06be6-104">V opačnom prípade postupujte podľa nižšie uvedených pokynov.</span><span class="sxs-lookup"><span data-stu-id="06be6-104">Otherwise, follow the instructions below.</span></span>
   
-1. <span data-ttu-id="f35cf-105">Vyberte meno alebo profilová fotka v pravom hornom rohu a vyberte položku **Zobraziť účet**.</span><span class="sxs-lookup"><span data-stu-id="f35cf-105">Select your name or profile picture in the top right corner and select **View account**.</span></span> 
+1. <span data-ttu-id="06be6-105">V pravom hornom rohu vyberte svoje meno alebo profilovú fotku a vyberte položku **Zobraziť účet**.</span><span class="sxs-lookup"><span data-stu-id="06be6-105">Select your name or profile picture in the top right corner and select **View account**.</span></span> 
     
-2. <span data-ttu-id="f35cf-106">Pod Hello!</span><span class="sxs-lookup"><span data-stu-id="f35cf-106">Under the Hello!</span></span> <span data-ttu-id="f35cf-107">banner, vyberte položku **zmeniť heslo**.</span><span class="sxs-lookup"><span data-stu-id="f35cf-107">banner, select **Change password**.</span></span> 
+2. <span data-ttu-id="06be6-106">Pod Hello!</span><span class="sxs-lookup"><span data-stu-id="06be6-106">Under the Hello!</span></span> <span data-ttu-id="06be6-107">banner, vyberte **zmeniť heslo**.</span><span class="sxs-lookup"><span data-stu-id="06be6-107">banner, select **Change password**.</span></span> 
     
-3. <span data-ttu-id="f35cf-108">Zvoľte si nové heslo a kliknite na tlačidlo **Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="f35cf-108">Choose a new password and select **Save**.</span></span> 
+3. <span data-ttu-id="06be6-108">Vyberte nové heslo a vyberte položku **Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="06be6-108">Choose a new password and select **Save**.</span></span> 
     
-<span data-ttu-id="f35cf-109">Ďalšie informácie, pozrite si [zmeniť heslo v službe Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span><span class="sxs-lookup"><span data-stu-id="f35cf-109">To learn more, see [Change my password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span></span>
+<span data-ttu-id="06be6-109">Ďalšie informácie nájdete v téme [Zmena hesla v Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span><span class="sxs-lookup"><span data-stu-id="06be6-109">To learn more, see [Change my password in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).</span></span>
   
 
