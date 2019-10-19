@@ -1,5 +1,5 @@
 ---
-title: Obnoviť alebo zmeniť heslá
+title: Resetovanie alebo zmena hesiel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: d546e7a5f3e7eb6a46467b96ad7f1cea84045cca
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a07ceca6d1a39bc1517c12d9eb40ea50229aee33
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666423"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745304"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a>Obnoviť alebo zmeniť heslo Office 365 business
+# <a name="reset-or-change-office-365-business-passwords"></a>Obnoviť alebo zmeniť Office 365 obchodné heslá
 
-Používateľ môže zmeniť svoje vlastné heslo z **môjho účtu** > [bezpečnosť & súkromie](https://portal.office.com/account/#security).
+Používateľ môže zmeniť svoje heslo z **môjho účtu** > [zabezpečenia & súkromie](https://portal.office.com/account/#security).
   
-Ak používateľ má zabudli svoje heslo, admin môžete resetovať heslo pre **používateľov** > [aktívnych používateľov](https://portal.office.com/adminportal/home#/users), výberom (ov) a výberom položky **obnoviť heslo**.
+Ak používateľ zabudol svoje heslo, admin môže obnoviť heslo tým, že pôjdete na **používateľov** > [aktívnych používateľov](https://portal.office.com/adminportal/home#/users), výber užívateľa (y), a výberom **reset hesla**.
   
-[Kliknite tu sa dozviete viac](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), alebo používateľom obnoviť zabudnuté heslá.
+[Kliknite sem, ak sa chcete dozvedieť viac](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), alebo nechať používateľov resetovať vlastné zabudnuté heslá.
   
