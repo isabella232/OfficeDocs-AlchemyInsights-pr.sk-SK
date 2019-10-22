@@ -1,26 +1,26 @@
 ---
 title: Sledovať alebo un-nasledovať lokality SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755719"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611712"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledovať alebo un-nasledovať lokality SharePoint
 
-Existuje viacero spôsobov, ako sledovať lokalitu, ktorá vás zaujíma v SharePointe. To vám umožní nájsť stránky ľahko v zozname, a umožní vám vidieť aktivitu z webu. 
+Existuje viacero spôsobov, ako nájsť a sledovať lokality, správy a obsah, ktorý vás zaujíma v SharePointe. To vám umožní ľahko nájsť informácie vo vašom zozname a umožní vám zobraziť aktivitu z lokality SharePoint.
 
-Pozrite si video a sledujte [lokalitu SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Pozrite sa na video [nájsť a sledovať stránky a novinky](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
 
-Ak ste schopní nasledovať alebo un-nasledovať stránky a cítiť výsledky nie sú to, čo sa očakáva, pozrite sa, či problém súvisí s jedným používateľom alebo všetkých používateľov v rámci organizácie. Ak problém narazili všetci používatelia, môže existovať dočasný problém služby. 
+Ak nie ste schopní sledovať alebo un-nasledovať stránky, novinky alebo obsah a cítiť výsledky nie je to, čo sa očakáva, pozrite sa, či problém súvisí s jedným používateľom alebo všetkých používateľov v rámci organizácie. Ak problém narazili všetci používatelia, môže existovať dočasný problém služby.
 
 Ak chcete zistiť, či je vaša organizácia ovplyvnená, skontrolujte [stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
