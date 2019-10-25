@@ -2,7 +2,6 @@
 title: Zmena názvu domény v SharePointe Online
 ms.author: pebaum
 author: Techwriter40
-ms.date: 10/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 58da0e0dd4d7d02aba1ecd64a23dc2227596ec7a
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36747655"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658344"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Zmena názvu domény v SharePointe Online
 
@@ -24,7 +23,7 @@ Bohužiaľ, nie je možné zmeniť názov domény SharePoint Online pre vašu or
   
 Ak chcete použiť názov domény fourthcoffee.sharepoint.com, budete musieť kúpiť nové predplatné Office 365 a presunúť všetky e-maily, súbory a ďalšie údaje, ktoré chcete uchovať na nové predplatné.
   
- **Poznámka**: Ak napríklad chcete zmeniť názov lokality https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, vytvorte novú lokalitu a potom premiestnite všetok obsah zo starej lokality do nového.
+ **Poznámka**: Ak napríklad chcete zmeniť názov lokality https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, postupujte podľa pokynov v [tomto článku](https://docs.microsoft.com/sharepoint/change-site-address). 
   
 Informácie o premiestnením položiek v knižniciach dokumentov nájdete [v téme premiestnenie alebo kopírovanie položiek z knižnice dokumentov lokality SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   
