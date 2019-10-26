@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36748339"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="65a1b-102">Kto má súbor vzaté k sebe?</span><span class="sxs-lookup"><span data-stu-id="65a1b-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="4ba5d-102">Kto má súbor vzaté k sebe?</span><span class="sxs-lookup"><span data-stu-id="4ba5d-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="65a1b-103">Ak chcete zistiť, kto má súbor vzaté k sebe v SharePointe, môžete urobiť jeden z nasledujúcich krokov:</span><span class="sxs-lookup"><span data-stu-id="65a1b-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
+<span data-ttu-id="4ba5d-103">Ak chcete zistiť, kto má súbor vzaté k sebe v SharePointe, môžete urobiť jeden z nasledujúcich krokov:</span><span class="sxs-lookup"><span data-stu-id="4ba5d-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="65a1b-104">Ukázaním na **vzatý k sebe** zobrazíte Popis, ktorý vám povie, kto má súbor vzatý k sebe.</span><span class="sxs-lookup"><span data-stu-id="65a1b-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="4ba5d-104">Ukázaním na **vzatý k sebe** zobrazíte Popis, ktorý vám povie, kto má súbor vzatý k sebe.</span><span class="sxs-lookup"><span data-stu-id="4ba5d-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="65a1b-105">Pridať **vzatý** do stĺpca do predvoleného zobrazenia knižnice.</span><span class="sxs-lookup"><span data-stu-id="65a1b-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="65a1b-106">Takto si každý môže ľahko prezrieť, kto má dokument vzatý k sebe.</span><span class="sxs-lookup"><span data-stu-id="65a1b-106">This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="4ba5d-105">Pridať **vzatý** do stĺpca do predvoleného zobrazenia knižnice.</span><span class="sxs-lookup"><span data-stu-id="4ba5d-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="4ba5d-106">Takto si každý môže ľahko prezrieť, kto má dokument vzatý k sebe.</span><span class="sxs-lookup"><span data-stu-id="4ba5d-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="65a1b-107">Ďalšie informácie o pridávaní vzatý do stĺpca na lokalite SharePoint nájdete v téme [Vytvorenie stĺpca v zozname alebo knižnici](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="65a1b-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="4ba5d-107">Ďalšie informácie o pridávaní vzatý do stĺpca na lokalite SharePoint nájdete v téme [Vytvorenie stĺpca v zozname alebo knižnici](https://go.microsoft.com/fwlink/?linkid=2019591).</span><span class="sxs-lookup"><span data-stu-id="4ba5d-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="65a1b-108">Pozrite si viac najčastejších otázok o registrácii alebo check-out, pozri najčastejšie [otázky o check-out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="65a1b-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="4ba5d-108">Pozrite si viac najčastejších otázok o registrácii alebo check-out, pozri najčastejšie [otázky o check-out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span><span class="sxs-lookup"><span data-stu-id="4ba5d-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 

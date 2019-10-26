@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528530"
 ---
-# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="3f026-102">Obmedzenia webových prostriedkov webovej stránky (HTML)</span><span class="sxs-lookup"><span data-stu-id="3f026-102">Webpage (HTML) web resources limitations</span></span>
+# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="1c84e-102">Obmedzenia webových prostriedkov webovej stránky (HTML)</span><span class="sxs-lookup"><span data-stu-id="1c84e-102">Webpage (HTML) web resources limitations</span></span>
 
-* <span data-ttu-id="3f026-103">Webový prostriedok HTML nemôže obsahovať žiadny kód, ktorý musí byť vykonaný na serveri.</span><span class="sxs-lookup"><span data-stu-id="3f026-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="3f026-104">ASP.NET stránky nie je možné odovzdať ako webové zdroje HTML.</span><span class="sxs-lookup"><span data-stu-id="3f026-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
+* <span data-ttu-id="1c84e-103">Webový prostriedok HTML nemôže obsahovať žiadny kód, ktorý musí byť vykonaný na serveri.</span><span class="sxs-lookup"><span data-stu-id="1c84e-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="1c84e-104">ASP.NET stránky nie je možné odovzdať ako webové zdroje HTML.</span><span class="sxs-lookup"><span data-stu-id="1c84e-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
 
-* <span data-ttu-id="3f026-105">Webové zdroje HTML môžu akceptovať len obmedzený počet parametrov reťazca dotazu.</span><span class="sxs-lookup"><span data-stu-id="3f026-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="3f026-106">Ďalšie informácie: [preniesť parametre na webové zdroje HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="3f026-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
+* <span data-ttu-id="1c84e-105">Webové zdroje HTML môžu akceptovať len obmedzený počet parametrov reťazca dotazu.</span><span class="sxs-lookup"><span data-stu-id="1c84e-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="1c84e-106">Ďalšie informácie: [preniesť parametre na webové zdroje HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="1c84e-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
 
-[<span data-ttu-id="3f026-107">Webové zdroje webových stránok (HTML)</span><span class="sxs-lookup"><span data-stu-id="3f026-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[<span data-ttu-id="1c84e-107">Webové zdroje webových stránok (HTML)</span><span class="sxs-lookup"><span data-stu-id="1c84e-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

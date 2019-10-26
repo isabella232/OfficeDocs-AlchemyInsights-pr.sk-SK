@@ -14,14 +14,14 @@ ms.custom:
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
 ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36736124"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="65c55-102">Povolenie a používanie tímov Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="65c55-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="9d069-102">Povolenie a používanie tímov Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="9d069-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="65c55-103">Ak nemáte prístup k tímom Microsoft Teams, pozrite sa, ako získam [prístup k tímom Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="65c55-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
+<span data-ttu-id="9d069-103">Ak nemáte prístup k tímom Microsoft Teams, pozrite sa, ako získam [prístup k tímom Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="9d069-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
 
-<span data-ttu-id="65c55-104">Ak už máte tímy Microsoft a potrebujete vedieť, ako ho nakonfigurovať a spravovať, pozrite si [Správa nastavení Microsoft teams pre vašu organizáciu](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span><span class="sxs-lookup"><span data-stu-id="65c55-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>
+<span data-ttu-id="9d069-104">Ak už máte tímy Microsoft a potrebujete vedieť, ako ho nakonfigurovať a spravovať, pozrite si [Správa nastavení Microsoft teams pre vašu organizáciu](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span><span class="sxs-lookup"><span data-stu-id="9d069-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>

@@ -12,15 +12,15 @@ ms.custom:
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
 ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36754315"
 ---
-# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="eb2ac-102">Chybové hlásenie služby spravovaných metaúdajov</span><span class="sxs-lookup"><span data-stu-id="eb2ac-102">Managed Metadata Service error message</span></span>
+# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="d175a-102">Chybové hlásenie služby spravovaných metaúdajov</span><span class="sxs-lookup"><span data-stu-id="d175a-102">Managed Metadata Service error message</span></span>
 
-<span data-ttu-id="eb2ac-103">Keď otvoríte ukladací priestor výrazov, môže sa zobraziť chybové hlásenie: "služba spravovaných metaúdajov alebo pripojenie momentálne nie je k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="eb2ac-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="eb2ac-104">Fond aplikácií alebo webová služba spravovaných metaúdajov nemusí byť spustená.</span><span class="sxs-lookup"><span data-stu-id="eb2ac-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="eb2ac-105">Obráťte sa na správcu. "</span><span class="sxs-lookup"><span data-stu-id="eb2ac-105">Please Contact your Administrator."</span></span>
+<span data-ttu-id="d175a-103">Keď otvoríte ukladací priestor výrazov, môže sa zobraziť chybové hlásenie: "služba spravovaných metaúdajov alebo pripojenie momentálne nie je k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="d175a-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="d175a-104">Fond aplikácií alebo webová služba spravovaných metaúdajov nemusí byť spustená.</span><span class="sxs-lookup"><span data-stu-id="d175a-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="d175a-105">Obráťte sa na správcu. "</span><span class="sxs-lookup"><span data-stu-id="d175a-105">Please Contact your Administrator."</span></span>
   
-<span data-ttu-id="eb2ac-106">Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prosím, prihláste podporu prípad.</span><span class="sxs-lookup"><span data-stu-id="eb2ac-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="eb2ac-107">Chápeme, že 24 hodín sa môže zdať ako dlhá doba.</span><span class="sxs-lookup"><span data-stu-id="eb2ac-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="eb2ac-108">V mnohých prípadoch už pracujeme na riešení, takže nám prosím poskytnite aspoň 24 hodín.</span><span class="sxs-lookup"><span data-stu-id="eb2ac-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="d175a-106">Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prosím, prihláste podporu prípad.</span><span class="sxs-lookup"><span data-stu-id="d175a-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="d175a-107">Chápeme, že 24 hodín sa môže zdať ako dlhá doba.</span><span class="sxs-lookup"><span data-stu-id="d175a-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="d175a-108">V mnohých prípadoch už pracujeme na riešení, takže nám prosím poskytnite aspoň 24 hodín.</span><span class="sxs-lookup"><span data-stu-id="d175a-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   
