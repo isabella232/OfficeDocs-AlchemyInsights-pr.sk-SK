@@ -1,9 +1,8 @@
 ---
-title: 714 povolenie externých odosielateľov do e-mailových distribučných zoznamov
+title: 714 umožňuje externým odosielateľom e-mailové distribučné zoznamy
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506566"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768239"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="e55a1-102">Povoliť externých odosielateľov správ do distribučných skupín</span><span class="sxs-lookup"><span data-stu-id="e55a1-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="a68c2-102">Povoliť externým odosielateľom odosielať správy do distribučných skupín</span><span class="sxs-lookup"><span data-stu-id="a68c2-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="e55a1-103">Ak používatelia mimo vašej organizácie chyby pri ich odosielať správy do distribučných skupín, alebo si chcete overiť, že distribučné skupiny nakonfigurované prijímať poštu z externých odosielateľov, postupujte nasledovne:</span><span class="sxs-lookup"><span data-stu-id="e55a1-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="a68c2-103">Ak používatelia mimo organizácie dostávajú chyby pri odosielaní správ do distribučných skupín, alebo chcete overiť, že distribučné skupiny sú nakonfigurované na prijímanie pošty od externých odosielateľov, postupujte nasledovne:</span><span class="sxs-lookup"><span data-stu-id="a68c2-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="e55a1-104">Prejdite do **skupiny** uzol na [portáli pre správcov služieb Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="e55a1-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="a68c2-104">V centre spravovania balíka Office 365 prejdite na[](https://portal.office.com/adminportal/home#/groups)  >  **stránku skupiny skupín**.</span><span class="sxs-lookup"><span data-stu-id="a68c2-104">In the Office 365 admin center, go to the **Groups** > [Groups](https://portal.office.com/adminportal/home#/groups) page.</span></span>  
 
-2. <span data-ttu-id="e55a1-105">Vyberte distribučné skupiny a skupiny objektov Pozrite sa, ktoré sa zobrazí, kliknite na **Upraviť** v sekcii, ktorá obsahuje **Povoliť externých odosielateľov**.</span><span class="sxs-lookup"><span data-stu-id="e55a1-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
+2. <span data-ttu-id="a68c2-105">Vyberte distribučnú skupinu a na table vlastnosti skupiny vyberte kartu **nastavenia** .</span><span class="sxs-lookup"><span data-stu-id="a68c2-105">Select the distribution group, and in the group properties pane, select the **Settings** tab.</span></span>
 
-3. <span data-ttu-id="e55a1-106">V **Upraviť podrobnosti** Pozrite sa ktoré sa zobrazí, skontrolujte, či **umožniť ľuďom mimo mojej organizácie poslať email do tejto distribučnej skupiny.**</span><span class="sxs-lookup"><span data-stu-id="e55a1-106">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.**</span></span> <span data-ttu-id="e55a1-107">**zapnutý**, a potom kliknite na tlačidlo **Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="e55a1-107">is **On**, and then click **Save**.</span></span>
+3. <span data-ttu-id="a68c2-106">Vyberte možnosť **Povoliť externým odosielateľom túto skupinu e-mailom**a potom vyberte položku **Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="a68c2-106">Select **Allow external senders to email this group**, and then select **Save**.</span></span>
