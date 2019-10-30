@@ -2,7 +2,6 @@
 title: Vytvorenie lokality SharePoint
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738212"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769606"
 ---
 # <a name="create-a-sharepoint-site"></a>Vytvorenie lokality SharePoint
 
@@ -31,10 +30,10 @@ Informácie o vytváraní lokality SharePoint nájdete v nasledujúcich témach:
 
 
   
-> [! Tipy
-> - Nemôžete vytvoriť lokalitu s rovnakou adresou URL existujúcej lokality. Ak ste odstránili lokalitu a chcete znova použiť adresu URL, je možné, že odstránená lokalita stále existuje v časti **odstránené lokality**. Ak chcete správu odstránených lokalít Zobraziť, [odstráňte lokalitu](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Ak chcete úplne odstrániť lokalitu pomocou prostredia PowerShell, pozrite si príklad rutiny cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Niektorí používatelia nemusia byť schopní vytvoriť lokalitu. Pozrite si [Správa vytvárania lokalít v SharePointe Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Je možné, že stránka sa objaví prilepené na **Vytvorenie** dlhšie, než sa očakávalo. Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prihláste sa prosím lístok podpory. V mnohých prípadoch už pracujeme na riešení. Prosím, dajte nám aspoň 24 hodín na dokončenie riešenia.
-> - Ak potrebujete vytvoriť novú tímovú lokalitu, ktorá nezahŕňa skupinu Office 365, 
+**Tipy:**
+- Nemôžete vytvoriť lokalitu s rovnakou adresou URL existujúcej lokality. Ak ste odstránili lokalitu a chcete znova použiť adresu URL, je možné, že odstránená lokalita stále existuje v časti **odstránené lokality**. Ak chcete správu odstránených lokalít Zobraziť, [odstráňte lokalitu](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Ak chcete úplne odstrániť lokalitu pomocou prostredia PowerShell, pozrite si príklad rutiny cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- Niektorí používatelia nemusia byť schopní vytvoriť lokalitu. Pozrite si [Správa vytvárania lokalít v SharePointe Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Je možné, že stránka sa objaví prilepené na **Vytvorenie** dlhšie, než sa očakávalo. Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prihláste sa prosím lístok podpory. V mnohých prípadoch už pracujeme na riešení. Prosím, dajte nám aspoň 24 hodín na dokončenie riešenia.
+- Ak potrebujete vytvoriť novú tímovú lokalitu, ktorá nezahŕňa skupinu Office 365, 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Office 365 URL a IP adresy
+title: Office 365 adresy URL a adresy IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522050"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775330"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL a IP rozsahu adries.
+# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 adresy URL a rozsahy adries IP
 
-Office 365 vyžaduje pripojenie na internet. Koncové body v tomto článku, [Office 365 URL a rozsahy adries IP](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), musia byť dostupné pre používateľov na prístup k Office 365.
+Balík Office 365 vyžaduje pripojenie na Internet prostredníctvom špecifických adries IP nazývaných *koncové body*.
+Zoznam koncových bodov, ktoré je potrebné dosiahnuteľné, nájdete v téme [Office 365 adresy URL a rozsahy adries IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+Office 365 adresa IP a URL webová služba vám pomôže lepšie identifikovať a odlíšiť Office 365 sieťovej prevádzky, čo uľahčuje vyhodnotiť, konfigurovať a zostať aktuálne so zmenami. Pozri [Office 365 IP adresu a webovú službu URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

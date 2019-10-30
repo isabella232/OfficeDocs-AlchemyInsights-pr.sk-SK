@@ -8,16 +8,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 1bcaa2d45179e38a47569fba172300a259c5b661
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36754819"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769534"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>Vytvorenie a úprava moderných stránok na lokalite SharePoint
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>Vytvorenie a úprava moderných stránok na lokalite SharePoint
 
-Môžete upravovať súbory a stránky rýchlo a ľahko, a vyzerajú skvele na akomkoľvek zariadení. Pre viac informácií prosím navštívte nižšie uvedené odkazy.
+Môžete upravovať súbory a stránky rýchlo a ľahko, a vyzerajú skvele na akomkoľvek zariadení. Ďalšie informácie nájdete na nižšie uvedených odkazoch.
 
 
 - [Vytvorenie a úprava moderných stránok na lokalite SharePoint](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)

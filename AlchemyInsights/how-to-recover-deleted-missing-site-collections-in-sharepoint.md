@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756151"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769030"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Obnovenie chýbajúcich alebo odstránených kolekcií lokalít
 
-Ako obnoviť chýbajúce alebo odstránené kolekcie lokalít.
+Nájdete v nasledujúcich článkoch informácie o možnostiach obnovenia chýbajúce alebo odstránené kolekcie lokalít SharePoint.
 
 [Obnovenie odstránených lokalít](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ Ako obnoviť chýbajúce alebo odstránené kolekcie lokalít.
 
 Ak nemôžete nájsť stránky, ktoré chcete [Vyhľadať denník auditu v Office 365 &amp; zabezpečenia súladu centrum](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Poznámka**: "moderné" tímové lokality nie sú viditeľné v **KLASICKEJ** SharePoint admin UI. K zoznamu "moderných" lokalít môžete pristupovať z [nového centra spravovania služby SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Poznámka:** "Moderné" tímové lokality sa nezobrazujú v **klasickom** používateľskom rozhraní služby SharePoint admin. K zoznamu "moderných" lokalít môžete pristupovať z [nového centra spravovania služby SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

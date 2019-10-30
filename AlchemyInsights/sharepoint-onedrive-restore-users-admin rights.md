@@ -3,26 +3,25 @@ title: Riešenie problémov prístup odmietnutý správy OneDrive pre podnikové
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 11/14/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 39f9b9b1ca22f6e5959e2b431fb373b0002c0a92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3c40ad76a8961a3d0b4963483291c2a1364c51d3
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507826"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766726"
 ---
 # <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Riešenie problémov prístup odmietnutý správy OneDrive pre podnikové lokality
 
-Tento problém sa vyskytuje najčastejšie keď používateľ odstráni a znova vytvorí s rovnaké hlavné meno používateľa (UPN). Nové konto je vytvorený pomocou rôznych PUID služby (Passport jedinečný identifikátor) hodnotu. Keď sa používateľ pokúsi prístup kolekcie lokalít alebo ich OneDrive, používateľ má nesprávny PUID služby. Druhý scenár zahŕňa adresár synchronizácia so Active Directory organizačnú jednotku (OU). Ak používatelia už prihlásený do služby SharePoint, a potom sa presunie na rôznych OU a resynced so službou SharePoint, tento problém sa môže vyskytnúť.
+Tento problém sa vyskytuje najčastejšie pri odstránení používateľa a znova vytvoriť s rovnakým hlavným menom používateľa (UPN). Nový účet je vytvorený pomocou iného PUID (Passport unique ID) hodnotu. Keď sa používateľ pokúsi získať prístup k kolekcii lokalít alebo ich OneDrive, používateľ má nesprávne PUID. Druhý scenár zahŕňa synchronizáciu adresárov s Active Directory organizačnú jednotku (OU). Ak používatelia už prihlásení do služby SharePoint a potom sa premiestnia do iného OU a resynced s SharePoint, môžu sa vyskytnúť tento problém.
 
-1. Na vyriešenie tohto problému by ste mali obnoviť pôvodný UPN s kroky v tomto článku,[obnovení používateľa v balíku Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Ak nemôžete obnoviť pôvodný používateľ mali odstrániť starý používateľské z OneDrive stránky pomocou týchto krokov, [Odstránenie používateľa zo zoznamu používateľov info](). 
-3. Po sa to deje, môžete si overiť má používateľ admin práva na OneDrive stránky pomocou nasledujúcich krokov na [Pridanie admin's používateľa OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. Ak chcete vyriešiť tento problém, mali by ste obnoviť pôvodné UPN kroky v článku, [obnovenie používateľa v balíku Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Ak nemôžete obnoviť pôvodného používateľa, mali by ste odstrániť starého používateľa z OneDrive stránky pomocou týchto krokov, [odstrániť používateľa zo zoznamu informácie o používateľovi](). 
+3. Po dokončení tohto postupu môžete overiť, že používateľ má administrátorské práva na lokalitu OneDrive podľa krokov na [Pridanie admin pre používateľa OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
 
-Ďalšie informácie o úrovniach povolení nájdete v článku [pochopenie úrovne povolení v službe SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Ďalšie informácie o úrovniach povolení nájdete [v článku Vysvetlenie úrovní povolení v službe SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).

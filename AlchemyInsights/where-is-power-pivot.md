@@ -3,7 +3,6 @@ title: Kde je moc Pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530973"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769858"
 ---
 # <a name="where-is-power-pivot"></a>Kde je moc Pivot?
 
-Existujú tri dôvody, prečo nechcete vidieť Power Pivot:
+Existujú tri dôvody, prečo sa nemusí zobraziť Power Pivot:
   
-**Vaša verzia programu Excel neobsahuje to**
+**Vaša verzia programu Excel neobsahuje**
   
-Nie všetky verzie programu Excel obsahujú moc Pivot. Budete musieť inovovať na verziu balíka Office, ktorý zahŕňa moc Pivot. [Pozrite si zoznam podporovaných verzií.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Nie všetky verzie programu Excel obsahujú Power Pivot. Budete musieť inovovať na verziu balíka Office, ktorá obsahuje Power Pivot. [Pozrite si zoznam podporovaných verzií.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Ste nepovolili Power Pivotu**
+**Ste nepovolili napájanie Pivot**
   
-Ak pracujete vo verzii programu Excel, ktorý podporuje Power Pivot, skontrolujte, že doplnok je povolená:
+Ak pracujete vo verzii programu Excel, ktorá podporuje funkciu Power Pivot, skontrolujte, či je doplnok zapnutý:
   
-1. Vyberte **súbor** \> **Možnosti** \> **Doplnky**.
+1. Vyberte **** \> **** možnosti \> súboru **Add-ins**.
 
-2. V rozbaľovacom poli **Správa** vyberte **Doplnky COM** a kliknite na tlačidlo **Go**.
+2. V rozbaľovacom poli **Spravovať** vyberte **Doplnky architektúry com** a kliknite na tlačidlo **Prejsť**.
 
-3. V dialógovom okne **Doplnky architektúry Com** začiarknite políčko **Microsoft Power Pivotu programu Excel**a kliknite na tlačidlo **OK**.
+3. V dialógovom okne **Doplnky architektúry com** začiarknite políčko vedľa položky **Microsoft Power Pivot pre program Excel**a potom kliknite na tlačidlo **OK**.
 
-**Máte viaceré odbery alebo účtov**
+**Máte viacero odberov alebo kont**
   
-Môžete mať rôzne predplatných na Office 365 priradené rôzne používateľské účty. Uistite sa, že ste prihlásení do konta pomocou verzie programu Excel, ktorý podporuje moc Pivot. Pozrite si zoznam [podporovaných verzií](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)a pokynov prepínať [medzi rôznymi kontami balíka Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Možno máte rôzne Office 365 predplatné priradené rôzne používateľské kontá. Skontrolujte, či ste prihlásený/-á do konta s verziou programu Excel, ktorá podporuje funkciu Power Pivot. Skontrolujte zoznam [podporovaných verzií](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)a postupujte podľa pokynov na [Prepínanie medzi rôznymi kontami balíka Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

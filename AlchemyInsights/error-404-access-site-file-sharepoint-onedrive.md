@@ -2,19 +2,18 @@
 title: 'Chyba 404: súbor sa nenašiel'
 ms.author: efrene
 author: efrene
-ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740228"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769282"
 ---
-# <a name="error-404-file-not-found"></a>Chyba 404: súbor sa nenašiel
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Chyba 404: súbor sa nenašiel v službe SharePoint alebo OneDrive
 
 **Chyba 404: súbor sa nenašiel** , keď používatelia sa pokúša získať prístup k lokalite alebo súboru SharePoint alebo OneDrive. Toto je často spôsobené stránky alebo súboru alebo skupiny dostať premenované, premiestnené alebo odstránené.
 Používatelia sa vyskytne chyba pri pokuse o prístup k koreňovej kolekcii lokalít a bola odstránená.
