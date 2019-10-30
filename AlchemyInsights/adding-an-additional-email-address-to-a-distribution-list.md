@@ -1,9 +1,8 @@
 ---
-title: 713 pridať ďalšiu e-mailovú adresu do distribučného zoznamu
+title: 713 Pridanie ďalšej e-mailovej adresy do distribučného zoznamu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494794"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766222"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Pridať e-mailovú adresu distribučnej skupiny
+# <a name="add-an-email-address-for-a-distribution-group"></a>Pridanie e-mailovej adresy pre distribučnú skupinu
 
-Ak chcete pridať e-mailové adresy existujúcej distribučnej skupiny, postupujte nasledovne:
+Ak chcete pridať e-mailové adresy pre existujúcu distribučnú skupinu, postupujte nasledovne:
 
-1. [Exchange admin center](https://outlook.office365.com/ecp/), prejdite na **príjemcov** \> **skupín**.
+1. [Exchange Admin Center](https://outlook.office365.com/ecp/), prejdite na **Príjemcovia** \> **skupiny**.
 
-2. Vyberte distribučnú skupinu, ktorú chcete upraviť, a potom kliknite na tlačidlo **Upraviť**.
+2. Vyberte distribučnú skupinu, ktorú chcete upraviť, a potom kliknite na položku **Upraviť**.
 
-3. Vo vlastnostiach skupiny, prejdite na kartu **Možnosti e-mailu** pridať e-mailové adresy. 
+3. Vo vlastnostiach skupiny prejdite na kartu **Možnosti e-mailu** a pridajte e-mailové adresy. 
 
-Ďalšie informácie nájdete v časti [Možnosti e-mailu](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Ďalšie informácie nájdete v téme [Možnosti e-mailu](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
