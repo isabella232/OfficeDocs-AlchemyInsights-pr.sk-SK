@@ -1,5 +1,5 @@
 ---
-title: 975 chcete spoločnosti Microsoft nahlásiť spam falošne pozitívne?
+title: 975 chceli by ste nahlásiť spam falošne pozitívne spoločnosti Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: dcae6f9b0a98d360e541309fd7017d864ace5959
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a35b7217b28001bbe23fab0d78f855b50c353bc4
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666459"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911610"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Chceli by ste spoločnosti Microsoft nahlásiť spam falošne pozitívne?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Chceli by ste nahlásiť spam falošne pozitívne spoločnosti Microsoft?
 
-Ako admin, je najlepší spôsob, ako zistiť, prečo neoprávneného získavania údajov alebo nevyžiadanej pošty správa bola doručená predložiť vzorky Microsoft v [Podaní Explorer](https://protection.office.com/reportsubmission). Aby to easer, môžete povoliť používateľom hlásiť priamo do spoločnosti Microsoft prostredníctvom [doplnok hlásenie](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Ako správca, najlepší spôsob, ako zistiť, prečo phishing alebo spam správa bola doručená je predložiť vzorky spoločnosti Microsoft v [podaní Explorer](https://protection.office.com/reportsubmission). Aby bolo easer, môžete povoliť používateľom hlásiť priamo spoločnosti Microsoft prostredníctvom [Správa správa Add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-Odporúčame opatrnosť Ak sa rozhodnete obísť [filtre nevyžiadanej pošty Office 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Odporúčame opatrnosť, ak sa rozhodnete [obísť Office 365 spam filtre](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+
+Vedeli **ste, že?**: teraz môžete predkladať vzorky priamo zo [sledovania správ](https://protection.office.com/messagetrace) a E5/ATP Plan 2 zákazníci môžu predložiť vzorky z [programu Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
