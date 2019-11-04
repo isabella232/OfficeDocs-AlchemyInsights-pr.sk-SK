@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660951"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921829"
 ---
 # <a name="update-payment-details"></a>Aktualizácia podrobností o platbe
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660951"
 4. Aktualizujte údaje a potom vyberte položku **Uložiť**.
 
 5. Ak chcete odstrániť tento spôsob platby, vyberte položku **Odstrániť**.
+
+**Riešenie problémov**
+
+Ak sa vyskytnú problémy s načítaním stránky, pokúste sa webovú stránku otvoriť v inom prehliadači alebo sa ju pokúste otvoriť v okne súkromného prehliadača, napríklad okne v režime InPrivate prehliadača Microsoft Edge alebo okne inkognito prehliadača Google Chrome. 
 
 Ďalšie informácie nájdete v téme [Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového účtu v službách Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) a [Riešenie problémov s kreditnými kartami alebo bankovými účtami](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
