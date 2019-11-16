@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36557264"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="5a233-102">Vytvorenie priečinka</span><span class="sxs-lookup"><span data-stu-id="5a233-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="ecde5-102">Vytvorenie priečinka</span><span class="sxs-lookup"><span data-stu-id="ecde5-102">Create a folder</span></span>
 
-1. <span data-ttu-id="5a233-103">V dolnej časti tably priečinkov v programe Outlook na webe vyberte položku **nový priečinok**.</span><span class="sxs-lookup"><span data-stu-id="5a233-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="5a233-104">Ak chcete zobraziť tlačidlo **nový priečinok** , možno bude potrebné posunúť sa nadol na table priečinkov.</span><span class="sxs-lookup"><span data-stu-id="5a233-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-1. <span data-ttu-id="5a233-105">Do textového poľa zadajte názov priečinka a stlačte kláves ENTER.</span><span class="sxs-lookup"><span data-stu-id="5a233-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="ecde5-103">V dolnej časti tably priečinkov v programe Outlook na webe vyberte položku **nový priečinok**.</span><span class="sxs-lookup"><span data-stu-id="ecde5-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="ecde5-104">Ak chcete zobraziť tlačidlo **nový priečinok** , možno bude potrebné posunúť sa nadol na table priečinkov.</span><span class="sxs-lookup"><span data-stu-id="ecde5-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+1. <span data-ttu-id="ecde5-105">Do textového poľa zadajte názov priečinka a stlačte kláves ENTER.</span><span class="sxs-lookup"><span data-stu-id="ecde5-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="5a233-106">Ďalšie informácie nájdete v téme [Práca s priečinkami správ v programe Outlook na webe](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="5a233-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="ecde5-106">Ďalšie informácie nájdete v téme [Práca s priečinkami správ v programe Outlook na webe](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="ecde5-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
