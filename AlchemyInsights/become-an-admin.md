@@ -13,14 +13,14 @@ ms.custom:
 - "71"
 - "13"
 ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768383"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="25119-102">Staňte sa admin</span><span class="sxs-lookup"><span data-stu-id="25119-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="5c632-102">Staňte sa admin</span><span class="sxs-lookup"><span data-stu-id="5c632-102">Become an Admin</span></span>
 
-<span data-ttu-id="25119-103">Prevziať rolu správcu pre vašu organizáciu, musíte prevziať nájomcu v balíku Office 365.</span><span class="sxs-lookup"><span data-stu-id="25119-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
+<span data-ttu-id="5c632-103">Prevziať rolu správcu pre vašu organizáciu, musíte prevziať nájomcu v balíku Office 365.</span><span class="sxs-lookup"><span data-stu-id="5c632-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
   
-<span data-ttu-id="25119-104">Postupujte podľa pokynov v tejto príručke: [do admin prevzatie v balíku Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="25119-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="5c632-104">Postupujte podľa pokynov v tejto príručke: [do admin prevzatie v balíku Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="5c632-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
