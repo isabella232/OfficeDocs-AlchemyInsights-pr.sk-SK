@@ -1,5 +1,5 @@
 ---
-title: Kopírovať alebo presúvať položky v knižnici dokumentov lokality SharePoint
+title: Kopírovanie alebo premiestňovanie položiek v knižnici dokumentov lokality SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,31 +13,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 0db9b6b20cb77c709c24273e089c2e511535e7ab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516254"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711771"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopírovať alebo presúvať položky v knižnici dokumentov lokality SharePoint
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopírovanie alebo premiestňovanie položiek v knižnici dokumentov lokality SharePoint
 
-Môžete kopírovať a premiestňovať súbory, priečinky a odkazy na rôzne umiestnenia v rámci knižnice dokumentov. Položky môžete skopírovať aj lokalitách. Ak ste [nastaviť možnosti cielené uvoľnenie](https://go.microsoft.com/fwlink/?linkid=622980), môžete presúvať položky medzi lokalitami, príliš.
+Súbory, priečinky a prepojenia môžete kopírovať a presúvať do rôznych umiestnení v knižnici dokumentov. Môžete tiež kopírovať položky naprieč lokalitami. 
   
-1. V prehľadávači prejdite na súbory, priečinky alebo odkazy, ktoré chcete presunúť, a kliknite na tlačidlo **skopírovať** alebo **presunúť**.
+1. V prehľadávači vyhľadajte súbory, priečinky alebo prepojenia, ktoré chcete premiestniť, a potom kliknite na položku **Kopírovať do** alebo **premiestniť do**.
 
     > [!NOTE]
-    > **Kopírovať do** a **presunúť** nie sú dostupné, ak používate klasické skúsenosti SharePoint Online.
+    > Ak používate klasický zážitok z lokality SharePoint Online, **Kopírovanie do** a **premiestnenie** nie je k dispozícii.
   
-2. V časti **Vyberte cieľové miesto**, vyberte umiestnenie, do ktorého chcete skopírovať alebo premiestniť položky alebo kliknite na tlačidlo **Prehľadávať stránky** a pozrite sa na úplný zoznam lokalít.
+2. V časti **vybrať cieľ**vyberte umiestnenie, do ktorého chcete kopírovať alebo premiestniť položky, alebo kliknite na položku **Prehľadávať lokality** a zobrazte úplný zoznam lokalít.
 
     > [!NOTE]
-    > Ak nevidíte iných lokalít uvedených pri kopírovaní položky, kopírovanie cez stránky nebol nakonfigurovaný. Povoliť, prejdite na stránku nastavenia lokality SharePoint admin Center a kliknite na tlačidlo **OK**.
+    > Ak nevidíte iné lokality, ktoré sú uvedené pri kopírovaní položiek, kopírovanie naprieč lokalitami nebolo nakonfigurované. Ak ho chcete povoliť, prejdite na stránku nastavenia centra spravovania služby SharePoint a kliknite na tlačidlo **OK**.
   
-    Ak chcete vytvoriť nový priečinok, vyberte miesto v hierarchii priečinka, kliknite na položku **nový priečinok**, zadajte názov priečinka a kliknite na políčko Uložiť názov.
+    Ak chcete vytvoriť nový priečinok, vyberte umiestnenie v hierarchii priečinkov, kliknite na položku **nový priečinok**, zadajte názov priečinka a kliknutím na znak začiarknutia uložte názov.
 
-3. Kliknite **tu skopírovať** alebo **presunúť sem**.
+3. Kliknite na tlačidlo **Kopírovať tu** alebo **presunúť tu**.
 
-> [!NOTE]
-> Môžete skopírovať až 500 MB súborov a priečinkov naraz. > pri kopírovaní dokumentov, ktoré majú histórie verzií, len Najnovšia verzia sa skopíruje. Pri presúvaní dokumentov, ich História je tiež presunutý.
+    > [!NOTE]
+    > Môžete skopírovať až 500 MB súborov a priečinkov naraz. > pri kopírovaní dokumentov, ktoré majú históriu verzií, sa skopíruje iba Najnovšia verzia. Keď presuniete dokumenty, ich História sa tiež presunie.
   
+ Keď sa súbor pohybuje, stále sa zobrazí v zdrojovom adresári, kým sa úplne nepresunie do cieľového miesta a potom sa odstráni. Súbor zostane v zdroji lokalít Kôš po dokončení presunu a podliehať normálny plán recyklácie, ak používateľ obnoví z koša,.
+
+Ďalšie informácie nájdete v téme:
+
+ - [Premiestnenie alebo kopírovanie súborov v službe SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (článok podpory balíka Office)
+ - [Presun súborov z ľubovoľného priečinka v balíku Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog článok)  
