@@ -1,5 +1,5 @@
 ---
-title: Microsoft tímov - Obnovenie zmazaných tímovej lokality
+title: Microsoft teams-obnovenie odstránenej tímovej lokality
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666963"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627481"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Obnovenie odstránených tím v Microsoft Teams
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Obnovenie odstráneného tímu v programe Microsoft teams
 
-Urobil omylom odstránite tím? Ak bolo menej ako 30 dní, pretože ste odstránili tím, ste v šťastie; môžete ho obnoviť. Tak chcete urobiť, postupujte podľa pokynov tu: [Obnovenie odstránenej tímu](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-  
+Omylom ste odstránili tím? Ak je to už menej ako 30 dní, odkedy ste odstránili tím, máte šťastie; môžete ho obnoviť. Postupujte podľa krokov tu: [Obnovenie odstráneného tímu](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

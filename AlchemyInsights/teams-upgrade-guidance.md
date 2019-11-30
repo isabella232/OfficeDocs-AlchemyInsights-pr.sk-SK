@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469115"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626327"
 ---
 # <a name="microsoft-teams-upgrade"></a>Inovácia v programe Microsoft teams
 
@@ -32,4 +32,4 @@ ms.locfileid: "37469115"
 
 [Vykonanie inovácie z programu Skype pre podnikové lokálne tímy](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Skontrolujte stav Skype Business online tímy inovovať PowerShell](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Skontrolujte stav Skype Business online tímy inovovať PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: d85206cd0fc4844187665369191839da54f49d84
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376822"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627625"
 ---
 # <a name="join-a-meeting-in-teams"></a>Pripojenie k schôdzi v tímoch
 
@@ -24,6 +24,6 @@ Ak sa chcete pripojiť k schôdzi tímov, najprv nastavte politiky schôdzí a p
 
 - Nastavte politiky schôdzí, ktoré kontrolujú, kto sa bude môcť pripojiť k schôdzi ako [účastníci alebo hostia](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- Použite [rutiny cmdlet prostredia](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview) Microsoft teams PowerShell, aby sa zmeny politiky.    
+- Použite [rutiny cmdlet prostredia](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft teams PowerShell, aby sa zmeny politiky.    
 
 **Poznámka:** Zmeny politiky sa prejavia až 24 hodín.
