@@ -11,23 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 5a99182e94509852aa94ae19822808b9d129a4a1
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 6fe5b4e1d1ef844292ccb92ff9dd792f22e47c60
+ms.sourcegitcommit: 3f825fedaf220d6c3883cdac4c56279fbaa95eec
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627553"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40019113"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft teams-hosť prístup
 
-Ak potrebujete pomoc s komunikáciou s používateľmi mimo organizácie v tímoch, musíte sa rozhodnúť, či chcete použiť [hosťovskej prístup alebo externý prístup (federácia)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), alebo povoliť obidva z nich.
+Ak potrebujete pomoc s komunikáciou s používateľmi mimo organizácie v tímoch, musíte sa rozhodnúť, či chcete použiť [hosťovskej prístup alebo externý prístup (federácia)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), alebo môžete použiť oboje.
 
-Medzi týmito funkciami sú niektoré dôležité rozdiely. Môžete preferovať hosť prístup z dôvodu širšej množiny funkcií. Externý prístup (federácia) je však skvelý pre jednoduchšiu komunikáciu s externými používateľmi. Nezabudnite si [prezrieť rozdiely](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) a vybrať ten najvhodnejší pre vaše obchodné potreby.
+Nezabudnite si [prezrieť rozdiely](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) pochopiť funkcie, ktoré sú k dispozícii pre každého.  Napríklad externý prístup (federácia) umožňuje 1:1 komunikácie, ako chat a prítomnosť.  Federovaní používatelia nemôžu zúčastňovať tímov spolupráce však.  Ak chcete, aby sa externý používateľ pripojil k konverzáciám kanálov alebo zdieľali súbory v tímoch, musíte zapnúť prístup hosťa.
 
-Ak chcete povoliť prístup hosťa, uistite sa, že ste postupovali podľa všetkých krokov v [kontrolnom zozname pre prístup hosťa](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Po úplnom dokončení musíte [počkať až 24 hodín, kým](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) sa nastavenia prejavia.
+**Možnosť 1: Zapnutie prístupu hosťa**   
+V tíme admin Center, prejdite na [org široké nastavenia > hosť prístup](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) a zapnúť "povoliť hosť prístup v tímoch".  Pre nájomcu so všetkými ostatnými predvolené nastavenia, to by malo byť všetko, čo musíte urobiť.  Ak chcete prispôsobiť konfiguráciu hosťovskej konfigurácie, uistite sa, že budete postupovať podľa všetkých krokov v [Kontrolný zoznam pre hosťovskej prístup](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Po úplnom dokončení musíte [počkať až 24 hodín, kým](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) sa nastavenia prejavia.
 
 Ak ste presvedčení, že ste dokončili všetky kroky v zozname, a to bolo viac ako 24 hodín, pokračujte a pokúste sa [Pridať hosťa do svojho tímu](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Ak by ste tiež chceli povoliť externý prístup (federácia), postupujte podľa všetkých krokov v [nechajte tímy používateľov rozprávať a komunikovať s používateľmi v inej organizácii](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
-
 Ďalšie informácie vrátane videozáznamov nájdete [v téme prístup hostí v programe Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
+
+**Možnosť 2: Zapnutie externého prístupu (federácia)** Ak by ste tiež chceli zapnúť externý prístup (federácia), v tíme admin Center prejsť na [org-široké nastavenia > externý prístup](https://admin.teams.microsoft.com/company-wide-settings/external-communications) a zapnúť "používatelia môžu komunikovať s Skype pre podniky a tímy užívateľov", a potom postupujte podľa všetkých krokov v [nechať tímy používatelia chat a komunikovať s používateľmi v inej organizácii](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+
+
