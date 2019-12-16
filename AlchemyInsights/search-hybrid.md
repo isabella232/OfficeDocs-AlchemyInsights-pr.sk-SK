@@ -1,7 +1,7 @@
 ---
-title: Vyhľadávanie a hybrid
-ms.author: efrene
-author: efrene
+title: Vyhľadávanie a hybridné
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504838"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048703"
 ---
-# <a name="search-and-hybrid"></a>Vyhľadávanie a hybrid
+# <a name="search-and-hybrid"></a>Vyhľadávanie a hybridné
 
-- Potrebujete informácie o hybridné a federované hľadanie v službe SharePoint Online? Ak áno, pozrite si [Tento článok](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Potrebujete informácie o hybridnom a združenom vyhľadávaní v SharePointe Online? Ak áno, pozrite si [Tento článok](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-- Potrebujete informácie o plánovaní hybridné federované hľadanie?  Ak áno, pozrite si [Tento článok](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- Potrebujete informácie o plánovaní hybridného externého vyhľadávania?  Ak áno, pozrite si [Tento článok](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
 
 
 

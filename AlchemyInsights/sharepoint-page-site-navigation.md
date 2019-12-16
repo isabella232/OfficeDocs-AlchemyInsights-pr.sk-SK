@@ -1,7 +1,7 @@
 ---
 title: Začíname s SharePointom online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750139"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044218"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navigácia na lokalite a stránke v lokalitách SharePoint
 
-Základné princípy a osvedčené postupy pre navigáciu na webe a stránky sú rovnako použiteľné pre klasické aj moderné architektúry SharePoint. Vaše možnosti implementácie navigácie sa však líšia na základe rámca pre vaše stránky a intranet. Napríklad zdedené navigačné zážitky dostupné v klasických hierarchií lokality SharePoint (lokality s podlokalitami) nie sú k dispozícii v modernom zážitku, ale [lokality rozbočovača](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) poskytujú skvelý spôsob, ako dosiahnuť funkcie navigácie medzi lokalitami predtým k dispozícii v spravovaných navigácia a hierarchií lokalít v klasickej SharePoint.
+Základné princípy a osvedčené postupy pre navigáciu na webe a stránky sú rovnako použiteľné pre klasické aj moderné architektúry SharePoint. Vaše možnosti implementácie navigácie sa však líšia na základe rámca pre vaše stránky a intranet. Napríklad zdedené navigačné zážitky dostupné v klasických hierarchií lokality SharePoint (lokality s podlokalitami) nie sú dostupné v modernom zážitku, ale [rozbočovače lokality](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) poskytujú skvelý spôsob, ako dosiahnuť funkcie navigácie na webe, ktoré boli predtým k dispozícii v spravovaných navigačných a hierarchií lokalít v klasickej lokalite SharePoint.
 
  Pre viac informácií o možnostiach navigácie, prosím navštívte nižšie uvedené odkazy.
 
