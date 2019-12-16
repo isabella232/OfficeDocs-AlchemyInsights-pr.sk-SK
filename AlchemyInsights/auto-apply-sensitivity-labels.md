@@ -1,7 +1,7 @@
 ---
-title: Auto-uplatňovať označenia citlivosti
-ms.author: stephow
-author: stephow-MSFT
+title: Automatické použitie štítkov citlivosti
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517406"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050324"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Auto-uplatňovať označenia citlivosti
+# <a name="auto-apply-sensitivity-labels"></a>Automatické použitie štítkov citlivosti
 
-Označenia citlivosti môžete manuálne uplatniť obsah používateľov, alebo môžete nakonfigurovať tak, aby automaticky vzťahovať na obsah.
+Označenia citlivosti možno manuálne aplikovať na obsah používateľmi, alebo ich môžete nakonfigurovať tak, aby sa automaticky aplikovali na obsah.
 
-Automaticky uplatňovať označenia citlivosti odstraňuje potrebu školenia používateľov o tom, ako triediť obsah a potrebné oznamovať ich politiky konfigurácií.
+Automatické používanie štítkov citlivosti odstraňuje potrebu zaškoliť používateľov o tom, ako klasifikovať obsah a potrebu informovať ich o konfiguráciách politík.
 
-Ak chcete automaticky použiť menovky, je potrebné:
+Ak chcete menovky použiť automaticky, vyžaduje sa nasledovné:
 
-- Azure prihlásenia na odber informácií ochrany P2
-- [Stiahnuť a nainštalovať Azure ochranu informácií Jednotné označovanie klienta](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure informácie ochrana P2 predplatné
+- [Prevezmite a nainštalujte Azure informácie ochrana Unified označovanie klienta](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Pracujeme na natívnu podporu, ktorá nebude vyžadovať Azure ochranu informácií Jednotné označovanie klient v budúcnosti.
+Pracujeme na natívnu podporu, ktorá nebude vyžadovať Azure informácie ochrana Unified označovanie klienta v budúcnosti.
 
-V súčasnosti iba systému Windows podporuje Jednotné označovanie klienta.  Táto funkcia zatiaľ nie je podporovaný na Mac, iOS a Android.
+V súčasnosti iba systém Windows podporuje klienta zjednoteného označovania.  Táto funkcia zatiaľ nie je podporovaná v systémoch Mac, iOS a Android.
 
-Viac informácií o označenia citlivosti a ich automaticky použitím obsahu nájdete:
+Ďalšie informácie o označeniach citlivosti a ich automatickom uplatňovaní na obsah nájdete v časti:
 
-- [Prehľad označenia citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Menovkou citlivosť obsah automaticky](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Prehľad označení citlivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Automatické použitie označenia citlivosti na obsah](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

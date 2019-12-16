@@ -1,7 +1,7 @@
 ---
-title: Spravovať skupiny bez licenciu Exchange
-ms.author: dianef
-author: dianef77
+title: Spravovanie skupiny bez licencie na výmenu
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497475"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049280"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Spravovať skupiny bez licenciu Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Spravovanie skupiny bez licencie na výmenu
 
-Ak konto služby Office 365 admin nemá poštovú schránku, možno sa chybové hlásenie o chýbajúce licencie produktu pri pokuse upraviť Office 365 skupiny.
+Ak konto správcu balíka Office 365 nemá poštovú schránku, pri pokuse o úpravu skupiny Office 365 sa môže vyskytnúť chyba o chýbajúcej licencii produktu.
   
-Pretože ste nájomcov, je možné si upraviť skupiny, aj keď nemáte licenciu Exchange. Jednoducho prejdite na [Výmenu Admin Center](https://outlook.office365.com/ecp.aspx) \> **skupiny** spravovať Office 365 skupiny.
+Keďže ste správcom nájomníka, môžete upraviť skupinu aj napriek tomu, že nemáte licenciu na výmenu. Stačí prejsť na [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **skupiny** spravovať skupiny Office 365.
   
-Ak chcete upraviť skupiny admin Center, pridať licenciu Exchange admin účtu. Musíte počkať, kým plne schránku pred môžete upraviť skupinu.
+Ak chcete upraviť skupiny v centre spravovania, pridajte licenciu na Exchange do účtu správcu. Pred úpravou skupiny musíte počkať, kým sa poštová schránka úplne vytvorí.
   

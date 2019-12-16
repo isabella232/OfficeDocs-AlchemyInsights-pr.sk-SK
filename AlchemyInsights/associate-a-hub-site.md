@@ -1,7 +1,7 @@
 ---
-title: Priradiť rozbočovač stránky
-ms.author: efrene
-author: efrene
+title: Priradenie lokality rozbočovača
+ms.author: pebaum
+author: pebaum
 ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: ec9b1a8541b1f54f93f38814a402d516788312c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff623699d54700c781d64fb4e0d5df0edb675a37
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517838"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050360"
 ---
-# <a name="associate-a-hub-site"></a>Priradiť rozbočovač stránky
+# <a name="associate-a-hub-site"></a>Priradenie lokality rozbočovača
 
-Na priradenie existujúcej lokality na lokalite rozbočovač, postupujte nasledovne:
+Ak chcete priradiť existujúcu lokalitu k lokalite rozbočovača, postupujte nasledovne:
   
-1. Na vašich stránkach, vyberte **nastavenia** (Prevodové ikonu v pravom hornom rohu) a vyberte položku **informácie o lokalite**.
+1. Na vašom webe vyberte položku **nastavenia** (ikona ozubeného kolieska v pravom hornom rohu) a potom vyberte položku **informácie o lokalite**.
 
-2. V paneli **Upraviť informácie o lokalite** , v menu **Priradenie lokality rozbočovača** vyberte rozbočovač stránky, ktoré chcete priradiť ste vaše stránky, a potom kliknite na tlačidlo **Uložiť**. Vzhľad vašich stránok sa zmení aby zodpovedala rozbočovač stránky a rozbočovač stránky navigačnej lište sa objaví v hornej časti.
+2. Na paneli **Upraviť informácie o lokalite** v ponuke **priradenia lokality rozbočovača** vyberte lokalitu rozbočovača, ktorú chcete priradiť vašej lokalite, a potom vyberte položku **Uložiť**. Vzhľad vášho webu sa zmení tak, aby zodpovedal stránke rozbočovača a navigačný panel lokality Hub sa zobrazí v hornej časti.
 
  > [!Note]
->Ak možnosť rozbočovač stránky združenia nie je prítomný alebo sa nezobrazujú žiadne lokality, rozbočovač lokalít nemusí byť povolené alebo nemáte povolenie na priradenie lokality rozbočovač stránky. Ďalšie informácie, obráťte sa na správcu.
+>Ak nie je prítomná možnosť priradenia lokality rozbočovača alebo nie sú tam uvedené žiadne lokality, lokality rozbočovača nemusia byť povolené alebo nemáte povolenie na priradenie lokalít k lokalite rozbočovača. Ďalšie informácie vám poskytne správca.
 >
->Neexistuje žiadny limit na počet lokalít, ktoré môžu súvisieť s lokalitou rozbočovača.
+>Počet lokalít, ktoré môžu byť priradené k lokalite rozbočovača, nemá žiadny limit.
   

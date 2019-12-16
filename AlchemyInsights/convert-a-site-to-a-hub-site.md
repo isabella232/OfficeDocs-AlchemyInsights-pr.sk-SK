@@ -1,7 +1,7 @@
 ---
-title: Konverzia stránky na lokalite rozbočovača
-ms.author: kaarins
-author: kaarins
+title: Konvertovanie lokality na lokalitu rozbočovača
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516758"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049964"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Vytvorenie lokality rozbočovač SharePoint
+# <a name="create-a-sharepoint-hub-site"></a>Vytvorenie lokality rozbočovača SharePoint
 
-1. Nové lokality SharePoint admin Center, podľa **lokality**, kliknite **aktívnymi lokalitami**.
+1. V novom SharePoint admin Center, v časti **lokality**, kliknite na tlačidlo **aktívne lokality**.
 
-2. Vyberte lokalitu, ktorú chcete byť rozbočovač stránky, kliknite na tlačidlo **rozbočovač stránky**a kliknite na tlačidlo **zaregistrovať ako rozbočovač stránky**.
+2. Vyberte lokalitu, na ktorej chcete mať miesto rozbočovača, kliknite na položku **rozbočovač**a potom kliknite na položku **registrovať ako rozbočovač**.
 
-3. Zadajte zobrazovaný názov pre rozbočovač stránky a zadať jednotlivých používateľov alebo skupín zabezpečenia, ktoré chcete povoliť priradiť rozbočovač lokalít.
+3. Zadajte zobrazovaný názov lokality rozbočovača a zadajte jednotlivých používateľov alebo skupiny zabezpečenia, ktoré chcete povoliť na priradenie lokalít k rozbočovaču.
 
     > [!NOTE]
-    >  Odporúčame vám vybrať lokalitu komunikácie alebo tímovej lokality, ktorá používa novú šablónu. Ak používate klasické tímovej lokality, rozbočovač navigácie sa zobrazí iba na moderné stránky a rozbočovač stránky nastavenia sa zobrazia iba na moderné stránky. Stránky, ktoré sú už priradené k inému rozbočovaču nemôže byť zapísané ako rozbočovač stránky.
+    >  Odporúčame vám vybrať komunikačnú lokalitu alebo tímovú lokalitu, ktorá používa novú šablónu. Ak používate klasickú tímovú lokalitu, navigácia v rozbočovači sa zobrazí len na moderných stránkach a nastavenia lokality Hub sa zobrazia len na moderných stránkach. Lokality, ktoré už sú priradené k inému rozbočovaču, nie je možné zaregistrovať ako lokalitu rozbočovača.
   
-[Ďalšie informácie o rozbočovač lokalít](https://go.microsoft.com/fwlink/?linkid=869149)
+[Ďalšie informácie o lokalitách rozbočovača](https://go.microsoft.com/fwlink/?linkid=869149)
   
