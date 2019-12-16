@@ -1,7 +1,7 @@
 ---
-title: DLP potrebovať vlastný typ
-ms.author: stephow
-author: stephow-MSFT
+title: DLP môže potrebovať vlastný typ
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530366"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052916"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP potrebovať vlastný typ
+# <a name="dlp-might-need-a-custom-type"></a>DLP môže potrebovať vlastný typ
 
-S údajov loss prevention (DLP) politiky, môžete identifikovať a ochranu citlivých údajov v organizácii. V niektorých prípadoch budete musieť vytvoriť svoj vlastný **vlastný** typ citlivé informácie chrániť údaje organizácie.
+Pomocou politiky ochrany pred únikom údajov (DLP) môžete identifikovať a chrániť citlivé údaje vo vašej organizácii. V niektorých prípadoch môže byť potrebné **vytvoriť vlastný typ citlivých informácií** na ochranu údajov organizácie.
 
-Napríklad vašej organizácii môže byť potrebné na identifikáciu a ochranu zamestnancov ID alebo iné dáta v nejakej forme špecifické pre vaše org. Ak áno, nájdete v nasledujúcich článkoch ďalšie informácie.
+Vaša organizácia môže napríklad potrebovať identifikovať a chrániť identifikátory zamestnancov alebo iné údaje v určitom formáte špecifickom pre vašu organizáciu. Ak áno, pozrite si nasledujúce články pre viac informácií.
   
- **Prispôsobiť typ vstavaný citlivých informácií**
+ **Prispôsobenie vstavaného typu citlivých informácií**
   
-Ak typ vstavaný citlivých informácií by vyhovoval vašim potrebám s niekoľkými Tweak, môžete [prispôsobiť typ vstavaný citlivých informácií](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Napríklad, môžete pridať alebo odstrániť kľúčové slová, alebo pridať či odstrániť podporné dôkazy napríklad dátum alebo adresu.
+Ak by vstavaný typ citlivých informácií spĺňal vaše potreby len s niekoľkými vylepšeniami, môžete [prispôsobiť vstavaný typ citlivých informácií](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Môžete napríklad pridať alebo odstrániť kľúčové slová alebo pridať alebo odstrániť podporné dôkazy, ako je napríklad dátum alebo adresa.
   
- **Vytvorenie vlastných citlivých informácií typu**
+ **Vytvorenie vlastného typu citlivých informácií**
   
-Ale ak potrebujete na identifikáciu a ochranu citlivých informácií typu úplne, môžete [vytvoriť vlastné citlivé informácie typ](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) v UI & zabezpečenia súladu Center.
+Ak však potrebujete úplne identifikovať a ochrániť iný typ citlivých informácií, môžete [vytvoriť vlastný typ citlivých informácií](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) v používateľskom rozhraní centra zabezpečenia & Compliance Center.
   
-**Vytvorenie vlastných citlivých informácií typu v & zabezpečenia súladu centrum PowerShell**
+**Vytvoriť vlastné citlivé informácie typu zabezpečenia & Compliance Center PowerShell**
 
-Nakoniec, ak UI neposkytuje všetky možnosti, ktoré potrebujete, môžete [vytvoriť vlastné citlivé informácie typu v & zabezpečenia súladu centrum PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Tým začína súbor XML, môžete použiť k dispozícii.
+Nakoniec, ak UI neposkytuje všetky možnosti, ktoré potrebujete, môžete [vytvoriť vlastné citlivé informácie typu zabezpečenia & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Spustením súboru XML môžete použiť každú dostupnú možnosť.

@@ -1,7 +1,7 @@
 ---
-title: Povoliť vlastné skriptu povoliť funkcie
-ms.author: efrene
-author: efrene
+title: Povoliť vlastný skript na zapnutie funkcií
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: cc39fd3e840ac17af2aea242551015074eb985cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548910"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051800"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Povoliť vlastné skriptu povoliť funkcie
+# <a name="allow-custom-script-to-enable-features"></a>Povoliť vlastný skript na zapnutie funkcií
 
-Správcovia možno musieť **Povoliť vlastné skript** na umožnenie určitých funkcionalít. Napríklad užívatelia získajú chyba 403 pri pripájaní k službe SharePoint so SharePoint Designer. Podrobný postup, príklady a úvahy pozri [Povoliť alebo zakázať vlastný skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Správcovia môžu potrebovať **Povoliť vlastný skript** na umožnenie určitých funkcií. Napríklad, používatelia môžu dostávať chyba 403 pri pripájaní na SharePoint s SharePoint Designer. Podrobné kroky, príklady a úvahy nájdete v téme [povolenie alebo zabránenie prispôsobeniu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Ak používatelia zažívajú **chyba 403** SharePoint alebo OneDrive, môžete skontrolovať [Tabuľa služby stavu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) či to je známy problém s rozlíšením v pokrok, skôr, ako zavoláte technickej podpory alebo stráviť čas riešenie problémov. Problém môže byť veľmi dočasný a už zistené spoločnosťou Microsoft, ale môžu existovať oneskorenie medzi problém identifikácie a vysielanie tabuľa služby stavu. Prosím naďalej kontrola tabuľa stav služby pre ďalšie aktualizácie.
+Ak sa používateľom vyskytne **chyba 403** SharePoint alebo OneDrive, môžete skontrolovať [stav služby tabuľa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) zistiť, či je známy problém s rozlíšením prebieha pred zavoláte podporu alebo tráviť čas riešenie problémov. Problém môže byť veľmi dočasný a už identifikovaný spoločnosťou Microsoft, ale môže uplynúť v čase medzi identifikáciou problém a vysielania na tabuľu služby zdravie. Ďalšie aktualizácie nájdete v informačnom paneli služby zdravie.
 

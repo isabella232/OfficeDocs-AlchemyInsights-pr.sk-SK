@@ -1,7 +1,7 @@
 ---
-title: Viac informácií o DLP problémy
-ms.author: stephow
-author: stephow-MSFT
+title: Viac informácií o problémoch s DLP
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665231"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052304"
 ---
 # <a name="information-about-dlp-issues"></a>Informácie o problémoch s DLP
 
-DLP politiky, môžete identifikovať, monitorovať a automaticky chrániť citlivé informácie v službách Office 365.
+S politikou DLP môžete identifikovať, monitorovať a automaticky chrániť citlivé informácie v rámci balíka Office 365.
 
-Prosím, navštívte tieto odkazy pre viac informácií:
+Ďalšie informácie nájdete na týchto odkazoch:
 
-- [Prehľad Ochrana pred únikom údajov](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Aké typy citlivé informácie vyhľadať](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Vytvorenie vlastných citlivých informácií typu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Odoslať e-mail oznámenia a ukázať politiky tipy](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Chrániť súbory SharePoint Online pomocou značiek uchovávania údajov a DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP a tímy spoločnosti Microsoft](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [Prehľad prevencie straty údajov](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Aké typy citlivých informácií vyzerajú](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Vytvorenie vlastného typu citlivých informácií](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Odoslať e-mailové upozornenia a Zobraziť tipy politiky](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [Chráňte súbory SharePoint Online s menovkami uchovávania údajov a DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP a Microsoft teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-Otestovať vaše dáta s typom vstavané alebo vlastné citlivé informácie, použite možnosť **skúšky typu** podľa **klasifikácie** > **typy citlivých informácií**. Ďalšie informácie sa nachádzajú v téme [Test vlastné citlivé informácie typy](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Ak chcete otestovať údaje pomocou vstavaného alebo vlastného typu citlivých informácií, použite možnosť **typ testu** podľa **klasifikácie** > **citlivých typov**informácií. Ďalšie informácie nájdete v téme [testovanie vlastných typov citlivých informácií](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).

@@ -1,7 +1,7 @@
 ---
-title: Kroky na vytvorenie pracovného postupu SharePoint
-ms.author: efrene
-author: efrene
+title: Postup vytvorenia pracovného postupu služby SharePoint
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,29 +12,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559644"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053564"
 ---
-# <a name="steps-to-create-a-sharepoint-workflow"></a>Kroky na vytvorenie pracovného postupu SharePoint
+# <a name="steps-to-create-a-sharepoint-workflow"></a>Postup vytvorenia pracovného postupu služby SharePoint
 
-- Ak ste schopní pridať tok činností schválenie SharePoint 2010, pozri [nemôžete pridať predvolený tok činností schvaľovania 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
+- Ak nemôžete pridať pracovný postup schvaľovania služby SharePoint 2010, pozrite si, [ako nie je možné pridať predvolený pracovný postup schvaľovania 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
 - Ako vytvoriť pracovné postupy:
-    - [2013 pracovného postupu z programu SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [2010 pracovného postupu z programu SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [Úvod do pracovného postupu SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+    - [2013 pracovný postup z programu SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [2010 pracovný postup z programu SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [Úvodné informácie o pracovnom postupe služby SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- Workflow riešenie problémov a ladenie:
-    - Ladenie toky činností sa podobá predchádzajúce verzie.  Ďalšie informácie nájdete v téme [pracovné postupy služby SharePoint ladenie](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Ďalšie informácie o riešení problémov nájdete v téme [chyby overenia workflow riešenie SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- Riešenie problémov s pracovným postupom a ladenie:
+    - Ladenie toky činností podobá predchádzajúce verzie.  Ďalšie informácie nájdete v téme [ladenie pracovných postupov služby SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+    - Ďalšie informácie o riešení problémov nájdete v téme [Riešenie problémov s chybami overenia pracovného postupu služby SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Súvisiace témy
-Chceš skúsiť Flow Microsoft SharePoint Online?
+Chcete vyskúšať službu Microsoft flow v SharePointe Online?
 - [Vytvoriť tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint a tok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint a flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

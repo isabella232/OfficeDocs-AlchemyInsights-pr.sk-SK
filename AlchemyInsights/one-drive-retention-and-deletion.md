@@ -1,7 +1,7 @@
 ---
-title: OneDrive uchovávanie a likvidovanie
-ms.author: efrene
-author: efrene
+title: Uchovávanie a vymazanie OneDrivu
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521582"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053348"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive uchovávanie a likvidovanie
+# <a name="onedrive-retention-and-deletion"></a>Uchovávanie a vymazanie OneDrivu
 
-- Môžete [obnoviť odstránené používateľom OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. Oni sú v Kôš pre 93 dní. 
+- Môžete [obnoviť odstránených používateľov OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. Sú v koši za 93 dní. 
 
-- Pozrite si [Tento článok](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) naučiť:
-    - Ako dať inému užívateľovi prístup k odstránenému používateľovi OneDrive.
-    - Čo sa stane s používateľa OneDrive, ak chcete odstrániť konto používateľa Office 365 pre vašu organizáciu.
+- Pozri [Tento článok](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sa dozviete:
+    - Ako dať inému používateľovi prístup k odstránenej OneDrive používateľa.
+    - Čo sa stane s OneDrive používateľa, keď odstránite konto používateľa Office 365 pre vašu organizáciu.
     - Ako nakonfigurovať automatický prístup delegácie.
-    - Ako funguje proces odstraňovania OneDrive.
+    - Ako funguje proces odstránenia OneDrivu.
 
-- Záujem bezpečnosti a centrum súladu uchovávania a podržte?:
-    - [Politiky uchovávania údajov pre OneDrive a SharePoint weby](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [eDiscovery zadržanie na OneDrive a SharePoint stránky](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Zaujíma vás bezpečnosť a dodržiavanie centrum uchovávania a zadržania?:
+    - [Politiky uchovávania údajov pre OneDrive a lokality SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [eDiscovery drží OneDrive a SharePoint lokalít](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

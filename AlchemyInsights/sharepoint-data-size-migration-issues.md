@@ -1,7 +1,7 @@
 ---
-title: Problémy počas migrácie údajov do služby SharePoint Online
-ms.author: efrene
-author: efrene
+title: Problémy pri migrácii údajov SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504370"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051764"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémy počas migrácie údajov do služby SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémy pri migrácii údajov SharePoint Online
 
-Zdá sa, viac ako 100TB dát sú migrácia SharePoint Online. Prosím postupujte podľa nasledujúcich krokov, aby sme vám môžu pomôcť čo najskôr. 
+Zdá sa, že migrujete viac ako 100TB údajov na SharePoint Online. Prosím, postupujte podľa nižšie uvedených krokov, aby sme vám mohli pomôcť čo najskôr. 
 
-1. Vyberte **novú službu požiadať o**, a potom **novú službu**. 
-2. Nechajte názov a popis ako **SharePoint migrácie viac ako 100 TB**.
-3. Po predložení lístka, Prosím aktualizujte tieto informácie: 
+1. Vyberte **novú servisnú požiadavku**a potom **novú servisnú požiadavku**. 
+2. Ponechať názov a popis ako **migrácia služby SharePoint cez 100TB**.
+3. Po tom, čo bol lístok predložený, aktualizujte ho s nasledujúcimi informáciami: 
 
-    - Odhadovaná veľkosť migráciu.
-    - Odhad kedy chcete začať a dokončiť migráciu.
-    - Opísať, kde vykonávate migráciu obsahu, napríklad SharePoint Server, Box, GDrive, zdieľaných súborov, atď...
+    - Odhadovaná veľkosť migrácie.
+    - Odhad, Kedy by ste chceli začať a dokončiť migráciu.
+    - Opíšte, kam migrujete svoj obsah, napríklad SharePoint Server, box, GDrive, zdieľaných súborov atď.
 
 
   

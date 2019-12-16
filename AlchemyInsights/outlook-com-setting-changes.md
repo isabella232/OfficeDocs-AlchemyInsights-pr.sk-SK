@@ -1,7 +1,7 @@
 ---
 title: Outlook.com nastavenia
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386380"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053276"
 ---
 # <a name="settings-in-outlookcom"></a>Nastavenia v Outlook.com
 
-Ak príjemca je interné alebo externé organizácie a ak používate Office 365 alebo Outlook.com e-mailového konta, nasledujúce klienti by nemali robiť nič zvláštneho otvoriť správu: **outlook 2016, Outlook na webe/Outlook Web App, Aplikácia Outlook Mobile App**
+Ak je príjemca interný alebo externý vašej organizácii a ak používate Office 365 alebo Outlook.com e-mailového konta, nasledujúce klienti by nemali robiť nič zvláštneho na otvorenie správy: **outlook 2016, Outlook na webe/Outlook Web App, Outlook Mobile App**
 
 **Delegáti** používateľov, ktorým bol odoslaný chránený e-mail, nemôžu otvárať chránené správy. Informácie v e-maile môžu zobraziť iba pôvodní príjemcovia (osoba, ktorá bola odoslaná chráneným e-mailom).
 
