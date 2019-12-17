@@ -1,5 +1,5 @@
 ---
-title: Zvýšiť veľkosť poštovej schránky
+title: Zväčšiť veľkosť poštovej schránky
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,31 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 8e5e674c2e214c6c4d8f964006853d7ab18527e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661779"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068328"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Prepínač plánuje zvýšiť veľkosť poštovej schránky
+# <a name="switch-plans-to-increase-mailbox-size"></a>Prepnúť plány na zvýšenie veľkosti poštovej schránky
 
-Ak veľkosť poštovej schránky Office 365 už 100 GB, neexistuje žiadny spôsob, ako ju zvýšiť. V takom prípade postupujte podľa [tohto odporúčania](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
+Ak je veľkosť poštovej schránky balíka Office 365 už 100 GB, neexistuje žiadny spôsob, ako ho zvýšiť.
   
-Ak veľkosť poštovej schránky 50 GB, môžete zvýšiť na 100 GB prechod na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) alebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu sú kroky, ak chcete prepnúť na iný plán služieb Office 365:
+Ak je veľkosť poštovej schránky 50 GB, môžete ju zvýšiť na 100 GB prechodom na [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) alebo [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu sú kroky na prepnutie na iný plán Office 365:
   
-1. Microsoft 365 admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. Microsoft 365 admin Center, prejdite na stránku **Fakturácia** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Vyberte na predplatné, ktoré chcete inovovať.
+2. Vyberte predplatné, ktoré chcete inovovať.
 
-3. Na stránke s podrobnosťami o predplatné vyberte **Upgrade**.
+3. Na stránke s podrobnosťami o predplatnom vyberte položku **inovovať**.
 
-4. Nájdite plán, ktorý chcete inovovať, potom vyberte tlačidlo **Upgrade** .
+4. Nájdite plán, na ktorý chcete inovovať, a potom vyberte tlačidlo **inovovať** .
 
-5. Zadajte počet licencií, ktoré potrebujete vyberte, či chcete platiť každý mesiac alebo za celý rok, potom vyberte **Checkout**.
+5. Zadajte počet licencií, ktoré potrebujete, vyberte, či chcete platiť každý mesiac alebo za celý rok, a potom vyberte položku **Checkout (Pokladňa**).
 
-Ďalšie podrobnosti nájdete v časti [Inovácia na iný plán](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Ďalšie podrobnosti nájdete v téme [Inovácia na iný plán](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Používate starý admin center? Podrobnosti nájdete v časti [prepnutie na iný plán](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan). 
-  
-Ak máte [plán služby O365 archívna, ktorý podporuje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), môžete tiež získať dodatočné email skladovanie umožnením archívnej poštovej schránky.  Archívna poštová schránka vám dáva ďalší úložný priestor a umožňuje presunúť, kopírovať a vyhľadávanie správ v primárnej a archívnej poštovej schránky. Kroky na zapnutie archívnej poštovej schránky, v téme [Zapnúť archívnu poštovú schránku](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Ak máte [plán Office 365, ktorý podporuje Archív na mieste](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), môžete tiež získať ďalšie e-mailové úložisko povolením archívnej poštovej schránky. Archívna poštová schránka poskytuje dodatočný ukladací priestor a umožňuje presúvať, kopírovať a vyhľadávať správy v primárnej aj archívnej poštovej schránke. Postup pri zapnutí archívnej poštovej schránky nájdete v časti [povolenie archívnej poštovej schránky](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
