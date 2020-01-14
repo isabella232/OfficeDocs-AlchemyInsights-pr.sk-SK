@@ -1,5 +1,5 @@
 ---
-title: Zakúpenie predplatného na Office 365 pre podniky z bezplatnej skúšobnej verzie
+title: Kúpte si predplatné na Office 365 for Business z bezplatnej skúšobnej verzie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664767"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104672"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Zakúpenie predplatného na Office 365 z bezplatnej skúšobnej verzie
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Kúpte si predplatné na Office 365 z bezplatnej skúšobnej verzie
 
-Ste vyskúšali Office 365, a teraz ste pripravení kúpiť. Pri kúpe služieb Office 365 z skúšobnú verziu máte dve možnosti:
+Vyskúšali ste balík Office 365 a teraz ste pripravení na kúpu. Pri nákupe balíka Office 365 z skúšobnej verzie máte dve možnosti:
   
- **Kúpiť podľa rovnakého plánu ako skúšobnej verzie**
+ **Kúpte si rovnaký plán ako skúšobná verzia**
   
-1. Admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. V centre spravovania prejdite na stránku **Fakturácia** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Nájdite predplatné, ktoré chcete kúpiť. V časti **licencie** vyberte **nákup predplatné**a postupujte podľa pokynov na check-out.
+2. Nájdite predplatné, ktoré chcete kúpiť. V časti **licencie** vyberte položku **nákup predplatného**a postupujte podľa pokynov na odhlásenie.
 
-**Predám iné predplatné**
+**Zakúpenie iného predplatného**
   
-1. Admin Center, prejdite na **fakturačné** \> [nákup služieb](https://go.microsoft.com/fwlink/p/?linkid=868433) stránka.
+1. V centre spravovania prejdite na stránku služby **fakturácie** \> [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-3. Nájdite predplatné, ktoré chcete kúpiť, vybrať, **kúpiť**a postupujte podľa pokynov na check-out.
+3. Vyhľadajte predplatné, ktoré chcete kúpiť, vyberte položku **kúpiť**a postupujte podľa pokynov na odhlásenie.
 
-Ďalšie informácie, pozri [kúpiť predplatné na Office 365 for business z bezplatnej skúšobnej verzie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Ďalšie informácie nájdete v téme [zakúpenie predplatného na Office 365 pre podniky z bezplatnej skúšobnej verzie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+
+**Riešenie problémov**
+
+Ak sa vyskytnú problémy s načítaním stránky, pokúste sa webovú stránku otvoriť v inom prehliadači alebo sa ju pokúste otvoriť v okne súkromného prehliadača, napríklad okne v režime InPrivate prehliadača Microsoft Edge alebo okne inkognito prehliadača Google Chrome.
