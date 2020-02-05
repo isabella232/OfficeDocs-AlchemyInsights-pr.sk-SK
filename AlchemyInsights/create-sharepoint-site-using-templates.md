@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052484"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770438"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Vytvorenie lokalít SharePoint pomocou šablón
 
-Šablóny lokality SharePoint sú vopred zostavené definície navrhnuté okolo konkrétnej obchodnej potreby. Ďalšie informácie nájdete v téme [Používanie šablón na vytvorenie rôznych typov lokalít SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Možnosť uloženia stránky ako šablóny nie je podporovaná modernými komunikačnými alebo tímových lokalít. Ďalšie informácie o používaní šablón nájdete [v téme Uloženie, prevzatie a odovzdanie lokality SharePoint ako šablóny](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
 Tu sú niektoré bežné problémy alebo riešenia týkajúce sa ukladania lokality alebo zoznamu ako šablóny v SharePointe Online. 
 

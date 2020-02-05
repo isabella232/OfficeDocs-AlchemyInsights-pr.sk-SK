@@ -1,5 +1,5 @@
 ---
-title: Odstránenie kolekcie lokalít v službe SharePoint
+title: Odstránenie lokality
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053024"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770402"
 ---
-# <a name="delete-a-site-collection"></a>Odstránenie kolekcie lokalít
+# <a name="delete-a-site"></a>Odstránenie lokality
 
-Keď ste ako globálny alebo SharePoint admin v balíku Office 365, odstrániť lokalitu (predtým volal "kolekcie lokalít"), je presunutý do Koša kolekcie lokalít a uchovávajú 93 dní. 
+Keď odstránite lokalitu, presunie sa na [odstránené lokality](https://admin.microsoft.com/sharepoint) a zachová sa 93 dní. Ak chcete lokalitu odstrániť, prejdite na lokalitu [aktívne lokality](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Keď odstránite lokalitu, všetko v nej sa odstráni, vrátane:
 
@@ -26,6 +26,6 @@ Keď odstránite lokalitu, všetko v nej sa odstráni, vrátane:
 - Nastavenia a históriu lokality.
 - Akékoľvek podlokality a ich obsah.
 
-Pred odstránením lokality by ste mali informovať správcov lokality a všetkých vlastníkov podlokalít, aby mohli presunúť svoje údaje na iné miesto a tiež používateľom oznámiť, kedy budú lokality vymazané. 
+Mali by ste upozorniť stránky správcovia a všetky sub-site vlastníkov pred odstránením stránky tak, aby mohli presunúť svoje údaje na iné miesto, a tiež povedať používateľom, keď budú odstránené stránky.
 
-Ďalšie informácie nájdete v téme [Odstránenie kolekcie lokalít](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Ďalšie informácie nájdete v téme [Odstránenie lokality](https://docs.microsoft.com/sharepoint/delete-site-collection).

@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049424"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771158"
 ---
 # <a name="why-cant-i-edit-files"></a>Prečo nemôžem upravovať súbory?
 
-Ak je dokument, pracovný hárok alebo prezentácia zamknutá na úpravu a nemožno ju otvoriť v desktopových aplikáciách systému Windows, je možné, že súbor už upravuje niekto iný, alebo sa súbor vzal k sebe. Poďme sa rýchlo pozrieť na niektoré z dôvodov, prečo nemusí [byť schopný upravovať súbor](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Pozrite sa na niektoré z dôvodov, [Prečo nie je možné upraviť súbor](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Ak máte knižnice s **pokladnicou, požadovanými** alebo **validáciou** stĺpcov alebo metaúdajov, alebo keď je **zabezpečenie položky koncept** nastavené buď **len na používateľov, ktorí môžu upravovať** alebo **len používatelia, ktorí môžu schváliť položky** v nastaveniach verzií knižnice:
 

@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051548"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771194"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online bežné problémy a riešenia
 
 Tu sú niektoré často požadované témy SharePoint Online otázky:
+
+- **Začíname: použite** [vzhľad knihy SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) na vybudovanie krásnej, výkonnej intranetovej siete, ktorá spája pracovisko. Pozrite si [príklady](https://lookbook.microsoft.com/) a získajte [pokyny k návrhu](https://spdesign.azurewebsites.net/). Pozrite si [Úvod do SharePointu Online](https://docs.microsoft.com/sharepoint/introduction) pre celkový Úvod do služby SharePoint Online.
 
 - **Povolenia**: [vytvorte stratégiu povolení](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) a [Pochopte úrovne povolení](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Tu sú niektoré často požadované témy SharePoint Online otázky:
 
 - **Modernizácia služby SharePoint**: Prečítajte si [príručku k moderným skúsenostiam v SharePointe](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) a [Modernizujte svoje klasické lokality SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) a začnite pohybovať.
 
-- **Začíname: Naučte**sa, ako [začať s SharePointom online](https://docs.microsoft.com/sharepoint/introduction) s stratégiami správy lokality.
+**Poznámka:** Pre konkrétnejšiu odpoveď týkajúcu sa problému so službou SharePoint stručne preformulujete otázku a zahrňte všetky chyby, ktoré vidíte, alebo funkcie, ktoré používate.

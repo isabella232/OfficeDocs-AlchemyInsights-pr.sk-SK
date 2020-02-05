@@ -1,5 +1,5 @@
 ---
-title: Návod na zrušenie konta Desktop Analytics
+title: Ako uzavrieť svoj účet Analytics Desktop
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541743"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771050"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Návod na zrušenie konta Desktop Analytics
+# <a name="how-to-close-your-desktop-analytics-account"></a>Ako uzavrieť svoj účet Analytics Desktop
 
-Ak nastaviť plochu Analytics vo vašom prostredí, a potom sa rozhodnúť, budete musieť odstrániť, použite proces v nasledujúci odkaz:
+Ak nastavíte Desktop Analytics vo vašom prostredí, a potom sa rozhodnúť, že budete musieť odstrániť, použite proces v nasledujúcom odkaze:
 
-[Ako zrušiť svoj účet](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[Ako uzavrieť svoj účet](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Prvým krokom je kontaktovať Microsoft Support. Otvoriť podpory prípadu zrušenie konta Desktop Analytics. Nechcem pokračovať s ďalšie kroky, kým dostanete potvrdenie ukončenie vášho účtu Microsoft.
+Prvým krokom je kontaktovanie technickej podpory spoločnosti Microsoft. Otvorte puzdro technickej podpory na zatvorenie účtu služby Desktop Analytics. Nepokračujte s dodatočnými krokmi, kým nedostanete potvrdenie, že spoločnosť Microsoft uzavrela vaše konto.
