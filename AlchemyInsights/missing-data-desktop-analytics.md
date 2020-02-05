@@ -1,5 +1,5 @@
 ---
-title: Posúdenie zlučiteľnosti sa nedá vytvoriť.
+title: Nie je možné vytvoriť hodnotenie kompatibility
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800594"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771086"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a><span data-ttu-id="c8217-102">Posúdenie zlučiteľnosti sa nedá vytvoriť.</span><span class="sxs-lookup"><span data-stu-id="c8217-102">Can't create a compatibility assessment</span></span>
+# <a name="cant-create-a-compatibility-assessment"></a><span data-ttu-id="28526-102">Nie je možné vytvoriť hodnotenie kompatibility</span><span class="sxs-lookup"><span data-stu-id="28526-102">Can't create a compatibility assessment</span></span>
 
-<span data-ttu-id="c8217-103">Configuration Manager úspešne nakonfigurované zariadenie, ale ploche Analytics nemôže vytvoriť posúdenie zlučiteľnosti.</span><span class="sxs-lookup"><span data-stu-id="c8217-103">Configuration Manager successfully configured the device, but Desktop Analytics can't create a compatibility assessment.</span></span> <span data-ttu-id="c8217-104">Neobsahuje úplný súbor údajov pre konfiguráciu zariadení (sčítanie ľudu) alebo nainštalovaných aplikácií (zásob).</span><span class="sxs-lookup"><span data-stu-id="c8217-104">It doesn't have a complete data set for the device's configuration (census) or installed apps (inventory).</span></span>
+<span data-ttu-id="28526-103">Microsoft Endpoint Configuration Manager úspešne nakonfiguroval zariadenie, ale Desktop Analytics nemôže vytvoriť kompatibilitu hodnotenie.</span><span class="sxs-lookup"><span data-stu-id="28526-103">Microsoft Endpoint Configuration Manager successfully configured the device, but Desktop Analytics can't create a compatibility assessment.</span></span> <span data-ttu-id="28526-104">Nemá kompletnú množinu údajov pre konfiguráciu zariadenia (sčítanie) alebo nainštalovaných aplikácií (inventár).</span><span class="sxs-lookup"><span data-stu-id="28526-104">It doesn't have a complete data set for the device's configuration (census) or installed apps (inventory).</span></span>
 
-<span data-ttu-id="c8217-105">Tento problém je často automaticky opraviť, keď zariadenie zopakuje.</span><span class="sxs-lookup"><span data-stu-id="c8217-105">This issue is often fixed automatically when the device retries.</span></span> <span data-ttu-id="c8217-106">Ak to pretrváva, uistite sa, že zariadenie môžete komunikovať so službou.</span><span class="sxs-lookup"><span data-stu-id="c8217-106">If it persists, make sure the device can communicate with the service.</span></span> <span data-ttu-id="c8217-107">Ďalšie informácie nájdete v časti [koncové body](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) a [Chýbajúce údaje](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).</span><span class="sxs-lookup"><span data-stu-id="c8217-107">For more information, see [Endpoints](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) and [Missing Data](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).</span></span>
+<span data-ttu-id="28526-105">Tento problém sa často fixuje automaticky pri pokuse o opätovné pokusy zariadenia.</span><span class="sxs-lookup"><span data-stu-id="28526-105">This issue is often fixed automatically when the device retries.</span></span> <span data-ttu-id="28526-106">Ak pretrváva, uistite sa, že zariadenie môže komunikovať so službou.</span><span class="sxs-lookup"><span data-stu-id="28526-106">If it persists, make sure the device can communicate with the service.</span></span> <span data-ttu-id="28526-107">Ďalšie informácie nájdete v téme [koncové body](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) a [chýbajúce údaje](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).</span><span class="sxs-lookup"><span data-stu-id="28526-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) and [Missing data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).</span></span>
