@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611712"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855566"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledovať alebo un-nasledovať lokality SharePoint
 
-Existuje viacero spôsobov, ako nájsť a sledovať lokality, správy a obsah, ktorý vás zaujíma v SharePointe. To vám umožní ľahko nájsť informácie vo vašom zozname a umožní vám zobraziť aktivitu z lokality SharePoint.
+Ak používatelia vyskytnú problémy po alebo unafter SharePoint zdrojov, postupujte nasledovne:
 
-Pozrite sa na video [nájsť a sledovať stránky a novinky](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Ak nie ste schopní sledovať alebo un-nasledovať stránky, novinky alebo obsah a cítiť výsledky nie je to, čo sa očakáva, pozrite sa, či problém súvisí s jedným používateľom alebo všetkých používateľov v rámci organizácie. Ak problém narazili všetci používatelia, môže existovať dočasný problém služby.
-
-Ak chcete zistiť, či je vaša organizácia ovplyvnená, skontrolujte [stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
+* Požiadajte používateľa, aby sa odhláste a vrátil sa do služby SharePoint a skúste použiť rovnaké kroky na sledovanie alebo zrušenie sledovania prostriedku služby SharePoint.
+* Zistite, či je problém s konkrétnou lokalitou alebo na všetkých lokalitách. Ak sa problém vyskytuje s konkrétnymi lokalitami, uistite sa, že funkcia "nasledujúci obsah" je aktívna pre lokalitu prechodom na **Nastavenie lokality > spravovať funkcie lokality > nasledujúci obsah**. Ak je funkcia nastavená na aktívne, skúste znova deaktiváciu a aktiváciu funkcie pre lokalitu.
+* Požiadajte používateľa o vyskúšanie iného internetového prehľadávača, aby zistil, či je problém špecifický pre prehľadávač používateľa.
+* Ak všetci používatelia a všetky lokality sú zažíva rovnaký problém, skontrolujte [stav služby tabuľa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) zistiť, či vaša organizácia je ovplyvnená.
