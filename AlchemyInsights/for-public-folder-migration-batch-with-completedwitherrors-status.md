@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 4243cdf0170fed1eadac6560d2a04e1a861c63e5
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42043617"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158635"
 ---
 # <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Pre verejný priečinok migrácie dávky s CompletedWithErrors stav
 
 Použite nasledovný postup na dokončenie dávky, vynechanie veľké/zlé položky: 
 1. Schváliť vynechané položky v dávke migrácie:
 
-    Súbor Migrationdávkové \<batchname> Schvaľeskippeditems 
+    `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
 2. Ak chcete schváliť vynechané položky v žiadostiach o migráciu, ktoré sú "synchronizované", ale nie sú dokončené, použite nasledovný príkaz:
 
-    $pf = získať-PublicFolderMailboxMigrationRequest | Získajte PublicFolderMailboxMigrationRequestStatistics-IncludeReport; ForEach ($i v $pf) {if ($i. LargeItemsEncountered-gt 0 alebo $i. BadItemsEncountered-gt 0) {súbor PublicFolderMailboxMigrationRequest $i. identity. IdentifyingGuid-Skippeditemschvaľaltime $ ([dátum a čas]:: UtcNow)}}
+    `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
 3. Dávka migrácie a žiadosti by mali pokračovať a dokončiť v priebehu niekoľkých minút.
 
