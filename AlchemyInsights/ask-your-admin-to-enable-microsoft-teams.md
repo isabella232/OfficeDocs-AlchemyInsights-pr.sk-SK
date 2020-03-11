@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962312"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573147"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>You ' re Missing out! Požiadajte správcu, aby umožnil Microsoft teams
 
-Sú fakulty a zamestnanci schopní pristupovať k tímom, ale študenti nemôžu, alebo sú vaše F1 licencovaných užívateľov nemôže pristupovať k tímom?
+Ak máte nájomcu EDU, musíte povoliť Microsoft teams manuálne. Chcete urobiť, prejdite na Microsoft 365 admin Center > **služby a doplnky > Microsoft teams**. Ak používate centrum spravovania nových tímov, budete musieť vypnúť **Vyskúšajte nové centrum** spravovania na vyhľadanie **služieb a doplnkov**. 
 
-Tímy musia byť explicitne povolené pre študentov a licencie F1. Podrobnejšie pokyny o tom, ako povoliť tímom pre vašu školu, môžete nájsť v [konfigurácii tímov pre vzdelávanie](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**Dôležité**: možno budete musieť počkať až 24 hodín, kým sa zmeny prejavia.
