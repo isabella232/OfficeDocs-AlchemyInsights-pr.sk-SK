@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 2fe3226c542ba3778751c7f20aa2daa421743354
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564363"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599391"
 ---
-# <a name="teams-supported-web-browsers"></a><span data-ttu-id="fdbb0-102">Tímy-podporované webové prehliadače</span><span class="sxs-lookup"><span data-stu-id="fdbb0-102">Teams-supported web browsers</span></span>
+# <a name="teams-supported-web-browsers"></a><span data-ttu-id="8ebca-102">Tímy-podporované webové prehliadače</span><span class="sxs-lookup"><span data-stu-id="8ebca-102">Teams-supported web browsers</span></span>
 
-<span data-ttu-id="fdbb0-103">Tímy plne podporujú internetové prehliadače uvedené v článku, [obmedzenia a špecifikácie pre Microsoft teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers), s uvedenými výnimkami pre volania a stretnutia.</span><span class="sxs-lookup"><span data-stu-id="fdbb0-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
+<span data-ttu-id="8ebca-103">Tímy plne podporujú internetové prehliadače uvedené v článku, [obmedzenia a špecifikácie pre Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), s uvedenými výnimkami pre volania a stretnutia.</span><span class="sxs-lookup"><span data-stu-id="8ebca-103">Teams fully supports the Internet browsers listed in the article, [Limits and specifications for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), with noted exceptions for calling and meetings.</span></span>
