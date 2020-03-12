@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274973"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599967"
 ---
 # <a name="teams-policies"></a>Tímami politiky
 
@@ -27,7 +27,7 @@ Nastavenia Microsoft teams sú riadené politikami. Ak chcete vykonať zmenu, mu
 Tímové politiky sú rozdelené do nasledujúcich oblastí:
 
 - [Tímy politiky](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontrolujú užívateľa objav súkromných tímov pri hľadaní a vytváraní súkromných kanálov.  
-- [Politiky schôdzí](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolujú, čo môžu používatelia robiť so schôdzami tímov, vrátane ovládania vstupnej haly. Pomoc pri problémoch s lobom, ako je napríklad konfigurácia tímov na priznanie všetkým, nájdete [v časti ovládanie nastavení vstupnej haly a úrovne účasti](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Politiky schôdzí](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolujú, čo môžu používatelia robiť so schôdzami tímov, vrátane ovládania vstupnej haly. Pomoc pri problémoch s lobom, ako je napríklad konfigurácia tímov na priznanie všetkým, nájdete [v časti ovládanie nastavení vstupnej haly a úrovne účasti](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Politiky odosielania správ](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontrolujú, čo môžu používatelia robiť s konverzácií a správami, vrátane zapnutia alebo vypnutia konverzácie, odstránenia konverzácií, požadovanie potvrdení o prečítaní, používania giphys a nálepiek a ďalších.
 - [Politiky nastavenia aplikácie](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontrolujú, ktoré aplikácie sú k dispozícii používateľom, vrátane aplikácií pre vlastnú a tretiu stranu a poradia, v akom sa zobrazujú.  
 - [Politiky uchovávania](https://docs.microsoft.com/microsoftteams/retention-policies) údajov pre tímy sa nachádzajú v centre zabezpečenia a súladu balíka Office 365.

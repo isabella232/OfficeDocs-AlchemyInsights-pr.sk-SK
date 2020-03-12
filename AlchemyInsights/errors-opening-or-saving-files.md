@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031629"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600147"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Riešenie chýb pri otváraní alebo ukladaní súborov programu Word
 
@@ -25,7 +25,7 @@ Ak sa vyskytnú problémy s otvorením alebo uložením dokumentov programu Word
 - [Nainštalujte aktualizácie balíka Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Zoznam najnovších aktualizácií balíka Office nájdete v téme [najnovšie aktualizácie](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Riešenie problémov s poškodenými dokumentmi v programe Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Oprava aplikácie balíka Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Ak dokument obsahuje sledované zmeny, použite návrhy v [programe Word spomaľuje alebo prestane reagovať, ak existujú nadmerné sledované zmeny alebo komentáre](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) na vyriešenie problému.
+- Ak dokument obsahuje sledované zmeny, použite návrhy v [programe Word spomaľuje alebo prestane reagovať, ak existujú nadmerné sledované zmeny alebo komentáre](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) na vyriešenie problému.
 
 Ak sa zobrazilo chybové hlásenie ako jeden z nasledujúcich krokov, použite návrhy v [chybovom hlásení v balíku Office, keď je súbor zablokovaný nastavením politiky databázy Registry](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 

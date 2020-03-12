@@ -11,18 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322769"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600579"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernizuje klasickú domovskú stránku
 
 Nedávna aktualizácia klasickej stránky tímovej lokality SharePoint ovplyvňuje domovskú stránku klasických tímových lokalít (STS # 0), keď Domovská stránka obsahuje *iba Nepredvolené webové časti* , ako je napríklad Začíname, Knižnica dokumentov a Newsfeed.
 
-Pozrite sa na prechádzku-through zmeny [tu](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Pozrite sa na prechádzku-through zmeny [tu](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Poznámka: klasické tímové lokality, ktoré obsahujú prispôsobený obsah, sa automaticky neaktualizujú.**
 

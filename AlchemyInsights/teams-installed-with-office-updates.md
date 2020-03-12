@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908759"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599499"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams nainštalovaný s aktualizáciou balíka Office
 
@@ -32,6 +32,6 @@ Ak vaša organizácia nie je pripravená nasadiť tímy, môžete ***vylúčiť 
 
 Ak chcete ***odinštalovať tímy*** zo zariadenia so systémom Windows, pozrite si [Odinštalovanie tímov Microsoft teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Vyčistiť Microsoft teams z viacerých cieľových strojov alebo používateľov, nájdete [Microsoft teams nasadenie Cleanup](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Ak používate zdieľané počítače, služby vzdialenej pracovnej plochy (RDS) alebo Virtual Desktop Infrastructure (VDI), pozrite si [zdieľaný počítač a prostredie VDI s tímami Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Ak používate balík Office for Mac, pozrite si [Microsoft teams inštalácie na Macu](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Ak používate zdieľané počítače, služby vzdialenej pracovnej plochy (RDS) alebo Virtual Desktop Infrastructure (VDI), pozrite si [zdieľaný počítač a prostredie VDI s tímami Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Ak používate balík Office for Mac, pozrite si [Microsoft teams inštalácie na Macu](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Poznámka:** Po nainštalovaní tímov sa [automaticky aktualizuje](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) približne každé dva týždne novými funkciami a kvalitnými aktualizáciami. 
