@@ -1,24 +1,42 @@
 ---
-title: Ako nastaviť audiokonferencie pre tímy
+title: Ako nastavím audiokonferencie pre Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: eb875a0659327e0669c449a4b16037f2c7fc0eb2
-ms.sourcegitcommit: 60166417054fddd68750f1ce5898af79d9de1dfa
-ms.translationtype: MT
+ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
+ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37383964"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42692410"
 ---
-# <a name="phone-systems-and-audio-conferencing-for-teams"></a>Telefónne systémy a audiokonferencie pre tímy
+# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferencie
 
-Ďalšie informácie o schôdzach a konferenciách v programe Microsoft teams nájdete [v téme schôdze a konferencie v programe Microsoft teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page).
+Potrebujete pomoc pri zapnutí alebo nastavení audiokonferencií v Microsoft Teams? Bol tento používateľ vytvorený len nedávno?  Ak áno, budete musieť počkať 2 až 24 hodín, aby sa nastavenia prejavili.    
+
+Ak chcete overiť, či používateľ má licenciu na audiokonferencie a má predvolené platené číslo:
+
+1. Prejdite na položku [Aktívni používatelia](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) a potom vyberte príslušného používateľa.
+
+2. V závislosti od verzie centra spravovania vyberte možnosť **Licencie a aplikácie** alebo kliknite na položku **Upraviť** v okne **Licencie na produkty**.
+
+3. Skontrolujte, či používateľ má vybraté licencie pre **Audiokonferencie, Microsoft Teams**a **Skype for Business Online (plán 2)**.
+
+4. V **centre spravovania** kliknite na položku **Zobraziť všetko**, potom na položku **Teams**.
+
+5. V **centre spravovania pre Microsoft Teams** kliknite na položku **Starší portál**.
+
+6. V **centre spravopvania pre Skype for Business** kliknite na položku **Audiokonferencie** a potom **Používatelia**.
+
+7. Vyberte príslušného používateľa a overte, či má **Predvolené platené číslo**.
+
+Ďalšie informácie nájdete v téme [Volacie plány pre Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) alebo zavolajte tímu Microsoft Commerce Billing, kde vám pomôžu s otázkami týkajúcimi sa licencovania.
