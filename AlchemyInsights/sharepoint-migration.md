@@ -10,14 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d0587b3a86b90358359c03fe32e9919facd30883
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964029"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932745"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrácia možností SharePoint Online
+
+**Dôležité**: mnoho zákazníkov SharePoint Online a OneDrive spúšťať kritické aplikácie proti služby, ktoré sa spúšťajú na pozadí. Patria sem migrácia obsahu, ochrana pred únikom údajov (DLP) a riešenia zálohovania. Počas týchto bezprecedentných časoch, robíme kroky, aby zabezpečili, že SharePoint Online a OneDrive služby zostávajú vysoko dostupné a spoľahlivé pre používateľov, ktorí závisia od služby viac ako inokedy v situáciách vzdialenej práce.
+
+Na podporu tohto cieľa sme implementovali prísnejšie obmedzenia pre aplikácie na pozadí (migrácia, DLP a záložné riešenia) počas denných hodín pracovného dňa. Mali by ste očakávať, že tieto aplikácie dosiahnu veľmi obmedzenú priepustnosť v týchto časoch. Avšak, počas večera a víkendové hodiny pre región, bude služba pripravená spracovať výrazne vyšší objem žiadostí z aplikácií na pozadí.
+
+**Možnosti migrácie**
 
 K dispozícii sú rôzne možnosti migrácie obsahu na lokalitu SharePoint Online v závislosti od veľkosti a množstva súborov, ktoré potrebujete premiestniť, nájdete tu zoznam možností, ktoré [sa nachádzajú tu](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 

@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530309"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932637"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nefunguje podľa očakávania
 
-Máte problémy s **Data Loss Prevention (DLP)** v Office 365 nefunguje ako sa očakávalo? Ak áno, uistite sa, že **DLP politiky** je nastavený správne, a že údaje obsahujú aké **DLP politiky** hľadá, keď je hodnotený.
-  
+**Dôležité**: mnoho zákazníkov SharePoint Online a OneDrive spúšťať kritické aplikácie proti služby, ktoré sa spúšťajú na pozadí. Patria sem migrácia obsahu, ochrana pred únikom údajov (DLP) a riešenia zálohovania. Počas týchto bezprecedentných časoch, robíme kroky, aby zabezpečili, že SharePoint Online a OneDrive služby zostávajú vysoko dostupné a spoľahlivé pre používateľov, ktorí závisia od služby viac ako inokedy v situáciách vzdialenej práce.
+
+Na podporu tohto cieľa sme implementovali prísnejšie obmedzenia pre aplikácie na pozadí (migrácia, DLP a záložné riešenia) počas denných hodín pracovného dňa. Mali by ste očakávať, že tieto aplikácie dosiahnu veľmi obmedzenú priepustnosť v týchto časoch. Avšak, počas večera a víkendové hodiny pre región, bude služba pripravená spracovať výrazne vyšší objem žiadostí z aplikácií na pozadí.
+
  **Nastavenie DLP**
+
+Máte problémy s **únikom údajov (DLP)** v balíku Office 365 nefunguje podľa očakávania? Ak áno, uistite sa, že **DLP politika** je nastavená správne, a že vaše údaje obsahuje to, čo **DLP politika** hľadá, keď sa hodnotí.
   
-DLP politiky umožňuje identifikovať a chrániť citlivé informácie v organizácii. Nastavenie politiky DLP, používať informácie [tu](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Politiky DLP vám umožňujú identifikovať a chrániť citlivé informácie vo vašej organizácii. Ak chcete nastaviť politiky DLP, použite informácie [tu](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **Pozrite sa aké DLP politiky**
+ **Čo DLP politiky Hľadať**
   
-Pri použití **vstavaný citlivé informácie typy** v Office 365 zabezpečenia a zhody centrum, DLP politiky hľadať konkrétne vzory a prvky pri odhaľovaní týchto citlivých druhov.
+Pri použití **vstavané typy citlivých informácií** v Office 365 zabezpečenia a súladu centrum, DLP politiky Hľadať špecifické vzory a prvky pri zisťovaní týchto citlivých typov.
   
-- **Typov vstavaných citlivých informácií**
+- **Vstavané typy citlivých informácií**
 
-    Informácie o vstavanej citlivých druhov a čo DLP politiky hľadá pri detekcii citlivý typ, pozri: [Aké typy citlivé informácie vyhľadať](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Informácie o vstavaných citlivých typoch a o tom, čo politika DLP vyhľadáva pri zisťovaní citlivého typu, nájdete v téme: [Aké typy citlivých informácií hľadajú](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Typy vlastných citlivých informácií**
+- **Vlastné citlivé typy informácií**
 
-    Ak sa snažíte vytvoriť typy vlastných citlivých informácií, použite nasledujúci článok informácie o tom, ako vytvoriť vlastné citlivý typ: [vytvoriť typ vlastné citlivé informácie](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Ak sa pokúšate vytvoriť vlastné citlivé typy informácií, použite nasledujúci článok informácie o tom, ako vytvoriť vlastný citlivý typ: [vytvoriť vlastné citlivé informácie typu](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
-**Test DLP politiky**
+**Testovanie politiky DLP**
 
-Otestovať vaše dáta s typom vstavané alebo vlastné citlivé informácie, použite možnosť **skúšky typu** podľa **klasifikácie** > **typy citlivých informácií**. Ďalšie informácie sa nachádzajú v téme [Test vlastné citlivé informácie typy](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Ak chcete otestovať údaje pomocou vstavaného alebo vlastného typu citlivých informácií, použite možnosť **typ testu** podľa **klasifikácie** > **citlivých typov**informácií. Ďalšie informácie nájdete v téme [testovanie vlastných typov citlivých informácií](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Správy**
   
-- Nahliadnite viac citlivé údaje s [DLP správ.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Získajte citlivé údaje s [prehľadom DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-- Pozrite si konkrétne podrobnosti udalosti [Incident správa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Pozrite si konkrétne podrobnosti udalosti so [správou o incidente](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).

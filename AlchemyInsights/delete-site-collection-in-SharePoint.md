@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042895"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931313"
 ---
 # <a name="delete-a-site"></a>Odstránenie lokality
 
-Keď odstránite lokalitu, presunie sa na [odstránené lokality](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) a zachová sa 93 dní. Ak chcete lokalitu odstrániť, prejdite na lokalitu [aktívne lokality](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Keď odstránite lokalitu, presunie sa na odstránené lokality a zachová sa 93 dní. Ak chcete lokalitu odstrániť, prejdite na lokalitu [aktívne lokality](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Keď odstránite lokalitu, všetko v nej sa odstráni, vrátane:
 
