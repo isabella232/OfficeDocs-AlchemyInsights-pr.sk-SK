@@ -21,8 +21,8 @@ ms.locfileid: "42940354"
 
 Každý tím v službe Microsoft Teams má tímovú lokalitu v službe SharePointe Online a každý kanál v tíme získa priečinok v rámci predvolenej knižnice dokumentov na tímovej lokalite. Keďže služba Microsoft Teams používa SharePoint Online na ukladanie súborov, [uplatňujú sa limity služby SharePoint Online](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage).
 
-- Ak chcete spravovať ukladací priestor pre lokalitu služby Teams, pozrite si tému [Spravovanie ukladacieho priestoru lokalít](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- Ak chcete spravovať ukladací priestor pre tímovú lokalitu, pozrite si tému [Spravovanie ukladacieho priestoru lokalít](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
 
-- Ak chcete zistiť, ako služba Microsoft Teams interaguje s týmto ukladacím priestorom, pozrite si tému [Ukladanie súborov v službe Teams](https://support.office.com/article/file-storage-in-teams-df5cc0a5-d1bb-414c-8870-46c6eb76686a).
+- Ak chcete zistiť, ako služba Microsoft Teams spolupracuje s týmto ukladacím priestorom, pozrite si tému [Ukladací priestor súborov v službe Teams](https://support.office.com/article/file-storage-in-teams-df5cc0a5-d1bb-414c-8870-46c6eb76686a).
 
 Ďalšie informácie nájdete v téme [Umiestnenie údajov v službe Microsoft Teams](https://docs.microsoft.com/microsoftteams/location-of-data-in-teams).

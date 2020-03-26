@@ -20,10 +20,10 @@ ms.locfileid: "42932339"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Ovládanie potvrdení o prečítaní v aplikácii Teams
 
-**Potvrdenia o prečítaní** pre vašu organizáciu môžete ovládať pomocou zásad výmeny správ v aplikácii Teams.
+**Potvrdenia o prečítaní** pre vašu organizáciu môžete ovládať pomocou politík výmeny správ v aplikácii Teams.
 
-- Potvrdenia o prečítaní je možné zapnúť alebo vypnúť v rámci organizačnej úrovne pomocou zásad výmeny správ. Pozrite si časť „Potvrdenia o prečítaní“ v časti [Nastavenia zásad výmeny správ](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings).
+- Potvrdenia o prečítaní je možné zapnúť alebo vypnúť na úrovni celej organizácie pomocou politík výmeny správ. Pozrite si tému Potvrdenia o prečítaní v časti [Nastavenia politiky výmeny správ](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings).
 
-- Ak povolíte svojim používateľom ovládať svoje vlastné nastavenia potvrdenia o prečítaní, [tu si môžete pozrieť, ako ich môžu upravuvať](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings). 
+- Ak povolíte používateľom ovládať nastavenia potvrdení o prečítaní, [tu sú informácie o tom, ako môžu nastavenia upravovať](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings). 
 
 **Poznámka**: Potvrdenia o prečítaní musí zapnúť správca, aby používatelia mohli vykonávať zmeny.

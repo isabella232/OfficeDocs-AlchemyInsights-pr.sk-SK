@@ -20,9 +20,9 @@ ms.locfileid: "42932493"
 ---
 # <a name="general-migration-performance-guidance"></a>Všeobecné informácie o výkone migrácie
 
-**Dôležité**: Mnoho zákazníkov SharePointu Online a OneDrivu spúšťa dôležité podnikové aplikácie s pomocou služby, ktorá beží na pozadí. Patrí sem migrácia obsahu, ochrana pred únikom údajov (DLP) a riešenia zálohovania. V tomto neobvyklom období podnikáme kroky na zabezpečenie toho aby služby SharePoint Online a OneDrive zostali vysoko dostupné a spoľahlivé pre používateľov, ktorí sa viac ako obvykle spoliehajú na túto službu pri situáciách práce na diaľku.
+**Dôležité**: Mnoho zákazníkov SharePointu Online a OneDrivu spúšťa dôležité podnikové aplikácie s pomocou služby, ktorá beží na pozadí. Patrí sem migrácia obsahu, ochrana pred únikom údajov (DLP) a riešenia zálohovania. V tomto neobvyklom období podnikáme kroky, aby boli služby SharePoint Online a OneDrive i naďalej vysoko dostupné a spoľahlivé pre vašich používateľov, ktorí sa v súčasnosti viac ako zvyčajne spoliehajú na túto službu pri práci na diaľku.
 
-Na podporu tohto cieľa sme implementovali prísnejšie obmedzenia aplikácií na pozadí (migrácia, DLP a riešenia zálohovania) počas denných hodín pracovných dní. Mali by ste očakávať, že tieto aplikácie dosiahnu v týchto časoch veľmi obmedzenú priepustnosť. Počas večerných a víkendových hodín pre príslušnú oblasť však bude služba pripravená na spracovanie významne vyššieho objemu požiadaviek z aplikácií na pozadí.
+Na dosiahnutie tohto cieľa sme implementovali prísnejšie obmedzenia aplikácií na pozadí (migrácia, DLP a riešenia zálohovania) počas denných hodín pracovných dní. Mali by ste očakávať, že tieto aplikácie dosiahnu v týchto časoch veľmi obmedzenú priepustnosť. Počas večerných a víkendových hodín pre príslušnú oblasť však bude služba pripravená na spracovanie významne vyššieho objemu požiadaviek z aplikácií na pozadí.
 
 **Informácie o výkone migrácie**
 
