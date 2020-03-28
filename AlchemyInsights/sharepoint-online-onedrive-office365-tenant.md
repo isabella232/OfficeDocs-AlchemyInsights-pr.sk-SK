@@ -10,17 +10,16 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 214e148420519b47253a317a8bec8239ee985e34
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571355"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030379"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online alebo OneDrive "nastavenie"
 
-Keď používateľ je pridaný do existujúceho nájomcu Office 365, môžu vidieť SharePoint Online alebo OneDrive Business ikony uvedené ako "nastavenie" až po dokončení procesu poskytovania.
-Postupujte podľa tohto [sprievodcu Riešenie problémov](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) o pomoc.
+Keď používateľ je pridaný do existujúceho nájomcu Office 365, môžu vidieť SharePoint Online alebo OneDrive Business ikony uvedené ako "nastavenie" alebo "sme stále pracujeme na získanie súborov Setup" až po dokončení procesu poskytovania. Postupujte podľa tohto [sprievodcu Riešenie problémov](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) o pomoc.
 
 Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prosím, prihláste podporu prípad.
 
