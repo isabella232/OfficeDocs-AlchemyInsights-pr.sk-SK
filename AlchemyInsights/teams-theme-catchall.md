@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856482"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030415"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Bežné problémy aplikácie Teams a riešenia
+
+**Dôležité**: V dôsledku nedávneho nárastu využívania aplikácie Teams sa môže stať, že keď používateľovi priradíte licenciu na Teams, úplné nastavenie môže trvať až 24 hodín. Dovtedy im nebudete môcť priradiť politiky Teams a nemusia mať prístup k niektorým funkciám aplikácie Teams, ako sú napríklad hovory a zvukové konferencie.
+
+**Bežné problémy a riešenia**
 
 Ak hľadáte konkrétnejšiu odpoveď, skúste preformulovať svoju otázku tak, aby obsahovala všetky chyby, ktoré vidíte alebo funkcie aplikácie Teams, ktoré používate.
 
