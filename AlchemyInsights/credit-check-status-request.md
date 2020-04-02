@@ -1,5 +1,5 @@
 ---
-title: Úverové check status žiadosť
+title: Kreditná kontrola stavu žiadosť
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: bd359cff76ef943b90157140888963282e9a5ce3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c7489cd4e37cc7a55c0db597aabc96c3a8592d0f
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386527"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105290"
 ---
-# <a name="credit-check-status-request"></a>Úverové check status žiadosť
+# <a name="credit-check-status-request"></a>Kreditná kontrola stavu žiadosť
 
-Vaša objednávka je overenie úver. To je spravidla ukončené v rámci 24 hodín, ale môže trvať až 48 hodín. Po dokončení, vaše predplatné stav zmení z čakajúce na aktívny a služby budú k dispozícii na použitie.
+Vaša objednávka čaká na overenie úveru. To je zvyčajne dokončená v rámci 24 hodín, ale môže trvať až 48 hodín. Po dokončení sa stav predplatného zmení z čakajúcich na aktívny a služby budú k dispozícii na použitie.
+
+Ďalšie informácie nájdete v téme [Kedy sa môže vyžadovať kontrola kreditu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).

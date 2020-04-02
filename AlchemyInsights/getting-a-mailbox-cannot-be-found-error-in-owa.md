@@ -1,5 +1,5 @@
 ---
-title: 126 dostať poštovú schránku nemožno nájsť chyby v OWA?
+title: 126 získanie poštovej schránky sa nenašla chyba v aplikácii OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523886"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105254"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Získanie poštovej schránky nebola nájdená chyba v Outlooku na webe?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Získanie poštovej schránky sa nenašla chyba v programe Outlook na webe?
 
-Ak používate program Outlook na webe, dostanete chybu **sa nepodarilo nájsť poštovú schránku pre** konto, ktoré ste sa pripojiť k programu Outlook na webe nemá licenciu Exchange Online, a preto žiadne poštových schránok priradený účet. Správcu môžete priradiť licenciu k účtu pomocou nasledujúcich krokov:
+Ak používate program Outlook na webe a dostanete **poštovú schránku sa nenašla** chyba, konto, ktoré ste použili na pripojenie k programu Outlook na webe nemá licenciu Exchange Online, a preto žiadna poštová schránka je priradená k účtu. Váš správca môže priradiť licenciu k vášmu kontu pomocou nasledujúcich krokov:
 
-1. Otvorte [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) a v zozname **aktívnych používateľov**, vyberte možnosť **Upraviť používateľa**.
+1. Otvorte [Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/homepage) a prejdite na **aktívnych používateľov** v časti **Používatelia** a vyberte používateľa, ktorý sa zobrazuje chyba.
 
-2. Na stránke **Upraviť používateľ** otvorí, vyberte používateľa. Na stránke vlastností používateľa, ktoré sa otvorí, kliknite na tlačidlo **Upraviť** pre **licencie produktov**.
-
-3. Na stránke **licencie produktov** , ktoré sa otvorí, vyberte príslušnú hodnotu **umiestnenie** a priradenie licencie, ktorá obsahuje Exchange Online (rozšíriť licenciu zobrazíte Podrobnosti). Po dokončení kliknite na tlačidlo **Uložiť**.
+2. Na stránke používateľa, ktorá sa otvorí, prejdite do časti **licencie a aplikácie** , vyberte príslušnú hodnotu **miesta** a priraďte licenciu obsahujúcu Exchange Online (rozbaľte licenciu a zobrazte jej Podrobnosti). Po skončení kliknite na tlačidlo **Uložiť zmeny**.
