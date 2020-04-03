@@ -1,5 +1,5 @@
 ---
-title: Nastavenie OneDrive
+title: Nastavenie služby OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 6/8/2018
@@ -11,14 +11,14 @@ ms.custom:
 - "819"
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 4552d03c800bcb4a2f95db5beda5f4ab75ef03b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 47635cd7fbe55b4d5dc2d38259877a7c0e184b51
+ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509225"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43116348"
 ---
-# <a name="use-the-onedrive-syn-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="7bbb1-102">Použiť OneDrive syn klienta synchronizácie OneDrive alebo SharePoint súborov</span><span class="sxs-lookup"><span data-stu-id="7bbb1-102">Use the OneDrive syn client to sync OneDrive or SharePoint files</span></span>
+# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="6805d-102">Synchronizácia OneDrive alebo SharePoint súborov pomocou synchronizačného klienta OneDrive</span><span class="sxs-lookup"><span data-stu-id="6805d-102">Use the OneDrive sync client to sync OneDrive or SharePoint files</span></span>
 
-<span data-ttu-id="7bbb1-103">Môžete [synchronizovať svoje OneDrive pracovných súborov](https://go.microsoft.com/fwlink/?linkid=533375) alebo [SharePoint súbory synchronizovať](https://go.microsoft.com/fwlink/?linkid=871666) s OneDrive synchronizácia klienta.</span><span class="sxs-lookup"><span data-stu-id="7bbb1-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
+<span data-ttu-id="6805d-103">Môžete [synchronizovať OneDrive Business súbory](https://go.microsoft.com/fwlink/?linkid=533375) alebo [synchronizovať súbory SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) s OneDrive synchronizácia klienta.</span><span class="sxs-lookup"><span data-stu-id="6805d-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
   
