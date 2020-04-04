@@ -1,5 +1,5 @@
 ---
-title: Návrhmi na riešenie chýba OneNote 2016
+title: Chýbajú návrhy na vyriešenie programu OneNote 2016
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534434"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143040"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Návrhmi na riešenie chýba OneNote 2016
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Chýbajú návrhy na vyriešenie programu OneNote 2016
 
-Po inštalácii Microsoft Office 2019 alebo Office 365 na počítači s ľubovoľným vydaním systémov Windows 10, OneNote 2016 sa zdá byť chýbajúce zo zoznamu nainštalované aplikácie.
+Počnúc marca 2020, pri inštalácii balíka Office 365 alebo Office 2019, aplikácia OneNote Desktop sa nainštaluje vedľa aplikácie Word, PowerPoint a Excel Desktop Apps.
 
-Predvolene Office 2019 a Office 365 automaticky nenainštaluje OneNote 2016 desktop verziu, ale ak stále potrebujete alebo chcete použit túto verziu, môžete si ho stiahnuť samostatne a použiť po boku novej aplikácie Office 2019.
+Po inštalácii balíka Microsoft Office 2019 alebo Office 365 v počítači s ľubovoľnom vydaní Windowsu 10 sa zdá, že program OneNote 2016 chýba zo zoznamu nainštalovaných počítačových aplikácií.
 
-Postupujte [nasledovne](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) pre viac informácií o tom, ako stiahnuť 32-bitová alebo 64-bitové vydanie programu OneNote 2016 pre Windows.
+Ak chcete získať ďalšie informácie o preberaní 32-bitového alebo 64-bitového vydania programu OneNote 2016 pre systém Windows, postupujte podľa [týchto krokov](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) .
