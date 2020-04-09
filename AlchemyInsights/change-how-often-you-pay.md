@@ -1,5 +1,5 @@
 ---
-title: Zmeniť, ako často budete platiť
+title: Zmena, ako často zaplatíte
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386916"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195033"
 ---
-# <a name="change-how-often-you-pay"></a>Zmeniť, ako často budete platiť
+# <a name="change-how-often-you-pay"></a>Zmena, ako často zaplatíte
 
- **Chcete zmeniť frekvenciu platby?** Ak chcete zmeniť, ako často platíte za vášho predplatného Office 365 for business, buď z ročného na mesačných na ročné, alebo mesačné pomôžeme vám s tým. Budete musieť kúpiť rovnaké predplatné s nový frekvenciu platieb a zrušenie starého predplatného. Použite možnosť "Dajte nám zavolať", obráťte sa na pracovníka technickej podpory.
+Pri kúpe predplatného si vyberáte mesačné alebo ročné vyúčtovanie. Ak chcete zmeniť spôsob fakturácie predplatného, použite nasledovný postup.
+
+1. V centre spravovania prejdite na stránku **fakturácie> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+
+2. Nájdite predplatné, ktoré chcete zmeniť. V sekcii **Fakturácia** vedľa položky **účtované mesačne** alebo **účtované ročne**kliknite na položku **Upraviť**.
+
+3. Vyberte možnosť, ako často chcete účtovať poplatky, a potom vyberte položku **zmeniť**.

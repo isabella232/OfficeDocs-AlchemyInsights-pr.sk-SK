@@ -11,10 +11,10 @@ ms.custom:
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/03/2020
+ms.lasthandoff: 04/08/2020
 ms.locfileid: "43132626"
 ---
 # <a name="enable-an-archive-mailbox"></a>Povolenie archívnej poštovej schránky
@@ -49,7 +49,7 @@ Povolenie archívu zdieľanej poštovej schránky:
 
 4. Na table s podrobnosťami napravo v časti Archív na **mieste**kliknite na položku **Povoliť**a potom kliknutím na tlačidlo **Áno** povoľte archívnu poštovú schránku.
 
-Ďalšie informácie nájdete v téme:
+Ďalšie informácie nájdete v témach:
   
 - [Povoliť archívne poštové schránky v balíku Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
