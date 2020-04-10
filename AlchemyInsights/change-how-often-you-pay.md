@@ -12,13 +12,14 @@ ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
+- "4552"
 - "1500025"
-ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195033"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43217879"
 ---
 # <a name="change-how-often-you-pay"></a>Zmena, ako často zaplatíte
 
@@ -28,4 +29,4 @@ Pri kúpe predplatného si vyberáte mesačné alebo ročné vyúčtovanie. Ak c
 
 2. Nájdite predplatné, ktoré chcete zmeniť. V sekcii **Fakturácia** vedľa položky **účtované mesačne** alebo **účtované ročne**kliknite na položku **Upraviť**.
 
-3. Vyberte možnosť, ako často chcete účtovať poplatky, a potom vyberte položku **zmeniť**.
+3. Vyberte možnosť, ako často chcete účtovať, a potom kliknite na tlačidlo **zmeniť**.

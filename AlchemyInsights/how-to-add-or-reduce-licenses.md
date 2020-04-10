@@ -1,5 +1,5 @@
 ---
-title: Pridanie alebo znížiť licencií
+title: Ako pridať alebo znížiť licencie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664299"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207388"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Pridanie alebo znížiť licencií
+# <a name="how-to-add-or-reduce-licenses"></a>Ako pridať alebo znížiť licencie
 
-Tu je návod, ako odstrániť Office 365 licencie alebo zakúpiť ďalšie licencie.
+Tu je návod, ako pridať alebo odstrániť licencie.
   
-1. Admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. Prejdite na ** [predplatné](https://portal.office.com/adminportal/home#/subscriptions)> fakturácie**.
 
-2. Vyberte na predplatné, ktoré chcete pridať alebo odstrániť licencie.
+2. Vyberte predplatné, z ktorého chcete pridať alebo odstrániť licencie.
 
-3. Vyberte **Pridať alebo odstrániť licencie**.
+3. Kliknite na položku **Pridať alebo odstrániť licencie**.
 
-4. Zadajte celkový počet užívateľov potrebná.
+4. Zadajte celkový počet potrebných používateľov. Napríklad, ak máte v súčasnosti 25 licencií a chcete odstrániť 5, zadajte 20 v tomto poli.
 
-    Napríklad, ak máte v súčasnosti 25 licencií a chcete odstrániť 5, zadajte 20 do tejto oblasti.
+5. Kliknite na položku **Odoslať zmenu**.
 
-5. Vyberte **Odoslať zmenu**.
+**Poznámka**: každý nový poplatok (zvýšenie licencie) alebo kredit (zníženie licencie) sa objaví na ďalší účet.
 
-> [!NOTE]
-> Akýkoľvek nový poplatok (licencia zvýšenie) alebo kredit (licencia pokles) sa objaví na vašom ďalšom účte.
+Informácie o spôsobe priradenia licencií nájdete [v téme Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Ďalšie informácie, pozrite si [kupovať licencie pre vášho predplatného Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Dodatočné zdroje**
+ **Zdroje**
   
-- [Odstrániť licencie od vášho predplatného Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Správa licencií predplatného-kúpiť alebo odstrániť](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Zrušenie služieb Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Zrušiť Office 365 pre podniky](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Kúpiť ďalší predplatného Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Kúpiť ďalšie Office 365 pre podnikové predplatné](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)

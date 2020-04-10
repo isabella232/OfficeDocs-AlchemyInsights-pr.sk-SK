@@ -1,5 +1,5 @@
 ---
-title: Predĺženie skúšobnej verzie služieb Office 365 for Business
+title: Rozšírte skúšobnú verziu balíka Office 365 pre podniky
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665019"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207352"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Predĺženie skúšobnej verzie služieb Office 365 pre podniky
+# <a name="extend-your-trial-for-office-365-for-business"></a>Rozšírte skúšobnú verziu balíka Office 365 pre podniky
 
-Ak vaše hodnotenie predplatné je do 15 dní od končí a súdnom konaní nebol bol rozšírený pred, môžete rozšíriť vaše hodnotenie na ďalšie 30-dňové obdobie. Môžete urobiť len to raz.
+Skúšobnú verziu môžete predĺžiť na ďalšie 30-dňové obdobie. Môžete to urobiť len raz.
   
-1. Admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. V centre spravovania prejdite na položku **fakturačné** \> [produkty & služby](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Vyberte si skúšobnú predplatné, ktoré chcete rozšíriť.
+2. Vyberte skúšobné predplatné, ktoré chcete rozšíriť.
 
-3. V časti **sekcie & akcie** vyberte **predĺženie skúšobnej** a dokončite zostávajúce kroky.
+3. Kliknite na položku **rozšíriť skúšobnú verziu** a dokončite kroky sprievodcu.
 
-4. Budete musieť poskytnúť informácie o kreditnej karte na predĺženie skúšobnej verzie. Neúčtujeme kreditnej karty skúšobnej rozšírenie.
+4. Ak chcete predĺžiť skúšobnú verziu, musíte poskytnúť informácie o kreditnej karte. Nebudeme účtovať kreditnú kartu pre skúšobné predĺženie.
 
-Ďalšie informácie, pozrite si [predĺženie skúšobnej verzie služieb Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Ďalšie informácie o rozšírení skúšobnej verzie alebo podrobné pokyny nájdete v téme [rozšírenie skúšobnej verzie balíka Office 365 pre podniky](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
