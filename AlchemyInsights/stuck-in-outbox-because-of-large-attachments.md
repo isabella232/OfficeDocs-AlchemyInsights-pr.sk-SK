@@ -11,37 +11,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
-ms.openlocfilehash: d5fb20fcc146be67c5a04de0640ed4efd625311a
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+- "9002385"
+- "4645"
+ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
+ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441320"
+ms.lasthandoff: 04/12/2020
+ms.locfileid: "43232645"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Oprava správ, ktoré sú prilepené v priečinku Pošta na odoslanie
 
-Odporúčame vám začať spustením scenára ["Mám problémy s odosielaním, prijímaním alebo vyhľadávaním e-mailových správ"](https://aka.ms/SaRA-OutlookSendReceive) z nástroja [technickej podpory a obnovenia programu Microsoft](https://diagnostics.office.com/#/) .
+Odporúčame vám začať spustením scenára ["Mám problémy s odosielaním, prijímaním alebo vyhľadávaním e-mailových správ"](https://aka.ms/SaRA-OutlookSendReceive) z nástroja [technickej podpory a obnovenia programu Microsoft](https://diagnostics.office.com/#/) na postihnutý počítač.
 
-Keď správa uviazne v priečinku Pošta na odoslanie, Najpravdepodobnejšie príčiny sú:
-- Veľké prílohy.
-- Možnosť **Odoslať okamžite po pripojení** nie je povolená.
+Keď správa uviazne v priečinku Pošta na odoslanie, najpravdepodobnejšou príčinou je veľká príloha alebo možnosť "Odoslať ihneď po pripojení" nie je povolená.
 
-Ak chcete odstrániť veľké prílohy: 
+**Odstráňte veľkú prílohu**
 
-1. V programe Outlook vyberte položku **Odoslať a prijať** > **prácu v režime offline**. 
-2. Na navigačnej table vyberte položku **Pošta na odoslanie**. Odtiaľ môžete: 
-    - Odstráňte správu (vyberte ju a potom vyberte položku **Delete**).
-    - Presuňte správu do priečinka Koncepty, dvojitým kliknutím ho otvorte a odstráňte ju vyberte a potom vyberte položku **Delete (odstrániť**).
-3. Ak sa zobrazí chyba, ktorá hovorí, že program Outlook sa pokúša odovzdať správu, zavrite program Outlook. Ukončenie môže trvať niekoľko okamihov. Ak sa program Outlook nezavrie, stlačte kombináciu klávesov CTRL + ALT + DELETE a vyberte položku **Spustiť správcu úloh**. V Správcovi úloh vyberte kartu **procesy** , posuňte sa nadol do programu Outlook. exe a vyberte položku **ukončiť proces**.
-4. Po zatvorení programu Outlook, reštartujte ho a zopakujte kroky 2 a 3. 
-5. Po odstránení prílohy kliknite na položku **Odoslať a prijať** > **prácu v režime offline** a pokračujte v práci online. 
+1. Kliknite na položku **Odoslať a prijať** > **prácu v režime offline**. 
+2. Na navigačnej table kliknite na položku **Pošta na odoslanie**. Odtiaľ môžete: 
+    - Odstrániť správu. Stačí ho vybrať a kliknite na tlačidlo **odstrániť**.
+    - Presuňte správu do **priečinka Koncepty**, dvojitým kliknutím otvorte správu a odstráňte prílohu (kliknite naň a kliknite na tlačidlo **odstrániť**).
+3. Ak sa vám zobrazí chyba, ktorú program Outlook pokúša odovzdať, zavrite program Outlook. Ukončenie môže trvať niekoľko okamihov. Ak sa program Outlook nezavrie, stlačte **kombináciu klávesov CTRL + ALT + DELETE** a kliknite na položku **Spustiť správcu úloh**. V Správcovi úloh vyberte kartu **procesy** , posuňte sa nadol na položku Outlook. exe a kliknite na tlačidlo **ukončiť proces**.
+4. Po zatvorení programu Outlook reštartujte program Outlook a zopakujte kroky 2-3. 
+5. Po odstránení prílohy kliknite na položku **Odoslať a prijať** > **prácu v režime offline** a zrušte výber tlačidla a pokračujte v práci online. 
 
-Správy tiež uviaznu v priečinku Pošta na odoslanie po kliknutí na tlačidlo **Odoslať**, ale nie ste pripojení. Kliknite na tlačidlo **Odoslať a prijať** a pozrite sa na tlačidlo **pracovať v režime offline** . Ak je modrá, ste odpojený. Vyberte ho pre pripojenie (tlačidlo sa zmení na bielu) a kliknite na tlačidlo **Odoslať všetko**.
+Správy tiež uviaznu v priečinku Pošta na odoslanie po kliknutí na tlačidlo **Odoslať**, ale nie ste pripojení. Kliknite na tlačidlo **Odoslať a prijať** a pozrite sa na tlačidlo **pracovať v režime offline** . Ak je modrá, ste odpojený. Kliknutím naň sa pripojíte (tlačidlo sa zmení na bielu) a kliknite na tlačidlo **Odoslať všetko**.
  
-Ak chcete povoliť **odosielanie ihneď po pripojení**:
+**Povoliť odosielanie ihneď po pripojení**
  
-- Vyberte **** > **** možnosti >  súboru**Rozšírené**.
-V časti **Odoslať a prijať** vyberte položku **Odoslať ihneď po pripojení**a potom kliknite na **tlačidlo OK**.
+1. Na súbor karte, kliknite na tlačidlo **Možnosti**.
+
+2. V dialógovom okne Možnosti programu Outlook kliknite na tlačidlo **Spresniť**.
+
+3. V časti Odoslať a prijať kliknutím povoľte **Odoslať ihneď po pripojení**. Kliknite na tlačidlo **OK**.
  
 Podrobné informácie nájdete na:
 - [Video: odoslanie alebo odstránenie uviaznutia e-mailu](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
