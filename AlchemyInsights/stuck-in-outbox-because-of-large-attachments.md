@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232645"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241267"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Oprava správ, ktoré sú prilepené v priečinku Pošta na odoslanie
 
-Odporúčame vám začať spustením scenára ["Mám problémy s odosielaním, prijímaním alebo vyhľadávaním e-mailových správ"](https://aka.ms/SaRA-OutlookSendReceive) z nástroja [technickej podpory a obnovenia programu Microsoft](https://diagnostics.office.com/#/) na postihnutý počítač.
+Odporúčame vám začať spustením scenára ["Mám problémy s odosielaním, prijímaním alebo vyhľadávaním e-mailových správ"](https://aka.ms/SaRA-OutlookSendReceive) z nástroja [technickej podpory a obnovenia programu Microsoft](https://diagnostics.office.com/#/) .
 
 Keď správa uviazne v priečinku Pošta na odoslanie, najpravdepodobnejšou príčinou je veľká príloha alebo možnosť "Odoslať ihneď po pripojení" nie je povolená.
 
 **Odstráňte veľkú prílohu**
 
-1. Kliknite na položku **Odoslať a prijať** > **prácu v režime offline**. 
-2. Na navigačnej table kliknite na položku **Pošta na odoslanie**. Odtiaľ môžete: 
-    - Odstrániť správu. Stačí ho vybrať a kliknite na tlačidlo **odstrániť**.
-    - Presuňte správu do **priečinka Koncepty**, dvojitým kliknutím otvorte správu a odstráňte prílohu (kliknite naň a kliknite na tlačidlo **odstrániť**).
-3. Ak sa vám zobrazí chyba, ktorú program Outlook pokúša odovzdať, zavrite program Outlook. Ukončenie môže trvať niekoľko okamihov. Ak sa program Outlook nezavrie, stlačte **kombináciu klávesov CTRL + ALT + DELETE** a kliknite na položku **Spustiť správcu úloh**. V Správcovi úloh vyberte kartu **procesy** , posuňte sa nadol na položku Outlook. exe a kliknite na tlačidlo **ukončiť proces**.
-4. Po zatvorení programu Outlook reštartujte program Outlook a zopakujte kroky 2-3. 
-5. Po odstránení prílohy kliknite na položku **Odoslať a prijať** > **prácu v režime offline** a zrušte výber tlačidla a pokračujte v práci online. 
+1. V programe Outlook vyberte položku **Odoslať a prijať** > **prácu v režime offline**. 
+2. Na navigačnej table vyberte položku **Pošta na odoslanie**. Odtiaľ môžete: 
+    - Odstráňte správu (vyberte ju a potom vyberte položku **Delete**).
+    - Presuňte správu do priečinka Koncepty, dvojitým kliknutím ho otvorte a odstráňte ju vyberte a potom vyberte položku **Delete (odstrániť**).
+3. Ak sa zobrazí chyba, ktorá hovorí, že program Outlook sa pokúša odovzdať správu, zavrite program Outlook. Ukončenie môže trvať niekoľko okamihov. Ak sa program Outlook nezavrie, stlačte kombináciu klávesov CTRL + ALT + DELETE a vyberte položku **Spustiť správcu úloh**. V Správcovi úloh vyberte kartu **procesy** , posuňte sa nadol do programu Outlook. exe a vyberte položku **ukončiť proces**.
+4. Po zatvorení programu Outlook, reštartujte ho a zopakujte kroky 2 a 3. 
+5. Po odstránení prílohy kliknite na položku **Odoslať a prijať** > **prácu v režime offline** a pokračujte v práci online. 
 
 Správy tiež uviaznu v priečinku Pošta na odoslanie po kliknutí na tlačidlo **Odoslať**, ale nie ste pripojení. Kliknite na tlačidlo **Odoslať a prijať** a pozrite sa na tlačidlo **pracovať v režime offline** . Ak je modrá, ste odpojený. Kliknutím naň sa pripojíte (tlačidlo sa zmení na bielu) a kliknite na tlačidlo **Odoslať všetko**.
  
