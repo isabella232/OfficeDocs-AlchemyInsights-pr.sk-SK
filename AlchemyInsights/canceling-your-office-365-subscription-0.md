@@ -1,5 +1,5 @@
 ---
-title: Zrušenie predplatného na Office 365?
+title: Zrušenie predplatného balíka Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665559"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552684"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Zrušenie predplatného na Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Zrušenie predplatného balíka Office 365?
 
-Je nám ľúto vidieť ísť!
+Je nám ľúto, že vás vidím ísť!
   
-Na základe údajov organizácie, veríme, že aktuálneho predplatného máte menej než 25 miest. Zrušenie predplatného online, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku. V sekcii **nastavenia & akcie** vyberte **zrušiť predplatné**.
+Na základe údajov organizácie veríme, že všetky vaše aktuálne odbery majú menej ako 25 miest. Ak chcete predplatné zrušiť online, prejdite na stránku **Fakturačná** \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) . V časti **nastavenia & akcie** vyberte možnosť **zrušiť predplatné**.
   
-Ďalšie informácie v téme [zrušenie prihlásenia na odber](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Refundácia: akýkoľvek pomerný kredit vám bude vrátený v ďalšom fakturačnom cykle.** 
+
+**Poznámka**: Ak nevidíte možnosť zrušiť, kliknite na predplatné zobrazíte Podrobnosti a mali by ste vidieť **zrušiť predplatné** možnosť v **nastavenia & akcie**. 
+
+Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 

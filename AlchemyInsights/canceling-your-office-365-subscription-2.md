@@ -1,5 +1,5 @@
 ---
-title: Zrušenie predplatného na Office 365?
+title: Zrušenie predplatného balíka Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665487"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552612"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Zrušenie predplatného na Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Zrušenie predplatného balíka Office 365?
 
-Je nám ľúto vidieť ísť!
+Je nám ľúto, že vás vidím ísť!
   
-Na základe údajov organizácie, veríme, že aktuálneho predplatného majú viac ako 25 priradených licencií. Pokiaľ máte menej ako 25, potom ísť do **fakturácie** , môže odstrániť používateľov \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku. V sekcii **nastavenia & akcie** vyberte **zrušiť predplatné**.
+Na základe údajov organizácie veríme, že všetky vaše aktuálne odbery majú viac ako 25 priradených licencií. Môžete odstrániť používateľov, kým nebudete mať menej ako 25, potom prejdite na stránku **fakturačných** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) . V časti **nastavenia & akcie** vyberte možnosť **zrušiť predplatné**.
   
-Prípadne vyberte, **potrebujete pomoc** , obráťte sa na pracovníka technickej podpory.
+Prípadne vyberte možnosť **potrebovať pomoc** a porozprávajte sa s inžinierom technickej podpory.
   
-Ďalšie informácie v téme [zrušenie prihlásenia na odber](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Refundácia: akýkoľvek pomerný kredit vám bude vrátený v ďalšom fakturačnom cykle.** 
+
+**Poznámka**: Ak nevidíte možnosť zrušiť, kliknite na predplatné zobrazíte Podrobnosti a mali by ste vidieť **zrušiť predplatné** možnosť v **nastavenia & akcie**. 
+
+Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
