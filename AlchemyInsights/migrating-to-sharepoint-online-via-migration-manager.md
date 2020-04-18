@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959021"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552801"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrácia do SharePointu Online prostredníctvom správcu migrácie
-
-**Dôležité**: V tejto výnimočnej situácií vykonávame kroky na to, aby sme zabezpečili, že služby SharePoint Online a OneDrive zostanú vysoko dostupné. Ďalšie informácie nájdete v téme [Dočasné úpravy funkcií SharePointu Online](https://aka.ms/ODSPAdjustments).
 
 **Správca migrácie**
 
