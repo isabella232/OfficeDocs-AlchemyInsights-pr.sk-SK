@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591621"
+ms.locfileid: "43599368"
 ---
 # <a name="microsoft-stream-upload-errors"></a>Chyby nahrávania v programe Microsoft Stream
 
