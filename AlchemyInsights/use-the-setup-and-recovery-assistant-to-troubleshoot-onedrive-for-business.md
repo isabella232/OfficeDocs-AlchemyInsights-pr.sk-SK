@@ -1,9 +1,9 @@
 ---
-title: Použiť nastavenie a obnovenie asistent problémov s OneDrive pre podniky
+title: Použitie nastavenia a obnovenie Asistenta na riešenie OneDrive pre podniky
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 38e3c3d397fa4f58f86fdde4e029a551b8e24099
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532202"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710638"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="bee4d-102">Riešenie problémov so synchronizáciou OneDrivu</span><span class="sxs-lookup"><span data-stu-id="bee4d-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="d30db-102">Oprava problémov so synchronizáciou OneDrivu</span><span class="sxs-lookup"><span data-stu-id="d30db-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="bee4d-103">Support and Recovery Assistant app môžete identifikovať a opraviť bežné problémy s synchronizáciu súborov vo OneDrive.</span><span class="sxs-lookup"><span data-stu-id="bee4d-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
+<span data-ttu-id="d30db-103">Aplikácia Asistent podpory a obnovy vám môže pomôcť identifikovať a opraviť bežné problémy so synchronizáciou súborov OneDrive.</span><span class="sxs-lookup"><span data-stu-id="d30db-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
   
-<span data-ttu-id="bee4d-104">[Stiahnuť Support and Recovery Assistant](https://aka.ms/sara), prihláste sa pomocou konta práca alebo škola, a postupujte podľa pokynov v aplikácii problémov s OneDrive pre podniky.</span><span class="sxs-lookup"><span data-stu-id="bee4d-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
+<span data-ttu-id="d30db-104">[Prevezmite Asistenta podpory a obnovy](https://aka.ms/sara), prihláste sa pomocou svojho pracovného alebo školského konta a postupujte podľa pokynov v aplikácii na riešenie problémov so službou OneDrive for Business.</span><span class="sxs-lookup"><span data-stu-id="d30db-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
   
-[<span data-ttu-id="bee4d-105">Ďalšie kroky</span><span class="sxs-lookup"><span data-stu-id="bee4d-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
+[<span data-ttu-id="d30db-105">Ďalšie kroky na riešenie problémov</span><span class="sxs-lookup"><span data-stu-id="d30db-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
   
 

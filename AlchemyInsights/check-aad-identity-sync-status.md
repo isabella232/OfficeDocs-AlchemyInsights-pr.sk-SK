@@ -3,7 +3,7 @@ title: Kontrola stavu synchronizácie identity AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738536"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706324"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="e4403-102">Kontrola stavu synchronizácie identity AAD</span><span class="sxs-lookup"><span data-stu-id="e4403-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="19a94-102">Kontrola stavu synchronizácie identity AAD</span><span class="sxs-lookup"><span data-stu-id="19a94-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="e4403-103">Kontrola stavu synchronizácie je jednoduchá:</span><span class="sxs-lookup"><span data-stu-id="e4403-103">Checking sync status is easy:</span></span>
+<span data-ttu-id="19a94-103">Kontrola stavu synchronizácie je jednoduchá:</span><span class="sxs-lookup"><span data-stu-id="19a94-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="e4403-104">Prihláste sa do Microsoft 365 admin Center a vyberte **DirSync stav** na domovskej stránke.</span><span class="sxs-lookup"><span data-stu-id="e4403-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
+- <span data-ttu-id="19a94-104">Prihláste sa do Microsoft 365 admin Center a vyberte **DirSync stav** na domovskej stránke.</span><span class="sxs-lookup"><span data-stu-id="19a94-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
-- <span data-ttu-id="e4403-105">Striedavo môžete prejsť na používateľov \> aktívnych používateľov a na stránke aktívnych používateľov Vyberte možnosť viac \> synchronizácie adresárov.</span><span class="sxs-lookup"><span data-stu-id="e4403-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="19a94-105">Striedavo môžete prejsť na používateľov \> aktívnych používateľov a na stránke aktívnych používateľov Vyberte možnosť viac \> synchronizácie adresárov.</span><span class="sxs-lookup"><span data-stu-id="19a94-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
 
-- <span data-ttu-id="e4403-106">Na table Synchronizácia adresárov vyberte prejsť na DirSync Management.</span><span class="sxs-lookup"><span data-stu-id="e4403-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+- <span data-ttu-id="19a94-106">Na table Synchronizácia adresárov vyberte prejsť na DirSync Management.</span><span class="sxs-lookup"><span data-stu-id="19a94-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
 
-<span data-ttu-id="e4403-107">Ak sa vyskytol problém s synchronizáciou adresárov, chyby sú uvedené na tejto stránke.</span><span class="sxs-lookup"><span data-stu-id="e4403-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="e4403-108">Ďalšie informácie o rôznych chybách, ktoré sa môžu vyskytnúť, nájdete [v téme Zobrazenie chýb synchronizácie adresárov v balíku Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="e4403-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
+<span data-ttu-id="19a94-107">Ak sa vyskytol problém s synchronizáciou adresárov, chyby sú uvedené na tejto stránke.</span><span class="sxs-lookup"><span data-stu-id="19a94-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="19a94-108">Ďalšie informácie o rôznych chybách, ktoré sa môžu vyskytnúť, nájdete v téme [zobrazenie chýb synchronizácie adresárov](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="19a94-108">For more information about different errors you might encounter, see [View directory synchronization errors](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
   
