@@ -1,9 +1,9 @@
 ---
-title: Ako nákup služieb Office 365 pre neziskové organizácie
+title: Ako nakupovať Office 365 pre neziskové organizácie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: c67d3804fa752975e428e01b4ad012479fff9375
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763628"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="eec96-102">Ako nákup služieb Office 365 pre neziskové organizácie</span><span class="sxs-lookup"><span data-stu-id="eec96-102">How to purchase Office 365 for Nonprofits</span></span>
+# <a name="how-to-purchase-office-365-for-nonprofits"></a><span data-ttu-id="c36e0-102">Ako nakupovať Office 365 pre neziskové organizácie</span><span class="sxs-lookup"><span data-stu-id="c36e0-102">How to purchase Office 365 for Nonprofits</span></span>
 
-<span data-ttu-id="eec96-103">Preskúmal vašu žiadosť a určuje táto organizácia nie je oprávnená ako Microsoft kvalifikovaných nezisková organizácia.</span><span class="sxs-lookup"><span data-stu-id="eec96-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="c36e0-103">Preskúmali sme vašu žiadosť a určili, že táto organizácia nie je oprávnená ako kvalifikovaná nezisková organizácia spoločnosti Microsoft.</span><span class="sxs-lookup"><span data-stu-id="c36e0-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="eec96-104">Kúpiť Office 365 komerčne, nájdete [dostupné ponuky](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="eec96-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="c36e0-104">Ak chcete zakúpiť Office 365 komerčne, nájdete v časti [dostupné ponuky](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="c36e0-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
