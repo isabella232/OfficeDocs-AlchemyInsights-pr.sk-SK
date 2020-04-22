@@ -1,5 +1,5 @@
 ---
-title: Zapnúť a vyhľadávanie denník auditu
+title: Povoliť a vyhľadať denník auditu
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665091"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703658"
 ---
-# <a name="enable-and-search-the-audit-log"></a><span data-ttu-id="13616-102">Zapnúť a vyhľadávanie denník auditu</span><span class="sxs-lookup"><span data-stu-id="13616-102">Enable and search the Audit log</span></span>
+# <a name="enable-and-search-the-audit-log"></a><span data-ttu-id="46505-102">Povolenie a vyhľadávanie denníka auditu</span><span class="sxs-lookup"><span data-stu-id="46505-102">Enable and search the Audit log</span></span>
 
-<span data-ttu-id="13616-103">**Office 365**</span><span class="sxs-lookup"><span data-stu-id="13616-103">**Office 365**</span></span>
+<span data-ttu-id="46505-103">**Microsoft 365**</span><span class="sxs-lookup"><span data-stu-id="46505-103">**Microsoft 365**</span></span>
 
-<span data-ttu-id="13616-104">Vyhľadávanie denník auditu Office 365, postupujte [nasledovne](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="13616-104">To search the Office 365 audit log, follow [these steps](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+<span data-ttu-id="46505-104">Vyhľadávanie Microsoft 365 auditu denníka, postupujte [nasledovne](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="46505-104">To search the Microsoft 365 audit log, follow [these steps](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
 
-<span data-ttu-id="13616-105">**Výmena**</span><span class="sxs-lookup"><span data-stu-id="13616-105">**Exchange**</span></span>
+<span data-ttu-id="46505-105">**Výmenu**</span><span class="sxs-lookup"><span data-stu-id="46505-105">**Exchange**</span></span>
 
-- <span data-ttu-id="13616-106">Auditované predvolene Exchange admin činnosti.</span><span class="sxs-lookup"><span data-stu-id="13616-106">Exchange admin activities are audited by default.</span></span>
+- <span data-ttu-id="46505-106">Exchange admin aktivity sú kontrolované predvolene.</span><span class="sxs-lookup"><span data-stu-id="46505-106">Exchange admin activities are audited by default.</span></span>
 
-- <span data-ttu-id="13616-107">Schránku auditovania je zapnutá predvolene v balíku Office 365.</span><span class="sxs-lookup"><span data-stu-id="13616-107">Mailbox auditing is enabled by default in Office 365.</span></span> <span data-ttu-id="13616-108">Ďalšie informácie nájdete v [tomto článku](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span><span class="sxs-lookup"><span data-stu-id="13616-108">For more information, see  [this article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span></span>
+- <span data-ttu-id="46505-107">Audit poštových schránok je predvolene zapnutá v Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="46505-107">Mailbox auditing is enabled by default in Microsoft 365.</span></span> <span data-ttu-id="46505-108">Ďalšie informácie nájdete [v tomto článku](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span><span class="sxs-lookup"><span data-stu-id="46505-108">For more information, see  [this article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).</span></span>
 
-- <span data-ttu-id="13616-109">Office 365 skupiny poštových schránok a verejných priečinkov poštových schránok v službe Exchange Online nepodporujú denníka pre audit.</span><span class="sxs-lookup"><span data-stu-id="13616-109">Office 365 Group mailboxes and public folder mailboxes in Exchange Online don't support audit logging.</span></span>
+- <span data-ttu-id="46505-109">Office 365 skupiny poštových schránok a verejný priečinok poštových schránok v službe Exchange Online nepodporujú zapisovanie do denníka auditu.</span><span class="sxs-lookup"><span data-stu-id="46505-109">Office 365 Group mailboxes and public folder mailboxes in Exchange Online don't support audit logging.</span></span>
 
-<span data-ttu-id="13616-110">**Službe SharePoint a OneDrive**</span><span class="sxs-lookup"><span data-stu-id="13616-110">**SharePoint and OneDrive**</span></span>
+<span data-ttu-id="46505-110">**SharePoint a OneDrive**</span><span class="sxs-lookup"><span data-stu-id="46505-110">**SharePoint and OneDrive**</span></span>
 
-- <span data-ttu-id="13616-111">Neexistuje žiadna ďalšia konfigurácia povinný povoliť auditovanie pre SharePoint a OneDrive.</span><span class="sxs-lookup"><span data-stu-id="13616-111">There's no additional configuration required to enable auditing for SharePoint and OneDrive.</span></span>
+- <span data-ttu-id="46505-111">Na povolenie auditovania pre SharePoint a OneDrive nie je potrebná žiadna ďalšia konfigurácia.</span><span class="sxs-lookup"><span data-stu-id="46505-111">There's no additional configuration required to enable auditing for SharePoint and OneDrive.</span></span>
 
-- <span data-ttu-id="13616-112">Službe SharePoint a OneDrive podporujú auditovanie nasledujúce druhy činností:</span><span class="sxs-lookup"><span data-stu-id="13616-112">SharePoint and OneDrive support auditing the following types of activities:</span></span>
+- <span data-ttu-id="46505-112">SharePoint a OneDrive podporujú auditovanie nasledujúcich typov činností:</span><span class="sxs-lookup"><span data-stu-id="46505-112">SharePoint and OneDrive support auditing the following types of activities:</span></span>
 
-    - <span data-ttu-id="13616-113">Vstupno-výstupných operácií pre súbor, priečinok alebo stránku činnosti</span><span class="sxs-lookup"><span data-stu-id="13616-113">File, folder, and page activities</span></span>
-    - <span data-ttu-id="13616-114">Zdieľanie a prístup žiadosť aktivity</span><span class="sxs-lookup"><span data-stu-id="13616-114">Sharing and access request activities</span></span>
-    - <span data-ttu-id="13616-115">Mieste podávania činnosti</span><span class="sxs-lookup"><span data-stu-id="13616-115">Site administration activities</span></span>
-    - <span data-ttu-id="13616-116">Súbor synchronizácia činností</span><span class="sxs-lookup"><span data-stu-id="13616-116">File synchronization activities</span></span>
+    - <span data-ttu-id="46505-113">Aktivity súborov, priečinkov a strán</span><span class="sxs-lookup"><span data-stu-id="46505-113">File, folder, and page activities</span></span>
+    - <span data-ttu-id="46505-114">Aktivity zdieľania a prístupu k žiadosti o prístup</span><span class="sxs-lookup"><span data-stu-id="46505-114">Sharing and access request activities</span></span>
+    - <span data-ttu-id="46505-115">Činnosti správy lokality</span><span class="sxs-lookup"><span data-stu-id="46505-115">Site administration activities</span></span>
+    - <span data-ttu-id="46505-116">Aktivity synchronizácie súborov</span><span class="sxs-lookup"><span data-stu-id="46505-116">File synchronization activities</span></span>
 
-- <span data-ttu-id="13616-117">Informácie o manažérstvu činností v službách Office 365, nájdete [v tabuľke v tomto článku](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span><span class="sxs-lookup"><span data-stu-id="13616-117">For information about audited activities in other Office 365 services, see  [the table in this article](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span></span>
+- <span data-ttu-id="46505-117">Informácie o auditovaných aktivitách v iných službách nájdete v [tabuľke v tomto článku](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span><span class="sxs-lookup"><span data-stu-id="46505-117">For information about audited activities in other services, see  [the table in this article](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).</span></span>
 
-- <span data-ttu-id="13616-118">Tu zoznam najčastejšie otázky [často kladené otázky](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) o vyhľadávanie denník auditu.</span><span class="sxs-lookup"><span data-stu-id="13616-118">Here a list of frequently asked questions [frequently asked questions](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) about searching the audit log.</span></span>
+- <span data-ttu-id="46505-118">Tu je zoznam najčastejších otázok, [často kladené](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) otázky o hľadaní denníka auditu.</span><span class="sxs-lookup"><span data-stu-id="46505-118">Here a list of frequently asked questions [frequently asked questions](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) about searching the audit log.</span></span>
