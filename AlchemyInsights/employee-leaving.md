@@ -1,9 +1,9 @@
 ---
-title: Zamestnanec opúšťa
+title: Odchod zamestnanca
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527846"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703730"
 ---
 # <a name="block-access-to-a-former-employee"></a>Blokovať prístup k bývalému zamestnancovi
 
-Mať zamestnanec opúšťa a potrebujete blokovať prístup k Office 365 údajov a e-mail? Postupujte nasledovne.
+Majú zamestnanec odchode a je potrebné blokovať prístup k dátam a e-mail? Vykonajte nasledujúce kroky.
   
-1. Admin Center, prejdite na **užívateľov** \> [Aktívnych používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822) stránky.
+1. V centre spravovania prejdite na stránku **Používatelia** \> [aktívnych používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Vyberte meno používateľa, ktorého chcete blokovať.
+2. Vyberte meno používateľa, ktorého chcete zablokovať.
 
-3. Pod menom používateľa, vyberte **blokovať tohto užívateľa**.
+3. Podľa meno používateľa, vyberte **blokovať tohto používateľa**.
 
-4. Vyberte **zablokovať používateľa z prihlásením** \> **Uložiť zmeny**.
+4. Vyberte možnosť **zablokovať používateľa v** \> prihlasovaní **Uložiť zmeny**.
 
-**Poznámka**: pri odhlasovaní, pre niektoré aplikácie nemusí byť okamžitá. Pokračovať s ďalšie kroky v tomto článku: [odstrániť bývalý zamestnanec z Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Poznámka**: odhlásenie niektorých aplikácií nemusí byť okamžité. Nadviazanie na ďalšie akcie v tomto článku: [Odstránenie bývalého zamestnanca](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

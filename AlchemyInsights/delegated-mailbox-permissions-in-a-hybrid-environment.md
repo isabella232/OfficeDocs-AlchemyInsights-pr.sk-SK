@@ -1,9 +1,9 @@
 ---
-title: Povolenia delegované poštovej schránky v prostredí hybridné
+title: Delegované povolenia poštových schránok v prostredí hybridné
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: bb2b82ab82ae8caaf14bf6fecc9c9f3ebd8f6797
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a0c6587ea9276b56fd8989b66e581ec99f942f0f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705064"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Povolenia delegované poštovej schránky v prostredí hybridné
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Delegované povolenia poštových schránok v prostredí hybridné
 
-V závislosti od verzie servera Exchange, ktoré ste nainštalovali v lokálnej organizácii, môže byť potrebné vykonať niektoré ďalšie kroky nastaviť povolenia delegované poštovej schránky medzi lokálnou organizáciou a Exchange Online v Office 365. Ďalšie informácie o ako nastaviť delegované povolenia, pozrite sa [Konfigurácia Exchange podporu delegované poštovej schránky povolenia v hybridné nasadenie](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+V závislosti od verzie programu Exchange, ktorú ste nainštalovali v lokálnej organizácii, môže byť potrebné podniknúť ďalšie kroky na nastavenie povolení delegovanej poštovej schránky medzi lokálnou organizáciou a Exchange Online v Microsoft 365. Ďalšie informácie o tom, ako nastaviť delegované povolenia, pozrite sa na [Konfigurácia servera Exchange na podporu delegovanej poštovej schránky povolenia hybridné nasadenie](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
   

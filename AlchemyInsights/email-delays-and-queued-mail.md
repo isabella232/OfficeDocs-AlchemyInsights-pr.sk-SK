@@ -1,22 +1,22 @@
 ---
-title: Môžete vidieť e-mail oneskorenia alebo frontu pošty?
+title: Vidíte oneskorenie e-mailu alebo poštu vo fronte?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765397"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703802"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Môžete vidieť e-mail oneskorenia alebo frontu pošty?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Vidíte oneskorenie e-mailu alebo poštu vo fronte?
 
-Nedávno sme začali odmietavý staršie Office 365 SMTP koncové body. Tieto hodnoty cieľového Office 365 boli k dispozícii na použitie v MX záznamy a inteligentné počítače pred rokom 2012. Ak stále používate jeden z týchto staršie hodnoty, musíte aktualizovať koncový bod Office 365 podporované hodnotu. Ďalšie informácie nájdete v téme túto [podporu KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Nedávno sme začali odmietavý staršie SMTP koncové body. Tieto hodnoty určenia boli k dispozícii na použitie v záznamoch MX a inteligentných hostiteľov pred 2012. Ak stále používate niektorú z týchto starších hodnôt, budete musieť aktualizovať koncový bod na podporovanú hodnotu. Ďalšie informácie nájdete v tejto [technickej podpory KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
