@@ -1,9 +1,9 @@
 ---
-title: 744 vytváranie používateľov, keď organizácia je hybridný režim
+title: 744 vytváranie používateľov, keď je organizácia v hybridnom režime
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514922"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715283"
 ---
-# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="39b5c-102">Vytvoriť používateľov v hybridné nasadenie</span><span class="sxs-lookup"><span data-stu-id="39b5c-102">Create users in hybrid deployments</span></span>
+# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="c439f-102">Vytvorenie používateľov v hybridnom nasadení</span><span class="sxs-lookup"><span data-stu-id="c439f-102">Create users in hybrid deployments</span></span>
 
-<span data-ttu-id="39b5c-103">Ak vaša organizácia hybridné nasadenie lokálne prostredie a Office 365, musíte vytvoriť všetky používateľské objekty služby Active Directory lokálne.</span><span class="sxs-lookup"><span data-stu-id="39b5c-103">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="39b5c-104">Môžete vytvoriť používateľské objekty vhodné organizačné jednotky (OU) tak ste synchronizovať do balíka Office 365 pre vašu organizáciu.</span><span class="sxs-lookup"><span data-stu-id="39b5c-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>
+<span data-ttu-id="c439f-103">Keď je vaša organizácia hybridným nasadením lokálneho prostredia a Microsoft 365, musíte vytvoriť všetky objekty používateľa v lokálnej službe Active Directory.</span><span class="sxs-lookup"><span data-stu-id="c439f-103">When your organization is a hybrid deployment between an on-premises environment and Microsoft 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="c439f-104">Vytvoríte objekty používateľa v príslušnej organizačnej jednotky (OU) tak, aby boli synchronizované do vašej organizácie.</span><span class="sxs-lookup"><span data-stu-id="c439f-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your organization.</span></span>
