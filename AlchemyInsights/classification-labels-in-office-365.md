@@ -1,5 +1,5 @@
 ---
-title: Klasifikácia štítky v balíku Office 365
+title: Klasifikačné Štítky
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,15 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 9cd9f2c76a7bd986b1962dcaa241d03ada0f8fea
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f1c457783eab79ecc810ef5c79671fbc40f7e64a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050108"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706288"
 ---
-# <a name="classification-labels-in-office-365"></a>Klasifikácia štítky v balíku Office 365
+# <a name="classification-labels"></a>Klasifikačné Štítky
 
-S citlivosťou alebo klasifikačné štítky v balíku Office 365, môžete klasifikovať a chrániť váš citlivý obsah, a zároveň uistiť, že produktivitu vašich ľudí a schopnosť spolupracovať nie je prekážkou.
+S menovkami citlivosti alebo klasifikácie môžete klasifikovať a chrániť váš citlivý obsah a zároveň zabezpečiť, aby sa nebránila produktivita a schopnosť ľudí spolupracovať.
 
 Pre viac informácií si prečítajte nasledujúci [článok](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).

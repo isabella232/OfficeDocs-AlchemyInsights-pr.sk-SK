@@ -1,9 +1,9 @@
 ---
-title: Vytvorenie ovládacieho prvku skupín
+title: Kontrola vytvárania skupín
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516686"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705640"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Vytvorenie ovládacieho prvku skupiny Office 365
+# <a name="control-creation-of-office-365-groups"></a>Kontrola vytvárania skupín Office 365
 
-Podľa predvoleného nastavenia všetkých používateľov v rámci spoločnosti sú schopné vytvárať skupiny. V prípade potreby máte možnosť zmeniť to a priradiť právo na vytvorenie skupiny na skupinu ľudí v rámci vašej spoločnosti. Všimnite si, že to bude mať vplyv na vytváranie skupín z akejkoľvek služby Office 365 (napríklad Outlook, tímy, Plánovač a tak ďalej).
+V predvolenom nastavení môžu všetci používatelia v rámci spoločnosti vytvárať skupiny. Ak je to potrebné, môžete zmeniť túto možnosť a priradiť právo vytvárať skupiny skupine ľudí vo vašej spoločnosti. Všimnite si, že to bude mať vplyv na vytváranie skupín z ľubovoľnej služby Microsoft 365 (napríklad Outlook, tímy, Plánovač a tak ďalej).
   
-Návod: [Správa kto môže vytvoriť skupín v Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Pokyny: [Správa, kto môže vytvoriť skupiny Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

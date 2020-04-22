@@ -3,7 +3,7 @@ title: DLP politika tipy nefunguje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 6375fa8077529f36ae95d6632ad4d2db5625dc29
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977249"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704392"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problémy s tipmi politiky DLP
 
-**Dôležité**: počas týchto nebývalé časy, robíme kroky, aby zabezpečili, že SharePoint Online a OneDrive služby zostávajú vysoko dostupné-navštívte [SharePoint Online dočasné funkcie úpravy](https://aka.ms/ODSPAdjustments) pre viac informácií.
+**Dôležité**: V tejto výnimočnej situácií vykonávame kroky na to, aby sme zabezpečili, že služby SharePoint Online a OneDrive zostanú vysoko dostupné. Ďalšie informácie nájdete v téme [Dočasné úpravy funkcií SharePointu Online](https://aka.ms/ODSPAdjustments).
 
 **Tipy pre politiku DLP**
 

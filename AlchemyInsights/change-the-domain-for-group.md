@@ -1,9 +1,9 @@
 ---
-title: Zmena domény Office 365 skupiny
+title: Zmena domény skupiny Office 365
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 34a9832c035dd5ea523df954dbdf2e6d9d1a0618
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32394007"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706504"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Zmena domény Office 365 skupiny
+# <a name="change-the-domain-for-office-365-group"></a>Zmena domény skupiny Office 365
 
-Ak chcete zmeniť doménu pre Office 365 skupiny počas vytvárania, postupujte podľa pokynov [vyberte domény použiť pri vytváraní skupín v Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Ak chcete zmeniť doménu pre skupinu Office 365 počas vytvárania, postupujte podľa krokov v [Vyberte doménu použiť pri vytváraní skupiny office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
 
-Po Office 365 skupiny je už vytvorený, v súčasnosti neexistuje spôsob, ako zmeniť doménu. Jediný spôsob, ako je vytvorenie novej skupiny Office 365 a prípadne odstrániť starý (ďalšie e-mailové adresy je možné pridať pomocou [Exchange Admin Center](https://outlook.office365.com/ecp).
+Po Office 365 skupina je už vytvorená, momentálne neexistuje žiadny spôsob, ako zmeniť doménu. Jediný spôsob, ako je vytvoriť novú skupinu Office 365 a odstrániť staré, ak je to potrebné (ďalšie e-mailové adresy môžu byť pridané prostredníctvom [Exchange Admin Center](https://outlook.office365.com/ecp).

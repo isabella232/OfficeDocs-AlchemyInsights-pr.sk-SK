@@ -1,8 +1,8 @@
 ---
-title: Riešenie problémov s inštaláciou balíka Office
+title: Riešenie problémov pri inštalácii balíka Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501454"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709098"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Riešenie problémov s inštaláciou balíka Office
+# <a name="solutions-for-issues-while-installing-office"></a>Riešenie problémov pri inštalácii balíka Office
 
-Skúste jeden z týchto riešení, ako odstrániť Office chyby:
+Vyskúšajte tieto riešenia na vyriešenie problémov s balíkom Office:
   
-- Reštartujte počítač a spustite [inštaláciu balíka Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Reštartujte počítač a pokúste sa [nainštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Stiahnuť a nainštalovať [technickej podpory a obnovenie asistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Keď ju otvorí, **odinštalovať Office produktov** vyberte verziu, ktorú chcete odinštalovať a vyberte **Ďalšie**.
+1. Keď sa otvorí, z **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.
 
-2. Pokračovať ísť cez obrazovky a reštartovať počítač, ak výzva.
+2. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.
 
-    Po reštarte, technickej podpory a obnovenie asistent automaticky znova otvorí dokončiť proces odinštalovania.
+    Po reštartovaní, podpora a obnovenie asistent automaticky znovu otvorí dokončiť proces odinštalovania.
 
-3. Postupujte podľa zvyšných výziev a [preinštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorte Asistenta.
+3. Postupujte podľa zostávajúcich výziev a [preinštalujte program Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorte Asistenta.
 
-- [Použitie offline inštalátora balíka Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) nainštalovať Office
+- Inštalácia balíka Office [pomocou Inštalátora balíka Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-Ďalšie informácie o chýb inštalácie, zobrazujú [chybové hlásenia pri inštalácii balíka Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
+Ďalšie informácie o chybách pri inštalácii nájdete v téme [chybové hlásenia pri inštalácii balíka Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   

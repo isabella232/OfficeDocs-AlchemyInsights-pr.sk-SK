@@ -1,28 +1,28 @@
 ---
-title: 1065 odsudzovanie EOP odchádzajúce IP adresa rangesMC146155
+title: 1065 deaktivácia EOP odchádzajúce IP adresa rangesMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: 9860845dea444847833d4c5cd01d49ea93473778
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f4854c32d970d84f3a0664a9e384dc6e3cd0bfa7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752970"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704612"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Odmietanie EOP odchádzajúce rozsahy adries IP
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Deprecácia rozsahov IP odchádzajúcich adries EOP
 
-Zistili sme potenciálny problém s vašou organizáciou (ak nie je opravené 26 októbra 2018) by mohol zlomiť tok pošty lokálne alebo externé ciele. Ako predtým oznámené, zjednodušiť spravovanie rozsah IP adries, sme sa konsolidácia rozsahy adries IP Exchange Online Protection (EOP), ktoré sa používajú na odosielať a prijímať e-maily mimo Office 365. Naša analýza naznačuje, že jeden alebo viac zdrojov externých e-mailov alebo ciele, ktoré ste nakonfigurovali v pošty tok konektory nie sú prijímať pripojenia z IP adresy rozsahy uvedené [tu](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Zistili sme potenciálny problém s vašou organizáciou, že (ak nie je opravené 26. októbra, 2018) môže zlomiť tok pošty do lokálnych alebo externých destinácií. Ako už bolo oznámené, zjednodušiť riadenie rozsahu adries IP, sme konsolidácia Exchange Online Protection (EOP) IP adries rozsahy, ktoré sa používajú na odosielanie a prijímanie e-mailov mimo Microsoft 365. Z našej analýzy vyplýva, že jeden alebo viac externých e-mailových zdrojov alebo cieľových miest, ktoré ste nakonfigurovali v konektoroch toku pošty, neprijímajú pripojenia z rozsahov adries IP, ktoré sú [tu](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)zobrazené.
 
-Konať pred 26.októbra na zabezpečenie týchto zdrojov a destinácií bude akceptovať spojenie na všetky [uverejnené EOP IP adresy](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Zákon pred 26. října na zabezpečenie týchto zdrojov a destinácií bude akceptovať pripojenie k a zo všetkých [publikovaných EOP IP adresy](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-Ďalšie informácie o tejto zmene nájdete Message Center príspevky [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)alebo [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+Ďalšie informácie o tejto zmene nájdete centrum správ príspevky [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)alebo [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
 
-**Poznámka**: Ak ste predtým používali IP alebo adresu URL publikovanie cez HTML, XML a RSS aktualizácií endpoint, tiež by mali migrovať na nové webové služby pre automatizáciu týchto typov aktualizácií. Ďalšie informácie nájdete v [kategórií koncový bod Office 365 a Office 365 IP adresa a adresa URL webovej služby](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**Poznámka**: Ak ste predtým používali IP alebo URL publikovanie prostredníctvom HTML, XML a RSS pre Endpoint aktualizácie, mali by ste tiež migrovať na nové webové služby pre automatizáciu týchto typov aktualizácií. Ďalšie informácie nájdete v téme [microsoft 365 koncový bod kategórie a microsoft 365 adresu IP a URL webovej služby](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).

@@ -1,9 +1,9 @@
 ---
-title: Ako kúpiť licencie predplatného služieb Office 365 business
+title: Ako nakupovať licencie pre Microsoft 365 aplikácie pre podnikové predplatné
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 5e0c500d9c537efd91cdbed1dfe914ec91821b82
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664227"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709530"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Ako kúpiť licencie predplatného služieb Office 365 business
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Ako nakupovať licencie pre Microsoft 365 aplikácie pre podnikové predplatné
 
-Pri prideľovaní licencií balíka Office 365 používateľom, možno zistíte, máte potreby nakúpiť ďalšie licencie. Postupujte takto:
+Pri priraďovaní licencií používateľom možno zistíte, že máte potrebu kupovať ďalšie licencie. Postupujte takto:
   
-1. Admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. V centre spravovania prejdite na stránku **Fakturácia** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Nájdite predplatné, ktoré chcete pridať licencie, a potom vyberte **Pridať alebo odstrániť licencie**.
+2. Vyhľadajte predplatné, ku ktorému chcete pridať licencie, a potom vyberte položku **Pridať alebo odstrániť licencie**.
 
-3. V poli **Celková licencií** zadajte celkový počet licencií, ktoré potrebujete pre toto prihlásenie na odber, a potom vyberte **zmenu Submit**. Napríklad, ak máte 100 licencie a je potrebné pridať 5 viac, zadajte 105.
+3. Do poľa **celkové licencie** zadajte celkový počet licencií, ktoré potrebujete pre toto predplatné, a potom vyberte položku **Odoslať zmenu**. Napríklad, ak máte 100 licencie a musíte pridať 5 viac, zadajte 105.
 
-Ďalšie informácie, pozrite si [kupovať licencie pre vášho predplatného Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Ďalšie informácie nájdete v téme [zakúpenie licencií pre aplikácie Microsoft 365 pre podnikové predplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

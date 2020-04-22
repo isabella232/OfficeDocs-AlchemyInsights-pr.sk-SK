@@ -1,9 +1,9 @@
 ---
-title: Poznámky ku kontaktom nie sú editovateľné
+title: Poznámky k kontaktu nie sú editovateľné
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: 9eedb99b9a615f329c83ed17102f650b726ff367
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0158d093b4ea8f3aa153178103944a0900e3691d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516993"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705712"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nemôžete upraviť pole poznámky kontaktu programu Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nie je možné upraviť pole poznámok pre kontakt v programe Outlook
 
-Toto je známy problém. Pracujeme na tom spravit a vidíte posledný stav v [nemôžete upraviť pole poznámky o kontakte](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+Ide o známy problém. Pracujeme na tom, aby sme ho opravia a môžete vidieť najnovší stav v časti [nie je možné upraviť pole poznámok pre kontakt](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Riešenie**: Ak používate Office 365 alebo konta Outlook.com, môžete upraviť svoje kontakty prostredníctvom webu. Ak používate konto IMAP alebo POP, žiadne riešenie je k dispozícii v tejto dobe.
+**Riešenie**: Ak používate konto Microsoft 365 alebo Outlook.com, môžete kontakty upravovať pomocou webu. Ak používate konto IMAP alebo POP, v tomto čase nie je k dispozícii žiadne alternatívne riešenie.

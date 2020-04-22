@@ -3,7 +3,7 @@ title: 500 heslá aplikácií
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,25 +14,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517802"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707854"
 ---
 # <a name="app-passwords"></a>Heslá aplikácií
 
-Heslo aplikácie je kód, ktorý dáva povolenie aplikácii alebo zariadeniu získať prístup k Office 365work alebo školské konto. Ak vaše konto vyžaduje viacnásobné overovanie (MFA) a aplikácia pripojí k vášmu účtu, budete musieť vygenerovať heslo aplikácie, takže aplikácie môžete pripojiť k Office 365. Napríklad, program Outlook 2016 a staršie verzie Outlook vyžadujú heslo aplikácie.
+Heslo aplikácie je kód, ktorý poskytuje aplikácii alebo zariadeniu povolenie na prístup k vášmu kontu Microsoft work alebo School. Ak váš účet vyžaduje viacnásobné overovanie (MFA) a aplikácia sa pripojí k vášmu kontu, musíte vygenerovať heslo aplikácie, aby sa aplikácia mohla pripojiť k spoločnosti Microsoft. Napríklad program Outlook 2016 a staršie verzie programu Outlook požadovať heslo aplikácie.
 
- **Poznámka**: skôr než vyskúšate nasledujúce kroky, overte, či váš Office 365 admin MFA potrebné pre váš účet. Ak nie, možnosti opísané v krokoch nebude k dispozícii.
+ **Poznámka**: skôr než sa pokúsite nasledujúce kroky, overte u svojho správcu Microsoft 365, že MFA je potrebné pre vaše konto. Ak nie, možnosti popísané v týchto krokoch nebudú k dispozícii.
 
-1. S vašej práce alebo školy konta a heslo, prihláste sa do služby Office 365.
+1. Prihláste sa pomocou svojho pracovného alebo školského účtu a hesla.
 
-2. Vyberte si **ho teraz nastaviť**.
+2. Vyberte **položku nastaviť teraz**.
 
 3. Vyberte metódu overenia a postupujte podľa pokynov.
 
-4. Po overení alternatívny spôsob kontaktu, vyberte si **ďalšiu**.
+4. Po overení alternatívnej kontaktnej metódy vyberte položku **ďalej**.
 
-5. Dostanete heslo aplikácie, ktoré môžete použiť s programom Outlook, Apple Mail a ďalšie aplikácie, ktoré ju potrebujú. Vyberte **Kopírovať** kopírovať heslo, takže ju môžete prilepiť inde (nemusíte zapamätať).
+5. Dostanete heslo aplikácie, ktoré môžete používať v aplikáciách Outlook, Apple Mail a ďalších aplikácií, ktoré ju vyžadujú. Ak chcete kopírovať heslo, vyberte možnosť **Kopírovať** , aby ste ho mohli prilepiť inde (nemusíte ho zapamätať).

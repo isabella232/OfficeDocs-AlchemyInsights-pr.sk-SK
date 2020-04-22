@@ -1,9 +1,9 @@
 ---
-title: Všetky odbery sú aktívne
+title: Všetky prihlásenia na odber sú aktívne
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708262"
 ---
-# <a name="all-subscriptions-are-active"></a>Všetky odbery sú aktívne
+# <a name="all-subscriptions-are-active"></a>Všetky prihlásenia na odber sú aktívne
 
-Predplatné je aktívne. To môže byť overený chystá **fakturácie** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) stránky. Vaše predplatné sú zoradené podľa stavu s aktívne predplatné na vrchole. Ďalšie informácie, napríklad licenciu počítať a spôsob platby, môže byť videný výberom predplatného.
+Vaše predplatné sú aktívne. To možno overiť tým, že prejdete na stránku **fakturácie** \> [predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054) . Vaše odbery sú zoradené podľa stavu, s aktívnym odberom v hornej časti. Ďalšie informácie, ako je napríklad počet licencií a spôsob platby, je možné vidieť výberom predplatného.
   
-Ak máte problémy s vašou službou, pomocou možnosti "Dajte nám zavolať", obráťte sa na pracovníka technickej podpory.
+Ak máte problémy s vašou službou, použite možnosť "Zavolaj vám" a porozprávajte sa s inžinierom technickej podpory.

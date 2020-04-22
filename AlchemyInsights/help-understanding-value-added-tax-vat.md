@@ -1,9 +1,9 @@
 ---
-title: Pomocník pre pochopenie hodnoty pridanej hodnoty (DPH)
+title: Pomoc pri porozumení dane z pridanej hodnoty (DPH)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390527"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710134"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Pomocník pre pochopenie hodnoty pridanej hodnoty (DPH)
+# <a name="help-understanding-value-added-tax-vat"></a>Pomoc pri porozumení dane z pridanej hodnoty (DPH)
 
-Ak ste v krajine, ktorá využíva oceňované daň z pridanej hodnoty (DPH), ako napríklad Spojené kráľovstvo, Microsoft Invoicing vám vypočíta DPH a platí suma pre vašich faktúr.
+Ak ste v krajine, ktorá používa daň z pridanej hodnoty (DPH), napríklad Spojené kráľovstvo, spoločnosť Microsoft Fakturácia vypočíta DPH za vás a použije čiastku na vaše faktúry.
   
-Z daňových dôvodov, musíte zadať registračné číslo DPH v nastavení Fakturácia.
+Z daňových dôvodov musíte zadať aj registračné číslo DPH v nastaveniach fakturácie.
   
-Nemôžete pridať alebo odstrániť sadzieb DPH, ale môžete zmeniť predvolené sadzba DPH v nastavení. V predvolenom nastavení, Fakturácia používa službu na overenie DIČ, ale odporúčame, aby ste si prečítali [VIES vyhlásenie](https://go.microsoft.com/fwlink/?LinkID=841741) uverejnené Európskou Komisiou. Ak vyberiete možnosť vypnúť službu, musíte overiť všetky DIČ.
+Nemôžete pridať ani odstrániť sadzby DPH, ale môžete zmeniť predvolenú sadzbu DPH v nastaveniach. V predvolenom nastavení Fakturácia používa službu na overenie registračných čísiel DPH, ale odporúčame, aby ste si prečítali [vyhlásenie vies o odmietnutí zodpovednosti](https://go.microsoft.com/fwlink/?LinkID=841741) uverejnené Európskou Komisiou. Ak sa rozhodnete službu vypnúť, musíte overiť všetky registračné čísla DPH.

@@ -1,9 +1,9 @@
 ---
-title: Podíváme-li kúpiť nové predplatné?
+title: Hľadáte kúpiť nové predplatné?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9aa692d149a6619564ec1bc5c1edc877ed8ff607
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497494"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709458"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Podíváme-li kúpiť nové predplatné?
+# <a name="looking-to-buy-a-new-subscription"></a>Hľadáte kúpiť nové predplatné?
 
-Ak už máte Office 365 for business predplatné a chcete si kúpiť ďalšie predplatné pre vašu organizáciu, prejdite na **fakturačné** \> [nákup služby](https://go.microsoft.com/fwlink/p/?linkid=868433) stránku vidieť zoznam odbery k dispozícii pre vašu organizáciu.
+Ak už máte predplatné Microsoft 365 for Business a chcete si kúpiť ďalšie predplatné pre svoju organizáciu, prejdite na stránku služby **fakturácie** \> [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) a zobrazte zoznam odberov, ktoré sú k dispozícii pre vašu organizáciu.
  
-1. Vyberte požadované predplatné a potom vyberte **kúpiť**.
+1. Vyberte požadované predplatné a potom vyberte položku **kúpiť**.
 
-2. Vyberte, ako chcete zaplatiť, a potrebný počet používateľských licencií.
+2. Vyberte spôsob platby a počet potrebných používateľských licencií.
 
-3. Vyberte si **teraz vyskúšať**. Na ďalšej stránke, môžete preskúmať objednávku a dokončenie nákupu.
+3. Vyberte si **check-out teraz**. Na nasledujúcej stránke si môžete prezrieť objednávku a dokončiť nákup.
 
-4. Keď je váš nákup ukončený, musíte prideliť licencie alebo zrušiť predplatné. Pre pomoc s tým, prosím nájdete v časti Ďalšie zdroje nižšie.
+4. Po dokončení nákupu možno budete musieť priradiť licencie alebo zrušiť predplatné. Pomoc s týmto, nájdete v časti Ďalšie zdroje nižšie.
 
- **Dodatočné zdroje:**
+ **Ďalšie zdroje:**
   
-- [Priradenie licencie používateľov balíka Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Priradenie licencií používateľom v Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
     
 - [Zrušenie predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
     
-- Ak máte záujem o prechod predplatné, pozrite [Prepnúť do rôznych služieb Office 365 for business plán.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Ak máte záujem o prepínanie odberov, pozrite si [Prepnúť na iný Microsoft 365 pre podnikateľský plán.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)

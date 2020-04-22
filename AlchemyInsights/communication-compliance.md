@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274974"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706180"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Komunikácia súlad v Microsoft 365
 
-Súlad s komunikáciou je nové riešenie Microsoft 365 compliance, ktoré pomáha organizáciám splniť požiadavky na dodržiavanie požiadaviek dohľadu a minimalizovať komunikačné riziká. Je založený na funkcii dohľadu v balíku Office 365 a obsahuje nové vylepšenia, vrátane:
+Súlad s komunikáciou je nové riešenie Microsoft 365 compliance, ktoré pomáha organizáciám splniť požiadavky na dodržiavanie požiadaviek dohľadu a minimalizovať komunikačné riziká. Je založený na funkcii dohľadu a obsahuje nové vylepšenia, vrátane:
 
 - Inteligentné prispôsobiteľné šablóny
 - Flexibilné postupy opätovného sprostredkovania
 - Užitočné prehľady
 
-Ak v súčasnosti používate [politiky dohľadu v balíku Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), odporúčame, aby ste teraz používali nové komunikačné požiadavky na riešenie regulačných potrieb.
+Ak v súčasnosti používate [politiky dohľadu](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), odporúčame, aby ste teraz používali nové komunikačné požiadavky na riešenie regulačných potrieb.
 
 Ak chcete nastaviť zhodu komunikácie, pozrite si [Konfigurácia súladu komunikácie](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 

@@ -1,9 +1,9 @@
 ---
-title: 1047 antiSpam 550 5.7.708 služba nedostupná. Prístup odmietnutý, prevádzka neprijímajú z tejto IP
+title: 1047 AntiSpam 550 5.7.708 služba nie je k dispozícii. Prístup odmietnutý, prevádzka nie je prijatý z tejto IP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505126"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707890"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 prístup odmietnutý, prevádzka neprijímajú z tejto IP
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 prístup odmietnutý, prevádzka nie je prijatý z tejto IP
 
-Táto chyba sa vyskytuje pri odosielaní e-mailu od známych, nízke povesť adries IP, ktoré sú zvyčajne využívané nových zákazníkov.
+Táto chyba sa vyskytuje pri odosielaní e-mailu zo známych, nízku povesť IP adresy, ktoré sú zvyčajne používajú noví zákazníci.
 
-Ak budete posielať e-maily z týchto adries IP skôr, ako si môžete zakúpiť licencie, obráťte sa na podporu požiadať o výnimku, kým budete môcť zakúpiť licencie.
+Ak musíte pred zakúpením licencií Odoslať e-mail z týchto adries IP, obráťte sa na technickú podporu a požiadajte o výnimku, až kým nebudete môcť nakupovať licencie.

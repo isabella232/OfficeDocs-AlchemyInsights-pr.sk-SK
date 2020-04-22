@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002348"
 - "4574"
-ms.openlocfilehash: 45936add7eb1944f4534b1dd72bb9d0f7a4bac63
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 6481ee963ab08bbdaf4918142823c0c9cb561c13
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102783"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708738"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Pridanie, aktualizácia alebo odstránenie spôsobov platby
 
@@ -24,7 +24,7 @@ Produkty a služby od spoločnosti Microsoft si môžete zakúpiť pomocou kredi
 
 - Ak chcete ako spôsob platby pridať bankové konto, pozrite si tému [Pridanie spôsobu úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#add-a-payment-method).
 
-- Ak chcete aktualizovať informácie o bankovom konte, pozrite si tému [Aktualizácia existujúcieho spôsobu úhrady](https://docs.microsoft.com/en-us/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+- Ak chcete aktualizovať informácie o bankovom konte, pozrite si tému [Aktualizácia existujúcieho spôsobu úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
 
 - Ak chcete zmeniť spôsob platby na bankové konto alebo z neho, pozrite si tému [Zmena spôsobu platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
 

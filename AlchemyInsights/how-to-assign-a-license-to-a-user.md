@@ -1,5 +1,5 @@
 ---
-title: Priradenie licencie k používateľovi
+title: Ako priradiť licenciu používateľovi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,27 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664263"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709566"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Priradenie licencie k používateľovi
+# <a name="how-to-assign-a-license-to-a-user"></a>Ako priradiť licenciu používateľovi
 
-Používateľ potrebuje licenciu Office 365 na prístup k službám. Tu sú kroky na pridanie, zmenu alebo odobratie licencie používateľovi.
+Používateľ potrebuje licenciu na prístup k službám. Tu sú kroky na pridanie, zmenu alebo odstránenie licencie od používateľa.
   
-1. Admin Center, prejdite na **užívateľov** \> [aktívnych používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822) stránky.
+1. V centre spravovania prejdite na stránku **Používatelia** \> [aktívnych používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Vyberte meno používateľa, ktorému chcete priradiť, zmeniť alebo odstrániť licencia.
+2. Vyberte meno používateľa, ktorému chcete priradiť, zmeniť alebo odstrániť licenciu.
 
-3. Na karte **licencie a aplikácie** vyberte licenciu, ktorý chcete priradiť tomuto používateľovi.
+3. Na karte **licencie a aplikácie** vyberte licenciu, ktorú chcete priradiť tomuto používateľovi.
 
-    V predvolenom nastavení, všetky služby spojené s touto licenciou sú automaticky priradené používateľovi. Obmedziť, ktoré služby sú k dispozícii užívateľovi, zrušte začiarknutie políčka pre služby, ktoré nechcete, aby používateľ majú.
+    Predvolene sú všetky služby priradené k tejto licencii automaticky priradené používateľovi. Ak chcete obmedziť, ktoré služby sú k dispozícii používateľovi, zrušte začiarknutie políčok pre služby, ktoré nechcete, aby používateľ mal.
 
-4. V dolnej table, vyberte **Uložiť zmeny**.
+4. V dolnej časti tably vyberte položku **Uložiť zmeny**.
 
-Ďalšie informácie nájdete v téme [Priradenie licencie k užívateľom](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)a [odstrániť licencie používateľov](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Ďalšie informácie nájdete v téme [Priradenie licencií používateľom](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)a [Odstránenie licencií od používateľov](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
