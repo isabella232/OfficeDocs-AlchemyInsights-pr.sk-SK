@@ -1,9 +1,9 @@
 ---
-title: Po nabití mojej kreditnej karty?
+title: Kedy sa účtuje moja kreditná karta?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558416"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765284"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Po nabití mojej kreditnej karty?
+# <a name="when-is-my-credit-card-charged"></a>Kedy sa účtuje moja kreditná karta?
 
-S prvý nákup, to môže trvať až dva dni za poplatok sa vyskytujú.
+Pri počiatočnom nákupe môže trvať až dva dni, kým sa poplatok vyskytne.
   
-Pravidelné platby sa stalo v priebehu jedného dňa faktúry vytvorené.
+Opakujúce sa poplatky sa stávajú v priebehu jedného dňa vytvorenia faktúry.
   
-Ak je neúspešný, systém bude naďalej snažia urovnať rovnováhu v najbližších niekoľkých týždňoch. Aktualizácie, aby vaše platobné údaje kedykoľvek poistiť pri ďalšom pokuse o poplatku je úspešný. Ďalšie informácie nájdete v téme [pridať, aktualizovať alebo odstrániť kreditnú kartu alebo bankový účet v Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ak je poplatok neúspešný, systém sa bude naďalej pokúšať vyrovnať rovnováhu v priebehu niekoľkých najbližších týždňov. Aktualizácie vašich platobných údajov môžete kedykoľvek vykonať, aby ste sa uistili, že ďalší pokus o nabíjanie je úspešný. Ďalšie informácie nájdete v téme [Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

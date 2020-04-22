@@ -1,5 +1,5 @@
 ---
-title: Prepnúť na iný Office 365 pre podnikateľský plán
+title: Prepnúť na iný Microsoft 365 pre podnikateľský plán
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548013"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763808"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Prepnúť na iný Office 365 pre podnikateľský plán
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Prepnúť na iný Microsoft 365 pre podnikové predplatné
 
-Keď sa vaše podnikanie zmení, alebo potrebujete viac funkcií balíka Office 365, môžete inovovať na nový plán.
+Keď sa vaše podnikanie zmení alebo potrebujete viac funkcií, môžete inovovať na nový plán.
   
 1. V centre spravovania prejdite na položku **fakturačné \> [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

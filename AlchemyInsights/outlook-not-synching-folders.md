@@ -1,9 +1,9 @@
 ---
-title: Outlook nie synchronizujú priečinky
+title: Outlook nie synching zložky
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557350"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768704"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook nie synchronizujú priečinky
+# <a name="outlook-not-synching-folders"></a>Outlook nie synching zložky
 
-Ak program Outlook nie je synchronizujú priečinky podľa očakávania, tam sú niektoré veci môžete skúsiť ho vyriešiť.
+Ak program Outlook nie je synchronizovanie priečinkov podľa očakávania, existuje niekoľko vecí, ktoré môžete skúsiť opraviť.
 
-1. Znížiť počet priečinkov v primárnej alebo zdieľané schránky. [Pozri program Outlook s výkonom pri príliš veľa položiek alebo priečinky vo vyrovnávacej pamäti režim .ost alebo .pst súbory v priečinku](https://support.microsoft.com/help/2768656).
-2. Zakázať caching všetky zdieľané priečinky.
-3. Zmeniť konfiguráciu sekundárnej poštovej schránky Exchange do druhého účtu Exchange v profile.
+1. Znížte počet priečinkov v primárnej alebo zdieľanej poštovej schránke. [Pozrite si problémy s výkonom programu Outlook, keď existuje príliš veľa položiek alebo priečinkov v režime s vyrovnávacou pamäťou. ost alebo. pst súbor priečinok](https://support.microsoft.com/help/2768656).
+2. Zakázať caching všetkých zdieľaných priečinkov.
+3. Zmeniť konfiguráciu sekundárnej poštovej schránky Exchange na druhý účet Exchange vo vašom profile.
 
-Ďalšie informácie nájdete v časti [výkon a synchronizácia problémy pri práci s priečinkami v sekundárnej poštovej schránky v programe Outlook](https://support.microsoft.com/help/3115602).
+Ďalšie informácie nájdete v téme [problémy s výkonom a synchronizáciou pri práci s priečinkami v sekundárnej poštovej schránke v programe Outlook](https://support.microsoft.com/help/3115602).

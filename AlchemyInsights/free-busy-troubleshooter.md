@@ -1,5 +1,5 @@
 ---
-title: 607 voľnom poradcu
+title: 607 poradca pri riešení problémov s voľnom čase
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664875"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765067"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problémy vidieť informácie o voľnom čase kalendára
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problémy so zobrazením informácií o voľnom čase v kalendári
 
-Ak nevidíte informácie o voľnom čase v iných kalendároch alebo ak ostatní používatelia nevidia informácie o voľnom čase vo vašom kalendári, použite [nástroj Microsoft Support and Recovery Assistant pre Office 365](https://diagnostics.office.com/).
+Ak sa informácie o voľnom čase v kalendári nezobrazujú v iných kalendároch alebo ak ostatní používatelia v kalendári nezobrazujú informácie o voľnom čase, použite [Asistenta technickej podpory a obnovy spoločnosti Microsoft](https://diagnostics.office.com/).
   

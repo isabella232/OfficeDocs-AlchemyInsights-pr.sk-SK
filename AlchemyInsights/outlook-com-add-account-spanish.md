@@ -1,9 +1,9 @@
 ---
-title: 8000068 - Outlook.com pridajte konto - španielčina
+title: 8000068-Outlook.com pridať účet-španielčina
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1141"
 - "8000068"
-ms.openlocfilehash: 97d3ed4dfc367141ec9f2e1a6264b96f711dcac4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f41d82cf08efe107fbd3b21bebe99998c786d9ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761039"
 ---
-# <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar sus otras cuentas de correo electrónico
+# <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar SUS otras Cuentas de correo electrónico
 
-Cuando agregue otras cuentas de correo electrónico Outlook.com, puede usar Outlook.com para enviar y leer mensajes de correo electrónico de estas cuentas hriech meste salir de Outlook.com. Cada cuenta que se agrega se Outlook.com denomina cuenta una conectada. También puede [crear OSN alias de correo electrónico](https://support.office.com/es-es/article/agregar-o-quitar-un-alias-de-correo-electrónico-en-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy) que polohe priblíženia je zároveň la misma Bandeja de entrada, enviar, elementos y lista de contactos como su cuenta de Outlook.com existente.
+Cuando agregue otras Cuentas de correo electrónico a Outlook.com, puede usar Outlook.com para enviar y Leer mensajes de correo electrónico de estas Cuentas Sin Salir de Outlook.com. Cada cuenta que SE agrega a Outlook.com SE rele UNA cuenta conectada. También puede [crear un alias de correo electrónico](https://support.office.com/es-es/article/agregar-o-quitar-un-alias-de-correo-electrónico-en-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy) que lieku La misma bandeja de entrada, enviar, elementos y Lista de Contactos Como su cuenta de Outlook.com existente.
 
-[Lea cómo agregar sus otras cuentas de correo electrónico Outlook.com.](https://support.office.com/es-es/article/agregar-sus-otras-cuentas-de-correo-electrónico-a-outlook-com-c5224df4-5885-4e79-91ba-523aa743f0ba?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[Lea Cómo agregar SUS otras Cuentas de correo electrónico a Outlook.com.](https://support.office.com/es-es/article/agregar-sus-otras-cuentas-de-correo-electrónico-a-outlook-com-c5224df4-5885-4e79-91ba-523aa743f0ba?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)

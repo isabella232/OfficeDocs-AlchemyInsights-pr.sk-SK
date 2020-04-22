@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764887"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Šifrovať e-mailové správy v programe Outlook
 
-Office 365 šifrovanie správ je postavená na Microsoft Azure Rights Management (Azure RMS), ktorý je súčasťou Azure Information Protection. Ak vaše predplatné zahŕňa Azure Rights Management alebo Azure ochranu informácií, nemusíte **podniknúť žiadne kroky na manuálne povolenie alebo aktiváciu** služby správy prístupových práv.
+Microsoft 365 šifrovanie správ je postavená na Microsoft Azure Rights Management (Azure RMS), ktorý je súčasťou Azure Information Protection. Ak vaše predplatné zahŕňa Azure Rights Management alebo Azure ochranu informácií, nemusíte **podniknúť žiadne kroky na manuálne povolenie alebo aktiváciu** služby správy prístupových práv.
 
 Na základe spätnej väzby od zákazníkov už nebudeme umožňovať pravidlá toku poštových služieb Exchange, aby sa automaticky zašifrovali odchádzajúce e-maily obsahujúce určitý typ citlivých informácií v nájomníkovi predvolene. Namiesto toho poskytujeme podrobné pokyny, ako to môžete urobiť sami. Ďalšie informácie o tom, ako vytvoriť pravidlo prenosu na zašifrovanie citlivých informácií, nájdete [v tomto článku](https://aka.ms/OmeEtr).
 

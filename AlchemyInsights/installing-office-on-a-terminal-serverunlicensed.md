@@ -10,33 +10,33 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37205424"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763232"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Inštalácia balíka Office na terminálový Server
 
-Nasadenie balíka Office 365 ProPlus na serveri Windows pomocou služby vzdialenej skúsenosti s prácou s počítačom (RDS), predtým pomenované terminálové služby:
+Nasadenie Microsoft 365 aplikácie pre podniky na Windows Server pomocou Remote Desktop Services (RDS), predtým pomenované terminálové služby:
   
-- Musíte mať plán Office 365, ktorý obsahuje Office 365 ProPlus, napríklad Office 365 Enterprise E3 alebo Enterprise E5. Plány Office 365 Business a Office 365 Business Premium nezahŕňajú Office 365 ProPlus.
+- Musíte mať predplatné Microsoft 365, ktorý obsahuje Microsoft 365 aplikácie pre podniky, napríklad Office 365 Enterprise E3 alebo Enterprise E5. Microsoft 365 aplikácie pre podniky a Microsoft 365 aplikácie Business Premium plány nezahŕňajú Microsoft 365 aplikácie pre podniky.
 
 - Musíte zapnúť [aktiváciu zdieľaného počítača](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ak chcete nainštalovať Office 365 ProPlus na RDS z Microsoft 365 admin Center, ***ktorý používa predvolené nastavenie inštalácie***, použite nasledovný postup.
+Ak chcete nainštalovať Microsoft 365 aplikácie pre Enterprise na RDS z Microsoft 365 admin Center, ***ktorý používa predvolené nastavenie inštalácie***, použite nasledovný postup.
 
 > [!TIP]
-> Môžete tiež stiahnuť a spustiť [Microsoft Support a zotavenie asistent](https://aka.ms/SaRA_OfficeSCA_M365Portal) nainštalovať Office 365 ProPlus v režime zdieľaného počítača aktivácie.
+> Môžete tiež stiahnuť a spustiť [Microsoft Support a zotavenie asistent](https://aka.ms/SaRA_OfficeSCA_M365Portal) nainštalovať Microsoft 365 aplikácie pre podniky v režime zdieľaného počítača aktivácie.
   
-1. Skontrolujte, čo Office 365 plán máte. [Zistite, ako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Skontrolujte, čo Microsoft 365 predplatné máte. [Zistite, ako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. V prípade potreby prepnite na iný plán balíka Office 365. [Zistite, ako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Ak je to potrebné, prepnite na iný Microsoft 365 predplatné. [Zistite, ako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Ak je balík Office už nainštalovaný na serveri RDS pomocou iných plánov balíka Office 365, odinštalujte ho. Napríklad prechodom na Ovládací panel \> odinštalujte program. Odinštalovanie pomocou [technickej podpory spoločnosti Microsoft a obnovenie asistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ak používate problémy.
+3. Ak Office je už nainštalovaný na serveri RDS pomocou iných Microsoft 365 predplatné, odinštalujte ho. Napríklad prechodom na Ovládací panel \> odinštalujte program. Odinštalovanie pomocou [technickej podpory spoločnosti Microsoft a obnovenie asistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ak používate problémy.
 
-4. Na serveri RDS, prihláste sa do Microsoft 365 admin Center s kontom správcu a [nainštalovať Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Na serveri RDS, prihláste sa do Microsoft 365 admin Center s kontom správcu a [nainštalovať Microsoft 365 aplikácie pre podniky](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. Po nainštalovaní balíka Office, ***neotvárajte ani sa prihlásiť*** do žiadnej aplikácie balíka Office.
 
@@ -48,9 +48,9 @@ Ak chcete nainštalovať Office 365 ProPlus na RDS z Microsoft 365 admin Center,
 
 3. V editore databázy Registry pridajte hodnotu reťazca **Sharedcomputerlicensing** s nastavením 1 podľa HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Na serveri RDS sa ***prihláste ako koncový používateľ*** a [overte, či je zapnutá Aktivácia zdieľaného počítača pre balík Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Na serveri RDS sa ***prihláste ako koncový používateľ*** a [overte, či je zapnutá Aktivácia zdieľaného počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Ďalšie informácie o predpoklady, pokyny na nastavenie a pokyny na prispôsobené inštalácie pomocou nástroja Office Deployment, nájdete [nasadiť office 365 ProPlus pomocou služby vzdialenej skúsenosti s prácou s počítačom](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Ďalšie informácie o predpoklady, pokyny na nastavenie a pokyny na prispôsobené inštalácie pomocou nástroja Office Deployment, nájdete [nasadenie Microsoft 365 aplikácie pre podniky pomocou služby vzdialenej skúsenosti s prácou s počítačom](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Ak chcete opraviť chyby súvisiace so zdieľanou aktiváciou počítača, prečítajte si článok [Riešenie problémov so zdieľanou aktiváciou počítača pre balík Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Ak chcete opraviť chyby súvisiace so zdieľanou aktiváciou počítača, prečítajte si článok [Riešenie problémov so zdieľanou aktiváciou počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

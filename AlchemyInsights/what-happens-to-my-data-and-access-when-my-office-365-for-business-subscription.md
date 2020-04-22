@@ -1,9 +1,9 @@
 ---
-title: Čo sa stane na moje dáta a prístup konči môjho predplatného Office 365 for business?
+title: Čo sa stane s mojimi údajmi a prístupom pri skončení predplatného Microsoft 365 for Business?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531266"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766220"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Čo sa stane na moje dáta a prístup konči môjho predplatného Office 365 for business?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Čo sa stane s mojimi údajmi a prístupom pri skončení predplatného Microsoft 365 for Business?
 
-Ak vaše predplatné na Office 365 končí — vyprší, alebo ste sa rozhodli zrušiť — prístup k Office 365 služby, aplikácie a údaje zákazníka prejsť viacero štátov pred predplatné je plne vypnutá, alebo *deprovisioned*  . Ak ste si vedomí tejto progresie, budete lepšie pripravení vrátiť predplatného do aktívneho stavu, než bude príliš neskoro, alebo — ak opúšťate Office 365 – zálohovať dáta predtým, než sa nakoniec odstráni.
+Ak sa predplatné skončí – buď preto, že uplynie, alebo preto, že sa rozhodnete zrušiť – váš prístup k službám, aplikáciám a údajom o zákazníkoch prejde viacerými štátmi pred úplným vypnutím predplatného alebo *deprovisioned* . Ak ste si vedomí tohto postupu, budete lepšie pripravení vrátiť svoje predplatné do aktívneho stavu, kým bude príliš neskoro, alebo ak odchádzate od spoločnosti Microsoft, zálohujte svoje údaje skôr, než sa nakoniec odstráni.
   
-Pred odber skutočne dosiahne jej platnosti, máte niekoľko možností, ako **spravovať ďalšie faktúry za predplatné**.
+Pred predplatením skutočne dosiahne dátum vypršania platnosti, máte niekoľko možností na **spravovanie opakovanej fakturácie predplatného**.
   
-- Ak **opakovaná fakturácie** je zapnutý, nemusíte prijať akékoľvek opatrenia. Vaše predplatné bude účtovaná ku dňu **opakovaná fakturácie** a zaplatíte za ďalší rok alebo mesiac, v závislosti od aktuálnej frekvencie platieb. Ak z nejakého dôvodu ste vypli **opakovaná fakturácie** , môžete vždy [obrátiť nastavenú opakovanú fakturáciu späť na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Ak je už **opakovaná Fakturácia** zapnutá, nemusíte podniknúť žiadne kroky. Vaše predplatné sa bude účtovať na základe jeho **opakovaného fakturačného** dátumu a za ďalší rok alebo mesiac budete účtovaný v závislosti od aktuálnej frekvencie platieb. Ak ste z nejakého dôvodu zapli **opakovanú fakturáciu** , môžete vždy [znova zapnúť opakovanú fakturáciu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Ak ste Open multilicenčných zákazníkov predplatených, jedno-ročné predplatné, kontaktujte svojho partnera ku kúpe nového výrobku kľúč. Dostanete inštrukcie mailom aktivovať váš kľúč [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Naučte sa nájsť nového partnera alebo partnerov, s ktorými ste pracovali v minulosti, v téme [nájsť Office 365 partnera alebo predajcu](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Ak ste zákazníkom s predplateným, jednoročnými predplatnými, kontaktujte svojho partnera a kúpte si nový kód Product Key. Pomocou e-mailu budete dostávať pokyny na aktiváciu kľúča v [centre služieb hromadnej licencie](https://go.microsoft.com/fwlink/p/?LinkID=282016). Informácie o tom, ako nájsť nového partnera alebo partnera, s ktorým ste pracovali v minulosti, nájdete v téme [Vyhľadanie partnera alebo predajcu spoločnosti Microsoft 365](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

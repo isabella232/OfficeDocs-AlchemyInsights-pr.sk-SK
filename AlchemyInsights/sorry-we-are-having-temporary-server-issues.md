@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628005"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764132"
 ---
 # <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Upevnenie aplikácie balíka Office "Ospravedlňujeme sa, máme dočasný server problémy" správa
 
 Ak sa zobrazí toto hlásenie, vyskúšajte nasledujúce kroky:
 
-1. Skontrolujte, či brána firewall, antivírusový softvér a nastavenia servera proxy potvrdia, že neblokujú prístup na internet k aplikáciám balíka Office. Pozrite si [Office 365 adresy URL a rozsahy adries IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Skontrolujte, či brána firewall, antivírusový softvér a nastavenia servera proxy potvrdia, že neblokujú prístup na internet k aplikáciám balíka Office. Pozrite si [adresy URL a rozsahy adries IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 2. Prejdite na **Štart** > **Spustiť**, a potom zadajte **Services. msc**. Uistite sa, že sú spustené nasledujúce služby:
     - Automatické nastavenie zariadení pripojených k sieti
@@ -36,4 +36,4 @@ Ak jedna z týchto služieb nie je spustená, pokúste sa ho spustiť. Ak máte 
 
 Po dokončení tohto príkazu reštartujte počítač.
 
-Podrobné informácie nájdete v časti ["Ľutujeme, nemôžeme sa pripojiť k vášmu kontu. Skúste to znova neskôr "chyba pri aktivácii balíka Office z balíka Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Podrobné informácie nájdete v časti ["Ľutujeme, nemôžeme sa pripojiť k vášmu kontu. Prosím, skúste to znova neskôr "chyba pri aktivácii](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

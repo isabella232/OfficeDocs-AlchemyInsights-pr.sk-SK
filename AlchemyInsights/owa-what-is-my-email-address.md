@@ -1,25 +1,25 @@
 ---
-title: Čo je e-mailovej adresy v programe Outlook na webe
+title: Aká je moja e-mailová adresa v programe Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0dffe1ca5aaf9627869db9d8f7ba50343edb7753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555644"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768200"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Čo je e-mailovej adresy v programe Outlook na webe?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Aká je moja e-mailová adresa v programe Outlook na webe?
 
-E-mailová adresa je priradená vám v práci alebo v škole. Vyzerá to ako ellen@contoso.onmicrosoft.com, ellen@contoso.edu alebo ellen@contoso.com. Tento pracovný alebo školský účet je e-mailovú adresu a konto použijete na prihlásenie do Office 365 prácu alebo školy.
+Vašu e-mailovú adresu vám priradí vaša práca alebo škola. Vyzerá to, že ellen@contoso.onmicrosoft.com, ellen@contoso.edu alebo ellen@contoso.com. Toto pracovné alebo školské konto je e-mailová adresa a konto, ktoré používate na prihlásenie do Microsoft 365 pre prácu alebo školu.
 
-Pracovné alebo školské konto sa líši od konta Microsoft. Používate konto Microsoft pre osobné služby ako Outlook.com, Xbox Live, Skype a ďalšie.
+Vaše pracovné alebo školské konto sa líši od konta Microsoft. Konto Microsoft používate pre osobné služby, ako sú Outlook.com, Xbox Live, Skype a ďalšie.
 
-Ďalšie informácie nájdete v téme [čo je moje používateľské ID a prečo ho potrebujem pre Office 365 pre podniky?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Ďalšie informácie nájdete v téme [čo je moje ID používateľa a prečo ju potrebujem pre Microsoft 365 pre podniky?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

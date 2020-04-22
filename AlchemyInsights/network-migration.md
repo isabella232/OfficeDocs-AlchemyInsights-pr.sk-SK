@@ -2,7 +2,7 @@
 title: Migrácia siete
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734720"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761829"
 ---
 # <a name="network-migration"></a>Migrácia siete
 
-Nájomcu služby O365 je pravdepodobne spojená s viacerými sieťami sieť Yammer 1 nájomcu: mnohé siete konfigurácie. Počnúc október 16, 2018, nariekanie už nepodporuje viac sieť Yammer siete spojené s jedným nájomníkom Office 365. Môžete vykonať migráciu siete sa dostať do preferovanej konfigurácie 1:1.
+Nájomcu služby O365 je pravdepodobne spojená s viacerými sieťami sieť Yammer 1 nájomcu: mnohé siete konfigurácie. Počnúc október 16, 2018, nariekanie už nepodporuje viac sieť Yammer siete spojené s jedným nájomníkom. Môžete vykonať migráciu siete sa dostať do preferovanej konfigurácie 1:1.
   
-- Ak chcete zobraziť zoznam sietí priradených k nájomníkovi, prihláste sa na sieť Yammer ako globálny správca balíka Office 365 a prejdite na **správcu siete**a potom na položku **migrácia siete**. Vyberte položku **Next (ďalej**).
+- Ak chcete zobraziť zoznam sietí priradených k nájomníkovi, prihláste sa na sieť Yammer ako globálny správca a prejdite na **správcu siete**a potom na položku **migrácia siete**. Vyberte položku **Next (ďalej**).
 
 - Ak vidíte viaceré siete uvedené v kroku 2 z 3, potom máte viac sieť Yammer siete priradené k vášmu nájomníkovi služby O365.
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 1e0df466fc8234af8e4de17201065a85594f5ed2
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: e631beacddb6829eb226e889b67439118ffb2a05
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218328"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764492"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Nastavenie predplatného na Microsoft 365 Business
 
@@ -30,4 +30,4 @@ Podrobnú riadenú prehliadku na pomoc s nastavením predplatného Business náj
 
 - [Inštalácia aplikácií balíka Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications?view=o365-worldwide)
 
-Ak máte záujem o ďalšie školenia, [absolvujte sériu pre malé podniky a nových používateľov služby Microsoft 365](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816?ui=en-US&rs=en-US&ad=US).
+Ak máte záujem o ďalšie školenia, [absolvujte sériu pre malé podniky a nových používateľov služby Microsoft 365](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
