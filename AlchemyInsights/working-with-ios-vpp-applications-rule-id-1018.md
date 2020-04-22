@@ -1,8 +1,8 @@
 ---
-title: Práca s iOS VPP aplikácie pravidla Id 1018
+title: Práca s iOS VPP aplikácie ID pravidla 1018
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558020"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719972"
 ---
-# <a name="working-with-ios-vpp-applications"></a>Práca s iOS VPP aplikácie
+# <a name="working-with-ios-vpp-applications"></a>Práca s aplikáciami systému iOS VPP
 
-Čítať [ako zvládať iOS aplikácie zakúpené prostredníctvom programu objem nákupu s Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) sa dozvedieť o funkcie, obmedzenia a kroky, aby sa Apple objem nákupu Program a podporu pre to v Microsoft Intune.
+Prečítajte si, [ako spravovať aplikácie pre iOS zakúpené prostredníctvom programu na nákup zväzku s Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) a dozvedieť sa o funkciách, obmedzeniach a krokoch, aby ste mohli využiť program na nákup zväzku Apple a podporu pre ňu v Microsoft Intune.
   
- **Spoločné otázky:** "IOS VPP aplikácie priradené používateľom, ale Inštalácia zlyhala."
+ **Bežné problémy:** "Priradil som aplikáciu iOS VPP k mojim používateľom, ale Inštalácia zlyhala."
   
-- To môže nastať ak jeden token VPP sa používa vo viacerých poskytovateľov riešení na správu mobilných zariadení. VPP tokeny od Apple môže byť použité iba s jedným poskytovateľom. Ak ste použili VPP token s viacerými poskytovateľmi, musí re-upload token Windows Intune.
+- Môže sa to stať, ak sa v rámci viacerých poskytovateľov správy mobilných zariadení používa jediný token VPP. Žetóny VPP od spoločnosti Apple sa môžu používať iba s jedným poskytovateľom. Ak ste použili token VPP s viacerými poskytovateľmi, musíte znova odovzdať token Intune.
 
-- Inštalácia tiež môže zlyhať, ak celkový počet zariadení presiahnuť počet licencií. Zobraziť zostavy používania pre vaše licencie, prejdite na **Windows Intune mobilné aplikácie** \> stránke **aplikácie licencie** . Naučiť sa kultivovať licencií používaných, pozri [tomto článku.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Inštalácia môže zlyhať aj v prípade, že celkový počet inštalácií prekročí počet licencií. Ak chcete zobraziť zostavu používania pre svoje licencie, prejdite na stránku **licencie aplikácie** **Intune Mobile Apps** \> . Ďalšie informácie o možnostiach opätovného použitia licencií nájdete v [tomto článku.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

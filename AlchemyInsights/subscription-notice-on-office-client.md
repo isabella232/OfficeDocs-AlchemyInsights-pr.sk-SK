@@ -1,9 +1,9 @@
 ---
-title: Predplatné oznámenie o klienta balíka Office
+title: Upozornenie na predplatné na Office Client
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559784"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741878"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Predplatné oznámenia v Office klienta?
+# <a name="subscription-notice-in-your-office-client"></a>Oznámenie o predplatnom vo vašom klientovi balíka Office?
 
-Vyzerá to, že ste videli oznámenia v Office klienta súvisí stav predplatného na Office 365. Môžete nájsť informácie o riešení problému v tomto článku: [po otvorení aplikácie Office 365 sa zobrazí upozornenie predplatné](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Vyzerá to, že ste videli oznámenie vo vašom klientovi Office týkajúce sa stavu predplatného. Nájdete informácie o tom, ako vyriešiť problém v tomto článku: [pri otváraní aplikácie Microsoft 365 sa zobrazí oznámenie o predplatnom](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Ak vaše predplatné na Office 365 je aktuálny, mohol mať hit dočasný problém, ktorý spôsobil Office Aktivácia zlyhanie. Existujú jednoduché kroky, ako zabrániť tieto správy, kontrola vášho počítačového času, beží úrad ako správca a prihlásením aktivovať. Tu nájdete podrobný postup na riešenie týchto problémov v tomto článku: [produkt bez platnej licencie a chybách aktivácie balíka Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Ak je vaše predplatné aktuálne, pravdepodobne ste narazili na dočasný problém, ktorý spôsobil zlyhanie aktivácie balíka Office. Existujú jednoduché kroky, ktoré môžete podniknúť, aby ste sa vyhli týmto správam, ako je napríklad kontrola času v počítači, spustenie balíka Office ako správca a prihlásenie na aktiváciu. Podrobné kroky na vyriešenie týchto problémov nájdete v tomto článku: [nelicencované chyby produktu a aktivácie](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Ak tieto nefungujú pre vás, prosím kontaktujte nás s nižšie uvedené odkazy a budeme radi pomôžeme.
-  
+Ak tieto nefungujú pre vás, prosím, kontaktujte nás s nižšie uvedené odkazy a budeme radi pomôžeme.

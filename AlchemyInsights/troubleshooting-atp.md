@@ -1,34 +1,34 @@
 ---
-title: Riešenie problémov s Office 365 rozšírené Threat Protection
+title: Riešenie problémov s Office 365 Pokročilá ochrana pred hrozbami
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765405"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732417"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Riešenie problémov s Office 365 rozšírené Threat Protection
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Riešenie problémov s Office 365 Pokročilá ochrana pred hrozbami
 
-- Myslíte si všimnete oneskorenie v doručovanie správ? Pomocou možnosti [Dynamické dodávky](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) v ATP bezpečnými prílohami politiky. To vám pomôže vyhnúť správu oneskorenia pri ochrane príjemcov zo škodlivého súborov.
+- Zaznamenáte oneskorenie pri doručení správ? Použite možnosť [dynamického doručovania](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) v zásadách pre bezpečné prílohy ATP. To vám pomôže vyhnúť sa oneskoreniam správy a zároveň chrániť príjemcov pred škodlivými súbormi.
 
-- Chcete nahlásiť falošne pozitívnych alebo falošne negatíva spoločnosti Microsoft? Použite tento [odkaz](https://www.microsoft.com/wdsi/filesubmission/) Odoslať súbory pre analýzu.
+- Chcete nahlásiť falošné poplachy alebo falošné negatívy spoločnosti Microsoft? Použite tento [odkaz](https://www.microsoft.com/wdsi/filesubmission/) na odoslanie súborov na analýzu.
 
-- Vedeli ste, že môžete zapnúť bezpečné prepojenia ochrany vnútorného e-mailov odoslaných medzi príjemcov v rámci vašej organizácie? Postupujte nasledovne:
+- Vedeli ste, že môžete povoliť ochranu bezpečných prepojení pre interné e-maily odoslané medzi príjemcami v rámci vašej organizácie? Vykonajte nasledujúce kroky:
 
-  1. Prejsť na [https://protection.office.com](https://protection.office.com) a prihláste sa pomocou globálny správca alebo správca konto zabezpečenia.
+  1. Prejdite na [https://protection.office.com](https://protection.office.com) a prihláste sa pomocou globálneho správcu alebo konta správcu zabezpečenia.
 
-  2. Na ľavej navigačnej table pod **Threat management**vyberte **politika** \> **Bezpečné prepojenia**.
+  2. Na ľavej navigačnej table v časti **Správa hrozieb**vyberte položku **Policy** \> **bezpečné prepojenia**politiky.
 
-  3. V časti **podmienky, ktoré sa vzťahujú na celú organizáciu** vyberte politiku a kliknite na tlačidlo **Upraviť**.
+  3. V **politikách, ktoré sa vzťahujú na celú organizáciu** sekcia, vyberte politiku a kliknite na tlačidlo **Upraviť**.
 
-  4. Podľa **nastavenia**, umožňujú **použiť bezpečné prepojenia správach odoslaných v rámci organizácie**.
+  4. V časti **Nastavenie**povoľte **možnosť použiť bezpečné prepojenia na správy odoslané v rámci organizácie**.

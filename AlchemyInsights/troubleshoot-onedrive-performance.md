@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054969"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733213"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Riešenie problémov s výkonom služby OneDrive
 
@@ -22,7 +22,7 @@ Ak sa vyskytnú pomalšie než očakávané synchronizácie alebo podobné probl
 
 - Potvrďte, že nie sú známe žiadne problémy pomocou [služby Health Dashboard](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- [Povoľte súbory na požiadanie](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) , aby ste mali prístup k všetkým súborom v službe OneDrive bez nutnosti sťahovať všetky z nich a používať ukladací priestor v zariadení.
+- [Povoľte súbory na požiadanie](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) , aby ste mali prístup k všetkým súborom v službe OneDrive bez nutnosti sťahovať všetky z nich a používať ukladací priestor v zariadení.
 
 - [Prečítajte si osvedčené postupy](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) pre plánovanie a výkon siete.
 

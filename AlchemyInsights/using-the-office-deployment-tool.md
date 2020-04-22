@@ -1,8 +1,8 @@
 ---
-title: Pomocou nástroja nasadenia Office
+title: Pomocou nástroja Office Deployment
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531590"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726263"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Pomocou Office Deployment Tool (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Používanie nástroja na nasadenie balíka Office (ODT)
 
-Nasadiť Office 365 verzie balíka Office pomocou Office Deployment Tool (ODT). Office Deployment Tool (setup.exe) je spustiť z príkazového riadka a používa konfiguračný XML súbor zistiť, aké nastavenia použiť pri nasadzovaní balíka Office.
+Používate Office Deployment Tool (ODT) nasadiť Office 365 verzie balíka Office. Nástroj na nasadenie balíka Office (Setup. exe) je spustený z príkazového riadka a používa konfiguračný súbor XML na určenie nastavení, ktoré sa použijú pri nasadzovaní balíka Office.
   
-1. Stiahnite si najnovšiu verziu nástroja nasadenia Office z [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Prevezmite najnovšiu verziu nástroja na nasadenie balíka Office z [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Použite [Nástroj na prispôsobenie balíka Office (OCT)](https://config.office.com) vyberte predvoľby nasadenia a vytvorenie konfiguračného XML súboru. Export konfiguračný súbor a umiestnite ho lokálne v rovnakom priečinku kde býva setup.exe.
+2. Pomocou [nástroja na prispôsobenie balíka Office (OCT)](https://config.office.com) vyberte predvoľby nasadenia a vytvorte súbor XML konfigurácie. Exportujte konfiguračný súbor a umiestnite ho lokálne na rovnaký priečinok, kde sa nachádza Setup. exe.
 
-    **Poznámka:** Inštaláciu balíka Office bežne vyskytnúť problémy vzhľadom na zle alebo malformatted konfiguračné súbory. Aby sa predišlo také problémy, odporúčame, že používate nástroj na prispôsobenie balíka Office vytvoriť konfiguračný súbor. Môžete tiež importovať existujúce konfiguračné súbory do nástroj na prispôsobenie balíka Office.
+    **Poznámka:** Problémy s inštaláciou balíka Office sa bežne vyskytujú v dôsledku chybne nakonfigurovaných alebo chybne formátovaných konfiguračných súborov. Aby sa predišlo takýmto problémom, odporúčame použiť nástroj na prispôsobenie balíka Office vytvoriť konfiguračný súbor. Môžete tiež importovať existujúce konfiguračné súbory do nástroja na prispôsobenie balíka Office.
 
-3. Z námer kontrolovať vrtký, prepnite do polohy bydliska setup.exe a spustite nástroj na nasadenie balíka Office v režime stiahnutie a určite konfiguračný súbor ste práve uložili. V tomto príklade, konfiguračný súbor sa nazýva Configuration.xml:
+3. Z príkazového riadka s právami správcu prepnite do umiestnenia, kde sa nachádza súbor Setup. exe, a spustite nástroj na nasadenie balíka Office v režime preberania a zadajte konfiguračného súboru, ktorý ste práve uložili. V tomto príklade konfiguračný súbor s názvom Configuration. XML:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. Spustenie nástroja nasadenia Office v Konfigurácia režimu a zadajte konfiguračný súbor.
+4. Spustite nástroj Office Deployment v režime konfigurovať a zadajte konfiguračný súbor.
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **Poznámka:** Tento krok musíte spustiť z klientskeho počítača, na ktorom chcete nainštalovať balík Office a musíte mať povolenia lokálneho správcu na tomto počítači.
+    **Poznámka:** Tento krok musíte spustiť z klientskeho počítača, na ktorom chcete nainštalovať balík Office a musíte mať povolenia lokálneho správcu na danom počítači.
 
-Ďalšie informácie o používaní nástroja nasadenia Office pre Office 365 ProPlus scenáre nasadenia, pozrite si [Prehľad nástroja nasadenia Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Pre viac informácií o tom, ako používať nástroj na prispôsobenie balíka Office, nájdete v časti [Prehľad nástroja na prispôsobenie balíka Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Ďalšie informácie o používaní nástroja na nasadenie balíka Office pre Microsoft 365 aplikácie pre podnikové nasadenie scenáre, pozrite si [Prehľad nástroja Office Deployment](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Ďalšie informácie o používaní nástroja na prispôsobenie balíka Office nájdete v téme [Prehľad nástroja na prispôsobenie balíka Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

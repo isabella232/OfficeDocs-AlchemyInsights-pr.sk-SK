@@ -1,31 +1,31 @@
 ---
-title: POP, IMAP a SMTP nastavenia v programe Outlook na webe
+title: Nastavenia protokolu POP, IMAP a SMTP v programe Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721150"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, nastavenia IMAP & SMTP pre Outlook na webe
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Nastavenia protokolu IMAP & SMTP pre program Outlook na webe
 
-Ak chcete pridať konto služby Office 365 ďalší mail app, ktorý podporuje POP, IMAP a SMTP, tu sú nastavenia manuálne servera, budete potrebovať:
+Ak chcete pridať konto Microsoft 365 do inej aplikácie Pošta, ktorá podporuje protokol POP, IMAP alebo SMTP, tu sú nastavenia manuálneho servera, ktoré budete potrebovať:
   
-- **Názov servera IMAP:** outlook.office365.com
-- **IMAP port:** 993
+- **Názov servera IMAP:** Outlook.office365.com
+- **Port IMAP:** 993
 - **Metóda šifrovania IMAP:** SSL/TLS
-- **Názov servera POP:** outlook.office365.com  
-- **POP port:** 995  
-- **POP šifrovacia metóda:** SSL/TLS  
-- **Názov servera SMTP:** smtp.office365.com
-- **SMTP port:** 587
-- **Metóda šifrovania SMTP:** STARTTLS
+- **Názov servera POP:** Outlook.office365.com  
+- **Pop port:** 995  
+- **Metóda šifrovania pop:** SSL/TLS  
+- **Názov servera SMTP:** SMTP.office365.com
+- **Port SMTP:** 587
+- **Metóda šifrovania SMTP:** Starttls

@@ -1,9 +1,9 @@
 ---
-title: Overenie konta Outlook.com
+title: Ako overiť svoj účet Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743432"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Overenie konta Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>Ako overiť svoj účet Outlook.com
 
-Dvojstupňové overenie pomáha chrániť tým, že robiť to viac náročný pre niekoho iného, aby prihlásiť do vášho konta Microsoft. To používa dve rôzne formy identity: heslo a kontaktná metóda (tiež známy ako informácie o zabezpečení).
+Dvojstupňové overenie pomáha chrániť vás tým, že sťažuje niekomu inému prihlásiť sa do konta Microsoft. Používa dve rôzne formy identity: heslo a spôsob kontaktu (známe aj ako bezpečnostné informácie).
   
-Ak chcete zapnúť alebo vypnúť dvojstupňové overenie:
+Zapnutie alebo vypnutie dvojstupňového overenia:
   
-1. Prejdite na [stránku Základy zabezpečenia](https://go.microsoft.com/fwlink/?linkid=842325) a prihláste sa pomocou konta Microsoft.
-2. Vyberte **Ďalšie možnosti zabezpečenia**.
-3. V časti **dvojstupňové overenie**vyberte položku **nastaviť dvojstupňové overovanie,** a postupujte podľa pokynov.
+1. Prejdite na [stránku Základy zabezpečenia](https://go.microsoft.com/fwlink/?linkid=842325) a prihláste sa pomocou svojho konta Microsoft.
+2. Vyberte položku **Ďalšie možnosti zabezpečenia**.
+3. V časti **dvojstupňové overenie**vyberte položku **nastaviť dvojstupňové overenie** a postupujte podľa pokynov.
 
-Ak zapnete dvojstupňové overenie, musíte sa vždy dve formy vašej identifikácie. Ak stratíte svoj spôsob kontaktu, heslo sám nebude vám späť do vášho účtu - a to môže trvať 30 dní získať prístup.
+Ak zapnete dvojstupňové overenie, budete vždy potrebovať dve formy identifikácie. Ak stratíte spôsob kontaktu, vaše heslo sa vám nevracia späť do vášho účtu-a to môže trvať 30 dní na opätovné získanie prístupu.
   
-Ďalšie informácie o [dvojstupňovom overení](https://go.microsoft.com/fwlink/?linkid=872270).
+Prečítajte si ďalšie informácie o [dvojstupňovom overení](https://go.microsoft.com/fwlink/?linkid=872270).
   

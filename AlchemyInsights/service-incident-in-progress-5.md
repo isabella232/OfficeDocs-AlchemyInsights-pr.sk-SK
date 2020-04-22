@@ -1,8 +1,8 @@
 ---
-title: Služba udalosti v priebehu
+title: Priebeh servisnej udalosti
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550638"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719746"
 ---
-# <a name="service-incident-in-progress"></a>Služba udalosti v priebehu
+# <a name="service-incident-in-progress"></a>Priebeh servisnej udalosti
 
-Môže byť ovplyvnená incident služby alebo poradenské ktorý je v súčasnosti vyšetrovaný. Môžete skontrolovať najnovšie stav tým, že pôjdete na stránku [Stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Môže vás to ovplyvniť servisný incident alebo poradný orgán, ktorý sa práve skúma. Najnovší stav môžete skontrolovať tak, že prejdete na stránku [služby zdravie](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-Pre vaše pohodlie môžete nájsť súhrn tejto udalosti nižšie:
+Pre vaše pohodlie, nájdete Zhrnutie tohto incidentu nižšie:
   
-> **Udalosť číslo:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Číslo incidentu:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Vplyv Popis: {ImpactDescription}
+> Popis vplyvu: {ImpactDescription}

@@ -3,7 +3,7 @@ title: 976-How-to-povoliť-Litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398642"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720747"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Umiestniť poštovú schránku na právne držanie
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398642"
 
 - Povolenie zadržanie jedného používateľa, [postupujte nasledovne](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Ak je zapnuté zadržanie v dôsledku súdneho sporu, zachová sa všetok obsah v poštovej schránke.
 
-- Ak chcete zachovať obsah vo všetkých poštových schránkach vo vašej organizácii, môžete použiť [politiku uchovávania údajov v rámci celej organizácie balíka Office 365](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Upozorňujeme, že pre politiky uchovávania údajov v celej organizácii budú noví používatelia automaticky priradení k politike.
+- Ak chcete zachovať obsah vo všetkých poštových schránkach vo vašej organizácii, môžete použiť [politiku uchovávania údajov v celej organizácii](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Upozorňujeme, že pre politiky uchovávania údajov v celej organizácii budú noví používatelia automaticky priradení k politike.

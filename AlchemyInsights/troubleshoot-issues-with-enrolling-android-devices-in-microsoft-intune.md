@@ -1,9 +1,9 @@
 ---
-title: Riešenie problémov s zapísať Android zariadení Microsoft Intune
+title: Riešenie problémov s zapísať Android zariadenia v Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759635"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Riešenie problémov s zapísať Android zariadení Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Riešenie problémov s zapísať Android zariadenia v Microsoft Intune
 
-Preskúmanie zdrojov uvedených nižšie vyriešiť váš problém teraz.
+Prečítajte si nižšie uvedené zdroje a vyriešte problém teraz.
   
-Niektoré spoločné problémy a rozlíšenie kroky:
+Niektoré bežné problémy a kroky riešenia:
   
- **Zariadenia nie sú šifrované chyba v portáli spoločnosti:** Novšie verzie Androidu, najmä počnúc v7.0, požadovať heslo pri spustení uistite sa, že vaše zariadenie je plne šifrované. Povolenie kódu pin pri spustení alebo plne šifrovanie zariadenia sa spoločné riešenia. Prečítať [Tento dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) pre ďalšie informácie.
+ **Zariadenie nie je šifrovaná chyba v portáli spoločnosti:** Novšie verzie Androidu, najmä počnúc v 7.0, vyžadujú spúšťací prístupový kód, aby ste sa uistili, že vaše zariadenie je úplne šifrované. Bežné riešenia sú umožňujúce spúšťací kód PIN alebo úplne zašifrovať zariadenie. Ďalšie informácie si prečítajte [v tomto dokumente](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) .
   
- **Zariadenia nedokážu skontrolovať pomocou služby Windows Intune alebo Zobraziť ako "Nezdravých" Intune admin konzole:** Niektoré Samsung 4.4 a 5,5 zariadenia môže skontrolovať do služby. Existujú 3 možné riešenia tohto problému:
+ **Zariadenia nepodarí overiť pomocou služby Intune alebo Zobraziť ako "nezdravé" v konzole správcu Intune:** Niektoré zariadenia Samsung 4,4 a 5,5 nemusia do služby kontrolovať. Existujú 3 možné riešenia tohto problému:
   
-1. Manuálne otvorenie aplikácie portáli spoločnosti Intune, ktorý sa automaticky spustí Synchronizácia zariadenia.
+1. Manuálne otvorte aplikáciu Intune Company Portal, ktorá automaticky spustí synchronizáciu zariadenia.
 
-2. Aktualizujte zariadenie na Android 6.0 alebo vyšší.
+2. Aktualizujte zariadenie na Android 6,0 alebo novší.
 
-3. Zakázať riadenie portáli Intune spoločnosti Samsung Smart Manager. Prečítať [Tento dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) pre ďalšie podrobnosti o týchto otázkach a uznesenia.
+3. Zakážte Samsung Smart Manager Spravovanie portálu Intune spoločnosti. Prečítajte si [Tento dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) pre ďalšie podrobnosti o týchto otázkach a uzneseniach.
 
- **Užívateľ licencie typu neplatný** alebo **užívateľské meno nerozpozná chyba:** užívateľ musí prideliť licenciu Windows Intune alebo EMS. Revidovať tieto dokumenty priradiť licenciu prostredníctvom: Office Admin Center alebo Azure portál.
+ **Typ licencie používateľa neplatné** alebo **meno používateľa nie je rozpoznaná chyba:** používateľ musí prideliť licenciu Intune alebo EMS. Skontrolujte tieto dokumenty a priraďte licenciu prostredníctvom: Office Admin Center alebo Azure Portal.
   
-Dodatočné zdroje, ktoré pomôžu vyriešiť váš problém:
+Ďalšie zdroje, ktoré vám pomôžu vyriešiť váš problém:
   
-1. Používajte [Windows Intune riešenia problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné zlyhania registrácie. Prečítať [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) pre ďalšie podrobnosti.
+1. Použite [Intune riešenie problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné registrácie zlyhania. Prečítajte si [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) pre viac informácií.
 
-2. Prečítať [Tento dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pre zoznam bežných chýb, ktoré bránia zápisnice a uznesenia každému.
+2. Skontrolujte [Tento dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pre zoznam bežných chýb, ktoré zabraňujú zápisu a rozlíšeniu.
 
-3. [Naučte sa zapísať Android zariadení Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [Naučte sa, ako zapísať zariadenia Android v Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).

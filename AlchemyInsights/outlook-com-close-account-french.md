@@ -1,9 +1,9 @@
 ---
-title: 8000074 Outlook.com zrušiť konto - francúzština
+title: 8000074 Outlook.com zavrieť účet-francúzština
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1152"
 - "8000075"
-ms.openlocfilehash: 54b9138932d46e5f0f9cbc9701ffc8937b92f0ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dd09dff1ead8c68c0e304f358e8296cd1595665d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537134"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760571"
 ---
-# <a name="fermer-votre-compte-outlookcom"></a>Fermer votre compte Outlook.com
+# <a name="fermer-votre-compte-outlookcom"></a>Fermer votre Compte Outlook.com
 
-Nalejte fermer définitivement votre compte de courrier Outlook.com, vous devez fermer votre Compte Microsoft. Lorsque vous fermez votre Compte Microsoft, vos správy et vos kontakty autorského supprimés de nos serveurs et ne môžu pas être récupérés.
+Pour fermer définitivement votre Compte de Courrier Outlook.com, vous devez fermer votre Compte Microsoft. Lorsque vous fermez votre Compte Microsoft, Vos správy et Vos kontakty SONT supprimés de nos serveurs et ne peuvent pas être récupérés.
 
-Accédez à [Fermer votre compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
+Accédez à [fermer votre Compte](https://support.office.com/fr-fr/article/fermer-votre-compte-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921865"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759131"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Ako si vyrobiť Office 365 nákup
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Ako si vyrobiť Microsoft 365 nákup
 
-Nákupy v balíku Office 365 je možné vykonať v centre spravovania.
+Nákupy v Microsoft 365 môžu byť vykonané v admin Center.
   
-- Ak chcete zakúpiť predplatné balíka Office 365, prejdite na stránku služby **fakturácie** \> [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+- Ak chcete kúpiť plán, prejdite na stránku služby **fakturácie** \> [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
 - Ak chcete zakúpiť ďalšie licencie, prejdite na stránku **Fakturácia** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) . Vyberte predplatné, do ktorého chcete pridať licencie, a potom vyberte položku **Pridať alebo odstrániť licencie**.
   
-Ďalšie informácie nájdete v téme [zakúpenie licencií pre balík Office 365 pre podnikové predplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Ďalšie informácie nájdete v téme [zakúpenie licencií pre predplatné Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
 **Riešenie problémov**
 
-Ak sa vyskytnú problémy so načítaním stránky, skúste otvoriť webovú stránku v inom prehľadávači alebo skúste otvoriť stránku v súkromnom okne prehľadávača, napríklad v okne InPrivate v prehliadači Microsoft Edge alebo v okne inkognito v prehliadači Google Chrome. 
+Ak sa vyskytnú problémy s načítaním stránky, pokúste sa webovú stránku otvoriť v inom prehliadači alebo sa ju pokúste otvoriť v okne súkromného prehliadača, napríklad okne v režime InPrivate prehliadača Microsoft Edge alebo okne inkognito prehliadača Google Chrome. 
 
 **Ďalšie zdroje**
   
-- [Priradenie licencií používateľom balíka Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Priradenie licencií používateľom v Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Zrušiť Office 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Zrušiť Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

@@ -1,9 +1,9 @@
 ---
-title: Identifikácia drží umiestnené v poštových schránkach
+title: Identifikácia zadržaní umiestnených v poštových schránkach
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538815"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724791"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identifikovať drží na schránok
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifikácia zadržaní umiestnených v poštových schránkach
 
-Máte Office 365 obsah, ktorý je **zachovaný** **držať** ktoré nedokážete identifikovať? Potrebujete **zistiť,** kde držať sa nachádza na **poštovej schránky** ? Drží (*zachovanie funkcie*) môže uplatniť jeden z nasledujúcich postupov v Office 365:
+Máte Microsoft 365 obsah, ktorý je **zachovaný** **zadržaný, že** nemôžete identifikovať? Potrebujete **zistiť** , kde drží sa nachádza v **poštovej schránke** ? Drží (*retenčné funkcie*) môžu byť použité jedným z nasledujúcich metód:
   
-- Zadržanie
+- Zadržanie v dôsledku súdneho sporu
 
-- eDiscovery zadržanie
+- eDiscovery hold
 
-- Miestne blokovanie vymazania
+- Držanie v mieste
 
-- Politika uchovávania údajov služby Office 365 
+- Microsoft 365 politiky uchovávania údajov 
 
-  - Špecifické umiestnenie politiky uchovávania údajov
+  - Špecifické politiky uchovávania informácií o umiestnení
 
-  - Politiky uchovávania údajov pre celú organizáciu
+  - Politiky uchovávania údajov v rámci celej organizácie
 
-- Office 365 menovky
+- Microsoft 365 menovky
 
-Zistiť, aký druh hold je aplikovaný na poštovej schránky používateľa, vidieť, [ako identifikovať typ držať umiestnené na poštovú schránku Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Ak chcete zistiť, ktorý typ hold sa aplikuje na poštovú schránku používateľa, pozrite si časť [ako určiť typ podrženého umiestneného v poštovej schránke programu Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
