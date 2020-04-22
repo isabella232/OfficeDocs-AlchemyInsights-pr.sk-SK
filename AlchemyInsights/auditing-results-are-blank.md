@@ -3,7 +3,7 @@ title: Výsledky auditovania sú prázdne
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dda79df5b48dba8ea954aee693caead7725b0f96
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36517442"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712437"
 ---
 # <a name="auditing-results-are-blank"></a>Výsledky auditovania sú prázdne
 
@@ -24,9 +24,9 @@ ms.locfileid: "36517442"
   
 Ak chcete zobraziť zostavu auditu pre kolekciu lokalít SharePoint, musíte byť správcom kolekcie lokalít. Ak sa chcete pridať ako správca, pozrite si [Pridať správcov kolekcie lokalít ako globálny alebo správca lokality SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Informácie o práci s auditom auditu nájdete v téme [zobrazenie zostáv denníka auditu](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Vyhľadávanie Office 365 denník auditu**
+ **Vyhľadávanie v denníku auditu**
   
-Musíte byť globálny admin v balíku Office 365 pracovať s denníka auditu v [Centre zabezpečenia &amp; súladu](https://protection.office.com). Skôr než začnete, zapnite zapisovanie do denníka auditu. Potom môžete spustiť vyhľadávanie denníka auditu. 
+Ak chcete pracovať s auditom auditu v [centre pre zabezpečenie &amp; súladu](https://protection.office.com), musíte byť globálnym správcom. Skôr než začnete, zapnite zapisovanie do denníka auditu. Potom môžete spustiť vyhľadávanie denníka auditu. 
   
 [Prečítajte si, ako vyhľadávať v denníku auditu](https://go.microsoft.com/fwlink/?linkid=708432).
   

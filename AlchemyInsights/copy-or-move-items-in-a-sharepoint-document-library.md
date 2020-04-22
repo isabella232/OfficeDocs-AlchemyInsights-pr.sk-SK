@@ -3,7 +3,7 @@ title: Kopírovanie alebo premiestňovanie položiek v knižnici dokumentov loka
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 6e14260d3670eb15f73e92dc5b0c86e0e842974a
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: b8324f596b6830998bb7e659d561a015a7ba2b1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711771"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715683"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopírovanie alebo premiestňovanie položiek v knižnici dokumentov lokality SharePoint
 
@@ -43,7 +43,7 @@ Súbory, priečinky a prepojenia môžete kopírovať a presúvať do rôznych u
   
  Keď sa súbor pohybuje, stále sa zobrazí v zdrojovom adresári, kým sa úplne nepresunie do cieľového miesta a potom sa odstráni. Súbor zostane v zdroji lokalít Kôš po dokončení presunu a podliehať normálny plán recyklácie, ak používateľ obnoví z koša,.
 
-Ďalšie informácie nájdete v téme:
+Ďalšie informácie nájdete v témach:
 
  - [Premiestnenie alebo kopírovanie súborov v službe SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (článok podpory balíka Office)
- - [Presun súborov z ľubovoľného priečinka v balíku Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog článok)  
+ - [Presun súborov z ľubovoľného priečinka](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community Blog článok)  

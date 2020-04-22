@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053492"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713301"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Nástroj na vyhľadávanie obsahu na vyhľadanie relevantných informácií
 
@@ -26,6 +26,6 @@ Pred použitím [vyhľadávania obsahu](https://sip.protection.office.com/conten
 
 Viac informácií o vyhľadávaní obsahu skontrolovaním [požiadaviek a limitov](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [prešetrením čiastočne indexovaných položiek](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ďalšími výsledkami, ktoré si treba uvedomiť.
 
-Po preskúmaní konfiguračné nastavenia a obmedzenia vyhľadávania obsahu, označovať [pomocou vyhľadávanie</a> obsahu na vyhľadávanie na mieste položky, ako napríklad e-mail, dokumenty a Instant Messaging konverzácie vo vašej organizácii Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Po preskúmaní konfiguračných nastavení a obmedzení vyhľadávania obsahu si pozrite časť [Používanie vyhľadávania</a> obsahu na vyhľadanie položiek na mieste, napríklad e-mailov, dokumentov a konverzácií okamžitých správ vo vašej organizácii](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Úplný krok za krokom vyhľadávania obsahu nájdete [v téme vyhľadávanie obsahu v balíku Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) pre viac informácií.

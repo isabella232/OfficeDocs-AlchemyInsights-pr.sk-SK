@@ -1,9 +1,9 @@
 ---
-title: Zrušenie predplatného na Office 365?
+title: Zrušenie predplatného služby Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520322"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711502"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Zrušenie predplatného na Office 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Zrušenie predplatného služby Microsoft 365?
 
-Je nám ľúto vidieť ísť, ale tu sú vaše možnosti zrušiť predplatné:
+Je nám ľúto, že vás vidím ísť, ale tu sú vaše možnosti zrušenia predplatného:
   
-- **Na základe údajov organizácie, veríme, že aktuálneho predplatného sú skúšaní predplatné. Nie je potrebné výslovne zrušiť skúšobné predplatné, pretože Trial predplatné vyžadovať žiadne platby, a neexistuje žiadna povinnosť po skončení skúšobnej verzie automaticky.**
+- **Na základe údajov organizácie veríme, že všetky vaše aktuálne odbery sú skúšobné odbery. Nie je potrebné explicitne zrušiť skúšobné predplatné, pretože skúšobné predplatné nevyžaduje žiadne platby a po skončení skúšobnej verzie neexistuje žiadna povinnosť.**
 
-- Ďalšie informácie o zrušení predplatného alebo podrobné pokyny, prečítajte si tento článok: [zrušenie predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Ďalšie informácie o zrušení predplatného alebo podrobné pokyny nájdete v tomto článku: [zrušenie predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

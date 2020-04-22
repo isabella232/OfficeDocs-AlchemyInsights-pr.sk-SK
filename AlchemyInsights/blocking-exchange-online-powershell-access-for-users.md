@@ -1,9 +1,9 @@
 ---
-title: 763 blokovanie Exchange Online PowerShell prístup pre užívateľov
+title: 763 blokovanie Exchange Online PowerShell prístup pre používateľov
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: f5e432423aa2792de4c13060b94a930892710057
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9d967032c0b2f13f8c33b989077897c0f3ae20d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517946"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712258"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blokovanie prístupu k Exchange Online PowerShell pre užívateľov
-Ako správca, máte možnosť blokovať prístup k Exchange Online PowerShell pre vašich používateľov. Ďalšie informácie nájdete v týchto témach:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blokovanie Exchange Online PowerShell prístup pre používateľov
+Ako správca, máte možnosť blokovať prístup k službe Exchange Online PowerShell pre vašich používateľov. Ďalšie informácie nájdete v týchto témach:
 
-- [Povoliť alebo zakázať prístup k Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Povolenie alebo zakázanie prístupu k službe Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Klientskeho prístupu pravidlá v programe Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (pozrite **RemotePowerShell** protokol) 
+- [Pravidlá klientskeho prístupu v službe Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (Pozrite sa na protokol **remotepowershell** ) 
 
-**Poznámka**: ako je to popísané v téme, buďte opatrní nechcete blokovať prístup k Exchange Online PowerShell pre administrátorov.
+**Poznámka**: ako je popísané v téme, dávajte pozor, aby blokovať prístup k Exchange Online PowerShell pre administrátorov.

@@ -1,32 +1,32 @@
 ---
-title: Informácie o zadržanie alebo v miestne blokovanie vymazania
+title: Informácie o zadržanie alebo podrža-
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498970"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711034"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>O súdnych sporov drží a drží na mieste
+# <a name="about-litigation-holds-and-in-place-holds"></a>O sporoch drží a na mieste drží
 
-- Uplatňovať súdne spory držať alebo priamej podržte poštovej schránky, je potrebná [licencia Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ak máte akékoľvek iné plán, samostatnú licenciu [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) priradiť účet. 
+- Ak chcete použiť zadržanie v dôsledku súdneho sporu alebo zadržanie na mieste v poštovej schránke, vyžaduje sa [licencia na Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ak máte akýkoľvek iný plán, priraďte k účtu samostatnú [archiváciu Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
     
-- **Umožniť zadržanie** pre jedného používateľa, postupujte podľa pokynov [tu](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Ak je zapnuté zadržanie, všetok obsah v poštovej schránke podr¾í.
+- **Ak chcete povoliť zadržanie** pre jedného používateľa, postupujte podľa pokynov uvedených [v tomto zozname.](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) Keď je zapnutá funkcia zadržanie, všetok obsah v poštovej schránke sa umiestni do zadržania.
     
-- Aplikovať **v mieste podržte na jednotlivých používateľov** alebo drží na **všetky poštové schránky v celej organizácii**, môžete politiky uchovávania údajov v centre Office 365 zabezpečenia a zhody pomocou nasledujúcich kroky uvedené [tu](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Ak chcete použiť na **mieste držať jedného používateľa** alebo držať **všetky poštové schránky v celej organizácii**, môžete použiť politiky uchovávania údajov v Microsoft 365 zabezpečenia a súladu centrum podľa krokov uvedených [tu](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > Pre Org-široký politiky uchovávania údajov, novým používateľom automaticky pridajú do zadržania. 
+    > Pre politiky uchovávania v celej organizácii sa noví používatelia automaticky pridajú do zadržania. 
   
-- Zobraziť alebo objaviť obsah poštovej schránky, ktorý sa odloží, pomocou **eDiscovery vyhľadávanie a exportovať**. Informácie o používaní **eDiscovery vyhľadávanie a exportovať**, postupujte kroky uvedené [tu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Ak chcete zobraziť alebo zistiť obsah poštovej schránky, ktorý je umiestnený na **Podržaných, použite vyhľadávanie a export eDiscovery**. Informácie o používaní **vyhľadávania a exportu eDiscovery**, postupujte podľa pokynov uvedených [tu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

@@ -3,7 +3,7 @@ title: Blokovanie alebo odblokovanie odosielateľov v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,12 +15,12 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768743"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717779"
 ---
 # <a name="block-or-unblock-senders"></a>Blokovanie alebo odblokovanie odosielateľov
 

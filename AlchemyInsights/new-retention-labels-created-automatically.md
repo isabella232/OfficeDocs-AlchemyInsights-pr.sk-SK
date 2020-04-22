@@ -3,7 +3,7 @@ title: Nové menovky uchovávania údajov vytvorené automaticky
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054681"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713517"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nové menovky uchovávania údajov vytvorené automaticky
 
-Môžete vidieť [tri nové Office 365 uchovávanie menovky](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) vytvorené automaticky vo vašej organizácii pod **uchovávanie menovky** zabezpečenia alebo súladu admin Center. Názvy štítkov sú:
+Môžu sa zobraziť [tri nové menovky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) vytvorené automaticky vo vašej organizácii pod **štítkami uchovávania údajov** v centre spravovania zabezpečenia alebo súladu. Názvy štítkov sú:
 
 - Prevádzkový postup
 - Všeobecné obchodné

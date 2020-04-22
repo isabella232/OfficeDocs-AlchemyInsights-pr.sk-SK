@@ -1,9 +1,9 @@
 ---
-title: Distribučná skupina nezobrazuje v zoznam skupín
+title: Distribučná skupina sa nezobrazuje v zozname skupín
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 6c2332934537333661de90d951eae9e2a6e03cbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6cfb844f640ec30ebf595f985e001b9acc93e813
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715093"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Distribučná skupina nezobrazuje v zoznam skupín
+# <a name="distribution-group-not-showing-in-groups-list"></a>Distribučná skupina sa nezobrazuje v zozname skupín
 
-To môže trvať až 60 minút pred nový distribučný zoznam sa objaví Admin Center.
+To môže trvať až 60 minút pred nový distribučný zoznam sa zobrazí v admin Center.
   
-Ak chcete pridať členov alebo vykonávať iné úpravy práve teraz, prosím, použite funkciu skupiny [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
+Ak chcete pridať členov alebo vykonať iné úpravy práve teraz, použite funkciu skupiny v [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
   

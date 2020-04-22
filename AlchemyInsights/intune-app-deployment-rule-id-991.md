@@ -1,8 +1,8 @@
 ---
-title: Identifikácia pravidla nasadenie aplikácií Windows Intune 991
+title: Intune App nasadenie pravidlo ID 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714021"
 ---
-# <a name="intune-app-deployment"></a>Nasadenie aplikácií Windows Intune
+# <a name="intune-app-deployment"></a>Nasadenie aplikácie Intune
 
-Nasadenie aplikácií s Intune je trojstupňový proces:
+Nasadenie aplikácií s Intune je trojfázový proces:
   
-1. **Pridanie aplikácie** - môžete pridať aplikáciu App Store alebo nahrať riadok podnikové aplikácie.
+1. **Pridanie aplikácie** – môžete pridať aplikáciu App Store alebo nahrať riadok podnikovej aplikácie.
 
-2. **Priradenie aplikácie** – určiť rozsah nasadenia aplikácie.
+2. **Priradenie aplikácie** -určenie rozsahu nasadenia aplikácie.
 
-3. **Sledovanie aplikácií** - zobrazenie stavu inštalácie aplikácie, zoznam objavených aplikácie a spravovať aplikácie zakúpené z app store.
+3. **Sledovanie aplikácií** – zobrazte stav inštalácie aplikácií, zoznam nájdených aplikácií a spravujte aplikácie zakúpené v obchodoch s aplikáciami.
 
-Prečítať, [čo je Windows Intune aplikácia riadenia](https://docs.microsoft.com/intune/app-management) pre návody a informácie o konfigurovaní a ochranu aplikácií.
+Prečítajte si, [čo je správa aplikácií Intune](https://docs.microsoft.com/intune/app-management) pre návody a informácie o konfigurácii a ochrane aplikácií.
   

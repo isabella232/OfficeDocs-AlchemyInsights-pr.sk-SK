@@ -1,5 +1,5 @@
 ---
-title: Kúpte si predplatné na Office 365 pre podniky
+title: Kúpte si predplatné na Microsoft 365 pre podniky z vašej bezplatnej skúšobnej verzie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712222"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Kúpte si predplatné na Office 365 pre podniky
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kúpte si predplatné na Microsoft 365 z bezplatnej skúšobnej verzie
 
-Vyskúšali ste balík Office 365 a teraz ste pripravení na kúpu. Pri nákupe balíka Office 365 z skúšobnej verzie máte dve možnosti:
+Pokúsili ste sa Microsoft 365 a teraz ste pripravení na kúpu. Máte dve možnosti pri nákupe Microsoft 365 z skúšobnej verzie:
   
  **Kúpte si rovnaký plán ako skúšobná verzia**
   
@@ -35,7 +35,7 @@ Vyskúšali ste balík Office 365 a teraz ste pripravení na kúpu. Pri nákupe 
 
 3. Vyhľadajte predplatné, ktoré chcete kúpiť, vyberte položku **kúpiť**a postupujte podľa pokynov na odhlásenie.
 
-Ďalšie informácie nájdete v téme [zakúpenie predplatného na Office 365 pre podniky z bezplatnej skúšobnej verzie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Ďalšie informácie nájdete v téme [zakúpenie predplatného na Microsoft 365 for Business z bezplatnej skúšobnej verzie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Riešenie problémov**
 

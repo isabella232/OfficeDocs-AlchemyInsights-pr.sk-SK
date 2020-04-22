@@ -3,7 +3,7 @@ title: 8000059 ako zmeniť rozloženie
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: be859fdc896f1e0489f31ea8f5f9a16a0ceeb6b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 583f13900746f8fbc722bfceecaa56052efab369
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541730"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711214"
 ---
-# <a name="how-to-change-your-layout"></a>Zmena rozloženia
+# <a name="how-to-change-your-layout"></a>Ako zmeniť rozloženie
 
-Je ľahké zmeniť nastavenia v službe Outlook.com, tak to vyzerá a chová tak, ako chcete. Vyberte **Nastavenie** na paneli s nástrojmi na najpopulárnejšie možnosti.
+Je ľahké zmeniť nastavenia v Outlook.com tak to vyzerá a chová tak, ako chcete, aby. Na paneli s nástrojmi vyberte položku **nastavenia** na najpopulárnejšie možnosti.
 
-Vidieť všetky možnosti rozloženia, vyberte **nastavenia** > **Mail** > [**rozloženie**](https://outlook.live.com/mail/options/mail/layout).
+Ak chcete zobraziť všetky možnosti rozloženia, vyberte položku **Nastavenie** > **Mail** > [**rozloženia**](https://outlook.live.com/mail/options/mail/layout)pošty.
   

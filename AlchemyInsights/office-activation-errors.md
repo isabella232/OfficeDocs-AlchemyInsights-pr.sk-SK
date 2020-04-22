@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713337"
 ---
 # <a name="office-activation-errors"></a>Chyby pri aktivácii balíka Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118480"
 
 3. Ak je Office stále bez platnej licencie, v postihnutom zariadení stiahnite a spustite [Poradcu pri riešení problémov s aktiváciou](https://aka.ms/SARA-OfficeActivation-Alchemy), aby sa opravili problémy s aktiváciou. 
 
-4. Ak je Office stále bez platnej licencie, [resetujte stav aktivácie balíka Office](https://docs.microsoft.com/sk-SK/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Potom znova spustite balík Office a pri zobrazení výzvy sa prihláste pomocou pracovného alebo školského konta.  
+4. Ak je Office stále bez platnej licencie, [resetujte stav aktivácie balíka Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Potom znova spustite balík Office a pri zobrazení výzvy sa prihláste pomocou pracovného alebo školského konta.  
 
 5. Ďalšie možnosti riešenia problémov nájdete v téme [Chyba produktu bez platnej licencie a chyba aktivácie v Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).

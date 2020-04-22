@@ -1,9 +1,9 @@
 ---
-title: Office 365 Education pre voľný
+title: Office 365 vzdelávanie zadarmo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1426"
 - "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: e22f7b0805d7e1552adfd863c856a21f3df9891c
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 21f4f0c2531005ec8146953d7f392a6ceecd66b4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389519"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713445"
 ---
-# <a name="office-365-education-for-free"></a>Office 365 Education pre voľný
+# <a name="office-365-education-for-free"></a>Office 365 vzdelávanie zadarmo
 
-[Office 365 Education pre voľný](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[Office 365 vzdelávanie zadarmo](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-To nie je skúšobnú verziu! Študenti a učitelia majú nárok na Office 365 Education, ktorá zahŕňa Word, Excel, PowerPoint, OneNote, a teraz Microsoft Teams, plus ďalšie učebne nástroje.
+Nie je to skúšobná verzia! Študenti a učitelia majú nárok na Office 365 Education, ktorý zahŕňa Word, Excel, PowerPoint, OneNote a teraz Microsoft Teams, plus ďalšie učebne nástroje.
