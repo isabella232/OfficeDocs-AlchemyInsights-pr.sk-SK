@@ -1,8 +1,8 @@
 ---
-title: Chyba 0-1036 pri inštalácii balíka office
+title: Chyba 0-1036 pri inštalácii balíka Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527522"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703261"
 ---
-# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="e76cb-102">Chyba 0-1036 pri inštalácii balíka office</span><span class="sxs-lookup"><span data-stu-id="e76cb-102">Error 0-1036 when installing office</span></span>
+# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="ef0d9-102">Chyba 0-1036 pri inštalácii balíka Office</span><span class="sxs-lookup"><span data-stu-id="ef0d9-102">Error 0-1036 when installing office</span></span>
 
-<span data-ttu-id="e76cb-103">Vyskúšajte tieto riešenia opraviť Office chyba 0-1036:</span><span class="sxs-lookup"><span data-stu-id="e76cb-103">Try these solutions to fix your Office error 0-1036:</span></span>
+<span data-ttu-id="ef0d9-103">Vyskúšajte tieto riešenia na opravu balíka Office Error 0-1036:</span><span class="sxs-lookup"><span data-stu-id="ef0d9-103">Try these solutions to fix your Office error 0-1036:</span></span>
   
-- <span data-ttu-id="e76cb-104">Reštartujte počítač a znova skúste [nainštalovať Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="e76cb-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
+- <span data-ttu-id="ef0d9-104">Reštartujte počítač a pokúste sa znova [nainštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="ef0d9-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span>
 
-- <span data-ttu-id="e76cb-105">Stiahnuť a nainštalovať [technickej podpory a obnovenie asistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e76cb-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="ef0d9-105">Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ef0d9-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="e76cb-106">Keď ju otvorí, od **odinštalovať Office produktov** vyberte verziu, ktorú chcete odinštalovať a vyberte **Ďalšie**.</span><span class="sxs-lookup"><span data-stu-id="e76cb-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
+1. <span data-ttu-id="ef0d9-106">Keď sa otvorí, z **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **Next (ďalej**).</span><span class="sxs-lookup"><span data-stu-id="ef0d9-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
 
-2. <span data-ttu-id="e76cb-107">Pokračovať ísť cez obrazovky a reštartovať počítač, ak výzva.</span><span class="sxs-lookup"><span data-stu-id="e76cb-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="ef0d9-107">Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="ef0d9-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="e76cb-108">Po reštarte, technickej podpory a obnovenie asistent automaticky znova otvorí dokončiť proces odinštalovania.</span><span class="sxs-lookup"><span data-stu-id="e76cb-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="ef0d9-108">Po reštartovaní, podpora a obnovenie asistent automaticky znovu otvorí dokončiť proces odinštalovania.</span><span class="sxs-lookup"><span data-stu-id="ef0d9-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="e76cb-109">Postupujte podľa zvyšných výziev a [preinštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorte Asistenta.</span><span class="sxs-lookup"><span data-stu-id="e76cb-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="ef0d9-109">Postupujte podľa zostávajúcich výziev a [preinštalujte program Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorte Asistenta.</span><span class="sxs-lookup"><span data-stu-id="ef0d9-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-- <span data-ttu-id="e76cb-110">[Použitie offline inštalátora balíka Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) nainštalovať Office</span><span class="sxs-lookup"><span data-stu-id="e76cb-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>
+- <span data-ttu-id="ef0d9-110">Inštalácia balíka Office [pomocou Inštalátora balíka Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="ef0d9-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span>

@@ -3,7 +3,7 @@ title: Pridanie kalendára lokality SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4f01c0f1d6b8c6ada537fa1f91ddec1edabb804a
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122558"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671364"
 ---
-# <a name="add-a-sharepoint-calendar"></a><span data-ttu-id="b89f0-102">Pridanie kalendára lokality SharePoint</span><span class="sxs-lookup"><span data-stu-id="b89f0-102">Add a SharePoint Calendar</span></span>
+# <a name="add-a-sharepoint-calendar"></a><span data-ttu-id="aeffd-102">Pridanie kalendára lokality SharePoint</span><span class="sxs-lookup"><span data-stu-id="aeffd-102">Add a SharePoint Calendar</span></span>
 
-<span data-ttu-id="b89f0-103">SharePoint kalendáre sú klasické zoznam typov, ktoré sú niekedy zamieňať s Office 365 skupinové kalendáre.</span><span class="sxs-lookup"><span data-stu-id="b89f0-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
+<span data-ttu-id="aeffd-103">SharePoint kalendáre sú klasické zoznam typov, ktoré sú niekedy zamieňať s Office 365 skupinové kalendáre.</span><span class="sxs-lookup"><span data-stu-id="aeffd-103">SharePoint Calendars are classic list types which are sometimes confused with Office 365 Group Calendars.</span></span>
  
-<span data-ttu-id="b89f0-104">Ak chcete vytvoriť kalendár lokality SharePoint, postupujte nasledovne:</span><span class="sxs-lookup"><span data-stu-id="b89f0-104">To create a SharePoint Calendar, follow these steps:</span></span>
+<span data-ttu-id="aeffd-104">Ak chcete vytvoriť kalendár lokality SharePoint, postupujte nasledovne:</span><span class="sxs-lookup"><span data-stu-id="aeffd-104">To create a SharePoint Calendar, follow these steps:</span></span>
  
-1.  <span data-ttu-id="b89f0-105">Vyberte ikonu **nastavenia** ozubeného kolieska a potom vyberte položku **pridať aplikáciu**.</span><span class="sxs-lookup"><span data-stu-id="b89f0-105">Select the **Settings** gear icon, and then select **Add an App**.</span></span>
-2.  <span data-ttu-id="b89f0-106">Do vyhľadávacieho poľa **nájsť aplikáciu** zadajte **Kalendár** a stlačte kláves ENTER.</span><span class="sxs-lookup"><span data-stu-id="b89f0-106">In the **Find an app** search box, type **Calendar** and press enter.</span></span>
-3.  <span data-ttu-id="b89f0-107">Vyberte aplikáciu s názvom **Kalendár**a zadajte názov kalendára.</span><span class="sxs-lookup"><span data-stu-id="b89f0-107">Select the app titled **Calendar**, and then enter a name for your calendar.</span></span>
+1.  <span data-ttu-id="aeffd-105">Vyberte ikonu **nastavenia** ozubeného kolieska a potom vyberte položku **pridať aplikáciu**.</span><span class="sxs-lookup"><span data-stu-id="aeffd-105">Select the **Settings** gear icon, and then select **Add an App**.</span></span>
+2.  <span data-ttu-id="aeffd-106">Do vyhľadávacieho poľa **nájsť aplikáciu** zadajte **Kalendár** a stlačte kláves ENTER.</span><span class="sxs-lookup"><span data-stu-id="aeffd-106">In the **Find an app** search box, type **Calendar** and press enter.</span></span>
+3.  <span data-ttu-id="aeffd-107">Vyberte aplikáciu s názvom **Kalendár**a zadajte názov kalendára.</span><span class="sxs-lookup"><span data-stu-id="aeffd-107">Select the app titled **Calendar**, and then enter a name for your calendar.</span></span>
 
-<span data-ttu-id="b89f0-108">Ďalšie informácie o skupinách balíka Office 365 nájdete v téme [informácie o skupinách office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="b89f0-108">For more information about Office 365 Groups, see [Learn about Office 365 Groups](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
+<span data-ttu-id="aeffd-108">Ďalšie informácie o skupinách balíka Office 365 nájdete v téme [informácie o skupinách office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span><span class="sxs-lookup"><span data-stu-id="aeffd-108">For more information about Office 365 Groups, see [Learn about Office 365 Groups](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).</span></span>
 
