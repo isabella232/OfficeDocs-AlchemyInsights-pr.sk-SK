@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770366"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642159"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problémy pri vytváraní skupiny pripojenej lokality SharePoint
 
@@ -26,7 +26,7 @@ Ak ste odstránili skupinu a jej pripojenú lokalitu a chcete vytvoriť inú lok
    - Ďalšie informácie o Začíname s PowerShell, pozrite si Začíname [s SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Odstráňte lokalitu z odstránených lokalít pomocou rutiny cmdlet prostredia PowerShell [odstrániť SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) . PowerShell je potrebné natrvalo odstrániť skupiny lokalít.
 
-1. Ak vytvárate skupinu pripojenú lokalitu a prijmete upozornenie: **Ďalšia skupina s rovnakým aliasom už existuje**, skontrolujte existujúce skupiny z [balíka Office 365 z centrum spravovania](https://admin.microsoft.com/AdminPortal/Home#/groups). Ak chcete vyriešiť tento problém, odstráňte existujúcu skupinu, ak už nie je potrebná, alebo vytvorte lokalitu s iným priradeným aliasom.
+1. Ak vytvárate skupinu pripojenú lokalitu a prijmete upozornenie: **Ďalšia skupina s rovnakým aliasom už existuje**, skontrolujte existujúce skupiny z [Microsoft 365 admin Center](https://admin.microsoft.com/AdminPortal/Home#/groups). Ak chcete vyriešiť tento problém, odstráňte existujúcu skupinu, ak už nie je potrebná, alebo vytvorte lokalitu s iným priradeným aliasom.
 
 1. Existujú rôzne spôsoby vytvárania a používania moderných skupín so službou SharePoint.
 

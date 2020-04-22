@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053924"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692888"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Upozorňujúce hlásenie: politiky vašej organizácie neumožňujú zdieľať s týmito používateľmi
 
-Používatelia môžu zaznamenať upozorňujúce hlásenie pri pokuse o zdieľanie s externými používateľmi vašej organizácie. Správa je **politika vašej organizácie neumožňuje zdieľať s týmito používateľmi. Prejdite na externé zdieľanie v Office 365 admin Center umožniť**. Často sa to stáva pri prvom pokuse o zdieľanie s externými používateľmi alebo pri zdieľaní s novými externými používateľmi.
+Používatelia môžu zaznamenať upozorňujúce hlásenie pri pokuse o zdieľanie s externými používateľmi vašej organizácie. Správa je **politika vašej organizácie neumožňuje zdieľať s týmito používateľmi. Prejdite na externé zdieľanie v Microsoft 365 admin Center umožniť**. Často sa to stáva pri prvom pokuse o zdieľanie s externými používateľmi alebo pri zdieľaní s novými externými používateľmi.
 
 Skontrolujte **nastavenia externého zdieľania služby SharePoint a OneDrive** pre vašu organizáciu.
 

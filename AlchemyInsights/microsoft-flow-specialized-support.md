@@ -1,9 +1,9 @@
 ---
-title: Microsoft tok Špecializovaná podpora
+title: Špecializovaná podpora spoločnosti Microsoft flow
 ms.author: pebaum
 author: pebaum
 manager: mnirke
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 59cfe196492f90ff18902b8678b4322a0135533c
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698577"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft tok Špecializovaná podpora
+# <a name="microsoft-flow-specialized-support"></a>Špecializovaná podpora spoločnosti Microsoft flow
 
-Špecializované Microsoft Flow support nájdete nový [Power platform admin center](https://aka.ms/flowadminsupport). Nový portál poskytuje priamejšie cestu k asistovanej technickej podpory, ktorý je optimalizovaný pre Microsoft Flow a ostatné elektrické platforma produkty.
+Špecializovaná podpora Microsoft flow nájdete na novej [platforme admin Center](https://aka.ms/flowadminsupport). Nový portál poskytuje priamejšie cestu k asistovanej podpore, ktorá je optimalizovaná pre Microsoft flow a iné produkty platformy Power.
 
 zistiť viac:
-- [Informácie o Microsoft tok voľných licencií](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Toku v organizácii FAQ](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Office 365 a Dynamics 365 plány, ktoré zahŕňajú Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft Flow fakturácie a meranie otázky](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Informácie o licenciách na bezplatné Microsoft flow](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Najčastejšie otázky o toku vo vašej organizácii](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 a Dynamics 365 plány, ktoré zahŕňajú Microsoft flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Otázky fakturácie a merania spoločnosti Microsoft flow](https://go.microsoft.com/fwlink/?linkid=2072612)

@@ -1,9 +1,9 @@
 ---
-title: 1575-PowerApps a Microsoft Flow, plán rozšírenia
+title: 1575-rozšírenie programu PowerApps a Microsoft flow plán
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554744"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667044"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps a Microsoft Flow plán rozšírenia
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Rozšírenie plánu PowerApps a Microsoft flow
 
-Ak máte v úmysle požiadať o rozšírenie plánu pre **Microsoft toku** alebo **PowerApps** a nájomcu už aktívnych používateľov jedného z nasledujúcich funkcií, nie je potrebné podať žiadosť o podporu.
+Ak máte v úmysle požiadať o predĺženie plánu pre **Microsoft flow** alebo **PowerApps** a váš nájomník už má aktívnych používateľov jednej z nasledujúcich funkcií, nie je potrebné podať žiadosť o podporu.
 
-- Tvorba a uverejňovanie vlastných konektory v PowerApps a Microsoft Flow
-- HTTP vlastné akcie integrované do toku mimo SharePoint a OneDrive
-- Integrácia lokálnych údajov prostredníctvom lokálnych údajov brány
+- Vytváranie a publikovanie vlastných konektorov v službe PowerApps a Microsoft flow
+- Vlastné akcie HTTP integrované do toku mimo služby SharePoint a OneDrive
+- Integrácia lokálnych údajov prostredníctvom lokálnej brány údajov
 
-Zákazníci s aktívnych používateľov týchto funkcií budú mať automatické rozšírenie až do 31 januára 2020 alebo vypršaní ich existujúcich obdobia prihlásenia na odber balíka Office 365, pričom platí dlhšia.
+Zákazníci s aktívnymi používateľmi týchto funkcií získajú automatické predĺženie až do 31. januára 2020 alebo vypršania platnosti existujúceho obdobia predplatného spoločnosti Microsoft 365, podľa toho, čo je dlhšie.

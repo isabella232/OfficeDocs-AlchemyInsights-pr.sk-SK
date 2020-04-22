@@ -1,9 +1,9 @@
 ---
-title: Outlook.com sa nedá odhlásiť
+title: Outlook.com nemôže odhlásiť
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547830"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666864"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Nepodarilo sa odhlásiť zo služby Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Nedá sa odhlásiť z Outlook.com
 
-Odhláste sa zo služby Outlook.com, vyberte meno alebo obrázok v pravom hornom rohu obrazovky a potom vyberte položku **odhlásiť sa**.
+Ak sa chcete odhlásiť z Outlook.com, vyberte svoje meno alebo obrázok v pravom hornom rohu obrazovky a potom vyberte položku **odhlásiť sa**.
 
-Ak nevidíte obrázok v hornej časti obrazovky, skontrolujte, či je zapnuté blokovanie reklám. Niekedy to bráni obrázok zobrazuje sa.
+Ak sa obrázok nezobrazuje v hornej časti obrazovky, skontrolujte, či je blokovanie reklám zapnuté. Táto funkcia niekedy zabraňuje zobrazeniu obrázka.
 
-Ak stále nemôžete odhlásiť zo služby Outlook.com, kliknite [https://login.live.com/logout.srf](https://login.live.com/logout.srf) potom zatvorte všetky okná prehliadača.
+Ak sa stále nemôžete odhlásiť z Outlook.com, kliknite na [https://login.live.com/logout.srf](https://login.live.com/logout.srf) tlačidlo Zatvorte všetky okná prehľadávača.

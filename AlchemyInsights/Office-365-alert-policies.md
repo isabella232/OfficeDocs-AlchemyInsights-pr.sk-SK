@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661311"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687633"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 upozornenie politiky
+# <a name="alert-policies"></a>Upozorňujúce politiky
 
-Office 365 zabezpečenia & Compliance Center ponúka [predvolené upozornenia politiky](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , ktoré spúšťajú upozornenia pre organizácie s Office 365 Enterprise alebo Office 365 americkej vlády E1/G1, E3/G3 alebo E5/G5 predplatné. Preto správcovia môžu dostávať upozornenie e-mailové upozornenie odoslané Office365Alerts@microsoft.com s predmetom riadok ako "nízka závažnosť upozornenie: *názov upozornenia politiky*". Upozornenia sa odosielajú, keď sa spúšťajú výstrahy pre bežné činnosti, napríklad keď používatelia:
+Microsoft 365 zabezpečenia & Compliance Center ponúka [predvolené upozornenia politiky](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , ktoré spúšťajú upozornenia pre organizácie s Office 365 Enterprise alebo Office 365 americkej vlády E1/G1, E3/G3 alebo E5/G5 predplatné. Preto správcovia môžu dostávať upozornenie e-mailové upozornenie odoslané Office365Alerts@microsoft.com s predmetom riadok ako "nízka závažnosť upozornenie: *názov upozornenia politiky*". Upozornenia sa odosielajú, keď sa spúšťajú výstrahy pre bežné činnosti, napríklad keď používatelia:
 
 - Vytvorte pravidlá pre doručenú poštu, ktoré preposielanie e-mailov.
 - Priraďte povolenia ich poštovú schránku.

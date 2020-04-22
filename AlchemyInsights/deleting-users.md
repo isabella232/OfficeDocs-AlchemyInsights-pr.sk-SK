@@ -12,16 +12,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7867d31cd3d99d038775150eb69e8d92b77daa32
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740516"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655153"
 ---
 # <a name="deleting-users"></a>Odstránenie používateľov
 
-Ak chcete okamžite zablokovať prístup používateľov a potrebujete si ponechať svoje informácie, pozrite si [blokovať prístup bývalého zamestnanca k údajom balíka Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).
+Ak chcete okamžite zablokovať prístup používateľov a potrebujete si ponechať svoje informácie, pozrite si [blokovať prístup bývalého zamestnanca k údajom Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).
   
 Ak chcete jednoducho odstrániť používateľa a nezaoberajú sa žiadnym z ich údajov, prečítajte si časť [Odstránenie používateľa z vašej organizácie](https://docs.microsoft.com/office365/admin/add-users/delete-a-user). To bude okamžite uvoľniť svoje licencie.
   

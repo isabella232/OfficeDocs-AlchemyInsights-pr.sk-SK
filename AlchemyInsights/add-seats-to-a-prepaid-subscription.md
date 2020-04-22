@@ -3,7 +3,7 @@ title: Pridanie kresiel do predplateného predplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661023"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671472"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Pridanie kresiel do predplateného predplatného
 
-Predplatené Office 365 licencie sú vydávané ako 25-miestny alfanumerický kód. Po zakúpení licencií, ktoré potrebujete, môžete ich pridať do svojho predplatného. 
+Predplatené licencie sú vydávané ako 25-miestny alfanumerický kód. Po zakúpení licencií, ktoré potrebujete, môžete ich pridať do svojho predplatného. 
 
 1. V centre spravovania prejdite na stránku **Fakturácia** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
