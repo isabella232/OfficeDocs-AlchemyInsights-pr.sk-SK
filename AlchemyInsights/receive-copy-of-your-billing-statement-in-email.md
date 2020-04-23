@@ -1,9 +1,9 @@
 ---
-title: Dostanete kópiu výpise z účtu e-mailom
+title: Dostávať kópiu fakturačného výkazu v e-maile
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510098"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724965"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Dostanete kópiu Office 365 fakturačné vyhlásenie e-mailom
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Dostávať kópiu fakturačného výkazu v e-maile
 
-Môžete získať kópiu výpise z účtu ako prílohu e-mailu. Ak ste byť vedomí, že:
+Môžete vybrať, aby ste dostali kópiu fakturačného výkazu ako prílohu e-mailu. Ak tak urobíte, uvedomte si, že:
   
-- E-mail sa odošle ako primárny a alternatívny e-mailovú adresu pre každého človeka je uvedené upozornenie.
+- E-mailová adresa bude odoslaná na primárnu aj alternatívnu e-mailovú adresu pre každú osobu, ktorá je uvedená ako príjemca oznámenia.
 
-- Dostanete dvoch samostatných e-maily: jeden, ktorý vám vedieť, že váš účet je pripravená, pokyny na prihlásenie do Admin center pre zobrazenie a druhý e-mail, ktorý obsahuje fakturačné vyhlásenie ako prílohu.
+- Dostanete dve samostatné e-maily: ten, ktorý vám umožní vedieť, že váš účet je pripravený, s pokynmi na prihlásenie do admin Center na zobrazenie, a druhý e-mail, ktorý obsahuje fakturačné vyhlásenie ako prílohu.
 
-Na výpise z účtu dostanete e-mailom:
+Ak chcete dostávať fakturačné vyhlásenie v e-maile:
   
-1. Admin Center, prejdite na **fakturačné** \> [fakturačných upozornení](https://go.microsoft.com/fwlink/p/?linkid=853212) stránky.
+1. V centre spravovania prejdite na \> stránku s [upozorneniami](https://go.microsoft.com/fwlink/p/?linkid=853212) na fakturáciu fakturácie. **Billing**
 
-2. Pod **dostávať vyúčtovanie ako prílohu e-mailu?**, prepnite prepínač na možnosť **zapnuté**. Môžete zastaviť prijímanie e-mailov fakturačné vyhlásenie kedykoľvek Prepnutím prepínača **off**.
+2. V časti **Zobraziť fakturačné vyhlásenie ako prílohu e-mailu?** prepnite prepínač na možnosť **zapnuté**. Môžete prestať dostávať e-maily s fakturačným vyhlásením kedykoľvek Prepnutím prepínača na **možnosť Vypnuté**.

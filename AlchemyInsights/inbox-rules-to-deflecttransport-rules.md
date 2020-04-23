@@ -1,9 +1,9 @@
 ---
-title: 929 doručenú deflectTransport pravidiel
+title: 929 pravidlá pre doručenú poštu na deflectTransport pravidlá
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499618"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724607"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pravidlá pre poštu tok (tiež známy ako pravidlá prenosu)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pravidlá toku pošty (známe aj ako pravidlá prenosu)
 
-- Všeobecný prehľad o mail tok pravidlá: [pravidlá (pravidlá prenosu) v toku pošty](https://technet.microsoft.com/library/jj919238.aspx)
+- Všeobecný prehľad pravidiel toku pošty: [pravidlá toku pošty (pravidlá prenosu) v službe Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Nastavenie pravidiel pre poštu tok: [pravidlo postupy v toku pošty](https://technet.microsoft.com/library/dn600436.aspx)
+- Nastavenie pravidiel toku pošty: [postupy pravidiel toku pošty v službe Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Vytvárať, upravovať a mazať pravidlá pre poštu tok: [Správa pošty tok pravidiel](https://technet.microsoft.com/library/jj657505.aspx)
+- Vytvorenie, úprava a odstránenie pravidiel toku pošty: [spravovanie pravidiel toku pošty](https://technet.microsoft.com/library/jj657505.aspx)
 
-Môžete spravovať pravidlá pre poštu tok v Online PowerShell výmeny. Ďalšie informácie nájdete v časti [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (pohľad), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (vytvoriť), [TransportRule odstrániť](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (zmena existujúceho), [Disable TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (zakázať existujúce), a [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (zapnúť existujúci).
+Môžete tiež spravovať pravidlá toku pošty v prostredí Exchange Online PowerShell. Ďalšie informácie nájdete v téme [Get-transporttrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (View), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (vytvoriť), [Remove-Transporttrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (odstrániť), [set-Transporttrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (upraviť existujúce), [zakázať-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (zakázať existujúce), a [Povoliť-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (povoliť existujúce).
 
-Dodatočné mail tok pravidlo cmdlet: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (zoznam dostupných akcií), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (zoznam dostupné podmienky a výnimky), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (pravidlá pre export) a [ Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (Importovať pravidlá).
+Ďalšie rutiny cmdlet pravidlo toku pošty: [Get-Transporttruleaction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (zoznam dostupných akcií), [Get-Transporttrulepredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (zoznam dostupných podmienok a výnimiek), [export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (vývozné pravidlá), a [dovoz-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (dovozné pravidlá).

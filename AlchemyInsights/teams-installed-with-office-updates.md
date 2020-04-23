@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599499"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737667"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams nainštalovaný s aktualizáciou balíka Office
 
-Microsoft teams je súčasťou ***nových inštalácií*** balíka Office 365 ProPlus, Office 365 Business a Office for Mac. Ďalšie informácie nájdete v téme [Kedy budú Microsoft teams začať byť súčasťou nových inštalácií balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams je súčasťou ***nových inštalácií*** Microsoft 365 aplikácií pre podniky, Microsoft 365 aplikácie pre podniky a Office for Mac. Ďalšie informácie nájdete v téme [Kedy budú Microsoft teams začať byť súčasťou nových inštalácií balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Okrem toho Počnúc verziou 1906 v mesačnom kanáli sa tímy postupne pridajú do ***existujúcich inštalácií*** balíka Office 365 ProPlus (a Office 365 Business) v zariadeniach so systémom Windows pri aktualizácii existujúcej inštalácie na najnovšiu verziu. Ďalšie informácie nájdete v téme [čo sú existujúce inštalácie balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Okrem toho Počnúc verziou 1906 v mesačnom kanáli, tímy budú postupne pridané do ***existujúcich inštalácií*** Microsoft 365 aplikácií pre podniky (a Microsoft 365 aplikácií pre podniky) na zariadeniach so systémom Windows pri aktualizácii existujúcej inštalácie na najnovšiu verziu. Ďalšie informácie nájdete v téme [čo sú existujúce inštalácie balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Poznámka:** Ak nechcete čakať na tento plán zavádzania, môžete nasadiť tímy ako samostatný pre svojich používateľov podľa [týchto pokynov](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), alebo môžete mať vaši používatelia nainštalovať tímy pre seba https://teams.microsoft.com/downloads.
 

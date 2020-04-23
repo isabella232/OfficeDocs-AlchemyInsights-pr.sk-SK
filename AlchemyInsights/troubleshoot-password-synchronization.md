@@ -1,9 +1,9 @@
 ---
-title: Riešiť synchronizáciu hesla
+title: Riešenie problémov s synchronizáciou hesla
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533822"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732525"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Riešiť synchronizáciu hesla
+# <a name="troubleshoot-password-synchronization"></a>Riešenie problémov s synchronizáciou hesla
 
-Riešenie problémov, kde žiadne heslá sú synchronizované Azure AD pripojiť verziu 1.1.614.0 alebo novšiu verziu:
+Riešenie problémov, kde žiadne heslá sú synchronizované s Azure AD Connect verzie 1.1.614.0 alebo novšej:
   
-1. Otvorte novú reláciu prostredia Windows PowerShell na Azure AD pripojiť server pomocou možnosti **Spustiť ako správca** .
+1. Otvorte novú reláciu prostredia Windows PowerShell na serveri Azure AD Connect s možnosťou **Spustiť ako správca** .
 
-2. Spustiť **Set-ExecutionPolicy RemoteSigned** alebo **Set-ExecutionPolicy neobmedzený**.
+2. Spustiť **súbor executionpolicy RemoteSigned** alebo **set-executionpolicy neobmedzený**.
 
-3. Spustiť sprievodcu Azure AD pripojiť.
+3. Spustite Sprievodcu Azure AD Connect.
 
-4. Prejdite na stránku **Ďalšie úlohy** a vyberte položky **Riešenie problémov**kliknite na tlačidlo **ďalej**.
+4. Prejdite na stránku **ďalšie úlohy** , vyberte **Riešenie problémov**a kliknite na tlačidlo **ďalej**.
 
-5. Na stránke Riešenie problémov kliknite na ponuku **spustenie na spustenie riešenia problémov** v prostredí PowerShell.
+5. Na stránke Riešenie problémov, kliknite na tlačidlo **Spustiť spustite ponuku riešenie problémov** v prostredí PowerShell.
 
-6. V hlavnom menu, vyberte **Riešenie problémov synchronizácie heslo**.
+6. V hlavnej ponuke vyberte položku **Riešenie problémov s synchronizáciou hesiel**.
 
-7. V podmenu vyberte **synchronizáciu hesla nefunguje vôbec**.
+7. V sub menu, vyberte **heslo synchronizácia nefunguje vôbec**.
 
-**Porozumieť výsledky riešenia úlohy**
+**Pochopenie výsledkov úlohy pri riešení problémov**
   
-Riešenie problémov úloha vykoná tieto kontroly:
+Riešenie problémov úloha vykonáva nasledujúce kontroly:
   
-- Overuje, že heslo synchronizácia zapnutá pre nájomcu Azure AD.
+- Overuje, či je zapnutá funkcia synchronizácie hesiel pre nájomcu Azure AD.
 
-- Overuje, že Azure AD pripojiť server nie je v oddychových režime.
+- Overuje, či server Azure AD Connect nie je v režime oddychové.
 
-- Pre každý existujúci lokálneho Active Directory konektor (čo zodpovedá existujúcu aktívnu Adresárová štruktúra):
+- Pre každý existujúci lokálny konektor služby Active Directory (ktorý zodpovedá existujúcej doménovej štruktúre služby Active Directory):
 
 - 
-  - Overuje, či je zapnutá funkcia synchronizácie heslo.
+  - Overuje, či je zapnutá funkcia synchronizácie hesiel.
 
-  - Vyhľadáva heslo synchronizácie tep udalostí v denníku udalostí aplikácie Windows.
+  - Vyhľadáva heslo synchronizácia heartbeat udalosti v denníku udalostí aplikácie systému Windows.
 
-  - Pre každú doménu služby Active Directory do lokálnej služby Active Directory konektor:
+  - Pre každú doménu služby Active Directory v lokálnom konektor služby Active Directory:
 
-  - Overuje, že doména je dosiahnuteľný z server Azure AD pripojiť.
+  - Overuje, či je doména dostupná zo servera Azure AD Connect.
 
-  - Overuje, že Active Directory Domain Services (AD DS) účty používané konektor služby Active Directory lokálne má správne meno používateľa, heslo a povolenia potrebné pre synchronizáciu hesla.
+  - Overuje, či kontá služby Active Directory Domain (AD DS), ktoré používa lokálny konektor služby Active Directory, má správne používateľské meno, heslo a povolenia potrebné na synchronizáciu hesla.
 
-Viac pomoc riešenie problémov synchronizácie heslo nájdete v časti [Riešenie problémov heslo synchronizácia s Azure AD pripojenie synchronizácie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Ďalšie pomoc pri riešení problémov so synchronizáciou hesiel nájdete v téme [Riešenie problémov s synchronizáciou hesiel pomocou synchronizácie Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
