@@ -10,17 +10,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002248"
-- "4540"
-ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+- "4352"
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
 ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784814"
+ms.locfileid: "43789029"
 ---
-# <a name="remove-teams-dial-in-conferencing-number"></a>Odstránenie čísla na telefonické konferencie v Teams
+# <a name="teams-dial-in-conferencing-number-removal"></a>Odstránenie čísla na telefonické konferencie v Teams
 
-Potrebujete pomoc s odstránením čísla na telefonické konferencie zo svojho konferenčného mosta? Je číslo, ktorého registráciu sa pokúšate zrušiť, aktuálne predvolené číslo? Ak áno, najskôr je potrebné zmeniť predvolené číslo konferenčného mosta.
+Potrebujete pomoc s odstránením čísla na telefonické konferencie zo svojho konferenčného mosta? Je číslo, ktoré sa pokúšate odstrániť, aktuálne predvolené číslo? Ak áno, najskôr je potrebné zmeniť predvolené číslo konferenčného mosta.
 
 Predvolené telefónne číslo konferenčného mosta definuje ID volajúceho, ktoré sa použije v prípade, že účastník alebo organizátor uskutoční odchádzajúci hovor z prostredia schôdze.
 
@@ -28,7 +28,7 @@ Predvolené telefónne číslo konferenčného mosta definuje ID volajúceho, kt
 
 2. Prejdite do **centra spravovania služby Microsoft 365**.
 
-3. Prejdite na položky **Centrá spravovania | Exchange**.
+3. Prejdite na položky **Centrá spravovania > Teams a Skype**.
 
 4. Prejdite na položku **Schôdze**.
 
@@ -36,10 +36,10 @@ Predvolené telefónne číslo konferenčného mosta definuje ID volajúceho, kt
 
 6. Zvýraznite platené číslo služby, ktoré chcete nakonfigurovať ako predvolené.
 
-7. Vyberte položku **Nastaviť ako predvolené**.
+7. Kliknite na položku **Nastaviť ako predvolené**.
 
 Ďalšie informácie nájdete v článku [Zmena telefónnych čísel pre audiokonferenčný most](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
 
-Súvisiace zdroje informácií:
+**Súvisiace zdroje informácií**
 
-- [Zmena nastavení pre audiokonferenčný most](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
+[Zmena nastavení pre audiokonferenčný most](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)

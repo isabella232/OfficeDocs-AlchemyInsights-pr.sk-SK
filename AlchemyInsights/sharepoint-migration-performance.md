@@ -1,5 +1,5 @@
 ---
-title: Výkon migrácie SharePoint
+title: Odporúčanie pre výkon migrácie SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958769"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789317"
 ---
-# <a name="sharepoint-migration-performance"></a>Výkon migrácie SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>Odporúčanie pre výkon migrácie SharePoint
 
-**Dôležité**: V tejto výnimočnej situácií vykonávame kroky na to, aby sme zabezpečili, že služby SharePoint Online a OneDrive zostanú vysoko dostupné. Ďalšie informácie nájdete v téme [Dočasné úpravy funkcií SharePointu Online](https://aka.ms/ODSPAdjustments).
+Výkon migrácie môže byť ovplyvnený sieťovou infraštruktúrou, veľkosťou súborov, časom migrácie a obmedzovaním.
 
-**Výkon migrácie**
+Ďalšie informácie nájdete tu:
 
-Výkon migrácie môže byť ovplyvnený sieťovou infraštruktúrou, veľkosťou súborov, časom migrácie a obmedzovaním. Porozumenie týmto faktorom vám pomôže pri plánovaní a maximalizácii efektivity migrácie.
-
-Ďalšie informácie nájdete na prepojeniach nižšie.
-
-- [Rýchlosť služby SharePoint Online a migrácie ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Všeobecné informácie o výkone migrácie](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Ako sa vyhnúť obmedzeniam toku údajov alebo zablokovaniu v SharePointe Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Stiahnutie a inštalácia nástroja na migráciu SharePointu](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
