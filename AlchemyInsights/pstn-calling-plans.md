@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154436"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43557015"
 ---
 # <a name="pstn-calling-plans"></a>Volacie plány na volanie prostredníctvom verejnej telefónnej siete (PSTN)
 
-Volania iným používateľom Skypu for Business a Microsoft Teams sú bezplatné, ale ak chcete svojim používateľom umožniť používať bežné telefóny, no ešte nemáte poskytovateľa služieb na uskutočňovanie hlasových hovorov, musíte si kúpiť volací plán. 
+Ak chcete svojim používateľom umožniť používať bežné telefóny, no ešte nemáte poskytovateľa služieb na uskutočňovanie hlasových hovorov, musíte si kúpiť volací plán.
 
-- Ak chcete spustiť proces zakúpenia, pozrite si tému [Kúpa plánu hovorov](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Pred spustením procesu zakúpenia si pozrite tému [Kúpa plánu hovorov](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365).
 
-- Ďalšie informácie nájdete v téme [Telefónny systém a volacie plány](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Nastavte [Komunikačné kredity](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) a zabráňte tomu, aby používatelia **minúty minuli**. Sadzby si môžete pozrieť [tu](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Ďalšie informácie nájdete v téme [Telefónny systém a volacie plány](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) alebo [Čo sú komunikačné kredity?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
