@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692410"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709954"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferencie
 
-Potrebujete pomoc pri zapnutí alebo nastavení audiokonferencií v Microsoft Teams? Bol tento používateľ vytvorený len nedávno?  Ak áno, budete musieť počkať 2 až 24 hodín, aby sa nastavenia prejavili.    
+Potrebujete pomoc pri zapnutí alebo nastavení audiokonferencií v Microsoft Teams? Bol tento používateľ vytvorený len nedávno?  Ak áno, budete musieť počkať 2 až 24 hodín, aby sa nastavenia prejavili.
 
 Ak chcete overiť, či používateľ má licenciu na audiokonferencie a má predvolené platené číslo:
 
@@ -39,4 +39,4 @@ Ak chcete overiť, či používateľ má licenciu na audiokonferencie a má pred
 
 7. Vyberte príslušného používateľa a overte, či má **Predvolené platené číslo**.
 
-Ďalšie informácie nájdete v téme [Volacie plány pre Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) alebo zavolajte tímu Microsoft Commerce Billing, kde vám pomôžu s otázkami týkajúcimi sa licencovania.
+Ďalšie informácie nájdete v téme [Volacie plány](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) alebo zavolajte tímu Microsoft Commerce Billing, kde vám pomôžu s otázkami týkajúcimi sa licencovania.
