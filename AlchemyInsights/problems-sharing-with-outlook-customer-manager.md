@@ -1,9 +1,9 @@
 ---
-title: problems-sharing-with-Outlook-Customer-Manager
+title: problémy-zdieľanie-s-Outlook-Customer-Manager
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554492"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758841"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problémy so zdieľaním s Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Zdieľanie problémov s programom Outlook Customer Manager
 
-Ak máte otázky zdieľanie s Outlook Customer Manager vám odporúčame, aby ste najprv vymazať vyrovnávaciu pamäť prehliadača. Napríklad v programe Internet Explorer môžete by:
+Ak máte problémy s zdieľaním v programe Outlook Customer Manager, odporúčame vám najprv vymazať vyrovnávaciu pamäť prehľadávača. Napríklad v programe Internet Explorer by ste:
 
-1. Prejdite do **ponuky Nastavenia** > >**Všeobecné** nastavenia v časti **História prehľadávania** > **cache a databáz**.
-2. Odstrániť súbory vyrovnávacej pamäte pre webové stránky "outlookapps.com."
+1. Prejdite na **nastavenia** > **Všeobecné** > nastavenia v časti cache **História** > prehliadania**a databáz**.
+2. Zmazať cache súbory pre webové stránky "outlookapps.com."
 3. Reštartujte program Outlook.
 
 Ďalšie informácie o zdieľaní nájdete v téme [Zdieľanie informácií v programe Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

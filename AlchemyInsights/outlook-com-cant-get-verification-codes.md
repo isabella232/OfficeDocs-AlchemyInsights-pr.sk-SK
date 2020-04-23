@@ -3,7 +3,7 @@ title: Outlook.com nemôže prijímať overovacie kódy
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760823"
 ---
-# <a name="cant-get-verification-codes"></a>Nemožno získať overovacie kódy
+# <a name="cant-get-verification-codes"></a>Nie je možné získať overovacie kódy
 
-Ak nemáte prístup k alternatívnej e-mailovej alebo telefónne číslo, prejdite na stránku [základné informácie o zabezpečení](https://account.microsoft.com/security) účtu Microsoft vyberte **nemám žiadne z nich** na stránke prihlásenia a postupujte podľa pokynov nahradiť informácie o zabezpečení.
+Ak nemôžete získať prístup k alternatívnym e-mailom alebo telefónnemu číslu, prejdite na stránku [Základy zabezpečenia](https://account.microsoft.com/security) účtu Microsoft, na prihlasovacej stránke vyberte položku nemám **žiadne z týchto údajov** a postupujte podľa pokynov na nahradenie bezpečnostných informácií.
 
-*Poznámka:* [Aplikáciu Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) nevyžaduje pripojenie na internet môžete poskytnúť verifikačný kód.
+*Poznámka:* [Aplikácia Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) nevyžaduje pripojenie na internet, aby vám poskytol overovací kód.
 
-Ďalšie informácie, prečítajte si [Microsoft konto zabezpečenia info a overovanie kódov](https://support.microsoft.com/help/12428/).
+Ďalšie informácie nájdete v téme [informácie o zabezpečení konta Microsoft a overovacie kódy](https://support.microsoft.com/help/12428/).

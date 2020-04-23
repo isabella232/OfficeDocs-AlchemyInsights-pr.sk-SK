@@ -1,9 +1,9 @@
 ---
-title: Potvrdenia o prečítaní v službe Outlook.com
+title: Čítať príjmy v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744236"
 ---
 # <a name="read-receipts"></a>Potvrdenia o prečítaní
 
-Nemôžete žiadať prečítaní v službe Outlook.com, ale môžete požiadať o prečítaní pre Outlook.com správ pomocou programu Outlook pre systém Windows. Informácie nájdete v téme [Add a vyžiadanie potvrdenia o prečítaní a doručení oznámenia](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Nie je možné vyžiadať potvrdenie o prečítaní v Outlook.com, ale môžete požiadať o prečítaní pre Outlook.com správy odoslané pomocou programu Outlook pre systém Windows. Ďalšie informácie nájdete v téme [Pridávanie a vyžiadanie potvrdení o prečítaní a upozornení na doručenie](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Vybrať ako Outlook.com reaguje na žiadosti o potvrdenie o doručení, prejdite na [čítanie potvrdenie nastavenia](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Ak chcete vybrať, ako Outlook.com reaguje na žiadosti o potvrdenie o prečítaní, prejdite do [časti Nastavenie príjemky čítania](https://outlook.live.com/mail/options/mail/handling/readReceipts).

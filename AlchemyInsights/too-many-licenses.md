@@ -1,9 +1,9 @@
 ---
-title: Príliš veľa licencie?
+title: Príliš veľa licencií?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665955"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759923"
 ---
-# <a name="too-many-licenses"></a>Príliš veľa licencie?
+# <a name="too-many-licenses"></a>Príliš veľa licencií?
 
-Ak si myslíte, že spoplatňovania priveľa Office 365 licencie, to je zvyčajne kvôli zakúpili viac licencií, potom budete potrebovať.
+Ak si myslíte, že ste sa účtujú za príliš veľa licencií, je to zvyčajne kvôli zakúpeniam viac licencií potom budete potrebovať.
   
-**Znížiť počet zakúpených licencií**
+**Znížte počet zakúpených licencií**
   
-1. Admin Center, prejdite na **fakturačné** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) stránku.
+1. V centre spravovania prejdite na stránku **Fakturácia** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Nájdite predplatné, ktoré chcete odstrániť licencie a vyberte **Pridať alebo odstrániť licencie**.
+2. Vyhľadajte predplatné, z ktorého chcete odstrániť licencie, a potom vyberte položku **Pridať alebo odstrániť licencie**.
 
-3. V poli **Celková licencií** zadajte celkový počet licencií, ktoré budete potrebovať pre toto prihlásenie na odber a potom vyberte **Odoslať zmenu**. Napríklad, ak chcete odstrániť 5 z nich máte 110 licencie, zadajte 105.
+3. Do poľa **celkové licencie** zadajte celkový počet licencií, ktoré potrebujete pre toto predplatné, a potom vyberte položku **Odoslať zmenu**. Napríklad, ak máte 110 licencie a chcete odstrániť 5 z nich, zadajte 105.
 
-Ďalšie informácie v téme [Odstránenie licencie od vášho predplatného Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Ďalšie informácie nájdete v téme [Odstránenie licencií z Microsoft 365 pre podnikové predplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

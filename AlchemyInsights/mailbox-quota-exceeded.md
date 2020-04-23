@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784706"
 ---
 # <a name="mailbox-quota-exceeded"></a>Prekročená kvóta poštovej schránky
 
@@ -30,4 +30,4 @@ Prekročili ste kvótu poštovej schránky pre svoje konto. Existuje niekoľko k
 
 4. Uložte prílohy do OneDrivu, aby neboli uložené v poštovej schránke. Ďalšie informácie nájdete [v časti limity ukladacieho priestoru v Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
 
-Ak ste používateľom balíka Office 365, môžete požiadať o zvýšenie poštovej schránky z vášho IT správcu.
+Ak ste používateľ spoločnosti Microsoft 365, môžete tiež požiadať o zvýšenie poštovej schránky od svojho správcu IT.

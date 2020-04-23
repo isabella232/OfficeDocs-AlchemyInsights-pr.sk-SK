@@ -1,8 +1,8 @@
 ---
-title: Trial Office 365 nájomcu blokovaný Spamhaus
+title: Trial Microsoft 365 nájomcu blokovaný spamhaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500443"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759887"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Chyba pri skúšobnej používateľ Office 365 odošle e-mail: klienta hostiteľa blokovaný pomocou Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Chyba pri Microsoft 365 Trial používateľ odošle e-mail: klient hostiteľa blokovaný pomocou spamhaus
 
-Zdá sa, že odosielate e-mailom z nových Office 365 skúšobnej organizácie. Zabrániť zneužívaniu, sme zablokovať IP adresy, ktoré sú známe ako predtým ohrozená. Túto určitú kontrolu je už vykonaný po začatí používania platené licencie. Môže byť schopný získať dočasnú úľavu, žiadať o novú IP adresu od vášho poskytovateľa internetových služieb (ISP) alebo odstránenie bloku [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) webových stránok.
+Zdá sa, že posielate e-mail z novej skúšobnej organizácie spoločnosti Microsoft 365. Aby sme zabránili zneužitiu, blokujeme adresy IP, o ktorých je známe, že boli predtým ohrozené. Táto špecifická kontrola sa už nevykoná po spustení používania platených licencií. Môžete byť schopní získať dočasnú úľavu tým, že požiada o novú IP adresu od poskytovateľa internetových služieb (ISP), alebo odstránením bloku z webovej stránky [spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .

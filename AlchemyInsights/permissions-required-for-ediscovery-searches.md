@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-required-for-eDiscovery-Searches
+title: 1489-oprávnenie-požadované-pre-eDiscovery-vyhľadávanie
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372143"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758925"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Povolenia potrebné pre eDiscovery vyhľadávania
+# <a name="permissions-required-for-ediscovery-searches"></a>Povolenia potrebné pre vyhľadávanie eDiscovery
 
-Na vyhľadávanie obsahu v & zabezpečenia súladu Center, musí byť používateľ aspoň byť členom skupiny rolí správcu eDiscovery, ktorý im umožňuje vykonávať vyhľadávanie a miesto uchováva poštové schránky, lokality SharePoint a OneDrive miestach. Členov môžete tiež vytvoriť a spravovať eDiscovery prípady, pridať a odstrániť členov na prípad, vytvoriť a upraviť obsah vyhľadávanie a prípad údajom v pokročilých eDiscovery.
+Ak chcete vykonať vyhľadávanie obsahu v centre zabezpečenia & compliance, používateľ musí byť aspoň členom skupiny rolí eDiscovery Manager, ktorá im umožňuje vykonávať vyhľadávania a umiestnenia na poštových schránkach, lokalitách SharePoint a lokalitách OneDrive. Členovia môžu tiež vytvárať a spravovať eDiscovery prípady, pridávať a odstraňovať členov do prípadu, vytvárať a upravovať vyhľadávanie obsahu a prístup k údajom prípadu v pokročilom eDiscovery.
 
-Vykonávať In-Place eDiscovery vyhľadávania v službe Exchange admin center (EAC), používateľ musí byť členom skupiny rolí Správa zisťovania v službe Exchange Online.
+Vykonávať in-Place eDiscovery vyhľadávanie v Exchange Admin Center (EAC), používateľ musí byť členom skupiny rolí Správa zisťovania Exchange Online.
 
-Ďalšie informácie o povoleniach eDiscovery, nájdete: 
+Ďalšie informácie o povoleniach eDiscovery nájdete v časti: 
 
-- [Priradiť eDiscovery povolenia zabezpečenia & centrum súladu](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Priradenie povolení eDiscovery v centre zabezpečenia & Compliance](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Priradiť povolenia eDiscovery Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Priradenie povolení eDiscovery výmenou](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Poznámka**: po priradení eDiscovery povolenia, možno budete musieť počkať pár minút sa vzťahujú povolenia.
+**Poznámka**: po priradení eDiscovery povolenia, možno budete musieť počkať niekoľko minút povolenia na množiť.
