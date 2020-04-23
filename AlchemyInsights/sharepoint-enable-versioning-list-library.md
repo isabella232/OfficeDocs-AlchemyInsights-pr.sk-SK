@@ -2,7 +2,7 @@
 title: Verziovanie v SharePointe a OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044238"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767408"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Verziovanie v SharePointe a OneDrive 
 
@@ -39,6 +39,6 @@ Pre viac informácií o verziovaní nájdete nižšie uvedené články.
 - [Limity pre verziovanie](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Ak ste zákazníkom balíka Office 365, verzií je teraz zapnutá predvolene pri vytváraní nových OneDrive Business knižníc a automaticky uloží posledných 500 verzie dokumentu. Pomôže vám to zabrániť strate dôležitých dokumentov alebo údajov. Ak máte existujúce knižnice na OneDrive Business stránky alebo na tímovej lokalite, ktoré nemajú verziovanie povolené, môžete kedykoľvek zapnúť verziovanie verzií.
+>Ak ste zákazníkom spoločnosti Microsoft 365, verzií je teraz zapnutá predvolene pri vytváraní nových OneDrive Business knižníc a automaticky uloží posledných 500 verzie dokumentu. Pomôže vám to zabrániť strate dôležitých dokumentov alebo údajov. Ak máte existujúce knižnice na OneDrive Business stránky alebo na tímovej lokalite, ktoré nemajú verziovanie povolené, môžete kedykoľvek zapnúť verziovanie verzií.
 
 

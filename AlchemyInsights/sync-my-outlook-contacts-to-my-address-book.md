@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286270"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767084"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synchronizácia kontaktov programu Outlook do adresára
 
@@ -30,7 +30,7 @@ Program Outlook umožňuje exportovať kontakty do predvolenej aplikácie kontak
 
 3. Zapnite jazdec **synchronizovať kontakty** .
  
-Obojsmerný kontakt export je podporovaný pre Office 365, Outlook.com a hybridné moderné overovanie lokálnych poštových schránok. Obojsmerná podpora zaručuje, že všetky nové kontakty, ktoré pridáte, alebo existujúce kontakty, ktoré upravujete, sa zosynchronizujú medzi zariadením a kontami programu Outlook.
+Obojsmerný kontakt export je podporovaný pre Microsoft 365, Outlook.com a hybridné moderné overovanie lokálnych poštových schránok. Obojsmerná podpora zaručuje, že všetky nové kontakty, ktoré pridáte, alebo existujúce kontakty, ktoré upravujete, sa zosynchronizujú medzi zariadením a kontami programu Outlook.
  
 V prípade starších kont Exchange môžete exportovať kontakty, ktoré sa majú uložiť do zariadenia. Ak je zapnutá **Synchronizácia kontaktov** , novo pridané kontakty a úpravy vykonané v kontaktoch v programe Outlook sa uložia do aplikácie kontakty v zariadení. Úpravy vykonané priamo v aplikácii Kontakty v zariadení sa však neukladajú do programu Outlook. Všimnite si, že nepodporujú pridávanie/upravovanie kontaktov z programu Outlook pre Android pre lokálne kontá Exchange, takže budete musieť spravovať kontakty z iného klienta programu Outlook.
  

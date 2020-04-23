@@ -3,7 +3,7 @@ title: 1490-riešenie problémov-eDiscovery-zlyhania
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559388"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759599"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Obsah vyhľadávanie chýb
+# <a name="troubleshoot-content-search-errors"></a>Riešenie chýb pri vyhľadávaní obsahu
 
-Sa vyskytli problémy s obsah Hľadať v Office 365 alebo získanie zlyhania pri exportovaní výsledkov vyhľadávania?
+Vyskytli sa problémy s vyhľadávaním obsahu alebo pri získavaní zlyhaní pri exporte výsledkov vyhľadávania?
 
-Napríklad, dostávajú nasledovné, pri spustení vyhľadávania?
+Napríklad dostávate nasledujúce pri spustení vyhľadávania?
 
 - CS008 alebo CS012 chyby
 
 - Server zaneprázdnený/timeout chyby
 
-- Sa vyskytla chyba aplikácie
+- Vyskytla sa chyba aplikácie
 
-Alebo keď vyhľadávanie alebo Export výsledkov z veľkého počtu poštových schránok (viac ako 100.000 schránky), sú stále vývoz chyby?
+Alebo pri vyhľadávaní alebo exportovaní výsledkov z veľkého počtu poštových schránok (viac ako 100 000 poštových schránok) sa zobrazuje chyba exportu?
 
-Pre tieto typy chýb, znova pokúsil o vyhľadanie umiestnenia obsahu, ktoré zlyhali. Pozri [Tento článok](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pre viac informácií.
+Ak ide o tieto typy chýb, skúste znova vyhľadať umiestnenia obsahu, ktoré zlyhali. Pozri [Tento článok](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pre viac informácií.

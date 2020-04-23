@@ -1,30 +1,30 @@
 ---
-title: Čo môžete verzií?
+title: Čo môžem robiť s Versioning?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531338"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765356"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Čo môžete verzií?
+# <a name="what-can-i-do-with-versioning"></a>Čo môžem robiť s Versioning?
 
-Môžete použiť verzií v SharePoint zoznamy a knižnice:
+Verziovanie môžete použiť v zoznamoch a knižniciach lokality SharePoint na:
   
-- **Sledovať História verzie**. Je zapnuté vytváranie verzií, môžete vidieť, kedy sa položka alebo súbor zmenili a kto ich zmenil. Môžete tiež vidieť, kedy boli zmenené vlastnosti (informácie o súbore). Napríklad ak niekto zmení dátum splatnosti položky zoznamu, tieto informácie sa zobrazí v histórii verzií. Môžete tiež vidieť komentáre ľudia robia, keď budú kontrolovať súbory do knižnice. 
+- **Sledovať históriu verzie**. Keď je povolená verziovanie verzií, môžete vidieť, kedy bola položka alebo súbor zmenený a kto ho zmenil. Môžete tiež zistiť, kedy sa zmenili vlastnosti (informácie o súbore). Ak napríklad niekto zmení dátum splatnosti položky zoznamu, tieto informácie sa zobrazia v histórii verzií. Môžete vidieť aj komentáre, ktoré ľudia robia pri kontrole súborov do knižníc. 
     
-- **Obnoviť predchádzajúcu verziu**. Ak ste urobili chybu v aktuálnej verzii, ak aktuálna verzia je poškodený, alebo ak si proste ako predchádzajúca verzia lepšie, môže nahradiť aktuálnu verziu s nejakým predchádzajúcim. Obnovené verzie sa stane nová aktuálna verzia. 
+- **Obnoviť predchádzajúcu verziu**. Ak ste urobili chybu v aktuálnej verzii, v prípade, že aktuálna verzia je poškodená, alebo ak ste jednoducho ako predchádzajúca verzia lepšie, môžete nahradiť aktuálnu verziu s predchádzajúcim. Obnovená verzia sa stáva novou aktuálnou verziou. 
     
-- **Zobrazenie predchádzajúcej verzie**. Zobrazí predchádzajúcu verziu bez prepísania aktuálnej verzie. Ak si prezeráte História verzií dokumentu Microsoft Office, napríklad Word alebo Excel súbor, môžete porovnať dve verzie určiť, aké sú rozdiely. 
+- **Zobraziť predchádzajúcu verziu**. Predchádzajúcu verziu môžete zobraziť bez prepísania aktuálnej verzie. Ak si prezeráte históriu verzií v dokumente balíka Microsoft Office, ako je napríklad súbor programu Word alebo Excel, môžete porovnať dve verzie a zistiť, aké sú rozdiely. 
     
-[Ďalšie informácie o tom, ako funguje verzií v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Ďalšie informácie o tom, ako funguje spravovanie verzií v SharePointe Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

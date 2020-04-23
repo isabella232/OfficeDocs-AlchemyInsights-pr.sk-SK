@@ -1,9 +1,9 @@
 ---
-title: 1488-perform-eDiscovery-and-Content-Searches
+title: 1488-vykonať-eDiscovery-a-Content-vyhľadávanie
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555248"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764743"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Ako vykonať obsahu vyhľadávaní a vyhľadávaní eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Ako vykonávať vyhľadávanie obsahu a eDiscovery vyhľadávanie
 
-Použitie obsahu vyhľadávací nástroj v & zabezpečenia súladu Center rýchlo nájsť e-mail Exchange schránky, dokumentov lokality SharePoint a OneDrive účte a chatových diskusií v Skype for Business. Obsah vyhľadávací nástroj tiež môžete vyhľadávať e-maily, dokumenty a chatovej v Office 365 nástroje spolupráce, napríklad Microsoft Teams a skupín v Office 365.
+Pomocou nástroja na vyhľadávanie obsahu v centre zabezpečenia & súladu rýchlo nájsť e-maily v poštových schránkach servera Exchange, dokumenty v lokalitách SharePoint a OneDrive konto a Instant Messaging konverzácie Skype pre podniky. Môžete tiež použiť nástroj na vyhľadávanie obsahu na vyhľadávanie e-mailov, dokumentov a okamžitých správ konverzácie v Microsoft 365 nástroje na spoluprácu, ako sú Microsoft teams a Office 365 skupiny.
 
-**Vyhľadávanie obsahu**
+**Ak chcete vykonať vyhľadávanie obsahu**
 
-1. Prejdite na [& zabezpečenia súladu Center](https://protection.office.com) a prihláste sa.
-2. Kliknite na tlačidlo **vyhľadávanie > obsahu**.
-3. Kliknite na tlačidlo **nové hľadanie** vytvoriť nové vyhľadávanie.
-4. Zadajte požadované podmienky vrátane kľúčové slová a umiestnenia obsahu.  
-5. Kliknite na tlačidlo **Uložiť & spustiť** názov vyhľadávania, spustite ho a potom Zobraziť ukážku výsledkov.
+1. Prejdite do [Centra zabezpečenia & Compliance](https://protection.office.com) a prihláste sa.
+2. Kliknite na položku **hľadať > vyhľadávanie obsahu**.
+3. Ak chcete vytvoriť nové vyhľadávanie, kliknite na položku **nové vyhľadávanie** .
+4. Zadajte požadované podmienky vyhľadávania vrátane kľúčových slov a obsahových umiestnení.  
+5. Kliknite na tlačidlo **uložiť & spustiť** Ak chcete názov vyhľadávania, spustite ho a potom zobrazte ukážku výsledkov.
 
-Podrobné pokyny o obsah vyhľadávanie, exportovanie výsledkov a vytvorenie eDiscovery prípadoch držať dáta, vidieť [Obsah Hľadať](https://docs.microsoft.com/office365/securitycompliance/content-search) a [eDiscovery prípadov](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Podrobné pokyny o vyhľadávaní obsahu, exporte výsledkov a vytváraní prípadov eDiscovery na držanie údajov nájdete v téme [vyhľadávanie obsahu](https://docs.microsoft.com/office365/securitycompliance/content-search) a [prípady eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Pochopiť viac o obsahu vyhľadávanie prostredníctvom preskúmania [požiadavky a obmedzenia](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) a [vyšetruje čiastočne indexované položky](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ostatné výsledky musia byť vedomí.
+Viac informácií o vyhľadávaní obsahu si prezrite [požiadavky a obmedzenia](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) a [prešetríte čiastočne indexované položky](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) a ďalšie výsledky, ktoré si chcete uvedomiť.

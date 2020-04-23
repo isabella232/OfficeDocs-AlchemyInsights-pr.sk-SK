@@ -1,9 +1,9 @@
 ---
-title: 8000059 Spam filter nefunguje
+title: 8000059 spam filter nefunguje
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38469649ddd661a90144ac8b63d7b12f6acd1549
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501346"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764096"
 ---
-# <a name="spam-filter-not-working"></a>Filter nevyžiadanej pošty nefunguje
+# <a name="spam-filter-not-working"></a>Spam filter nefunguje
 
-Ak sa domnievate, že správu ste dostali v službe Outlook.com je phishing alebo falšovanie podvod, vyberte požadovanú správu a vyberte **nevyžiadanej** \> **Phishing** označiť ako phishing podvod. Ďalšie informácie o zneužitie, phishing a spoofing, [Prečítajte si tento](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Blokovať e-mailové adresy, pridajte adresy alebo domény do zoznamu Dôveryhodní odosielatelia alebo použiť iné možnosti nevyžiadanej pošty, vyberte **Možnosti nevyžiadanej pošty**.
+Ak si myslíte, že správa, ktorú ste dostali v Outlook.com je phishing alebo falšovanie podvod, vyberte správu a vyberte **nevyžiadanej** \> **phishing** označiť ako podvod phishing. Ak sa chcete dozvedieť viac o zneužití, phishingu a falšovanie, [Prečítajte si to](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Ak chcete blokovať e-mailové adresy, pridať adresy alebo domény do zoznamu dôveryhodných odosielateľov alebo použiť iné možnosti nevyžiadanej pošty, vyberte položku **Možnosti nevyžiadanej**pošty.
   

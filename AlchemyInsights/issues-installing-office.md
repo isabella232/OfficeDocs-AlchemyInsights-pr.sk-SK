@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054039"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765824"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Riešenia problémov pri inštalácii balíka Office
 
@@ -29,7 +29,7 @@ Vyskúšajte tieto riešenia na vyriešenie problémov s balíkom Office:
 - Vyčistite akékoľvek predchádzajúce stopy po balíku Office a znova ho nainštalujte pomocou nástroja Support and Recovery Assistant (SaRA). 
 
     - Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy). Po otvorení v časti **Odinštalovať produkty Office** vyberte verziu, ktorú chcete odinštalovať (ak chcete) a kliknite na tlačidlo **Ďalej**. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač. Po reštartovaní počítača sa nástroj SaRA automaticky znova otvorí a dokončí proces odinštalovania.
-    - [Preinštalujte Office](http://aka.ms/sara-officeinstall) pomocou nástroja SaRA. **Poznámka**: Ak chcete nainštalovať Visio alebo Project pomocou nástroja SaRA, použite možnosti [Inštalovať Visio](https://aka.ms/SaRA-VisioSetupScenario) alebo [Inštalovať Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - [Preinštalujte Office](https://aka.ms/sara-officeinstall) pomocou nástroja SaRA. **Poznámka**: Ak chcete nainštalovať Visio alebo Project pomocou nástroja SaRA, použite možnosti [Inštalovať Visio](https://aka.ms/SaRA-VisioSetupScenario) alebo [Inštalovať Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - Nainštalujte Office pomocou [offline inštalátora balíka Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

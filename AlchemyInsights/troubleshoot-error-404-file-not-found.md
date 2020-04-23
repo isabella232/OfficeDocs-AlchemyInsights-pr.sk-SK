@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 6c23d7c482e3beb900d6e0e2ba596c1ab1db8d7e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ed35c790dfb048aa6f33fa439b7636864a6e6e6c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050684"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759779"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Riešenie problémov s chybou 404, súbor sa nenašiel
 
@@ -22,11 +22,10 @@ Ak chcete vyriešiť chybu 404 pre lokalitu, ktorá bola premenovaná, premiestn
 
 Klasické lokality, ktoré existujú v klasickom admin centre, nájdete v téme [Obnovenie odstránenej kolekcie lokalít](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-
 Pre moderné lokality (komunikácia, zoskupovanie alebo iné lokality), ktoré existujú v novom centre spravovania služby SharePoint, nájdete [v téme Zobrazenie a obnovenie odstránených lokalít v novom centre spravovania služby SharePoint](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 Ak chcete vyriešiť chybu 404 pre súbor (alebo inú položku), ktorý bol premenovaný, premiestnený alebo odstránený:
 
 Prejdite na lokalitu SharePoint alebo OneDrive a zobrazte kôš z obsahu lokality. Pozrite si [položky obnovenie položiek v koši lokality SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Ak stále nemôžete nájsť položku môžete vyhľadávať denník auditu, ak je zapnuté zapisovanie do denníka, [vyhľadajte denník auditu v Office 365 zabezpečenia & Compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Ak stále nemôžete nájsť položku môžete vyhľadávať denník auditu, ak je zapnuté zapisovanie do denníka, [vyhľadajte denník auditu v Microsoft 365 zabezpečenia & Compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

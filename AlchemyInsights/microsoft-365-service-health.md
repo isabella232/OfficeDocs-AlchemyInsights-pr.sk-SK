@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600507"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762404"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 služby zdravie
 
@@ -29,4 +29,4 @@ Skontrolujte stav služby všetkých služieb z [tabule služby zdravie](https:/
 
 - Vyberte **históriu** , ak chcete skontrolovať históriu služieb v oblasti zdravia vašej organizácie. 
 
-Ďalšie informácie nájdete v téme [ako skontrolovať stav služby Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Ďalšie informácie nájdete v téme [ako skontrolovať stav služby Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 

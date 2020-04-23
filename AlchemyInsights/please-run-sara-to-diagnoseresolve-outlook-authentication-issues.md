@@ -12,15 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: e14042fa80be802e646db4e30cd3d5b69b81a1d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059823"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765546"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Použitie SaRA diagnostikovať a vyriešiť problémy s overovaním programu Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Diagnostika a riešenie problémov s overovaním v Outlooku pomocou nástroja SaRA
 
-**Poznámka**: Skontrolujte, či je pre vašu organizáciu povolená [Predvolená bezpečnosť](http://aka.ms/securitydefaults) . Ak váš nájomník bol vytvorený po 21. října 2019 a váš program Outlook sa opakovane žiada o heslo, môžete mať **predvolené nastavenia zabezpečenia** v nájomníkovi.
+**Poznámka**: Skontrolujte, či je pre vašu organizáciu povolená [Predvolená bezpečnosť](https://aka.ms/securitydefaults) . Ak váš nájomník bol vytvorený po 21. října 2019 a váš program Outlook sa opakovane žiada o heslo, môžete mať **predvolené nastavenia zabezpečenia** v nájomníkovi.
 
 Dôrazne odporúčame používať [program Outlook stále žiadajú o moje heslo](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostické na postihnuté stroj riešiť problémy, kde Outlook neustále vyzve na zadanie hesla. Táto Diagnostika [SaRA](https://diagnostics.office.com/#/) má automatizované kontroly a vracia možné riešenia pre vás použiť na riešenie všetkých zistených problémov.

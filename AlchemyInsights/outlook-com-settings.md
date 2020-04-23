@@ -1,9 +1,9 @@
 ---
-title: Nastavenia služby Outlook.com
+title: Outlook.com nastavenia
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,15 +11,15 @@ ms.custom:
 - "9000302"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a18674e68eab779984f273f0d90e28f9cdb9921
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14a38feb701627fc73a0648e78c7db8bbae9c4d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512294"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765752"
 ---
-# <a name="settings-in-outlookcom"></a>Nastavenia v službe Outlook.com
+# <a name="settings-in-outlookcom"></a>Nastavenia v Outlook.com
 
-Ak nemôžete otvoriť nastavenia služby Outlook.com, prosím [kliknite sem](https://outlook.live.com/mail/options/general/timeAndLanguage).
+Ak nemôžete otvoriť nastavenia Outlook.com, kliknite prosím [tu](https://outlook.live.com/mail/options/general/timeAndLanguage).
 
-Niektoré priame odkazy neotvárajte momentálne - pracujeme na to!
+Niektoré priame odkazy nie sú otvorené v túto chvíľu-pracujeme na tom!
