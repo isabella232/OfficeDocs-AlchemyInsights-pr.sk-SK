@@ -1,9 +1,9 @@
 ---
-title: Potvrdenia o prečítaní v službe Outlook.com
+title: Čítať príjmy v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744236"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="0ee3a-102">Potvrdenia o prečítaní</span><span class="sxs-lookup"><span data-stu-id="0ee3a-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="1f3be-102">Potvrdenia o prečítaní</span><span class="sxs-lookup"><span data-stu-id="1f3be-102">Read receipts</span></span>
 
-<span data-ttu-id="0ee3a-103">Nemôžete žiadať prečítaní v službe Outlook.com, ale môžete požiadať o prečítaní pre Outlook.com správ pomocou programu Outlook pre systém Windows.</span><span class="sxs-lookup"><span data-stu-id="0ee3a-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="0ee3a-104">Informácie nájdete v téme [Add a vyžiadanie potvrdenia o prečítaní a doručení oznámenia](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0ee3a-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="1f3be-103">Nie je možné vyžiadať potvrdenie o prečítaní v Outlook.com, ale môžete požiadať o prečítaní pre Outlook.com správy odoslané pomocou programu Outlook pre systém Windows.</span><span class="sxs-lookup"><span data-stu-id="1f3be-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="1f3be-104">Ďalšie informácie nájdete v téme [Pridávanie a vyžiadanie potvrdení o prečítaní a upozornení na doručenie](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1f3be-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="0ee3a-105">Vybrať ako Outlook.com reaguje na žiadosti o potvrdenie o doručení, prejdite na [čítanie potvrdenie nastavenia](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span><span class="sxs-lookup"><span data-stu-id="0ee3a-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>
+<span data-ttu-id="1f3be-105">Ak chcete vybrať, ako Outlook.com reaguje na žiadosti o potvrdenie o prečítaní, prejdite do [časti Nastavenie príjemky čítania](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span><span class="sxs-lookup"><span data-stu-id="1f3be-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>
