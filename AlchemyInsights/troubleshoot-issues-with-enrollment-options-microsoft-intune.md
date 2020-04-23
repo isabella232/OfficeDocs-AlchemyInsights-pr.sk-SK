@@ -1,31 +1,31 @@
 ---
-title: Riešenie problémov s možností zápisu Microsoft Intune
+title: Riešenie problémov s možnosťou registrácie Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559352"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43734647"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="f41f5-102">Riešenie problémov s možností zápisu Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="f41f5-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="54dc8-102">Riešenie problémov s možnosťou registrácie Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="54dc8-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
 
-<span data-ttu-id="f41f5-103">Preskúmanie zdrojov uvedených nižšie vyriešiť váš problém teraz.</span><span class="sxs-lookup"><span data-stu-id="f41f5-103">Review the resources listed below to resolve your issue now.</span></span> <span data-ttu-id="f41f5-104">Ak tieto prostriedky nepomôžu, kontaktujte podporu kliknutím [sem](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) a výberom "vytvoriť žiadosť o podporu."</span><span class="sxs-lookup"><span data-stu-id="f41f5-104">If these resources don't help, contact support by clicking [here](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) and choosing "Create a support request."</span></span> 
+<span data-ttu-id="54dc8-103">Prečítajte si nižšie uvedené zdroje a vyriešte problém teraz.</span><span class="sxs-lookup"><span data-stu-id="54dc8-103">Review the resources listed below to resolve your issue now.</span></span> <span data-ttu-id="54dc8-104">Ak tieto zdroje nepomôžu, obráťte sa na technickú podporu kliknutím [sem](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) a výberom možnosti vytvoriť žiadosť o podporu.</span><span class="sxs-lookup"><span data-stu-id="54dc8-104">If these resources don't help, contact support by clicking [here](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) and choosing "Create a support request."</span></span> 
   
-- <span data-ttu-id="f41f5-105">[Preskúmanie Windows Intune TechNet nájsť odpovede a riešenia bežných problémov](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="f41f5-105">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
+- <span data-ttu-id="54dc8-105">[Preskúmanie Intune TechNet nájsť odpovede a riešenia bežných problémov](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="54dc8-105">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
     
-- <span data-ttu-id="f41f5-106">Používajte [Windows Intune riešenia problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné zlyhania registrácie.</span><span class="sxs-lookup"><span data-stu-id="f41f5-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="f41f5-107">Prečítať [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) pre ďalšie podrobnosti.</span><span class="sxs-lookup"><span data-stu-id="f41f5-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+- <span data-ttu-id="54dc8-106">Použite [Intune riešenie problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné registrácie zlyhania.</span><span class="sxs-lookup"><span data-stu-id="54dc8-106">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="54dc8-107">Prečítajte si [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) pre viac informácií.</span><span class="sxs-lookup"><span data-stu-id="54dc8-107">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-- <span data-ttu-id="f41f5-108">Prečítať [Tento dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pre zoznam bežných chýb, ktoré bránia zápisnice a uznesenia každému.</span><span class="sxs-lookup"><span data-stu-id="f41f5-108">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
+- <span data-ttu-id="54dc8-108">Skontrolujte [Tento dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pre zoznam bežných chýb, ktoré zabraňujú zápisu a rozlíšeniu.</span><span class="sxs-lookup"><span data-stu-id="54dc8-108">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span> 
     
-- <span data-ttu-id="f41f5-109">[Ďalšie informácie o možnostiach registrácie v Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="f41f5-109">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
+- <span data-ttu-id="54dc8-109">[Ďalšie informácie o možnostiach zápisu v Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="54dc8-109">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
     
 
