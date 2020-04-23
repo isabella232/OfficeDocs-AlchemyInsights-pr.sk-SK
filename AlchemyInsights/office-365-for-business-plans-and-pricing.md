@@ -1,9 +1,9 @@
 ---
-title: Služieb Office 365 for Business plány a ceny
+title: Microsoft 365 pre podnikové plány a ceny
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 6e97c87e7937e766d0df06b366890f43f2484938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 6223af98f37b51c4084b7f2d47507e6d1228c1f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390707"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761649"
 ---
-# <a name="compare-office-365-for-business"></a><span data-ttu-id="2f9f2-102">Porovnanie služieb Office 365 for Business</span><span class="sxs-lookup"><span data-stu-id="2f9f2-102">Compare Office 365 for Business</span></span>
+# <a name="compare-microsoft-365-for-business"></a><span data-ttu-id="cbfd9-102">Porovnajte Microsoft 365 pre podniky</span><span class="sxs-lookup"><span data-stu-id="cbfd9-102">Compare Microsoft 365 for business</span></span>
 
-<span data-ttu-id="2f9f2-103">Existujú tri rôzne plány služieb Office 365 for Business.</span><span class="sxs-lookup"><span data-stu-id="2f9f2-103">There are three different plans available with Office 365 for Business.</span></span> <span data-ttu-id="2f9f2-104">[Porovnať Office 365 for Business plány a ceny](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="2f9f2-104">[Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
+<span data-ttu-id="cbfd9-103">Existujú tri rôzne plány k dispozícii s Microsoft 365 pre podniky.</span><span class="sxs-lookup"><span data-stu-id="cbfd9-103">There are three different plans available with Microsoft 365 for business.</span></span> <span data-ttu-id="cbfd9-104">[Porovnajte Microsoft 365 pre podnikové plány a ceny](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="cbfd9-104">[Compare Microsoft 365 for business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  

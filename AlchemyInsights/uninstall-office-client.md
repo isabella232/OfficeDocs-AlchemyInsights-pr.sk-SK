@@ -1,9 +1,9 @@
 ---
-title: Odinštalovať klienta balíka Office
+title: Odinštalovanie klienta balíka Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
-ms.openlocfilehash: 3cae4997148bd2abd1be4865e5348b5c5b38c95a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b99f8342baab92121a60b39a4d7408d294e5bcea
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532958"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766580"
 ---
-# <a name="uninstall-office-client"></a><span data-ttu-id="73d0d-102">Odinštalovať klienta balíka Office</span><span class="sxs-lookup"><span data-stu-id="73d0d-102">Uninstall Office Client</span></span>
+# <a name="uninstall-office-client"></a><span data-ttu-id="33f37-102">Odinštalovanie klienta balíka Office</span><span class="sxs-lookup"><span data-stu-id="33f37-102">Uninstall Office Client</span></span>
 
-<span data-ttu-id="73d0d-103">Nižšie uvedené odkazy môžete použiť na odinštalovanie verzie balíka Office pre počítač.</span><span class="sxs-lookup"><span data-stu-id="73d0d-103">You can use the links below to uninstall your version of Office for your computer.</span></span>
+<span data-ttu-id="33f37-103">Ak chcete odinštalovať verziu balíka Office pre váš počítač, môžete použiť nižšie uvedené prepojenia.</span><span class="sxs-lookup"><span data-stu-id="33f37-103">You can use the links below to uninstall your version of Office for your computer.</span></span>
   
-> <span data-ttu-id="73d0d-104">Pre PC: [Odinštalovanie balíka Office pre PC](https://support.office.com/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)</span><span class="sxs-lookup"><span data-stu-id="73d0d-104">For PC: [Uninstall Office for PC](https://support.office.com/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)</span></span>
+> <span data-ttu-id="33f37-104">Pre PC: [Odinštalovanie balíka Office pre PC](https://support.office.com/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)</span><span class="sxs-lookup"><span data-stu-id="33f37-104">For PC: [Uninstall Office for PC](https://support.office.com/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)</span></span>
     
-> <span data-ttu-id="73d0d-105">Pre Mac: [Odinštalovať Office 2016 for Mac](https://support.office.com/article/Uninstall-Office-2016-for-Mac-eefa1199-5b58-43af-8a3d-b73dc1a8cae3.aspx) alebo [Odinštalovanie balíka Office 2011 pre Mac](https://support.office.com/article/Uninstall-Office-2011-for-Mac-4bfcd230-0ea1-4656-bf30-dbfa44d358fa.aspx)</span><span class="sxs-lookup"><span data-stu-id="73d0d-105">For Mac: [Uninstall Office 2016 for Mac](https://support.office.com/article/Uninstall-Office-2016-for-Mac-eefa1199-5b58-43af-8a3d-b73dc1a8cae3.aspx) or [Uninstall Office 2011 for Mac](https://support.office.com/article/Uninstall-Office-2011-for-Mac-4bfcd230-0ea1-4656-bf30-dbfa44d358fa.aspx)</span></span>
+> <span data-ttu-id="33f37-105">Pre Mac: [Odinštalovanie balíka office 2016 pre Mac](https://support.office.com/article/Uninstall-Office-2016-for-Mac-eefa1199-5b58-43af-8a3d-b73dc1a8cae3.aspx) alebo [odinštalovanie balíka Office 2011 pre Mac](https://support.office.com/article/Uninstall-Office-2011-for-Mac-4bfcd230-0ea1-4656-bf30-dbfa44d358fa.aspx)</span><span class="sxs-lookup"><span data-stu-id="33f37-105">For Mac: [Uninstall Office 2016 for Mac](https://support.office.com/article/Uninstall-Office-2016-for-Mac-eefa1199-5b58-43af-8a3d-b73dc1a8cae3.aspx) or [Uninstall Office 2011 for Mac](https://support.office.com/article/Uninstall-Office-2011-for-Mac-4bfcd230-0ea1-4656-bf30-dbfa44d358fa.aspx)</span></span>
     
 

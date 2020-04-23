@@ -1,8 +1,8 @@
 ---
-title: Upgrade na plnú verziu Microsoft Teams
+title: Inovácia na plnú verziu Microsoft teams
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766544"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="d8a39-102">Upgrade na plnú verziu Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="d8a39-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="5d6b2-102">Inovácia na plnú verziu Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="5d6b2-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="d8a39-103">Treba inováciu z voľného na plnú verziu programu Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="d8a39-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="d8a39-104">Pozri [Inovovať Microsoft tímov zadarmo na verziu Office 365 predplatné](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="d8a39-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
+<span data-ttu-id="5d6b2-103">Potrebujete inovovať Bezplatne na plnú verziu Microsoft teams?</span><span class="sxs-lookup"><span data-stu-id="5d6b2-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="5d6b2-104">Pozrite si [inováciu Microsoft teams zdarma na microsoft 365 predplatné verzia](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="5d6b2-104">See [Upgrade Microsoft Teams free to Microsoft 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
 
-<span data-ttu-id="d8a39-105">Musíte spĺňať tieto požiadavky:</span><span class="sxs-lookup"><span data-stu-id="d8a39-105">You’ll need to meet these requirements:</span></span>
+<span data-ttu-id="5d6b2-105">Budete musieť splniť tieto požiadavky:</span><span class="sxs-lookup"><span data-stu-id="5d6b2-105">You'll need to meet these requirements:</span></span>
 
-- <span data-ttu-id="d8a39-106">Ste človek, ktorí sa zaregistrovali pre aktuálnu bezplatnú verziu tímov.</span><span class="sxs-lookup"><span data-stu-id="d8a39-106">You’re the person who signed up for the current free version of Teams.</span></span>
-- <span data-ttu-id="d8a39-107">Ak máte vlastnú doménu, nemôže už byť priradené Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d8a39-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
-- <span data-ttu-id="d8a39-108">Na prenos dát, keď ste upgrade, musíte sa prihlásiť počas procesu inovácie.</span><span class="sxs-lookup"><span data-stu-id="d8a39-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="d8a39-109">Ak ste si kúpili Office 365 mimo procesu inovácie, nemôžete prenášať údaje.</span><span class="sxs-lookup"><span data-stu-id="d8a39-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+- <span data-ttu-id="5d6b2-106">Ste osoba, ktorá sa prihlásil na aktuálnu bezplatnú verziu tímov.</span><span class="sxs-lookup"><span data-stu-id="5d6b2-106">You're the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="5d6b2-107">Ak máte vlastnú doménu, už nemôže byť priradená k službe Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="5d6b2-107">If you have your own domain, it can't already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="5d6b2-108">Ak chcete preniesť údaje pri inovácii, musíte sa prihlásiť počas procesu inovácie.</span><span class="sxs-lookup"><span data-stu-id="5d6b2-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="5d6b2-109">Ak ste si kúpili predplatné mimo procesu inovácie, nemôžete prenášať údaje.</span><span class="sxs-lookup"><span data-stu-id="5d6b2-109">If you bought a subscription outside of the upgrade process, you can't transfer data.</span></span>
