@@ -1,9 +1,9 @@
 ---
-title: Nevyžiadané Nevyžiadaná pošta služby Outlook.com - španielčina
+title: Outlook.com nevyžiadanej pošty-španielčina
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1137"
 - "8000065"
-ms.openlocfilehash: bb9d5b00c5466fdc334a84e5805744f102160ae1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4a2b6ab81901a7e674506352e893d5b220b25839
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536362"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716007"
 ---
-# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga el correo žiadne deseado fuera de Outlook.com
+# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga El correo No Deseado domovov de Outlook.com
 
-Si ve un aumento de correo žiadne deseado y correo electrónico žiadne deseado hay varias kvôli de reducir la cantidad de correo žiadne de Bandeja en la entrada deseado que entre.
+Si ve un Aumento de correo No Deseado y correo electrónico No Deseado, Hay varias Formas de reducir La cantidad de correo No Deseado que Entre en la Bandeja de entrada.
 
-Para angličtina más leer [Ayudar mantener el correo žiadne deseado y el correo žiadne deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para naučiť más Leer [ayudar a mantener El correo No Deseado y El correo No Deseado domovov de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

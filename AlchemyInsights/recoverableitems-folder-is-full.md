@@ -1,9 +1,9 @@
 ---
-title: 1336 RecoverableItems priečinok je plný.
+title: 1336 RecoverableItems priečinok je plný
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,33 +12,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509767"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720267"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Priečinok Obnoviteľné položky je plný
 
-Schránky Exchange Online v Office 365, predvolené ukladacieho priečinka Obnoviteľné položky je 30 GB. Ukladacieho priečinka Obnoviteľné položky sa automaticky zvýši na 100 GB, ak poštová schránka je umiestnený na zadržanie, podržte eDiscovery, alebo je priradená k politike uchovávania údajov služby Office 365.
+Pre poštové schránky Exchange Online je predvolený limit ukladacieho priestoru pre priečinok Obnoviteľné položky 30 GB. Limit ukladacieho priestoru pre priečinok Obnoviteľné položky sa automaticky zvýši na 100 GB, ak poštová schránka je umiestnená v zadržanie, eDiscovery hold alebo je priradená politika uchovávania údajov.
 
-Keď priečinka Obnoviteľné položky dosiahne limit ukladacieho priestoru, schránky funkčnosť je ovplyvnený nasledovnými spôsobmi:
+Keď priečinok Obnoviteľné položky dosiahne limit ukladacieho priestoru, funkčnosť poštovej schránky je ovplyvnená nasledujúcimi spôsobmi:
 
-- Používateľa nemôžete odstrániť položky z poštovej schránky.
+- Používateľ nemôže odstrániť položky z poštovej schránky.
 
-- Asistent pre spravované priečinky nemožno odstrániť položky založené na značku uchovávania údajov alebo spravovaných priečinkov nastavenia.
+- Asistent pre spravované priečinky nemôže odstrániť položky založené na značke uchovávania údajov alebo v nastaveniach spravovaných priečinkov.
 
-- Pre poštové schránky, ktoré majú jediný obnovenie položky zapnuté alebo sa odloží, procese ochrany kópiu na zápis stránky nemôže zachovať verzie položiek upravil používateľ.
+- V prípade poštových schránok, ktoré majú povolené obnovenie jednej položky alebo sú umiestnené na podržanie, proces ochrany stránky kopírovania na zápis nemôže zachovať verzie položiek upravených používateľom.
 
-- Pre poštové schránky, ktoré majú zapnuté zapisovanie auditu poštovej schránky, žiadne položky denníka auditu poštovej schránky môžu byť uložené v podpriečinku auditov v priečinku Obnoviteľné položky.
+- Pre poštové schránky, ktoré majú schránky auditu zapisovania do denníka zapnutá, žiadne položky denníka auditu poštovej schránky môžu byť uložené v podpriečinku audity v priečinku Obnoviteľné položky.
 
-Pre poštové schránky, ktoré nie sú zadržané, správcovia môžu použiť `Search-Mailbox -SearchDumpsterOnly -DeleteContent` príkaz Exchange Online PowerShell odstrániť položky v priečinku Obnoviteľné položky. Ďalšie informácie sa nachádzajú v týchto témach:
+V prípade poštových schránok, ktoré nie sú podržaných, `Search-Mailbox -SearchDumpsterOnly -DeleteContent` môžu správcovia použiť príkaz v službe Exchange Online PowerShell na odstránenie položiek v priečinku Obnoviteľné položky. Ďalšie informácie sa nachádzajú v týchto témach:
 
-- [Vyhľadanie a odstránenie správ](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Vyhľadávanie a odstraňovanie správ](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pre poštové schránky, ktoré sú podržané, správcovia majú odstrániť hold, ako budú môcť odstránené položky z priečinka Obnoviteľné položky. Ďalšie informácie nájdete v téme [odstrániť položky Obnoviteľné položky priečinka poštovými schránkami na držať](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+V prípade poštových schránok, ktoré sú podržaný, Správcovia musia odstrániť držanie pred odstránením položiek z priečinka Obnoviteľné položky. Ďalšie informácie nájdete v téme [Odstránenie položiek v priečinku Obnoviteľné položky v poštových schránkach typu cloud na podržanie](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Zabrániť stáva plne priečinka Obnoviteľné položky, správcovia môžu zvýšiť limit pre skladovanie Obnoviteľné položky priečinka poštové schránky na držať a nastaviť politiku uchovávania údajov poštovej schránky, ktoré premiestni položky z priečinka Obnoviteľné položky používateľa Archív Poštová schránka. Vidieť [zvýšenie Obnoviteľné položky kvóty poštových schránok na hold](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Ak chcete zabrániť úplnému obnoveniu priečinka Obnoviteľné položky, správcovia môžu zvýšiť limit ukladacieho priestoru priečinka Obnoviteľné položky pre poštové schránky zadržaných a nastaviť politiku uchovávania poštových schránok, ktorá presunie položky z priečinka Obnoviteľné položky do archívnej poštovej schránky používateľa. Pozrite si [zvýšenie kvóty pre obnoviteľné položky pre poštové schránky podržaných](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
