@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: 0f583f8d4cf0706e1210d5b844dc566c7ae58d98
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116535"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722635"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Vyriešenie chyby pri aktivácii balíka Office 0xD000000C
 
-- Uistite sa, že v Macu, do ktorého sa pokúšate inštalovať, funguje pripojenie na internet. Môžete to urobiť tak, že otvoríte internetový prehliadač a prejdete na stránku www.microsoft.com. Ak sa stránka načíta, internetové pripojenie funguje.
+- Uistite sa, že v Macu, do ktorého sa pokúšate inštalovať, funguje pripojenie na internet. Môžete to urobiť tak, že otvoríte internetový prehliadač a prejdete na stránku [Microsoft](https://www.microsoft.com). Ak sa stránka načíta, internetové pripojenie funguje.
 
 - Ukončite všetky aplikácie balíka Office.
 
