@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762009"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799138"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Viacnásobné pokusy účtovať platobné nástroje online
 
-Pred prijatím akéhokoľvek opatrenia v službe robíme viac pokusov o nabíjanie online platobných nástrojov. Po vybratí spôsobu platby musia byť všetky splatné čiastky zaplatené s vybratým spôsobom platby. Ak chcete aktualizovať aktuálne informácie o platbe predplatného, postupujte podľa krokov v téme [Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ak je poplatok neúspešný, systém sa bude naďalej pokúšať vyrovnať rovnováhu v priebehu niekoľkých najbližších týždňov. Aktualizácie vašich platobných údajov môžete kedykoľvek vykonať, aby ste sa uistili, že ďalší pokus o nabíjanie je úspešný. Ďalšie informácie nájdete v téme [Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v programe Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
