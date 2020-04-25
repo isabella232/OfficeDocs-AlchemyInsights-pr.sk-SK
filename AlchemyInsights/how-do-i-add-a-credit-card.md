@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 2d308a5ec0ed959c9c0794a94a8b8dc4855de7a5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 29864cd52c19a34887b52968a1a004473461dc84
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710062"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787961"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Ako pridám kreditnú kartu?
 
@@ -30,4 +30,4 @@ ms.locfileid: "43710062"
 
 4. Zadajte informácie pre novú kreditnú kartu alebo nový bankový účet. Potom kliknite na položku **Uložiť**.
 
-Ďalšie informácie nájdete v téme[Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového konta v službách Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ďalšie informácie nájdete v téme[Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového účtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

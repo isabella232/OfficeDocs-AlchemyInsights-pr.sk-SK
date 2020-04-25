@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530554"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783986"
 ---
 # <a name="domain-transfers"></a>Prevody domén
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530554"
 
     - Napriek tomu, že domény kúpené spoločnosťou Microsoft nepodporujú zmenu NS záznamov, zvážte [aktualizáciu DNS záznamov pre vašu webovú lokalitu](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) namiesto prenosu registrácie domény k poskytovateľovi webovej lokality.
 
-- Doména zakúpená spoločnosťou Microsoft sa nedá prenášať medzi nájomníkmi balíka Office 365. 
+- Doména zakúpená od spoločnosti Microsoft sa nedá prenášať medzi nájomníkmi služby Microsoft 365. 
 
-    - Môžete však preniesť doménu tretej strany medzi nájomníkmi balíka Office 365 tak, že[odstránite doménu z jedného nájomníka](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) a potom overíte doménu v inom nájomníkovi.
+    - Môžete však preniesť doménu tretej strany medzi nájomníkmi služby Microsoft 365 tak, že[odstránite doménu z jedného nájomníka](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) a potom overíte doménu v inom nájomníkovi.
 
 - Registráciu domén tretej strany alebo fakturáciu nie je možné preniesť na spoločnosť Microsoft.
 

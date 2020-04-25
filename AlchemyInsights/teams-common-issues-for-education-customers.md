@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856812"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739451"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Bežné problémy so službou Teams pre zákazníkov v oblasti vzdelávania
 
@@ -34,7 +34,7 @@ Ak potrebujete pomoc pri nasadzovaní služby Teams na podporu vzdialeného vzde
 - **Povolenie hosťovského prístupu pre aplikáciu Teams**: Skontrolujte [kontrolný zoznam hosťovského prístupu do aplikácie Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) a uistite sa, že boli dokončené všetky kroky.
     - [Informácie o hosťovskom prístupe v aplikácii Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
     - [Nastavenie – kontrolný zoznam hosťovského prístupu do aplikácie Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-    - [Pripojenie k Team pre hostí](https://docs.microsoft.com/microsoftteams/guest-joins)
+    - [Pripojenie hosťa k tímu](https://docs.microsoft.com/microsoftteams/guest-joins)
 
 - **Schôdze cez Teams a telefonické pripojenie**: Potrebujete pomoc pri zapnutí alebo nastavení audiokonferencií v Microsoft Teams? Bol tento používateľ vytvorený len nedávno? Ak áno, budete musieť počkať 2 až 24 hodín, aby sa nastavenia prejavili. Ak chcete overiť, či používateľ má licenciu na audiokonferencie a má predvolené platené číslo:
     1. Prejdite na položku Aktívni používatelia a potom vyberte príslušného používateľa.
@@ -45,12 +45,12 @@ Ak potrebujete pomoc pri nasadzovaní služby Teams na podporu vzdialeného vzde
     6. V centre spravopvania pre Skype for Business kliknite na položku **Audiokonferencie** a potom **Používatelia**.
     7. Vyberte príslušného používateľa a overte, či má Predvolené platené číslo.
 
-    Ďalšie informácie nájdete v téme [Volacie plány pre Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) alebo zavolajte tímu Microsoft Commerce Billing, kde vám pomôžu s otázkami týkajúcimi sa licencovania.
+    Ďalšie informácie nájdete v téme [Volacie plány](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) alebo zavolajte tímu Microsoft Commerce Billing, kde vám pomôžu s otázkami týkajúcimi sa licencovania.
 
     Ďalšie zdroje informácií
 
     - [Schôdze a konferencie v Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audiokonferencie v Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audiokonferencie](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Politiky pre schôdze**: Politiky pre schôdze sa používajú na ovládanie funkcií dostupných pre účastníkov schôdzí naplánovaných používateľmi vo vašej organizácii. Po vytvorení politiky a vykonaní zmien môžete politiku priradiť používateľom.
 

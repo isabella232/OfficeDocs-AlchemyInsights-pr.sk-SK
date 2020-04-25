@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 0556a27795e6bff0969dae292d4f3f3d14dd31b4
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154439"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789245"
 ---
 # <a name="subscription-no-longer-active"></a>Predplatné už nie je aktívne
 
-Ak sa pri otvorení [aplikácie služieb Office 365 zobrazí upozornenie na predplatné](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), pravdepodobne je potrebné opätovne aktivovať predplatné.
+Ak sa pri otvorení [aplikácie od spoločnosti Microsoft zobrazí upozornenie na predplatné](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), pravdepodobne je potrebné opätovne aktivovať predplatné.
 
 **Opätovná aktivácia predplatného**
 

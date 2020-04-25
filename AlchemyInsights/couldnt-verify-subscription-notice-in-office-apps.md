@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 2a45873c328a6df47d2c18aaf107a05dec453bef
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183005"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788789"
 ---
 # <a name="couldnt-verify-subscription-notice-in-office-apps"></a>V aplikáciách balíka Office sa zobrazuje upozornenie „Nepodarilo sa overiť predplatné“
 
 - Skontrolujte, či [stav predplatného](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) je platný a či príslušný používateľ má [priradenú platnú licenciu](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) a je pripojený na internet.
 
-- Na [stránke Stav služby Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) skontrolujte, či sa nevyskytujú známe problémy so službou.
+- Na [stránke Stav služby Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) skontrolujte, či sa nevyskytujú známe problémy so službou.
 
 - [Skontrolujte bránu firewall](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [skontrolujte antivírusový softvér](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [skontrolujte nastavenia proxy servera](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) v problémovom zariadení.
 
