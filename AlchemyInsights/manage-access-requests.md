@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721841"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912418"
 ---
 # <a name="manage-access-requests"></a>Spravovať žiadosti o prístup
 
@@ -26,7 +26,7 @@ Keď sa používateľ pokúsi získať prístup k položke v službe SharePoint 
     
 2. V časti **Používatelia a povolenia**kliknite na položku **žiadosti o prístup a pozvánky**. (Ak sa nezobrazí, neboli vykonané žiadne žiadosti o prístup.)
     
-3. Ak chcete používateľovi udeliť povolenie jednotlivo, kliknite na položku **schváliť** alebo **odmietnuť**. Ak chcete vybrať konkrétnu úroveň povolení, najprv kliknite na tri bodky (...) vedľa mena osoby. Prípadne pridajte používateľa do skupiny, ktorá má povolenie na lokalitu. Pre komunikačné lokality a klasické tímové lokality môžete to urobiť na stránke nastavenia lokality. Pre lokality, ktoré patria do skupiny Office 365, môžete pridať používateľa do skupiny.
+3. Ak chcete používateľovi udeliť povolenie jednotlivo, kliknite na položku **schváliť** alebo **odmietnuť**. Ak chcete vybrať konkrétnu úroveň povolení, najprv kliknite na tri bodky (...) vedľa mena osoby. Prípadne pridajte používateľa do skupiny, ktorá má povolenie na lokalitu. Pre komunikačné lokality a klasické tímové lokality môžete to urobiť na stránke nastavenia lokality. Pre lokality, ktoré patria do skupiny Microsoft 365, môžete pridať používateľa do skupiny.
     
     [Spravovať žiadosti o prístup](https://go.microsoft.com/fwlink/?linkid=2008747)
     

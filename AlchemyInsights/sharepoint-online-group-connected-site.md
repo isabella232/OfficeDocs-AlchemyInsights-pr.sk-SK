@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642159"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912981"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problémy pri vytváraní skupiny pripojenej lokality SharePoint
 
@@ -30,5 +30,5 @@ Ak ste odstránili skupinu a jej pripojenú lokalitu a chcete vytvoriť inú lok
 
 1. Existujú rôzne spôsoby vytvárania a používania moderných skupín so službou SharePoint.
 
-   - Existujúce lokality môžete pripojiť k skupine Office 365. Ďalšie informácie nájdete v téme [pripojenie skupiny Office 365 pomocou používateľského rozhrania služby SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Ak chcete vytvoriť lokalitu Connected Office 365 Group, musíte vytvoriť [tímovú lokalitu](https://admin.microsoft.com/sharepoint).
+   - Existujúce lokality môžete pripojiť k skupine Microsoft 365. Ďalšie informácie nájdete v téme [pripojenie skupiny Microsoft 365 pomocou používateľského rozhrania služby SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Ak chcete vytvoriť lokalitu Microsoft 365 Group Connected, musíte vytvoriť [tímovú lokalitu](https://admin.microsoft.com/sharepoint).

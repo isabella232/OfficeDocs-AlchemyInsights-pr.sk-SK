@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053132"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908719"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Prekročený denný limit e-mailov. Pracovný postup je pozastavený.
 
@@ -27,7 +27,7 @@ Táto chyba môže byť prijatá v nasledovných prípadoch:
 - Pri spustení pracovného postupu, e-mailová správa nie je odoslaná a zistíte nasledovné správanie:
     - Pre tok činností pomocou typu platformy SharePoint 2013, môžete prechádzať na stránke **stav pracovného postupu** . Na stránke stav toku činností je **interný stav** nastavený na hodnotu **spustené**a informačný balón sa **nedá Odoslať príjemcovi**.
 
-Tento problém obísť, nakonfigurujte pracovný postup na odosielanie e-mailových správ bez prekročenia [limitov odosielateľa Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Napríklad, použite pauzu v toku činností, pošlite e-mail do skupiny Office 365, distribučnej skupiny alebo poštové skupiny zabezpečenia povolené alebo Odoslať správu menej ako 200 príjemcov naraz.
+Tento problém obísť, nakonfigurujte pracovný postup na odosielanie e-mailových správ bez prekročenia [limitov odosielateľa Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Napríklad, použite pauzu v toku činností, pošlite e-mail do skupiny Microsoft 365, distribučná skupina alebo poštové skupiny zabezpečenia povolené alebo Odoslať správu menej ako 200 príjemcov naraz.
 
 
 Ďalšie informácie nájdete v nasledujúcom [článku](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).

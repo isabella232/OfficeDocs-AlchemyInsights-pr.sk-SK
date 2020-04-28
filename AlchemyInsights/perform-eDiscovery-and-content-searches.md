@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764743"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911846"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Ako vykonávať vyhľadávanie obsahu a eDiscovery vyhľadávanie
 
-Pomocou nástroja na vyhľadávanie obsahu v centre zabezpečenia & súladu rýchlo nájsť e-maily v poštových schránkach servera Exchange, dokumenty v lokalitách SharePoint a OneDrive konto a Instant Messaging konverzácie Skype pre podniky. Môžete tiež použiť nástroj na vyhľadávanie obsahu na vyhľadávanie e-mailov, dokumentov a okamžitých správ konverzácie v Microsoft 365 nástroje na spoluprácu, ako sú Microsoft teams a Office 365 skupiny.
+Pomocou nástroja na vyhľadávanie obsahu v centre zabezpečenia & súladu rýchlo nájsť e-maily v poštových schránkach servera Exchange, dokumenty v lokalitách SharePoint a OneDrive konto a Instant Messaging konverzácie Skype pre podniky. Môžete tiež použiť nástroj na vyhľadávanie obsahu na vyhľadávanie e-mailov, dokumentov a okamžitých správ konverzácie v Microsoft 365 nástroje na spoluprácu, ako sú Microsoft teams a Microsoft 365 skupiny.
 
 **Ak chcete vykonať vyhľadávanie obsahu**
 

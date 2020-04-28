@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767264"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913017"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Riešenie problémov s zdieľaním obsahu služby SharePoint s externými používateľmi
 
@@ -32,7 +32,7 @@ Skontrolujte, či je pre lokalitu zapnuté externé zdieľanie. Pre klasickú ko
     
 2. Vyberte lokalitu alebo lokality a na páse s nástrojmi kliknite na položku **Zdieľanie**.
     
-Pre tímovú lokalitu, ktorá patrí do skupiny Office 365 alebo na komunikačnú lokalitu:
+Pre tímovú lokalitu, ktorá patrí do skupiny Microsoft 365 alebo na komunikačnú lokalitu:
   
 - Tieto nové typy lokalít majú rovnaké nastavenie zdieľania ako nastavenie pre celú organizáciu, pokiaľ nastavenie pre celú organizáciu umožňuje zdieľanie súborov pomocou prepojení, ktoré nevyžadujú prihlásenie. V tomto prípade lokality umožňujú zdieľanie s novými a existujúcimi externými používateľmi, ktorí sa prihlasujú. Ak chcete zmeniť nastavenie pre konkrétne lokality, použite nové centrum spravovania služby SharePoint alebo PowerShell. [Ďalšie informácie](https://go.microsoft.com/fwlink/?linkid=871863)
     

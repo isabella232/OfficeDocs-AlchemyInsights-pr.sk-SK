@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671364"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911019"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Pridanie kalendára lokality SharePoint
 
-SharePoint kalendáre sú klasické zoznam typov, ktoré sú niekedy zamieňať s Office 365 skupinové kalendáre.
+SharePoint kalendáre sú klasické zoznam typov, ktoré sú niekedy zamieňať s Microsoft 365 skupiny kalendárov.
  
 Ak chcete vytvoriť kalendár lokality SharePoint, postupujte nasledovne:
  
@@ -29,5 +29,5 @@ Ak chcete vytvoriť kalendár lokality SharePoint, postupujte nasledovne:
 2.  Do vyhľadávacieho poľa **nájsť aplikáciu** zadajte **Kalendár** a stlačte kláves ENTER.
 3.  Vyberte aplikáciu s názvom **Kalendár**a zadajte názov kalendára.
 
-Ďalšie informácie o skupinách balíka Office 365 nájdete v téme [informácie o skupinách office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Ďalšie informácie o skupinách spoločnosti Microsoft 365 nájdete v téme [informácie o skupinách spoločnosti microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

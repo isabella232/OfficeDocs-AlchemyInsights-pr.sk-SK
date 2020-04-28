@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051692"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912201"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Povoliť externé zdieľanie SharePoint Online
 
@@ -25,11 +25,11 @@ Pre viac informácií o externom zdieľaní (hostí), prosím navštívte nižš
 
 - [Čo sa stane, keď zdieľam lokalitu alebo dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Zapnutie alebo vypnutie externého zdieľania pre službu SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Zapnutie alebo vypnutie externého zdieľania pre SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
 - [Zapnutie alebo vypnutie externého zdieľania lokality](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Správa hosťovskej prístup v skupinách Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Správa hosťovskej prístup v Microsoft 365 skupiny](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
 - [Používanie služby SharePoint Online ako riešenia extranetu Business-to-Business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 

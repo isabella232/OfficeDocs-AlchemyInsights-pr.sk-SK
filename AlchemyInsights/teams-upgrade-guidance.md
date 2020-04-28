@@ -11,14 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626327"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908809"
 ---
 # <a name="microsoft-teams-upgrade"></a>Inovácia v programe Microsoft teams
+
+**Dôležité**: môžeme pomôcť opraviť to pre vás pomocou diagnostiky technickej podpory, ale vyzerá to, že nepoužívate nové admin Center. Ak chcete použiť nové admin Center, posuňte prepínač v pravom hornom rohu, ktorý hovorí, že **nové admin Center** na pravej strane. Pomocou nového Admin Center, kliknite na tlačidlo **potrebujete pomoc?** widget, zadajte "tímy upgrade", potom postupujte podľa pokynov na spustenie diagnostického.
 
 Či už ste práve začínate s tímami, ktoré používajú tímy popri Skype for Business alebo sú pripravené na inováciu, chceme zabezpečiť, aby ste mali všetko, čo potrebujete na navigáciu úspešnej cesty do tímov. Pre viac informácií prosím navštívte nižšie uvedené odkazy.
 

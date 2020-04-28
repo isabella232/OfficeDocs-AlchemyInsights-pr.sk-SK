@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 329f8273b287f2b8d137098d29933afa4ce6188f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767552"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912765"
 ---
 # <a name="set-up-information-management-policies"></a>Nastavenie politík správy informácií
 
 1. Ak lokalita SharePoint má podlokality, prejdite na lokalitu najvyššej úrovne.
     
-2. Kliknite na položku **Nastavenie**a potom na položku **Nastavenie lokality**. Ak je lokalita Office 365 skupiny pripojené lokality, kliknite na položku **Nastavenie**, kliknite na položku **obsah lokality**a kliknite na položku **Nastavenie lokality**.
+2. Kliknite na položku **Nastavenie**a potom na položku **Nastavenie lokality**. Ak je lokalita Microsoft 365 skupina-Connected stránky, kliknite na tlačidlo **Nastavenie**, kliknite na tlačidlo **obsah lokality**, a potom kliknite na tlačidlo **Nastavenie lokality**.
     
 3. V časti **Správa kolekcie lokalít**kliknite na položku **funkcie kolekcie lokalít**.
     

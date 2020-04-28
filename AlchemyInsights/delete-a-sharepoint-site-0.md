@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705028"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911595"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Odstránenie lokalít patriacich do skupiny Office 365
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Odstránenie lokalít patriacich do skupiny Microsoft 365
 
-Keď používatelia vytvoria novú tímovú lokalitu z lokality SharePoint Home alebo vytvoríte novú tímovú lokalitu z nového centra spravovania služby SharePoint, automaticky sa vytvorí zodpovedajúca skupina Office 365. Office 365 skupiny prepojené tímové lokality sa vytvoria aj pri vytváraní skupiny Office 365 alebo tím v Microsoft teams. Ak chcete odstrániť lokalitu SharePoint, ktorá patrí do skupiny Office 365, musíte odstrániť samotnú skupinu Office 365. 
+Keď používatelia vytvoria novú tímovú lokalitu z lokality SharePoint Home alebo vytvoríte novú tímovú lokalitu z nového centra spravovania služby SharePoint, automaticky sa vytvorí zodpovedajúca skupina Microsoft 365. Microsoft 365 skupiny prepojené tímové lokality sa vytvoria aj pri vytváraní skupiny Microsoft 365 alebo tím v Microsoft teams. Ak chcete odstrániť lokalitu SharePoint, ktorá patrí do skupiny Microsoft 365, musíte odstrániť samotnú skupinu Microsoft 365. 
   
 1. Prejdite na [stránku skupiny Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).
     

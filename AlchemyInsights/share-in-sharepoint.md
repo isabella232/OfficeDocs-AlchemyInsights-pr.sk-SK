@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742382"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911703"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Ako zdieľať SharePoint Online
 
@@ -24,7 +24,7 @@ Zdieľanie lokality:
   
 1. Otvorte lokalitu vo webovom prehľadávači.
     
-2. Ak lokalita patrí do skupiny Office 365, kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **povolenia lokality**. Kliknite na tlačidlo **pozvať ľudí**, a potom vyberte Pridať členov do skupiny Office 365 alebo zdieľať iba lokality. 
+2. Ak lokalita patrí do skupiny Microsoft 365, kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **povolenia lokality**. Kliknite na tlačidlo **pozvať ľudí**, a potom vyberte Pridať členov do skupiny Microsoft 365 alebo zdieľať iba lokality. 
     
     V prípade komunikačnej lokality kliknite na položku **zdieľať lokalitu** v pravom hornom rohu, zadajte meno osoby a potom vyberte úroveň povolení (čítanie, úprava alebo úplný prístup). 
     

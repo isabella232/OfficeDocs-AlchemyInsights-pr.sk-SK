@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788024"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912273"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Nástroj na vyhľadávanie obsahu na vyhľadanie relevantných informácií
 
-Pomocou nástroja na vyhľadávanie obsahu v centre zabezpečenia & Compliance rýchlo nájsť e-mail v poštových schránkach servera Exchange, dokumenty v lokalitách SharePoint a OneDrive umiestnenia a Instant Messaging konverzácie Skype pre podniky. Nástroj na vyhľadávanie obsahu môžete použiť na vyhľadávanie e-mailov, dokumentov a okamžitých správ konverzácie v Microsoft 365 nástroje na spoluprácu, ako sú Microsoft teams a Office 365 skupiny.
+Pomocou nástroja na vyhľadávanie obsahu v centre zabezpečenia & Compliance rýchlo nájsť e-mail v poštových schránkach servera Exchange, dokumenty v lokalitách SharePoint a OneDrive umiestnenia a Instant Messaging konverzácie Skype pre podniky. Nástroj na vyhľadávanie obsahu môžete použiť na vyhľadávanie e-mailov, dokumentov a okamžitých správ konverzácie v Microsoft 365 nástroje na spoluprácu, ako sú Microsoft teams a Microsoft 365 skupiny.
 
 
 Pred použitím [vyhľadávania obsahu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) z [Centra zabezpečenia & Compliance](https://sip.protection.office.com/homepage), budete chcieť dokončiť konfiguračné nastavenia vrátane [konfigurovať povolenia](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [Nastavenie rýchlosti sťahovania](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) a [Export nastavenia](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
