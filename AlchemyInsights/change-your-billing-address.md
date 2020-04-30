@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198863"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943960"
 ---
 # <a name="change-your-billing-address"></a>Zmena fakturačnej adresy
 
-Váš účet alebo faktúra obsahuje tri adresy. 
+Váš účet alebo faktúra obsahuje tri adresy.
 
-**Zmena adresy platiteľa**
+**Zmena fakturačnej adresy pre spôsob platby**
 
-1. V centre spravovania prejdite na stránku **Fakturačná > [spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** . 
+1. V centre spravovania prejdite na **fakturačnú > [spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Vyberte kreditnú kartu alebo bankový účet, ktorý chcete zmeniť.
+3. Na stránke **Podrobnosti o spôsobe platby** kliknite na položku **Upraviť**.
+4. Aktualizujte fakturačnú adresu a potom kliknite na položku **uložiť > Hotovo**.
 
-2. Vyberte kreditnú kartu alebo bankový účet, ktorý chcete zmeniť. 
+Ďalšie informácie o zmenách adries a upozornení nájdete v téme [Zmena fakturačných adries pre Microsoft 365 pre podniky](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Na stránke **Podrobnosti o spôsobe platby** kliknite na položku **Upraviť**. 
+**Zmena fakturačného konta informácie**
 
-4. Aktualizujte fakturačnú adresu a potom kliknite na položku **uložiť > Hotovo**. 
+1. V centre spravovania prejdite do fakturačných ** [kont](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)>** fakturácie.
+2. Vyberte položku **Upraviť fakturačné údaje účtu**.
+3. Aktualizujte fakturačné údaje konta a potom kliknite na položku **uložiť > Hotovo**.
 
-Ďalšie informácie o zmenách adries a upozornení nájdete v téme [Zmena fakturačných adries pre balík Office 365 pre podniky](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Poznámka**: krajinu alebo oblasť nie je možné zmeniť. Ak je potrebné toto pole zmeniť, musíte si kúpiť nového nájomcu.
