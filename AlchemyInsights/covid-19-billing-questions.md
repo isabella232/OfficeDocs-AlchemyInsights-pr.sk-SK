@@ -1,5 +1,5 @@
 ---
-title: Otázky týkajúce sa fakturácie súvisiace s ochorením COVID-19
+title: Otázky o fakturácii a licencovaní počas COVID-19
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "5110"
 - "1500018"
 - "5113"
-ms.openlocfilehash: 7cf7b019ff95d63ed3570971309380386ec06c74
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+- "9002647"
+- "5091"
+ms.openlocfilehash: 75251e129e71f5f9800aa8a439d09aabb7c07bdd
+ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947718"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43991024"
 ---
-# <a name="covid-19-billing-questions"></a>Otázky týkajúce sa fakturácie súvisiace s ochorením COVID-19
+# <a name="covid-19-billing-and-license-questions"></a>Otázky o fakturácii a licencovaní počas COVID-19
 
 Najnovšie aktualizácie nájdete v našom príspevku na blogu s názvom [Náš záväzok zákazníkom počas krízy COVID-19](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/).  Ak máte konkrétne otázky týkajúce sa fakturácie alebo licencie súvisiace s krízou Covid-19, kliknite na položku **Kontaktovať oddelenie podpory** v dolnej časti tejto stránky.
