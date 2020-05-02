@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724571"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005273"
 ---
-# <a name="inbox-rules"></a>Pravidlá pre doručenú poštu
+# <a name="inbox-rules-in-outlook-desktop"></a>Pravidlá pre doručenú poštu v programe Outlook Desktop
 
-Ďalšie informácie o používaní pravidiel pre doručenú poštu vo vašej poštovej schránke nájdete v téme:
+1. Prejdite na **súbor > spravovať pravidlá & upozornenia** na otvorenie dialógového okna **pravidlá a výstrahy** .
+2. Na karte **pravidlá e-mailu** kliknite na tlačidlo **nové pravidlo**.
+3. Vyberte jednu zo šablón z **kroku 1**. Ak chcete začať od prázdneho pravidla, vyberte **použiť pravidlo pre správy, ktoré dostám alebo použijete pravidlo pre správy, ktoré odosielam**.
+4. V **Krok 2: Upravte popis pravidla**kliknite na všetky podčiarknuté možnosti nastaviť ich. Ak ste napríklad v kroku 1 vybrali **príznak správy od niekoho** , kliknite na položku **ľudia alebo verejná skupina** a vyberte, ktoré správy odosielateľov chcete označiť. potom kliknite na tlačidlo **sledovať v tomto čase** vyberte vlajku a dátum sledovania.
+5. Kliknite na tlačidlo **Ďalej**.
 
-- [Spravovanie e-mailových správ pomocou pravidiel v programe Outlook pre počítač](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Spravovanie správ pomocou pravidiel pre doručenú poštu v programe Outlook na webe](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Môžete tiež spravovať pravidlá pre doručenú poštu v prostredí Exchange Online PowerShell. Ďalšie informácie nájdete v téme [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Zobraziť), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (vytvoriť), [odstrániť-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (odstrániť), [set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (upraviť existujúce), [zakázať-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (zakázať existujúce) a [Povoliť-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (povoliť existujúce).
+Ďalšie informácie o práci s pravidlami pre doručenú poštu nájdete v téme [spravovanie e-mailových správ pomocou pravidiel](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

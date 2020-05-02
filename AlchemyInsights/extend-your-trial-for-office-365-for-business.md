@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702897"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005345"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Rozšírte svoju skúšobnú verziu pre Microsoft 365 pre podniky
 
-Skúšobnú verziu môžete predĺžiť na ďalšie 30-dňové obdobie. Môžete to urobiť len raz.
+Skúšobnú verziu môžete predĺžiť na 30-dňovú lehotu. Potom, čo že váš súd ide do ďalších 30-dňovú [dobu odkladu](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Ak chcete predĺžiť skúšobnú verziu, postupujte podľa týchto krokov:
   
 1. V centre spravovania prejdite na položku **fakturačné** \> [produkty & služby](https://portal.office.com/adminportal/home#/subscriptions).
 
