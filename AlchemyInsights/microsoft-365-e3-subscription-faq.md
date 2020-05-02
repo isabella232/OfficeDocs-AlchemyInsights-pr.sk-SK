@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912059"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943994"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Najčastejšie otázky o predplatnom na Microsoft 365 E3 a spravovaní licencií
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912059"
 - Ak chcete **zrušiť** licencie na plán E3, prejdite na položky **Fakturácia > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**, kliknite na položku **Nastavenia a akcie** a kliknite na položku **Zrušiť predplatné**. Ďalšie informácie nájdete v téme [Zrušenie predplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Ak chcete **aktivovať** predplatné plánu E3, pozrite si tému [Aktivácia predplatného](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Ak chcete **opätovne aktivovať** predplatné plánu E3, pozrite si tému [Opätovná aktivácia predplatného](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Ak chcete predĺžiť skúšobnú verziu plánu E3, pozrite si tému [Predĺženie skúšobnej verzie](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Ak chcete **predĺžiť** skúšobnú verziu plánu E3, pozrite si tému [Predĺženie skúšobnej verzie](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Ďalšie informácie nájdete v téme [Spravovanie licencií na predplatné](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
