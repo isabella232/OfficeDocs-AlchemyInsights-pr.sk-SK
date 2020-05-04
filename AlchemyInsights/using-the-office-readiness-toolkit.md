@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 869e00dd187e8bd2bf9c37c8e4574902db3cd6e8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f6ead7c1f0e146056c008226c5689b912fd1fdf5
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766400"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010701"
 ---
-# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="3063a-102">Používanie súpravy Office pripravenosť Toolkit</span><span class="sxs-lookup"><span data-stu-id="3063a-102">Using the Office Readiness Toolkit</span></span>
+# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="97351-102">Používanie súpravy Office pripravenosť Toolkit</span><span class="sxs-lookup"><span data-stu-id="97351-102">Using the Office Readiness Toolkit</span></span>
 
-<span data-ttu-id="3063a-103">Informácie o používaní balíka Office pripravenosť Toolkit, nájdete [v časti Používanie nástrojov pripravenosti na posúdenie kompatibility aplikácií pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span><span class="sxs-lookup"><span data-stu-id="3063a-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span></span>
+<span data-ttu-id="97351-103">Informácie o používaní balíka Office pripravenosť Toolkit nájdete v časti [použitie príručky pripravenosti na posúdenie kompatibility aplikácií pre aplikácie Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span><span class="sxs-lookup"><span data-stu-id="97351-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).</span></span>
 
-<span data-ttu-id="3063a-104">Ak máte spätnú väzbu alebo otázky týkajúce sa pripravenosti Toolkit, napíšte nám na ReadyForOffice@microsoft.com.</span><span class="sxs-lookup"><span data-stu-id="3063a-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>
+<span data-ttu-id="97351-104">Ak máte spätnú väzbu alebo otázky týkajúce sa pripravenosti Toolkit, napíšte nám na ReadyForOffice@microsoft.com.</span><span class="sxs-lookup"><span data-stu-id="97351-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>
