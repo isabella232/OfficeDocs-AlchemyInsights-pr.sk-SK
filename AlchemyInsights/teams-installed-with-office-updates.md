@@ -13,22 +13,22 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737667"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010854"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams nainštalovaný s aktualizáciou balíka Office
 
-Microsoft teams je súčasťou ***nových inštalácií*** Microsoft 365 aplikácií pre podniky, Microsoft 365 aplikácie pre podniky a Office for Mac. Ďalšie informácie nájdete v téme [Kedy budú Microsoft teams začať byť súčasťou nových inštalácií balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams je súčasťou ***nových inštalácií*** Microsoft 365 aplikácií pre podniky, Microsoft 365 aplikácie pre podniky a Office for Mac. Ďalšie informácie nájdete v téme [Kedy budú Microsoft teams začať byť súčasťou nových inštalácií balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Okrem toho Počnúc verziou 1906 v mesačnom kanáli, tímy budú postupne pridané do ***existujúcich inštalácií*** Microsoft 365 aplikácií pre podniky (a Microsoft 365 aplikácií pre podniky) na zariadeniach so systémom Windows pri aktualizácii existujúcej inštalácie na najnovšiu verziu. Ďalšie informácie nájdete v téme [čo sú existujúce inštalácie balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Okrem toho Počnúc verziou 1906 v mesačnom kanáli, tímy budú postupne pridané do ***existujúcich inštalácií*** Microsoft 365 aplikácií pre podniky (a Microsoft 365 aplikácií pre podniky) na zariadeniach so systémom Windows pri aktualizácii existujúcej inštalácie na najnovšiu verziu. Ďalšie informácie nájdete v téme [čo sú existujúce inštalácie balíka Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 **Poznámka:** Ak nechcete čakať na tento plán zavádzania, môžete nasadiť tímy ako samostatný pre svojich používateľov podľa [týchto pokynov](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), alebo môžete mať vaši používatelia nainštalovať tímy pre seba https://teams.microsoft.com/downloads.
 
-Ak vaša organizácia nie je pripravená nasadiť tímy, môžete ***vylúčiť tímy*** z [nových](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) alebo [existujúcich](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) inštalácií balíka Office. Ak chcete, aby boli tímy nainštalované, ale nechcete, aby sa tímy automaticky nezačali po jeho nainštalovaní, pozrite si, ako [zabrániť automatickému spusteniu programu Microsoft teams po inštalácii](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Ak vaša organizácia nie je pripravená nasadiť tímy, môžete ***vylúčiť tímy*** z [nových](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) alebo [existujúcich](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) inštalácií balíka Office. Ak chcete, aby boli tímy nainštalované, ale nechcete, aby sa tímy automaticky nezačali po jeho nainštalovaní, pozrite si, ako [zabrániť automatickému spusteniu programu Microsoft teams po inštalácii](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
 Ak chcete ***odinštalovať tímy*** zo zariadenia so systémom Windows, pozrite si [Odinštalovanie tímov Microsoft teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Vyčistiť Microsoft teams z viacerých cieľových strojov alebo používateľov, nájdete [Microsoft teams nasadenie Cleanup](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 

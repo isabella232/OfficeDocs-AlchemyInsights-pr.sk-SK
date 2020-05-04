@@ -1,5 +1,5 @@
 ---
-title: Aktivácia balíka Office pomocou zariadenia založeného na licenciách
+title: Aktivácia balíka Office pomocou licencií založených na zariadení
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d32106ac8f532306ad57c0d87dc294f50ea18fb3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0e5b5c698e588dad4e1759422ab7b9b1f24737ad
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708618"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010341"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Aktivácia balíka Office pomocou zariadenia založeného na licenciách
+# <a name="activating-office-using-device-based-licensing"></a>Aktivácia balíka Office pomocou licencií založených na zariadení
 
-Office [zariadenia založené aktivácie](https://aka.ms/officedba) pre zákazníkov školstva USA je teraz zastarané. Odporúčame organizáciám plánovať pre nové aplikácie Microsoft 365 pre podnikové zariadenia založené licencovanie pre vzdelávanie.
+> [!NOTE]
+> Office [zariadenia založené aktivácie](https://aka.ms/officedba) pre zákazníkov školstva USA je teraz zastarané. Odporúčame organizáciám plánovať nové Microsoft 365 aplikácie pre vzdelávanie (Device) licenciu pre vzdelávanie zákazníkov.
 
-Ak chcete aktivovať balík Office pomocou zariadení založených na licenciách, musíte mať Microsoft 365 aplikácie pre podnikové vzdelávanie (zariadenie) Add-on licenciu, ktorá je k dispozícii len pre vzdelávanie zákazníkov a je k dispozícii iba prostredníctvom registrácie pre vzdelávacie riešenia (EES). Prečítajte si [požiadavky na používanie zariadení založených na licenciách pre Microsoft 365 aplikácie pre podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-office-365-proplus).
+Ak chcete aktivovať balík Office pomocou licencií založených na zariadení, musíte mať licenciu na doplnok aplikácie Microsoft 365 pre vzdelávanie (Device), ktorá je k dispozícii len pre zákazníkov v oblasti vzdelávania a je k dispozícii iba prostredníctvom registrácie pre vzdelávacie riešenia (EES). Prečítajte si [požiadavky na používanie zariadení založených na licenciách pre Microsoft 365 aplikácie pre podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
 
-**Poznámka**: Office [zariadenia založené aktivácie](https://aka.ms/officedba) pre zákazníkov školstva USA je teraz zastarané. Odporúčame organizáciám, aby plán pre nové **Office 365 ProPlus zariadenia založené na licencovanie** pre vzdelávanie.
 
 Podrobné informácie o inštalačnom nastavení nájdete v časti:
 
-- [Kroky na konfiguráciu zariadenia-založené licencie pre Microsoft 365 aplikácie pre podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-office-365-proplus)
+- [Kroky na konfiguráciu zariadenia-založené licencie pre Microsoft 365 aplikácie pre podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Správa licencií pre zariadenia](https://docs.microsoft.com/Office365/Admin/misc/manage-licenses-for-devices)
 
-Pre troublehsooting pokyny nájdete [Riešenie problémov so zariadením na základe licencií pre Microsoft 365 aplikácie pre podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-office-365-proplus).
+Pokyny na riešenie problémov nájdete v téme [Riešenie problémov s licenciami založenými na zariadení pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
