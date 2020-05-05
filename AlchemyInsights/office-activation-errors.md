@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713337"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010809"
 ---
 # <a name="office-activation-errors"></a>Chyby pri aktivácii balíka Office
 
-1. V okne **Ovládací panel > Programy a súčasti** vyhľadajte výraz **Office**. Mala by sa zobraziť položka **Microsoft Office 365 ProPlus** alebo **Microsoft Office 365 Business**. Ak sa v zozname zobrazí viac verzií balíka Office, odinštalujte verziu, ktorú nepoužívate. Ak odinštalovanie pomocou ovládacieho panela nie je úspešné, použite nástroj Support and Recovery Assistant (SaRA) na [odinštalovanie](https://aka.ms/SARA-OfficeUninstall-Alchemy) verzie, ktorú nepoužívate. Potom znova spustite balík Office a pri zobrazení výzvy sa prihláste pomocou pracovného alebo školského konta. 
+1. V okne **Ovládací panel > Programy a súčasti** vyhľadajte výraz **Office**. Mala by sa zobraziť možnosť **Microsoft 365 pre veľké organizácie** alebo **Microsoft 365 pre podnikateľov**. Ak sa v zozname zobrazí viac verzií balíka Office, odinštalujte verziu, ktorú nepoužívate. Ak odinštalovanie pomocou ovládacieho panela nie je úspešné, použite nástroj Support and Recovery Assistant (SaRA) na [odinštalovanie](https://aka.ms/SARA-OfficeUninstall-Alchemy) verzie, ktorú nepoužívate. Potom znova spustite balík Office a pri zobrazení výzvy sa prihláste pomocou pracovného alebo školského konta. 
 
 2. Ak je Office stále bez platnej licencie, vráťte sa do okna **Ovládací panel > Programy a súčasti**, kliknite pravým tlačidlom myši na zostávajúcu inštaláciu balíka Office, kliknite na položku **Upraviť** (alebo **Zmeniť**) a potom na položku **Online oprava**. Online oprava môže chvíľu trvať. Potom znova spustite balík Office a pri zobrazení výzvy sa prihláste pomocou pracovného alebo školského konta. 
 

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218343"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010161"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Nezobrazuje sa možnosť inštalovať Office, Visio alebo Project
 
-Ak chcete nainštalovať klientske aplikácie balíka Office, uistite sa, že máte predplatné služieb Office 365 alebo Microsoft 365, ktoré [zahŕňa klientske aplikácie balíka Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), napr. Office 365 Business Premium, Office 365 Business alebo Office 365 ProPlus.
+Ak chcete nainštalovať klientske aplikácie balíka Office, uistite sa, že máte predplatné služieb Office 365 alebo Microsoft 365, ktoré [zahŕňa klientske aplikácie balíka Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), napríklad Microsoft 365 Business Premium, Aplikácie Microsoft 365 pre podnikateľov alebo Aplikácie Microsoft 365 pre veľké organizácie.
 
 **Poznámka**: [Office pre podnikateľov](https://products.office.com/home-and-business) je produkt balíka [Office pre domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a nie je súčasťou podnikového predplatného. Project Online Essentials nezahŕňa počítačovú verziu Projectu, preto inštalácia nie je potrebná. Používatelia s plánom Visio Plan 1 majú prístup k Visiu na webe, keďže tento plán nezahŕňa počítačovú aplikáciu Visio. Počítačové aplikácie Project a Visio nie sú k dispozícii v Macu
 
