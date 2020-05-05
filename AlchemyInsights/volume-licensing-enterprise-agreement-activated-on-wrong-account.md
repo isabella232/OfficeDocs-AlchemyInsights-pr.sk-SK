@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716223"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021549"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Multilicenčné Enterprise dohoda aktivovaná na nesprávnom účte
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Multilicenčný Enterprise zmluva aktivovaná na nesprávnom účte alebo prenos licencií z jedného účtu do druhého
 
-Ak zistíte, že predplatné zakúpené prostredníctvom multilicenčnej podnikovej zmluvy bolo aktivované na nesprávnom nájomcovi, použite možnosť "Zavolaj vám" a porozprávajte sa s inžinierom technickej podpory.
+Ak zistíte, že predplatné zakúpené prostredníctvom **multilicenčnej podnikovej zmluvy** bolo aktivované na **nesprávnom nájomníkovi**, alebo chcete **preniesť licencie** z jedného nájomcu do druhého, obráťte sa na [centrum služieb multilicencií spoločnosti Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).
