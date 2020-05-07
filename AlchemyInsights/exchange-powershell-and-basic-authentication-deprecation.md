@@ -11,13 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: 5fed1e7c8e0f14cd18bede5ffd07b8be4b7f6f06
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 24d59860732b42e8d62da8c1a8c37f2018a0d126
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102798"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015704"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>Exchange PowerShell a ukončenie základného overovania
 
 Najnovšie informácie o tom, ako sa pripojiť do prostredia Exchange Online PowerShell bez použitia základného overovania, [nájdete tu](https://aka.ms/psbasicauth).
+
+Nezabúdajte, že v klientskom počítači musí byť stále povolené základné overenie.
+Nový modul PowerShell v2 využíva Modern Auth na vytvorenie pripojenia, ktoré umožní všetky rutiny typu V2 Cmdlets typu REST. Okrem rutín typu V2 cmdlets vám umožňuje aj prístup k rutinám typu Remote PowerShell (RPS) Cmdletsm ktoré vyžadujú, aby bola spustená relácia Remote PowerShellu. Na vytvorenie relácie RPS na zariadení Windows sa vyžaduje, aby bola povolená možnosť WinRM BasicAuth na klientskom zariadení, aj keď modul na overenie služby používa mechanizmus Modern Auth. Kanál WinRM Basic Auth sa používa na prenos tokenov Modern Auth. Ak je WinRM Basic Auth v klientskom zariadení vypnuté, nové rutiny typu V2 cmdlet budú fungovať aj naďalej (staršie rutín typu RPS cmdlet však nebudú).

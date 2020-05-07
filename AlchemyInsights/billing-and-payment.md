@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417796"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061794"
 ---
 # <a name="billing-and-payment"></a>Fakturácia a platba
 
@@ -34,13 +34,13 @@ Ak platíte kreditnou kartou alebo bankovým účtom, spôsob platby priradený 
 
 Ak ste pridali novú kartu a stále dostávam oznámenie o poklese na starej kreditnej karte, možno budete musieť priradiť túto novú kartu k odberu.
 
-1. Prejdite do **fakturačných** > [produktov & služieb](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Prejdite na **fakturáciu** > **[svojich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Vyberte predplatné, ktoré chcete zaplatiť s novou kartou alebo bankovým účtom. V časti **Fakturácia** kliknite na položku **Upraviť**vedľa spôsobu platby.
+2. Vyberte predplatné, za ktoré chcete platiť pomocou novej karty alebo bankového účtu. V časti **Fakturácia** vedľa spôsobu platby kliknite na položku **Upraviť**.
 
-3. Kliknite na tlačidlo **zmeniť** vedľa aktuálneho spôsobu platby.
+3. Kliknite na položku **Zmeniť** vedľa aktuálneho spôsobu úhrady.
 
-4. V rozbaľovacej ponuke vyberte alternatívny spôsob platby alebo pridajte nový spôsob platby.
+4. V rozbaľovacej ponuke vyberte iný spôsob úhrady alebo pridajte nový.
 
 Pozrite si [Pridanie, aktualizácia alebo odstránenie spôsobov platby](https://go.microsoft.com/fwlink/?linkid=2118133).
 

@@ -1,5 +1,5 @@
 ---
-title: Produkty & služby
+title: Vaše produkty
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758805"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062876"
 ---
-# <a name="products--services"></a>Produkty & služby
+# <a name="your-products"></a>Vaše produkty
 
-Predplatné, ktoré vlastní vaša organizácia, nájdete na stránke **fakturačných** > [**produktov & služby**](https://go.microsoft.com/fwlink/p/?linkid=842054) . Tu sú niektoré z vrcholov tejto stránky spolu s odkazmi pre viac informácií o každej funkcii:
+Predplatné, ktoré vlastní vaša organizácia, nájdete na stránke **Fakturácia** > **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Tu sú niektoré z vrcholov tejto stránky spolu s odkazmi pre viac informácií o každej funkcii:
 
 1. Spravujte počet licencií, ktoré boli zakúpené pre každé predplatné spolu s tým, koľko sa používa.  **Poznámka**: licencie, ktoré sa nepoužívajú (nie sú priradené používateľovi) sú stále účtované.  Ak chcete účtovať nevyužité licencie, znížte počet zakúpených licencií. Informácie o pridávaní alebo odstraňovaní licencií z predplatného nájdete [v téme ako pridať alebo znížiť licencie](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

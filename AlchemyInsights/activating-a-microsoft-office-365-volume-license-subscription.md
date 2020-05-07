@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708774"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062047"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivácia predplatného multilicencie spoločnosti Microsoft
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708774"
 
 5. Prihláste sa do Microsoft 365 admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) pomocou existujúcich poverení správcu. Po úspešnom prihlásení dostanete ďalší e-mail potvrdzujúci váš nákup.
 
-6. Po prihlásení môžete prejsť na stránku **Fakturácia** \> [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a overiť, či sú zakúpené odbery aktivované v rámci vášho nájomníka. (Môžete tiež vybrať kartu **predplatné** v VLSC Zobraziť podrobnosti overenie, že vaše predplatné bolo uložené.)
+6. Po prihlásení môžete prejsť na stránku **Fakturácia** \> [vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) a overiť, či sú zakúpené odbery aktivované v rámci vášho nájomníka. (Môžete tiež vybrať kartu **predplatné** v VLSC Zobraziť podrobnosti overenie, že vaše predplatné bolo uložené.)
