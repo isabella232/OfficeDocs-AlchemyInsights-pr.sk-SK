@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762332"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043052"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search v Bingu a Aplikácie Microsoft 365 pre veľké organizácie
 
-Počnúc verziou 2002 Aplikácií Microsoft 365 pre veľké organizácie sa bude inštalovať rozšírenie Microsoft Search v Bingu, vďaka čomu bude Bing predvolený vyhľadávací nástroj pre webový prehliadač Google Chrome len v zariadeniach nachádzajúcich sa na určitých miestach.
+K Aplikáciám Microsoft 365 pre veľké organizácie (predtým Office 365 ProPlus) je od verzie 2005 k dispozícii ***voliteľné*** rozšírenie Microsoft Search v Bingu pre Google Chrome. Toto rozšírenie je k dispozícii v niektorých umiestneniach pre zariadenia s Windowsom, ktoré sú pripojené k doméne. Ak sa rozhodnete toto rozšírenie nasadiť, Bing sa nastaví ako predvolený vyhľadávací nástroj.
 
-**Ak rozšírenie nechcete nainštalovať, [postupujte podľa týchto krokov](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Ak chcete rozšírenie nainštalovať, musíte s ním ***vyjadriť explicitný súhlas*** tak, že nakonfigurujete v sekcii Microsoft Search v centre spravovania služby Microsoft 365 potrebné nastavenie.
 
-Aj po inštalácii rozšírenia môžu používatelia jednoducho prestať používať Bing ako predvolený vyhľadávací nástroj, a to pomocou jednoduchého prepínača [zapnutia/vypnutia](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome). Prípadne môžete [rozšírenie odstrániť](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) z viacerých zariadení vo vašej organizácii.
+Nasadenie tohto ***voliteľného*** rozšírenia je tiež podmienené službou na pozadí, ktorá je od verzie 2005 súčasťou Aplikácií Microsoft 365 pre veľké organizácie. Ak služba na pozadí nie je nainštalovaná, rozšírenie sa nenainštaluje.
 
-[Tu](https://docs.microsoft.com/deployoffice/microsoft-search-bing) nájdete podrobný článok Pomocníka, ktorý vám pomôže lepšie porozumieť tejto zmene.
+Aj po inštalácii rozšírenia môžu používatelia jednoducho prestať používať Bing ako predvolený vyhľadávací nástroj. Stačí použiť prepínač na zapnutie alebo vypnutie.
+
+Ďalšie informácie o nasadení tohto ***voliteľného*** rozšírenia získate v téme [Microsoft Search v Bingu a Aplikácie Microsoft 365 pre veľké organizácie](https://docs.microsoft.com/deployoffice/microsoft-search-bing).

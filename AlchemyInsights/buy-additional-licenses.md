@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712186"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061722"
 ---
 # <a name="buy-additional-licenses"></a>Kúpiť ďalšie licencie
 
-1. V centre spravovania prejdite na stránku **Fakturácia** \> [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V centre spravovania prejdite na stránku **Fakturácia** \> **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Vyhľadajte predplatné, do ktorého chcete pridať licencie, a potom vyberte položku **Pridať alebo odstrániť licencie**.
 
@@ -34,6 +34,6 @@ ms.locfileid: "43712186"
 
 Ďalšie informácie nájdete v téme [zakúpenie licencií pre predplatné Microsoft 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
-**Ďalšie zdroje**
+**Ďalšie zdroje informácií**
 
 - [Priradenie licencií používateľom v Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
