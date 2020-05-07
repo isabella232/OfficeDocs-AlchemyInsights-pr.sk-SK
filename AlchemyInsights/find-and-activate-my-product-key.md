@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716151"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062479"
 ---
 # <a name="find-and-activate-my-product-key"></a>Vyhľadanie a aktivácia kódu Product Key
 
@@ -32,7 +32,7 @@ Ak ste zakúpili Microsoft 365 Business Premium Standard z maloobchodnej predajn
 
 **Poznámka**: Ak chcete použiť kód Product Key na predĺženie dátumu exspirácie alebo pridanie licencie do existujúceho predplatného Microsoft 365 Business Premium Standard, potrebujete nový a nepoužitý kľúč pre rovnaké predplatné služby Microsoft 365.  Zadanie pôvodného kódu Product Key spoločnosti Microsoft 365 nebude fungovať, pretože kľúč, ktorý už bol uplatnený, nemožno znova použiť.
 
-1. V centre spravovania prejdite na stránku **Fakturácia** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V centre spravovania prejdite na stránku **Fakturácia** > **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Vyhľadajte predplatné, na ktoré chcete predĺžiť dátum vypršania platnosti alebo pridajte licencie.  Kliknite na položku [rozšíriť dátum ukončenia](https://go.microsoft.com/fwlink/p/?linkid=842054) alebo [pridať ďalšie licencie](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
