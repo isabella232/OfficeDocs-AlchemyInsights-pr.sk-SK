@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703910"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062551"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Úprava fakturačného profilu pre aplikácie
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Zmena fakturačného profilu v aplikáciách
 
-1. Prejdite na stránku **Fakturácia** > [produktov & služby](https://go.microsoft.com/fwlink/p/?linkid=842054) a potom vyberte kartu **aplikácie** .
+1. Prejdite na stránku **Fakturácia** > **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** a potom vyberte kartu **aplikácie** .
 
 2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703910"
 
 ## <a name="edit-billing-profiles"></a>Úprava fakturačných profilov
 
-1. Prejdite na stránku **Fakturácia** > [účtov & platby](https://go.microsoft.com/fwlink/p/?linkid=848039) a potom vyberte položku **profily fakturácie**.
+1. Prejdite na stránku **Fakturácia** > **[účtov & platby](https://go.microsoft.com/fwlink/p/?linkid=848039)** a potom vyberte položku **profily fakturácie**.
 
 2. Vyberte Fakturačný profil zo zoznamu, ktorý chcete upraviť.
