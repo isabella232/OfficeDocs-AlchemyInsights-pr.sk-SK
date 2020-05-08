@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: cd3bb39b4a105a1391a373dfed7c2c247a980673
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286401"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064064"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Bežné problémy a rozlíšenia pomocou programu OneNote
 
@@ -24,7 +24,7 @@ Tu sú niektoré často požadované témy programu OneNote:
 
 - [Riešenie problémov s synchronizáciou](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -Ak chcete riešiť najbežnejšie problémy súvisiace s programom OneNote Sync, použite kroky v téme [Oprava problémov, keď nemôžete synchronizovať OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Používanie [programu OneNote v tímoch](https://support.microsoft.com/en-us/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Poznámka**: v súčasnosti je program OneNote v tímoch určený iba na čítanie pre komerčných a vzdelávacích nájomníkov. Ak chcete upravovať, použite OneNote pre web alebo počítačovú aplikáciu OneNote.
+- Používanie [programu OneNote v tímoch](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Poznámka**: v súčasnosti je program OneNote v tímoch určený iba na čítanie pre komerčných a vzdelávacích nájomníkov. Ak chcete upravovať, použite OneNote pre web alebo počítačovú aplikáciu OneNote.
 
 - [Použitie poznámkového bloku programu OneNote v tímoch](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) odpovede na otázky týkajúce sa nastavenia poznámkového bloku triedy v tímoch.
 
