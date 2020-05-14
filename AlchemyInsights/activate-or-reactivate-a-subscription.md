@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062119"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivácia alebo opätovná aktivácia predplatného
@@ -33,7 +33,7 @@ ms.locfileid: "44062119"
 
 Ak uplynie platnosť predplatného, spoločnosť Microsoft ju zakázala alebo ste ju zrušili v strede obdobia predplatného, môžete ju znova aktivovať v centre spravovania.
   
-1. Microsoft 365 admin Center, prejdite na stránku **Fakturácia** > [vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Microsoft 365 admin Center, prejdite na stránku **Fakturácia**  >  [vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Vyberte predplatné, ktoré chcete znova aktivovať, a potom vyberte položku **znova aktivovať**. Ak sa položka **Znovu aktivovať** nezobrazuje ako dostupná akcia, [obráťte sa na oddelenie technickej podpory](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), kde získate pomoc pri opätovnej aktivácii predplatného.
 
