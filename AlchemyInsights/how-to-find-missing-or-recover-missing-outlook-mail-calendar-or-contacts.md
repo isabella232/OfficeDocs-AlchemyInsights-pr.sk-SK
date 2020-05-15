@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720711"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235312"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Ako nájsť a obnoviť chýbajúce správy, kontakty alebo položky kalendára v programe Outlook
 
-- Môžete použiť [mám problémy s odosielaním, prijímaním alebo vyhľadávaním e-mailových správ nástroj](https://aka.ms/SaRA-OutlookSendReceive) na postihnutého stroja. Tento nástroj skontroluje niekoľko problémov a navrhne možné riešenia.
+1. V programe Outlook prejdite do zoznamu priečinkov e-mailov a potom vyberte položku **Odstránené položky**. **Dôležité**: Ak sa priečinok **Odstránené položky** nezobrazuje, ale namiesto toho sa zobrazí priečinok **Kôš** , vaše konto nepodporuje obnovenie položky, ktorá sa už nenachádza v priečinku **Odstránené položky** .
 
-- [Určiť, či bolo konto zneužité](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ak je ohrozená, postupujte podľa krokov v [reakcii na ohrozená e-mailový účet.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. V ponuke **domov** kliknite na položku **obnoviť odstránené položky zo servera**. **Dôležité**: Ak v ponuke nie je príkaz **obnoviť odstránené položky zo servera** , vaše konto nepodporuje obnovenie položky, ktorá už nie je v priečinku **Odstránené položky** .
 
-- [Vyhľadanie správy alebo položky pomocou okamžitého vyhľadávania](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Vyberte položky, ktoré chcete obnoviť, kliknite na položku **Obnoviť vybraté položky**a potom kliknite na tlačidlo **OK**.
 
-- [Obnovenie odstránených položiek v programe Outlook pre systém Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Kde sa regenerované položky idú?** Keď obnovíte položky z priečinka Obnoviteľné položky, premiestnia sa do priečinka **Odstránené položky** . Po obnovení položky ho môžete nájsť v priečinku **Odstránené položky** a potom ho môžete premiestniť do iného priečinka.
+
+Môžete tiež použiť [mám problémy s odosielaním, prijímaním alebo vyhľadávaním e-mailových správ nástroj](https://aka.ms/SaRA-OutlookSendReceive) **na postihnutého stroja**. Tento nástroj skontroluje niekoľko problémov a navrhne možné riešenia.
