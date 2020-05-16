@@ -1,5 +1,5 @@
 ---
-title: Tam je problém s schránky
+title: Vyskytol sa problém so schránkou
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045544"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263892"
 ---
-# <a name="disable-excel-live-preview"></a>Zakázať Excel živý náhľad
+# <a name="resolving-excel-clipboard-error"></a>Riešenie chyby schránky programu Excel
 
-Ak sa zobrazí chybové hlásenie v programe Excel, ktorý hovorí: "tam je problém s schránky, ale stále môžete vložiť svoj obsah do tohto zošita", skúste vypnúť živej ukážky, postupujte takto:
+Ak sa zobrazí chyba v programe Excel, ktorý hovorí: "Vyskytol sa problém so schránkou, ale stále môžete prilepiť obsah v tomto zošite," skúste vypnúť funkciu Live Preview pomocou nasledujúcich krokov:
 
-1. V programe Excel, kliknite na **súbor** > **Možnosti**.
-3. V **Program Excel-možnosti** dialógové okno, vyberte položku **Všeobecné**.
-4. Podľa **možnosti používateľského rozhrania**, zrušte začiarknutie políčka **Povoliť živú ukážku**.
+1. V programe Excel kliknite **File**na položku  >  **Možnosti**súboru.
+3. V **Možnosti programu Excel** dialógové okno, vyberte **Všeobecné**.
+4. V časti **možnosti používateľského rozhrania**zrušte začiarknutie políčka **Povoliť živý náhľad**.
 5. Kliknite na tlačidlo **OK**.
 6. Reštartujte program Excel.
