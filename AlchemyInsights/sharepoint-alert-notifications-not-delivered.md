@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742062"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343082"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Upozornenia na upozornenia služby SharePoint neboli dodané
 
@@ -33,15 +33,6 @@ Najčastejšie otázky týkajúce sa upozornení:
 
 - Nie je možné odosielať upozornenia do distribučnej skupiny, podporujú sa iba skupiny zabezpečenia a služby O365.
 - Nemôžete prispôsobiť upozornenia e-mailové šablóny; na dosiahnutie týchto cieľov je potrebné použiť pracovný postup Microsoft FLOW alebo SharePoint Designer.
-
-Ďalšie informácie:
-
-- **Nastavenie výstrahy**: Ďalšie informácie o nastavení upozornení nájdete [v téme Vytvorenie upozornenia na získanie upozornenia pri zmene súboru alebo priečinka v službe SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Riešenie problémov s upozorneniami**: Ďalšie informácie o upozorneniach na riešenie problémov nájdete v téme používatelia nedostali upozornenia na upozornenia [služby SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Pokročilé politiky upozornenia na dodržiavanie pravidiel služby O365**: Ďalšie informácie o nastavení týchto upozornení nájdete v téme [politiky upozornení súladu](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Denníky auditu služby SharePoint a OneDrive**: Ďalšie informácie o možnostiach získania týchto udalostí nájdete v téme [vyhľadávanie v denníku pre audit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Upozornenia odoslané pomocou rozšírenej ochrany pred hrozbami**: Pozrite si [ATP pre SharePoint a OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Upozornenia odoslané politikami na predchádzanie strate údajov**: Pozrite si [oznámenia e-mailom pre politiky DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Súvisiace témy
 
