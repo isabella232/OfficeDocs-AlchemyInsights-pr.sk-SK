@@ -14,13 +14,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: 68a0a0de5e90a60bf95cce73cfa0b2881169ee52
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc5827975eff10a119281541622224d0e37f08a7
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711970"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373014"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="4964d-102">Chyba politiky pri zdieľaní kalendára</span><span class="sxs-lookup"><span data-stu-id="4964d-102">Policy error when sharing a calendar</span></span>
+# <a name="policy-error-when-sharing-a-calendar"></a><span data-ttu-id="ce946-102">Chyba politiky pri zdieľaní kalendára</span><span class="sxs-lookup"><span data-stu-id="ce946-102">Policy error when sharing a calendar</span></span>
 
-<span data-ttu-id="4964d-103">Ak sa pokúšate zdieľať svoj kalendár a zobrazí sa chyba, "politika neumožňuje udeliť povolenia na tejto úrovni jednému alebo viac príjemcom", pozrite si [túto tému](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span><span class="sxs-lookup"><span data-stu-id="4964d-103">If you're trying to share your calendar, and you receive the error, "Policy does not allow granting permissions at this level to one or more of the recipient(s)", see [this topic](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).</span></span>
+1. <span data-ttu-id="ce946-103">Vykonajte jeden z nasledujúcich, ako je vhodné pre vašu situáciu:</span><span class="sxs-lookup"><span data-stu-id="ce946-103">Do one of the following, as appropriate for your situation:</span></span>
+    - <span data-ttu-id="ce946-104">Pripojenie k službe Exchange Online pomocou vzdialeného PowerShell.</span><span class="sxs-lookup"><span data-stu-id="ce946-104">Connect to Exchange Online by using Remote PowerShell.</span></span> <span data-ttu-id="ce946-105">Ďalšie informácie nájdete v téme [pripojenie k službe Exchange Online pomocou vzdialeného PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="ce946-105">For more information, see [Connect to Exchange Online using Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).</span></span>
+    - <span data-ttu-id="ce946-106">Na lokálnom serveri, Otvorte prostredie Exchange Management Shell.</span><span class="sxs-lookup"><span data-stu-id="ce946-106">On the on-premises server, open the Exchange Management Shell.</span></span>
+2. <span data-ttu-id="ce946-107">Určenie politiky zdieľania priradenej používateľovi.</span><span class="sxs-lookup"><span data-stu-id="ce946-107">Determine the sharing policy that's assigned to the user.</span></span> <span data-ttu-id="ce946-108">Vykonáte to spustením nasledujúceho príkazu a poznačte si politiku vrátil:</span><span class="sxs-lookup"><span data-stu-id="ce946-108">To do this, run the following command and note the policy returned:</span></span>
+
+    `
+    Get-Mailbox User1 | fl *sharing*
+    `
+
+3. <span data-ttu-id="ce946-109">Aktualizujte politiku zdieľania pre používateľa.</span><span class="sxs-lookup"><span data-stu-id="ce946-109">Update the sharing policy for the user.</span></span> <span data-ttu-id="ce946-110">Postupujte takto:</span><span class="sxs-lookup"><span data-stu-id="ce946-110">To do this, follow these steps:</span></span>
+    - <span data-ttu-id="ce946-111">Otvorte Exchange Admin Center.</span><span class="sxs-lookup"><span data-stu-id="ce946-111">Open the Exchange admin center.</span></span>
+    - <span data-ttu-id="ce946-112">Kliknite na položku **organizácia**a potom dvakrát kliknite na politiku priradenú používateľovi v časti **individuálne zdieľanie**.</span><span class="sxs-lookup"><span data-stu-id="ce946-112">Click **Organization**, and then double-click the policy that's assigned to the user under **Individual Sharing**.</span></span> <span data-ttu-id="ce946-113">Toto je politika, ktorá bola vrátená v kroku 2.</span><span class="sxs-lookup"><span data-stu-id="ce946-113">This is the policy that was returned in step 2.</span></span>
+    - <span data-ttu-id="ce946-114">Na stránke pravidlo zdieľania vyberte úroveň zdieľania kalendára, ktorú chcete povoliť v časti **určenie informácií, ktoré chcete zdieľať**; kliknite na tlačidlo **Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="ce946-114">On the Sharing Rule page, select the calendar sharing level that you want to allow under **Specify what information you want to share**; click **Save**.</span></span>
+
+<span data-ttu-id="ce946-115">Ďalšie informácie nájdete: ["politika neumožňuje udelenie povolenia na tejto úrovni jeden alebo viac príjemcov" chyba, keď používateľ pokúsi zdieľať kalendár](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).</span><span class="sxs-lookup"><span data-stu-id="ce946-115">For more information see: ["Policy does not allow granting permissions at this level to one or more of the recipient(s)" error when user tries to share calendar](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).</span></span>
