@@ -14,13 +14,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: 68a0a0de5e90a60bf95cce73cfa0b2881169ee52
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc5827975eff10a119281541622224d0e37f08a7
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711970"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373014"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Chyba politiky pri zdieľaní kalendára
 
-Ak sa pokúšate zdieľať svoj kalendár a zobrazí sa chyba, "politika neumožňuje udeliť povolenia na tejto úrovni jednému alebo viac príjemcom", pozrite si [túto tému](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).
+1. Vykonajte jeden z nasledujúcich, ako je vhodné pre vašu situáciu:
+    - Pripojenie k službe Exchange Online pomocou vzdialeného PowerShell. Ďalšie informácie nájdete v téme [pripojenie k službe Exchange Online pomocou vzdialeného PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - Na lokálnom serveri, Otvorte prostredie Exchange Management Shell.
+2. Určenie politiky zdieľania priradenej používateľovi. Vykonáte to spustením nasledujúceho príkazu a poznačte si politiku vrátil:
+
+    `
+    Get-Mailbox User1 | fl *sharing*
+    `
+
+3. Aktualizujte politiku zdieľania pre používateľa. Postupujte takto:
+    - Otvorte Exchange Admin Center.
+    - Kliknite na položku **organizácia**a potom dvakrát kliknite na politiku priradenú používateľovi v časti **individuálne zdieľanie**. Toto je politika, ktorá bola vrátená v kroku 2.
+    - Na stránke pravidlo zdieľania vyberte úroveň zdieľania kalendára, ktorú chcete povoliť v časti **určenie informácií, ktoré chcete zdieľať**; kliknite na tlačidlo **Uložiť**.
+
+Ďalšie informácie nájdete: ["politika neumožňuje udelenie povolenia na tejto úrovni jeden alebo viac príjemcov" chyba, keď používateľ pokúsi zdieľať kalendár](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
