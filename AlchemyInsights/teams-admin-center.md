@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021654"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354103"
 ---
 # <a name="teams-admin-center"></a>Centrum spravovania aplikácie Teams
 
@@ -30,4 +30,6 @@ Ak nemôžete získať prístup do Centra spravovania aplikácie Teams, skontrol
 Ak sa v Centre spravovania aplikácie Teams nezobrazujú používatelia, skontrolujte tieto položky:
 
 - Vytvorili ste za posledných 24 hodín používateľov alebo priradili licencie? Uistite sa, že pred otvorením tiketu technickej podpory počkajte aspoň 24 hodín.
-- Skontrolujte, či ste priradili zodpovedajúce licencie. 
+- Skontrolujte, či ste priradili zodpovedajúce licencie.
+- Ak máte on-premise Active Directory, overiť, že [hodnota msRTCSIP-PrimaryUserAddress alebo adresu SIP v ProxyAddresses pole v lokálnej služby Active Directory je jedinečný a formát zodpovedá](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**používateľské meno** používateľa z [Microsoft 365 admin Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ak máte v úmysle udržať Skype Business Server nasadenie a používatelia homed lokálne a online: postupujte **"nastaviť hybridné tímy a Skype Business online"** Skype Business Server ovládací panel a presunúť používateľov online.
