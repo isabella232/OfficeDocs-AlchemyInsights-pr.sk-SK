@@ -11,22 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712545"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407293"
 ---
-# <a name="associate-a-hub-site"></a>Priradenie lokality rozbočovača
+# <a name="associate-existing-site-with-a-hub-site"></a>Priradenie existujúcej lokality k lokalite rozbočovača
 
 Ak chcete priradiť existujúcu lokalitu k lokalite rozbočovača, postupujte nasledovne:
   
 1. Na vašom webe vyberte položku **nastavenia** (ikona ozubeného kolieska v pravom hornom rohu) a potom vyberte položku **informácie o lokalite**.
 
-2. Na paneli **Upraviť informácie o lokalite** v ponuke **priradenia lokality rozbočovača** vyberte lokalitu rozbočovača, ktorú chcete priradiť vašej lokalite, a potom vyberte položku **Uložiť**. Vzhľad vášho webu sa zmení tak, aby zodpovedal stránke rozbočovača a navigačný panel lokality Hub sa zobrazí v hornej časti.
+2. Na paneli **Úprava informácií o lokalite** v ponuke **priradenia lokality rozbočovača** vyberte lokalitu rozbočovača, ktorú chcete priradiť k lokalite, a potom kliknite na tlačidlo **Uložiť**. Vzhľad vášho webu sa zmení tak, aby zodpovedal stránke rozbočovača a navigačný panel lokality Hub sa zobrazí v hornej časti.
 
- > [!Note]
+>**Poznámka**
+>
 >Ak nie je prítomná možnosť priradenia lokality rozbočovača alebo nie sú tam uvedené žiadne lokality, lokality rozbočovača nemusia byť povolené alebo nemáte povolenie na priradenie lokalít k lokalite rozbočovača. Ďalšie informácie vám poskytne správca.
 >
 >Počet lokalít, ktoré môžu byť priradené k lokalite rozbočovača, nemá žiadny limit.

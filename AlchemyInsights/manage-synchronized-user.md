@@ -1,5 +1,5 @@
 ---
-title: Spravovať synchronizovaného používateľa
+title: Správa synchronizovaného používateľa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542018"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407365"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Nedá sa nastaviť primárnu e-mailovú adresu alebo zmeniť používateľské atribúty
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Nie je možné nastaviť primárnu e-mailovú adresu, zmeniť atribúty používateľa alebo odstrániť alebo odstrániť synchronizovaného používateľa
 
-Ak Synchronizácia adresárov je povolené pre vaše prostredie, niektoré atribúty používateľa alebo objektu nie je možné zmeniť pomocou Microsoft 365 admin center.
+Ak je zapnutá Synchronizácia adresárov pre vaše prostredie, niektoré atribúty používateľa alebo objektu nie je možné zmeniť pomocou Microsoft 365 admin Center.
 
-Plne Spravovať synchronizáciu používateľov a všetky ich atribúty, použitie lokálnej služby active directory používatelia a skupiny riadenia konzoly (adsiedit.msc).  
+Plne spravovať synchronizované používateľov a všetky ich atribúty, použite miestne Active Directory Users a skupiny Management Console (Adsiedit. msc).  
 
-Prípadne môžete jednotlivým používateľom alebo atribúty pre synchronizáciu používateľov pomocou powershell, ako je uvedené v týchto bežných príkladoch: 
-- Set-MsolUser - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Set-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "Test používateľa" - priezvisko "User"-názov "Manager"-oddelenie "HR"
-- Odstránenie MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com
+Prípadne môžete zmeniť jednotlivých používateľov alebo atribúty pre synchronizovaných používateľov pomocou prostredia PowerShell, ako je uvedené v týchto bežných príkladoch: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
