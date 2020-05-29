@@ -1,5 +1,5 @@
 ---
-title: Viacnásobné pokusy účtovať platobné nástroje online
+title: Viacnásobné pokusy účtovať online platobné nástroje
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 57e1ed7c7f85f14bb7f78bb8d3e7b844ed5a7a44
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957921"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418303"
 ---
-# <a name="past-due-account"></a>Po splatnosti účtu?
+# <a name="past-due-account"></a>Po termíne splatnosti?
 
-Platba môže byť odmietnutá z viacerých dôvodov, vrátane toho, či uplynula platnosť kreditnej karty. Funkciu **vyrovnanie zostatku** môžete kedykoľvek použiť na zmenu informácií o vašej kreditnej karte a na okamžité odoslanie platby.
+Platbu možno odmietnuť z niekoľkých dôvodov vrátane dátumu uplynutia platnosti kreditnej karty. Kedykoľvek môžete použiť funkciu **Vyrovnať zostatok** a zmeniť informácie o kreditnej karte a okamžite odoslať platbu znova.
 
-1. V centre spravovania prejdite na položku **fakturácia > [produkty & služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-Nájdite predplatné s nevyrovnaný zostatok. V sekcii **Fakturácia** , vedľa **predplatného sa vyskytla platba v minulosti**, kliknite na položku **vyrovnať zostatok** , aby ste zaplatili celý nedoplatok.
-2. Ak vlastníte kreditnú kartu, môžete zmeniť dátum vypršania platnosti, vybrať inú kartu alebo [Pridať novú kartu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
-3. Ak nevlastníte kreditnú kartu, môžete vybrať inú kreditnú kartu alebo [Pridať novú kartu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+1. V Centre spravovania prejdite do časti **Fakturácia > [produktov & služieb](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+Nájdite predplatné s nevyrovnaným zostatkom. V časti **Fakturácia** vedľa **predplatného sa platí po termíne splatnosti**kliknutím na položku **Vyrovnať zostatok** a zaplatiť celý nevyrovnaný zostatok.
+2. Ak vlastníte kreditnú kartu, môžete zmeniť dátum vypršania platnosti, vybrať inú kartu alebo [pridať novú kartu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+3. Ak kreditnú kartu nevlastníte, môžete vybrať inú kreditnú kartu alebo [pridať novú kartu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 4. Po dokončení aktualizácií kliknite na tlačidlo **Uložiť**.
 
-**Poznámka**: po zaplatení bola vykonaná, môže byť v minulosti upozornenie stále viditeľné na krátku dobu. Pred kontaktovaním technickej podpory počkajte aspoň **48 hodín** .
+**Poznámka:** Po vykonaní platby môže byť oznámenie po termíne splatnosti viditeľné na krátke časové obdobie. Pred kontaktovaním technickej podpory počkajte aspoň **48 hodín.**
