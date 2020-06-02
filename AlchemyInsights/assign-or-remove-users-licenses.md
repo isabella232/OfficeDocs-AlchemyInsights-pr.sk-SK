@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 9878d51cadd211668a150f2ba43c4aabe4a75620
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712581"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506386"
 ---
 # <a name="assign-or-remove-users-licenses"></a>Priradenie alebo odstránenie licencií používateľov
 
-Ako správca môžete podľa potreby upraviť licencie používateľov. Nižšie uvedené články vám ukáže, ako spravovať licencie používateľov, vrátane:
+Ako správca môžete podľa potreby upraviť licencie používateľov. Nižšie uvedené články vám ukážu, ako spravovať licencie používateľov, vrátane:
   
-- [Priradenie licencií používateľom v Microsoft 365 pre podniky](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Priradenie licencií používateľom v Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Zrušiť priradenie licencií od používateľov v Microsoft 365 pre podniky](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Zrušenie priradenia licencií od používateľov v Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Neodpovedal na vašu otázku? bez problémov! Pomocou tlačidla "potrebujete pomoc" sa porozprávajte s inžinierom technickej podpory.
+Neodpovedal na vašu otázku? bez problémov! Pomocou tlačidla "Potrebujete pomoc" sa porozprávajte s technikom technickej podpory.
