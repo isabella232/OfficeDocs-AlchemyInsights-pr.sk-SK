@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064100"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509111"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Opätovná aktivácia a správa opakovanej fakturácie
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Ako znova aktivovať a spravovať opakovanú fakturáciu
 
-Vyzerá to, že máte predplatné, ktoré vypršalo. Ak by ste chceli aktivovať, tu je návod, ako.
+Zdá sa, že máte predplatné, ktorého platnosť uplynula. Ak by ste ho chceli znova aktivovať, postupujte takto.
   
-1. V centre spravovania prejdite na stránku **Fakturácia** \> **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. V Centre spravovania prejdite na stránku **Billing** \> **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Nájdite predplatné, ktoré chcete znovu aktivovať. V sekcii **Fakturácia** vyberte možnosť **znova aktivovať**.
+2. Nájdite predplatné, ktoré chcete znovu aktivovať. V časti **Fakturácia** vyberte položku **Znova aktivovať**.
 
-    Ak sa nezobrazí **Opätovná aktivácia** ako možnosť, pomocou tlačidla "potrebujete pomoc" môžete hovoriť s inžinierom technickej podpory a aktivovať predplatné.
+    Ak sa možnosť **Opätovná aktivácia** nezobrazuje, na opätovné aktiváciu predplatného použite tlačidlo "Potrebujete pomoc".
 
-3. Potvrďte podrobnosti platby. Na tomto mieste môžete aktualizovať aj svoje existujúce informácie o platbe. Po zadaní spôsobu platby vyberte možnosť **znova aktivovať**.
+3. Potvrďte podrobnosti platby. Na tomto mieste môžete aktualizovať aj svoje existujúce informácie o platbe. Po zadaní spôsobu platby vyberte položku **Znova aktivovať**.
 
-Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription) 
+Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription) 
 
-Ak chcete spravovať mesačné alebo ročné vyúčtovanie, môžete zapnúť alebo vypnúť **opakovanú fakturáciu** .
+Ak chcete spravovať mesačnú alebo ročnú fakturáciu, môžete prepnúť alebo vypnúť **opakovanú fakturáciu.**
   
-1. V centre spravovania prejdite na stránku **Fakturácia** \> **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. V Centre spravovania prejdite na stránku **Billing** \> **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Vyberte predplatné, pre ktoré chcete spravovať opakovanú fakturáciu.
 
-3. V časti **Fakturácia**, vedľa položky **obnovuje** sa alebo sa **končí**, vyberte položku **Upraviť**.
+3. V časti **Fakturácia**vedľa položky **Obnoviť** zapnuté alebo **Vypršané ,** vyberte položku **Upraviť**.
 
-4. Na table **opakujúce sa nastavenia fakturácie** vyberte položku **vypnúť a vypnite** ju. Ak je už opakovaná Fakturácia vypnutá, vyberte položku **mesačne** alebo **jedenkrát** a zapnite ju.
+4. Na table **Nastavenia opakovanej fakturácie** vyberte položku **Vypnúť** a vypnite ju. Ak je opakovaná fakturácia už vypnutá, výberom položky **Mesačne** alebo **Raz** ju zapnite.
 
-5. Vyberte položku **Odoslať zmenu**.
+5. Vyberte **polo ku Odoslať zmenu**.
 
-Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

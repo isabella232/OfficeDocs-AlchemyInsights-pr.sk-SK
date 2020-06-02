@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645687"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509399"
 ---
 # <a name="setup-dkim"></a>Nastavenie DKIM
 
-Kompletné pokyny pre konfiguráciu DKIM pre vlastné domény v Microsoft 365 sú [tu](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Kompletné pokyny pre konfiguráciu DKIM pre vlastné domény v Microsoft 365 sú [tu](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-1. Pre **každú** vlastnú doménu, musíte vytvoriť **dva** dkim CNAME záznamy v doméne DNS hostingové služby (typicky, Registrátor domén). Napríklad contoso.com a fourthcoffee.com vyžadujú štyri záznamy DKIM CNAME: dve pre contoso.com a dve pre fourthcoffee.com.
+1. Pre **každú vlastnú** doménu je potrebné vytvoriť **dva** záznamy DKIM CNAME v hostiteľskej službe DNS vašej domény (zvyčajne registrátordomény). Napríklad contoso.com a fourthcoffee.com vyžadujú štyri záznamy DKIM CNAME: dva pre contoso.com a dva pre fourthcoffee.com.
 
-   Záznamy CNAME DKIM pre **každú** vlastnú doménu používajú nasledujúce formáty:
+   Záznamy DKIM CNAME pre **každú** vlastnú doménu používajú nasledujúce formáty:
 
    - **Názov hostiteľa**:`selector1._domainkey.<CustomDomain>`
 
-     **Body na adresu alebo hodnotu**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **Počet bodov na adresu alebo hodnotu:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
    - **Názov hostiteľa**:`selector2._domainkey.<CustomDomain>`
 
-     **Body na adresu alebo hodnotu**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Počet bodov na adresu alebo hodnotu:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> je text naľavo `.mail.protection.outlook.com` v prispôsobenom zázname MX pre vlastnú doménu (napríklad `contoso-com` pre doménu contoso.com). \<InitialDomain\> je doména, ktorú ste použili pri prihlásení do spoločnosti Microsoft 365 (napríklad contoso.onmicrosoft.com).
+   \<DomainGUID\>je text naľavo `.mail.protection.outlook.com` od prispôsobeného záznamu MX pre vlastnú doménu (napríklad `contoso-com` pre contoso.com domény). \<InitialDomain\>je doména, ktorú ste použili pri registrácii v programe Microsoft 365 (napríklad contoso.onmicrosoft.com).
 
-2. Po vytvorení záznamov CNAME pre vlastné domény postupujte podľa nasledujúcich pokynov:
+2. Po vytvorení cname záznamov pre vlastné domény, postupujte podľa nasledujúcich pokynov:
 
-   A. [Prihláste sa do Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) so svojím pracovným alebo školským kontom.
+   a. [prihláste sa do služby Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) pomocou pracovného alebo školského konta.
 
-   B. V ľavom hornom rohu vyberte ikonu spúšťača aplikácií a vyberte možnosť **správca**.
+   b. V ľavom hornom rohu vyberte ikonu spúšťača aplikácií a vyberte **položku Správca**.
 
-   C. V ľavom dolnom navigáciu, rozbaľte **admin** a vyberte **Exchange**.
+   c. V ľavom dolnom paneli rozbaľte položku **Správca** a vyberte položku **Exchange**.
 
-   D. Prejdite na **ochranu** > **dkim**.
+   D. Prejsť na **Ochrana**  >  **DKIM**.
 
-   E. Vyberte doménu a potom vyberte **Povoliť** pre **podpísať správy pre túto doménu s dkim podpisy**. Zopakujte tento krok pre každú vlastnú doménu.
+   E. Vyberte doménu a potom vyberte **položku Povoliť** **pre podpisy pre túto doménu s podpismi DKIM**. Zopakujte tento krok pre každú vlastnú doménu.

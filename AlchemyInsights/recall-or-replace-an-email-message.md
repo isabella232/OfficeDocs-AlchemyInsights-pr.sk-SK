@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742770"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509471"
 ---
-# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Vyvolanie alebo nahradenie e-mailovej správy v Microsoft 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Vyvolanie alebo nahradenie e-mailovej správy v službe Microsoft 365
 
-- Môžete **pripomenúť iba správy odoslané ľuďom vo vašej organizácii**. Ak bola správa odoslaná na adresu služby Gmail, nemôžete ju napríklad pripomenúť.
-- Môžete si **len pripomenúť správy odoslané z programu Outlook 2016 pre PC**. Ak používateľ odošle správu pomocou programu Outlook for Mac alebo Outlook na webe, nemôžete pripomenúť.
-- Ak ste správcom, môžete si **pripomenúť správy v mene používateľov pomocou prostredia PowerShell**. Správy z centra spravovania nemožno vyvolať. Prejdite na "vyhľadať a odstrániť e-mailové správy v organizácii" pre viac informácií.
+- Môžete **si spomenúť len na správy odoslané osobám vo vašej organizácii.** Ak bola napríklad správa odoslaná na adresu Gmail, nemôžete si ju spomenúť.
+- Môžete **si spomenúť len na správy odoslané z Outlooku 2016 pre počítač**. Ak používateľ odošle správu pomocou Outlooku for Mac alebo Outlooku na webe, nemôžete si ju spomenúť.
+- Ak ste správcom, správy môžete **vyvolať v mene používateľov pomocou prostredia PowerShell**. Správy nemôžete vyvolať z Centra spravovania. Ďalšie informácie získate nadol na položku Vyhľadať a odstrániť e-mailové správy vo vašej organizácii.
 
-**Vyvolanie alebo nahradenie e-mailovej správy, ktorú ste odoslali**
+**Vyvolanie alebo nahradenie odoslanej e-mailovej správy**
 
 1. Na table priečinkov v ľavej časti okna programu Outlook vyberte priečinok Odoslaná pošta.
-2. Otvorte správu, ktorú chcete pripomenúť. Ak chcete otvoriť správu, musíte dvakrát kliknúť. Výber správy tak, že sa zobrazí na table na čítanie, vám nedovolí pripomenúť správu.
-3. Na karte Správa vyberte položku **akcie** > **vyvolanie tejto správy**.
-4. Vyberte položku **Odstrániť neprečítané kópie tejto správy** alebo **odstráňte neprečítané kópie a nahraďte ju novou správou a**potom kliknite na **tlačidlo OK**.
-5. Ak odosielate náhradnú správu, napíšte správu a potom vyberte položku **Odoslať**.
-6. Úspech alebo neúspech odvolanie správy závisí od nastavenia príjemcov v programe Outlook.
+2. Otvorte správu, ktorú si chcete odvolať. Ak chcete správu otvoriť, musíte dvakrát kliknúť. Výber správy tak, aby sa zobrazila na table na čítanie, vám neumožní vyvolať správu.
+3. Na karte Správa vyberte položku **Akcie**  >  **Vyvolať túto správu**.
+4. Vyberte **položku Odstrániť neprečítané kópie tejto správy** alebo Odstrániť **neprečítané kópie a nahradiť novou správou a**potom vyberte tlačidlo **OK**.
+5. Ak odosielate náhradnú správu, napíšte správu a vyberte položku **Odoslať**.
+6. Úspech alebo neúspech odvolania správy závisí od nastavení príjemcov v programe Outlook.
 
-Ďalšie informácie vrátane informácií o tom, ako skontrolovať odvolanie, nájdete v časti [vyvolanie alebo nahradenie e-mailovej správy, ktorú ste odoslali](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Ďalšie informácie vrátane kontroly stiahnutia z trhu nájdete v téme [Vyvolanie alebo nahradenie odoslanej e-mailovej správy](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Vyhľadávanie a odstraňovanie e-mailových správ vo vašej organizácii*** Ak chcete vyhľadávať a odstraňovať e-mailové správy vo vašej organizácii, je to najjednoduchšie, ak ste globálny správca. Ak nie ste globálny správca, konto sa musí pridať do skupiny rolí eDiscovery Manager alebo do roly správy vyhľadávania súladu. Ak chcete odstrániť správy, musíte sa pripojiť k skupine rolí Správa organizácie alebo k úlohe správy vyhľadávania a čistenia. Povolenia pre tieto roly sú priradené v [Centre zabezpečenia & súladu](https://protection.office.com/).
+***Vyhľadávanie a odstraňovanie e-mailových správ v organizácii*** Ak chcete vyhľadávať a odstraňovať e-mailové správy vo vašej organizácii, je najjednoduchšie, ak ste globálnysprávca. Ak nie ste globálnym správcom, váš účet musí byť pridaný do skupiny rolí eDiscovery Manager alebo do roly správy vyhľadávania súladu. Ak chcete odstrániť správy, musíte sa pripojiť k skupine rolí Správa organizácie alebo rolu správy Vyhľadávania a vymazania. Povolenia pre tieto roly sú priradené v [centre zabezpečenia & súladu](https://protection.office.com/).
 
-1. [Vytvorte hľadanie obsahu](https://docs.microsoft.com/office365/securitycompliance/content-search) a vyhľadajte správu, ktorá sa má odstrániť.
-2. [Pripojenie k zabezpečeniu & centrum PowerShell súladu](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Vytvorte vyhľadávanie obsahu](https://docs.microsoft.com/microsoft-365/compliance/content-search) a vyhľadajte správu, ktorá sa má odstrániť.
+2. [Pripojte sa k službe PowerShell centra zabezpečenia & Centra zabezpečenia](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Ak používate MFA, pozrite si [pripojiť k Microsoft 365 zabezpečenia & Compliance Center PowerShell pomocou viacnásobné overovanie](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ak používate mfa, pozrite si tému [Pripojenie k službe Microsoft 365 & prostredia PowerShell centra súladu pomocou viacnásobného overovania](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

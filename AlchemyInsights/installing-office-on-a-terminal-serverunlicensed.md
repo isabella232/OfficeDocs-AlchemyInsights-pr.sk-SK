@@ -1,5 +1,5 @@
 ---
-title: Inštalácia balíka Office na terminálový server-bez licencie
+title: Inštalácia balíka Office na terminálový Server - bez licencie
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,47 +10,47 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010629"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508643"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Inštalácia balíka Office na terminálový Server
 
-Nasadenie Microsoft 365 aplikácie pre podniky na Windows Server pomocou Remote Desktop Services (RDS), predtým pomenované terminálové služby:
+Nasadenie aplikácií Microsoft 365 pre podniky na serveri Windows Server pomocou služieb vzdialenej skúsenosti s prácou s počítačom (RDS), predtým s názvom Terminálové služby:
   
-- Musíte mať predplatné Microsoft 365, ktorý obsahuje Microsoft 365 aplikácie pre podniky, napríklad Office 365 Enterprise E3 alebo Enterprise E5. Microsoft 365 aplikácie pre podniky a Microsoft 365 aplikácie Business Premium plány nezahŕňajú Microsoft 365 aplikácie pre podniky.
+- Musíte mať predplatné na Microsoft 365, ktoré zahŕňa aplikácie Microsoft 365 pre podniky, napríklad Office 365 Enterprise E3 alebo Enterprise E5. Plány Microsoft 365 Apps for business a Microsoft 365 Apps for business Premium nezahŕňajú aplikácie Microsoft 365 pre podniky.
 
 - Musíte zapnúť [aktiváciu zdieľaného počítača](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-Ak chcete nainštalovať Microsoft 365 aplikácie pre Enterprise na RDS z Microsoft 365 admin Center, ***ktorý používa predvolené nastavenie inštalácie***, použite nasledovný postup.
+Ak chcete nainštalovať Microsoft 365 Aplikácie pre podniky na RDS z Centra spravovania Služby Microsoft 365, ***ktorý používa predvolené nastavenia inštalácie***, postupujte nasledovne.
 
 > [!TIP]
-> Môžete tiež stiahnuť a spustiť [Microsoft Support a zotavenie asistent](https://aka.ms/SaRA_OfficeSCA_M365Portal) nainštalovať Microsoft 365 aplikácie pre podniky v režime zdieľaného počítača aktivácie.
+> Môžete tiež prevziať a spustiť [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) nainštalovať Microsoft 365 Apps pre podniky v režime aktivácie zdieľaného počítača.
   
-1. Skontrolujte, čo Microsoft 365 predplatné máte. [Zistite, ako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Skontrolujte, aké predplatné na Microsoft 365 máte. [Prečítajte si, ako](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Ak je to potrebné, prepnite na iný Microsoft 365 predplatné. [Zistite, ako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. V prípade potreby prepnite na iné predplatné služby Microsoft 365. [Prečítajte si, ako](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Ak Office je už nainštalovaný na serveri RDS pomocou iných Microsoft 365 predplatné, odinštalujte ho. Napríklad prechodom na Ovládací panel \> odinštalujte program. Odinštalovanie pomocou [technickej podpory spoločnosti Microsoft a obnovenie asistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) , ak používate problémy.
+3. Ak je balík Office už nainštalovaný na serveri RDS pomocou iných predplatných služieb Microsoft 365, odinštalujte ho. Napríklad tým, že prejdete na Ovládací panel \> Odinštalovať program. Ak sa vyskytnú problémy, odinštalujte ju pomocou [nástroja Microsoft Support and Recovery Assistant.](https://aka.ms/SARA-OfficeUninstall-Alchemy)
 
-4. Na serveri RDS, prihláste sa do Microsoft 365 admin Center s kontom správcu a [nainštalovať Microsoft 365 aplikácie pre podniky](https://portal.office.com/OLS/MySoftware.aspx).
+4. Na serveri RDS sa prihláste do Centra spravovania služby Microsoft 365 pomocou konta správcu a [nainštalujte aplikácie Microsoft 365 apps for enterprise](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Po nainštalovaní balíka Office, ***neotvárajte ani sa prihlásiť*** do žiadnej aplikácie balíka Office.
+5. Po nainštalovaní balíka Office ***sa neotvárajte ani neprihlasujte*** do žiadnych aplikácií balíka Office.
 
-6. Na serveri RDS zapnúť aktiváciu zdieľaného počítača úpravou databázy Registry pomocou nasledujúcich krokov:
+6. Na serveri RDS, povoliť aktiváciu zdieľaného počítača úpravou databázy registry pomocou nasledujúcich krokov:
 
-1. Kliknite pravým tlačidlom myši na tlačidlo Windows v ľavom dolnom rohu obrazovky a vyberte položku spustiť. Do poľa Otvoriť zadajte **príkaz regedit**a potom kliknite na tlačidlo OK.
+1. Kliknite pravým tlačidlom myši na tlačidlo Windows v ľavom dolnom rohu obrazovky a vyberte položku Spustiť. Do poľa Otvoriť zadajte **regedit**a potom kliknite na tlačidlo OK.
 
-2. Ak sa zobrazí výzva na povolenie editora databázy Registry, vyberte možnosť Yes (Áno), čím vykonáte zmeny v zariadení.
+2. Po zobrazení výzvy vyberte možnosť Yes (Áno), aby Editor databázy Registry mohol vykonať zmeny v zariadení.
 
-3. V editore databázy Registry pridajte hodnotu reťazca **Sharedcomputerlicensing** s nastavením 1 podľa HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. V Editore databázy Registry pridajte hodnotu reťazca **SharedComputerLicensing** s nastavením 1 v časti HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Na serveri RDS sa ***prihláste ako koncový používateľ*** a [overte, či je zapnutá Aktivácia zdieľaného počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+7. Na serveri RDS ***sa prihláste ako koncový používateľ*** a [overte, či je zapnutá aktivácia zdieľaného počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-Ďalšie informácie o predpoklady, pokyny na nastavenie a pokyny na prispôsobené inštalácie pomocou nástroja Office Deployment, nájdete [nasadenie Microsoft 365 aplikácie pre podniky pomocou služby vzdialenej skúsenosti s prácou s počítačom](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
+Ďalšie podrobnosti o predpokladoch, pokynoch na nastavenie a pokynoch na prispôsobené inštalácie pomocou nástroja na nasadenie balíka Office nájdete v téme [Nasadenie aplikácií Microsoft 365 pre podniky pomocou služieb vzdialenej pracovnej plochy](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-Ak chcete opraviť chyby súvisiace so zdieľanou aktiváciou počítača, prečítajte si článok [Riešenie problémov so zdieľanou aktiváciou počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
+Ak chcete opraviť chyby súvisiace s aktiváciou zdieľaného počítača, pozrite si tému [Riešenie problémov so zdieľanou aktiváciou počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   

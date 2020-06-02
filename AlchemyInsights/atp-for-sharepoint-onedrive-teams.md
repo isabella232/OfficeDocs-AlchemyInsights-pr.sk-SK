@@ -1,5 +1,5 @@
 ---
-title: ATP pre SharePoint, OneDrive a Microsoft teams
+title: ATP pre SharePoint, OneDrive a Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,25 +10,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e9437d04815d4ca2f55cf9133ef6a4b429cd2476
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712473"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508427"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pre SharePoint, OneDrive a Microsoft teams
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pre SharePoint, OneDrive a Microsoft Teams
 
 Ak chcete povoliť rozšírenú ochranu pred hrozbami, postupujte podľa týchto krokov:
 
-1. Prejdite na [https://protection.office.com](https://protection.office.com) a prihláste sa pomocou globálneho správcu alebo konta správcu zabezpečenia.
+1. Prejdite na konto [https://protection.office.com](https://protection.office.com) globálneho správcu alebo správcu zabezpečenia a prihláste sa pomocou konta správcu zabezpečenia.
 
-2. Na ľavej navigačnej table v časti **Správa hrozieb**vyberte položku **Policy** \> **bezpečné prílohy**politiky.
+2. Na ľavej navigačnej table v časti **Správa hrozieb**vyberte položku **Policy** \> **Prílohy bezpečné pre poistky**.
 
-3. Vyberte možnosť **Zapnúť ATP pre SharePoint, OneDrive a Microsoft teams**.
+3. Vyberte položku **Zapnúť atp pre SharePoint, OneDrive a Microsoft Teams**.
 
-4. [Vytvorenie politiky výstrahy aktivity](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) na prijímanie upozornení pri detekcii škodlivých súborov.
+4. [Vytvorte politiku upozornenia](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) na aktivitu na prijímanie upozornení, keď zistíme škodlivé súbory.
 
-Úplné pokyny nájdete v tejto [téme](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
+Úplné pokyny nájdete v tejto [téme](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Poznámka**: podľa návrhu, ATP neskenuje každý jednotlivý súbor SharePoint Online, OneDrive pre podniky alebo Microsoft teams. Súbory sú naskenované asynchrónne procesom, ktorý používa zdieľanie aktivity, hodnotenie aktivity a hrozby signály identifikovať škodlivé súbory. Ďalšie informácie nájdete v tejto [téme](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+**Poznámka:** Atp neprehľadá každý súbor v SharePointe Online, OneDrive for Business alebo Microsoft Teams. Súbory sa asynchrónne kontrolujú procesom, ktorý používa aktivitu zdieľania, aktivitu hosťa a signály hrozieb na identifikáciu škodlivých súborov. Ďalšie informácie nájdete v tejto [téme](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

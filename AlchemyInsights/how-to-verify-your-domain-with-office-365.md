@@ -1,5 +1,5 @@
 ---
-title: 'Ako overiť svoju doménu '
+title: 'Ako overiť doménu '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788027"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509039"
 ---
-# <a name="how-to-verify-your-domain"></a>Ako overiť svoju doménu
+# <a name="how-to-verify-your-domain"></a>Ako overiť doménu
 
-Ak chcete overiť svoju doménu, budete musieť pridať záznam TXT do svojho registrátora domény, aby ste overili, či vlastníte doménu. Najskôr postupujte podľa [Sprievodcu pridaním domény](https://portal.office.com/adminportal/home#/Domains/Wizard) kliknutím na položku **Nastavenie** \> **domén**a potom **pridajte doménu**.
+Ak chcete overiť svoju doménu, budete musieť pridať TXT záznam do registrátora domén, aby ste overili, či vlastníte doménu. Najskôr postupujte podľa [Sprievodcu pridaním domény](https://portal.office.com/adminportal/home#/Domains/Wizard) kliknutím na **Setup** \> **položku**Nastavenie domén a potom na **položku Pridať doménu**.
   
-Podľa pokynov v zozname [vytvoriť záznamy DNS v ľubovoľnom poskytovateľovi hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pridajte záznam txt na overenie vašej domény.
+Podľa pokynov v časti [Vytvorenie DNS záznamov u ktoréhokoľvek poskytovateľa hostiteľských služieb DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pridajte TXT záznam na overenie domény.
 
-Pre iné domény problémy skúste [domén FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Pre iné domény problémy skúste [Domény FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).

@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716511"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509003"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Denníky auditu pre odstránené e-mailové správy
+# <a name="audit-logs-for-deleted-email-messages"></a>Denníky auditu odstránených e-mailových správ
 
-Od januára 2019, Microsoft je Zapnutie poštovej schránky auditu zapisovania do denníka v predvolenom nastavení. V opačnom prípade môžete skontrolovať odstránenie udalostí správy pre konkrétneho používateľa, musíte manuálne povoliť akcie odstránenia pre auditovanie. Ak poštovej schránky auditu zapisovania je už povolená pre vašu organizáciu alebo pre konkrétneho používateľa, postupujte podľa nasledujúcich krokov.
+Od januára 2019, Microsoft predvolene zapína zapisovanie do denníka auditu poštovej schránky. Ak chcete skontrolovať udalosti správy pre konkrétneho používateľa, musíte manuálne povoliť akcie odstránenia na auditovanie. Ak poštovej schránky auditu zapisovania do denníka je už povolená pre vašu organizáciu alebo pre konkrétneho používateľa, postupujte podľa krokov uvedených nižšie.
 
-1. Prihláste sa do [Microsoft 365 zabezpečenia & Compliance Center](https://protection.office.com/)
+1. Prihláste sa do [Centra súladu zabezpečenia & microsoft 365](https://protection.office.com/)
 
-2. Kliknite na položku **vyhľadávanie a vyšetrovanie** a vyberte položku **vyhľadávanie denníkov auditu**.
+2. Kliknite na **položku Vyhľadávanie a vyšetrovanie** a vyberte položku **Hľadať denník auditu**.
 
-3. Vyberte rozsah dátumov v poliach **Počiatočný dátum** a **Dátum ukončenia** . Zadajte používateľské meno používateľa, ktorý chcete zistiť (používateľ, ktorý odstránil položky). V poli **aktivity** vyberte položku **odstránené správy z priečinka Odstránené položky** a **premiestnili sa správy do priečinka Odstránené položky**.
+3. Vyberte rozsah dátumov v poliach **Počiatočný dátum** a **Koncový dátum.** Zadajte meno používateľa, ktorého chcete preskúmať (používateľa, ktorý položky odstránil). V poli **Aktivity** vyberte položku **Odstránené správy z priečinka Odstránené položky** a **Premiestniť správy do priečinka Odstránené položky**.
 
 4. Kliknite na tlačidlo **Hľadať**.
 
-Vo výsledkoch vyberte záznam auditu. V rozbaľovacom zozname Podrobnosti kliknite na položku **Ďalšie informácie**. Ďalšie informácie o odstránenej položke (napríklad riadok predmetu a umiestnenie položky pri jej odstránení) sa zobrazia v poli **Affecteditems** . Vlastnosť **Clientinfostring** sa zobrazí, ak sa odstránenie vyskytlo v programe Outlook, Outlook na webe (predtým označované ako aplikácia Outlook Web App) alebo v akomkoľvek inom zariadení.
+Vo výsledkoch vyberte záznam auditu. V rozbaľovacom zozname podrobností kliknite na položku **Ďalšie informácie**. Ďalšie informácie o odstránenej položke (napríklad predmet a umiestnenie položky pri jej odstránení) sa zobrazia v poli **AffectedItems.** Vlastnosť **ClientInfoString** sa zobrazí, ak sa odstránenie vyskytlo v programe Outlook, Outlook na webe (predtým známa ako aplikácia Outlook Web App) alebo v akomkoľvek inom zariadení.
 
-Ďalšie informácie nájdete v téme [určenie, kto nastaviť presmerovanie e-mailov pre poštovú schránku](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Ďalšie informácie sa nachádzajú v téme [Určenie osôb, ktoré nastavia preposielanie e-mailov pre poštovú schránku](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
-**Poznámka**: odstránené položky nie je možné načítať pomocou funkcie denník auditu. Ak chcete obnoviť odstránené správy v programe Outlook na webe, pozrite si ďalšie informácie [v téme Obnovenie odstránených položiek v aplikácii Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Poznámka:** Odstránené položky nie je možné načítať pomocou funkcie denníka auditu. Informácie o načítanie odstránených správ v Outlooku na webe nájdete v téme [Obnovenie odstránených položiek v aplikácii Aplikácia Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

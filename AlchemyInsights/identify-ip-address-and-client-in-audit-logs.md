@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716403"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508931"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifikácia adresy IP a klienta v denníkoch auditu
 
-Adresa IP, ktorá zodpovedá aktivite používateľa alebo správcu spoločnosti Microsoft 365, sa zobrazí v denníkoch auditu. Informácie o klientovi je tiež prihlásený. Tu sú kroky na identifikáciu týchto informácií
+Adresa IP, ktorá zodpovedá aktivite používateľa alebo správcu služby Microsoft 365, sa zobrazuje v denníkoch auditu. Informácie o klientovi sa tiež zaznamená. Tu sú kroky na identifikáciu týchto informácií
 
-1. Prihláste sa do [Microsoft 365 Security & centrum súladu](https://protection.office.com/).
+1. Prihláste sa do Centra [& zabezpečenia spoločnosti Microsoft 365](https://protection.office.com/).
 
-2. Prejdite na stránku vyhľadávania**denníka auditu** **vyhľadávania** > .
+2. Prejdite na stránku **vyhľadávania**  >  **v denníku auditu.**
 
-   Ak máte záujem o konkrétnu aktivitu, vyberte ju zo zoznamu **aktivity** . Ak nie, všetky aktivity sa vrátia pre vybratého používateľa (predvolené nastavenie).
+   Ak máte záujem o konkrétnu aktivitu, vyberte ju zo zoznamu **Aktivity.** Ak nie, všetky aktivity sa vrátia pre vybratého používateľa (predvolené nastavenie).
 
-   **Poznámka**: niektoré aktivity nemusia byť k dispozícii v ponuke **aktivity** ; Tieto položky auditu sa však vrátia, ak je vybratá možnosť **Zobraziť výsledky pre všetky aktivity** (predvolené nastavenie).
+   **Poznámka:** Niektoré činnosti nemusia byť k dispozícii v menu **Aktivity;** Tieto položky auditu sa však vrátia, ak je vybratá možnosť **Zobraziť výsledky pre všetky aktivity** (predvolené nastavenie).
 
-3. Zadajte meno používateľa v poli **Používatelia** , vyberte príslušný rozsah dátumov pre aktivitu a potom kliknite na tlačidlo **Hľadať**.
+3. Zadajte meno používateľa do poľa **Používatelia,** vyberte príslušný rozsah dátumov pre aktivitu a potom kliknite na tlačidlo **Hľadať**.
 
-Vo výsledkoch môžete vidieť adresu IP danej aktivity na table s výsledkami. Vyberte záznam auditu a zobrazia sa podrobné informácie v rozbaľovacom zozname **Podrobnosti** (napríklad klient, používateľ, ktorý vykonal akciu atď.).
+Vo výsledkoch sa na table s výsledkami zobrazuje adresa IP pre danú aktivitu. Vyberte záznam auditu a zobrazia sa podrobné informácie v rozbaľovacom zozname **Podrobnosti** (napríklad Klient, Používateľ, ktorý vykonal akciu atď.).
 
-Ďalšie informácie nájdete v téme [vyhľadanie adresy IP počítača používaného na prístup k ohrozeným účtom](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Ďalšie informácie sa nachádzajú v téme [Vyhľadanie adresy IP počítača používaného na prístup k ohrozenému kontu](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

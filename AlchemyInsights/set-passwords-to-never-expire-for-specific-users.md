@@ -1,5 +1,5 @@
 ---
-title: Nastavenie SPF
+title: Nastavenie protokolu SPF
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,22 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 03fd19c5758e591a1b791e3cfd081647c5584b6d
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 115e8d3cd5d7a98297963b43c4fb6fb39566bda7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43646011"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509435"
 ---
-# <a name="set-passwords-to-never-expire"></a>Nastavenie hesiel na nikdy neskončí
+# <a name="set-passwords-to-never-expire"></a>Nastavenie neplatnosti hesiel
 
-Ak chcete nastaviť všetky heslá na nikdy neskončí, v Microsoft 365 admin Center, prejdite na **Nastavenie** > [ &amp; ochrany osobných údajov](https://portal.office.com/adminportal/home#/settings/security) stránku. Vyberte položku **Upraviť** vedľa položky **Politika hesiel**a zapnite jazdec na možnosť **zapnuté**.
+Ak chcete nastaviť, aby platnosť všetkých hesiel nikdy **Settings**neuplynula, v Centre spravovania služby Microsoft 365 prejdite na stránku  >  [ochrana &amp; osobných údajov v zabezpečení](https://portal.office.com/adminportal/home#/settings/security) nastavení. Vyberte **položku Upraviť** vedľa položky **Politika hesiel**a posuňte jazdec na **možnosť Zapnuté**.
   
-Podrobnejšie informácie nájdete na: 
+Podrobnejšie informácie nájdete v témach: 
 
-- [Nastavte politiku uplynutia platnosti hesla pre vašu organizáciu.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+- [Nastavte politiku uplynutia platnosti hesla pre vašu organizáciu.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Nastavenie hesla pre konkrétnych používateľov nikdy neskončí](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [Nastavenie hesla, ktoré nikdy neskončí pre konkrétnych používateľov](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
 - [Heslo musí spĺňať požiadavky na zložitosť](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
