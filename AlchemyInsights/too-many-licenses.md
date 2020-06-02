@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063992"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510479"
 ---
 # <a name="too-many-licenses"></a>Príliš veľa licencií?
 
-Ak si myslíte, že ste sa účtujú za príliš veľa licencií, je to zvyčajne kvôli zakúpeniam viac licencií potom budete potrebovať.
+Ak si myslíte, že ste účtované za príliš veľa licencií, je to zvyčajne spôsobené tým, že ste si zakúpili viac licencií, potom budete potrebovať.
   
 **Znížte počet zakúpených licencií**
   
-1. V centre spravovania prejdite na stránku **Fakturácia** \> **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. V Centre spravovania prejdite na stránku **Billing** \> **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Vyhľadajte predplatné, z ktorého chcete odstrániť licencie, a potom vyberte položku **Pridať alebo odstrániť licencie**.
+2. Vyhľadajte predplatné, z ktorého chcete odstrániť licencie, a potom vyberte **položku Pridať alebo odstrániť licencie**.
 
-3. Do poľa **celkové licencie** zadajte celkový počet licencií, ktoré potrebujete pre toto predplatné, a potom vyberte položku **Odoslať zmenu**. Napríklad, ak máte 110 licencie a chcete odstrániť 5 z nich, zadajte 105.
+3. Do poľa **Celkom licencií** zadajte celkový počet licencií, ktoré potrebujete pre toto predplatné, a potom vyberte položku **Odoslať zmenu**. Ak máte napríklad 110 licencií a chcete ich odstrániť 5, zadajte hodnotu 105.
 
-Ďalšie informácie nájdete v téme [Odstránenie licencií z Microsoft 365 pre podnikové predplatné](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Ďalšie informácie nájdete v téme [Odstránenie licencií z predplatného na Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

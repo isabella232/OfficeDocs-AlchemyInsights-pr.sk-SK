@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s odmietané správy programu Access
+title: Riešenie problémov s odmietnutým hlásením prístupu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742158"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510515"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Riešenie problémov s odmietané správy programu Access
+# <a name="troubleshoot-access-denied-messages"></a>Riešenie problémov s odmietnutým hlásením prístupu
 
-Ak sa pri pokuse o prehľadávanie lokality SharePoint Online zobrazuje hlásenie o odmietnutí prístupu, prečítajte si nižšie uvedené články.
+Ak pri pokuse o prehľadávanie lokality Sharepoint Online dostanete správu o odmietnutí prístupu, prečítajte si nasledujúce články.
 
 **Pridanie a licencia používateľa**
 
-Uistite sa, že [priradíte licencie používateľom Microsoft 365 pre podniky](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Uistite sa, že [priradíte licencie používateľom v Microsoft 365 pre podniky](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Priradiť povolenia**
 
-Ak používateľ bol priradený licenciu SharePoint a stále dostáva prístup odmietnutý správu, uistite sa, že majú [príslušné povolenie úroveň priradená](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Ak používateľ bol priradený licenciu SharePoint a stále dostáva prístup odmietnutý správu, uistite sa, že majú [príslušnú úroveň povolení priradenú](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 **Zvážte použitie funkcie žiadosti o prístup**
 
-Funkcia [žiadosť o prístup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) umožňuje ľuďom požiadať o prístup k obsahu, ktorý v súčasnosti nemajú povolenie na zobrazenie. 
+Funkcia [žiadosti o prístup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) umožňuje používateľom požadovať prístup k obsahu, ktorý momentálne nemajú povolenie na zobrazenie. 
 
-**Povoliť vlastný skript môže spôsobiť prístup odmietnutý problémy**
+**Povoliť vlastný skript môže spôsobiť problémy s odmietnutím prístupu**
 
-Existujú určité scenáre, kde "povoliť vlastný skript" funkcia môže predstavovať prístup odmietnutý. Zoznam ovplyvnených funkcií, bezpečnostných úvah a možnosti vypnutia funkcie. Prosím, navštívte, [Povoliť alebo zabrániť vlastný skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Existujú určité scenáre, kde "Povoliť vlastný skript" funkcia môže predstavovať prístup odmietnutý. Zoznam ovplyvnených funkcií, bezpečnostné aspekty a schopnosť vypnúť funkciu. Prosím, navštívte , [Povoliť alebo zabrániť vlastnéskriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Poznámka: Ak OneDrive alebo lokality SharePoint nie je k dispozícii viacerým používateľom, ktorí predtým mali prístup, môže existovať dočasný problém služby. [Skontrolujte stav služby tabuľa](https://portal.office.com/adminportal/home#/servicehealth).
+Poznámka: Ak onedrive alebo lokalitu SharePoint nie je k dispozícii pre viacerých používateľov, ktorí predtým mali prístup, môže ísť o dočasný problém so službou. [Skontrolujte tabuľu stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   
