@@ -1,5 +1,5 @@
 ---
-title: 1245-import-PST-služby
+title: 1245-Import-PST-služby
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 054203a196fc9ea7157a3eb2c99efc6f98a191aa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687777"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502550"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Import Service
+# <a name="microsoft-365-import-service"></a>Služba importu od spoločnosti Microsoft 365
 
-Microsoft 365 import služba umožňuje hromadne importovať viac súborov PST Exchange Online poštových schránok.
+Služba Import od spoločnosti Microsoft 365 umožňuje hromadne importovať viaceré súbory PST do poštových schránok služby Exchange Online.
 
-Prístup k službe importu a spustenie procesu importu:
+Ak chcete získať prístup k službe Import a spustiť proces importu:
 
-1. Prejdite do [Centra zabezpečenia & Compliance](https://protection.office.com) a prihláste sa pomocou poverení pre konto správcu vo vašej organizácii.
+1. Prejdite do [Centra ochrany & súladu](https://protection.office.com) a prihláste sa pomocou poverení pre konto správcu vo vašej organizácii.
 
-2. Na ľavej table **centrum zabezpečenia & súladu**kliknite na položku **Správa údajov > import**.
+2. Na ľavej table Centra **zabezpečenia & súladu**kliknite na položku **Správa údajov > Import**.
 
 3. Na stránke **Import** kliknite na položku **Nová úloha importu**.
 
-4. Ak chcete vykonať kroky sprievodcu, postupujte podľa nasledujúcich [pokynov](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Ak chcete vykonať kroky sprievodcu, postupujte podľa týchto [podrobných pokynov](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
 
-**Dôležité**: Ak chcete získať prístup k stránke **importu** v centre zabezpečenia & compliance, priradíte [príslušné povolenia](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Dôležité**: Ak chcete získať prístup k stránke **Import** v Centre ochrany & [súladu,](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)priradili vám príslušné povolenia .
 
-Ak chcete len importovať PST do poštovej schránky, pozri [Tento článok](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Ak chcete importovať pst do poštovej schránky, pozrite si [tento článok](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

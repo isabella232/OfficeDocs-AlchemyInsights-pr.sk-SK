@@ -12,31 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 855f2ae66fe8a882dbc69e1bc1b546fe6eabb712
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063596"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495966"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Ako pridať alebo upraviť VatID
 
-**Poznámka**: Ak ste v krajine, ktorá používa daň z pridanej hodnoty (DPH), napríklad Spojené kráľovstvo, Microsoft Fakturácia vypočíta DPH za vás a použije čiastku na vaše faktúry. Ďalšie informácie nájdete v téme [zrieknutie sa zodpovednosti vies](https://go.microsoft.com/fwlink/p/?LinkID=841741) uverejnené Európskou Komisiou.
+**Poznámka:** Ak sa nachádzate v krajine, ktorá používa daň z pridanej hodnoty (DPH), napríklad Veľká Británia, fakturácia spoločnosti Microsoft vypočíta DPH za vás a použije čiastku na faktúry. Viac informácií nájdete v spoločnosti [VIES,](https://go.microsoft.com/fwlink/p/?LinkID=841741) ktorú uverejnila Európska komisia.
 
-**Pridanie alebo úprava VatID**
+**Pridanie alebo úprava identifikátora VatID**
 
-1. Microsoft 365 admin Center, prejdite na stránku **Fakturácia** \> [vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V Centre spravovania služby Microsoft 365 prejdite na stránku **Billing** \> [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Vyhľadajte predplatenú kartu predplatného, ktorú chcete aktualizovať.
+2. Vyhľadajte kartu predplatného na predplatné, ktoré chcete aktualizovať.
 
-3. V časti **nastavenia & akcie** vyberte položku **Upraviť adresu používania služby**.
+3. V časti **Nastavenia & Akcie** vyberte položku Upraviť adresu používania **služby**.
 
-4. Na stránke **Upraviť adresu používania služby** zadajte identifikátor DPH do poľa **číslo DPH** a potom vyberte položku **Uložiť**.
+4. Na stránke **Úprava adresy používania služby** zadajte do poľa Číslo DPH svoje IDENTIFIKAČNÉ **ČÍSLO** DPH a potom vyberte položku **Uložiť**.
 
-    Po dokončení sa DPH nebude účtovať na ďalší účet.
+    Po dokončení sa dph nebude účtovať na vašom ďalšom účte.
 
-Ďalšie informácie nájdete v téme [akú daň budem účtovať za Microsoft 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+Ďalšie informácie nájdete v téme [Aká daň sa mi bude účtovať za program Microsoft 365?]https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)
 
-**Ďalšie zdroje**
+**Ďalšie zdroje informácií**
 
-[Pridajte svoje ID DPH](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Pridajte svoje IDENTIFIKAČNÉ ČÍSLO DPH](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).

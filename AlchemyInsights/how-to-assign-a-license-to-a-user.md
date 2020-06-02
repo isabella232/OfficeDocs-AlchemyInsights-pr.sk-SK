@@ -13,25 +13,25 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957885"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496002"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Priradenie alebo zrušenie priradenia licencií používateľom
 
-Používateľ potrebuje licenciu na prístup k službám. Tu sú kroky na **Pridanie, zmenu alebo odstránenie** licencie od používateľa.
+Používateľ potrebuje licenciu na prístup k službám. Tu sú kroky na **pridanie, zmenu alebo odstránenie** licencie od používateľa.
   
-1. V centre spravovania prejdite na položku **Používatelia** \> [aktívni používatelia](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. V Centre spravovania prejdite na **položku** \> [Aktívni používatelia používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
 2. Vyberte meno používateľa, pre ktorého chcete priradiť, zmeniť alebo odstrániť licenciu.
 
-3. Kliknite na položku **Spravovať licencie produktov**a vyberte licenciu, ktorú chcete priradiť tomuto používateľovi.
+3. Kliknite na **položku Spravovať licencie na produkt**a vyberte licenciu, ktorú chcete priradiť tomuto používateľovi.
 
-    Predvolene sú všetky služby priradené k tejto licencii automaticky priradené používateľovi. Ak chcete obmedziť, ktoré služby sú k dispozícii používateľovi, zrušte začiarknutie políčok pre služby, ktoré nechcete, aby používateľ mal.
+    V predvolenom nastavení sa používateľovi automaticky priradia všetky služby priradené k tejto licencii. Ak chcete obmedziť, ktoré služby sú používateľovi k dispozícii, zrušte začiarknutie políčka pre služby, ktoré nemajú mať daný používateľ.
 
 4. V dolnej časti tably kliknite na položku **Uložiť zmeny**.
 
-Ďalšie informácie nájdete v téme [Priradenie licencií používateľom](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)a [Odstránenie licencií od používateľov](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Ďalšie informácie nájdete v [témach Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)a [Odstránenie licencií od používateľov](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).

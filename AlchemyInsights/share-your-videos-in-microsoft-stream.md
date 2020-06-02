@@ -1,5 +1,5 @@
 ---
-title: Zdieľanie videí v aplikácii Microsoft Stream
+title: Zdieľanie videí v službe Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "9001694"
 - "3772"
 ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44015776"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>Zdieľanie videí v aplikácii Microsoft Stream
+# <a name="share-your-videos-in-microsoft-stream"></a>Zdieľanie videí v službe Microsoft Stream
 
-Môžete zdieľať videá v Microsoft Stream s ľuďmi, ktorí nemajú inak prístup. Existujú rôzne spôsoby zdieľania videí:
+Videá v službe Microsoft Stream môžete zdieľať s ľuďmi, ktorí inak nemajú prístup. Videá môžete zdieľať rôznymi spôsobmi:
 
-- [Zdieľanie videí v aplikácii Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Zdieľanie videí v službe Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
 
 - [Povolenia pre vaše video](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

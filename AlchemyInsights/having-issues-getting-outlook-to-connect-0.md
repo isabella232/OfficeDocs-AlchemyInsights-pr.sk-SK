@@ -1,5 +1,5 @@
 ---
-title: Máte problémy so získaním programu Outlook na pripojenie?
+title: Máte problémy so získavaním outlooku?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0d7bc37cd2b418883142c760ad2bfdb504c1c679
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710206"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499058"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Máte problémy so získaním programu Outlook na pripojenie?
+# <a name="having-issues-getting-outlook-to-connect"></a>Máte problémy so získavaním outlooku?
 
-Zistili sme, že program Outlook nie je nakonfigurovaný na správne pracovať v nasledujúcich doménami:
+Zistili sme, že program Outlook nie je nakonfigurovaný na správne fungovanie v nasledujúcich doménach:
   
 {HealthCheckString}
   
-Záznamy NS alebo CNAME v nastaveniach domény (DNS) nie sú správne nastavené. Podrobné pokyny nájdete na [Vytvorenie záznamov DNS v ľubovoľnom poskytovateľovi hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) . 
+NS alebo CNAME záznamy nastavenia domény (DNS) nie sú nastavené správne. Podrobné pokyny nájdete v téme [Vytvorenie DNS záznamov u ľubovoľného poskytovateľa hostiteľských služieb DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
 Ak to chcete opraviť, prejdite na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) v Centre spravovania služby Microsoft 365 a my vám pomôžeme. 

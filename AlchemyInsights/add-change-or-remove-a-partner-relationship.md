@@ -12,18 +12,18 @@ ms.custom:
 - "9001683"
 - "3748"
 ms.openlocfilehash: c388609ebb1c2cc9506ea1f95f5fa692ef95b24f
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "43955468"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Pridanie, zmena alebo odstránenie partnerského vzťahu
 
-Ako správca môžete pracovať s partnerom na zakúpenie, aktiváciu a obnovenie predplatného služby Microsoft 365. 
+Ako správca môžete spolupracovať s partnerom na nákupe, aktivácii a obnovení predplatných služieb Microsoft 365. 
 
-- Ak chcete upraviť existujúci partnerský vzťah, pozrite si časti [Pridanie, zmena alebo odstránenie predplatného poradného partnera](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Ak chcete upraviť existujúci partnerský vzťah, pozrite si tému [Pridanie, zmena alebo odstránenie poradenského partnera pre prihlásenie na odber.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)
 
-- Ak hľadáte nájsť partnera spoločnosti Microsoft, pozrite si [nájsť partnera alebo predajcu spoločnosti microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Ak hľadáte partnera spoločnosti Microsoft, pozrite si tému [Vyhľadanie partnera alebo predajcu služieb Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
 
-Ak ste existujúci partner spoločnosti Microsoft alebo sa chcete stať jedným, ďalšie informácie o výhodách alebo možnostiach, ako získať pomoc od [technickej podpory spoločnosti Microsoft](https://aka.ms/partnersupport), nájdete v [centre Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview) .
+Ak ste existujúcipartner spoločnosti Microsoft alebo sa chcete stať partnerom spoločnosti Microsoft, ďalšie informácie o výhodách a o možnostiach a o možnostiach získať pomoc od technickej podpory pre partnerov spoločnosti Microsoft nájdete v Centre [služieb](https://aka.ms/partnersupport) [spoločnosti Microsoft.](https://support.microsoft.com/help/4499930/partner-center-overview)

@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709278"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495606"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Vyhľadávanie e-mailov v archívnej poštovej schránke
+# <a name="search-for-email-in-the-archive-mailbox"></a>Vyhľadávanie e-mailov v poštovej schránke Archív
 
-Keď archívnej poštovej schránky je povolená pre Microsoft 365, môžete použiť **eDiscovery vyhľadávanie a export** zistiť obsah v primárnej a archívnej poštovej schránky. Informácie o používaní **exportu vyhľadávania eDiscovery** na zistenie, že obsah, postupujte podľa pokynov uvedených [tu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Keď archívnej poštovej schránky je povolená pre Microsoft 365, môžete použiť **eDiscovery vyhľadávanie a export** zistiť obsah v primárnej a archívnej poštovej schránky. Informácie o používaní **exportu vyhľadávania eDiscovery** na vyhľadanie tohto obsahu nájdete v týchto častiach krokov [.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Tento obsah môžete ponechať aj pridaním poštovej schránky do politiky uchovávania údajov. To bude miesto obsah v primárnej a archívnej poštovej schránky na držanie. Ďalšie informácie o vytváraní politiky uchovávania údajov na uchovávanie e-mailov nájdete v krokoch uvedených [v tomto zozname.](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)
+Tento obsah môžete zachovať aj pridaním poštovej schránky do politiky uchovávania údajov. Obsah sa umiestni do poštovej schránky Primárne aj Archív po zadržanie. Ďalšie informácie o vytváraní politík uchovávania údajov na uchovávanie e-mailov nájdete v týchto krokoch [.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
