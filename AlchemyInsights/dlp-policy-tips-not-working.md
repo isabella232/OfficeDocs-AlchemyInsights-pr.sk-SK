@@ -1,5 +1,5 @@
 ---
-title: DLP politika tipy nefunguje
+title: DLP politiky Tipy nefungujú
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704392"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507457"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problémy s tipmi politiky DLP
 
@@ -25,15 +25,15 @@ ms.locfileid: "43704392"
 
 **Tipy pre politiku DLP**
 
-Pri používaní **politík DLP**môžu byť používatelia upozornení na porušenie pravidiel pomocou **tipov politiky**. Správcovia môžu nakonfigurovať politiky tipy na zobrazenie pri testovaní ich DLP politiky alebo keď politika je v režime úplného výkonu.
+Pri používaní **politík DLP**môžu byť používatelia informovaní o porušení pravidiel pomocou **tipov pre pravidlá**. Správcovia môžu nakonfigurovať tipy politiky na zobrazenie pri testovaní politiky DLP alebo v prípade, že politika je v úplnom režime presadzovania.
   
-Ak chcete konfigurovať tipy politiky v politike DLP v centre zabezpečenia a súladu v úplnom režime výkonu, postupujte nasledovne:
+Ak chcete nakonfigurovať tipy politiky pre politiku DLP v centre zabezpečenia a dodržiavania súladu v úplnom režime presadzovania, postupujte takto:
   
-- Uistite sa, že politiky tipy boli **povolené** na DLP pravidlo pomocou krokov [tu](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Pomocou [krokov](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)tu **skontrolujte,** či boli v pravidle Zapnuté tipy politiky .
 
-- Uistite sa, že váš **obsah zodpovedá** tomu, čo je **potrebné** na spustenie pravidla načrtnutého v tomto článku [tu](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Uistite sa, že váš **obsah zodpovedá** tomu, čo je **potrebné** na spustenie pravidla uvedeného v tomto článku [tu](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- Politika tipy Zobraziť v OWA a Outlook. Avšak, pri používaní **programu Outlook 2013 alebo novší**, politiky tipy sú zobrazené len za určitých podmienok. Tieto podmienky sú uvedené tu: [podporované podmienky pre program Outlook 2013 alebo novší pre zobrazenie politiky tipy](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Tipy politiky zobraziť v OWA a Outlook. Však pri používaní **programu Outlook 2013 alebo novší**, politiky tipy sa zobrazujú iba za určitých podmienok. Tieto podmienky sú uvedené tu: [Podporované podmienky pre Outlook 2013 alebo novší pre zobrazenie tipy politiky](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Ďalšie informácie o tipy pre politiku DLP nájdete v téme: [Zobraziť tipy politiky pre politiky DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Ďalšie informácie o tipoch politiky DLP nájdete v téme: [Zobrazenie tipov politiky pre politiky DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

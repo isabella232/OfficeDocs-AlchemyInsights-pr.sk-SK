@@ -1,5 +1,5 @@
 ---
-title: Office 365 Pokročilá ochrana pred hrozbami
+title: Rozšírená ochrana pred hrozbami služieb Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710350"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506609"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 Pokročilá ochrana pred hrozbami
+# <a name="office-365-advanced-threat-protection"></a>Rozšírená ochrana pred hrozbami služieb Office 365
 
-- Bezpečné prílohy, bezpečné odkazy a anti-phishing sú súčasťou balíka Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 a Microsoft 365 Business Premium zahŕňajú ATP. Všetky ostatné plány vyžadujú Add-on ATP predplatné.
+- Bezpečné prílohy, bezpečné prepojenia a ochrana pred neoprávneným získavaním údajov sú súčasťou služby Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 a Microsoft 365 Business Premium zahŕňajú ATP. Všetky ostatné plány vyžadujú prihlásenie na odber služby ATP s doplnkom.
 
-- Musíte priradiť príslušné licencie na ochranu používateľov Office 365 ATP. [V tejto téme](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) nájdete pokyny na hromadné použitie licencií pre používateľov.
+- Na ochranu používateľov pomocou atp služieb Office 365 musíte priradiť príslušné licencie. Pokyny na hromadné použitie licencií pre používateľov nájdete v [tejto téme.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- Globálny správcovia alebo správcovia zabezpečenia prístup k Office 365 ATP funkcie zabezpečenia & Compliance Center na **Threat managmeent** \> **politiky**.
+- Globálni správcovia alebo správcovia zabezpečenia majú prístup k funkciám ATP služieb Office 365 v Centre ochrany & dodržiavania súladu v **politike hrozba managmeent** \> **.**
 
-- Bezpečné prílohy a politiky bezpečného prepojenia môžu byť zamerané na celú organizáciu, konkrétne domény alebo menšie skupiny používateľov.
+- Bezpečné prílohy a politiky bezpečného prepojenia vám môžu byť v yhľadnané na celú organizáciu, konkrétne domény alebo menšie skupiny používateľov.
 
-- Neexistuje žiadna predvolená politika bezpečného pripojenia ATP. Musíte [vytvoriť politiku](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) a aplikovať ju na používateľov.
+- Neexistuje žiadna predvolená politika atp bezpečné prílohy. Musíte [vytvoriť politiku](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) a použiť ich na používateľov.
 
-- Existuje predvolená politika pre bezpečné prepojenia ATP, ktorá sa vzťahuje na všetkých používateľov vo vašej organizácii. Ak chcete upraviť túto politiku alebo vytvoriť vlastné politiky, pozrite si [túto tému](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Existuje predvolená politika bezpečné prepojenia ATP, ktorá sa vzťahuje na všetkých používateľov vo vašej organizácii. Ak chcete upraviť túto politiku alebo vytvoriť vlastné politiky, pozrite si [túto tému](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

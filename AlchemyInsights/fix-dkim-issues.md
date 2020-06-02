@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s nastavením DKIM
+title: Riešenie problémov s inštaláciou DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8195b0e3fada6da033b2d95b1fc6600e7fa3341e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717577"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506789"
 ---
-# <a name="fix-dkim-setup-issues"></a>Riešenie problémov s nastavením DKIM
+# <a name="fix-dkim-setup-issues"></a>Riešenie problémov s inštaláciou DKIM
 
-Ak sa vyskytnú problémy umožňujúce DKIM pre vlastnú doménu, použite nasledovný postup:
+Ak sa vyskytnú problémy umožňujúce DKIM pre vlastnú doménu, postupujte nasledovne:
 
-- Väčšina problémov s nastavením DKIM súvisí s nesprávnymi záznamami DNS. Overte, či záznam DKIM CNAME (**nie** záznam TXT) je správne naformátovaný. Ďalšie informácie nájdete v tejto [téme](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+- Väčšina problémov s inštaláciou DKIM súvisí s nesprávnymi záznamami DNS. Skontrolujte, či je záznam DKIM CNAME **(nie** TXT záznam) správne naformátovaný. Ďalšie informácie nájdete v tejto [téme](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-- Po vytvorení alebo aktualizácii záznamov DNS DKIM na hostiteľskú službu DNS pre vašu doménu (typicky, Registrátor domén), počkajte, kým sa záznamy DNS množiť.
+- Po vytvorení alebo aktualizácii záznamov DKIM DNS v hostiteľskej službe DNS pre vašu doménu (zvyčajne registrátora domén) počkajte na propagáciu záznamov DNS.
 
-- Ak nemôžete vytvoriť DKIM DNS záznamy v admin Center, môžete \<nahradiť customdomain\> s vlastnou doménou (napríklad contoso.com) a spustiť tento príkaz v prostredí [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell):. `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`
+- Ak nemôžete vytvoriť záznamy DKIM DNS v Centre spravovania, môžete nahradiť \<CustomDomain\> vlastnou doménou (napríklad contoso.com) a spustiť tento príkaz v [prostredí Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .

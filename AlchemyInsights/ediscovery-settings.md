@@ -1,5 +1,5 @@
 ---
-title: Nastavenia eDiscovery
+title: Nastavenia ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911163"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507113"
 ---
-# <a name="ediscovery-settings"></a>Nastavenia eDiscovery
+# <a name="ediscovery-settings"></a>Nastavenia ediscovery
 
-eDiscovery/obsah vyhľadávanie vám umožní vyhľadávať, držať a exportovať obsah z poštových schránok Exchange Online, SharePoint Online a OneDrive pre podnikové lokality, Skype Business konverzácie, Microsoft teams a Microsoft 365 skupiny.
+Vyhľadávanie eDiscovery/Content vám umožňuje vyhľadávať, držať a exportovať obsah z poštových schránok služby Exchange Online, lokalít SharePoint Online a OneDrive for Business, konverzácií cez Skype for Business, Microsoft Teams a skupín Microsoft 365.
 
-- Ak hľadáte možnosti ponuky eDiscovery alebo content Search, pozrite si [témy eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Oboznámte sa s povoleniami potrebnými na vykonávanie vyhľadávaní eDiscovery z [povolení požadovaných pre vyhľadávania eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Ak vyhľadávanie nie je vracia očakávané výsledky, pozrite si [vyhľadávanie nevracia očakávané výsledky](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Ak hľadáte možnosti ponuky elektronického vyhľadávania alebo vyhľadávania obsahu, pozrite si tému [Problémy s vyhľadávaním eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Získajte informácie o povoleniach potrebných na vykonávanie vyhľadávaní v služe eDiscovery v [časti Povolenia potrebné na vyhľadávanie v služe eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- Ak vyhľadávanie nevráti očakávané výsledky, pozrite si tému [Vyhľadávanie nevracia očakávané výsledky](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Ďalšie informácie o eDiscovery nájdete [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Ďalšie informácie o ediscovery nájdete v téme [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

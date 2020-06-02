@@ -1,5 +1,5 @@
 ---
-title: Konfigurácia politík IRM v knižniciach dokumentov SharePoint na obmedzenie preberania obsahu
+title: Konfigurácia politík správy prístupových práv k informáciám v knižniciach dokumentov SharePointu na obmedzenie preberania obsahu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: d19bdbe9d8279e80a655d82be394fe43d210d7e5
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
-ms.translationtype: MT
+ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44358467"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507853"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Konfigurácia politík IRM v knižniciach dokumentov SharePoint na obmedzenie preberania obsahu
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Konfigurácia politík správy prístupových práv k informáciám v knižniciach dokumentov SharePointu na obmedzenie preberania obsahu
 
-V rámci služby SharePoint Online sa ochrana IRM aplikuje na súbory na úrovni zoznamu a knižnice. Predtým, ako vaša organizácia môže používať ochranu IRM, musíte najprv nastaviť správu prístupových práv. IRM spolieha na Azure Rights Management služby Azure informácie ochrana šifrovať a priradiť obmedzenia používania.
+V rámci SharePointu Online sa ochrana správy prístupových práv k informáciám použije na súbory na úrovni zoznamu a knižnice. Skôr než vaša organizácia môže používať ochranu správy prístupových práv k informáciám, musíte najprv nastaviť správu prístupových práv. Správa prístupových práv k informáciám sa spolieha na službu Azure Rights Management od služby Azure Information Protection na šifrovanie a priradenie obmedzení používania.
 
-- [Konfigurovať politiky IRM v knižniciach dokumentov SharePoint obmedziť sťahovanie obsahu](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Nakonfigurujte politiky správy prístupových práv k informáciám v knižniciach dokumentov SharePointu na obmedzenie preberania obsahu](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).

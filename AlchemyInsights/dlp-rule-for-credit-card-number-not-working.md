@@ -1,5 +1,5 @@
 ---
-title: Pravidlo DLP pre číslo kreditnej karty nefunguje
+title: DLP pravidlo pre číslo kreditnej karty nefunguje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,12 +12,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 80ff41b3e746f95278ccbf0df19eebb61f7f9ee0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e2e93bed44749b9017dc6ff919a151d46da7a3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704216"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507421"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>DLP problémy s číslami kreditných kariet
 
@@ -25,35 +25,35 @@ ms.locfileid: "43704216"
 
 **DLP problémy s číslami kreditných kariet**
 
-Máte problémy s **únikom údajov (DLP)** nepracuje pre obsah obsahujúci **číslo kreditnej karty** pri použití DLP citlivé informácie typu v služby O365? Ak áno, uistite sa, že váš obsah obsahuje potrebné informácie na spustenie politiky DLP, keď je hodnotená. Napríklad pri **politike kreditnej karty** nakonfigurovanej s úrovňou spoľahlivosti 85% sa vyhodnocujú nasledovné a musia sa zistiť pre pravidlo, ktoré sa má spustiť:
+Máte problémy s **funkciou Ochrana pred únikom údajov (DLP)** nefunguje pre obsah obsahujúci **číslo kreditnej karty** pri používaní typu citlivých informácií DLP v systéme O365? Ak áno, uistite sa, že váš obsah obsahuje potrebné informácie na spustenie politiky DLP pri jej vyhodnocovaní. Napríklad pre **politiku kreditnej karty** nakonfigurovaný s úrovňou spoľahlivosti 85%, sa vyhodnotia nasledovné a musí sa zistiť, aby pravidlo spúšťať:
   
-- **[Formát:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 číslic, ktoré môžu byť formátované alebo neformátovaný (dddddddddddddddd) a musí prejsť Luhn test.
+- **[Formát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 číslic, ktoré môžu byť formátované alebo neformátované (dddddddddddddddddddd) a musia prejsť Luhnovou skúškou.
 
-- **[Vzor:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Veľmi zložitý a robustný vzor, ktorý detekuje karty zo všetkých hlavných značiek po celom svete, vrátane Visa, MasterCard, Discover Card, JCB, American Express, darčekové karty, a Diner karty.
+- **[Vzor:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Veľmi zložitý a robustný vzor, ktorý detekuje karty od všetkých hlavných značiek po celom svete, vrátane Visa, MasterCard, Discover Card, JCB, American Express, darčekových kariet a kariet stravníkov.
 
-- **[Kontrolný súčet:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Áno, Luhn kontrolný súčet
+- **[Kontrolný súčet:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Áno, kontrolný súčet Luhna.
 
-- **[Definícia:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** Politika DLP je 85% presvedčená, že je detekovaný tento typ citlivých informácií, ak v blízkosti 300 znakov:
+- **[Definícia:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Politika DLP je 85% presvedčená, že sa zistil tento typ citlivých informácií, ak v blízkosti 300 znakov:
 
-  - Funkcia Func_credit_card vyhľadá obsah zodpovedajúci vzoru.
+  - Funkcia Func_credit_card nájde obsah, ktorý zodpovedá vzoru.
 
-  - Je splnená jedna z nasledujúcich možností:
+  - Jedna z nasledujúcich je splnená:
 
-  - Našiel sa kľúčové slovo z Keyword_cc_verification.
+  - Nájde sa kľúčové slovo od Keyword_cc_verification.
 
   - Kľúčové slovo z Keyword_cc_name sa nachádza
 
-  - Funkcia Func_expiration_date nájde dátum v správnom formáte dátumu.
+  - Funkcia Func_expiration_date vyhľadá dátum v správnom formáte dátumu.
 
-  - Kontrolný súčet prejde
+  - Kontrolný súčet prechádza
 
-    Napríklad nasledujúca vzorka by spúšťač DLP číslo kreditnej karty:
+    Napríklad nasledujúca vzorka by sa spustiť pre DLP číslo kreditnej karty politiky:
 
   - Vízum: 4485 3647 3952 7352
   
   - Uplynie: 2/2009
 
-Ďalšie informácie o tom, čo je potrebné pre **číslo kreditnej karty** , ktoré sa majú zistiť pre váš obsah, nájdete v nasledujúcej časti tohto článku: [Aké typy citlivých informácií Hľadať kreditnú kartu #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+Ďalšie informácie o tom, čo je potrebné pre **číslo kreditnej karty,** ktoré majú byť zistené pre váš obsah, nájdete v nasledujúcej časti tohto článku: [Čo citlivé informácie typy hľadať kreditnej karty #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Pomocou iného vstavaného typu citlivé informácie nájdete v nasledujúcom článku informácie o tom, čo je potrebné pre iné typy: [Aké typy citlivých informácií Hľadať](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Pomocou iného vstavaného typu citlivých informácií nájdete v nasledujúcom článku informácie o tom, čo sa vyžaduje pre iné typy: [Čo vyzerajú typy citlivých informácií](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
