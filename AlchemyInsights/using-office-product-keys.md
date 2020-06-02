@@ -1,5 +1,5 @@
 ---
-title: Používanie kľúčov Product Key balíka Office
+title: Používanie kódových kľúčov balíka Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: ab047d95a9c448900b3c4ae8ac7e7c5f30aed28e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fa61fdec91e1375a72bc209ff4d0671d6b36d1c8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726082"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511091"
 ---
-# <a name="using-office-product-keys"></a>Používanie kľúčov Product Key balíka Office
+# <a name="using-office-product-keys"></a>Používanie kódových kľúčov balíka Office
 
 **Kódy Product Key balíka Office**
 
-- Ak bol váš nákup balíka Office dodaný s produktového kľúča, pozrite si časť [kde zadať kód Product Key balíka Office](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Ak bol nákup balíka Office dodaný s kódom Product Key, pozrite si tému [Kde zadať kód Product Key balíka Office](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Pomoc s Office 365 domáce alebo osobný kód Product Key, nájdete v téme [používanie produktu kľúče s Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
+- Pomoc s kódom Product Key služieb Office 365 Home alebo Personal nájdete v téme [Používanie kódových kľúčov Product Key s balíkom Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
 
 **Aktivácia predplatného balíka Office** 
-- Ak ste si zakúpili predplatné Microsoft 365 z maloobchodnej predajne, pozrite si [Zadajte kód Product Key pre aplikácie microsoft 365 Apps for Business Premium](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide).
+- Ak ste si predplatné na Microsoft 365 zakúpili v maloobchodnej predajni, pozrite si tému [Zadanie kódu Product Key pre aplikácie Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key).
 
-- Ak sa pri pokuse o použitie kódu Product Key zobrazí chybové hlásenie, pozrite si [problémy s kódom Product Key spoločnosti Microsoft 365 pre podnikové produkty?](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)
+- Ak sa pri pokuse o uplatnenie kódu Product Key zobrazí chybové hlásenie, pozrite si tému [Problémy s kódom Product Key služby Microsoft 365 for business?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

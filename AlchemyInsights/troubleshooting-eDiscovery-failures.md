@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759599"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512569"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Riešenie chýb pri vyhľadávaní obsahu
+# <a name="troubleshoot-content-search-errors"></a>Riešenie problémov s chybami vyhľadávania obsahu
 
-Vyskytli sa problémy s vyhľadávaním obsahu alebo pri získavaní zlyhaní pri exporte výsledkov vyhľadávania?
+Máte problémy s vyhľadávaním obsahu alebo pri exporte výsledkov vyhľadávania vyskytli zlyhania?
 
-Napríklad dostávate nasledujúce pri spustení vyhľadávania?
+Dostávate napríklad nasledujúce informácie pri spustení vyhľadávania?
 
-- CS008 alebo CS012 chyby
+- Chyby CS008 alebo CS012
 
-- Server zaneprázdnený/timeout chyby
+- Chyby o zaneprázdnení a časovom limite servera
 
 - Vyskytla sa chyba aplikácie
 
-Alebo pri vyhľadávaní alebo exportovaní výsledkov z veľkého počtu poštových schránok (viac ako 100 000 poštových schránok) sa zobrazuje chyba exportu?
+Alebo pri vyhľadávaní alebo exportovaní výsledkov z veľkého počtu poštových schránok (viac ako 100 000 poštových schránok) sa zobrazujú chyby exportu?
 
-Ak ide o tieto typy chýb, skúste znova vyhľadať umiestnenia obsahu, ktoré zlyhali. Pozri [Tento článok](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) pre viac informácií.
+V prípade týchto typov chýb zopakujte vyhľadávanie neúspešných umiestnení obsahu. Ďalšie informácie nájdete v [tomto článku.](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)

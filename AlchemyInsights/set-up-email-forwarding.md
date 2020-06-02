@@ -1,5 +1,5 @@
 ---
-title: Nastavenie presmerovania e-mailov
+title: Nastavenie preposielania e-mailov
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: a737cb708219730612954535f000761ac99365b2
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: faa1ac2ceeef9af86d8961e6a19b09ceef968a57
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645651"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512533"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavenia presmerovania e-mailov pre poštovú schránku
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavení preposielania e-mailov pre poštovú schránku
 
-Je ľahké overiť nastavenie presmerovania e-mailu na poštovú schránku Microsoft 365. Stačí postupovať podľa týchto krokov.
+Overenie nastavení preposielania e-mailov v poštovej schránke služby Microsoft 365 je jednoduché overiť. Postupujte podľa týchto krokov.
   
-> Ak ide o poštovú schránku používateľa, prejdite na položku **Používatelia** \> **aktívni používatelia** a vyberte používateľa, ktorého poštovú schránku posielate ďalej. Na karte **Pošta** vyberte položku **Spravovať posielanie e-mailov**.
+> Ak ide o poštovú schránku používateľa, prejdite na **používateľov** \> **aktívnych používateľov** používateľov používateľov a vyberte používateľa, ktorého poštovú schránku posielate ďalej. Na karte **Pošta** vyberte položku **Spravovať presmerovanie e-mailov**.
 
-> Ak ide o zdieľanú poštovú schránku, prejdite do **skupiny** \> **zdieľané poštové** schránky a vyberte zdieľanú poštovú schránku, ktorú preposielate. Vyberte **Upraviť** pre posielanie e-mailov.
+> Ak ide o zdieľanú poštovú schránku, prejdite do **časti Zdieľané** poštové schránky skupiny a vyberte \> **Shared mailboxes** zdieľanú poštovú schránku, ktorú posielate ďalej. Vyberte položku Edit for email forwarding **(Upraviť** pre posielanie e-mailov).
 
-Ďalšie informácie nájdete v téme [Konfigurácia presmerovania e-mailov v Microsoft 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Ďalšie informácie nájdete v téme [Konfigurácia posielania e-mailov v microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
   
-Ak chcete odoslať pokyny svojim používateľom, aby mohli nastaviť presmerovanie e-mailov na svoje vlastné poštové schránky, ukážte ich na odoslanie [e-mailu od spoločnosti Microsoft 365 na iný e-mailový účet](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Vezmite prosím na vedomie, že môžete poslať len jednu e-mailovú adresu. Ak potrebujete nastaviť presmerovanie na skupinu ľudí, vytvorte distribučný zoznam (v časti **skupiny**), pridajte používateľov k nemu a potom nakonfigurujte presmerovanie na túto skupinu.
+Ak chcete používateľom odoslať pokyny na presmerovanie e-mailov vo vlastných poštových schránkach, ukážte ich na [položku Preposlať e-maily zo služby Microsoft 365 do iného e-mailového konta](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Upozorňujeme, že môžete poslať ďalej iba na jednu e-mailovú adresu. Ak potrebujete nastaviť presmerovanie skupine ľudí, vytvorte distribučný zoznam (v časti **Skupiny),** pridajte do ň používateľov a potom nakonfigurujte presmerovanie do tejto skupiny.
   
-Máte zamestnanca odchode? Odporúčané kroky nájdete v časti [Odstránenie bývalého zamestnanca zo spoločnosti Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) .
+Máte zamestnanca, ktorý odchádza? Odporúčané kroky nájdete v téme [Odstránenie bývalého zamestnanca zo služby Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)

@@ -1,5 +1,5 @@
 ---
-title: Ransomware útoku v SharePointe alebo OneDrive
+title: Ransomware útok v SharePointe alebo OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: af5a9aed35297f334295a784603027d66ed8e898
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742820"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511631"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware útoku v SharePointe alebo OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware útok v SharePointe alebo OneDrive
 
-1.  Ak hľadáte pomoc, čo robiť, keď sa v službe OneDrive alebo SharePointe alebo v tímoch nachádza škodlivý súbor, pozrite si, ako [postupovať pri nájme škodlivého súboru](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. Ak hľadáte, ako ochrániť vaše údaje pred ransomware, pozrite si:
-    - [Ochrana údajov v službe SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+1.  Ak hľadáte pomoc pri riešení toho, ako urobiť, keď sa vo OneDrive alebo SharePointe alebo tímoch nájde škodlivý súbor, pozrite si tému [Čo robiť, keď sa nájde škodlivý súbor](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. Ak hľadáte spôsob ochrany údajov z ransomware, pozrite si:
+    - [Ochrana údajov v SharePointe a OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Ochrana pred hrozbami ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Sú všetky súbory v službe OneDrive alebo SharePointe ovplyvnené ransomware alebo malvérom alebo šifrovaním vírusu? 
+3.  Sú všetky súbory vo OneDrive alebo SharePoint ovplyvnené vírusom Ransomware alebo Malware alebo Crypto? 
 
-Okamžite zastavte/pozastavte synchronizáciu OneDrivu (ak existuje) alebo odpojte zobrazenie Prieskumníka priradené k knižnici z postihnutého počítača (ak existuje) a potom môžete obnoviť celú knižnicu OneDrive alebo SharePoint do predchádzajúceho času pomocou funkcie Obnovovanie súborov. 
+Okamžite zastavte alebo pozastavte synchronizáciu OneDrivu (ak existuje) alebo odpojte zobrazenie programu Prieskumník priradené k knižnici z príslušného počítača (ak existuje) a potom môžete obnoviť celú knižnicu OneDrivu alebo SharePointu na predchádzajúci čas pomocou funkcie obnovenia súborov. 
 
-Ďalšie informácie o obnovení nájdete v téme:
+Ďalšie informácie o obnovení nájdete v témach:
 
 - [Obnovenie knižnice OneDrivu](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 - [Obnovenie knižnice dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-Ďalšie informácie o pokročilej ochrane pred hrozbami (ATP) nájdete v časti:
-- [ATP pre SharePoint, OneDrive a tímy](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Názory Prieskumníka hrozieb](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+Ďalšie informácie o rozšírenej ochrane pred hrozbami (ATP), nájdete v témach:
+- [ATP pre SharePoint, OneDrive a tímy](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Zobrazenia prieskumníka hrozieb](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 Ďalšie informácie:
 
-- [Detekcia vírusov v SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Šifrovanie údajov v ODB a SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Detekcia ransomware a obnova súborov](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Hrozba Explorer a Realtime detosti](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Detekcia vírusov v SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Šifrovanie údajov v ODB a SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Ransomware Detekcia a obnovenie súborov](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [Detekcia prieskumníka hrozieb a realtime](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)

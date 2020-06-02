@@ -1,5 +1,5 @@
 ---
-title: Nové menovky uchovávania údajov vytvorené automaticky
+title: Automaticky vytvorené nové menovky uchovávania údajov
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713517"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511775"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nové menovky uchovávania údajov vytvorené automaticky
+# <a name="new-retention-labels-created-automatically"></a>Automaticky vytvorené nové menovky uchovávania údajov
 
-Môžu sa zobraziť [tri nové menovky uchovávania údajov](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) vytvorené automaticky vo vašej organizácii pod **štítkami uchovávania údajov** v centre spravovania zabezpečenia alebo súladu. Názvy štítkov sú:
+V časti **Štítky uchovávania údajov** v Centre spravovania zabezpečenia alebo súladu sa môžu zobraziť [tri nové štítky uchovávania údajov](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) vytvorené automaticky vo vašej organizácii. Názvy menoviek sú:
 
 - Prevádzkový postup
-- Všeobecné obchodné
-- Zmluvy o
+- Obchodné všeobecné
+- Zmluva o zmluve
 
-Táto situácia nastane pri prvom výbere **plánu súborov** , ak nie sú vytvorené žiadne iné menovky uchovávania údajov. Tieto štítky sa vytvoria automaticky a ak je to potrebné, môžu byť odstránené, ak ešte neboli použité na obsah. Demontáž štítkov:
+Táto situácia nastane pri prvom výbere **plánu súborov,** ak nie sú vytvorené žiadne iné menovky uchovávania údajov. Tieto menovky sa vytvoria automaticky a v prípade potreby ich možno odstrániť, ak ešte neboli použité na obsah. Odstránenie menoviek:
 
-1. V centre spravovania zabezpečenia alebo **súladu vyberte** > kartu**uchovávanie** **menoviek štítkov** > .
+1. V Centre spravovania zabezpečenia alebo súladu vyberte kartu **Uchovávanie štítkov**  >  **Labels**  >  **Retention** klasifikácie.
 
-1. Vyberte menovky uchovávania údajov, ktoré chcete odstrániť > **odstrániť menovku** > **Áno** na odstránenie menovky.
+1. Ak chcete odstrániť menovku Odstrániť, vyberte menovky uchovávania údajov, ktoré chcete odstrániť > **Odstrániť menovku**  >  **Áno.**
 
-Pomocou správcu plánu súborov môžete spravovať menovky a politiky uchovávania údajov vo vašej organizácii – ďalšie informácie nájdete v téme [prehľad manažéra plánu súborov](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+Pomocou Správcu plánovania súborov môžete spravovať štítky a politiky uchovávania údajov vo vašej organizácii – ďalšie informácie nájdete v téme [Prehľad správcu plánu súborov](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).

@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: b0e845a3426ec3b8594cb82730fe559d08126e0c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063272"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511487"
 ---
-# <a name="subscription-recurring-billing"></a>Opakované vyúčtovanie predplatného
+# <a name="subscription-recurring-billing"></a>Opakovaná fakturácia predplatného
 
-Ak chcete vedieť, kedy sa bude účtovať mesačné alebo ročné predplatné (ak je zapnutá **opakovaná Fakturácia** ) alebo vyprší (ak je **opakovaná Fakturácia** vypnutá):
+Ak chcete vedieť, kedy bude vaše mesačné alebo ročné predplatné fakturované (ak je **zapnutá funkcia Opakovaná fakturácia)** alebo ktorej platnosť vyprší (ak je **opakovaná fakturácia** vypnutá):
   
-1. V centre spravovania prejdite na stránku **Fakturácia** \> **[vašich produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. V Centre spravovania prejdite na stránku **Billing** \> **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Pre predplatné, ktoré chcete vedieť viac o, v časti **Fakturácia**, pozri **obnovuje** alebo **končí** dátum.
+2. Informácie o predplatnom, o ktorých chcete získať ďalšie informácie, nájdete v časti **Fakturácia**v časti **Obnovenie** alebo **uplynutie platnosti** dňa.
 
-4. Ak chcete vykonať zmenu, vyberte položku **Upraviť** a potom na table **opakujúce** sa nastavenia fakturácie **Vyberte položku** vypnúť a vypnite ju. Ak je už opakovaná Fakturácia vypnutá, vyberte položku **mesačne** alebo **jedenkrát** a zapnite ju.
+4. Ak chcete vykonať zmenu, vyberte **položku Upraviť** a potom na table **Nastavenia opakovanej fakturácie** vyberte položku **Vypnúť** a vypnite ju. Ak je opakovaná fakturácia už vypnutá, výberom položky **Mesačne** alebo **Raz** ju zapnite.
 
-Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
