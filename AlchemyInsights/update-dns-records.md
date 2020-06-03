@@ -12,16 +12,16 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: 63889b05c3755e80b381f38dc14827f4a96e5ef8
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: HT
+ms.openlocfilehash: ca580e981036d3c830e55d67f2a79272fe4f27e4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818729"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508535"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="763bb-102">Aktualizácia DNS záznamov</span><span class="sxs-lookup"><span data-stu-id="763bb-102">Update DNS Records</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="9c17c-102">Aktualizácia DNS záznamov</span><span class="sxs-lookup"><span data-stu-id="9c17c-102">Update DNS records</span></span>
 
-<span data-ttu-id="763bb-103">Nastavenie DNS záznamov je dôležité na to, aby bolo predplatné služieb Office 365 funkčné s vaším vlastným názvom domény.</span><span class="sxs-lookup"><span data-stu-id="763bb-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="763bb-104">Pomocou prepojení nižšie pridajte alebo aktualizujte DNS záznamy.</span><span class="sxs-lookup"><span data-stu-id="763bb-104">Use the links below to add or update your DNS records.</span></span>
+<span data-ttu-id="9c17c-103">Nastavenie DNS záznamov je dôležité na to, aby vaše predplatné fungovalo s vlastným názvom domény.</span><span class="sxs-lookup"><span data-stu-id="9c17c-103">Setting up your DNS records is important to getting your subscription working with your custom domain name.</span></span> <span data-ttu-id="9c17c-104">Pomocou prepojení nižšie pridajte alebo aktualizujte DNS záznamy.</span><span class="sxs-lookup"><span data-stu-id="9c17c-104">Use the links below to add or update your DNS records.</span></span>
   
-- [<span data-ttu-id="763bb-105">Vytvorenie DNS záznamov pre Office 365 u ľubovoľného poskytovateľa hostiteľských služieb DNS</span><span class="sxs-lookup"><span data-stu-id="763bb-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [<span data-ttu-id="763bb-106">Pridanie alebo úprava vlastných DNS záznamov</span><span class="sxs-lookup"><span data-stu-id="763bb-106">Add or edit custom DNS records</span></span>](https://docs.microsoft.com/office365/admin/dns/add-or-edit-custom-dns-records)
+- [<span data-ttu-id="9c17c-105">Vytvorenie DNS záznamov u ľubovoľného poskytovateľa hostiteľských služieb DNS</span><span class="sxs-lookup"><span data-stu-id="9c17c-105">Create DNS records at any DNS hosting provider</span></span>](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [<span data-ttu-id="9c17c-106">Pridanie alebo úprava vlastných DNS záznamov</span><span class="sxs-lookup"><span data-stu-id="9c17c-106">Add or edit custom DNS records</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/add-or-edit-custom-dns-records)
