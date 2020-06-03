@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799066"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508607"
 ---
 # <a name="unlocking-an-account"></a>Odblokovanie konta
 
@@ -40,4 +40,4 @@ Ak jeden z vašich používateľov má obmedzenie na odosielanie e-mailov, môž
 
 Ďalšie scenáre vytvorenia nového hesla vrátane samoobslužného vytvorenia nového hesla nájdete v téme [Resetovanie hesiel pre Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Služba zabraňuje používateľovi odosielať e-maily po zistení dôkazu o zneužitom účte a/alebo odchádzajúcej nevyžiadanej pošte. Ako preventívne opatrenie postupujte podľa krokov v téme [Reagovanie na zneužité e-mailové konto v službe Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) pre používateľa.
+Služba zabraňuje používateľovi odosielať e-maily po zistení dôkazu o zneužitom účte a/alebo odchádzajúcej nevyžiadanej pošte. Ako preventívne opatrenie postupujte podľa krokov v téme [Reagovanie na zneužité e-mailové konto v službe Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) pre používateľa.

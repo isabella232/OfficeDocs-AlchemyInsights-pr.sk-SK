@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765860"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509507"
 ---
 # <a name="issue-with-skype-for-business"></a>Problémy so Skypom for Business?
 
@@ -23,7 +23,7 @@ Zistili sme, že nasledujúce domény majú problémy, ktoré môžu brániť Sk
   
 {HealthCheckString}
   
-Záznamy SRV, CNAME alebo NS v nastaveniach domény (DNS) nie sú správne nakonfigurované pre Skype for Business. Podrobné pokyny nájdete v téme [Vytvorenie DNS záznamov u ľubovoľného poskytovateľa hostiteľských služieb DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Záznamy SRV, CNAME alebo NS v nastaveniach domény (DNS) nie sú správne nakonfigurované pre Skype for Business. Podrobné pokyny nájdete v téme [Vytvorenie DNS záznamov u ľubovoľného poskytovateľa hostiteľských služieb DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Ak to chcete opraviť, prejdite na stránku [Domény](https://admin.microsoft.com/adminportal/home#/Domains) v Centre spravovania služby Microsoft 365 a my vám pomôžeme.
   
