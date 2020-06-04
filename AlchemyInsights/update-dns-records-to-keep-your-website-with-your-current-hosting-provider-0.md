@@ -1,5 +1,5 @@
 ---
-title: Aktualizácie záznamov DNS, aby vaše webové stránky s aktuálne poskytovateľa hostingu
+title: Aktualizácia DNS záznamov, aby sa vaša webová lokalita udržala u aktuálneho poskytovateľa hostiteľských služieb
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,36 +14,36 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665775"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aktualizácie záznamov DNS, aby vaše webové stránky s aktuálne poskytovateľa hostingu
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aktualizácia DNS záznamov, aby sa vaša webová lokalita udržala u aktuálneho poskytovateľa hostiteľských služieb
 
-1. Microsoft 365 admin Center, prejdite na **Nastavenie** > [domén](https://portal.office.com/adminportal/home#/Domains) strana a v zozname domény vyberte doménu, ktorú používate pre vaše webové stránky.
+1. V Centre spravovania služby Microsoft 365 prejdite na stránku **Setup**  >  [Domains (Nastavenia domén)](https://portal.office.com/adminportal/home#/Domains) a v zozname domén vyberte doménu, ktorú používate pre svoju webovú lokalitu.
 
-2. Vyberte položku **+ nový vlastný rekord** a zadajte nasledujúce:
+2. Vyberte **položku + Nový vlastný záznam** a zadajte nasledujúce položky:
 
-  - Pre **Typ DNS** zadajte: **(adresa)**
+  - Pre **typ DNS** zadajte: A **(Adresa)**
 
-  - Pre **názov hostiteľa alebo Alias**, zadajte nasledovný príkaz:**@**
+  - Pre **názov hostiteľa alebo alias**, zadajte nasledovné:**@**
 
-  - **Adresa IP**zadajte statickú adresu IP pre vaše webové stránky, kde je v súčasnosti hostil (napríklad 172.16.140.1).
+  - V prípade **adresy IP**zadajte statickú adresu IP webovej lokality, na ktorej je aktuálne hosťovaná (napríklad 172.16.140.1).
 
-    Musí to byť *statická* adresa IP pre webové stránky, nie *dynamickú* IP adresu. Skontrolujte s lokalitou, kde je hostiteľom vašich webových stránkach aby sa ubezpečil, môžete získať statickú adresu IP pre vaše verejné webové stránky.
+    Musí to byť *statická* adresa IP pre webovú lokalitu, nie *dynamická* adresa IP. Informujte sa u stránok, kde je vaša webová stránka hosťovaná, aby sa ubezpečil, môžete získať statickú IP adresu pre vaše verejné webové stránky.
 
-3. Kliknite na tlačidlo **Uložiť**.
+3. Vyberte polo **ku Ulo3/4i»**.
 
-Okrem toho môžete vytvoriť záznam CNAME pre zákazníkov nájsť vaše webové stránky.
+Okrem toho môžete vytvoriť CNAME záznam, ktorý pomôže zákazníkom nájsť vaše webové stránky.
   
-1. Vyberte položku **+ nový vlastný rekord** a zadajte nasledujúce:
+1. Vyberte **položku + Nový vlastný záznam** a zadajte nasledujúce položky:
 
-  - Pre **Typ DNS** zadajte: **CNAME (Alias)**
+  - Pre **typ DNS** zadajte: **CNAME (Alias)**
 
-  - Pre **názov hostiteľa alebo Alias**, zadajte nasledujúce: **www**
+  - Pre **názov hostiteľa alebo Alias**zadajte nasledujúce: **www**
 
-  - **Bodov na adresu**, zadajte plne kvalifikovaní doménové meno (FQDN) pre vaše webové stránky (napríklad contoso.com).
+  - Ak **chcete použiť položku Smerovanie na adresu,** zadajte úplný názov domény (FQDN) pre vašu webovú lokalitu (napríklad contoso.com).
 
-2. Kliknite na tlačidlo **Uložiť**.
+2. Vyberte polo **ku Ulo3/4i»**.

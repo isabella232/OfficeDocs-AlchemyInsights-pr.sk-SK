@@ -1,5 +1,5 @@
 ---
-title: Predložiť žiadosti o podporu PowerApps alebo Microsoft Flow
+title: Odoslanie žiadostí o podporu služby PowerApps alebo Microsoft Flow
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559496"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Predložiť žiadosti o podporu PowerApps alebo Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Odoslanie žiadostí o podporu služby PowerApps alebo Microsoft Flow
 
-Ak ste **PowerApps** alebo **Microsoft Flow** zákazníka Predložte vašu vstupenku prostredníctvom nových [Power platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Nový portál poskytuje priamejšie cestu k asistovanej technickej podpory, ktoré je optimalizované pre PowerApps a iné produkty Power platform.
+Ak ste zákazníkom **služby PowerApps** alebo **Microsoft Flow,** odošlite lístok prostredníctvom nového [Centra spravovania platformy Power.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) Nový portál poskytuje priamejšiu cestu k asistovanej podpore, ktorá je optimalizovaná pre PowerApps a ďalšie produkty platformy Power.
 
-[Odoslanie žiadosti o podporu Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Odoslanie žiadosti o podporu služby Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

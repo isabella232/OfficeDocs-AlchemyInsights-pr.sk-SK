@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s zapísať Windows zariadenia v Microsoft Intune
+title: Riešenie problémov s registráciou zariadení s Windowsom v službe Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,34 +12,34 @@ ms.custom:
 - "784"
 - "6200002"
 ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665847"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Riešenie problémov s zapísať Windows zariadenia v Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Riešenie problémov s registráciou zariadení s Windowsom v službe Microsoft Intune
 
-Prečítajte si nižšie uvedené zdroje a vyriešte problém teraz.
+Skontrolujte zdroje uvedené nižšie a teraz vyriešte problém.
   
-Niektoré bežné chybové hlásenia a kroky na vyriešenie:
+Niektoré bežné chybové hlásenia a kroky riešenia:
   
- **Softvér nie je možné nainštalovať, 0x80cf4017:** Platnosť certifikátu vášho konta uplynula. Re-download PC client softvérový balík v konzole Intune admin. Prečítajte si túto dokumentáciu pre viac informácií.
+ **Softvér sa nedá nainštalovať, 0x80cf4017:** Platnosť certifikátu konta uplynula. Znova prevezmite softvérový balík pc client v konzole Intune Admin Console. Ďalšie informácie nájdete v tejto dokumentácii.
   
- **Kód chyby 0x801c0003:** Chyba sa môže vyskytnúť v nasledovných prípadoch:
+ **Kód chyby 0x801c0003:** Chyba sa môže vyskytnúť v nasledujúcich situáciách:
   
--  Používateľ má viac zariadení zapísaných ako limit zariadenia. Skontrolujte tieto dokumenty a [odstráňte zariadenie](https://docs.microsoft.com/intune/devices-wipe) alebo [zmeňte limit zariadenia](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Používateľ má viac zariadení zaregistrovaných ako limit zariadenia. Skontrolujte tieto dokumenty, ak [chcete odstrániť zariadenie](https://docs.microsoft.com/intune/devices-wipe) alebo zmeniť limit [zariadenia](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
--  "Používatelia môžu pripojiť zariadenia k Azure AD" je nastavená na "none." Nastavte ho na možnosť všetky alebo vyberte používateľov. Prečítajte si [túto dokumentáciu](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) pre viac informácií.
+-  "Používatelia môžu pripojiť zariadenia Azure AD" je nastavená na "none." Nastavte ho na všetkých alebo vyberte používateľov. Ďalšie informácie nájdete v [tejto dokumentácii.](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)
 
--  Zariadenie je už zapísané iným používateľom. Ak je tomu tak, odstráňte zariadenie z konzoly Azure Intune alebo manuálne zrušte registráciu zariadenia pred pokusom znova.
+-  Zariadenie už zapísal iný používateľ. Ak je to tak, odstráňte zariadenie z konzoly Azure Intune alebo manuálne zrušte registráciu zariadenia pred pokusom znova.
 
--  Zariadenie je Windows 10 Home. Azure Active Directory sa môže pripojiť iba Windows 10 Pro, vzdelávanie a Enterprise SKUs.
+-  Zariadenie je Windows 10 Home. Iba Windows 10 Pro, Education a Enterprise SKU sa môžu pripojiť azure Active Directory.
 
-Ďalšie zdroje, ktoré vám pomôžu vyriešiť váš problém:
+Ďalšie zdroje informácií, ktoré vám pomôžu vyriešiť váš problém:
   
--  Použite [Intune riešenie problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné registrácie zlyhania. Prečítajte si [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) pre viac informácií.
+-  Použite [Intune riešenie problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť bežné zlyhanie registrácie. Ďalšie podrobnosti [nájdete v tomto dokumente.](https://docs.microsoft.com/intune/help-desk-operators)
 
--  Prečítajte si tieto dokumenty pre zoznam bežných chýb, ktoré bránia zápisu a uznesenia pre každého: [Riešenie problémov sprievodca](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) a [Riešenie problémov doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Skontrolujte tieto dokumenty pre zoznam bežných chýb, ktoré bránia registrácii a riešenia pre každý: [Riešenie problémov sprievodca](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) a Riešenie problémov [doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
-[Naučte sa, ako zapísať zariadenia Windows v Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Zistite, ako zapísať zariadenia so systémom Windows v službe Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

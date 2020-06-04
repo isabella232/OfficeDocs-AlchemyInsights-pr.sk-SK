@@ -1,5 +1,5 @@
 ---
-title: Služba udalosti v priebehu
+title: Prebieha servisný incident
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666315"
 ---
-# <a name="service-incident-in-progress"></a>Služba udalosti v priebehu
+# <a name="service-incident-in-progress"></a>Prebieha servisný incident
 
-Môže byť ovplyvnená incident služby alebo poradenské ktorý je v súčasnosti vyšetrovaný. Môžete skontrolovať najnovšie stav tým, že pôjdete na stránku [Stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Môže vás ovplyvniť servisný incident alebo odporúčanie, ktoré sa v súčasnosti vyšetruje. Najnovší stav môžete skontrolovať tak, že prejdete na stránku [Stav služby.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Pre vaše pohodlie môžete nájsť súhrn tejto udalosti nižšie:
+Pre vaše pohodlie, môžete nájsť zhrnutie tohto incidentu nižšie:
   
-> **Udalosť číslo:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Číslo incidentu:**[{Identifikácia incidentu}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Vplyv Popis: {ImpactDescription}
+> Popis vplyvu: {ImpactDescription}
