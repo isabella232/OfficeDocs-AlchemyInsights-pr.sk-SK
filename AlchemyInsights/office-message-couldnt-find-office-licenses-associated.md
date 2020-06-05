@@ -1,5 +1,5 @@
 ---
-title: Hlásenie v aplikáciách balíka Office – Nenašli sa priradené licencie na Office
+title: Správa aplikácií microsoft 365 – nepodarilo sa nájsť priradené licencie balíka Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505106"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581666"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Hlásenie v aplikáciách balíka Office – Nenašli sa priradené licencie na Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Správa aplikácií microsoft 365 – nepodarilo sa nájsť priradené licencie balíka Office
 
 Ak chcete vyriešiť túto chybu, vyskúšajte nasledovný postup:
 
@@ -38,7 +38,7 @@ Ak problém pretrváva, vyskúšajte tento postup:
 
 - Resetujte stav aktivácie balíka Office. Pozrite si tému [Resetovanie stavu aktivácie služby Aplikácie Microsoft 365 pre veľké organizácie](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Skontrolujte nastavenia brány firewall, antivírusového softvéru a servera proxy a potvrďte, že neblokujú aplikáciám balíka Office prístup na internet. 
+- Skontrolujte nastavenia brány firewall, antivírusového softvéru a servera proxy, aby ste potvrdili, že neblokujú prístup aplikácií Microsoft 365 na Internet. 
 
 Ďalšie riešenie problémov nájdete v téme:
 

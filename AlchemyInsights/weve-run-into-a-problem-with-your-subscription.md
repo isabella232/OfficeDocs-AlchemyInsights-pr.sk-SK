@@ -1,5 +1,5 @@
 ---
-title: Upevnenie aplikácií, ktoré sme spustili do problému s vašou správou o predplatnom
+title: Oprava aplikácií Vyskytol sme problém so správou o predplatnom
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: 65737856d594f79d0510ea1acefbc7b0f293d333
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 2cc46168adf9cde46debcf8c0a24ee954ed75d52
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064172"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581854"
 ---
-# <a name="fixing-the-office-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Oprava aplikácií balíka Office "sme naraziť na problém s predplatným" správy
+# <a name="fixing-the-microsoft-365-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Oprava správy aplikácie Microsoft 365 "Vyskytol sa problém s predplatným"
 
-Ak sa zobrazí toto hlásenie, vyskúšajte nasledujúce kroky:
+Ak sa zobrazí toto hlásenie, vyskúšajte nasledujúci postup:
 
-- Ak ste prešli na iný Microsoft 365 predplatné/plán v poslednej dobe, postupujte podľa pokynov v [časti "oznámenie účtu" sa zobrazí v balíku Office po prepnutí predplatného microsoft 365](https://support.office.com/article/account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) preinštalovať alebo aktualizovať Office.
-- Pozrite si [Office Error "Upozornenie na účet: sme naraziť na problém s predplatným Microsoft 365"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1). 
-- [Odstrániť](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) a [Preradiť licenciu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) na postihnutého používateľa.
-- Otvorte aplikáciu balíka Office, vyberte **File**položku  >  **konto**súboru a odhláste sa zo všetkých kont. Prihláste sa znova pomocou používateľského konta s platnou licenciou. Podrobné informácie sa nachádzajú v téme [Kontá v balíku Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
+- Ak ste nedávno prešli na iné predplatné/plán služby Microsoft 365, [po prepnutí predplatného na Microsoft 365](https://support.office.com/article/account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) na preinštalovanie alebo aktualizáciu balíka Office sa v balíku Office zobrazia kroky uvedené v časti Upozornenie na konto v balíku Office.
+- Pozrite si [časť Chyba balíka Office "Oznámenie o konte: Vyskytol sa problém s predplatným na Microsoft 365".](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1) 
+- [Odstráňte](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) a [znova priraďte licenciu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) príslušnému používateľovi.
+- Otvorte aplikáciu balíka Office, vyberte položku **Konto súboru**a  >  **Account**odhláste sa zo všetkých kont. Znova sa prihláste pomocou používateľského konta s platnou licenciou. Podrobné informácie sa nachádzajú v téme [Kontá v balíku Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
 - Spustite [Poradcu pri riešení problémov s aktiváciou](https://aka.ms/SARA-OfficeActivation-Alchemy) a reštartujte počítač.
-- Na postihnutý stroj, [obnoviť stav aktivácie balíka Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- Na postihnuté ho [zariadenia, obnoviť stav aktivácie balíka Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Podrobné pokyny nájdete v témach:
 - [Po otvorení aplikácie Microsoft 365 sa zobrazí upozornenie na predplatné](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)

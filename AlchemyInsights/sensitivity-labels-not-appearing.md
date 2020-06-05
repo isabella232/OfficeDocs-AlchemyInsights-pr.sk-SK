@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511667"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581030"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Označenia citlivosti sa nezobrazujú
 
 Označenia citlivosti umožňujú klasifikáciu a ochranu citlivého obsahu. Môžu byť vytvorené v Centre súladu s požiadavkami služby Microsoft 365, Centrum zabezpečenia spoločnosti Microsoft 365 alebo Centrum zabezpečenia spoločnosti Microsoft 365 & centrum súladu v časti Menovky klasifikácie > citlivosti. Ďalšie informácie o tejto funkcii nájdete v téme [Prehľad menoviek citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Ak ste nakonfigurovali menovky citlivosti, ale nezobrazujú sa v aplikáciách balíka Office, skontrolujte nasledovné:
+Ak ste nakonfigurovali označenia citlivosti, ale nezobrazujú sa v aplikáciách Microsoft 365, skontrolujte nasledovné:
 
 - Potvrďte, že označenie citlivosti bolo [publikované](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) požadovaným používateľom a skupinám.
 

@@ -1,5 +1,5 @@
 ---
-title: Aktivácia problém-sme schopní sa pripojiť práve teraz
+title: Aktivácia Problém - Sme schopní sa pripojiť práve teraz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716187"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581890"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Oprava aplikácie balíka Office "sme schopní pripojiť práve teraz" správa
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Oprava správy aplikácie Microsoft 365 "Momentálne sa nedá pripojiť"
 
-Ak sa zobrazí toto hlásenie, vyskúšajte nasledujúce kroky:
+Ak sa zobrazí toto hlásenie, vyskúšajte nasledujúci postup:
 
-1. Skontrolujte, či brána firewall, antivírusový softvér a nastavenia servera proxy potvrdia, že neblokujú prístup na internet k aplikáciám balíka Office. Pozrite si [adresy URL a rozsahy adries IP spoločnosti Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Skontrolujte nastavenia brány firewall, antivírusového softvéru a servera proxy, aby ste potvrdili, že neblokujú prístup na Internet k aplikáciám Microsoft 365. Pozrite [si webové adresy a rozsahy adries IP od spoločnosti Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Prejdite na **Štart** > **Spustiť**, a potom zadajte **Services. msc**. Uistite sa, že sú spustené nasledujúce služby:
-    - Automatické nastavenie zariadení pripojených k sieti
-    - Služba sieťového zoznamu
-    - Povedomie o umiestnení v sieti
+2. Prejdite do ponuky **Spustiť**  >  **a**zadajte **text services.msc**. Uistite sa, že všetky nasledujúce služby sú spustené:
+    - Automatické nastavenie pripojených sieťových zariadení
+    - Služba zoznam siete
+    - Povedomie o sieťovom umiestnení
     - Denník udalostí systému Windows
 
-Ak jedna z týchto služieb nie je spustená, pokúste sa ho spustiť. Ak máte problém so spustením služby, spustite nasledovný príkaz otvorením príkazového riadka so zvýšenými povoleniami:
+Ak nie je spustená nie ktorá z týchto služieb, skúste ju spustiť. Ak máte problém so spustením služby, spustite nasledujúci príkaz otvorením príkazového riadka s právami správcu:
 
-**sfc/scannow**
+**Sfc / scannow SFC / scannow**
 
 Po dokončení tohto príkazu reštartujte počítač.
 
-Podrobné informácie nájdete v časti ["Ľutujeme, nemôžeme sa pripojiť k vášmu kontu. Skúste to znova neskôr "chyba pri aktivácii balíka Office od spoločnosti Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Podrobné informácie nájdete v časti ["Ľutujeme, nemôžeme sa pripojiť k vášmu kontu. Skúste to znova neskôr" chyba pri aktivácii balíka Office od spoločnosti Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

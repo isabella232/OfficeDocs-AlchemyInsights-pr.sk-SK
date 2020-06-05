@@ -1,5 +1,5 @@
 ---
-title: Hlásenie v aplikáciách balíka Office – Vyskytol sa problém s vaším predplatným
+title: Správa aplikácií microsoft 365 - Vyskytol sa problém s predplatným
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512461"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581570"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Hlásenie v aplikáciách balíka Office – Vyskytol sa problém s vaším predplatným
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Správa aplikácií microsoft 365 - Vyskytol sa problém s predplatným
 
 - Ak ste nedávno prešli na iné predplatné alebo plán, preinštalujte alebo aktualizujte Office podľa krokov v téme [Po zmene plánov sa v balíku Office zobrazí chyba Upozornenie konta](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d).
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512461"
 
 - Spustite [Poradcu pri riešení problémov s aktiváciou](https://aka.ms/SARA-OfficeActivation-Alchemy) a reštartujte počítač.
 
-- Na problémovom počítači [resetujte stav aktivácie balíka Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Na problémovom počítači [resetujte stav aktivácie balíka Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Podrobné pokyny nájdete v témach: 
 
