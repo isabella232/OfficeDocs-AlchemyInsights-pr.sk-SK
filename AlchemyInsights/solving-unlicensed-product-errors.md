@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512027"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582754"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Návrhy na riešenie chýb produktu bez platnej licencie
 
@@ -26,7 +26,7 @@ Ak chcete vyriešiť chyby týkajúce sa produktu bez platnej licencie, vyskúš
 - Uistite sa, že máte predplatné, ktoré umožňuje klientske licencie, ako sú napríklad aplikácie Microsoft 365 Apps for business alebo Business Premium, a [uistite sa, že používateľ má priradenú licenciu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Uistite sa, že používateľ sa prihlasuje do balíka Office s rovnakým kontom, ktoré má priradenú licenciu.
 - Skontrolujte [stránku Stav služby](https://docs.microsoft.com/office365/enterprise/view-service-health) a zistite, či sa v službe nevyskytli známe problémy.
-- Skontrolujte nastavenia brány firewall, antivírusového softvéru a servera proxy, aby ste potvrdili, že neblokujú prístup aplikácií balíka Office na Internet. Pozrite [si adresy URL a rozsahy adries IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Skontrolujte nastavenia brány firewall, antivírusového softvéru a servera proxy, aby ste potvrdili, že neblokujú prístup aplikácií Microsoft 365 na Internet. Pozrite [si adresy URL a rozsahy adries IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Môžete tiež vyskúšať nasledujúce akcie riešenia problémov: 
 

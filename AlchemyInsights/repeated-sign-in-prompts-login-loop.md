@@ -1,5 +1,5 @@
 ---
-title: Opakované prihlasovacie výzvy/prihlasovacia slučka
+title: Opakované prihlásenie vyzve / prihlasovacie slučky
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722753"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582430"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a>Opakované prihlasovanie výziev v aplikáciách balíka Office
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Opakované výzvy pri prihlasovaní v aplikáciách Microsoft 365
 
-Riešenie opakovaných prihlasovaní výziev v aplikáciách balíka Office nájdete v téme:
+Riešenie problémov s opakovanými výzvami na prihlásenie v aplikáciách Microsoft 365 nájdete v témach:
 
-- [Riešenie neprehliadaèové aplikácie, ktoré sa nemôžu prihlásiť do Microsoft 365, Azure alebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [Riešenie problémov s aplikáciami, ktoré nie sú prehľadávačom, ktoré sa nemôžu prihlásiť do služby Microsoft 365, Azure alebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
 - ["Prístup odmietnutý", alebo používateľ opakovane výzva na zadanie poverení pri pripájaní k Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Externý používateľ opakovane výzva na zadanie poverení počas prihlásenia do Microsoft 365, Azure alebo Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Externý používateľ opakovane výzva na zadanie poverení počas prihlásenia do microsoft 365, Azure alebo Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
