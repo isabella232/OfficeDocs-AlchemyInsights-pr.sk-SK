@@ -1,5 +1,5 @@
 ---
-title: PSTN konferencie
+title: Konferencie prostredníctvom verejnej telefónnej siete (PSTN)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 4a5f95a1f21c5c78c80088145632d37cb9acb6d5
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: e7492d024667509e3766b4fd2569518d54ed5767
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37317001"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581462"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN volania Skype Business online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Volanie prostredníctvom verejnej telefónnej spoločnosti (PSTN) cez Skype for Business Online
 
-Ak chcete PSTN volania v balíku Office 365, potrebujete [office 365 volací plán](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) alebo pripojenie k lokálnej sieti PSTN telefonickú infraštruktúru. Ďalšie informácie nájdete v nasledujúcich zdrojoch informácií: 
+Ak chcete uskutočňovať hovory prostredníctvom verejnej telefónnej siete (PSTN) v službe Microsoft 365, potrebujete [plán volania v službe Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) alebo pripojenie k lokálnej telefónnej infraštruktúre verejnej telefónnej siete (PSTN). Ďalšie informácie nájdete v nasledujúcich zdrojoch: 
 
-- [Dostupnosť jednotlivých krajín a regiónov pre audiokonferencie a plány hovorov](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [Zvukové konferencie časté otázky](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Pridať finančné prostriedky a spravovať komunikačné kredity](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN volajúci nemôže pripojiť Skype Business dial-in konferenčný hovor](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Dostupnosť krajiny a oblasti pre audiokonferencie a telefonické plány](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Bežné otázky týkajúce sa audiokonferencií](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Pridanie finančných prostriedkov a správa kreditov na komunikáciu](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [Pstn volajúci nemôže pripojiť Skype Business telefonický konferenčný hovor](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

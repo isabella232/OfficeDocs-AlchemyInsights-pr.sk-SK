@@ -1,5 +1,5 @@
 ---
-title: Chýbajú návrhy na vyriešenie programu OneNote 2016
+title: Chýbajú návrhy na riešenie OneNotu 2016
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "2429"
 - "9000575"
 ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
-ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43143040"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580912"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Chýbajú návrhy na vyriešenie programu OneNote 2016
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Chýbajú návrhy na riešenie OneNotu 2016
 
-Počnúc marca 2020, pri inštalácii balíka Office 365 alebo Office 2019, aplikácia OneNote Desktop sa nainštaluje vedľa aplikácie Word, PowerPoint a Excel Desktop Apps.
+Od marca 2020 sa pri inštalácii služieb Office 365 alebo Office 2019 nainštaluje počítačová aplikácia OneNote spolu s počítačovými aplikáciami Wordu, PowerPointu a Excelu.
 
-Po inštalácii balíka Microsoft Office 2019 alebo Office 365 v počítači s ľubovoľnom vydaní Windowsu 10 sa zdá, že program OneNote 2016 chýba zo zoznamu nainštalovaných počítačových aplikácií.
+Po inštalácii balíka Microsoft Office 2019 alebo služieb Office 365 do počítača s akýmkoľvek vydaním Windowsu 10 sa zdá, že OneNote 2016 v zozname nainštalovaných počítačových aplikácií chýba.
 
-Ak chcete získať ďalšie informácie o preberaní 32-bitového alebo 64-bitového vydania programu OneNote 2016 pre systém Windows, postupujte podľa [týchto krokov](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) .
+Ďalšie informácie o prevzatí 32-bitového alebo 64-bitového vydania OneNotu 2016 pre Windows nájdete v [týchto postupoch.](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5)

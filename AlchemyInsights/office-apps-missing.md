@@ -1,5 +1,5 @@
 ---
-title: Chýbajú aplikácie balíka Office
+title: Chýbajú aplikácie Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: d0e38f376db8d4167df51e229b29deb1ce79fb83
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 5f935408bac9ac8ad36d18740bd61aba12bca1ca
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738898"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576791"
 ---
-# <a name="office-apps-missing"></a>Chýbajú aplikácie balíka Office
+# <a name="microsoft-365-apps-missing"></a>Chýbajú aplikácie Microsoft 365
 
-Ak nie je možné nájsť aplikácie balíka Office v počítači po inštalácii alebo aktualizácii, pozrite si [nie je možné nájsť aplikácie balíka Office v systéme Windows 10, Windows 8 alebo Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6). Ak nemôžete nájsť odkazy balíka Office v ponuke Štart alebo v časti **všetky aplikácie**, pozrite si [aplikácie balíka Office chýbajú všetky aplikácie v systéme Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
+Ak sa vám po inštalácii alebo aktualizácii nedarí nájsť aplikácie balíka Office v počítači, pozrite si tému [Nedajú sa nájsť aplikácie balíka Office vo Windowse 10, Windowse 8 alebo Windowse 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6) Ak nemôžete nájsť skratky balíka Office v ponuke Štart alebo v časti **Všetky aplikácie,** pozrite si tému Všetky [aplikácie Microsoft 365 chýbajú vo všetkých aplikáciách vo Windowse 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
 
-Pokúste sa [opraviť aplikáciu balíka Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) , ak Office skratky zmizli po prihlásení alebo reštartovaní počítača. 
+Ak sa po prihlásení alebo reštartovaní počítača stratili odkazy balíka Office, pokúste sa [opraviť aplikáciu balíka](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) Office. 
 
-**Poznámka:** Ak aplikácie balíka Office chýbajú pre inštaláciu na portáli Office, prejdite na [Riešenie problémov s inštaláciou balíka Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) a prejdite na **Office for Business** > **bežné problémy** > nevidíte**možnosť inštalácie balíka Office**. 
+**Upozornenie:** Ak aplikácie Microsoft 365 chýbajú na inštaláciu na portáli balíka Office, prejdite na [tému Riešenie problémov s inštaláciou balíka Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) a prejdite na **Office for business**  >  **Common issues**  >  **lokalitu**Office for business Bežné problémy 

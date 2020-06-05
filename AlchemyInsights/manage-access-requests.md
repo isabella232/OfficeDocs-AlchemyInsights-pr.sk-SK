@@ -1,5 +1,5 @@
 ---
-title: Spravovať žiadosti o prístup
+title: Správa žiadostí o prístup
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912418"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579736"
 ---
-# <a name="manage-access-requests"></a>Spravovať žiadosti o prístup
+# <a name="manage-access-requests"></a>Správa žiadostí o prístup
 
-Keď sa používateľ pokúsi získať prístup k položke v službe SharePoint a nemajú povolenie, zobrazí sa správa, že potrebujú povolenie na prístup k položke. Používateľ môže požiadať o prístup (v niektorých prípadoch na konkrétnu položku alebo na vstup do skupiny) a vlastník lokality môže žiadosť schváliť alebo odmietnuť. Ak niekto, kto nie je vlastníkom stránky zdieľa stránky s inou osobou, vlastník lokality bude tiež získať žiadosť o prístup pre nového používateľa. Schválenie alebo odmietnutie žiadostí o prístup:
+Keď sa používateľ pokúsi získať prístup k položke v SharePointe a nemá povolenie, zobrazí sa správa, že potrebuje povolenie na prístup k položke. Používateľ môže požiadať o prístup (v niektorých prípadoch k konkrétnej položke alebo pripojiť sa k skupine) a vlastník lokality môže žiadosť schváliť alebo odmietnuť. Ak osoba, ktorá nie je vlastníkom lokality, zdieľa lokalitu s inou osobou, vlastník lokality získa aj žiadosť o prístup pre nového používateľa. Schválenie alebo odmietnutie žiadostí o prístup:
   
-1. Prejdite na lokalitu, kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **Nastavenie lokality**. (Ak nevidíte nastavenia lokality, kliknite na položku **povolenia pre lokalitu**a potom kliknite na položku **Rozšírené nastavenia povolení**. Pozrite sa na banner, ktorý má odkaz s názvom "Zobraziť žiadosti o prístup a pozvánky.")
+1. Prejdite na lokalitu, kliknite na ikonu Nastavenia v pravom hornom rohu a potom kliknite na položku **Nastavenie lokality**. (Ak sa nezobrazuje okno Nastavenie lokality, kliknite na **položku Povolenia lokality**a potom kliknite na položku **Rozšírené nastavenie povolení**. Vyhľadajte banner s odkazom s názvom Zobraziť žiadosti o prístup a pozvánky.")
     
-2. V časti **Používatelia a povolenia**kliknite na položku **žiadosti o prístup a pozvánky**. (Ak sa nezobrazí, neboli vykonané žiadne žiadosti o prístup.)
+2. V časti **Používatelia a povolenia**kliknite na **položku Žiadosti o prístup a pozvánky**. (Ak sa to nezobrazí, neboli podané žiadne žiadosti o prístup.)
     
-3. Ak chcete používateľovi udeliť povolenie jednotlivo, kliknite na položku **schváliť** alebo **odmietnuť**. Ak chcete vybrať konkrétnu úroveň povolení, najprv kliknite na tri bodky (...) vedľa mena osoby. Prípadne pridajte používateľa do skupiny, ktorá má povolenie na lokalitu. Pre komunikačné lokality a klasické tímové lokality môžete to urobiť na stránke nastavenia lokality. Pre lokality, ktoré patria do skupiny Microsoft 365, môžete pridať používateľa do skupiny.
+3. Ak chcete používateľovi udeliť povolenie individuálne, kliknite na položku **Schváliť** alebo **Odmietnuť**. Ak chcete vybrať konkrétnu úroveň povolení, najprv kliknite na tri bodky (...) vedľa mena osoby. Prípadne pridajte používateľa do skupiny, ktorá má povolenie na lokalitu. V prípade komunikačných lokalít a klasických tímových lokalít to môžete urobiť na stránke Nastavenia lokality. Pre lokality, ktoré patria do skupiny Microsoft 365, môžete pridať používateľa do skupiny.
     
-    [Spravovať žiadosti o prístup](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Správa žiadostí o prístup](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Ďalšie informácie o úrovniach povolení](https://go.microsoft.com/fwlink/?linkid=867071)
     
