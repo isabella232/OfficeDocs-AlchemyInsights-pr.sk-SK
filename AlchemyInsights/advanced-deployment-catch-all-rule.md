@@ -1,5 +1,5 @@
 ---
-title: Rozšírené nasadenie chytiť všetky pravidlo
+title: Rozšírené nasadenie chytiť všetko pravidlo
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710926"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580866"
 ---
-# <a name="deploy-office-apps"></a><span data-ttu-id="a59d0-102">Nasadenie aplikácií balíka Office</span><span class="sxs-lookup"><span data-stu-id="a59d0-102">Deploy Office apps</span></span>
+# <a name="deploy-microsoft-365-apps"></a><span data-ttu-id="8d3d5-102">Nasadenie aplikácií Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="8d3d5-102">Deploy Microsoft 365 apps</span></span>
 
-<span data-ttu-id="a59d0-103">Nasadenie aplikácií balíka Office na viacerých koncových používateľov prostredníctvom nástroja na nasadenie balíka Office, Microsoft Endpoint Configuration Manager, ako súčasť obraz disku operačného systému alebo v scenári zdieľaného počítača pomocou systému Windows Server s Remote Desktop Services (RDS) alebo terminálových služieb, zvážte použitie sprievodcu krok za krokom v **Microsoft 365 aplikácie pre Enterprise Deployment Advisor**.</span><span class="sxs-lookup"><span data-stu-id="a59d0-103">For deploying Office apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Microsoft 365 Apps for enterprise deployment advisor**.</span></span>
+<span data-ttu-id="8d3d5-103">Nasadenie aplikácií Microsoft 365 viacerým koncovým používateľom prostredníctvom nástroja Office Deployment Tool, Microsoft Endpoint Configuration Manager, ako súčasť obrazu disku operačného systému alebo v prípade zdieľaného počítača pomocou systému Windows Server so službami vzdialenej skúsenosti s prácou s počítačom (RDS) alebo terminálových služieb, zvážte použitie krok za krokom sprievodcu microsoft **365 aplikácie pre podnikové nasadenie poradca**.</span><span class="sxs-lookup"><span data-stu-id="8d3d5-103">For deploying Microsoft 365 apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Microsoft 365 Apps for enterprise deployment advisor**.</span></span>
   
-<span data-ttu-id="a59d0-104">Ak chcete začať, uistite sa, že ste prihlásený ako správca nájomníka alebo globálny správca, a potom kliknite sem: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span><span class="sxs-lookup"><span data-stu-id="a59d0-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
+<span data-ttu-id="8d3d5-104">Ak chcete začať, uistite sa, že ste prihlásení ako správca nájomníka alebo globálny správca, a potom kliknite sem: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .</span><span class="sxs-lookup"><span data-stu-id="8d3d5-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
   
