@@ -1,5 +1,5 @@
 ---
-title: Oprava problémov so synchronizáciou OneDrivu
+title: Riešenie problémov so synchronizáciou OneDrivu
 ms.author: matteva
 author: pebaum
 ms.audience: ITPro
@@ -10,20 +10,18 @@ ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.custom:
 - "824"
 - "5800003"
-ms.openlocfilehash: e39784fa5b1e2b822b855b6d4578906abb6934c5
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 0ab7a3d3beef2c4726a9096df550d29454cfdc94
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407221"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617874"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="4a9bf-102">Oprava problémov so synchronizáciou OneDrivu</span><span class="sxs-lookup"><span data-stu-id="4a9bf-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="a7c0b-102">Riešenie problémov so synchronizáciou OneDrivu</span><span class="sxs-lookup"><span data-stu-id="a7c0b-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="4a9bf-103">Ak OneDrive nesynchronizuje spôsob, akým vy alebo vaši používatelia očakávate, použite nasledujúce zdroje na riešenie problémov.</span><span class="sxs-lookup"><span data-stu-id="4a9bf-103">If OneDrive isn't syncing the way you or your users expect, use the following resources for troubleshooting.</span></span>
+<span data-ttu-id="a7c0b-103">Ak OneDrive nesynchronizuje spôsob, akým vy alebo používatelia očakávate, použite nasledujúce zdroje informácií na riešenie problémov.</span><span class="sxs-lookup"><span data-stu-id="a7c0b-103">If OneDrive isn't syncing the way you or your users expect, use the following resources for troubleshooting.</span></span>
 
-- [<span data-ttu-id="4a9bf-104">Oprava OneDrive Business synchronizácie problémy</span><span class="sxs-lookup"><span data-stu-id="4a9bf-104">Fix OneDrive for Business sync issues</span></span>](https://support.microsoft.com/en-us/office/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-us&rs=en-us&ad=us)
-- [<span data-ttu-id="4a9bf-105">Opravy alebo riešenia pre **nedávne** problémy v službe OneDrive</span><span class="sxs-lookup"><span data-stu-id="4a9bf-105">Fixes or Workarounds for **recent** issues in OneDrive</span></span>](https://support.office.com/article/fixes-or-workarounds-for-recent-issues-in-onedrive-36110213-f3f6-490d-8cb7-3833539def0b)
-- [<span data-ttu-id="4a9bf-106">Oprava problémov so synchronizáciou s **osobným** OneDrivom</span><span class="sxs-lookup"><span data-stu-id="4a9bf-106">Fix sync issues with **personal** OneDrive</span></span>](https://support.office.com/article/0b10108f-8459-4a7a-b912-28f8adec5a81)
-- [<span data-ttu-id="4a9bf-107">Oprava problémov so synchronizáciou **SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="4a9bf-107">Fix sync issues with **SharePoint Online**</span></span>](https://support.office.com/article/aaa2d172-8d45-4e94-9c04-5364d04ca2f4)
-- [<span data-ttu-id="4a9bf-108">**Súbor alebo priečinok už existuje** v službe OneDrive</span><span class="sxs-lookup"><span data-stu-id="4a9bf-108">**File or folder already exists** in OneDrive</span></span>](https://support.microsoft.com/en-us/office/the-file-or-folder-already-exists-in-onedrive-7b8044ad-438d-41db-bbbf-4f66b8890408)
-  
+- [<span data-ttu-id="a7c0b-104">Riešenie problémov so synchronizáciou OneDrivu for Business</span><span class="sxs-lookup"><span data-stu-id="a7c0b-104">Fix OneDrive for Business sync issues</span></span>](https://support.microsoft.com/en-us/office/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-us&rs=en-us&ad=us)
+- [<span data-ttu-id="a7c0b-105">Opravy alebo alternatívne riešenia **nedávnych** problémov vo OneDrive</span><span class="sxs-lookup"><span data-stu-id="a7c0b-105">Fixes or Workarounds for **recent** issues in OneDrive</span></span>](https://support.office.com/article/fixes-or-workarounds-for-recent-issues-in-onedrive-36110213-f3f6-490d-8cb7-3833539def0b)
+- [<span data-ttu-id="a7c0b-106">Riešenie problémov so synchronizáciou so **SharePointom Online**</span><span class="sxs-lookup"><span data-stu-id="a7c0b-106">Fix sync issues with **SharePoint Online**</span></span>](https://support.office.com/article/aaa2d172-8d45-4e94-9c04-5364d04ca2f4)
+- [<span data-ttu-id="a7c0b-107">**Súbor alebo priečinok už v** službe OneDrive existuje</span><span class="sxs-lookup"><span data-stu-id="a7c0b-107">**File or folder already exists** in OneDrive</span></span>](https://support.microsoft.com/en-us/office/the-file-or-folder-already-exists-in-onedrive-7b8044ad-438d-41db-bbbf-4f66b8890408)
