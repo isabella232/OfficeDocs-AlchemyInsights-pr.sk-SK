@@ -1,5 +1,5 @@
 ---
-title: Tímy Outlook Add-in
+title: Doplnok tímy Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021513"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702221"
 ---
-# <a name="teams-outlook-add-in"></a>Tímy Outlook Add-in
+# <a name="teams-outlook-add-in"></a>Doplnok tímy Outlook
 
-Existuje viacero faktorov, ktoré by mohli spôsobiť, že vaše tímy Add-in sa nezobrazí, a všetky sú [tu](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)uvedené.
+Ak chcete riešiť chýbajúce tímy Outlook Add-in, najprv nezabudnite spustiť diagnostiku služby tu na portáli pre správu.  Ak diagnostika služby naznačuje žiadne problémy, pokračujte na prevzatie a spustenie Microsoft [Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **tímy Outlook doplnok scenár** na postihnutých používateľských počítačoch diagnostikovať a opraviť všetky problémy s klientom.
 
-**Odporúčame najprv skontrolovať, či doplnok nie je zakázaný:**
-
-- V programe Outlook, kliknite na tlačidlo **rezeň** a potom **Možnosti**.
-- Vyberte kartu **Doplnky** dialógového okna **Možnosti programu Outlook** .
-- Potvrďte, že **Microsoft tímy Meeting Add-in pre balík Microsoft Office** je uvedený v zozname **Aktívne aplikačné doplnky** .
-- Ak tímy Meeting Add-in je uvedené v zozname **Vypnuté aplikácie doplnky** , vyberte **Doplnky com** v **Spravovať** a potom kliknite na tlačidlo **Prejsť...**
-- Nastaviť začiarkavacie políčko vedľa **Microsoft tímy Meeting Add-in pre Microsoft Office**.
-- Kliknite na **tlačidlo OK** na všetkých dialógových oknách a reštartujte program Outlook.
+Ak chcete problém vyriešiť manuálne, prečítajte si zoznam možných faktorov, ktoré by mohli spôsobiť, že doplnok Teams sa [tu](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)nezobrazí .
