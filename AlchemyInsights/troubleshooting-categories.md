@@ -1,5 +1,5 @@
 ---
-title: 604 riešenie problémov kategórie
+title: 604 Kategórie riešenia problémov
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732381"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850813"
 ---
-# <a name="outlook-categories"></a><span data-ttu-id="f6a9d-102">Kategórie programu Outlook</span><span class="sxs-lookup"><span data-stu-id="f6a9d-102">Outlook categories</span></span>
+# <a name="outlook-categories"></a><span data-ttu-id="74144-102">Kategórie programu Outlook</span><span class="sxs-lookup"><span data-stu-id="74144-102">Outlook categories</span></span>
 
-<span data-ttu-id="f6a9d-103">Kategórie farieb umožňujú jednoducho identifikovať a zoskupovať súvisiace položky v programe Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="f6a9d-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="f6a9d-104">Ďalšie informácie nájdete v téme [Vytvorenie a priradenie kategórií farieb](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span><span class="sxs-lookup"><span data-stu-id="f6a9d-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
-  
+<span data-ttu-id="74144-103">Kategórie sa vzťahujú len na položky v kalendári.</span><span class="sxs-lookup"><span data-stu-id="74144-103">Categories only apply to items in your calendar.</span></span> <span data-ttu-id="74144-104">Ak použijete farebnú kategóriu na žiadosť o schôdzu alebo schôdzu prijatú od inej osoby, táto farebná kategória sa zobrazí iba vo vašom kalendári.</span><span class="sxs-lookup"><span data-stu-id="74144-104">If you apply a color category to a meeting request or a meeting you've received from another person, that color category will only show in your calendar.</span></span>  <span data-ttu-id="74144-105">Ak použijete farebnú kategóriu v zdieľanej poštovej schránke, delegátpoštovej schránky, poštovej schránke skupiny, poštovej schránke miestnosti atď.</span><span class="sxs-lookup"><span data-stu-id="74144-105">If you apply a color category on a shared mailbox, delegate mailbox, group mailbox, room mailbox, etc. the color category only affects your view.</span></span>
+
+<span data-ttu-id="74144-106">Ďalšie informácie: [Priradenie farebnej kategórie k plánovanej činnosti, schôdzi alebo udalosti v kalendári](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span><span class="sxs-lookup"><span data-stu-id="74144-106">For more information: [Assign a color category to a calendar appointment, meeting, or event](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span></span>
