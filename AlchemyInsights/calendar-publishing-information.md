@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506170"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840936"
 ---
-# <a name="calendar-publishing-information"></a>Informácie o publikovaní kalendára
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Povolenie zdieľania kalendára pomocou Centra spravovania služby Microsoft 365
 
-- Správcovia služieb Microsoft 365 môžu povoliť alebo zakázať publikovanie kalendára a zdieľanie kalendára pre organizáciu. Ďalšie informácie sa nachádzajú v [témach Zapnutie publikovania kalendára, aby ľudia mohli zdieľať informácie](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) a [zdieľať kalendáre s externými používateľmi](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).
+1. V Centre spravovania prejdite do **časti Nastavenia nastavenia**   >   **organizácie**.
+2. Na karte **Služby** vyberte položku **Kalendár**.
+3. Na stránke **Kalendár,** ktorá sa otvorí, vyberte, či chcete používateľom umožniť zdieľať svoje kalendáre s ľuďmi mimo vašej organizácie, ktorí majú Microsoft 365 alebo Exchange.
+4. Vyberte, či chcete anonymným používateľom (používateľom bez prihlasovacích poverení) povoliť prístup k kalendárom prostredníctvom e-mailovej pozvánky.
+5. Vyberte typ informácií kalendára, ktoré sa majú sprístupniť používateľom. Môžete povoliť všetky informácie alebo ich obmedziť iba na čas alebo čas, predmet a miesto.
 
-- Používatelia programu Outlook môžu zdieľať svoje vlastné kalendáre. Ďalšie informácie sa nachádzajú v téme [Zdieľanie kalendára programu Outlook s inými ľuďmi](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).
+Ďalšie informácie: [Zdieľanie kalendárov s externými používateľmi](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
