@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915257"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841014"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Nastavenie predplatného na Microsoft 365 Education
 
@@ -24,6 +24,5 @@ Ak chcete zobraziť prehliadku so sprievodom, pozrite si [opisné zvukové video
 
 **Ďalšie skvelé zdroje**
 
-- Prehľad nájdete v téme [Nastavenia nájomníka služieb Office 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
-- Pozrite si tému [Začíname so službou Microsoft 365 Education](https://docs.microsoft.com/education/) pre IT správcov, vývojárov a partnerov. 
-- [Priradenie konta obchodu Microsoft Store k službe Intune for Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Prehľad nájdete v téme [Vytvorenie konta nájomníka služieb Office 365.](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)
+- Pozrite [si tému Začíname pracovať so službou Microsoft 365 Education](https://docs.microsoft.com/education/) pre správcov IT, vývojárov a partnerov.
