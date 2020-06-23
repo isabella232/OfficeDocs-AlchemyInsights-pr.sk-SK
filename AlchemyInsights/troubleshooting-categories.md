@@ -1,5 +1,5 @@
 ---
-title: 604 riešenie problémov kategórie
+title: 604 Kategórie riešenia problémov
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732381"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850813"
 ---
 # <a name="outlook-categories"></a>Kategórie programu Outlook
 
-Kategórie farieb umožňujú jednoducho identifikovať a zoskupovať súvisiace položky v programe Microsoft Outlook. Ďalšie informácie nájdete v téme [Vytvorenie a priradenie kategórií farieb](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).
-  
+Kategórie sa vzťahujú len na položky v kalendári. Ak použijete farebnú kategóriu na žiadosť o schôdzu alebo schôdzu prijatú od inej osoby, táto farebná kategória sa zobrazí iba vo vašom kalendári.  Ak použijete farebnú kategóriu v zdieľanej poštovej schránke, delegátpoštovej schránky, poštovej schránke skupiny, poštovej schránke miestnosti atď.
+
+Ďalšie informácie: [Priradenie farebnej kategórie k plánovanej činnosti, schôdzi alebo udalosti v kalendári](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
