@@ -1,5 +1,5 @@
 ---
-title: Podmienený prístup pomocou Intune
+title: Podmienený prístup pomocou služby Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,27 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706036"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931451"
 ---
-# <a name="conditional-access-with-intune"></a><span data-ttu-id="c1d2a-102">Podmienený prístup pomocou Intune</span><span class="sxs-lookup"><span data-stu-id="c1d2a-102">Conditional Access with Intune</span></span>
+# <a name="conditional-access-with-intune"></a><span data-ttu-id="38bc1-102">Podmienený prístup pomocou služby Intune</span><span class="sxs-lookup"><span data-stu-id="38bc1-102">Conditional Access with Intune</span></span>
 
-<span data-ttu-id="c1d2a-103">Použitie **podmieneného prístupu** s Intune vyžaduje 3 kroky:</span><span class="sxs-lookup"><span data-stu-id="c1d2a-103">Using **Conditional Access** with Intune requires 3 steps:</span></span> 
-  
-- <span data-ttu-id="c1d2a-104">Vytvorte **politiku podmieneného prístupu** , ktorá definuje, aké prostriedky sú chránené, a aké podmienky je potrebné splniť na prístup k týmto prostriedkom.</span><span class="sxs-lookup"><span data-stu-id="c1d2a-104">Create a **Conditional Access Policy** that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span> <span data-ttu-id="c1d2a-105">Zariadenie musí byť napríklad kompatibilné pred prístupom do podnikového e-mailu.</span><span class="sxs-lookup"><span data-stu-id="c1d2a-105">For example, a device must be compliant before accessing corporate email.</span></span> 
-    
-- <span data-ttu-id="c1d2a-106">Vytvorenie **politiky súladu** na definovanie nastavení, ktoré musia byť splnené pred tým, ako sa zariadenie považuje za vyhovujúce.</span><span class="sxs-lookup"><span data-stu-id="c1d2a-106">Create a **Compliance Policy** to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="c1d2a-107">Zariadenie musí mať napríklad PIN aspoň 6 číslic predtým, ako sa považuje za vyhovujúce.</span><span class="sxs-lookup"><span data-stu-id="c1d2a-107">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span> 
-    
-- <span data-ttu-id="c1d2a-108">Zabezpečenie **politík súladu** a **politiky podmieneného prístupu** sú zacielené na želané skupiny používateľov.</span><span class="sxs-lookup"><span data-stu-id="c1d2a-108">Ensuring both **Compliance Policies** and **Conditional Access Policies** are targeted to the desired groups of users.</span></span> <span data-ttu-id="c1d2a-109">To môže vyžadovať vytvorenie konkrétnych skupín používateľov v Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="c1d2a-109">This may require creating specific groups of users in Azure Active Directory.</span></span> 
-    
-<span data-ttu-id="c1d2a-110">Čítajte viac:</span><span class="sxs-lookup"><span data-stu-id="c1d2a-110">Read more:</span></span>
-  
-- [<span data-ttu-id="c1d2a-111">Osvedčené postupy podmieneného prístupu</span><span class="sxs-lookup"><span data-stu-id="c1d2a-111">Conditional Access best practices</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
-    
-- [<span data-ttu-id="c1d2a-112">Začíname s podmieneným prístupom</span><span class="sxs-lookup"><span data-stu-id="c1d2a-112">Getting started with Conditional Access </span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
-    
+<span data-ttu-id="38bc1-103">Použitie **podmieneného prístupu** pomocou služby Intune vyžaduje 3 kroky:</span><span class="sxs-lookup"><span data-stu-id="38bc1-103">Using  **Conditional Access**  with Intune requires 3 steps:</span></span>
 
+- <span data-ttu-id="38bc1-104">Vytvorte **politiku súladu** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) na definovanie nastavení, ktoré musia byť splnené pred tým, ako sa zariadenie považuje za kompatibilné.</span><span class="sxs-lookup"><span data-stu-id="38bc1-104">Create a  **Compliance Policy**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="38bc1-105">Zariadenie musí mať napríklad špendlík s číslom najmenej 6 číslic predtým, ako sa považuje za vyhovujúce.</span><span class="sxs-lookup"><span data-stu-id="38bc1-105">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span>
+- <span data-ttu-id="38bc1-106">Vytvorte **politiku podmieneného prístupu,** ktorá definuje, ktoré zdroje sú chránené a aké podmienky je potrebné splniť na prístup k týmto prostriedkom.</span><span class="sxs-lookup"><span data-stu-id="38bc1-106">Create a **Conditional Access Policy**  that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span>  <span data-ttu-id="38bc1-107">[Zariadenie](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) musí byť napríklad kompatibilné pred prístupom k podnikovým e-mailom.</span><span class="sxs-lookup"><span data-stu-id="38bc1-107">[For example,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  a device must be compliant before accessing corporate email.</span></span>
+- <span data-ttu-id="38bc1-108">Zabezpečte, aby boli **politiky súladu** aj **politiky podmieneného prístupu** zacielené na požadované skupiny používateľov.</span><span class="sxs-lookup"><span data-stu-id="38bc1-108">Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users.</span></span> <span data-ttu-id="38bc1-109">To môže vyžadovať vytvorenie konkrétnych skupín používateľov v službe Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="38bc1-109">This may require creating specific groups of users in Azure Active Directory.</span></span>
+
+<span data-ttu-id="38bc1-110">**Užitočné odkazy:**</span><span class="sxs-lookup"><span data-stu-id="38bc1-110">**Helpful links:**</span></span>
+
+[<span data-ttu-id="38bc1-111">Prehľad súladu zariadenia</span><span class="sxs-lookup"><span data-stu-id="38bc1-111">Device compliance overview</span></span>](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[<span data-ttu-id="38bc1-112">Riešenie problémov CA</span><span class="sxs-lookup"><span data-stu-id="38bc1-112">Troubleshooting CA</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[<span data-ttu-id="38bc1-113">Politika riešenia problémov</span><span class="sxs-lookup"><span data-stu-id="38bc1-113">Troubleshooting policy</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+<span data-ttu-id="38bc1-114">Na ochranu e-mailu (Exchange online) pred prístupom nevyhovujúcich zariadení, oba dokumenty musia byť dodržiavané:</span><span class="sxs-lookup"><span data-stu-id="38bc1-114">To protect Email (Exchange online) from access by noncompliant devices, both documents must be followed:</span></span>
+
+1. [<span data-ttu-id="38bc1-115">Ochrana prístupu k e-mailu zo zariadení pomocou EAs</span><span class="sxs-lookup"><span data-stu-id="38bc1-115">Protect email access from devices using EAS</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [<span data-ttu-id="38bc1-116">Chráňte prístup k e-mailom zo zariadení pomocou moderných klientov overovania, ako je napríklad Outlook</span><span class="sxs-lookup"><span data-stu-id="38bc1-116">Protect email access from devices using modern authentication clients like Outlook</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
