@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 skupiny FAQ
+title: Najčastejšie otázky o skupinách v Microsofte 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: 6d80a5f3ec4a63ec81ff73a720b183d4f2859d8a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: fa6b2a1984a1c0b01938cf6310933e44c04397b6
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358500"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931417"
 ---
-# <a name="microsoft-365-groups-faq"></a>Microsoft 365 skupiny FAQ
+# <a name="microsoft-365-groups-faq"></a>Najčastejšie otázky o skupinách v Microsofte 365
 
-Skontrolujte, či **[microsoft 365 skupina FAQ](https://aka.ms/M365GroupsFAQ)** pre top admin úlohy súvisiace s Microsoft 365 skupiny.
+Skontrolujte **[Microsoft 365 skupiny FAQ](https://aka.ms/M365GroupsFAQ)** pre top admin úlohy týkajúce sa skupiny Microsoft 365.
+
+- Problémy s tokom pošty
+- Správa e-mailových adries
+- Skripty na exportovanie informácií o členoch skupiny
+- Send-As a iné delegovanie
+- Skupiny, ktoré sa nezobrazujú alebo nesú prístupné z klienta programu Outlook
