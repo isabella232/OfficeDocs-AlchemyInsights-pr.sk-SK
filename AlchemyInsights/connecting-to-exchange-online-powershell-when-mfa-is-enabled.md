@@ -1,5 +1,5 @@
 ---
-title: 761 pripojenie k službe Exchange Online PowerShell, keď je zapnutá MFA
+title: 761 Pripojenie k službe Exchange Online PowerShell, keď MFA zapnutá
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705820"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205318"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Pripojenie k službe Exchange Online PowerShell, keď je zapnutá MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Pripojenie k službe Exchange Online PowerShell, keď mfa zapnutá
 
-Ak váš účet má viacnásobné overovanie (MFA) zapnutá, musíte postupovať podľa týchto pokynov na pripojenie k službe Exchange Online PowerShell: [pripojenie k službe Exchange Online PowerShell pomocou viacnásobné overovanie](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Poznámka**: aj v prípade, že ste pripojení k službe Exchange Online PowerShell v minulosti pomocou [pravidelné pripojenie inštrukcie](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), musíte použiť MFA pripojenie pokyny po MFA bol povolený pre vaše konto.
+Ak má vaše konto zapnuté viacnásobné overovanie (MFA), musíte sa pripojiť k prostrediu Exchange Online PowerShell podľa týchto [pokynov: Použite prostredie Exchange Online PowerShell s moderným overením pomocou modulu V2](https://aka.ms/exops-docs). Prosím, vyhľadajte MFA / Multi Factor Autentizácia pokyny na tejto stránke.
