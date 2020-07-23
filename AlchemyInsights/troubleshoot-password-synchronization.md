@@ -1,8 +1,8 @@
 ---
-title: Riešenie problémov s synchronizáciou hesla
+title: Riešenie problémov so synchronizáciou hesiel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732525"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387892"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Riešenie problémov s synchronizáciou hesla
+# <a name="troubleshoot-password-synchronization"></a>Riešenie problémov so synchronizáciou hesiel
 
-Riešenie problémov, kde žiadne heslá sú synchronizované s Azure AD Connect verzie 1.1.614.0 alebo novšej:
-  
-1. Otvorte novú reláciu prostredia Windows PowerShell na serveri Azure AD Connect s možnosťou **Spustiť ako správca** .
+Ak chcete riešiť problémy so synchronizáciou hesiel, začnite pomocou tejto úlohy riešenia problémov AAD Connect a zistite, prečo sa heslá nesynchronizujú. Ak chcete začať, prejdite na [Spravovať priamu synchronizáciu](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-2. Spustiť **súbor executionpolicy RemoteSigned** alebo **set-executionpolicy neobmedzený**.
+1. Otvorte novú reláciu prostredia Windows PowerShell na serveri Azure AD pripojiť a vyberte **možnosť Spustiť ako** správca .
 
-3. Spustite Sprievodcu Azure AD Connect.
+2. Spustiť Set-ExecutionPolicy RemoteSigned alebo Set-ExecutionPolicy Neobmedzený.
 
-4. Prejdite na stránku **ďalšie úlohy** , vyberte **Riešenie problémov**a kliknite na tlačidlo **ďalej**.
+3. Spustite Sprievodcu pripojením Azure AD.
 
-5. Na stránke Riešenie problémov, kliknite na tlačidlo **Spustiť spustite ponuku riešenie problémov** v prostredí PowerShell.
+4. Prejdite na stránku Ďalšie úlohy a > riešenie **problémov s ďalším**  >  **Next**.
 
-6. V hlavnej ponuke vyberte položku **Riešenie problémov s synchronizáciou hesiel**.
+5. Výberom položky **Launch** (Spustiť) otvorte ponuku na riešenie problémov v prostredí PowerShell.
 
-7. V sub menu, vyberte **heslo synchronizácia nefunguje vôbec**.
+6. Vyberte **položku Riešenie problémov so synchronizáciou hesiel**.
 
-**Pochopenie výsledkov úlohy pri riešení problémov**
-  
-Riešenie problémov úloha vykonáva nasledujúce kontroly:
-  
-- Overuje, či je zapnutá funkcia synchronizácie hesiel pre nájomcu Azure AD.
+    Problém je zvyčajne, že heslo nie je synchronizovaný pre konkrétne používateľské konto.
 
-- Overuje, či server Azure AD Connect nie je v režime oddychové.
+    **Poznámky k používaniu** Synchronizácia hesiel zlyhá, ak bola posledná úspešná synchronizácia hesla pred nejakým časom.
 
-- Pre každý existujúci lokálny konektor služby Active Directory (ktorý zodpovedá existujúcej doménovej štruktúre služby Active Directory):
-
-- 
-  - Overuje, či je zapnutá funkcia synchronizácie hesiel.
-
-  - Vyhľadáva heslo synchronizácia heartbeat udalosti v denníku udalostí aplikácie systému Windows.
-
-  - Pre každú doménu služby Active Directory v lokálnom konektor služby Active Directory:
-
-  - Overuje, či je doména dostupná zo servera Azure AD Connect.
-
-  - Overuje, či kontá služby Active Directory Domain (AD DS), ktoré používa lokálny konektor služby Active Directory, má správne používateľské meno, heslo a povolenia potrebné na synchronizáciu hesla.
-
-Ďalšie pomoc pri riešení problémov so synchronizáciou hesiel nájdete v téme [Riešenie problémov s synchronizáciou hesiel pomocou synchronizácie Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
-  
+Ďalšie informácie o riešení problémov so synchronizáciou hesiel nájdete v [téme Riešenie problémov so synchronizáciou hash hesla pomocou synchronizácie služby Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
