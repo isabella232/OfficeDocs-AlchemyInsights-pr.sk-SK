@@ -10,44 +10,46 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507041"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522750"
 ---
 # <a name="enable-an-archive-mailbox"></a>Povolenie archívnej poštovej schránky
 
-Archívne poštové schránky v microsoft 365 (nazývané aj *online archívy* alebo *archívy na mieste)* poskytujú používateľom ďalší ukladací priestor e-mailov. Používatelia môžu presúvať alebo kopírovať položky do svojej archívnej poštovej schránky a správcovia môžu vytvoriť politiku archivácie, ktorá automaticky presúva položky do archívnych poštových schránok.
+Ak chcete, aby sme spúšťali automatizované kontroly, aby bolo možné nakonfigurovať archívnu poštovú schránku, vyberte tlačidlo Späť < -- v hornej časti tejto stránky a potom zadajte e-mailovú adresu účtu.
+
+Archívne poštové schránky v službe Microsoft 365 (nazývané *aj Online Archives (Online Archives) (Online Archives* ) (Internetové archívy alebo *Archívy na mieste)* poskytujú používateľom dodatočný ukladací priestor e-mailov. Používatelia môžu presúvať alebo kopírovať položky do archívnej poštovej schránky a správcovia môžu vytvoriť politiku archivácie, ktorá automaticky premiestni položky do archívnych poštových schránok.
   
-Tu je postup, ako vytvoriť archívnu poštovú schránku:
+Postup vytvorenia archívnej poštovej schránky:
   
-1. Choď na [https://protection.office.com](https://protection.office.com) .
+1. Choď do [https://protection.office.com](https://protection.office.com) ponuky .
 
 2. Prihláste sa do služby Microsoft 365 pomocou konta správcu.
 
-3. Na ľavej table &amp; Centra zabezpečenia pre dodržiavanie súladu vyberte položku Archív správy **informácií** \> **Archive**.
+3. Na ľavej table Centra dodržiavania súladu &amp; s predpismi zabezpečenia vyberte **položku Archív správy** \> **informácií**.
 
-4. Vyberte používateľa, ktorého archívnu poštovú schránku chcete povoliť.
+4. Vyberte používateľa, ktorého archívna poštová schránka chcete povoliť.
 
-5. Na table s podrobnosťami na pravej strane kliknite na položku **Povoliť** a potom v upozorňujúcom hlásení kliknite na tlačidlo **Áno,** aby sa umožnila archívna poštová schránka.
+5. Na table s podrobnosťami na pravej strane kliknite na položku **Povoliť** a potom v **upozorňujú** na tlačidlo Áno v upozorňujúce hlásenie na povolenie archívnej poštovej schránky.
 
-Archívne poštové schránky môžete hromadne povoliť aj výberom viacerých používateľov (pomocou klávesov **Shift** alebo **Ctrl)** a následným kliknutím na položku **Povoliť** na table s podrobnosťami.
+Archívne poštové schránky môžete povoliť aj výberom viacerých používateľov (pomocou **klávesov Shift** **alebo Ctrl)** a kliknutím na **položku Povoliť** na table s podrobnosťami.
   
 ### <a name="shared-mailboxes"></a>Zdieľané poštové schránky
 
-Na povolenie archívu pre zdieľanú poštovú schránku sa vyžaduje licencia Exchange Online (plán 2) alebo licencia Exchange Online (plán 1) s licenciou exchange Online Archiving.  
+Na povolenie archivácie zdieľanej poštovej schránky sa vyžaduje licencia na Exchange Online (plán 2) alebo licencia na Exchange Online (plán 1) s licenciou na archiváciu služby Exchange Online.  
 
-Povolenie archivácie pre zdieľanú poštovú schránku:
+Povolenie archívu pre zdieľanú poštovú schránku:
 
 1. Prejdite do [Centra spravovania pre Exchange](https://outlook.office365.com/ecp) a prihláste sa pomocou konta správcu.
 
-2. Prejdite na **Recipients**  >  **položku Zdieľané príjemcovia**.
+2. Prejdite na **zdieľané**  >  **príjemcovia**.
 
 3. Vyberte zdieľanú poštovú schránku.
 
-4. Na table s podrobnosťami vpravo v časti **Archív na mieste**kliknite na položku **Povoliť**a potom kliknutím na tlačidlo **Áno** povoľte archívnu poštovú schránku.
+4. Na table s podrobnosťami vpravo v časti Archív na mieste **kliknite na položku** **Povoliť**a potom kliknutím na tlačidlo **Áno povoľte** archívnu poštovú schránku.
 
 Ďalšie informácie nájdete v téme:
   
