@@ -1,5 +1,5 @@
 ---
-title: 'Ako overiť doménu '
+title: 'Overenie domény '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509039"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634321"
 ---
-# <a name="how-to-verify-your-domain"></a>Ako overiť doménu
+# <a name="how-to-verify-your-domain"></a>Overenie domény
 
-Ak chcete overiť svoju doménu, budete musieť pridať TXT záznam do registrátora domén, aby ste overili, či vlastníte doménu. Najskôr postupujte podľa [Sprievodcu pridaním domény](https://portal.office.com/adminportal/home#/Domains/Wizard) kliknutím na **Setup** \> **položku**Nastavenie domén a potom na **položku Pridať doménu**.
-  
-Podľa pokynov v časti [Vytvorenie DNS záznamov u ktoréhokoľvek poskytovateľa hostiteľských služieb DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pridajte TXT záznam na overenie domény.
+Ak chcete overiť doménu, postupujte podľa pokynov [Sprievodcu pridaním domény](https://portal.office.com/adminportal/home#/Domains/Wizard)alebo manuálne prejdite do časti **Nastavenie**  >  **domén**  >  **pridať doménu**.
 
-Pre iné domény problémy skúste [Domény FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Ďalšie informácie o tom, ako pridať TXT záznam na overenie domény, nájdete v pokynoch v téme [Pridanie DNS záznamov na pripojenie domény](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Ďalšie informácie o doménach nájdete v téme Najčastejšie otázky o [doménach](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
