@@ -1,7 +1,7 @@
 ---
 title: SharePoint Online PowerShell
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 8c270748fc75f929371fbb2856daad3ae61a1540
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 300c07e7f0010eae2bd4fe893ece9d09aab93ba5
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764276"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786904"
 ---
 # <a name="sharepoint-online-powershell"></a>SharePoint Online PowerShell
 
-Práca s PowerShell alebo skripty v rámci SharePoint Online? Ďalšie informácie nájdete na nižšie uvedených odkazoch.
-- [Začíname pracovať s SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Pripojenie k SPO PowerShell s multifaktorové overovanie (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint vzory a postupy (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) obsahuje knižnicu príkazov PowerShell, ktoré vám umožní vykonávať komplexné riadenie činnosti voči spo.
+Pracujete s prostredím PowerShell alebo skriptami v SharePointe Online? Ďalšie informácie nájdete na prepojeniach nižšie.
+- [Začíname so službou SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Pripojenie k službe SPO PowerShell s overovaním multifacto (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [Šablóny a postupy SharePointu (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) obsahujú knižnicu príkazov prostredia PowerShell, ktoré vám umožňujú vykonávať komplexné manažérske akcie na spo.
 
 > [!NOTE]
-> - Ak máte problémy s pripojením k správe SPO Management Shell, uistite sa, že ste aktualizovali na najnovšiu verziu a pokúste sa [znova importovať modul](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) pomocou *"Import-module Microsoft. online. SharePoint. PowerShell".*
-> - Ak sa pokúšate spustiť klientske skripty objektového modelu, budete musieť mať [SharePoint Online client Components SDK](https://www.microsoft.com/download/details.aspx?id=42038) nainštalovaný na lokálnom počítači.
-> - Ak máte problémy so spustením skriptov z PowerShell, možno budete chcieť zvážiť spustenie PowerShell ako správca a zmena [vykonávania politiky](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+> - Ak máte problémy s pripojením k shellu riadenia SPO, uistite sa, že ste aktualizovali na najnovšiu verziu a pokúsite sa [znova importovať modul](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) pomocou *"Import-module Microsoft. online. SharePoint. PowerShell".*
+> - Ak sa pokúšate spustiť skripty objektového modelu na strane klienta, bude potrebné, aby ste mali v lokálnom počítači nainštalovanú [súpravu SDK pre klientske súčasti SharePoint Online](https://www.microsoft.com/download/details.aspx?id=42038) .
+> - Ak máte problémy so spustením skriptov z prostredia PowerShell, môžete zvážiť spustenie prostredia PowerShell ako správca a zmeniť [politiku vykonávania](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).

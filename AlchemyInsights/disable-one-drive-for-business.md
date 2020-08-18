@@ -1,7 +1,7 @@
 ---
-title: Ako vypnúť OneDrive pre podniky
-ms.author: v-todmc
-author: todmccoy
+title: Zakázanie služby OneDrive for Business
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 7cdd58f2e6e20fc2db0eac25b92e129493fc3401
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4c898bf8c16e7e51c3f64f350b16a458d187b163
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715211"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786076"
 ---
-# <a name="disable-onedrive-for-business"></a>Zakázať OneDrive pre podniky
+# <a name="disable-onedrive-for-business"></a>Zakázanie OneDrivu for Business
 
-Existuje niekoľko spôsobov, ako môžete zakázať prístup k OneDrive a jeho službám v závislosti od vašich obchodných potrieb:
+Existuje niekoľko spôsobov, ako môžete zakázať prístup k službe OneDrive a jeho službám v závislosti od vašich potrieb podniku:
 
 - [Vypnutie, zakázanie alebo odinštalovanie OneDrivu](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-- [Povoliť synchronizáciu kont OneDrive iba pre konkrétne organizácie](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-- [Zakázanie vytvárania lokality OneDrive pre niektorých používateľov](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-- [Kontrola prístupu k údajom služby SharePoint Online a OneDrive na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Povolenie synchronizácie kont OneDrive len pre konkrétne organizácie](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+- [Zakázanie vytvárania lokalít OneDrivu pre niektorých používateľov](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+- [Riadenie prístupu k údajom SharePointu Online a OneDrivu na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 - [Zabránenie používateľom v synchronizácii osobných kont OneDrive](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-- [Spravovanie pripojení zo zariadení so systémom Windows do OneDrivu a ďalších služieb](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+- [Spravovanie pripojení zo zariadení s Windowsom na OneDrive a ďalšie služby](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)

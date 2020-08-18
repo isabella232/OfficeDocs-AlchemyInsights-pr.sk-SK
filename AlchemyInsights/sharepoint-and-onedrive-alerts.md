@@ -1,7 +1,7 @@
 ---
-title: Oneskorenia pri prijímaní upozornení na SharePoint a OneDrive
-ms.author: v-todmc
-author: todmccoy
+title: Oneskorenie pri prijímaní upozornení SharePointu a OneDrivu
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563525"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785680"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Oneskorenia pri prijímaní upozornení na SharePoint a OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Oneskorenie pri prijímaní upozornení SharePointu a OneDrivu
 
-- Najprv skontrolujte priečinok Nevyžiadaná pošta alebo Spam v e-maile.
-- Ak **sú všetky upozornenia z viacerých súborov alebo knižníc oneskorené,** navštívte [tabuľu Stav služby](https://portal.office.com/adminportal/home?ref=/servicehealth) a skontrolujte, či sa nenachádzajú všetky upozornenia alebo incidenty, ktoré sa môžu vyskytnúť v službe SharePoint alebo Exchange. Problém môže byť s možnosťou výstrahy SharePoint alebo oneskorenia e-mailov prostredníctvom servera Exchange. Všimnite si tiež, či sa doručuje iný e-mail – ak nie, problém je pravdepodobne s oneskorením servera Exchange.
-- Ak **sa nedoručuje individuálne upozornenie z konkrétneho súboru alebo knižnice**, pokúste sa ho odstrániť a znova vytvoriť. Ak chcete znova vytvoriť upozornenie, pozrite si tému [Správa, zobrazenie alebo odstránenie upozornení SharePointu.](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)
+- Najskôr skontrolujte priečinok nevyžiadanej pošty alebo Nevyžiadaná pošta v e-maile.
+- Ak **sú všetky upozornenia z viacerých súborov alebo knižníc oneskorené**, navštívte [tabuľu stavu služby](https://portal.office.com/adminportal/home?ref=/servicehealth) a skontrolujte, či sú k dispozícii upozornenia alebo incidenty, ktoré sa môžu vyskytnúť v SharePointe alebo Exchangei. Problém môže byť s funkciou upozornenia SharePointu alebo oneskorením v e-mailoch cez Exchange. Všimnite si tiež, či sa doručujú iné e-maily – Ak nie, problém je pravdepodobne s oneskorením pri výmene.
+- Ak **sa nedoručuje individuálne upozornenie zo špecifického súboru alebo knižnice**, pokúste sa ho odstrániť a znova vytvoriť. Ďalšie informácie o opätovnom vytvorení upozornenia nájdete v téme [Správa, zobrazenie alebo odstránenie upozornení SharePointu](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
 
 > [!NOTE]
-> - Upozornenia nie je možné odoslať distribučnej skupine. Podporované sú iba skupiny Zabezpečenie a O365.
-> - Šablóny e-mailov s upozornením nie je možné prispôsobiť. Na dosiahnutie týchto cieľov musíte použiť pracovný postup služby Microsoft Flow alebo SharePoint Designer.
+> - Upozornenia nie je možné odoslať do distribučnej skupiny. Podporované sú len skupiny zabezpečenia a služby O365.
+> - Nie je možné prispôsobiť šablóny upozornení e-mailom. Na dosiahnutie týchto úloh je nutné použiť pracovný postup Microsoft Flow alebo SharePoint Designer.
