@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005453"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316214"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Súkromné kanály v Microsoft teams
+# <a name="private-channels-in-microsoft-teams"></a>Súkromné kanály v aplikácii Microsoft teams
 
-Súkromné kanály sú novou funkciou v Microsoft teams. Upozorňujeme, že súkromné kanály nemožno konvertovať zo štandardných kanálov ani naopak.
+Súkromné kanály v aplikácii Microsoft teams vytvárajú prioritné priestory na spoluprácu v rámci tímov. Prístup ku kanálu môžu získať len používatelia v tíme, ktorí sú vlastníkmi alebo členmi súkromného kanála. Kohokoľvek vrátane hostí je možné pridať ako člena súkromného kanála, pokiaľ je daný používateľ už členom tímu.
 
-Podrobnosti o súkromných kanáloch, ako sú napríklad informácie o [vytváraní privátneho kanála a o členstve](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) a [súkromných kanáloch lokality SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), nájdete [v téme súkromné kanály v Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
-
-**Poznámka:** Keďže Konfigurácia uchovávania súkromných správ kanála ešte nie je podporovaná, nájomníci s povolenými politikami uchovávania údajov nebudú mať predvolene povolené súkromné kanály. Súkromné kanály môžu byť povolené v tíme admin Center. Všimnite si tiež, že zatiaľ čo uchovávanie súkromných kanálov správ nie je podporovaný, je podporovaný uchovávanie súborov zdieľaných v súkromných kanáloch.
+Ďalšie informácie nájdete v téme Začíname s [súkromnými kanálmi v aplikácii Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Patria sem aj informácie, ako napríklad [vytváranie súkromných kanálov a členstvo](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) a [súkromné kanálové lokality SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
 **Potrebujete nového vlastníka tímu?**
 
-Ak váš súkromný kanál vlastník opustí, môžete pridať nového vlastníka tímu cez tímy PowerShell.
+Ak váš vlastník súkromného kanála opustí vašu organizáciu alebo sa odstráni zo skupiny, člen súkromného kanála sa automaticky povzbudzuje ako súkromný vlastník kanála.
 
-
-- Choď [sem](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) nainštalovať tímy PowerShell.
-
-Tu je rutina cmdlet budete potrebovať:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Ďalšie informácie o tímových PowerShell, pozri [tímy PowerShell prehľad](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Správcovia môžu tiež [v aplikácii Microsoft teams Zobraziť spravovanie životného cyklu súkromných kanálov](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) a získať ďalšie informácie o politikách na spravovanie používateľov, ktorí môžu vytvárať súkromné kanály, ako aj spôsoby, ako pomôcť pri vytváraní dotazov na elektronické vyhľadávanie alebo právne zadržania.
