@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891764"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341418"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Program Outlook sa nemôže pripojiť k verejným priečinkom
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook sa nemôže pripojiť k verejným priečinkom
 
-Ak prístup k verejnému priečinku nefunguje niektorým používateľom, vyskúšajte nasledujúce kroky:
+Ak prístup k verejným priečinkom nefunguje pre niektorých používateľov, vyskúšajte tento postup:
 
-Pripojiť k EXO PowerShell a nakonfigurovať parameter DefaultPublicFolderMailbox na problémové používateľské konto, aby zodpovedali parametra na pracovné používateľské konto.
+Pripojte sa k EXO PowerShell a nakonfigurujte parameter DefaultPublicFolderMailbox v používateľskom konte problém tak, aby zodpovedal parametru v pracovnom používateľskom konte.
 
-Príklad:
+Napríklad
 
-Get-poštová schránka WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Prístup k poštovej schránke WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Súbor schránky ProblemUser-DefaultPublicFolderMailbox \<hodnota z predchádzajúceho príkazu>
+Nastavenie poštovej schránky ProblemUser – DefaultPublicFolderMailbox \<value from previous command>
 
 Počkajte aspoň jednu hodinu, kým sa zmena prejaví.
 
-Ak problém pretrváva, postupujte podľa [tohto postupu](https://aka.ms/pfcte) a Vyriešte problémy s prístupom k verejným priečinkom pomocou programu Outlook.
+Ak problém pretrváva, použite [Tento postup](https://aka.ms/pfcte) na riešenie problémov s prístupom k verejným priečinkom pomocou Outlooku.
+ 
+**Ak chcete určiť, ktorí používatelia majú prístup k verejným priečinkom pomocou Outlooku**:
+
+1.  Použitie súpravy Set-CASMailbox <mailboxname> -PublicFolderClientAccess $True alebo $FALSE  
+      
+    $true: povolenie prístupu používateľov k verejným priečinkom v Outlooku  
+      
+    $false: zabránenie prístupu používateľov k verejným priečinkom v Outlooku. Táto hodnota je predvolená.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Poznámka:** Tento postup umožňuje ovládať pripojenia iba pomocou počítačovej aplikácie Outlook pre klientov Windowsu. Používateľ môže pokračovať v prístupe k verejným priečinkom pomocou aplikácie OWA alebo Outlooku pre Mac.
+ 
+Ďalšie informácie nájdete v téme [oznámenie podpory spravovaných pripojení k verejným priečinkom v Outlooku](https://aka.ms/controlpf).
