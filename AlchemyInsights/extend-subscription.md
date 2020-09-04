@@ -1,8 +1,8 @@
 ---
-title: Aké sú moje možnosti rozšírenia
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Aké sú možnosti predĺženia
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708161"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364746"
 ---
-# <a name="what-are-my-options-to-extend"></a>Aké sú moje možnosti rozšírenia?
+# <a name="what-are-my-options-to-extend"></a>Aké sú možnosti predĺženia?
 
-Pred tým, než predplatné skutočne dosiahne dátum vypršania platnosti, máte niekoľko možností:
+Pred dátumom uplynutia platnosti predplatného máte niekoľko možností:
 
-- **Rozšírte svoju skúšobnú verziu.**  Potrebujete viac času na vyhodnotenie Microsoft 365? V niektorých prípadoch môžete rozšíriť [svoju skúšobnú verziu](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide).  
-- **Povoľte opakovanú fakturáciu** predplatného. Ak je opakovaná fakturácia už zapnutá, nemusíte vykonať žiadnu akciu. Vaše predplatné sa automaticky bude fakturovať a bude vám účtovaný poplatok za ďalší rok alebo mesiac v závislosti od aktuálnej frekvencie platieb. Ak ste z akéhokoľvek dôvodu vypli opakovanú fakturáciu, môžete vždy [znova zapnúť opakovanú fakturáciu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide).
-- Ak ste si kúpili aplikácie Microsoft 365 pre podniky s **predplatenou kartou,** môžete [zapnúť opakovanú fakturáciu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide) predplatného.
-- Ak ste **zákazníkom s otvorenými multilicenčnými licenciami** s predplateným jednoročným predplatným, obráťte sa na svojho partnera a kúpte si nový kód Product Key. Dostanete pokyny e-mailom na aktiváciu kľúča v [Centre služieb pre multilicencie.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Informácie o tom, ako nájsť nového partnera alebo partnera, s akým ste pracovali v minulosti, nájdete v téme [Vyhľadanie partnera alebo predajcu](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
-- Ak máte **aplikácie Microsoft 365 Apps for business,** pozrite si tému [Správa opakovanej fakturácie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide).
+- **Predĺženie skúšobnej verzie**.  Potrebujete viac času na vyskúšanie služby Microsoft 365? V niektorých prípadoch je k dispozícii možnosť [predĺženia skúšobnej verzie](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- **Povoľte opakovanú fakturáciu** predplatného. Ak je opakovaná fakturácia už zapnutá, nemusíte urobiť nič. Predplatné sa bude fakturovať automaticky a v závislosti od aktuálnej frekvencie fakturácie sa zaúčtuje suma za ďalší rok alebo mesiac. Ak ste z akéhokoľvek dôvodu opakovanú fakturáciu vypli, kedykoľvek [ju môžete znova zapnúť](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- Ak ste si Aplikácie Microsoft 365 pre podnikateľov kúpili pomocou **predplatenej karty**, môžete pre svoje predplatné zapnúť možnosť [Opakovaná fakturácia](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- Ak ste **zákazníkom s programom Open Volume Licensing** a ročným predplateným predplatným, kontaktujte partnera a zakúpte si nový kód Product Key. E-mailom dostanete pokyny na aktiváciu kódu v [Centre služieb pre multilicencie](https://go.microsoft.com/fwlink/p/?LinkID=282016). Ak chcete zistiť, ako nájsť nového partnera alebo partnera, s ktorým ste naposledy pracovali, pozrite si tému [Nájdenie partnera alebo predajcu](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Ak máte **Aplikácie Microsoft 365 pre podnikateľov**, pozrite si tému [Spravovanie opakovanej fakturácie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
