@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157707"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406341"
 ---
 # <a name="mover"></a>Mover
 
-21. októbra 2019 získala spoločnosť Microsoft **Mover**, popredný poskytovateľ migrácie súborov v cloude.
+21. októbra 2019, spoločnosť Microsoft získala  **Mover**, popredný poskytovateľ migrácie cloudových súborov.
 
-Pre viac informácií o Mover, prosím, odkaz na nasledujúce články:
+V aktuálnom čase [ **tu môžete**](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [nasmerovať všetky žiadosti o podporu](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) .  
 
-- [Sprievodca migráciou Mover](https://mover.io/guides/)
-- [Všeobecná migrácia – najčastejšie otázky](https://mover.io/guides/general/)
-- [Konektory Mover](https://mover.io/connectors/)
+Ďalšie informácie o ťahu nájdete v nasledujúcich článkoch:
 
-V súčasnej dobe, **prosím, priame žiadosti o podporu** [Support@mover.io](mailto:support@mover.io) o pomoc s produktom. 
-
- 
+- [Príručky na migráciu Mover](https://mover.io/guides/)
+- [Všeobecné najčastejšie otázky o migrácii](https://mover.io/guides/general/)

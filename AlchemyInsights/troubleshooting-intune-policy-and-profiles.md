@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s politikou a profilmi Intune
+title: Riešenie problémov s politikou a profilmi služby Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766688"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406305"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Riešenie problémov s politikou a profilmi Intune
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Riešenie problémov s politikou a profilmi služby Intune
 
-Ak chcete zobraziť existujúce politiky, riešiť konflikty, skontrolovať údaje denníka a Zobraziť bežné otázky a problémy, môžu vám pomôcť nasledujúce príručky.
+Ak chcete zobraziť existujúce politiky, riešiť problémy s konfliktmi, kontrolovať údaje denníka a Zobraziť bežné otázky a problémy, tieto pokyny vám môžu pomôcť.
 
-- [Riešenie problémov s politikami a profilmi v Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Riešenie problémov s politikami a profilmi v službe Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Bežné otázky, problémy a rozlíšenia so zásadami a profilmi zariadenia v Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Bežné otázky, problémy a rozlíšenia s politikami a profilmi zariadenia v službe Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Monitorovanie profilov konfigurácie zariadenia a zobrazenie konfliktov v Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Sledovanie profilov konfigurácie zariadenia a zobrazenie konfliktov v službe Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Riešenie problémov so zariadením a podmieneného prístupu v Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Riešenie problémov s dodržiavaním a podmieneným prístupom k zariadeniam v službe Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Monitorovanie politiky súladu a zobrazenie konfliktov v Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Monitorovanie politík dodržiavania súladu a zobrazenie konfliktov v službe Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Odoslať údaje denníka Intune Azure skladovanie, udalosti rozbočovače alebo denník Analytics](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Odoslanie údajov denníka služby Intune na Azure Storage, rozbočovače udalostí alebo denníkovú analýzu](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Pozrite si prehľad a [Nakonfigurujte zariadenia](https://docs.microsoft.com/intune/device-profiles) alebo [použite politiky súladu](https://docs.microsoft.com/intune/device-compliance-get-started).
+Pozrite si prehľad a [Nakonfigurujte zariadenia](https://docs.microsoft.com/intune/device-profiles) alebo [používajte politiky dodržiavania súladu](https://docs.microsoft.com/intune/device-compliance-get-started).
