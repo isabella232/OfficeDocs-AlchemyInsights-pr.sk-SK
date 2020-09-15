@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695230"
 ---
 # <a name="mailbox-quota-exceeded"></a>Prekročená kvóta poštovej schránky
 
-Prekročili ste kvótu poštovej schránky pre svoje konto. Existuje niekoľko krokov, ktoré môžete vykonať na zmenšenie veľkosti priečinka doručenej pošty pre lepší výkon.
+Prekročili ste kvótu poštovej schránky pre svoje konto. Existuje niekoľko krokov, ktoré môžete vykonať na zmenšenie veľkosti doručenej pošty na zlepšenie výkonu.
 
-1. Odstráňte staršie položky doručenej pošty. Môžete to urobiť rýchlo v aplikácii nastavením vlastného pohybu výpadu: **Nastavenia > Možnosti potiahnutia prstom**. Pomocou tohto súboru môžete jednoducho potiahnutím prstom cez priečinok doručenej pošty vymazať.
+1. Odstránenie starších položiek doručenej pošty. Môžete to urobiť rýchlo v aplikácii nastavením vlastného pohybu potiahnutím prstom: **nastavenia > možnosti potiahnutie prstom**. Pomocou tejto množiny môžete jednoducho odtiahnuť svoju cestu v doručenej pošte a vymazať ju.
 
-2. Vyprázdnite priečinky nevyžiadanej pošty. Choďte priamo do priečinkov spamu a stlačte **prázdny spam**.
+2. Vyprázdniť priečinok nevyžiadanej pošty. Prejdite priamo do priečinka Nevyžiadaná pošta a stlačte tlačidlo **Vyprázdniť nevyžiadanú poštu**.
 
-3. V systéme Android môžete priečinky s odpadkami vyprázdniť jedným kliknutím. Choďte priamo do koša zložky a stlačte **prázdne odpadky**. 
+3. V zariadení s Androidom môžete vyprázdniť priečinok Kôš jedným kliknutím. Prejdite priamo do priečinka Kôš a stlačte tlačidlo **Vyprázdniť kôš**. 
 
-4. Uložte prílohy do OneDrivu, aby neboli uložené v poštovej schránke. Ďalšie informácie nájdete [v časti Limity ukladacieho priestoru v Outlook.com.](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) 
+4. Uložte prílohy do služby OneDrive, aby sa neukladali do poštovej schránky. Ďalšie informácie nájdete [v téme limity ukladacieho priestoru v Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
 
-Ak používate microsoft 365, môžete tiež požiadať o zvýšenie poštovej schránky od správcu IT.
+Ak používate používateľa Microsoft 365, môžete požiadať o zvýšenie poštovej schránky od správcu IT.
