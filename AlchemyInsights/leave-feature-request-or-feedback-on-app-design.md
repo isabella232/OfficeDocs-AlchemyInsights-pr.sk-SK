@@ -1,35 +1,36 @@
 ---
-title: Ponechanie požiadavky na funkciu alebo spätnej väzby na návrh aplikácie
+title: Ponechanie žiadosti o funkciu alebo pripomienky k návrhu aplikácie
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265243"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676537"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Ponechanie požiadavky na funkciu alebo spätnej väzby na návrh aplikácie
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Ponechanie žiadosti o funkciu alebo pripomienky k návrhu aplikácie
 
-Vážime si zdieľanie vašich myšlienok, ako budeme pokračovať v práci na programe Outlook. *Uservoice* je fórum, kde môžete zanechať spätnú väzbu a hlasovať o myšlienkach druhých.  
+Oceňujeme, že zdieľate svoje myšlienky, keď budeme pokračovať v práci v Outlooku. *Uservoice* je fórum, v ktorom môžete opustiť pripomienky a hlasovať o nápadoch ostatných.  
 
-Ak chcete zanechať nám nápad: 
+Ak chcete nám napísať predstavu: 
 
-**Nastavenia > Pomocník & spätná väzba > navrhnúť funkciu > post nápad** 
+**Nastavenie > Pomocníkovi & pripomienky > navrhnúť funkciu > zverejniť predstavu** 
 
-**Starostlivosť ako vaše meno/email zobrazuje?**
+**Zaujíma vás, ako sa vaše meno alebo e-mailová obrazovka zobrazuje?**
 
-Keď pridáte poznámku k existujúcej požiadavke na funkciu, aplikácia automaticky vyplní vaše meno alebo e-mailovú adresu z primárneho účtu nastavujúceho v aplikácii. Ak chcete vybrať, ktorý názov sa zobrazí, musíte odoslať **novú** požiadavku na funkciu. 
+Keď pridáte komentár k existujúcej žiadosti o funkciu, aplikácia automaticky vyplní vaše meno alebo e-mailovú adresu z primárneho konta, ktoré je nastavené v aplikácii. Ak chcete vybrať, ktoré meno sa zobrazí, musíte odoslať **novú** žiadosť o funkciu. 
 
-Podanie žiadosti je jednoduchý 3-stupňový proces. Na tretej a poslednej stránke sa zobrazí riadok pre vašu e-mailovú adresu (vyžadované) a riadok pre vaše meno. Tu si môžete vybrať, ako sa vaše meno zobrazí, alebo môžete predložiť myšlienku anonymne. 
+Odoslanie žiadosti je jednoduchý postup s 3 krokmi. Na tretej a poslednej stránke sa zobrazí pre vašu e-mailovú adresu (povinné) a priamka pre vaše meno. Tu si môžete vybrať, ako sa bude zobrazovať vaše meno, alebo môžete predložiť myšlienku anonymne. 
 
-**Poznámka:** Možno budete musieť zmeniť aj to, akú e-mailovú adresu je automaticky vyplnený na tejto stránke. Ak je vaše meno nastavené určitým spôsobom v rámci nastavení vášho e-mailového klienta, zmena odosielania spätnej väzby na anonymný môže byť prepísaná vašimi nastaveniami. 
+**Poznámka:** Na tejto stránke možno budete musieť zmeniť aj e-mailovú adresu, ktorá je automaticky vyplnená. Ak je vaše meno nastavené určitým spôsobom v rámci nastavení e-mailového klienta, zmeny v odosielaní pripomienok anonymné môžu byť prepísané vašimi nastaveniami. 
