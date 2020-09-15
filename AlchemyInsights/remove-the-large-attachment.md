@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569548"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701694"
 ---
 # <a name="remove-the-large-attachment"></a>Odstránenie veľkej prílohy
 
-1. V programe Outlook vyberte položku **Odoslať alebo prijať**  >  **prácu v režime offline**. 
+1. V Outlooku vyberte položku **Odoslať alebo prijať**  >  **prácu v režime offline**. 
 2. Na navigačnej table vyberte položku **Pošta na odoslanie**. Odtiaľ môžete: 
-    - Odstráňte správu (vyberte ju a potom vyberte **vymaza»**).
-    - Presuňte správu do priečinka Koncepty, dvojitým kliknutím ju otvorte a odstráňte prílohu a vyberte položku **Odstrániť**).
-3. Ak sa zobrazí chyba, ktorá hovorí, že program Outlook sa pokúša preniesť správu, zatvorte program Outlook. Môže to chvíľu trvať, kým sa ukončí. Ak sa program Outlook nezavrie, stlačte kombináciu klávesov Ctrl + Alt + Delete a vyberte položku **Spustiť Správcu úloh**. V Správcovi úloh vyberte kartu **Procesy,** posuňte sa nadol na outlook.exe a vyberte položku **Ukončiť proces**.
-4. Po zatvorení programu Outlook ho reštartujte a zopakujte kroky 2 a 3. 
+    - Odstrániť správu (vyberte ju a potom vyberte položku **odstrániť**).
+    - Presuňte správu do priečinka Koncepty, dvojitým kliknutím ho otvorte a odstráňte prílohu a vyberte ju a potom vyberte položku **odstrániť**).
+3. Ak sa zobrazí chybové hlásenie s upozornením, že Outlook sa pokúša odoslať správu, ukončite Outlook. Ukončenie môže chvíľu trvať. Ak sa Outlook nezavrie, stlačte kombináciu klávesov CTRL + ALT + DELETE a vyberte položku **Spustiť správcu úloh**. V Správcovi úloh vyberte kartu **procesy** , posuňte sa nadol na položku outlook.exe a potom vyberte položku **ukončiť proces**.
+4. Po zatvorení Outlooku ho reštartujte a zopakujte kroky 2 a 3. 
 5. Po odstránení prílohy kliknite na položku **Odoslať alebo prijať**  >  **prácu v režime offline** a pokračujte v práci online. 
 
-Správy tiež uviaznu v priečinku Pošta na odoslanie, keď kliknete na tlačidlo **Odoslať**, ale nie ste pripojení. Kliknite na **tlačidlo Odoslať a prijať** a pozrite sa na tlačidlo **Pracovať offline.** Ak je modrá, ste odpojení. Kliknutím sa pripojíte (tlačidlo sa zmení na biele) a kliknite na tlačidlo **Odoslať všetko**.
+Správy sa v priečinku Pošta na odoslanie zobrazujú aj po kliknutí na položku **Odoslať**, ale nie ste pripojení. Kliknite na položku **Odoslať a prijať** a pozrite sa na tlačidlo **Práca v režime offline** . Ak je modrá, je odpojený. Kliknutím naň sa pripojíte (tlačidlo sa zmení na bielu farbu) a kliknite na položku **Odoslať všetko**.
  
- Podrobné informácie nájdete v témach:
-- [Video: Odoslanie alebo odstránenie uviaznutej e-mailovej správy](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+ Podrobnosti nájdete v témach:
+- [Video: odoslanie alebo odstránenie prilepeného e-mailu](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
