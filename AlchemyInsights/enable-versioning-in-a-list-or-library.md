@@ -1,27 +1,28 @@
 ---
-title: Povoliť spravovanie verzií v zozname alebo knižnici
+title: Povolenie tvorby verzií v zozname alebo knižnici
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: 94250ff817032c5b2f63361768f7e40ad3cfe3d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82cdd41121d343ec25dc59cae38e3243fa0c74e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703369"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709490"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a>Povoliť spravovanie verzií zoznamu alebo knižnice
+# <a name="enable-versioning-for-a-list-or-library"></a>Zapnutie vytvárania verzií pre zoznam alebo knižnicu
 
-1. Prejdite do zoznamu alebo knižnice.
+1. Prejdite na zoznam alebo knižnicu.
     
-2. Kliknite na položku **Nastavenie**a potom na položku nastavenia **knižnice** alebo **nastavenia zoznamu**.
+2. Kliknite na položku **Nastavenie**a potom na položku **Nastavenie knižnice** alebo **Nastavenie zoznamu**.
     
-3. Kliknite na položku **Nastavenie verziovania**.
+3. Kliknite na položku **Nastavenie tvorby verzií**.
     
 4. Vyberte požadované nastavenia a potom kliknite na **tlačidlo OK**.
     

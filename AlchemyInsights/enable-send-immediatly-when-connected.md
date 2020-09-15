@@ -1,10 +1,11 @@
 ---
-title: Enable Send immediately when connected Povoliť odoslať okamžite po pripojení
+title: Povoliť odosielanie ihneď po pripojení
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 6daf26a899519d16711548113d4a04de0a563fee
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569487"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709598"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Enable Send immediately when connected Povoliť odoslať okamžite po pripojení
+# <a name="enable-send-immediately-when-connected"></a>Povoliť odosielanie ihneď po pripojení
  
-1. Na karte Súbor kliknite na položku **Možnosti**.
+1. Na karte súbor kliknite na položku **Možnosti**.
 
-2. V dialógovom okne Možnosti programu Outlook kliknite na tlačidlo **Spresniť**.
+2. V dialógovom okne Outlook – možnosti kliknite na položku **Rozšírené**.
 
-3. V časti Odosielanie a prijímanie kliknutím povoľte **možnosť Odoslať okamžite po pripojení**. Kliknite na tlačidlo **OK**.
+3. V časti odosielanie a prijímanie kliknite na položku, ak chcete povoliť **odosielanie ihneď po pripojení**. Kliknite na tlačidlo **OK**.
 
-Podrobné informácie nájdete v témach:
-- [Video: Odoslanie alebo odstránenie uviaznutej e-mailovej správy](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-mail zostane v priečinku Pošta na odoslanie, kým manuálne iniciovať operáciu odosielania a prijímania v programe Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Podrobnosti nájdete v témach:
+- [Video: odoslanie alebo odstránenie prilepeného e-mailu](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [E-maily ostanú v priečinku Pošta na odoslanie, kým manuálne nespustíte operáciu odosielania a prijímania v Outlooku](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

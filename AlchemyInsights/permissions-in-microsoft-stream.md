@@ -1,29 +1,30 @@
 ---
-title: Povolenia v Microsoft Stream
+title: Povolenia v Microsoft streame
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: c1ffc34d5e4110349afe387d64449d2af08db30c
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403599"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721426"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Povolenia v Microsoft Stream
+# <a name="permissions-in-microsoft-stream"></a>Povolenia v Microsoft streame
 
-V predvolenom nastavení, keď nahráte video, povolenia sú nastavené pre video, ktoré majú byť viditeľné pre celú spoločnosť. Ak chcete zadať povolenia pre konkrétnych používateľov alebo skupiny, môžete prispôsobiť povolenia pre video.
+Pri nahrávaní videa sa predvolene nastavia povolenia pre video, ktoré sa má zobraziť pre celú spoločnosť. Ak chcete zadať povolenia pre konkrétnych používateľov alebo skupiny, môžete prispôsobiť povolenia pre video.
 
-- [Povolenia a ochrana osobných údajov v programe Microsoft Stream](https://docs.microsoft.com/stream/portal-permissions)
+- [Povolenia a ochrana osobných údajov v Microsoft Streame](https://docs.microsoft.com/stream/portal-permissions)
 
 - [Skupinové povolenia](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
-- [Povolenia pre kanál](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
+- [Povolenia kanála](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
