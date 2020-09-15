@@ -6,21 +6,22 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
-ms.openlocfilehash: b99f8342baab92121a60b39a4d7408d294e5bcea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ad820de8a44921bb540108054aa29401b618a460
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766580"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658336"
 ---
 # <a name="uninstall-office-client"></a>Odinštalovanie klienta balíka Office
 
-Ak chcete odinštalovať verziu balíka Office pre váš počítač, môžete použiť nižšie uvedené prepojenia.
+Na odinštalovanie verzie balíka Office pre váš počítač môžete použiť nižšie zobrazené prepojenia.
   
 > Pre PC: [Odinštalovanie balíka Office pre PC](https://support.office.com/article/Uninstall-Office-from-a-PC-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx)
     
