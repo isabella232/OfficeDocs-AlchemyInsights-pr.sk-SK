@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505558"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675205"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="213b8-102">Chcete si kúpiť nové predplatné?</span><span class="sxs-lookup"><span data-stu-id="213b8-102">Looking to buy a new subscription?</span></span>
+# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="bd520-102">Chcete si kúpiť nové predplatné?</span><span class="sxs-lookup"><span data-stu-id="bd520-102">Looking to buy a new subscription?</span></span>
 
-<span data-ttu-id="213b8-103">Ak už máte predplatné na Microsoft 365 for business a chcete si **Billing** kúpiť ďalšie predplatné pre svoju organizáciu, prejdite na stránku Služby \> [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) fakturácie a pozrite si zoznam predplatných, ktoré má vaša organizácia k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="213b8-103">If you already have a Microsoft 365 for business subscription and you want to buy another subscription for your organization, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page to see a list of subscriptions available to your organization.</span></span>
+<span data-ttu-id="bd520-103">Ak už máte predplatné na Microsoft 365 for Business a chcete si zakúpiť ďalšie predplatné pre vašu organizáciu, prejdite na stránku služby **fakturácie** a \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) zobrazte zoznam predplatných, ktoré sú k dispozícii pre vašu organizáciu.</span><span class="sxs-lookup"><span data-stu-id="bd520-103">If you already have a Microsoft 365 for business subscription and you want to buy another subscription for your organization, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page to see a list of subscriptions available to your organization.</span></span>
  
-1. <span data-ttu-id="213b8-104">Vyberte požadované predplatné a potom vyberte položku **Kúpiť**.</span><span class="sxs-lookup"><span data-stu-id="213b8-104">Select the subscription you want, and then select **Buy**.</span></span>
+1. <span data-ttu-id="bd520-104">Vyberte požadované predplatné a potom vyberte položku **kúpiť**.</span><span class="sxs-lookup"><span data-stu-id="bd520-104">Select the subscription you want, and then select **Buy**.</span></span>
 
-2. <span data-ttu-id="213b8-105">Vyberte spôsob platby a počet potrebných používateľských licencií.</span><span class="sxs-lookup"><span data-stu-id="213b8-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
+2. <span data-ttu-id="bd520-105">Vyberte, ako chcete zaplatiť, a koľko používateľských licencií potrebujete.</span><span class="sxs-lookup"><span data-stu-id="bd520-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
 
-3. <span data-ttu-id="213b8-106">Vyberte položku **Vziať k sebe teraz**.</span><span class="sxs-lookup"><span data-stu-id="213b8-106">Choose **Check out now**.</span></span> <span data-ttu-id="213b8-107">Na ďalšej stránke si môžete prezrieť objednávku a dokončiť nákup.</span><span class="sxs-lookup"><span data-stu-id="213b8-107">On the next page, you can review the order and complete the purchase.</span></span>
+3. <span data-ttu-id="bd520-106">Vyberte položku **vziať z projektu teraz**.</span><span class="sxs-lookup"><span data-stu-id="bd520-106">Choose **Check out now**.</span></span> <span data-ttu-id="bd520-107">Na ďalšej stránke si môžete pozrieť poradie a dokončite nákup.</span><span class="sxs-lookup"><span data-stu-id="bd520-107">On the next page, you can review the order and complete the purchase.</span></span>
 
-4. <span data-ttu-id="213b8-108">Po dokončení nákupu môže byť potrebné zmeniť priradenie licencií alebo zrušiť predplatné.</span><span class="sxs-lookup"><span data-stu-id="213b8-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="213b8-109">Ak potrebujete pomoc, pozrite si časť Ďalšie zdroje nižšie.</span><span class="sxs-lookup"><span data-stu-id="213b8-109">For help with this, please see the Additional Resources section below.</span></span>
+4. <span data-ttu-id="bd520-108">Po dokončení nákupu budete musieť znova priradiť licencie alebo zrušiť predplatné.</span><span class="sxs-lookup"><span data-stu-id="bd520-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="bd520-109">Ak potrebujete pomoc, prečítajte si časť Ďalšie zdroje nižšie.</span><span class="sxs-lookup"><span data-stu-id="bd520-109">For help with this, please see the Additional Resources section below.</span></span>
 
- <span data-ttu-id="213b8-110">**Ďalšie zdroje informácií:**</span><span class="sxs-lookup"><span data-stu-id="213b8-110">**Additional resources:**</span></span>
+ <span data-ttu-id="bd520-110">**Ďalšie zdroje informácií:**</span><span class="sxs-lookup"><span data-stu-id="bd520-110">**Additional resources:**</span></span>
   
-- [<span data-ttu-id="213b8-111">Priradenie licencií používateľom v Microsoft 365 for business</span><span class="sxs-lookup"><span data-stu-id="213b8-111">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [<span data-ttu-id="bd520-111">Priradenie licencií používateľom v službe Microsoft 365 for Business</span><span class="sxs-lookup"><span data-stu-id="bd520-111">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [<span data-ttu-id="213b8-112">Zrušenie predplatného</span><span class="sxs-lookup"><span data-stu-id="213b8-112">Cancel your subscription</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [<span data-ttu-id="bd520-112">Zrušenie predplatného</span><span class="sxs-lookup"><span data-stu-id="bd520-112">Cancel your subscription</span></span>](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- <span data-ttu-id="213b8-113">Ak máte záujem o zmenu predplatného, pozrite si tému [Prechod na iný plán microsoft 365 for business.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)</span><span class="sxs-lookup"><span data-stu-id="213b8-113">If you are interested in switching subscriptions, see [Switch to a different Microsoft 365 for business plan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)</span></span>
+- <span data-ttu-id="bd520-113">Ak máte záujem o zmenu predplatného, pozrite si tému [prepnutie na iný plán služieb Microsoft 365 for Business.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)</span><span class="sxs-lookup"><span data-stu-id="bd520-113">If you are interested in switching subscriptions, see [Switch to a different Microsoft 365 for business plan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)</span></span>
