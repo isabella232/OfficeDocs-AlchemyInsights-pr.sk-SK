@@ -1,25 +1,26 @@
 ---
-title: Riešenie problémov obnoviť scenáre-dlaždice chyby
+title: Riešenie problémov pri obnovovaní scenárov – chyby dlaždíc
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748843"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690690"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Riešenie problémov obnoviť scenáre-dlaždice chyby
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Riešenie problémov pri obnovovaní scenárov – chyby dlaždíc
 
-Ak sa vyskytnú chyby obnovenia dlaždíc v službe Power BI, počkajte približne 10-15 minút, kým sa obnoví, aby sa odrazili v dlaždiciach tabule. Ak sa stále nezobrazuje, znova pripnite vizualizáciu na tabuľu.
+Ak sa vyskytnú chyby obnovenia dlaždíc v rámci služby Power BI, počkajte približne 10-15 minút, kým sa obnovenie prejaví na dlaždiciach tabule. Ak sa stále nezobrazuje, znova pripnite vizualizáciu na tabuľu.
 
-Ďalšie informácie:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Ďalšie informácie: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
