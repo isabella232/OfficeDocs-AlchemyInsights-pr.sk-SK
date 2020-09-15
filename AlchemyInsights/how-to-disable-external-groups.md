@@ -1,34 +1,35 @@
 ---
-title: Ako zakázať externé skupiny
+title: Zakázanie externých skupín
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 2159feb4aa3999072de57d76790a2959c7355976
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720783"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704143"
 ---
-# <a name="how-to-disable-external-groups"></a>Ako zakázať externé skupiny
+# <a name="how-to-disable-external-groups"></a>Zakázanie externých skupín
 
-Yammer externé správy používa pravidlá prenosu Exchange (ETRs), súbor proaktívne kontroly, aby sa zabránilo zdieľanie informácií spoločnosti. S cieľom obmedziť používateľom vytvárať externé skupiny, musíte nakonfigurovať pravidlo prenosu Exchange (ETR) a potom nakonfigurovať sieť Yammer použiť pravidlo prenosu Exchange blokovať externé správy.
+Externé správy v Yammeri používajú pravidlá prenosu systému Exchange (ETRs), množinu proaktívnych ovládacích prvkov, aby sa predišlo zdieľaniu informácií o spoločnosti. Ak chcete obmedziť používateľov na vytváranie externých skupín, musíte nakonfigurovať pravidlo prenosu služby Exchange (ETR) a potom nakonfigurovať Yammer na blokovanie externých správ pomocou pravidla prenosu Exchangeu.
   
-Po vytvorení pravidla Exchange Online admin Center, postupujte nasledovne nastaviť ETR použiť v nariekanie:
+Po vytvorení pravidla v centre spravovania služby Exchange Online postupujte podľa týchto krokov na nastavenie ETR na použitie v Yammeri:
   
-- Prihláste sa na sieť Yammer ako overený správca a v **centre spravovania siete Yammer**prejdite na položku C **obsah a zabezpečenie zabezpečenia \> .**
+- Prihláste sa do Yammera ako overený správca a v **centre spravovania služby Yammer**prejdite na **položky C obsah a zabezpečenie zabezpečenia \> .**
 
-- V časti **externé správy**vyberte **vynútenie pravidiel Exchange Online Exchange Transport (ETRs) v nariekanie.**
+- V časti **externé správy**vyberte **v Yammeri položku vynútiť pravidlá prenosu Exchange Online Exchange (ETRs).**
 
 - Vyberte položku **Uložiť**.
 
-Ďalšie informácie nájdete v téme [zakázanie externých správ v sieti Yammer siete](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Ďalšie informácie nájdete v téme [Vypnutie externých správ v sieti Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   
