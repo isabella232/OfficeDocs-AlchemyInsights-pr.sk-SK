@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 0589f698958d4e26bba92f4feca455cf2fd7ecb5
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158646"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713253"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Pripojenie k modulu MSCommerce
 
-Musíte byť pripojení k modulu MSCommerce pred môžete zobraziť alebo nastaviť AllowSelfServicePurchase politiky.  
+Skôr ako budete môcť zobraziť alebo nastaviť politiku AllowSelfServicePurchase, musíte byť pripojení k MSCommerce modulu.  
 
-Ak sa chcete pripojiť k modulu MSCommerce, v príkazovom riadku PowerShell (PS C\): zadajte nasledovný príkaz:
+Ak sa chcete pripojiť k modulu MSCommerce, v riadku prostredia PowerShell (PS C: \) zadajte nasledujúci príkaz:
 
 `Connect-MSCommerce`
 
-Otvorí sa dialógové okno prihlásenia. Zadajte svoje užívateľské meno a heslo pre prihlásenie.
+Otvorí sa dialógové okno prihlásenia. Zadajte svoje meno používateľa a heslo na prihlásenie.
 
-**Poznámka:**&nbsp;&nbsp;konto, ktoré sa používa na prihlásenie, musí byť spoločnosť alebo Správca fakturácie.
+**Poznámka:** &nbsp; &nbsp; Konto používané na prihlásenie musí byť spoločnosť alebo Správca fakturácie.

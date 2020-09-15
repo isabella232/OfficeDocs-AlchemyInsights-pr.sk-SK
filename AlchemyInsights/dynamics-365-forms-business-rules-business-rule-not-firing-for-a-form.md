@@ -1,21 +1,22 @@
 ---
-title: Dynamics 365 formuláre obchodné pravidlá-obchodné pravidlo nie je paľba pre formulár
+title: Dynamics 365 formuláre obchodné pravidlá – pravidlo podnikania nie je vypaľovanie formulára
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769390"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711470"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Obchodné pravidlo nie je paľba pre formulár
+# <a name="business-rule-not-firing-for-a-form"></a>Pravidlo podnikania nie je vypaľovanie formulára
 
-Pravidlo podnikania sa nemusí vykonať, pretože pole, na ktoré sa odkazuje v obchodnom pravidle, nie je súčasťou formulára. Ďalšie informácie nájdete v téme [je vaše obchodné pravidlo nie je paľba pre formulár?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+Pravidlo podnikania sa nemusí vykonať, pretože pole, na ktoré sa odkazuje v pravidle podniku, nie je súčasťou formulára. Ďalšie informácie nájdete v téme [vaše pravidlo podnikania nie je vypaľovanie formulára?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
