@@ -1,26 +1,27 @@
 ---
-title: Rozšírené nasadenie chytiť všetko pravidlo
+title: Rozšírené nasadenie Chyť všetky pravidlo
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580866"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696707"
 ---
 # <a name="deploy-microsoft-365-apps"></a>Nasadenie aplikácií Microsoft 365
 
-Nasadenie aplikácií Microsoft 365 viacerým koncovým používateľom prostredníctvom nástroja Office Deployment Tool, Microsoft Endpoint Configuration Manager, ako súčasť obrazu disku operačného systému alebo v prípade zdieľaného počítača pomocou systému Windows Server so službami vzdialenej skúsenosti s prácou s počítačom (RDS) alebo terminálových služieb, zvážte použitie krok za krokom sprievodcu microsoft **365 aplikácie pre podnikové nasadenie poradca**.
+Ak chcete nasadiť aplikácie Microsoft 365 na viacerých koncových používateľov prostredníctvom nástroja na nasadenie balíka Office, Správca konfigurácie koncového bodu spoločnosti Microsoft, ako súčasť operačného systému na disku alebo v scenári zdieľaného počítača pomocou Windows servera so službou Remote Desktop Services (RDS) alebo terminálových služieb, zvážte použitie sprievodcu krok za krokom v aplikácii **Microsoft 365 Apps for Enterprise Deployment Advisor**.
   
-Ak chcete začať, uistite sa, že ste prihlásení ako správca nájomníka alebo globálny správca, a potom kliknite sem: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Ak chcete začať, skontrolujte, či ste prihlásení ako správca nájomníkov alebo globálny správca, a potom kliknite na položku tu: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   
