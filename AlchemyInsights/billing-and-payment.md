@@ -5,56 +5,57 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225247"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686045"
 ---
 # <a name="billing-and-payment"></a>Fakturácia a platba
 
-Účty sa nachádzajú na karte **fakturačné**  >  [účty & platby](https://go.microsoft.com/fwlink/p/?linkid=848039) .  Predvolene sa zobrazia posledné 3 mesiace faktúr.  Ak chcete zobraziť staršie faktúry, upravte filter.  Ak chcete zobraziť faktúru, kliknite na prepojenie **prevziať faktúru PDF** .
+Vaše faktúry nájdete na karte **Fakturácia**  >  [& platby](https://go.microsoft.com/fwlink/p/?linkid=848039) .  Na základe predvoleného nastavenia sa zobrazia posledné 3 mesiace faktúr.  Ak chcete zobraziť staršie faktúry, upravte filter.  Ak chcete zobraziť faktúru, kliknite na prepojenie **Stiahnuť faktúru vo formáte PDF** .
 
-**Dostávať faktúry prostredníctvom e-mailu**
+**Príjem faktúr prostredníctvom e-mailu**
 
-Na stránke **Billing**  >  [upozornenia](https://go.microsoft.com/fwlink/p/?linkid=853212) fakturácie fakturácie môžete túto funkciu zapnúť a spravovať používateľov **on** , ktorí dostanú faktúru ako prílohu e-mailu. Faktúra bude odoslaná na e-mailové adresy používateľov v zozname príjemcov upozornení. Zoznam obsahuje všetky fakturácie a globálnych administrátorov.  Zmenou roly môžete spravovať, kto dostane oznámenia o faktúre.  Odstránením roly globálneho alebo fakturačného správcu sa používateľ odstráni zo zoznamu príjemcov a pridaním roly globálneho alebo fakturačného správcu pridáte používateľa do zoznamu príjemcov.
+Na stránke oznámenia fakturácie **fakturácie**  >  [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) môžete túto funkciu zapnúť a **on** spravovať používateľov, ktorí dostanú faktúru ako prílohu e-mailu. Faktúra sa odošle na e-mailové adresy používateľov v zozname príjemcov oznámení. Zoznam obsahuje všetky fakturácie a globálnych správcov.  Zmenou roly môžete spravovať, kto dostane oznámenia o faktúre.  Odstránením roly globálneho správcu alebo správcu fakturácie sa tento používateľ odstráni zo zoznamu príjemcov a pridaním roly globálneho správcu alebo správcu fakturácie sa používateľovi pridá do zoznamu príjemcov.
 
-**Poznámka**: dostanete dve samostatné e-maily: ten, ktorý vám umožní vedieť, že váš účet je pripravený, s pokynmi na prihlásenie do admin Center Zobraziť, a druhý e-mail, ktorý obsahuje fakturačné vyhlásenie ako prílohu.
+**Poznámka**: dostanete dva samostatné e-maily: jeden, ktorý vám oznámi, že faktúra je pripravená, s pokynmi na prihlásenie do centra spravovania a druhým e-mailom, ktorý obsahuje Výpis vyúčtovania ako prílohu.
 
 **Platby**
 
-Ak platíte kreditnou kartou alebo bankovým účtom, spôsob platby priradený k vášmu predplatnému (-om) sa účtuje v priebehu niekoľkých dní po vytvorení návrhu zákona. Ak platba zlyhá, aktualizujte alebo zmeňte spôsob platby.
+Ak platíte kreditnou kartou alebo bankovým kontom, spôsob platby priradený k vášmu predplatnému sa účtuje v priebehu niekoľkých dní po vytvorení faktúry. Ak platba zlyhá, aktualizujte alebo zmeňte spôsob úhrady.
 
-Ak ste pridali novú kartu a stále dostávam oznámenie o poklese na starej kreditnej karte, možno budete musieť priradiť túto novú kartu k odberu.
+Ak ste pridali novú kartu a stále sa vám v starej kreditnej karte zobrazuje upozornenie na odmietnutie, možno bude potrebné priradiť túto novú kartu k predplatnému.
 
-1. V admin Center, prejdite na **fakturačné**  >  **účty & platby**  >  [Platobné metódy](https://go.microsoft.com/fwlink/p/?linkid=2018806) stránku.
+1. V centre spravovania prejdite na stránku faktúry za **fakturáciu**  >  **&**  >  [Platobné metódy](https://go.microsoft.com/fwlink/p/?linkid=2018806) platby.
 
-2. Vyberte riadok spôsobu platby, ktorý chcete nahradiť. Pravá tabla obsahuje zoznam všetkých fakturačných profilov a individuálnych odberov, ktoré používajú vybratý spôsob platby.
+2. Vyberte riadok spôsobu úhrady, ktorý chcete nahradiť. Pravá tabla zobrazuje všetky profily fakturácie a individuálne predplatné, ktoré používajú vybratý spôsob platby.
 
-3. Na pravej table vyberte položku **nahradiť spôsob platby pre všetky položky**.
+3. Na pravej table vyberte možnosť **nahradiť spôsob úhrady pre všetky položky**.
 
-4. Ak chcete použiť existujúci spôsob platby, vyberte ho z rozbaľovacieho zoznamu a potom vyberte položku **nahradiť**.
+4. Ak chcete použiť existujúci spôsob platby, vyberte z rozbaľovacieho zoznamu niektorú z týchto položiek a potom vyberte položku **nahradiť**.
 
     > [!NOTE]
-    > Ak máte predplatné priradené k fakturačnému profilu, môžete na ich zaplatenie použiť iba kreditnú alebo debetnú kartu. Ak máte bankové účty uvedené na stránke **spôsoby platby** , nie sú k dispozícii na výber v rozbaľovacom zozname.
+    > Ak máte predplatné priradené k profilu fakturácie, môžete použiť kreditnú alebo debetnú kartu na úhradu za ne. Ak máte bankové kontá uvedené na stránke **spôsoby úhrady** , nie sú k dispozícii na výber v rozbaľovacom zozname.
 
-5. Ak chcete pridať nový spôsob platby, vyberte položku **pridať spôsob platby**.
+5. Ak chcete pridať nový spôsob úhrady, vyberte položku **pridať spôsob úhrady**.
 
-6. Na table **pridať spôsob platby** zadajte informácie o konte a potom vyberte položku **Uložiť**. Musíte použiť spôsob platby z rovnakej krajiny ako nájomcu.
+6. Na table **pridať spôsob platby** zadajte informácie o konte a potom vyberte položku **Uložiť**. Je nutné použiť spôsob úhrady z rovnakej krajiny ako nájomníka.
 
-7. Nový spôsob platby je už v rozbaľovacom zozname vybratý. Vyberte položku **nahradiť**.
+7. Nový spôsob úhrady je už v rozbaľovacom zozname vybratý. Vyberte položku **nahradiť**.
 
 Ďalšie informácie nájdete v téme [spravovanie spôsobov platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frekvencia fakturácie**
 
-Účty sú generované mesačne alebo ročne v závislosti od fakturačnej frekvencie zvolenej pri pokladni.  
+Faktúry sa generujú mesačne alebo ročne v závislosti od frekvencie fakturácie vybratej pri pokladni.  
 
-**Poznámka**: objednávky s ročnou fakturáciou môže zobraziť vyúčtovanie v polovici obdobia, ak boli vykonané zmeny, ako je pridanie alebo odstránenie licencií. [Zmeňte frekvenciu fakturácie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Poznámka**: objednávky s ročnou fakturáciou môžu dostávať faktúru v polovici obdobia, ak sa vykonali zmeny, ako je napríklad pridávanie alebo odstraňovanie licencií. [Zmeňte frekvenciu fakturácie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

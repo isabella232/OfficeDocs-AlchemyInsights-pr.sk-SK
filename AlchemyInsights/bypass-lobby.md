@@ -1,46 +1,47 @@
 ---
-title: Obísť lobby
+title: Obchvatová loby
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889097"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684965"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Ovládanie nastavení vstupnej haly a úrovne účasti v tímoch
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Ovládanie nastavení lobby a úrovne účasti v aplikácii teams
 
-Ak chcete povoliť všetkým, vrátane dial-in, externých a anonymných používateľov, **obísť lobby**, použite PowerShell na splnenie tejto úlohy. Tu je príklad úpravy globálnej politiky schôdzí pre vašu organizáciu.
+Ak chcete všetkým, vrátane telefonických, externých a anonymných používateľov povoliť, aby sa **vyhli vstupnej hale**, použite prostredie PowerShell na vykonanie tejto úlohy. Tu je príklad úpravy globálnej politiky schôdze pre vašu organizáciu.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Tento cmdlet v súčasnosti vyžaduje použitie Skype Business PowerShell modulu. Ak chcete nastaviť použitie tejto rutiny cmdlet, pozrite sa na [správu politík pomocou prostredia PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Táto rutina typu cmdlet v súčasnosti vyžaduje používanie modulu PowerShell v Skype for Business. Ak chcete nastaviť používanie tejto rutiny typu cmdlet, pozrite si tému [Správa politík pomocou prostredia PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Po nastavení politiky ju musíte aplikovať na používateľov. alebo ak ste upravili globálnu politiku, automaticky sa bude vzťahovať na používateľov. Pri každej zmene politiky musíte počkať aspoň **4 hodiny až 24 hodín** , kým sa politiky prejavia. 
+Po nastavení politiky je potrebné ju použiť pre používateľov. Ak ste upravili globálnu politiku, automaticky sa bude vzťahovať na používateľov. Pri každej zmene politiky musíte počkať aspoň **4 hodiny až 24 hodín** , kým sa politiky prejavia. 
 
-Nezabudnite si prezrieť dokumentáciu nižšie pred vykonaním týchto zmien pochopiť, čo presne to umožňuje.
+Pred vykonaním týchto zmien si prečítajte dokumentáciu nižšie, aby ste presne pochopili, čo to umožňuje.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Pochopenie tímov pre kontrolu politiky lobby
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Informácie o ovládacích prvkoch v lobby schôdze v aplikácii teams
 
-Tieto nastavenia kontrolujú, ktoré účastníci stretnutia čakajú vo vstupnej hale pred tým, ako sú prijatí na schôdzu, a úroveň účasti, ktorú sú povolené na schôdzi. PowerShell môžete použiť na aktualizáciu nastavenia politiky schôdzí, ktoré ešte neboli implementované (označené ako "pripravujeme") v tíme admin Center. Pozri nižšie pre príklad rutiny cmdlet prostredia PowerShell, ktorá umožňuje všetkým používateľom obísť lobby.
+Tieto nastavenia určujú, ktorí účastníci schôdze čakajú v lobby pred prijatím na schôdzu a úrovňou účasti, ktorú sú na schôdzi povolené. Pomocou prostredia PowerShell môžete aktualizovať nastavenia politiky schôdze, ktoré ešte neboli implementované (označené ako "čoskoro") v centre spravovania pre teams. Nižšie nájdete príklad rutiny typu cmdlet prostredia PowerShell, ktorá umožňuje všetkým používateľom obísť lobby.
 
-- [Automaticky priznať](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , že ľudia sú pre-organizátor politiky, ktorá kontroluje, či ľudia pripojiť k schôdzi priamo alebo čakať vo vstupnej hale, kým nie sú prijaté overený používateľ.
+- [Automaticky priznať](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , že ľudia sú na základe politiky organizátora, ktorá kontroluje, či sa ľudia priamo pripoja k schôdzi alebo čakajú v lobby, až kým neprijmú overeného používateľa.
 
-- [Umožniť anonymný ľudia začať schôdzu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) je per-organizátor politiky, ktorá kontroluje, či anonymný ľudia, vrátane B2B a federalizovaných používateľov, sa môže pripojiť k schôdzi používateľa bez overený používateľ z organizácie v návštevnosti.
+- [Povoliť anonymným používateľom začať schôdzu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) je politika v rámci organizátora, ktorá určuje, či sa majú anonymné osoby vrátane B2B a externých používateľov pripájať k schôdzi používateľa bez overeného používateľa z organizácie v dochádzke.
 
-- [Povoliť používateľom telefonického pripojenia k obchádzke lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**pripravujeme**) je politika pre organizátora, ktorá kontroluje, či ľudia, ktorí telefonicky pripoja k schôdzi priamo, alebo čakajú vo vstupnej hale bez ohľadu na to, že **automaticky pripúšťajú nastavenie ľudí** .
+- [Povoliť používateľom telefonických služieb obísť lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**už čoskoro**) je politika pre organizátora, ktorá kontroluje, či sa osoby, ktoré telefonicky telefonicky pripoja k schôdzi, dostávajú priamo k schôdzi alebo sa v lobby čakajú bez ohľadu na to, či sa **automaticky pripúšťa** nastavenie
 
-- [Povoliť organizátorom prepísať nastavenia vstupnej haly](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**pripravujeme**) je politika pre organizátora, ktorá určuje, či organizátor schôdze môže prepísať nastavenia vstupnej haly, ktoré správca nastala v **automatickom priznávanie ľudí** a **umožniť používateľom telefonického pripojenia, aby pri plánovaní novej schôdze obchádzali vstupnú halu** .
+- [Ak chcete, aby organizátori](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) prepísali nastavenia lobby (**už čoskoro**), je politika v rámci organizátora, ktorá kontroluje, či organizátor schôdze môže prepísať nastavenia vstupnej haly, ktoré správca **automaticky priznáva ľuďom** a **Povoliť používateľom telefonických služieb obísť lobby** pri plánovaní novej schôdze.
 
-**Poznámka:** Prečítajte si článok [spravovanie politík schôdzí v tímoch](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) pre úplný prehľad politík schôdzí spoločnosti Microsoft teams.
+**Poznámka:** Prečítajte si tému [Správa politík schôdze v aplikácii teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) a získajte celkový prehľad o politikách schôdze v aplikácii Microsoft teams.
