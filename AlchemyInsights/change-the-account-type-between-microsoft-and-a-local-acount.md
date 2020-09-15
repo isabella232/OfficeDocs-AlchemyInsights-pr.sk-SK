@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 322e53e2a4ecd48f84be90b48dc0270af993a849
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796361"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681527"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Zmena typu konta, s ktorým sa prihlásite
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Zmena typu konta, do ktorého sa prihlasujete
 
-Tu je postup, ako zmeniť typ konta, ktoré používate na prihlasovanie do Windowsu 10:
+Tu je postup, ako zmeniť typ konta, ktoré používate na prihlásenie do Windowsu 10:
 
-1. Vyberte položku **Spustiť** > **Nastavenie** > **účty** > **vaše informácie**.
-2. Ak používate lokálne konto, ktoré nie je prepojené s e-mailovou adresou, ale chcete použiť konto Microsoft, vyberte **namiesto toho možnosť prihlásiť sa s kontom Microsoft**.
-3. Ak používate konto Microsoft, ktoré je prepojené s e-mailovou adresou, ale chcete použiť lokálne konto, vyberte **namiesto toho možnosť prihlásiť sa s lokálnym kontom**.
-4. V prípade potreby zadajte heslo a potom vyberte položku **ďalej**.
+1. Vyberte položku **Spustiť**  >  kontá v**nastaveniach**  >  **Accounts**  >  **Your info**.
+2. Ak používate lokálne konto, ktoré nie je prepojené na e-mailovú adresu, ale chcete používať konto Microsoft, vyberte položku **Prihlásiť sa s kontom Microsoft**.
+3. Ak používate konto Microsoft, ktoré je prepojené na e-mailovú adresu, ale chcete používať lokálne konto, vyberte položku **Prihlásiť sa s lokálnym kontom**.
+4. Ak je to potrebné, zadajte svoje heslo a potom vyberte položku **ďalej**.
 5. Reštartujte zariadenie. Pri ďalšom prihlásení sa zobrazí konto, na ktoré ste prešli.

@@ -1,29 +1,30 @@
 ---
-title: Názov spoločnosti extrakcia odsudzovanie
+title: Odmietanie extrakcie názvu spoločnosti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469326"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681023"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Zmeny názov spoločnosti extrakcia SharePoint Online
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Zmeny v extrakcii názvu spoločnosti v SharePointe Online
 
-Počnúc November 15th, 2019, budeme [Odstránenie názov spoločnosti extrakcia z SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Extrakcia názvu spoločnosti v SharePointe umožňuje vyhľadávacím systémom extrahovať názvy firiem z obsahu podľa konkrétnej množiny podmienok pomocou predobývaných slovníka alebo pomocou zoznamov spoločností alebo vylúčení spoločností. Zatiaľ čo extrakcia názvu spoločnosti sa stala spoliehaným riešením na odvodenie jednej alebo viacerých názvov spoločností z obsahu v SharePointe Online, slovník aj jeho základná množina funkcií sa stali zastaranými.
+Na začiatku 15. novembra 2019 sa [odstráni extrakcia názvu spoločnosti zo služby SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Extrakcia názvu spoločnosti v SharePointe umožňuje systému vyhľadávania extrahovať názvy spoločností z obsahu v rámci konkrétnej množiny podmienok s použitím vopred vyplneného slovníka alebo pomocou zoznamov zahrnutých spoločností alebo zoznamov vylúčenia spoločnosti. Zatiaľ čo extrakcia názvu spoločnosti sa stal riešením na odvodenie jedného alebo viacerých názvov spoločností z obsahu v SharePointe Online, slovník aj jeho podkladové množiny funkcií sa stali zastaranými.
 
-- [Ako zistím, či je pre nehnuteľnosť povolená extrakcia názvu spoločnosti?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Ako zistím, či je pre vlastnosť povolená extrakcia názvov spoločnosti?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Čo sa stane, keď je extrakcia názvu spoločnosti zastarané?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Čo sa stane, keď je extrakcia názvu spoločnosti zastaraná?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Existujú alternatívy k extrakcii názvu spoločnosti?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Existujú alternatívy na extrakciu názvu spoločnosti?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

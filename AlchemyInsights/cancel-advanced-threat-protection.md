@@ -1,33 +1,34 @@
 ---
-title: Zrušiť rozšírenú ochranu pred hrozbami
+title: Zrušenie rozšírenej ochrany pred hrozbami
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: dc228b5c4ebc1bd1f981868e0eb44fa444e7e7da
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708185"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683705"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Zrušiť rozšírenú ochranu pred hrozbami
+# <a name="cancel-advanced-threat-protection"></a>Zrušenie rozšírenej ochrany pred hrozbami
 
-Rozšírená ochrana pred hrozbami môže byť zrušená v **Centre spravovania služby Microsoft 365**.
+Rozšírenú ochranu pred hrozbami môžete zrušiť v **centre spravovania pre Microsoft 365**.
 
-1. Prejdite **Billing**na stránku  >  [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Vyhľadajte rozšírený plán ochrany pred hrozbami na zrušenie.
-3. Kliknite na **položku Zrušiť predplatné**.
+1. Prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Vyhľadajte plán rozšíreného zabezpečenia hrozby, ktorý chcete zrušiť.
+3. Kliknite na položku **zrušiť predplatné**.
 
-Vrátenie platby: Každý prorated kredit vám bude vrátený v rámci nasledujúceho fakturačného cyklu.
+Refundácia: všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.
 
-**Poznámka**: Ak sa možnosť zrušiť, kliknite na predplatné pre zobrazenie podrobností a mali by ste vidieť **Zrušiť predplatné** možnosť v **Nastavenia & akcie**.
+**Poznámka**: Ak sa vám nezobrazuje možnosť zrušiť, kliknutím na predplatné zobrazíte Podrobnosti a v **časti Nastavenia & akcie**by sa mala zobraziť možnosť **zrušiť predplatné** .
 
-Ďalšie informácie nájdete v téme [Zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

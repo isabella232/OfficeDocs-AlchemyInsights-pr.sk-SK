@@ -1,10 +1,11 @@
 ---
-title: Zrušiť predplatné programu Visio
+title: Zrušenie predplatného visia
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: af41ef0469d475b1964d721ab52f175bf8812ffc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061613"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683309"
 ---
-# <a name="cancel-visio-subscription"></a>Zrušiť predplatné programu Visio
+# <a name="cancel-visio-subscription"></a>Zrušenie predplatného visia
 
-Správcovia môžu zrušiť predplatné programu Visio pre svoju organizáciu z **Microsoft 365 admin Center**.
+Správcovia môžu zrušiť predplatné visia pre svoju organizáciu z **centra spravovania služby Microsoft 365**.
 
-1. Prejdite na stránku **Fakturačná > [vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+1. Prejdite na stránku **fakturácia > [svoje produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. Vyhľadajte plán programu Visio, ktorý chcete zrušiť.
+2. Vyhľadajte plán Visia na zrušenie.
 
-3. Kliknite na tlačidlo **zrušiť predplatné**.
+3. Kliknite na položku **zrušiť predplatné**.
 
-**Refundácia: akýkoľvek pomerný kredit vám bude vrátený v ďalšom fakturačnom cykle.**
+**Refundácia: všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.**
 
-**Poznámka**: Ak nevidíte možnosť zrušiť, kliknite na predplatné zobrazíte Podrobnosti a mali by ste vidieť **zrušiť predplatné** možnosť v **nastavenia & akcie**.
+**Poznámka**: Ak sa vám nezobrazuje možnosť zrušiť, kliknutím na predplatné zobrazíte Podrobnosti a v **časti Nastavenia & akcie**by sa mala zobraziť možnosť **zrušiť predplatné** .
 
 Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154533"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681850"
 ---
 # <a name="change-payment-method"></a>Zmena spôsobu úhrady
 
-Spôsob platby môžete zmeniť z Centra spravovania služby **Microsoft 365**.
+Spôsob úhrady môžete zmeniť v **centre spravovania pre Microsoft 365**.
   
-1. V Centre spravovania prejdite na stránku **Fakturačné**  >  **zmenky & platby**Spôsoby  >  [platby.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
-2. Vyberte riadok spôsobu platby, ktorý chcete nahradiť. Na pravej table sú uvedené všetky fakturačné profily a jednotlivé predplatné, ktoré používajú vybratý spôsob platby.
-3. Na pravej table vyberte položku **Nahradiť spôsob platby pre všetky položky**.
-4. Ak chcete použiť existujúci spôsob platby, vyberte ho z rozbaľovacieho zoznamu a potom vyberte položku **Nahradiť**.
+1. V centre spravovania prejdite na stránku faktúry za **fakturáciu**  >  **&**  >  [Platobné metódy](https://go.microsoft.com/fwlink/p/?linkid=2018806) platby.
+2. Vyberte riadok spôsobu úhrady, ktorý chcete nahradiť. Pravá tabla zobrazuje všetky profily fakturácie a individuálne predplatné, ktoré používajú vybratý spôsob platby.
+3. Na pravej table vyberte možnosť **nahradiť spôsob úhrady pre všetky položky**.
+4. Ak chcete použiť existujúci spôsob platby, vyberte z rozbaľovacieho zoznamu niektorú z týchto položiek a potom vyberte položku **nahradiť**.
     > [!NOTE]
-    > Ak máte predplatné priradené k fakturačnému profilu, na ich zaplatenie môžete použiť iba kreditnú alebo debetnú kartu. Ak máte bankové účty uvedené na stránke **Spôsoby platby,** nie sú k dispozícii na výber v rozbaľovacom zozname.
-5. Ak chcete pridať nový spôsob platby, vyberte položku **Pridať spôsob platby**.
-6. Na table **Pridať spôsob platby** zadajte informácie o konte a potom vyberte položku **Uložiť**. Musíte použiť spôsob platby z tej istej krajiny ako nájomca.
-7. Nový spôsob platby je už vybratý v rozbaľovacom zozname. Vyberte polo **ku Nahradi»**.
+    > Ak máte predplatné priradené k profilu fakturácie, môžete použiť kreditnú alebo debetnú kartu na úhradu za ne. Ak máte bankové kontá uvedené na stránke **spôsoby úhrady** , nie sú k dispozícii na výber v rozbaľovacom zozname.
+5. Ak chcete pridať nový spôsob úhrady, vyberte položku **pridať spôsob úhrady**.
+6. Na table **pridať spôsob platby** zadajte informácie o konte a potom vyberte položku **Uložiť**. Je nutné použiť spôsob úhrady z rovnakej krajiny ako nájomníka.
+7. Nový spôsob úhrady je už v rozbaľovacom zozname vybratý. Vyberte položku **nahradiť**.
 
-Ďalšie informácie nájdete v téme [Správa spôsobov platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ďalšie informácie nájdete v téme [spravovanie spôsobov platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Informácie o zmene platby kreditnou kartou na platby faktúry nájdete v téme [Zmena z kreditnej karty alebo bankového účtu na fakturáciu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Ak chcete zistiť, ako zmeniť platby kreditnou kartou na fakturáciu, prečítajte si tému [Zmena z kreditnej karty alebo bankového konta na faktúru](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
