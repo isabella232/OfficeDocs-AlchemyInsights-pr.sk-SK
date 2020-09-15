@@ -6,7 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,26 +14,26 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: ebd6db153ab812d803ed5aecabe9dddb91300d51
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 74aca1fb73e85bc7796047f7e77022f4f418ffc6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43757072"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691374"
 ---
-# <a name="solutions-for-error-30015-4"></a><span data-ttu-id="1da5f-102">Riešenie chyby 30015-4</span><span class="sxs-lookup"><span data-stu-id="1da5f-102">Solutions for error 30015-4</span></span>
+# <a name="solutions-for-error-30015-4"></a><span data-ttu-id="e6c3c-102">Riešenie chyby 30015-4</span><span class="sxs-lookup"><span data-stu-id="e6c3c-102">Solutions for error 30015-4</span></span>
 
-- <span data-ttu-id="1da5f-103">Reštartujte počítač a pokúste sa [nainštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="1da5f-103">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="e6c3c-103">Reštartujte počítač a skúste [nainštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="e6c3c-103">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="1da5f-104">Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1da5f-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="e6c3c-104">Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e6c3c-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="1da5f-105">Keď sa otvorí, z **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.</span><span class="sxs-lookup"><span data-stu-id="1da5f-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="e6c3c-105">Keď sa otvorí, v časti **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.</span><span class="sxs-lookup"><span data-stu-id="e6c3c-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="1da5f-106">Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="1da5f-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="e6c3c-106">Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="e6c3c-106">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="1da5f-107">Po reštartovaní, podpora a obnovenie asistent automaticky znovu otvorí dokončiť proces odinštalovania.</span><span class="sxs-lookup"><span data-stu-id="1da5f-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="e6c3c-107">Po reštartovaní sa automaticky znova otvorí nástroj support and Recovery Assistant, aby sa dokončil proces odinštalovania.</span><span class="sxs-lookup"><span data-stu-id="e6c3c-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="1da5f-108">Postupujte podľa zostávajúcich výziev a [preinštalujte program Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorte Asistenta.</span><span class="sxs-lookup"><span data-stu-id="1da5f-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="e6c3c-108">Sledovanie zostávajúcich výziev a [Preinštalovanie balíka Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorenie Asistenta.</span><span class="sxs-lookup"><span data-stu-id="e6c3c-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
 
-[<span data-ttu-id="1da5f-109">Oprava chýb pri inštalácii balíka Office</span><span class="sxs-lookup"><span data-stu-id="1da5f-109">Fix Office installation errors</span></span>](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[<span data-ttu-id="e6c3c-109">Oprava chýb pri inštalácii balíka Office</span><span class="sxs-lookup"><span data-stu-id="e6c3c-109">Fix Office installation errors</span></span>](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   
