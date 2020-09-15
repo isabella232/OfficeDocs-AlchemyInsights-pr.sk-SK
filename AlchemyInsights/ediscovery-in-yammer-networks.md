@@ -1,33 +1,34 @@
 ---
-title: eDiscovery sieť Yammer siete
+title: eDiscovery v sieťach Yammer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714749"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710931"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery sieť Yammer siete
+# <a name="ediscovery-in-yammer-networks"></a>eDiscovery v sieťach Yammer
 
-Teraz môžete vykonávať eDiscovery vyhľadáva nariekanie obsahu.  Vykonávajúci eDiscovery vyhľadávanie alebo export na nariekanie obsah vyžaduje nasledovné:
+Teraz môžete vykonávať vyhľadávania eDiscovery pre obsah Yammera.  Vykonávanie vyhľadávania eDiscovery alebo exportu obsahu Yammera vyžaduje nasledovné:
 
-1. Musíte najprv migrovať sieť sieť Yammer Enterprise do natívneho režimu, aby vaše Yammer správy a súbory zistiteľné. **Poznámka: Ak ste novým zákazníkom od 9. januára 2020 a sieť Yammer siete je už v natívnom režime, vaše údaje je teraz rozpoznateľný s eDiscovery**.
+1. Ak chcete, aby sa správy a súbory v Yammeri rozkryli, musíte najprv migrovať podnikovú sieť Yammer do natívneho režimu. **Poznámka: Ak ste novým zákazníkom ako Jan. 9.2020 a vaša sieť Yammer je už v natívnom režime, vaše údaje sa teraz dajú vyhľadať pomocou elektronického vyhľadávania**.
 
-2. Pre ukončenie zákazníkov, eDiscovery pre sieť Yammer bude k dispozícii po natívne režim zarovnanie nástroj je prepustený a natívne režim migrácie dokončí Yammer nájomcu.
+2. Pri ukončení zákazníkov bude eDiscovery pre Yammer k dispozícii po vydaní nástroja na zarovnanie natívneho režimu a migrácia natívneho režimu sa dokončí pre Yammer v nájomníkovi.
 
 Ďalšie informácie o:
 
-- Natívny režim v nariekanie, pozrite si: [Prehľad natívneho režimu](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery sieť Yammer siete, pozri: [Prehľad eDiscovery sieť Yammer siete](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery v Microsoft 365, pozri [eDiscovery v microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Natívny režim v Yammeri nájdete v téme: [Prehľad natívneho režimu](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- eDiscovery v sieťach Yammera nájdete v téme: [Prehľad elektronického vyhľadávania v sieťach Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- eDiscovery v Microsoft 365, pozrite si tému [eDiscovery v microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

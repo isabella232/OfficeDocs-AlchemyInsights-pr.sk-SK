@@ -1,43 +1,44 @@
 ---
-title: Dynamics 365-nesprávne Dashboard relácie v Dynamics 365 Unified Interface
+title: Dynamics 365 – nesprávna tabuľa sa zobrazuje v systéme Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528566"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711290"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Nesprávne Dashboard relácie v Dynamics 365 zjednotené rozhranie
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Nesprávna tabuľa sa zobrazuje v rozhraní Dynamics 365 Unified Interface
 
-Existuje niekoľko dôvodov, prečo sa môže zobraziť iná tabuľa ako tá, ktorú očakávate:
+Existuje niekoľko dôvodov, prečo sa môže zobraziť iná tabuľa, než očakávate:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Používateľ nastaviť predvolenú tabuľu používateľa 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Používateľ nastavil predvolenú tabuľu používateľa 
 
-Zvyčajne môžete identifikovať predvolenú tabuľu používateľa je nastavená, ak tlačidlo **nastaviť ako predvolené** nezobrazuje v paneli príkazov tabule. Predvolená tabuľa používateľa prepíše všetky ostatné predvolené tabule, a to aj v prípade, že predvolená tabuľa používateľa nie je v aktuálnej aplikácii.
+Zvyčajne je možné identifikovať predvolenú tabuľu používateľa, ak sa na paneli príkazov tabule nezobrazuje tlačidlo **nastaviť ako predvolené** . Predvolenou tabuľou používateľa sa prepíšu všetky ostatné predvolené tabule, a to aj v prípade, že predvolená tabuľa používateľa sa nenachádza v aktuálnej aplikácii.
 
-Ak chcete zrušiť nastavenie predvolenej tabule, použite nasledujúce riešenie.
+Ak chcete zrušiť predvolenú tabuľu, použite toto alternatívne riešenie.
 
 1. Vytvorte novú osobnú tabuľu.
 
-2. Nastaví novú tabuľu ako predvolenú používateľa.
+2. Nastavte novú tabuľu ako predvolenú používateľa.
 
-3. Odstrániť túto tabuľu.
+3. Odstráňte túto tabuľu.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Tabuľa je nastavená v Sitemap
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Tabuľa sa nastavuje v súbore Sitemap
 
-Možno ste nastavili predvolenú tabuľu organizácie výberom tabule a výberom položky "nastaviť ako predvolené" v časti Prispôsobenie systému. Ale Dashboard definované v Sitemap Designer bude mať prednosť pred tejto tabuli, ak má používateľ prístup k nemu.
+Možno ste nastavili predvolenú tabuľu organizácie výberom tabule a výberom položky nastaviť ako predvolené v časti Prispôsobenie systému. Tabuľa definovaná v návrhárovi Sitemap však bude mať prednosť pred touto tabuľou, ak má k nemu prístup používateľ.
 
-Ak chcete, aby používatelia videli tabuľu, ktorú ste nastavili ako predvolenú organizáciu, môžete buď:
+Ak chcete, aby sa používateľom zobrazila tabuľa, ktorú ste nastavili ako predvolenú organizáciu, môžete buď:
 
-* Nastaviť, že tabuľa v Sitemap
+* Nastavenie tejto tabule v Sitemap
 
-* Odstránenie prístupu k Sitemap definované Dashboard pre týchto používateľov
+* Odstránenie prístupu k súboru Sitemap definovaného tabuľa pre týchto používateľov
