@@ -1,40 +1,41 @@
 ---
-title: rovnako ako názov súboru je najlepšie
+title: rovnako ako názov súboru je najvhodnejší
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
-ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
+ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "44750985"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664149"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Požadovaná alchýmia hlavička H1, H2 to nefunguje."
-Osvedčené postupy a usmernenia pre tvorbu alchýmie:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Požadovaná alchýmia header H1, H2's nefungujú."
+Najvhodnejšie postupy a pokyny na vytváranie alchýmie:
 
-1. **Nehniezditi Alchemy Postrehy v priečinkoch**- to bude zlomiť url štruktúru. Snažíme sa to napraviť.
-1. Súbory v priečinku **AlchemyInsights** by mali mať malé názvy súborov s pomlčkami pre medzery ex. ***na zadržanie súdnych sporov***.
-    1. Do poľa ms.custom zahrňte identifikáciu pravidla alebo identifikátor sektora z [portálu partnera Alchemy.](https://alchemyportal.azurewebsites.net) Ex. ***ms.custom: 100021 ms.custom: 100021 ms.custom: 100021 ms***
-1. Ako šablónu použite ostatné metaúdaje v hornej časti tohto súboru.
-1. Na [portáli Alchemy Partner](https://alchemyportal.azurewebsites.net)prejdite do časti **Názov prehľadu zákazníkov:** a použite ho ako východiskový bod pre váš titul H1 na prehľad. 
+1. Do **not Nest alchýmia prehľady v priečinkoch**– tým sa preruší štruktúra URL adresy. My sme hľadali riešenie tohto.
+1. Súbory v priečinku **AlchemyInsights** by mali obsahovať malé názvy súborov s pomlčkami pre medzery ex. ***postup – povolenie – zadržanie***.
+    1. Zahrňte ID pravidla alebo identifikáciu vedierko z [partnerského portálu alchýmie](https://alchemyportal.azurewebsites.net) do poľa MS. custom. napríklad. ***MS. Custom: 100021***
+1. Použite zvyšok metaúdajov v hornej časti tohto súboru ako šablónu.
+1. Na [partnerskom portáli alchýmie](https://alchemyportal.azurewebsites.net)prejdite nadol na časť **názov prehľadu zákazníka:** a použite ho ako východiskový bod pre názov H1 pre prehľad. 
     > [!NOTE]
-    > Alchýmia Postrehy musia mať len jeden H1 na vrchole, alebo sa zlomiť vo výrobe. H2s nerobia buď tak použiť **tučné** alebo iné konvencie znamenať samostatné sekcie.
-1. Potom vyplňte základný text pomocou konceptu materiálu v časti Prehľady zákazníkov na stránke Pravidlo alchýmie
-    1. Zoznamy s odrážkami sú v poriadku
-    1. Číslované zoznamy príliš
-    1. **Tučné** a *kurzíva* sú-ok
-    1. Odkazy by mali byť vždy buď **"odkazy na web"/ externé** alebo **hlboké-odkazy na prvky UI**, nie vnútorné odkazy.
-    1. Obrázky nie sú oficiálne podporované v tejto dobe, ale je to na pláne.
+    > Podrobné informácie o alchýmii musia mať v hornej časti iba jeden H1 alebo sa rozkladajú vo výrobe. H2s Nekresliť ani tak použite **tučné písmo** alebo iné konvencie označujúce samostatné sekcie.
+1. Potom vyplňte základný text pomocou konceptu materiál v časti prehľady zákazníkov na stránke pravidiel alchýmie.
+    1. Zoznamy s odrážkami sú v pohodě
+    1. Číslované zoznamy
+    1. **Tučné písmo** a *kurzíva* sú a-OK
+    1. Prepojenia by mali byť vždy buď **"prepojenia na web"/external** alebo **hlboké prepojenia na prvky používateľského rozhrania**, nie interné prepojenia.
+    1. Obrázky nie sú v súčasnosti oficiálne podporované, ale je to na pláne.
 
-A to je naozaj už trochu príliš dlho. Osvedčené postupy sú asi 400 znakov ---------------------------------
+A to je naozaj už trochu príliš dlho. Najvhodnejšie postupy sú približne 400 znakov---------------------------------
 
-Akonáhle je váš obsah je pripravený, vytiahnite ho do live pobočky. Potom prejdite na [portál Alchemy Partner](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa url. 
+Keď je váš obsah pripravený, presuňte ho do živej vetvy. Potom prejdite na [partnerský portál alchýmie](https://alchemyportal.azurewebsites.net) a zadajte názov súboru do poľa URL adresa. 

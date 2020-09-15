@@ -1,25 +1,26 @@
 ---
-title: Riešenie problémov s Microsoft Intune
+title: Riešenie problémov so službou Microsoft Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 870bf718028832ee36ca1382eb1ac3a05c494f71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43733465"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665157"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Riešenie problémov s Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Riešenie problémov so službou Microsoft Intune
 
-Skontrolujte nižšie uvedené zdroje a vyriešte problém teraz.
+Ak chcete problém vyriešiť, pozrite si tému nižšie uvedené zdroje.
   
-1. Použite [Intune riešenie problémov portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostikovať a vyriešiť niektoré bežné zlyhania. Prečítajte si [Tento](https://docs.microsoft.com/intune/help-desk-operators) dokument pre viac informácií.  
-2. Preskúmanie [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)nájsť odpovede a riešenia bežných problémov.  
-3. Pozrite sa na [zdravie služby](https://portal.office.com/AdminPortal/Home#/servicehealth) vidieť stav služby.   
-4. Preskúmanie [Intune dokumentácia](https://docs.microsoft.com/intune/) pre plánovanie, How-to, riešenie problémov články a ďalšie. 
+1. Ak chcete diagnostikovať a vyriešiť niektoré bežné zlyhania, použite [portál na riešenie problémov so službou Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Pozrite si [Tento](https://docs.microsoft.com/intune/help-desk-operators) dokument a získajte ďalšie podrobnosti.  
+2. Prezrite si služby [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)a nájdite odpovede a riešenia bežných problémov.  
+3. Ak chcete zobraziť stav služby, pozrite si tému stav [služby](https://portal.office.com/AdminPortal/Home#/servicehealth) .   
+4. Pozrite si dokumentáciu k službe [Intune](https://docs.microsoft.com/intune/) na plánovanie, postupy, riešenie problémov a ďalšie položky. 

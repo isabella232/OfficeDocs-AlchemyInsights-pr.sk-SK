@@ -1,29 +1,30 @@
 ---
-title: Nastavenie rozšírenej ochrany pred hrozbami služieb Office 365 (ATP)
+title: Nastavenie balíka Office 365 Advanced Threat Protection (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: d7d983e1a39034345283c5b084e84e5147c17645
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502766"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662736"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Rozšírená ochrana pred hrozbami služieb Office 365 (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Pokročilá ochrana pred hrozbami pre Office 365 (ATP)
 
-Atp služieb Office 365 obsahuje [bezpečné prílohy](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [bezpečné prepojenia](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), pokročilé [funkcie Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)a ďalšie položky. 
+Office 365 ATP obsahuje [bezpečné prílohy](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [bezpečné prepojenia](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Rozšírené funkcie na ochranu osobných údajov](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)a ďalšie funkcie. 
 
-ATP je súčasťou predplatného, ako sú Napríklad Office 365 Enterprise E5, Office 365 Education A5 a Microsoft 365 Business Premium. Ak vaše predplatné neobsahuje ATP, môžete si potenciálne zakúpiť ATP ako doplnok. Ďalšie informácie nájdete v téme [Popis služby ATP služieb Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP je súčasťou predplatného, ako je napríklad Office 365 Enterprise E5, Office 365 Education A5 a Microsoft 365 Business Premium. Ak vaše predplatné nezahŕňa ATP, môžete si potenciálne zakúpiť ATP ako doplnok. Ďalšie informácie nájdete v téme [Popis služby Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>Nastavenie služby Office 365 ATP
+## <a name="set-up-office-365-atp"></a>Nastavenie balíka Office 365 ATP
 
-Ak chcete, aby bola ochrana ATP v platnosti, musíte nakonfigurovať politiky. Pozrite [si príručku so stručným návodom: Nastavenie rozšírenej ochrany pred hrozbami služieb Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Ak chcete, aby bola ochrana ATP v platnosti, musíte nakonfigurovať politiky. Pozrite si tému [Príručka so stručným návodom: nastavenie rozšírenej ochrany pred hrozbami pre Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

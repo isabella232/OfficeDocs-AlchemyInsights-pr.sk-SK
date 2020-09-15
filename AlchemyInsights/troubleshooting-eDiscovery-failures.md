@@ -1,11 +1,12 @@
 ---
-title: 1490-riešenie problémov-eDiscovery-zlyhania
+title: 1490 – riešenie problémov – eDiscovery – zlyhanie
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512569"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658965"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Riešenie problémov s chybami vyhľadávania obsahu
+# <a name="troubleshoot-content-search-errors"></a>Riešenie chýb vyhľadávania obsahu
 
-Máte problémy s vyhľadávaním obsahu alebo pri exporte výsledkov vyhľadávania vyskytli zlyhania?
+Vyskytli sa problémy pri vyhľadávaní obsahu alebo pri exportovaní výsledkov vyhľadávania?
 
-Dostávate napríklad nasledujúce informácie pri spustení vyhľadávania?
+Zobrazuje sa vám napríklad nasledovné pri spustení vyhľadávania?
 
-- Chyby CS008 alebo CS012
+- CS008 alebo CS012 chyby
 
-- Chyby o zaneprázdnení a časovom limite servera
+- Chyby na serveri zaneprázdnený/timeout
 
 - Vyskytla sa chyba aplikácie
 
-Alebo pri vyhľadávaní alebo exportovaní výsledkov z veľkého počtu poštových schránok (viac ako 100 000 poštových schránok) sa zobrazujú chyby exportu?
+Alebo pri vyhľadávaní alebo exportovaní výsledkov z veľkého počtu poštových schránok (cez 100 000 poštových schránok) sa zobrazujú chyby exportu?
 
-V prípade týchto typov chýb zopakujte vyhľadávanie neúspešných umiestnení obsahu. Ďalšie informácie nájdete v [tomto článku.](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)
+Pri týchto typoch chýb skúste zopakovať hľadanie umiestnení obsahu, ktoré zlyhali. Ďalšie informácie nájdete v  [tomto článku](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .

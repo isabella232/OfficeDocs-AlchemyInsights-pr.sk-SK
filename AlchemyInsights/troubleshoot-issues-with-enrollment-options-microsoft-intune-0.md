@@ -1,32 +1,33 @@
 ---
-title: Riešenie problémov s možnosťou registrácie Microsoft Intune
+title: Riešenie problémov s možnosťami registrácie Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 15b843bdf4a2152c2ddd5d25b623d36734bdf4a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43735207"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665229"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Riešenie problémov s možnosťou registrácie Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Riešenie problémov s možnosťami registrácie Microsoft Intune
 
-Prečítajte si nižšie uvedené zdroje a vyriešte problém teraz.
+Ak chcete problém vyriešiť, prečítajte si zdroje uvedené nižšie.
   
-- [Preskúmanie Intune TechNet nájsť odpovede a riešenia bežných problémov](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- Prezrite si služby [Intune TechNet a nájdite odpovede a riešenia bežných problémov](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
 
-- Použite [Intune riešenie problémov portál](https://aka.ms/intunetroubleshooting) diagnostikovať a vyriešiť bežné registrácie zlyhania. Prečítajte si [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) pre viac informácií.
+- Použite [portál na riešenie problémov so službou Intune](https://aka.ms/intunetroubleshooting) na diagnostikovanie a riešenie bežných zlyhaní registrácie. Pozrite si [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) a získajte ďalšie podrobnosti.
 
-- Skontrolujte [Tento dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pre zoznam bežných chýb, ktoré zabraňujú zápisu a rozlíšeniu.
+- Pozrite si [Tento dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) so zoznamom bežných chýb, ktoré zabránia zápisu a rozlíšeniam.
 
-- [Ďalšie informácie o možnostiach zápisu v Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Oboznámte sa s možnosťami registrácie v službe Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).

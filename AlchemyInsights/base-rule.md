@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549731"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686369"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Riešenie problémov s MDM Authority v Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Riešenie problémov s aplikáciou MDM Authority v službe Microsoft Intune
 
-Tu je niekoľko užitočných článkov o Začíname s Intune:
+Tu je niekoľko užitočných článkov o tom, ako začať pracovať so službou Intune:
 
 - [Čo je Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [Ako nastaviť Intune prvýkrát](https://docs.microsoft.com/intune/setup-steps)
-- [Používanie a navigácia v Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Prvé nastavenie služby Intune](https://docs.microsoft.com/intune/setup-steps)
+- [Používanie a navigácia v službe Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Ak máte problémy s vašou MDM autoritou, nájdete v téme [Zmena INTUNE MDM Authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Ak máte problémy so svojím úradom MDM, prečítajte si tému [Zmena oprávnenia služby INTUNE MDM](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
