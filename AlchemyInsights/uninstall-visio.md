@@ -1,34 +1,35 @@
 ---
-title: Odinštalovanie programu Visio
+title: Odinštalovanie visia
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c341061e0909e1091071b16e62a2fef69c9e621d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43728802"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658056"
 ---
-# <a name="uninstall-visio"></a>Odinštalovanie programu Visio
+# <a name="uninstall-visio"></a>Odinštalovanie visia
 
 Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Keď sa otvorí, z **Odinštalovanie produktov balíka Office** vyberte verziu programu Visio, ktorú chcete odinštalovať, a vyberte položku **ďalej**. 
+1. Keď sa otvorí, v časti **Odinštalovanie produktov balíka Office** vyberte verziu Visia, ktorú chcete odinštalovať, a vyberte položku **ďalej**. 
     
 2. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.
     
-    Po reštartovaní, podpora a obnovenie asistent automaticky znovu otvorí dokončiť proces odinštalovania.
+    Po reštartovaní sa automaticky znova otvorí nástroj support and Recovery Assistant, aby sa dokončil proces odinštalovania.
     
-3. Postupujte podľa zostávajúcich výziev a ak máte predplatné Visio online, môžete preinštalovať program Visio z portálu Microsoft 365 [konto](https://portal.office.com/account#installs). Ďalšiu pomoc alebo pomoc pri inštalácii nepredplatených verzií Visia, ako je napríklad Visio Professional, nájdete v téme [Inštalácia programu Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Sledovať zostávajúce výzvy a ak máte predplatné na Visio online, môžete program Visio preinštalovať na [portáli konta](https://portal.office.com/account#installs)Microsoft 365. Ak potrebujete ďalšiu pomoc alebo pomoc s inštaláciou verzií programu Visio, ktoré nie sú súčasťou predplatného, ako je napríklad Visio Professional, pozrite si tému [Inštalácia visia](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
     
-Ak máte záujem o zoznam ďalších možností odinštalovania, vyberte položku [odinštalovať balík Office z počítača](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
+Ak chcete zobraziť zoznam ďalších možností odinštalovania, vyberte položku [odinštalovať balík Office z počítača](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).

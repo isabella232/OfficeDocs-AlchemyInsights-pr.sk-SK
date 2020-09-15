@@ -1,23 +1,24 @@
 ---
-title: Problémom
+title: Vznikajúce problémy
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: b5d0108e6419cb71b7f30991e15773d400b97bed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550350"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653852"
 ---
-# <a name="emerging-issue"></a>Problémom
+# <a name="emerging-issue"></a>Vznikajúce problémy
 
-Niekoľko zákazníci sťažovali podobná čo sú hlásenia problém. Tešíme sa na tento problém.
+Viacerí zákazníci si sťažoval na problém podobný tomu, čo nahlasuje. Tešíme sa na tento problém.
 
-Prosím kontrola [Tabuľa stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) zostať aktualizovaný na akúkoľvek službu vplyv incidentov.
+Ak chcete aktualizovať všetky incidenty ovplyvňujúce služby, pozrite si [tabuľu stavu služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
