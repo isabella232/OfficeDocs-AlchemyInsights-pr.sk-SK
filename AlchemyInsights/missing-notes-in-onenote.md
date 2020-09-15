@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: 6e2a115302661de939c57bc39d4461df3046416e
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 7a7e70de2ec1ef5158d8149b635ce7f90814c6b1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800595"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667209"
 ---
-# <a name="missing-notes-in-notebook"></a>Chýbajúce poznámky v notebooku
+# <a name="missing-notes-in-notebook"></a>Chýbajúce poznámky v poznámkovom bloku
 
-Jednou z najčastejších príčin chýbajúce stránky alebo sekcie v poznámkovom bloku je chyba synchronizácie. V tomto prípade údaje nie je stratené a môžu byť obnovené, akonáhle synchronizácia pracuje. Skontrolujte, či každý klient užívatelia používajú zistiť, či niektorý z nich sa zobrazuje chyba pre notebook, a ak došlo k chybe, vidieť [Riešenie problémov, keď program OneNote nemôže synchronizovať](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)OneNote.
+Jednou z najbežnejších príčin chýbajúcich strán alebo sekcií v poznámkovom bloku je chyba synchronizácie. V tomto prípade sa údaje nestratia a po dokončení synchronizácie je možné ich obnoviť. Skontrolujte, či všetci používatelia programu OneNote používajú na identifikáciu chyby pre Poznámkový blok, a ak sa zobrazí chyba, prečítajte si tému [Riešenie problémov, keď nie je možné synchronizovať OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
-- OneNote pre Windows 10, žltý trojuholníkový výstražný symbol sa s najväčšou pravdepodobnosťou zobrazí vedľa notebooku.
-- V programe OneNote 2016, kliknite pravým tlačidlom na názov poznámkového bloku pod pásom s nástrojmi a kliknite na tlačidlo "Stav synchronizácie poznámkového bloku"
-- V programe OneNOte pre Mac, vyhľadať žltý výkričník v blízkosti ikonu poznámkového bloku
-- V programe OneNote pre iPhone, prejdite do poznámkového bloku a kliknite na tlačidlo v pravom hornom rohu
-- OneNote pre Android, prejdite na ďalšie chyby synchronizácie poznámkové bloky->View
+- Vo OneNote pre Windows 10 sa vedľa poznámkového bloku zobrazí ikona žltého trojuholníka s upozornením.
+- Vo OneNote 2016 kliknite pravým tlačidlom myši na názov poznámkového bloku pod pásom s nástrojmi a kliknite na položku stav synchronizácie poznámkového bloku.
+- V programe OneNOte pre Mac začiarknite políčko žltý výkričník v blízkosti ikony poznámkového bloku.
+- Vo OneNote pre iPhone prejdite do poznámkového bloku a kliknite na tlačidlo akcie v pravom hornom rohu.
+- V programe OneNote pre Android prejdite na položku Ďalšie poznámkové bloky – >zobrazenie chýb synchronizácie
 
-Postupujte v [hľadanie stratených poznámok](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) , vyhľadávanie, synchronizácia vášho súboru alebo obnoviť svoje poznámky.
+Postupujte podľa krokov v téme [Vyhľadanie stratených poznámok](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) na vyhľadávanie, synchronizáciu súboru alebo obnovenie poznámok.
 
-Ak používate OneNote 2016, je možné na [Obnovenie odstránených poznámok](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) zo zálohy.
+Ak používate OneNote 2016, možno budete môcť [obnoviť odstránené poznámky](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) zo záloh.
