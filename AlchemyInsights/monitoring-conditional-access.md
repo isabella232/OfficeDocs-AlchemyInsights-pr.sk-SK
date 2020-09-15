@@ -5,36 +5,37 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713733"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702918"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Monitorovanie podmieneného prístupu pre Exchange
 
-Používatelia zacielené na podmienený prístup dostanú e-mailové upozornenie, ak nespĺňajú požiadavky vašej organizácie na prístup. Ak chcete vyriešiť, odporúčame jedno alebo viaceré z nasledujúcich riešení:
+Používatelia s podmieneným prístupom budú dostávať e-maily s upozornením, ak nespĺňajú požiadavky na prístup vašej organizácie. Ak chcete vyriešiť, odporúčame niektoré z týchto riešení:
   
-- Ak sa predpokladá, že zariadenie je zapísané, radí používateľovi prejsť na firemný portál aplikácie a overiť, že sa zobrazí na portáli spoločnosti. Ak sa tak nestane, používateľ by mal zariadenie zapísať.
+- Ak sa predpokladá, že zariadenie je zaregistrované, odporúča sa používateľovi prejsť na aplikáciu firemný portál a overiť, či sa zobrazuje na firemnom portáli. Ak to tak nie je, používateľ by mal zariadenie zaregistrovať.
     
-- V Azure portál prejdite na **zariadenie Intune \> súlad zariadenia**. V časti **Monitor** kliknite na položku **zhoda zariadení**. Zobrazte zostavu súladu so zariadením a overte, či je zariadenie používateľa označené ako vyhovujúce. 
+- Na portáli Azure prejdite na ** \> súlad zariadenia**so službou Intune. V časti **Monitor** kliknite na položku **súlad zariadenia**. Ak chcete overiť, či je zariadenie používateľa označené ako vyhovujúce, pozrite si zostavu súladu zariadenia. 
     
-- V Azure portál prejdite na **zariadenie Intune \> súlad zariadenia**. V časti **Spravovať**kliknite na položku **politiky**. V zozname politík súladu overte, či je profil priradený zariadeniu používateľa. Ak nie je priradený žiadny profil, Intune nebude môcť potvrdiť stav súladu zariadenia. 
+- Na portáli Azure prejdite na ** \> súlad zariadenia**so službou Intune. V časti **Spravovať**kliknite na položku **politiky**. V zozname politík dodržiavania súladu Skontrolujte, či je profil priradený k zariadeniu používateľa. Ak nie je priradený žiadny profil, služby Intune nebudú môcť potvrdiť stav súladu zariadenia. 
     
 - Upravte priradenie podmieneného prístupu používateľa.
     
-1. V Azure portál prejsť na **Intune \> podmieneného prístupu \> politiky**
+1. Na portáli Azure prejdite na ** \> \> politiky podmieneného prístupu služby Intune**
     
-2. Vybrať politiku zo zoznamu
+2. Výber politiky v zozname
     
 3. Kliknite na položku **Používatelia a skupiny**
     
-4. Ak chcete zacieliť určitú politiku na niekoho, pridajte ich do zoznamu **zahrnúť** . Ak chcete zabezpečiť, aby bola osoba vynechaná z politiky, pridajte ich do zoznamu **výnimiek** . 
+4. Ak chcete určitú politiku zacieliť na inú osobu, pridajte ich do zoznamu **zahrnúť** . Ak chcete zabezpečiť, aby bola osoba z politiky vynechaná, pridajte ju do zoznamu **výnimiek** . 
     
-Čítajte viac: [ako sledovať zariadenia podmieneného prístupu](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Ďalšie informácie: [ako sledovať zariadenia s podmieneným prístupom](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 
