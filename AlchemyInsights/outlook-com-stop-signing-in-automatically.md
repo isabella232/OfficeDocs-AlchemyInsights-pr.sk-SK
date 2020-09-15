@@ -1,27 +1,28 @@
 ---
-title: Zastavte prihlásenie automaticky na Outlook.com
+title: Zastavenie automatického prihlasovania do Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 6e3ff70bb9f059790b127fa9da3265fa593f1d53
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a5703d3040c9bac6e611902e27400b9212f65be
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722355"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666417"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="f68d2-102">Ako zastaviť automatické prihlásenie</span><span class="sxs-lookup"><span data-stu-id="f68d2-102">How to stop signing in automatically</span></span>
+# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="2a77b-102">Zastavenie automatického prihlasovania</span><span class="sxs-lookup"><span data-stu-id="2a77b-102">How to stop signing in automatically</span></span>
 
-<span data-ttu-id="f68d2-103">Ak chcete zastaviť prihlásenie do Outlook.com automaticky, zrušte začiarknutie políčka, **aby** ste sa prihlásili na stránke, kde zadáte svoje heslo.</span><span class="sxs-lookup"><span data-stu-id="f68d2-103">To stop signing in to Outlook.com automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
+<span data-ttu-id="2a77b-103">Ak sa chcete zastaviť prihlasovanie do Outlook.com automaticky, začiarknutie políčka **ponechať ma prihlásení** na stránke, na ktorej zadáte heslo.</span><span class="sxs-lookup"><span data-stu-id="2a77b-103">To stop signing in to Outlook.com automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
   
-<span data-ttu-id="f68d2-104">Ďalšie informácie nájdete v téme [ako sa prihlásiť do alebo z Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f68d2-104">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="2a77b-104">Ďalšie informácie nájdete v téme [prihlásenie do Outlook.com alebo odhlásenie z neho](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2a77b-104">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
