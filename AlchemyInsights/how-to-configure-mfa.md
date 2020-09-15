@@ -1,25 +1,26 @@
 ---
-title: 955 Ako nakonfigurovať MFA
+title: 955 ako nakonfigurovať MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: b3dd5424601e944d2ce6163a2c2c6fc7997a561f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44496146"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704468"
 ---
-# <a name="configure-multi-factor-authentication"></a>Konfigurácia viacnásobného overovania
+# <a name="configure-multi-factor-authentication"></a>Konfigurovanie viacnásobného overovania
 
-Informácie o konfigurácii mfa nájdete v téme [Nastavenie viacnásobného overovania](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Ak chcete nakonfigurovať MFA, pozrite si tému [Nastavenie viacnásobného overovania](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Všimnite si, že musíte byť globálnym správcom povoliť a konfigurovať MFA.
+Všimnite si, že ak chcete povoliť a konfigurovať MFA, musíte byť globálnym správcom.

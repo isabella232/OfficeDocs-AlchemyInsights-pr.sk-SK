@@ -1,33 +1,34 @@
 ---
-title: Pomoc s Apple DEP
+title: Pomoc s funkciou Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654607"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705530"
 ---
-# <a name="help-with-apple-dep"></a>Pomoc s Apple DEP
+# <a name="help-with-apple-dep"></a>Pomoc s funkciou Apple DEP
 
-Ak zariadenie zamedzenie spustenia údajov nie je možné zapísať a MFA (viacnásobné overovanie) zapnutá, zakážte MFA. MFA nie je v súčasnosti podporovaná pre registráciu DEP.
+Ak sa zariadenie na zamedzenie spustenia údajov nedá zaregistrovať a MFA (viacnásobné overovanie) je zapnuté, zakážte MFA. MFA nie je momentálne podporovaná pre registráciu funkcie Zamedzenie spustenia údajov.
 
-[Začíname so systémom Intune a programom registrácie zariadení Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Začíname so službou Intune a programom registrácie zariadenia Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Bežné chyby a riešenia registrácie systému iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Bežné chyby a riešenia registrácie v systéme iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Všeobecná registrácia riešenie problémov](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Všeobecné riešenie problémov so zápisom](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Použite Intune riešenie problémov portál diagnostikovať a vyriešiť bežné registrácie zlyhania](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Používanie portálu na riešenie problémov so službou Intune na diagnostikovanie a riešenie bežných zlyhaní registrácie](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 
