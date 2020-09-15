@@ -1,39 +1,40 @@
 ---
-title: DLP politiky Tipy nefungujú
+title: Tipy politiky DLP nefungujú
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507457"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679600"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problémy s tipmi politiky DLP
+# <a name="dlp-policy-tip-issues"></a>Problémy s tipom politiky DLP
 
 **Dôležité**: V tejto výnimočnej situácií vykonávame kroky na to, aby sme zabezpečili, že služby SharePoint Online a OneDrive zostanú vysoko dostupné. Ďalšie informácie nájdete v téme [Dočasné úpravy funkcií SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Tipy pre politiku DLP**
+**Tipy pre politiky DLP**
 
-Pri používaní **politík DLP**môžu byť používatelia informovaní o porušení pravidiel pomocou **tipov pre pravidlá**. Správcovia môžu nakonfigurovať tipy politiky na zobrazenie pri testovaní politiky DLP alebo v prípade, že politika je v úplnom režime presadzovania.
+Pri používaní **politík DLP**môžu byť používatelia upozornení na porušenie politiky pomocou **tipov politiky**. Správcovia môžu nakonfigurovať politiky, ktoré sa majú zobraziť pri testovaní politiky DLP, alebo keď je politika v úplnom režime vynucovania.
   
-Ak chcete nakonfigurovať tipy politiky pre politiku DLP v centre zabezpečenia a dodržiavania súladu v úplnom režime presadzovania, postupujte takto:
+Ak chcete konfigurovať tipy politiky na politiku DLP v centre zabezpečenia a dodržiavania súladu v režime úplného presadzovania, postupujte takto:
   
-- Pomocou [krokov](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)tu **skontrolujte,** či boli v pravidle Zapnuté tipy politiky .
+- Zabezpečte, aby boli v pravidle DLP **povolené** tipy politiky pomocou krokov uvedených v [tomto](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)článku.
 
-- Uistite sa, že váš **obsah zodpovedá** tomu, čo je **potrebné** na spustenie pravidla uvedeného v tomto článku [tu](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+- Uistite sa, že **obsah zodpovedá** [tomu, čo](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)je **potrebné** na spustenie pravidla popísaného v tomto článku.
 
-- Tipy politiky zobraziť v OWA a Outlook. Však pri používaní **programu Outlook 2013 alebo novší**, politiky tipy sa zobrazujú iba za určitých podmienok. Tieto podmienky sú uvedené tu: [Podporované podmienky pre Outlook 2013 alebo novší pre zobrazenie tipy politiky](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Tipy pre politiky sa zobrazujú v aplikácii OWA aj v Outlooku. Ak však používate **Outlook 2013 alebo novšiu verziu**, tipy na politiku sa zobrazia iba za určitých podmienok. Tieto podmienky sú uvedené tu: [podporované podmienky pre Outlook 2013 alebo novšiu verziu na zobrazenie politických tipov](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-Ďalšie informácie o tipoch politiky DLP nájdete v téme: [Zobrazenie tipov politiky pre politiky DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Ďalšie informácie o tipoch na politiku politiky DLP nájdete v téme: [zobrazenie politických tipov pre politiky DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

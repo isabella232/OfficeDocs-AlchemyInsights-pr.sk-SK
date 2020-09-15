@@ -5,38 +5,39 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 5d961d2f1ad68a22782cefb45d70cd23f6912f0a
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744732"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677510"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Riešenie problémov s pripojením tlačiarne USB
 
-Vyskúšajte tieto **kroky na riešenie problémov** a získajte tlačiareň USB znova:
+Vyskúšajte tieto **kroky na riešenie problémov** , ktoré vám pomôžu opätovne pracovať s tlačiarňou USB:
 
-1. Vypnite tlačiareň a odpojte kábel USB od počítača aj tlačiarne.
-2. Skontrolujte kábel, aby ste sa uistili, že nedošlo k poškodeniu.
+1. Vypnite tlačiareň a odpojte USB kábel z počítača aj tlačiarne.
+2. Skontrolujte, či kábel nie je poškodený.
 3. Zapojte kábel späť do počítača a tlačiarne.
 
-Ak to nepomôže, skúste **odstrániť a preinštalovať tlačiareň USB**:
+Ak to nepomôže, skúste **odstrániť a znova nainštalovať tlačiareň USB**:
 
-1. Vyberte tlačiareň v nastaveniach:
-    1. Odpojte kábel USB tlačiarne od počítača.
-    2. Vyberte položku **Spustiť** > **nastavenia** > **zariadenia** > **tlačiarne & skenery**.
-    3. V časti **tlačiarne & skenery**vyberte tlačiareň, s ktorou riešite riešenie problémov. Vyberte položku **Odstrániť zariadenie**. Postupujte podľa pokynov na úplné odstránenie tlačiarne.
-2. Odstráňte softvér výrobcu tlačiarne tretej strany:
-    1. Vyberte položku **Spustiť** > **nastavenia** > **aplikácie**.
-    2. V časti **aplikácie & funkcie**prejdite na vyhľadanie softvéru nainštalovaného od výrobcu tlačiarne (napríklad HP, Canon alebo Epson).
-    3. Vyberte softvér a vyberte **odinštalovať**.
-3. Vypnite a reštartujte tlačiareň.<br>
-    1. Vypnite tlačiareň a odpojte napájací kábel. Počkajte 30 sekúnd. Znova zapojte tlačiareň.
-    2. Zapojte kábel USB tlačiarne späť do počítača. Počítač by mal automaticky registrovať, že zariadenie bolo zapojené do siete.
-4. Pokúste sa tlačiť znova.
+1. Odstránenie tlačiarne v nastaveniach:
+    1. Odpojte USB kábel tlačiarne z počítača.
+    2. Vyberte položku **Spustiť**  >  **Nastavenie**  >  **Devices**  >  **tlačiarní zariadenia & skenery**.
+    3. V časti **tlačiarne & skenery**vyberte tlačiareň, ktorú riešite. Vyberte položku **Odstrániť zariadenie**. Podľa pokynov úplne odstráňte tlačiareň.
+2. Odstráňte všetok softvér výrobcu tlačiarní od iného výrobcu:
+    1. Vyberte položku **Spustiť**  >  **Settings**  >  **aplikácie**nastavenia.
+    2. V časti **aplikácie & funkcie**prejdite na položku nájsť akýkoľvek softvér nainštalovaný od výrobcu tlačiarne (napríklad HP, Canon alebo Epson).
+    3. Vyberte softvér a vyberte položku **odinštalovať**.
+3. Vypnite a znova zapnite tlačiareň.<br>
+    1. Vypnite tlačiareň a odpojte napájací kábel. Počkajte 30 sekúnd. Pripojte tlačiareň späť.
+    2. Pripojte USB kábel tlačiarne späť do počítača. Váš počítač by sa mal automaticky registrovať, že vaše zariadenie bolo zapojené.
+4. Skúste vytlačiť znova.

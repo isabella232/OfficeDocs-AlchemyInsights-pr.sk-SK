@@ -1,5 +1,5 @@
 ---
-title: Povoliť multifaktorové overovanie
+title: Povoliť overovanie prostredníctvom multifacto
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703477"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678051"
 ---
-# <a name="enable-multi-factor-authentication"></a>Povoliť viacnásobné overovanie
+# <a name="enable-multi-factor-authentication"></a>Povoliť overovanie viacerých faktorov
 
-Povolenie viacnásobné overovanie Microsoft 365 admin Center:
+Ak chcete povoliť overovanie viacerých faktorov v centre spravovania služieb Microsoft 365:
 
 1. Prejdite na stránku **Používatelia** \> **aktívnych používateľov** .
     
-2. V hornej časti stránky vyberte **viacnásobné overovanie**. 
+2. V hornej časti stránky vyberte možnosť **viacnásobné overovanie**. 
     
-3. Vyhľadajte používateľa alebo používateľov, ktorí chcete povoliť viacnásobné overovanie. Ak chcete zobraziť všetkých používateľov, možno budete musieť zmeniť **viacfaktorový filter stavu overenia** v hornej časti.
+3. Vyhľadajte používateľa alebo používateľov, ktorým chcete povoliť overovanie viacerých faktorov. Ak chcete zobraziť všetkých používateľov, možno budete musieť zmeniť filter **stavu viacerých faktorov auth** v hornej časti.
     
 4. Začiarknite políčko vedľa používateľov, ktorých chcete povoliť.
     
-5.  Na table správne používateľské informácie v časti **rýchle kroky**vyberte možnosť **Povoliť**. 
+5.  Na table s informáciami o používateľovi kliknite v časti **rýchle kroky**na položku **Povoliť**. 
     
-6. V dialógovom okne, ktoré sa otvorí, vyberte **Povoliť multi-Factor auth**. 
+6. V dialógovom okne, ktoré sa otvorí, vyberte položku **Povoliť viacnásobné overenie**. 
     
 
