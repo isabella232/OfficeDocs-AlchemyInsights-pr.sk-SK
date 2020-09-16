@@ -1,11 +1,12 @@
 ---
-title: Zvýšenie limitu obmedzovania ews migrácie pošty
+title: Zvýšenie počtu obmedzení obmedzenia EWS pre migráciu pošty
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,13 +14,13 @@ ms.custom:
 - "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 947590f2ee669c683ab745e6f3aa123bde7841ee
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 88b739e5e59ada7fb33cfc076181ba397af21f4c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580096"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730030"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="ea6c8-102">Zvýšenie limitu obmedzovania ews migrácie pošty</span><span class="sxs-lookup"><span data-stu-id="ea6c8-102">Increase EWS throttling limits for mail migration</span></span>
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a><span data-ttu-id="1a1d5-102">Zvýšenie počtu obmedzení obmedzenia EWS pre migráciu pošty</span><span class="sxs-lookup"><span data-stu-id="1a1d5-102">Increase EWS throttling limits for mail migration</span></span>
 
-<span data-ttu-id="ea6c8-103">Ak chcete zvýšiť limity obmedzovania EWS nájomcu pre migráciu e-mailov, pokračujte a otvorte lístok podpory.</span><span class="sxs-lookup"><span data-stu-id="ea6c8-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>
+<span data-ttu-id="1a1d5-103">Ak chcete zvýšiť limity obmedzení obmedzenia EWS nájomníka pre migráciu e-mailu, pokračujte a otvorte lístok technickej podpory.</span><span class="sxs-lookup"><span data-stu-id="1a1d5-103">To increase your tenant's EWS throttling limits for an email migration, please proceed and open a support ticket.</span></span>
