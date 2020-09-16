@@ -6,30 +6,31 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: e14bd6b4ddd0b4fbe5a6f0991e7f12009c9a2137
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582358"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739336"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Ako zdieľať share v Službe SharePoint Online
+# <a name="how-to-share-in-sharepoint-online"></a>Zdieľanie v SharePointe Online
 
 Zdieľanie lokality:
   
-1. Otvorte lokalitu vo webovom prehľadávači.
+1. Otvorte lokalitu vo webovom prehliadači.
     
-2. Ak lokalita patrí do skupiny Microsoft 365, kliknite na ikonu Nastavenia v pravom hornom rohu a potom kliknite na položku **Povolenia lokality**. Kliknite na **položku Pozvať ľudí**a potom vyberte pridanie členov do skupiny Microsoft 365 alebo zdieľajte iba lokalitu. 
+2. Ak lokalita patrí do skupiny Microsoft 365, kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **povolenia lokality**. Kliknite na položku **pozvať ľudí**a potom vyberte položku na pridanie členov do skupiny Microsoft 365 alebo na zdieľanie len na lokalite. 
     
-    V prípade komunikačnej lokality kliknite na položku **Zdieľať lokalitu** v pravom hornom rohu, zadajte meno osoby a potom vyberte úroveň povolení (Čítanie, Úprava alebo Úplný prístup). 
+    Ak ide o komunikačnú lokalitu, kliknite na položku **zdieľať lokalitu** v pravom hornom rohu, zadajte meno danej osoby a potom vyberte úroveň povolení (čítanie, úprava alebo úplný prístup). 
     
-    V prípade klasickej tímovej lokality kliknite v pravom hornom rohu na položku **Zdieľať.** Zadajte meno osoby, ktorú chcete pozvať, alebo zadajte všetci, ktorých chcete zdieľať s každým používateľom vo vašej organizácii. Kliknite na **položku Zdieľať**.
+    Ak chcete vytvoriť klasickú tímovú lokalitu, kliknite na položku **zdieľať** v pravom hornom rohu. Zadajte meno osoby, ktorú chcete pozvať, alebo napíšte každému, koho chcete zdieľať so všetkými používateľmi v organizácii. Kliknite na položku **zdieľať**.
     
-[Zistite, ako zdieľať súbor alebo priečinok](https://go.microsoft.com/fwlink/?linkid=511430)
+[Informácie o zdieľaní súboru alebo priečinka](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

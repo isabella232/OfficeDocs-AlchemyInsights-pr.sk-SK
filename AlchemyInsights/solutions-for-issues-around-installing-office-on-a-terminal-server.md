@@ -1,36 +1,37 @@
 ---
-title: Riešenie problémov v okolí Inštalácia balíka Office na terminálový Server
+title: Riešenie problémov s inštaláciou balíka Office na terminálovom serveri
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010917"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738472"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Riešenie problémov v okolí Inštalácia balíka Office na terminálový Server
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Riešenie problémov s inštaláciou balíka Office na terminálovom serveri
 
-Ak chcete použiť zdieľanú aktiváciu počítača, musíte mať predplatné, ktoré obsahuje Microsoft 365 aplikácie pre podniky.
+Ak chcete používať aktiváciu zdieľaného počítača, musíte mať predplatné, ktoré zahŕňa aplikácie Microsoft 365 pre podniky.
   
-- Overte, či je zapnutá Aktivácia zdieľaného počítača
-- Overiť, že Aktivácia bola úspešná
-- Kontrola chybových hlásení pre zdieľanú aktiváciu počítača:
-- "Produkty, ktoré sme našli vo vašom účte, nie je možné použiť na aktiváciu balíka Office v situáciách zdieľaného počítača"
+- Overenie zapnutia aktivácie zdieľaného počítača
+- Overenie úspešnosti aktivácie
+- Revízia chybových hlásení o aktivácii zdieľaného počítača:
+- Produkty nájdené vo vašom konte nemožno použiť na aktiváciu balíka Office v scenároch zdieľaného počítača.
   
-Táto chyba znamená, že nemáte predplatné, ktoré obsahuje Microsoft 365 aplikácie pre podniky.
+Táto chyba znamená, že nemáte predplatné, ktoré obsahuje aplikácie Microsoft 365 pre podniky.
 
-"Nelicencovaný produkt"
+Produkt bez platnej licencie
 
-- Skontrolujte, či je používateľovi priradená licencia pre Microsoft 365 aplikácie pre podniky.
-- Skontrolujte, či sa používateľ prihlási s ich používateľským kontom.
-- Skontrolujte, či existuje pripojenie medzi zdieľaným počítačom a internetom.
+- Skontrolujte, či je používateľovi priradená licencia pre aplikácie Microsoft 365 pre podniky.
+- Skontrolujte, či sa používateľ prihlási pomocou svojho používateľského konta.
+- Skontrolujte, či je medzi zdieľaným počítačom a internetom pripojenie.
 
-Ďalšie tipy na riešenie problémov nájdete na: [Riešenie problémov so zdieľanou aktiváciou počítača](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+Ďalšie tipy na riešenie problémov nájdete v téme: [Riešenie problémov s aktiváciou zdieľaného počítača](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
