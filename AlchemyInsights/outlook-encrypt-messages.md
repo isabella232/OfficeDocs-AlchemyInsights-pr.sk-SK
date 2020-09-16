@@ -5,26 +5,27 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 052149d1f11387246bc1ff24ba48c45b944ba52c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511523"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772313"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Šifrovanie e-mailových správ v programe Outlook
+# <a name="encrypt-email-messages-in-outlook"></a>Šifrovanie e-mailových správ v Outlooku
 
-Microsoft 365 šifrovanie správ je postavený na Microsoft Azure Rights Management (Azure RMS), ktorý je súčasťou Azure information protection. Ak vaše predplatné zahŕňa Azure Rights Management alebo Azure information protection, **nie je potrebné vykonať žiadne akcie manuálne zapnúť alebo aktivovať** službu správy prístupových práv.
+Šifrovanie správ v Microsoft 365 je postavené na lokalite Microsoft Azure Rights Management (Azure RMS), ktorá je súčasťou ochrany informácií Azure. Ak vaše predplatné zahŕňa Azure Rights Management alebo Azure Information Protection, **nemusíte vykonávať žiadne akcie na manuálne zapnutie alebo aktiváciu** služby správy prístupových práv.
 
-Na základe spätnej väzby od zákazníkov už nebudeme povoľovať pravidlá toku pošty servera Exchange na automatické šifrovanie odchádzajúcich e-mailov obsahujúcich určitý typ citlivých informácií vo vašom nájomníkovi v predvolenom nastavení. Namiesto toho poskytujeme podrobné pokyny o tom, ako to môžete urobiť sami. Ďalšie podrobnosti o tom, ako vytvoriť pravidlo prenosu na šifrovanie citlivých informácií, nájdete v [tomto článku](https://aka.ms/OmeEtr).
+Na základe pripomienok od zákazníkov už nebudeme povoľovať pravidlá toku pošty v Exchangei, aby sa predvolene automaticky zašifroval odchádzajúci e-mail obsahujúci určitý typ citlivých informácií v nájomníkovi. Namiesto toho poskytujeme podrobné pokyny o tom, ako môžete tak urobiť sami. Ďalšie podrobnosti o tom, ako vytvoriť pravidlo prenosu na šifrovanie citlivých informácií, nájdete v [tomto článku](https://aka.ms/OmeEtr).
 
-- Ak používate program Outlook na webe (predtým **OWA):** Pri vytváraní e-mailovej správy, jednoducho kliknite na tlačidlo **Chrániť** v OWA. To to bude platiť "Neposielať ďalej" povolenie. Ak chcete správu zašifrovať, kliknite na položku **Zmeniť povolenie** a výberom položky **Zašifrovať** iba správu.
+- Ak používate Outlook na webe (predtým **OWA**): pri vytváraní e-mailovej správy jednoducho kliknite na položku **zabezpečiť** v aplikácii OWA. Použije sa povolenie na preposielanie ďalej. Kliknite na položku **zmeniť povolenie** a výberom položky **šifrovať** zašifrujete len správu.
 
-- Ak používate **klienta Programu Outlook**: Ak chcete odoslať zašifrovanú správu z Outlooku 2013 alebo 2016 alebo Outlooku 2016 for Mac, vyberte položku Povolenia **Options**  >  **možností**a potom vyberte požadovanú možnosť ochrany.
+- Ak používate **klienta Outlook**: Ak chcete odoslať šifrovanú správu z Outlooku 2013 alebo 2016 alebo Outlooku 2016 pre Mac **Options**, vyberte položku  >  **povolenia**pre možnosti a potom vyberte požadovanú možnosť ochrany.
 
-- Ak chcete **automaticky šifrovať všetky e-maily** odoslané určitým príjemcom alebo externým partnerským organizáciám, musíte v Centre spravovania pre Exchange vytvoriť pravidlo prenosu toku pošty. Podrobné pokyny sú uvedené v [tomto článku podpory](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Ak chcete **automaticky šifrovať všetky e-maily** odoslané určitým príjemcom alebo externým partnerským organizáciám, musíte vytvoriť pravidlo prenosu toku pošty v centre spravovania pre Exchange. Podrobné pokyny sú uvedené v [tomto článku technickej podpory](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 
