@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: 07dc04b7b79017da6b2a195077722108a945b967
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584845"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730102"
 ---
 # <a name="fix-the-display-language-of-apps"></a>Oprava jazyka zobrazenia aplikácií
 
-Po zmene jazyka zobrazenia vo Windowse 10 môžu niektoré aplikácie pri ich otváraní naďalej používať predchádzajúci jazyk. To sa deje, pretože nové verzie aplikácií pre tento jazyk musia byť stiahnuté z obchodu. Ak chcete odstrániť tento problém, môžete buď počkať na automatickú aktualizáciu, alebo môžete manuálne nainštalovať aktualizovanú verziu aplikácií.
+Po zmene jazyka zobrazenia vo Windowse 10 môžu niektoré aplikácie pri otváraní používať aj predchádzajúci jazyk. Stáva sa to preto, lebo nové verzie aplikácií pre daný jazyk je nutné stiahnuť z obchodu. Ak chcete tento problém vyriešiť, môžete buď počkať na automatickú aktualizáciu, alebo môžete nainštalovať aktualizovanú verziu aplikácií manuálne.
 
-Ak chcete aktualizáciu nainštalovať manuálne, otvorte **Microsoft Store** a kliknite na položku **stiahnuté súbory a aktualizácie** v pravom hornom rohu. Potom kliknite na položku **získať aktualizácie**. Ak sa jazyk po dokončení aktualizácie nezmení, skúste reštartovať počítač.
+Ak chcete aktualizáciu nainštalovať manuálne, otvorte **Microsoft Obchod** a kliknite na položku **stiahnuté a aktualizácie** v pravom hornom rohu. Potom kliknite na položku **získať aktualizácie**. Ak sa po dokončení aktualizácie jazyk nezmení, skúste reštartovať počítač.
 
-![Získajte aktualizácie.](media/get-updates.png)
+![Získať aktualizácie.](media/get-updates.png)
 
-Ďalšie informácie o nastaveniach vstupného a zobrazovaného jazyka nájdete [v téme Správa nastavení vstupu a jazyka zobrazenia vo Windowse 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).
+Ďalšie informácie o nastaveniach vstupného a zobrazovaného jazyka nájdete [v téme Správa vstupných a zobrazovaných nastavení jazyka vo Windowse 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).

@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 pre podnikové plány a ceny
+title: Microsoft 365 for Business plány a ceny
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 6223af98f37b51c4084b7f2d47507e6d1228c1f5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 9db0179b8f755cec931b6b630b038b2b05cc553b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761649"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729742"
 ---
-# <a name="compare-microsoft-365-for-business"></a>Porovnajte Microsoft 365 pre podniky
+# <a name="compare-microsoft-365-for-business"></a>Porovnanie služby Microsoft 365 for Business
 
-Existujú tri rôzne plány k dispozícii s Microsoft 365 pre podniky. [Porovnajte Microsoft 365 pre podnikové plány a ceny](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
+K dispozícii sú tri rôzne plány so službou Microsoft 365 for Business. [Porovnajte plány a ceny služieb Microsoft 365 for Business](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
