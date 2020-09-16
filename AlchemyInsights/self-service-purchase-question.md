@@ -1,28 +1,29 @@
 ---
-title: Samoobslužné nákupná otázka
+title: Otázka na zakúpenie vlastnej služby
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 14218f995430a8a5c7a2f4a0db51fe79c59824d0
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913698"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740021"
 ---
-# <a name="self-service-purchase"></a>Samoobslužný nákup
+# <a name="self-service-purchase"></a>Samoobslužné zakúpenie
 
-**Aké schopnosti má admin pre samoobslužné nákupy?**
+**Aké možnosti má správca pre samoobslužné nákupy?**
 
-Správcovia môžu zobraziť všetky samoobslužné nákupy vykonané v ich organizácii v Microsoft 365 admin Center. Môžu vidieť produkt, meno kupujúceho, zakúpené predplatné, dátum vypršania platnosti, históriu objednávok, nákupnú cenu a priradených používateľov pre každý nákup samoobslužnej služby.  Ak je to potrebné pre ich organizáciu, správcovia budú môcť vypnúť samoobslužný nákup na základe produktu cez PowerShell.  Správcovia majú rovnaké politiky pre správu údajov a prístup k produktom zakúpenými prostredníctvom samoobslužnej kúpy alebo centrálne.
+Správcovia môžu zobraziť všetky samoobslužné nákupy vykonané v organizácii v centre spravovania služieb Microsoft 365. Zobrazujú sa produkty, meno kupujúceho, zakúpené predplatné, dátum uplynutia platnosti, História objednávok, nákupná cena a priradení používatelia pre každú samoobslužné zakúpenie.  Ak je to potrebné pre svoju organizáciu, správcovia budú môcť vypnúť samoobslužné zakúpenie na základe jednotlivých produktov cez prostredie PowerShell.  Správcovia majú rovnakú politiku správy údajov a prístupu k výrobkom zakúpeným prostredníctvom služby samoobslužné zakúpenie alebo centrálne.
 
-[Najčastejšie otázky o samoobslužnej kúpe](https://aka.ms/self-service-purchase-faq)
+[Vlastné služby – najčastejšie otázky o nákupe](https://aka.ms/self-service-purchase-faq)
 

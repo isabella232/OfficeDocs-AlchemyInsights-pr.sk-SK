@@ -1,30 +1,31 @@
 ---
-title: Samoobslužný nákup PowerShell
+title: Samoobslužné zakúpenie prostredia PowerShell
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 5e47e08e3309b3d58908e10ee06021da00f230bb
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739985"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Samoobslužný nákup PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Samoobslužné zakúpenie prostredia PowerShell
 
-Ak chcete použiť modul MSCommerce PowerShell, musíte ho nainštalovať na zariadení s Windowsom 10 s TLS 1,2 (vyžaduje sa povolenie lokálneho správcu).  Importovanie a pripojenie k modulu MSCommerce.  Keď sa zobrazí výzva na prihlásenie, budete musieť použiť poverenia globálnej alebo fakturačnej roly správcu.  
+Ak chcete použiť modul MSCommerce PowerShell, musíte ho nainštalovať do zariadenia s Windowsom 10 pomocou TLS 1,2 (vyžaduje sa povolenie lokálneho správcu).  Importujte a pripojte sa k modulu MSCommerce.  Keď sa zobrazí výzva na prihlásenie, budete musieť použiť poverenia roly správcu globálnych alebo fakturačných správ.  
 
-Ak nemáte TLS 1,2, môže sa zobraziť nasledujúca chyba pri pokuse o získanie alebo aktualizáciu politiky:
+Ak nemáte TLS 1,2, pri pokuse o získanie alebo aktualizáciu politiky sa môže zobraziť Táto chyba:
 
-*Errormessage-základné pripojenie bolo zatvorené: Vyskytla sa neočakávaná chyba pri odosielaní*.
+*Errormessage – základné pripojenie bolo zatvorené: na odoslanie sa vyskytla neočakávaná chyba*.
 
 
 
