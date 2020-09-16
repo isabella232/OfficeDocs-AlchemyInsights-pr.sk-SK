@@ -1,38 +1,39 @@
 ---
-title: Intune inventár zariadenia
+title: Inventár zariadenia služby Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: d59ee014a64de39d01837e90909619f30ec35e89
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440476"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667893"
 ---
-# <a name="intune-device-inventory"></a>Intune inventár zariadenia
+# <a name="intune-device-inventory"></a>Inventár zariadenia služby Intune
 
-Čepeľ Zariadenia poskytuje správcovi prehľad o zariadeniach, ktoré sú pod správou v intune na základe zariadenia. Zobrazené informácie zahŕňajú: Hardvér, Objavené aplikácie, Stav súladu zariadenia a Stav konfigurácie zariadenia.
+Blade zariadenia poskytuje správcovi prehľad o zariadeniach v rámci správy v službe Intune na základe jednotlivých zariadení. Zobrazené informácie zahŕňajú: hardvér, nájdené aplikácie, stav súladu zariadenia a stav konfigurácie zariadenia.
 
-Údaje o zásobách pre hardvér a objavené aplikácie sa zhromažďujú v sedemdňovom cykle. Aplikácie a konkrétne prvky nahláseného hardvéru sa líšia v závislosti od operačného systému zariadenia a od toho, či je zariadenie osobne alebo vo vlastníctve podniku.
+Údaje o zásobách pre hardvér a nájdené aplikácie sa zhromažďujú v priebehu siedmich dní cyklu. Nahlásené aplikácie a špecifické prvky hardvéru sa líšia v závislosti od operačného systému zariadenia a od toho, či je zariadenie osobne alebo podnikovo vlastnené.
 
-Ďalšie informácie nájdete v téme Zobrazenie [podrobností o zariadení v programe Intune](https://docs.microsoft.com/intune/device-inventory).
+Ďalšie informácie nájdete v téme [Zobrazenie podrobností o zariadení v službe Intune](https://docs.microsoft.com/intune/device-inventory).
 
 **Najčastejšie otázky**
 
-Otázka: Nedostávam úplný zoznam aplikácií prítomných v zariadeniach s Windowsom zaregistrované v intune. prečo nie?
+Otázka: Neprijímam úplný zoznam aplikácií, ktoré sú prítomné v zariadeniach s Windowsom Intune. prečo nie?
 
-A: V tomto čase sú pre počítače s Windowsom 10, ktoré sú identifikované ako podnikové zariadenia, sú v zozname iba moderné aplikácie. Intune nezhromažďuje informácie o aplikáciách Win32 nainštalovaných v týchto zariadeniach.
+A: v súčasnosti sú na počítačoch s Windowsom 10, ktoré sú identifikované ako podnikové zariadenia, uvedené len moderné aplikácie. Intune nezhromažďuje informácie o aplikáciách Win32 nainštalovaných v týchto zariadeniach.
 
-Otázka: Prečo sa telefónne čísla nezhromažďujú zo všetkých zariadení?
+Otázka: prečo sa nezhromažďujú telefónne čísla zo všetkých zariadení?
 
-A: Telefóny kategorizované ako podnikové zariadenia v programe Intune nie sú identifikované s celým telefónnym číslom, keď napríklad spustíte správu o inventári mobilného zariadenia. Telefónne čísla na vlastné zariadenia sú vždy čiastočne zamaskované hviezdičkami (****) a zobrazujú len posledné štyri číslice.
+A: telefóny kategorizované ako podnikové zariadenia v službe Intune nie sú identifikované s úplným telefónnym číslom, napríklad keď spustíte zostavu inventára mobilného zariadenia. Telefónne čísla s prihlásením do vlastných zariadení sú vždy čiastočne zamaskované hviezdičkou (* * * *) a zobrazia sa iba posledné štyri číslice.

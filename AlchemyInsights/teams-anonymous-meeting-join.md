@@ -1,27 +1,30 @@
 ---
-title: Povolenie alebo zakázanie spojenia so schôdzami v službe Teams alebo jej zabránenie
+title: Povolenie alebo zakázanie anonymných používateľov pri pripojení k schôdzam v aplikácii teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 7424910b6d0ed41e3e1ad8cdcddd9a7ac10d2399
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: HT
+ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493597"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669911"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Povolenie alebo zakázanie spojenia so schôdzami v službe Teams alebo jej zabránenie
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Povolenie alebo zakázanie anonymných používateľov pri pripojení k schôdzam v aplikácii teams
 
-Nastavenia anonymnej schôdze môžete ovládať v Centre spravovania tímu.
+Nastavenie anonymného spojenia schôdze môžete ovládať v centre spravovania pre teams.
 
-1.  Prejdite do centra spravovania na adrese [https://admin.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=2024339) .
-2.  Na ľavom navigačnom **Meetings**paneli prejdite do   >   **časti Nastavenia schôdze**.
-3.  V časti **Účastníci**zapnite možnosť **Anonymní používatelia sa môžu pripojiť k schôdzi**.
+**Vykonanie tejto zmeny môže trvať až 24 hodín.**
+
+1.  Prejdite do [centra spravovania pre teams](https://admin.teams.microsoft.com)
+2.  Na ľavom navigačnom paneli **prejdite na položku**   >   **nastavenia**schôdze schôdze.
+3.  V časti  **účastníci**môžete zapínať  **anonymných používateľov k schôdzi**.
