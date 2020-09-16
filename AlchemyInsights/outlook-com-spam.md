@@ -1,45 +1,46 @@
 ---
-title: Nakladanie s nevyžiadanou poštou a nevyžiadanej pošty v Outlook.com
+title: Práca s nevyžiadanou poštou a nevyžiadanou poštou v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 0fab02fa06ff203933e6b5b8c306c2a8ecb15a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710746"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728842"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Spam a nevyžiadanej pošty v Outlook.com
+# <a name="spam-and-junk-email-in-outlookcom"></a>Nevyžiadané e-maily v Outlook.com
 
-Ak získavate príliš veľa nevyžiadanej pošty alebo spamu, vyskúšajte tieto metódy:
+Ak dostávate príliš veľa nevyžiadanej pošty alebo nevyžiadanej pošty, vyskúšajte tieto postupy:
 
 1. **Označenie e-mailu ako nevyžiadanej pošty**
     1. Vyberte správu.
-    1. Vyberte položku **Nevyžiadaná** > **Pošta** , ak chcete premiestniť správu do priečinka nevyžiadanej pošty.
-    1. [Prečítajte si ďalšie informácie o tom, ako pomôcť udržať nevyžiadanú poštu a nevyžiadanú poštu z doručenej pošty.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Vyberte **položku Nevyžiadaná**  >  **Pošta** , ak chcete správu premiestniť do priečinka Nevyžiadaná pošta.
+    1. [Získajte ďalšie informácie o tom, ako zabezpečiť, aby sa Nevyžiadaná pošta v doručenej pošte nezobrazovala.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Blokovanie odosielateľa z priečinka Doručená pošta**
+1. **Zablokovanie odosielateľa z priečinka doručenej pošty**
     1. Vyberte správu.
-    1. Vyberte položku **Nevyžiadaná** > **blok** > **OK**.
-    1. [Prečítajte si ďalšie informácie o blokovaní odosielateľov alebo ich odblokovanie.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Vyberte položku **nevyžiadané**  >  **bloky**  >  **OK**.
+    1. [Ďalšie informácie o zablokovaní alebo odblokovaní odosielateľov.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Pridanie odosielateľa do zoznamu blokovaných odosielateľov**
     1. Otvorte [Nastavenia nevyžiadanej pošty](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
-    1. V časti **Blokované odosielatelia a domény**vyberte položku **Pridať**.
+    1. V časti **Blokovaní odosielatelia a domény**vyberte položku **Pridať**.
     1. Zadajte e-mailovú adresu alebo doménu, ktorú chcete zablokovať, a stlačte kláves ENTER.
     1. V časti **filtre**vyberte, či chcete dôverovať e-mailom z adries v časti Dôveryhodní odosielatelia a domény a bezpečné poštové zoznamy.
     1. Vyberte položku **Uložiť**.
 
 1. **Vytvorenie pravidla pre doručenú poštu**
     1. Kliknite pravým tlačidlom myši na správu v zozname správ a vyberte položku **vytvoriť pravidlo**.
-    1. Vyberte priečinok, do ktorého chcete presunúť všetky správy od tohto odosielateľa, a vyberte položku **OK** > **OK**.
+    1. Vyberte priečinok, do ktorého chcete premiestniť všetky správy od daného odosielateľa, a vyberte **tlačidlo OK**  >  **OK**.
     1. [Ďalšie informácie o pravidlách pre doručenú poštu nájdete v Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
