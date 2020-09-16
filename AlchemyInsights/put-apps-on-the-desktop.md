@@ -1,29 +1,30 @@
 ---
-title: Dať aplikácie na pracovnej ploche
+title: Umiestnenie aplikácií na pracovnú plochu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 6c94c840ce9460bdf72aba23ef6444d18a44977d
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279106"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768262"
 ---
-# <a name="put-apps-on-the-desktop"></a>Dať aplikácie na pracovnej ploche
+# <a name="put-apps-on-the-desktop"></a>Umiestnenie aplikácií na pracovnú plochu
 
-Vyhľadajte aplikáciu v ponuke **Štart** a uchopte ikonu aplikácie podržaním ľavého tlačidla myši a presunutím ikony na pracovnú plochu.
+Vyhľadajte aplikáciu v ponuke **Štart** a uchopte ikonu aplikácie tak, že podržíte stlačené ľavé tlačidlo myši a presuniete ikonu na pracovnú plochu.
 
-Môžete tiež stlačiť **kláves Windows + R** a potom zadajte tento príkaz:
+Môžete tiež stlačiť kláves s logom **Windows + R** a potom zadať tento príkaz:
 
 `shell:appsfolder`
 
-Otvorí sa priečinok **aplikácie** v **Prieskumníkovi**. Teraz môžete pretiahnuť ikonu aplikácie na pracovnú plochu.
+Otvorí sa priečinok **Applications** v **Prieskumníkovi**. Teraz môžete ikonu aplikácie presunúť myšou na pracovnú plochu.
