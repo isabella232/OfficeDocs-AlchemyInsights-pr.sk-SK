@@ -1,22 +1,23 @@
 ---
-title: Správy o nedoručení v programe Outlook na webe
+title: Správy o nedoručení v Outlooku na webe
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768560"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721930"
 ---
-# <a name="issues-with-email-delivery"></a>Problémy s doručením e-mailov
+# <a name="issues-with-email-delivery"></a>Problémy s doručovaním e-mailov
 
-Keď sa vyskytol problém, ktorý prináša e-mailovú správu, ktorú ste odoslali, Microsoft 365 odošle e-mail, ktorý vám umožní vedieť. E-mailová správa sa zobrazí oznámenie o stave doručenia, tiež známy ako DSN alebo Bounce správy. Najbežnejší typ sa nazýva správa o nedoručení (NDR), ktorá vám povie, že správa nebola doručená. Non-dodávka môže byť spôsobená niečo tak jednoduchého ako preklep v e-mailovú adresu. Oznámenia o nedoručení obsahujú kód chyby, ktorý označuje, prečo nebol váš e-mail dodaný, riešenia, ktoré vám pomôžu dostať váš e-mail dodaný, odkaz na ďalšie pomocné informácie na webe a technické podrobnosti pre správcov.
+Keď sa vyskytol problém s odoslaním odoslanej e-mailovej správy, spoločnosť Microsoft 365 odošle e-mail, ktorý vám oznámi. E-mailom, ktorý prijmete, je oznámenie o stave doručenia, známe aj ako správa DSN alebo Bounce. Najbežnejší typ sa nazýva správa o nedoručení (NDR), ktorá vám oznámi, že správa nebola doručená. Nedoručenie môže byť spôsobené tým, že niečo nie je jednoduché ako preklep na e-mailovú adresu. Oznámenia o nedoručení zahŕňajú kód chyby, ktorý informuje o tom, prečo váš e-mail nebol doručený, riešenia, ktoré vám pomôžu získať doručený e-mail, prepojenie na ďalšiu pomoc na webe a technické podrobnosti pre správcov.
 
-Ak chcete zobraziť zoznam oznámení o nedoručení a zistiť, prečo vaša správa nebola doručená, pozrite si časť [e-mailové správy o nedoručení v službe Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Ak chcete zobraziť zoznam oznámení o nedoručení a zistiť, prečo nebola vaša správa doručená, pozrite si tému [oznámenia o nedoručení e-mailov v Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

@@ -1,35 +1,36 @@
 ---
-title: Odosielanie vlastných upozornení pomocou Intune
+title: Odoslanie vlastných oznámení so službou Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 969649084a2ac536ee1b41f225c3be5415a27c4b
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886872"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720661"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Ako posielať vlastné oznámenia používateľom spravovaných iOS a Android zariadenia
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Odoslanie vlastných oznámení používateľom spravovaných zariadení so systémom iOS a Android
 
-Vlastné upozornenia pre Intune spracováva aplikácia portálu spoločnosti v zariadení používateľa. Aplikácia potom vytvorí oznámenie push na tomto zariadení.
+Vlastné oznámenia pre služby Intune sú spracované v aplikácii Company Portal v zariadení používateľa. Aplikácia potom vytvorí oznámenie o vyžiadaní v danom zariadení.
 
-Nižšie sú uvedené predpoklady zariadenia na podporu prijímania vlastných upozornení a pre aplikáciu na vytvorenie oznámenia push:
+Nižšie sú uvedené požiadavky zariadenia, ktoré podporujú prijímanie vlastných oznámení, a v aplikácii potom vytvorte Push Oznámenie:
 
-- Zariadenie musí mať nainštalovanú aplikáciu portálu spoločnosti.  
+- Zariadenie musí mať nainštalovanú aplikáciu firemný portál.  
 
-- Zariadenie musí povoliť aplikácii portálu spoločnosti odosielať oznámenia push. Keď je aplikácia nainštalovaná alebo aktualizovaná, vyzve používateľa na povolenie upozornení.
+- Zariadenie musí povoliť, aby aplikácia spoločnosti Portal odoslala oznámenia push. Pri inštalácii alebo aktualizácii aplikácie sa používateľovi zobrazí výzva na povolenie oznámení.
 
-- Zariadenia so systémom Android musia mať nainštalované služby Google Play.
+- Zariadenia s Androidom musia mať nainštalované služby Google Play.
 
-- Zariadenie musí byť zapísané s Intune.
+- Zariadenie musí byť zaregistrované v službe Intune.
 
-Ďalšie informácie vrátane spôsobu odoslania správy nájdete v [dokumentácii k funkcii](https://docs.microsoft.com/intune/custom-notifications).
+Ďalšie informácie vrátane spôsobu odoslania správy nájdete v [dokumentácii k funkciám](https://docs.microsoft.com/intune/custom-notifications).
