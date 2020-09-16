@@ -1,29 +1,30 @@
 ---
-title: Vytvoriť lokalitu
+title: Vytvorenie lokality
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: 0fc5c5bf4cde123c0e9208b73382bba7fe716441
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ecbaf5a52a0867893c470f759a030bafea376e34
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049856"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747422"
 ---
-# <a name="create-a-site"></a>Vytvoriť lokalitu
+# <a name="create-a-site"></a>Vytvorenie lokality
 
-- Prejdite na [stránku lokality Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/SitesList)a vyberte **pridať lokalitu**. 
+- Prejdite na [stránku lokality v centre spravovania služieb Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)a potom vyberte položku **pridať lokalitu**. 
     
-- V novom SharePoint admin Center, na stránke lokality, kliknite na tlačidlo **vytvoriť**. 
+- V novom centre spravovania služby SharePoint kliknite na stránke lokality na položku **vytvoriť**. 
     
-**Poznámka:** Nie je možné vytvoriť novú lokalitu, ktorá má rovnakú adresu URL s existujúcou lokalitou. 
+**Poznámka:** Nie je možné vytvoriť novú lokalitu s rovnakou URL adresou s existujúcou lokalitou. 
   
-Ďalšie informácie o vytváraní lokality nájdete [v téme Vytvorenie lokality](https://go.microsoft.com/fwlink/?linkid=866295).
+Ďalšie informácie o vytváraní lokality nájdete v téme [Vytvorenie lokality](https://go.microsoft.com/fwlink/?linkid=866295).
   
-Informácie o umožnení používateľom vytvárať vlastné lokality nájdete [v téme Spravovanie vytvárania lokalít v SharePointe Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Informácie o tom, ako umožniť používateľom vytvárať vlastné lokality, nájdete [v téme Spravovanie vytvárania lokalít v SharePointe Online](https://go.microsoft.com/fwlink/?linkid=866296).
   
 

@@ -5,26 +5,27 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: efd118352e2f7a137a489c69956b3eac11f1ffb7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715611"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747386"
 ---
 # <a name="create-a-communication-site"></a>Vytvorenie komunikačnej lokality
 
-Vytvoriť komunikačné lokality SharePoint Online, postupujte nasledovne: 
+Ak chcete vytvoriť komunikačnú lokalitu v SharePointe Online, postupujte podľa týchto krokov: 
   
-1. V ľavom hornom rohu stránky kliknite na spúšťač aplikácie a vyberte dlaždicu SharePoint. Ak sa dlaždica SharePoint nezobrazuje, kliknite na položku **lokality** alebo **všetky aplikácie** , ak nie je zobrazená služba SharePoint. 
+1. V ľavom hornom rohu stránky kliknite na spúšťač aplikácií a vyberte dlaždicu SharePoint. Ak sa dlaždica SharePoint nezobrazuje, kliknite na položku **lokality** alebo na položku **všetky aplikácie** , ak sa SharePoint nezobrazuje. 
     
-2. V hornej časti stránky lokality SharePoint kliknite na položku **vytvoriť lokalitu** a vyberte možnosť **komunikačná lokalita**. Postupujte podľa pokynov sprievodcu vytvorením lokality. 
+2. V hornej časti stránky SharePoint kliknite na položku **vytvoriť lokalitu** a vyberte položku **komunikácia**. Postupujte podľa krokov v sprievodcovi vytvorením lokality. 
     
- **Poznámka**: Ak nevidíte možnosť **vytvoriť lokalitu**, samoobslužné vytváranie lokalít môže byť vypnuté. Ak chcete vytvoriť tímovú lokalitu, obráťte sa na osobu, ktorá spravuje Microsoft 365 vo vašej organizácii. Ak ste správcom nájomníka, pozrite si [Správa vytvárania lokalít v SharePointe Online na umožnenie vytvárania samoobslužnej lokality pre vašu organizáciu.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Poznámka**: Ak sa nezobrazuje možnosť **vytvoriť lokalitu**, môže byť zakázaná tvorba samoobslužné lokality. Ak chcete vytvoriť tímovú lokalitu, obráťte sa na osobu, ktorá spravuje spoločnosť Microsoft 365 vo vašej organizácii. Ak ste správcom nájomníka, prečítajte si tému [Správa vytvárania lokalít v SharePointe Online, ktorá umožňuje vytvorenie samoobslužné vytváranie lokalít pre vašu organizáciu.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Poznámka:** Ak sa pokúšate vytvoriť komunikačnú lokalitu a adresa URL sa pripojí k náhodným číslam, je pravdepodobné, že lokalita s rovnakou adresou URL už existuje v prostredí SharePoint alebo bola odstránená a stále existuje v odstránených lokalitách (Kôš). Používa [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) sa na vyhodnotenie koša a [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) na odstránenie lokality z koša. 
+ **Poznámka:** Ak sa pokúšate vytvoriť komunikačnú lokalitu a URL adresa sa dostáva s náhodnými číslami, je pravdepodobné, že lokalita s tou istou URL adresou už existuje v prostredí SharePoint alebo bola odstránená a stále existuje v odstránených lokalitách (Kôš). Používa [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) sa na vyhodnotenie koša a [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) Odstránenie lokality z koša. 
   
 

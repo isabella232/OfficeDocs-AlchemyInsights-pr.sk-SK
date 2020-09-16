@@ -1,36 +1,37 @@
 ---
-title: Kredit/refundácia
+title: Kredit alebo refundácia
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: beb3574cb94f5ede8282ab29feba6d3ac0e589a9
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086831"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746594"
 ---
-# <a name="creditrefund"></a>Kredit/refundácia
+# <a name="creditrefund"></a>Kredit alebo refundácia
 
 **Zrušenie**
   
-Pri zrušení predplatného dostanete konečnú faktúru s úverom splatným v ďalšom fakturačnom dátume. Môže to trvať až 30 dní, kým sa dostane od dátumu zrušenia prihlásenia na odber.
+Pri zrušení predplatného budete dostávať konečnú faktúru s kreditnou splatnou z nasledujúceho dátumu fakturácie. Od dátumu zrušenia predplatného môže trvať až 30 dní.
   
 **Zmena sedadla**
   
-Keď sa licencie odstránia z predplatného, nevyužitý čas na týchto licenciách sa použije ako kredit na ďalšom účte. To môže trvať až 30 dní dostávať od dátumu licencie sú odstránené.
+Keď sa licencie odstránia z predplatného, nevyužitý čas na tieto licencie sa použije ako kredit na nasledujúcom faktúre. Od dátumu odstránenia licencií môže trvať až 30 dní.
 
-**Náhrady**
+**Refundáciu**
 
-**Akýkoľvek pomerovaný kredit vám bude vrátený v ďalšom fakturačnom cykle.**
+**Všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.**
 
-Ďalšie informácie nájdete v časti [proces zrušenia a refundácie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
+Ďalšie informácie nájdete v téme [proces zrušenia a refundácie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
