@@ -1,10 +1,11 @@
 ---
-title: Priebeh servisnej udalosti
-ms.author: v-crytho
+title: Prebieha incident služby
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1120857d-8af2-45e6-b6af-ece612448a62
@@ -18,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719746"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751402"
 ---
-# <a name="service-incident-in-progress"></a>Priebeh servisnej udalosti
+# <a name="service-incident-in-progress"></a>Prebieha incident služby
 
-Môže vás to ovplyvniť servisný incident alebo poradný orgán, ktorý sa práve skúma. Najnovší stav môžete skontrolovať tak, že prejdete na stránku [služby zdravie](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Môže byť ovplyvnený incidentom služby alebo poradcom, ktorý sa momentálne skúma. Najnovší stav môžete skontrolovať tak, že prejdete na stránku [stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-Pre vaše pohodlie, nájdete Zhrnutie tohto incidentu nižšie:
+Pre vaše pohodlie môžete nájsť súhrn tohto incidentu nižšie:
   
-> **Číslo incidentu:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Číslo incidentu:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Popis vplyvu: {ImpactDescription}

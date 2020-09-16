@@ -1,29 +1,30 @@
 ---
-title: Platenie s boleto
+title: Platenie prostredníctvom služby boleto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: f390c2415e6638b90336c456bd11065bf8d7bc53
-ms.sourcegitcommit: 3f50cd10aac418ef38a1782312b24588b49cefd9
+ms.openlocfilehash: 1997b1e4f0240d132550de441affa3854c22cdc6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37976130"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751762"
 ---
-# <a name="como-pagar-com-boleto"></a>Como Pagar com boleto
+# <a name="como-pagar-com-boleto"></a>Como pagar com boleto
 
-**Como Pagar minha fatura**
+**Como pagar minha fatura**
 
-Você pode Pagar SUA fatura com boleto bancário ou transferência bancária eletrônica.
+Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.
 
-**Como Pagar com boleto**
+**Como pagar com  boleto**
 
-Ao escolher ESTA opção de pagamento, ty receberá o boleto EM Seu e-mail EM até 10 Dias úteis após dáta do pedido. Esse boleto terá vencimento de 30 Dias após dáta do pedido e pode ser Pago EM UM Banco, correios, Casa lotérica e alguns supermercados. 
+Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido. Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados. 
