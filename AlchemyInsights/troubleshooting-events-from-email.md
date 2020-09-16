@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569404"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658749"
 ---
 # <a name="troubleshooting-events-from-email"></a>Riešenie problémov s udalosťami z e-mailu
 
-1. Overte, či je zapnutá funkcia pre poštovú schránku: **Get-EventsFromEmailConfiguration -Identity <mailbox> **
+1. Overenie funkcie je povolená pre poštovú schránku: **Get-EventsFromEmailConfiguration- <mailbox> identity**
 
-2. Potom sa pozrite na "Udalosti z e-mailu" prihlási **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Potom sa pozrite na denníky udalostí z e-mailov **export-MailboxDiagnosticLogs <mailbox> -zložka TimeProfile**
 
-3. V denníkoch "Udalosti z e-mailu" vyhľadajte InternetMessageId, ktorý zodpovedá položke v poštovej schránke.  
+3. V denníkoch udalostí z e-mailu vyhľadajte InternetMessageId, ktoré sa zhoduje s položkou v poštovej schránke.  
 
-4. TrustScore určuje, či je položka pridaná alebo nie. Udalosti sa pridajú iba v prípade, že trustscore = "Dôveryhodný".
+4. Vlastnosť TrustScore určuje, či sa položka pridá alebo nie. Udalosti sa pridajú iba v prípade, že TrustScore = "dôveryhodný".
 
-TrustScore je určený SPF, Dkim alebo Dmarc vlastnosti, ktoré sú v hlavičke správy.
+TrustScore je určený vlastnosťami SPF, dkim alebo DMARC, ktoré sa nachádzajú v hlavičke správy.
 
 Ak chcete zobraziť tieto vlastnosti:
 
-**Výhľad na pracovnú plochu**
+**Počítačová verzia Outlooku**
 
 - Otvorenie položky
-- Súbor -> Vlastnosti -> Internetové hlavičky
+- Súbor – > vlastnosti – > internetové hlavičky
 
-Alebo
+alebo
 
-**Mfcmapi**
+**MFCMapi**
 
-- Prechod na položku v doručenej pošte
-- Hľadajte PR_TRANSPORT_MESSAGE_HEADERS_W
+- Prechod na položku v priečinku Doručená pošta
+- Vyhľadanie PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Tieto vlastnosti sa určujú a zaznamenávajú počas prepravy a smerovania. Pre ďalšie riešenie problémov, budete musieť nadviazať s podporou prenosu o zlyhania sPF, DKIM a.alebo DMARC.
+Tieto vlastnosti sa určia a zaznamenávajú počas prepravy a smerovania. Ďalšie riešenie problémov možno budete musieť spracovať prostredníctvom podpory prenosu informácií o zlyhaniach v SPF, DKIM a. alebo DMARC.

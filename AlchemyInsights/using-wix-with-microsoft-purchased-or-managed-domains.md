@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: f6845c56f05e9cef11362ce601a974b73a154c9a
-ms.sourcegitcommit: 28a319e482e6a8644e87726e1b0e599819df52d0
+ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46629864"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664761"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Používanie webovej lokality Wix s zakúpenými alebo spravovanými doménami spoločnosti Microsoft
 
@@ -29,4 +30,4 @@ Podrobnosti nájdete v témach:
 
 - Ak sa rozhodnete zmeniť názvové servery na Wix, musíte vytvoriť DNS záznamy na lokalite Wix pre spoločnosť Microsoft. Ďalšie informácie nájdete v téme [Vytvorenie DNS záznamov na lokalite Wix pre spoločnosť Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Ak ste doménu zakúpili od spoločnosti Microsoft, názvové servery nie je možné zmeniť. Ak musíte zmeniť názvy serverov, zakúpená doména spoločnosti Microsoft sa musí po 60 dňoch prevádzať na iného poskytovateľa hostiteľských služieb. Ďalšie informácie nájdete v téme [najčastejšie otázky o doménach](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+- Ak ste doménu zakúpili od spoločnosti Microsoft, názvové servery nie je možné zmeniť. Ak musíte zmeniť názvy serverov, zakúpená doména spoločnosti Microsoft sa musí po 60 dňoch prevádzať na iného poskytovateľa hostiteľských služieb. Ďalšie informácie nájdete v téme [prenos domény od spoločnosti Microsoft do iného hostiteľa](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
