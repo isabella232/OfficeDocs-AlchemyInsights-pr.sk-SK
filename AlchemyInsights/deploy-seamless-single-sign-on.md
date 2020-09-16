@@ -6,22 +6,23 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 92ea18126af38ba9c065833f02c0f12bcb154c06
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7060f7fa3d8b259027e17e821c8da736b8526f3d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704684"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745609"
 ---
-# <a name="enable-seamless-sso"></a>Povoliť bezproblémovú SSO
+# <a name="enable-seamless-sso"></a>Povolenie bezproblémového SSO
 
-Azure Active Directory (Azure AD) bezproblémový jediné prihlásenie (bezšvové SSO) automaticky prihlási používateľov, keď sú na ich firemné počítače, ktoré sú pripojené k podnikovej sieti.
+Azure Active Directory (Azure AD) bezproblémové jediné prihlásenie (bezproblémové SSO) automaticky prihlasuje používateľov, keď sú na podnikových stolných počítačoch, ktoré sú pripojené k podnikovej sieti.
   
-[Postupujte podľa krokov v tomto článku umožniť bezproblémový SSO](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[Ak chcete povoliť bezproblémové SSO, postupujte podľa krokov v tomto článku.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

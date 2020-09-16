@@ -1,32 +1,33 @@
 ---
-title: 1800019 zameraná Doručená pošta v programe Outlook
+title: 1800019 prioritnej doručenej pošty v Outlooku
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719936"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744488"
 ---
-# <a name="focused-inbox-in-outlook"></a>Zameraná Doručená pošta v programe Outlook
+# <a name="focused-inbox-in-outlook"></a>Prioritná Doručená pošta v Outlooku
 
-Zameraná Doručená pošta oddeľuje vaše doručenej pošty do dvoch záložiek-sústredený a ďalšie. Vaše najdôležitejšie správy sú na karte Zaostrené, zatiaľ čo zvyšok zostáva ľahko prístupný – ale z cesty – na karte iné.
+Prioritná Doručená pošta oddeľuje priečinok Doručená pošta do dvoch kariet – zameraných a iných. Najdôležitejšie správy sa nachádzajú na karte prioritné, zatiaľ čo zvyšok zostane jednoducho dostupný – ale nie – na karte iné.
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | Outlook[na webe](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 pre Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [mail pre Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook na webe](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 pre Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Pošta pre Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
 zistiť viac:
   
-- [Zobrazenie cielenej doručenej pošty v akcii](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Zobrazenie prioritnej doručenej pošty v akcii](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Nakonfigurujte zameraný priečinok Doručená pošta pre všetkých používateľov v organizácii pomocou prostredia PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Konfigurácia prioritnej doručenej pošty pre všetkých používateľov v organizácii pomocou prostredia PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

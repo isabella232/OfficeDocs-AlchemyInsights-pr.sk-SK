@@ -1,32 +1,33 @@
 ---
-title: Microsoft 365 služby zdravie
+title: Stav služby Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762404"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742758"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 služby zdravie
+# <a name="microsoft-365-service-health"></a>Stav služby Microsoft 365
 
 
-Skontrolujte stav služby všetkých služieb z [tabule služby zdravie](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Výberom **nového Admin Center** v pravom hornom rohu, uvidíte nové služby Health Options.
+Skontrolujte stav služby ľubovoľnej služby na [tabuli stavu služby](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Ak vyberiete **nové centrum spravovania** v pravom hornom rohu, zobrazia sa nové možnosti stavu služby.
 
-- Vyberte **predvoľby** , ak chcete dostávať **e-mailové upozornenia**na zdravotné služby.
+- Ak chcete dostávať **e-mailové oznámenia**o stave služby, vyberte položku **predvoľby** .
 
-- Ak sa vyskytol problém so službou, vyberte možnosť **Nahlásiť problém** .
+- Ak sa vyskytol problém so službou, vyberte položku **Nahlásiť problém** .
 
-- Vyberte **históriu** , ak chcete skontrolovať históriu služieb v oblasti zdravia vašej organizácie. 
+- Ak chcete skontrolovať históriu stavu služby vašej organizácie, vyberte položku **História** . 
 
-Ďalšie informácie nájdete v téme [ako skontrolovať stav služby Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Ďalšie informácie nájdete v téme [Kontrola stavu služby Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
