@@ -6,32 +6,33 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: 7e98c9bd2feb9f36c2f9486e4e31e4882b68f6df
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715503"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732442"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Vytvorenie alebo úprava profilu programu Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Vytvorenie alebo úprava profilu v Outlooku
 
-Ak chcete vytvoriť nový profil programu Outlook, upraviť profil alebo premenovať profil, použite nasledovný postup.
+Ak chcete vytvoriť nový profil v Outlooku, upraviť profil alebo premenovať profil, postupujte podľa nasledujúcich krokov.
   
-1. V programe Outlook vyberte položku **Nastavenie** \> kont **súborov** \> **spravovať profily**.
+1. V Outlooku vyberte **File** položku \> **Nastavenie konta** súboru \> **spravovať profily**.
     
 2. V dialógovom okne **Nastavenie pošty** vyberte položku **Zobraziť profily**.
     
-3. Vykonajte jeden z nasledujúcich krokov:
+3. Vykonajte niektorý z týchto krokov:
     
   - Ak chcete vytvoriť nový profil, vyberte položku **Pridať**.
     
   - Ak chcete upraviť alebo premenovať profil, vyberte položku **Vlastnosti**.
     
-Ak sa vyskytnú problémy s vytvorením alebo úpravou profilu programu Outlook, môžete spustiť [nástroj profil programu Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na postihnutom počítači. Bude vykonávať niektoré kontroly, a keď ste pripravení vytvorí profil programu Outlook s vašej e-mailovú adresu. 
+Ak máte problémy s vytváraním alebo úpravou profilu v Outlooku, môžete spustiť [nástroj profil v Outlooku](https://aka.ms/SaRA-OutlookSetupProfile) v dotknutom zariadení. Vykoná niektoré kontroly a keď budete pripravení, vytvorí sa profil v Outlooku s e-mailovou adresou. 
   
 

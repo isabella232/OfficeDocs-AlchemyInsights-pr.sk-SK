@@ -1,30 +1,31 @@
 ---
-title: Ochrana pred únikom údajov (DLP) – prehľad
+title: Prehľad ochrany pred únikom údajov (DLP)
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: b6073cd4043efcebd6e447dee9ba85f31e541ec8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505774"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731326"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Ochrana pred únikom údajov (DLP) – prehľad
+# <a name="data-loss-prevention-dlp-overview"></a>Prehľad ochrany pred únikom údajov (DLP)
 
-S politikou DLP môžete:
+Pomocou politiky DLP môžete:
 
-- Identifikujte citlivé informácie na mnohých miestach, ako sú Exchange Online, SharePoint Online a OneDrive for Business.
-
-
-Môžete napríklad identifikovať ľubovoľný dokument obsahujúci číslo kreditnej karty, ktorý je uložený na ľubovoľnej lokalite OneDrive for Business, alebo môžete sledovať len lokality OneDrive konkrétnych ľudí.
-
-- Zabráňte náhodnému zdieľaniu citlivých informácií.
+- Identifikujte citlivé informácie z mnohých umiestnení, ako je napríklad Exchange Online, SharePoint Online a OneDrive for Business.
 
 
-Pre viac informácií nájdete v nasledujúcom [článku](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
+Môžete napríklad identifikovať akýkoľvek dokument, ktorý obsahuje číslo kreditnej karty uložené v ktorejkoľvek lokalite služby OneDrive for Business, alebo môžete sledovať len lokality OneDrive konkrétnych ľudí.
+
+- Zabrániť náhodnému zdieľaniu citlivých informácií.
+
+
+Ďalšie informácie nájdete v nasledujúcom [článku](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
 
