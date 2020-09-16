@@ -1,26 +1,27 @@
 ---
-title: Potreba inštalácie balíka Office 2013
+title: Potrebujete nainštalovať Office 2013
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 99529e9e9b18ae0211cfae4fbc789d4e1563ac4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512063"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769594"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="cd190-102">Office 2013 už nie je podporovaný v Microsoft 365 predplatné</span><span class="sxs-lookup"><span data-stu-id="cd190-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="45304-102">Office 2013 už nie je podporovaný v predplatnom služieb Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="45304-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
 
-<span data-ttu-id="cd190-103">februára 28, 2017, Office 2013 už nie je podporovaný v Microsoft 365 predplatné.</span><span class="sxs-lookup"><span data-stu-id="cd190-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
+<span data-ttu-id="45304-103">Od 28. februára 2017, Office 2013 už nie je podporovaný v službe Microsoft 365 predplatné.</span><span class="sxs-lookup"><span data-stu-id="45304-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
   
-<span data-ttu-id="cd190-104">Ak chcete zaistiť zabezpečenie balíka Office a získať všetky najnovšie funkcie, nainštalujte najnovšiu verziu balíka Office zdarma ako súčasť predplatného na Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="cd190-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="cd190-105">Pozrite [si tému Inovácia používateľov na najnovšieho klienta balíka Office](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="cd190-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="45304-104">Ak chcete zabezpečiť zabezpečenie balíka Office a získať všetky najnovšie funkcie, nainštalujte si najnovšiu verziu balíka Office Bezplatne ako súčasť predplatného na Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="45304-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="45304-105">Pozrite si tému [Inovácia používateľov na najnovšieho klienta balíka Office](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="45304-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   

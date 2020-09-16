@@ -1,24 +1,25 @@
 ---
-title: Čo je rozbočovač stránky?
+title: Čo je lokalita rozbočovača?
 ms.author: clake
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: d20d82aca926283a62015bd4dd84a97c347ef2d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765323"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767470"
 ---
-# <a name="whats-a-hub-site"></a><span data-ttu-id="081d9-102">Čo je rozbočovač stránky?</span><span class="sxs-lookup"><span data-stu-id="081d9-102">What's a hub site?</span></span>
+# <a name="whats-a-hub-site"></a><span data-ttu-id="c1954-102">Čo je lokalita rozbočovača?</span><span class="sxs-lookup"><span data-stu-id="c1954-102">What's a hub site?</span></span>
 
-<span data-ttu-id="081d9-103">Rozbočovač stránky pomáha organizovať stránky a dať im spoločnú navigáciu a branding.</span><span class="sxs-lookup"><span data-stu-id="081d9-103">A hub site helps you organize sites and give them a common navigation and branding.</span></span> <span data-ttu-id="081d9-104">Globálne alebo SharePoint správcovia budú môcť vytvoriť rozbočovač lokalít a určiť, ktorí používatelia môžu priradiť svoje stránky s rozbočovačom stránky.</span><span class="sxs-lookup"><span data-stu-id="081d9-104">Global or SharePoint admins will be able to create hub sites and specify which users can associate their sites with the hub site.</span></span> <span data-ttu-id="081d9-105">Ďalšie informácie nájdete v téme [lokality rozbočovača SharePoint](https://go.microsoft.com/fwlink/?linkid=869388).</span><span class="sxs-lookup"><span data-stu-id="081d9-105">For more info, see [SharePoint hub sites](https://go.microsoft.com/fwlink/?linkid=869388).</span></span>
+<span data-ttu-id="c1954-103">Lokalita rozbočovača pomáha organizovať lokality a poskytovať im spoločnú navigáciu a značky.</span><span class="sxs-lookup"><span data-stu-id="c1954-103">A hub site helps you organize sites and give them a common navigation and branding.</span></span> <span data-ttu-id="c1954-104">Správcovia globálnych alebo SharePointových správcov budú môcť vytvárať lokality rozbočovačov a určovať, ktorí používatelia môžu priradiť svoje lokality k lokalite rozbočovača.</span><span class="sxs-lookup"><span data-stu-id="c1954-104">Global or SharePoint admins will be able to create hub sites and specify which users can associate their sites with the hub site.</span></span> <span data-ttu-id="c1954-105">Ďalšie informácie nájdete v téme [lokality rozbočovača SharePoint](https://go.microsoft.com/fwlink/?linkid=869388).</span><span class="sxs-lookup"><span data-stu-id="c1954-105">For more info, see [SharePoint hub sites](https://go.microsoft.com/fwlink/?linkid=869388).</span></span>
   
