@@ -5,24 +5,25 @@ author: daeite
 manager: jackiesm
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "994"
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 67ed45120474b6b85971e5ba44e2d77ebe0ed283
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 465c4e07d753afbe3d171981824236943966362c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769498"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732478"
 ---
-# <a name="create-a-new-folder-in-outlookcom"></a><span data-ttu-id="cd6f9-102">Vytvoriť nový priečinok v Outlook.com</span><span class="sxs-lookup"><span data-stu-id="cd6f9-102">Create a new folder in Outlook.com</span></span>
+# <a name="create-a-new-folder-in-outlookcom"></a><span data-ttu-id="c44b5-102">Vytvorenie nového priečinka vo Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c44b5-102">Create a new folder in Outlook.com</span></span>
 
-1. <span data-ttu-id="cd6f9-103">V časti **priečinky** na navigačnej table vyberte položku **nový priečinok**.</span><span class="sxs-lookup"><span data-stu-id="cd6f9-103">Under **Folders** in the navigation pane, select **New folder**.</span></span>
+1. <span data-ttu-id="c44b5-103">V časti **priečinky** na navigačnej table vyberte položku **nový priečinok**.</span><span class="sxs-lookup"><span data-stu-id="c44b5-103">Under **Folders** in the navigation pane, select **New folder**.</span></span>
 
-2. <span data-ttu-id="cd6f9-104">Zadajte názov priečinka a stlačte kláves ENTER.</span><span class="sxs-lookup"><span data-stu-id="cd6f9-104">Type a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="c44b5-104">Zadajte názov priečinka a stlačte kláves ENTER.</span><span class="sxs-lookup"><span data-stu-id="c44b5-104">Type a name for the folder and press Enter.</span></span>
 
-<span data-ttu-id="cd6f9-105">Ďalšie informácie nájdete v téme [Vytvorenie priečinka v Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="cd6f9-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="c44b5-105">Ďalšie informácie nájdete v téme [Vytvorenie priečinka v Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c44b5-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   

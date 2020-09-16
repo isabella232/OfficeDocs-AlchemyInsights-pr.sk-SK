@@ -5,27 +5,28 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 978df2785967eac4b951fa3facdac0b8c2833d1a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704792"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731074"
 ---
-# <a name="delete-a-site"></a><span data-ttu-id="b6fe1-102">Odstránenie lokality</span><span class="sxs-lookup"><span data-stu-id="b6fe1-102">Delete a site</span></span>
+# <a name="delete-a-site"></a><span data-ttu-id="39190-102">Odstránenie lokality</span><span class="sxs-lookup"><span data-stu-id="39190-102">Delete a site</span></span>
 
-<span data-ttu-id="b6fe1-103">Keď odstránite lokalitu, presunie sa na odstránené lokality a zachová sa 93 dní.</span><span class="sxs-lookup"><span data-stu-id="b6fe1-103">When you delete a site, it's moved to the Deleted Sites and is retained for 93 days.</span></span> <span data-ttu-id="b6fe1-104">Ak chcete lokalitu odstrániť, prejdite na lokalitu [aktívne lokality](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true).</span><span class="sxs-lookup"><span data-stu-id="b6fe1-104">To delete a site, go to [Active Sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true).</span></span> 
+<span data-ttu-id="39190-103">Po odstránení lokality sa presunie na odstránené lokality a zachová sa počas 93 dní.</span><span class="sxs-lookup"><span data-stu-id="39190-103">When you delete a site, it's moved to the Deleted Sites and is retained for 93 days.</span></span> <span data-ttu-id="39190-104">Ak chcete odstrániť lokalitu, prejdite na položku [aktívne lokality](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true).</span><span class="sxs-lookup"><span data-stu-id="39190-104">To delete a site, go to [Active Sites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true).</span></span> 
 
-<span data-ttu-id="b6fe1-105">Keď odstránite lokalitu, všetko v nej sa odstráni, vrátane:</span><span class="sxs-lookup"><span data-stu-id="b6fe1-105">When you delete a site, everything within it is deleted, including:</span></span>
+<span data-ttu-id="39190-105">Po odstránení lokality sa všetko v nej odstráni vrátane týchto:</span><span class="sxs-lookup"><span data-stu-id="39190-105">When you delete a site, everything within it is deleted, including:</span></span>
 
-- <span data-ttu-id="b6fe1-106">Knižnice dokumentov a súbory.</span><span class="sxs-lookup"><span data-stu-id="b6fe1-106">Document libraries and files.</span></span>
-- <span data-ttu-id="b6fe1-107">Zoznamy a údaje zoznamu.</span><span class="sxs-lookup"><span data-stu-id="b6fe1-107">Lists and list data.</span></span>
-- <span data-ttu-id="b6fe1-108">Nastavenia a históriu lokality.</span><span class="sxs-lookup"><span data-stu-id="b6fe1-108">Site settings and history.</span></span>
-- <span data-ttu-id="b6fe1-109">Akékoľvek podlokality a ich obsah.</span><span class="sxs-lookup"><span data-stu-id="b6fe1-109">Any sub-sites and their contents.</span></span>
+- <span data-ttu-id="39190-106">Knižnice dokumentov a súbory.</span><span class="sxs-lookup"><span data-stu-id="39190-106">Document libraries and files.</span></span>
+- <span data-ttu-id="39190-107">Zoznamy a údaje zoznamu.</span><span class="sxs-lookup"><span data-stu-id="39190-107">Lists and list data.</span></span>
+- <span data-ttu-id="39190-108">Nastavenie lokality a História.</span><span class="sxs-lookup"><span data-stu-id="39190-108">Site settings and history.</span></span>
+- <span data-ttu-id="39190-109">Všetky podlokality a ich obsah.</span><span class="sxs-lookup"><span data-stu-id="39190-109">Any sub-sites and their contents.</span></span>
 
-<span data-ttu-id="b6fe1-110">Mali by ste upozorniť stránky správcovia a všetky sub-site vlastníkov pred odstránením stránky tak, aby mohli presunúť svoje údaje na iné miesto, a tiež povedať používateľom, keď budú odstránené stránky.</span><span class="sxs-lookup"><span data-stu-id="b6fe1-110">You should notify the site admins and any sub-site owners before you delete a site so they can move their data to another location, and also tell users when the sites will be deleted.</span></span>
+<span data-ttu-id="39190-110">Pred odstránením lokality by ste mali informovať správcov lokality a všetkých vlastníkov podlokalít, aby mohli presúvať svoje údaje do iného umiestnenia a tiež informovať používateľov o odstránení lokalít.</span><span class="sxs-lookup"><span data-stu-id="39190-110">You should notify the site admins and any sub-site owners before you delete a site so they can move their data to another location, and also tell users when the sites will be deleted.</span></span>
 
-<span data-ttu-id="b6fe1-111">Ďalšie informácie nájdete v téme [Odstránenie lokality](https://docs.microsoft.com/sharepoint/delete-site-collection).</span><span class="sxs-lookup"><span data-stu-id="b6fe1-111">For more information, see [Delete a site](https://docs.microsoft.com/sharepoint/delete-site-collection).</span></span>
+<span data-ttu-id="39190-111">Ďalšie informácie nájdete v téme [Odstránenie lokality](https://docs.microsoft.com/sharepoint/delete-site-collection).</span><span class="sxs-lookup"><span data-stu-id="39190-111">For more information, see [Delete a site](https://docs.microsoft.com/sharepoint/delete-site-collection).</span></span>
