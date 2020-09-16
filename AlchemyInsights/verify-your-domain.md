@@ -1,11 +1,12 @@
 ---
-title: Overenie vašej domény
+title: Overenie domény
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710458"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734321"
 ---
-# <a name="verify-your-domain"></a>Overenie vašej domény
+# <a name="verify-your-domain"></a>Overenie domény
 
- **Záznam pravdepodobne nebol aktualizovaný cez internet.**
+ **Záznam sa pravdepodobne neaktualizoval cez internet.**
   
-To zvyčajne trvá len niekoľko minút, aby sme mohli vidieť nový rekord, ale občas to môže trvať tak dlho, ako niekoľko hodín. 
+Je to zvyčajne len pár minút, aby sme mohli vidieť nový záznam, ale občas to môže trvať aj niekoľko hodín. 
   
-- Ak ste čakali, že už dlho, Double-Skontrolujte, či ste skopírovali a vložili presnú hodnotu do TXT overovací záznam na vašom hostiteľovi DNS. Jeden spoločný problém nie je vrátane "MS =" časť záznamu. Potrebujeme, aby taky!
+- Ak ste už dlho čakali, dvakrát skontrolujte, či ste skopírovali a prilepili presnú hodnotu do záznamu na overenie TXT u svojho hostiteľa DNS. Jedným z bežných problémov nie je zahrnutie časti "MS =" záznamu. Potrebujeme to taky!
 
-- U niektorých hostiteľov DNS, musíte urobiť ďalší krok na uloženie súboru zóny (kde je uložený záznam DNS) tak, že bude aktualizovať cez internet. Uistite sa, že ste uložili zmeny, aby spoločnosť Microsoft mohla Zobraziť a overiť záznam.
+- Na niektorých hostiteľoch DNS musíte vykonať ďalší krok na uloženie súboru zóny (v ktorom je uložený DNS záznam), aby sa aktualizoval cez internet. Presvedčte sa, že ste uložili zmeny tak, aby Microsoft mohol Zobraziť a overiť záznam.

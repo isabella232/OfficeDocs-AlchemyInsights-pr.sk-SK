@@ -1,34 +1,35 @@
 ---
-title: Zmeniť obrázok konta
+title: Zmena obrázka konta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574386"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734062"
 ---
-# <a name="change-account-picture"></a>Zmeniť obrázok konta
+# <a name="change-account-picture"></a>Zmena obrázka konta
 
-Ak používate používateľské meno a heslo na prihlásenie do Windowsu 10, používate lokálne konto. **Zmena obrázka lokálneho konta**:
+Ak na prihlásenie do Windowsu 10 používate meno používateľa a heslo, používate lokálne konto. **Ak chcete zmeniť obrázok lokálneho konta**:
 
-1. Prejdite na **Štart** > **nastavenia** > **účty** > **vaše informácie**.
-2. V časti **vytvoriť obrázok**kliknite na položku **Vyhľadať jeden**. Ak má vaše zariadenie fotoaparát, kliknite na položku **kamera** a urobte si Selfie. 
-    **Poznámka**: systém Windows si pamätá posledné tri obrázky, ktoré ste použili. Kliknutím na obrázok na stránke vaše informácie prepnete na ten.
+1. Prejdite na **Start**  >  **položky spustiť nastavenia**  >  **kontá**  >  **vaše informácie**.
+2. V časti **vytvoriť obrázok**kliknite na položku **Vyhľadať jeden**. Ak máte v zariadení kameru, kliknite na položku **fotoaparát** a vyberte položku Selfie. 
+    **Poznámka**: Windows si pamätá posledné tri obrázky, ktoré ste použili. Kliknite na obrázok na stránke informácie, čím sa prepnete na ten.
 
-Ak na prihlásenie používate e-mailovú adresu a heslo, používate konto Microsoft. Zmena obrázka konta Microsoft:
+Ak sa prihlasujete pomocou e-mailovej adresy a hesla, používate konto Microsoft. Zmena obrázka konta Microsoft:
 
-1. Prihláste sa na stránke **vaše informácie** pomocou konta Microsoft.
+1. Prihláste sa na stránku s **informáciami** s kontom Microsoft.
 2. Kliknite na položku **pridať obrázok** alebo **zmeniť obrázok**a potom postupujte podľa pokynov.
 
-[Získajte ďalšie pomocné nastavenia a spravovanie konta Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Získajte ďalšiu pomoc s nastavením a spravovaním konta Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account).
