@@ -1,39 +1,40 @@
 ---
-title: Nainštalovať Power BI správa servera
+title: Inštalácia servera zostáv služby Power BI
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752390"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755110"
 ---
-# <a name="install-power-bi-report-server"></a>Nainštalovať Power BI správa servera
+# <a name="install-power-bi-report-server"></a>Inštalácia servera zostáv služby Power BI
 
-1. Nájsť umiestnenie PowerBIReportServer.exe a spustite inštalačný program.
+1. Vyhľadajte umiestnenie PowerBIReportServer.exe a spustite Inštalátor.
 
-2. Vyberte **nainštalovať Power BI správu servera**.
+2. Vyberte položku **Inštalovať server zostáv služby Power BI**.
 
-3. Vybrať vydanie nainštalovať a potom vybrať **ďalšiu**.
+3. Vyberte vydanie, ktoré chcete nainštalovať, a potom vyberte položku **ďalej**.
 
-4. Môžete buď hodnotiace alebo Developer edition z rozbaľovacieho nadol.  Inak, môžete zadať kód product key pre server, ktorý ste získali zo služby Power BI alebo objem licenčné servisné stredisko. Ďalšie informácie o tom, ako získať výrobok kľúč, uvidíte pred začnete časť. Prečítajte si a súhlasíte s licenčnými podmienkami a potom vyberte **ďalší**.
+4. Z rozbaľovacieho zoznamu si môžete vybrať z rozbaľovacieho zoznamu buď hodnotenie alebo Developer Edition.  V opačnom prípade môžete zadať kód Product Key pre server, ktorý ste získali z služby Power BI alebo z centra služieb Volume License. Ďalšie informácie o získaní kódu Product Key nájdete v časti skôr než začnete. Prečítajte si licenčné podmienky a vyjadrite súhlas s licenčnými podmienkami a potom vyberte položku **ďalej**.
 
-5. Musíte mať k dispozícii na uloženie databázy servera správy databázový Engine. Vyberte **ďalšiu** nainštalovať server správy len.
+5. Na uloženie databázy servera zostáv musíte mať k dispozícii databázový nástroj. Ak chcete nainštalovať iba server zostáv, vyberte položku **ďalej** .
 
-6. Určenie miesta inštalácie pre správu servera. Vyberte **Inštalácia** pokračovať.
+6. Zadajte umiestnenie inštalácie pre server zostáv. Pokračujte výberom položky **Install (inštalovať** ).
 
-7. Po úspešnej inštalácii, vyberte **Konfigurácia servera zostáv** pre spustenie Reporting Services Configuration Manager.
+7. Po úspešnom nastavení vyberte položku **konfigurovať server zostáv** a spustite správcu konfigurácie služieb Reporting Services.
 
-Nepotrebujete k dispozícii v čase inštalácie SQL Server Database Engine server. Budete potrebovať na konfiguráciu služby Reporting Services po inštalácii.
+Nepotrebujete server databázový stroj SQL servera dostupný v čase inštalácie. Po dokončení inštalácie budete potrebovať jeden na konfiguráciu služieb Reporting Services.
 
-Ďalšie informácie:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Ďalšie informácie: https://docs.microsoft.com/power-bi/report-server/install-report-server

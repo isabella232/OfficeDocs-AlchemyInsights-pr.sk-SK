@@ -4,20 +4,21 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 2946747bb90177549f62a22ac34dddbd5aa4316c
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571269"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754390"
 ---
 # <a name="onedrive-site-provisioning"></a>Poskytovanie lokality OneDrive
 
-Pre novovytvorené kontá, používatelia musia prihlásiť do Microsoft 365 admin Center s vlastným kontom a kliknite na ikonu OneDrive manuálne spustenie poskytovania OneDrive stránky.
-Postupujte podľa tohto [sprievodcu Riešenie problémov](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) o pomoc
+Pre novovytvorené kontá sa používatelia musia prihlásiť do centra spravovania služby Microsoft 365 s vlastným kontom a kliknutím na ikonu OneDrive manuálne spustiť poskytovanie lokality OneDrive.
+Ak potrebujete pomoc, postupujte podľa tohto [návodu na riešenie problémov](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Avšak, ak používateľ už klikli na ikonu OneDrive a jeho osobné stránky nie je poskytnutá do 24 hodín, prosím, prihláste lístok podpory pre ďalšiu pomoc.
+Ak však používateľ už klikol na ikonu OneDrive a jeho osobná lokalita sa neposkytuje v priebehu 24 hodín, prihláste lístok technickej podpory na ďalšiu pomoc.
 
