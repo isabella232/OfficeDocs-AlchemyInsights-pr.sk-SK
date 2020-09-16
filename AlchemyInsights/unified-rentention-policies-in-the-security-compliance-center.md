@@ -1,35 +1,36 @@
 ---
-title: Zjednotené politiky uchovávania údajov v Centre dodržiavania súladu & zabezpečenia
+title: Zjednotené politiky uchovávania údajov v centre zabezpečenia & dodržiavania súladu
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: d9d92e9284f34c7c1edba6af56f02ac88d3cd956
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088412"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669226"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a><span data-ttu-id="408e8-102">Zjednotené politiky uchovávania údajov v Centre dodržiavania súladu & zabezpečenia</span><span class="sxs-lookup"><span data-stu-id="408e8-102">Unified retention policies in the Security & Compliance Center</span></span>
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a><span data-ttu-id="f98d2-102">Zjednotené politiky uchovávania údajov v centre zabezpečenia & dodržiavania súladu</span><span class="sxs-lookup"><span data-stu-id="f98d2-102">Unified retention policies in the Security & Compliance Center</span></span>
 
-<span data-ttu-id="408e8-103">Politiky uchovávania údajov umožňujú spravovať obsah organizácie pomocou nastavení uchovávania a odstránenia.</span><span class="sxs-lookup"><span data-stu-id="408e8-103">Retention policies let you manage your organization's content by using retention and deletion settings.</span></span> <span data-ttu-id="408e8-104">V Centre súladu zabezpečenia služieb Office 365 & alebo v Centre súladu s predpismi spoločnosti Microsoft 365 môžete vytvoriť jednotné politiky uchovávania údajov.</span><span class="sxs-lookup"><span data-stu-id="408e8-104">You can create unified retention policies in the Office 365 Security & Compliance Center or in the Microsoft 365 Compliance Center.</span></span> 
+<span data-ttu-id="f98d2-103">Politiky uchovávania údajov umožňujú spravovať obsah vašej organizácie pomocou nastavení uchovávania a odstraňovania.</span><span class="sxs-lookup"><span data-stu-id="f98d2-103">Retention policies let you manage your organization's content by using retention and deletion settings.</span></span> <span data-ttu-id="f98d2-104">Jednotné politiky uchovávania údajov môžete vytvoriť v centre zabezpečenia & zabezpečenia služby Office 365 alebo v centre dodržiavania súladu spoločnosti Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f98d2-104">You can create unified retention policies in the Office 365 Security & Compliance Center or in the Microsoft 365 Compliance Center.</span></span> 
 
-1. <span data-ttu-id="408e8-105">V Centre [zabezpečenia & súladu](https://go.microsoft.com/fwlink/p/?linkid=2077143)vyberte položku **Uchovávanie informácií**  >  **Retention**  >  **+Vytvoriť**.</span><span class="sxs-lookup"><span data-stu-id="408e8-105">In the [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), select **Information governance** > **Retention** > **+Create**.</span></span> <br/>
-    <span data-ttu-id="408e8-106">V [Centre súladu s požiadavkami služby Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)vyberte položku **Politiky**  >  **údajov > údaje uchovávania údajov > + Nová politika uchovávania údajov.**</span><span class="sxs-lookup"><span data-stu-id="408e8-106">In the [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077149), select **Policies** > **Data > Retention > + New retention policy.**</span></span>
-2. <span data-ttu-id="408e8-107">Pridajte **meno**, **Nastavenia**a **Vyberte miesta**.</span><span class="sxs-lookup"><span data-stu-id="408e8-107">Add **Name**, **Settings**, and **Choose locations**.</span></span>
-3. <span data-ttu-id="408e8-108">Skontrolujte nastavenia a potom vyberte položku **Vytvoriť túto politiku** alebo **Uložiť na neskôr**.</span><span class="sxs-lookup"><span data-stu-id="408e8-108">Review your settings, and then select **Create this policy** or **Save for later**.</span></span>  
+1. <span data-ttu-id="f98d2-105">V [Centre zabezpečenia dodržiavania súladu &](https://go.microsoft.com/fwlink/p/?linkid=2077143)vyberte položku retenčné **riadenie informácií**  >  **Retention**  >  **+ vytvoriť**.</span><span class="sxs-lookup"><span data-stu-id="f98d2-105">In the [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), select **Information governance** > **Retention** > **+Create**.</span></span> <br/>
+    <span data-ttu-id="f98d2-106">V [centre dodržiavania súladu pre Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)vyberte položku **politiky**  >  **údajov > retenčné > + nová politika uchovávania údajov.**</span><span class="sxs-lookup"><span data-stu-id="f98d2-106">In the [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077149), select **Policies** > **Data > Retention > + New retention policy.**</span></span>
+2. <span data-ttu-id="f98d2-107">Pridajte **názov**, **nastavenia**a **Vyberte položku umiestnenia**.</span><span class="sxs-lookup"><span data-stu-id="f98d2-107">Add **Name**, **Settings**, and **Choose locations**.</span></span>
+3. <span data-ttu-id="f98d2-108">Skontrolujte nastavenia a potom vyberte položku **vytvoriť túto politiku** alebo **Uložiť na novšiu verziu**.</span><span class="sxs-lookup"><span data-stu-id="f98d2-108">Review your settings, and then select **Create this policy** or **Save for later**.</span></span>  
       
-<span data-ttu-id="408e8-109">Ďalšie podrobnosti o politikách uchovávania údajov pre obsah, ako sú e-maily pre Exchange, OneDrive, SharePoint a Tímy, nájdete v téme [Prehľad politík uchovávania údajov](https://go.microsoft.com/fwlink/?linkid=2127785).</span><span class="sxs-lookup"><span data-stu-id="408e8-109">For more details about retention policies for content such as Exchange email, OneDrive, SharePoint, and Teams content, see [Overview of retention policies](https://go.microsoft.com/fwlink/?linkid=2127785).</span></span>  
+<span data-ttu-id="f98d2-109">Ďalšie informácie o politikách uchovávania údajov pre obsah, ako je napríklad Exchange e-mail, OneDrive, SharePoint a obsah tímu, nájdete v téme [Prehľad politík uchovávania údajov](https://go.microsoft.com/fwlink/?linkid=2127785).</span><span class="sxs-lookup"><span data-stu-id="f98d2-109">For more details about retention policies for content such as Exchange email, OneDrive, SharePoint, and Teams content, see [Overview of retention policies](https://go.microsoft.com/fwlink/?linkid=2127785).</span></span>  
     
-<span data-ttu-id="408e8-110">Ak používate politiky uchovávania údajov vedľa seba v Centre spravovania pre Exchange a v Centre zabezpečenia & súladu, pozrite si toto odporúčanie na [používanie politiky uchovávania údajov namiesto starších funkcií](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).</span><span class="sxs-lookup"><span data-stu-id="408e8-110">If you are using retention policies side by side in the Exchange admin center and the Security & Compliance Center, see this recommendation to [Use a retention policy instead of older features](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).</span></span>  
+<span data-ttu-id="f98d2-110">Ak používate politiky uchovávania údajov vedľa seba v centre spravovania pre Exchange a Centre zabezpečenia dodržiavania súladu &, prečítajte si toto odporúčanie, aby sa [namiesto starších funkcií používala politika uchovávania údajov](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).</span><span class="sxs-lookup"><span data-stu-id="f98d2-110">If you are using retention policies side by side in the Exchange admin center and the Security & Compliance Center, see this recommendation to [Use a retention policy instead of older features](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).</span></span>  
     
-<span data-ttu-id="408e8-111">Konkrétne informácie o uchovávaní tímu nájdete v téme [Politiky uchovávania údajov v službe Teams](https://docs.microsoft.com/microsoftteams/retention-policies).</span><span class="sxs-lookup"><span data-stu-id="408e8-111">For specific information about Teams retention, see [Retention policies in Teams](https://docs.microsoft.com/microsoftteams/retention-policies).</span></span>
+<span data-ttu-id="f98d2-111">Konkrétne informácie o zachovaní tímov nájdete [v téme politiky uchovávania údajov v aplikácii teams](https://docs.microsoft.com/microsoftteams/retention-policies).</span><span class="sxs-lookup"><span data-stu-id="f98d2-111">For specific information about Teams retention, see [Retention policies in Teams](https://docs.microsoft.com/microsoftteams/retention-policies).</span></span>
