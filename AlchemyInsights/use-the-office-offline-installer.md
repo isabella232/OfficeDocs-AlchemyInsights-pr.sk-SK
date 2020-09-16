@@ -1,27 +1,27 @@
 ---
-title: Použitie Inštalátora balíka Office offline
+title: Použitie offline inštalátora balíka Office
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726335"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770206"
 ---
-# <a name="use-the-office-offline-installer"></a>Použitie Inštalátora balíka Office offline
+# <a name="use-the-office-offline-installer"></a>Použitie offline inštalátora balíka Office
 
-Musíte byť pripojení k internetu na stiahnutie inštalačné súbory, ale akonáhle je to hotovo, potom môžete nainštalovať Office offline na PC na vaše pohodlie pomocou nástroja Office Deployment (ODT)
+Ak chcete stiahnuť inštalačné súbory, musíte byť pripojení na internet, ale po dokončení môžete nainštalovať Office offline v PC pomocou nástroja na nasadenie balíka Office (ODT).
 
-ODT je určený pre podnikové prostredia a beží z príkazového riadku, takže kroky sú zložitejšie-ale budú stále pracovať pre inštaláciu na jednom zariadení. Pozrite si [Používanie Inštalátora balíka Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT je určený pre podnikové prostredie a spúšťa sa z príkazového čiar, takže tieto kroky budú zložitejšie – ale aj naďalej fungujú na inštaláciu v jednom zariadení. Pozrite si tému [použitie offline inštalátora balíka Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   

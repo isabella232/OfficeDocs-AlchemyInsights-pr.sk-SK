@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,25 +16,25 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
-ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
+ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43793970"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753706"
 ---
 # <a name="block-or-unblock-senders"></a>Blokovanie alebo odblokovanie odosielateľov
 
-Správy z e-mailových adries alebo domén v zozname blokovaných odosielateľov sa neprídu do poštovej schránky Outlook.com.
+Správy z e-mailových adries alebo domén v zozname blokovaných odosielateľov nebudú k dispozícii v poštovej schránke Outlook.com.
 
-**Z priečinka Doručená pošta:**
+**Z priečinka doručenej pošty:**
 
-- V zozname správ vyberte správu a potom vyberte položku **Nevyžiadaná** > **blokáda**.
+- V zozname správ vyberte správu a potom vyberte položku **Nevyžiadaná**  >  **blok**.
 
-**Z nastavenia:**
+**V časti Nastavenia:**
 
-1. Otvorte nastavenia [nevyžiadanej pošty](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. V časti **Blokované odosielatelia a domény**vyberte položku **Pridať**.
+1. Otvorte nastavenia [nevyžiadanej](https://outlook.live.com/mail/options/mail/junkEmail) pošty.
+2. V časti **Blokovaní odosielatelia a domény**vyberte položku **Pridať**.
 3. Zadajte e-mailovú adresu domény, ktorú chcete zablokovať, a stlačte kláves ENTER.
 4. Vyberte položku **Uložiť**.
 
