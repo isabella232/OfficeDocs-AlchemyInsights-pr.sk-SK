@@ -1,10 +1,11 @@
 ---
-title: Zrušenie predplatného?
+title: Rušíte svoje predplatné?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 429dfe3d66fb37a62e2355084cd30c5e4fe16e71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508175"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757351"
 ---
-# <a name="canceling-your-subscription"></a>Zrušenie predplatného?
+# <a name="canceling-your-subscription"></a>Rušíte svoje predplatné?
 
-Budeme ľutovať, že ste ísť, ale ak chcete zrušiť predplatné, tu sú vaše možnosti:
+Ľutujeme, že sa vám bude zobrazovať, ale ak chcete zrušiť predplatné, tu sú vaše možnosti:
   
-- Ak ste zákazníkom skúšobnej verzie, nie je čo zrušiť. Platnosť skúšobných predplatných uplynie automaticky, pokiaľ neposkytnete spôsob platby.
+- Ak ste skúšobným zákazníkom, nie je nič potrebné zrušiť. Platnosť predplatného na skúšobnú verziu sa automaticky skončí, pokiaľ neuvediete spôsob platby.
 
-- Ak máte menej ako 25 priradených licencií, predplatné môžete zrušiť online. Prejdite **Billing** na stránku \> **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)** V časti **Nastavenia & akcie** vyberte položku **Zrušiť predplatné**.
+- Ak máte menej ako 25 priradených licencií, môžete predplatné zrušiť online. Prejdite na stránku **Fakturácia** \> **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . V časti **nastavenia & akcie** vyberte položku **zrušiť predplatné**.
 
-- Ak máte viac ako 25 priradených licencií, môžete používateľov odstrániť, kým nebudete mať menej ako 25.
+- Ak máte viac ako 25 priradených licencií, môžete odstrániť používateľov, kým nebudete mať menej ako 25.
   
-**Vrátenie platby: Každý prorated kredit vám bude vrátený v rámci nasledujúceho fakturačného cyklu.** 
+**Refundácia: všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.** 
 
-**Poznámka**: Ak sa možnosť zrušiť, kliknite na predplatné pre zobrazenie podrobností a mali by ste vidieť **Zrušiť predplatné** možnosť v **Nastavenia & akcie**. 
+**Poznámka**: Ak sa vám nezobrazuje možnosť zrušiť, kliknutím na predplatné zobrazíte Podrobnosti a v **časti Nastavenia & akcie**by sa mala zobraziť možnosť **zrušiť predplatné** . 
 
-Ďalšie informácie nájdete v téme [Zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

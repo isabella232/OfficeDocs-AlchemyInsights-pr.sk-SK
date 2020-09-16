@@ -1,10 +1,11 @@
 ---
-title: Chytiť všetky problémy so synchronizáciou
+title: Zachytenie všetkých problémov so synchronizáciou
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 727fcdb4b206650ec42a16925a42cd208a91d8b8
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506305"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757063"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Základné riešenie problémov s programom Outlook Sync
+# <a name="basic-outlook-sync-troubleshooting"></a>Základné riešenie problémov so synchronizáciou v Outlooku
 
-Ak máte problémy so synchronizáciou, vyskúšajte nasledujúce kroky:
+Ak máte problémy so synchronizáciou, vyskúšajte tieto kroky:
 
-- Spustite [Tento diagnostický nástroj](https://aka.ms/sara-outlooksendreceive) na postihnutý stroj.
-- Znížte počet priečinkov v primárnej alebo zdieľanej poštovej schránke. Pozrite si [problémy s výkonom programu Outlook, keď existuje príliš veľa položiek alebo priečinkov v režime s vyrovnávacou pamäťou. ost alebo. pst súbor priečinok](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
-- Zakázať caching všetkých zdieľaných priečinkov.
-- Zmeniť konfiguráciu sekundárnej poštovej schránky Exchange na druhý účet Exchange vo vašom profile.
-- Uistite sa, že používateľ môže pripojiť na internet. 
-- [Skontrolujte, či ste online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
-- [Určite, či sa použije pravidlo](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Overte, či je zapnutá možnosť **prevziať zdieľané priečinky** , **Ak prejdete** > na**nastavenia konta** > **Nastavenie** > konta**Ďalšie nastavenia** > **Rozšírené**.
+- Spustite [Tento diagnostický nástroj](https://aka.ms/sara-outlooksendreceive) v dotknutom zariadení.
+- Znížte počet priečinkov v primárnej alebo zdieľanej poštovej schránke. Pozrite si tému [problémy s výkonom v Outlooku v prípade príliš veľkého počtu položiek alebo priečinkov v priečinku súborov s vyrovnávacou pamäťou. ost alebo. pst](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
+- Zakázanie ukladania do vyrovnávacej pamäte všetkých zdieľaných priečinkov.
+- Zmeňte konfiguráciu sekundárnej poštovej schránky servera Exchange na druhé konto Exchange vo svojom profile.
+- Skontrolujte, či sa používateľ môže pripojiť na internet. 
+- [Overte, či ste online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
+- [Zistite, či sa použije pravidlo](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
+- Overte, či je možnosť **Stiahnuť zdieľané priečinky** zapnutá, keď prejdete na položky Nastavenie konta v nastaveniach **kont**  >  **Account Settings**  >  **Account Settings**  >  **Ďalšie**  >  **Rozšírené**nastavenia.
