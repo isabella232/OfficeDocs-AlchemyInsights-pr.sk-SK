@@ -1,31 +1,32 @@
 ---
-title: Konfigurácia dohľadu
+title: Konfigurácia dozoru
 ms.author: robmazz
 author: robmazz
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507781"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807530"
 ---
 # <a name="configure-supervision-policies"></a>Konfigurácia politík dohľadu
 
-Politiky dohľadu v systéme Microsoft 365 umožňujú monitorovať komunikáciu v službe Exchange, Skype for Business Online, Microsoft Teams a komunikáciu tretej strany odosielanú v rámci organizácie aj mimo nej. Určení recenzenti môžu preskúmať monitorované správy, aby sa uistili, že sú v súlade s pravidlami vašej organizácie, riadením rizík a normami súladu s predpismi, a vyriešiť ich s typom klasifikácie.
+Politiky dohľadu v službe Microsoft 365 vám umožňujú sledovať e-maily Exchange, Skype for Business online, Microsoft teams a tretej strany, ktoré sa odosielajú v rámci organizácie aj mimo nej. Určení Recenzenti môžu preskúmať sledované správy, aby boli v súlade s politikou vašej organizácie, riadením rizík a normami dodržiavania súladu s predpismi a vyriešili ich pomocou typu klasifikácie.
 
-Ak chcete vo vašej organizácii používať politiky dohľadu, musíte:
+Ak chcete používať politiky dohľadu vo vašej organizácii, musíte:
 
-- Určiť komunikáciu sledovať.
-- Rozhodnite sa, kto vykoná kontrolu komunikácie.
-- Nastavenie politiky dohľadu
+- Určenie komunikácie na sledovanie.
+- Rozhodnite sa, kto bude vykonávať kontrolu komunikácie.
+- Politiky dohľadu nad nastavením
 
 zistiť viac:
 
