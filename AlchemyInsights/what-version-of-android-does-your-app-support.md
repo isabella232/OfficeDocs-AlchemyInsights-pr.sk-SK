@@ -5,37 +5,38 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a4c2b4a58a2688ea8c968970f0aee4264eb939d9
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409215"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773070"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Akú verziu Androidu podporuje vaša aplikácia?
 
-Pre najlepší výkon, naša aplikácia funguje na akomkoľvek zariadení s operačným systémom Android verzie 5,0 a vyššie.
+Ak chcete najlepšie výsledky, naša aplikácia funguje v ľubovoľnom zariadení s Androidom verzie 5,0 a novším.
 
-Ak máte aktuálne informácie o OS Android, ale stále dostávate oznámenia o tom, že operačný systém nie je kompatibilný so zariadením, pokúste sa vymazať vyrovnávaciu pamäť a údaje v aplikácii Obchod Play.
+Ak sa nachádzate v OPERAČNom systéme Android, ale stále prijímate oznámenia o tom, že operačný systém nie je kompatibilný s vaším zariadením, skúste vymazať vyrovnávaciu pamäť a údaje aplikácie Obchod Play.
 
 Postupujte takto: 
 
-1. V telefóne alebo tablete s Androidom Otvorte **nastavenia** a potom **aplikácie** alebo **aplikácie**.
+1. V telefóne alebo tablete s Androidom otvorte položku **Nastavenie** a potom položku **aplikácie** alebo **aplikácie**.
 
-2. V hornej časti obrazovky ťuknite na položku **viac** (môže to byť aj elipsa alebo tri zvislé bodky) a potom **Zobraziť systém**. 
+2. V hornej časti obrazovky ťuknite na položku **viac** (môže to byť aj tri bodky alebo tri zvislé bodky) a potom **Zobraziť systém**. 
 
-3. Posuňte sa nadol a klepnite na položku **služby Google Play**. 
+3. Posuňte sa nadol a ťuknite na položku **služby Google Play**. 
 
-4. Ťuknite na položku **úložisko** a potom **vymažte vyrovnávaciu pamäť**. 
+4. Ťuknite na položku **ukladací priestor** a potom na položku **Vymazať vyrovnávaciu pamäť**. 
 
-5. Klepnite na položku **Spravovať priestor** a potom **vymažte všetky údaje**. 
+5. Ťuknite na položku **Spravovať miesto** a potom **zrušte začiarknutie všetkých údajov**. 
 
 6. Otvorte **Obchod Google Play**. 
 
-7. Počkajte 5 minút a potom to skúste znova. 
+7. Počkajte 5 minút a skúste to znova. 

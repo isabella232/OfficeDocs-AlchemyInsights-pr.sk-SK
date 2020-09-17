@@ -1,35 +1,36 @@
 ---
-title: Správa balíka Office – produkty, ktoré sme našli vo vašom konte, nie je možné použiť na aktiváciu
+title: Správa balíka Office – produkty nájdené vo vašom konte nemožno použiť na aktiváciu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: a3996d97af29c56fc500a8624515bade49d7d056
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 857118b1c97a2971ff8ec6a055ae16efeb47a5ce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581926"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773358"
 ---
-# <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Správa Oprava aplikácie Microsoft 365 "Produkty, ktoré sme našli vo vašom konte, sa nedá použiť na aktiváciu"
+# <a name="fixing-the-microsoft-365-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Oprava aplikácií Microsoft 365 "produkty nájdené vo vašom konte nemožno použiť na aktiváciu" správy
 
-Ak sa zobrazí toto hlásenie, vyskúšajte nasledujúci postup:
+Ak sa zobrazí toto hlásenie, vyskúšajte tieto kroky:
 
-- Skontrolujte [stránku Stav služby](https://docs.microsoft.com/office365/enterprise/view-service-health) a zistite, či sa v službe nevyskytli známe problémy.
+- Ak chcete zistiť, či sa v službe vyskytli nejaké známe problémy, pozrite si [stránku stav služby](https://docs.microsoft.com/office365/enterprise/view-service-health) .
 - Skontrolujte, či [stav predplatného](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) je platný a či príslušný používateľ má [priradenú platnú licenciu](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC) a je pripojený na internet. 
-- Pozrite si [časť Chyba balíka Office "Produkty, ktoré sme našli vo vašom konte, sa nedajú použiť na aktiváciu"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e).
-- Otvorte aplikáciu balíka Office, vyberte položku **Konto súboru**a  >  **Account**odhláste sa zo všetkých kont. Znova sa prihláste pomocou používateľského konta s platnou licenciou. Podrobné informácie sa nachádzajú v téme [Kontá v balíku Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
+- Pozrite si tému [chyba balíka Office "produkty nájdené vo vašom konte nemožno použiť na aktiváciu"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e).
+- Otvorte aplikáciu balíka Office, vyberte **File**položku  >  **konto**súboru a odhláste sa zo všetkých kont. Znova sa prihláste pomocou používateľského konta s platnou licenciou. Podrobné informácie sa nachádzajú v téme [Kontá v balíku Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
 - Spustite [Poradcu pri riešení problémov s aktiváciou](https://aka.ms/SARA-OfficeActivation-Alchemy) a reštartujte počítač.
-- Na postihnuté ho [zariadenia, obnoviť stav aktivácie balíka Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+- V dotknutom počítači [obnovte stav aktivácie balíka Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Scenáre zdieľaného počítača nájdete v téme [Riešenie problémov so zdieľanou aktiváciou počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation).
+Scenáre zdieľaného počítača nájdete v téme [Riešenie problémov s aktiváciou zdieľaného počítača pre aplikácie Microsoft 365 pre podniky](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation).
 
 Ďalšie informácie nájdete v téme: 
 - [Po otvorení aplikácie Microsoft 365 sa zobrazí upozornenie na predplatné](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)

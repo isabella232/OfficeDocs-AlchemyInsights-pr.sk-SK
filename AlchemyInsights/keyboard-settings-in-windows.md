@@ -1,29 +1,30 @@
 ---
-title: 'Nastavenie klávesnice vo Windowse 10 '
+title: 'Nastavenia klávesnice vo Windowse 10 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 0359163206ef9ddf0bac7b0ee4b44ed3a016f918
-ms.sourcegitcommit: 4c64a8974c87fa69babaf920b0895f0c17c2d346
+ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415378"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772818"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Nastavenie klávesnice vo Windowse 10
+# <a name="keyboard-settings-in-windows-10"></a>Nastavenia klávesnice vo Windowse 10
 
-**Nastavenie typu**
+**Typ nastavenia**
 
-Ak chcete zmeniť nastavenia systému Windows týkajúce sa kontroly pravopisu, automatickej korekcie, návrhov a ďalších aspektov hardvéru a dotykovej klávesnice, prejdite do ponuky **nastavenia > zariadenia > písanie**. 
+Ak chcete zmeniť nastavenia Windowsu súvisiace s kontrolou pravopisu, automatickými opravami, návrhmi a ďalšími aspektmi hardvéru a dotykovej klávesnice, prejdite na **položky nastavenia > zariadenia > písanie**. 
 
-**Nastavenia jazyka a klávesnice**
+**Nastavenie jazyka a klávesnice**
 
-Ak chcete zmeniť nastavenia týkajúce sa klávesnice alebo metódy vstupu, ktoré sa majú použiť pre jazyk systému Windows, prejdite na **položky nastavenie > čas & jazyk > jazyk**. V zozname **preferované jazyky** vyberte položku jazyky a kliknite na položku **Možnosti** na pridanie alebo odstránenie klávesníc alebo vstupných metód (IME).
+Ak chcete zmeniť nastavenia, ktoré súvisia s klávesnicou alebo metódou vstupu, ktorú chcete použiť pre jazyk Windowsu, prejdite na **položky nastavenia > času & jazyk > Language**. Vyberte položku jazyky v zozname **preferované jazyky** a kliknite na položku **Možnosti** , ak chcete pridať alebo odstrániť klávesnice alebo metódy vstupu (IME).
