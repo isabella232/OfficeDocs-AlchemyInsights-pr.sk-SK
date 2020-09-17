@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 2cb95fc0c202d4bbec361531b8234a50bbdcfa2a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738548"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801343"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Odstránenie konta v systéme Windows 10
+# <a name="remove-an-account-in-windows-10"></a>Odstránenie konta vo Windowse 10
 
-Postup odstránenia konta zo systému Windows 10:
+Tu je návod na odstránenie konta z Windowsu 10:
 
-1. Prejdite do **ponuky Štart** > **nastavenia** > **** > **rodiny & ostatní ľudia** (alebo **iní ľudia**, ak používate Windows 10 Enterprise).
+1. Ak používate **Start**  >  Windows 10 Enterprise, prejdite na**položky spustiť nastavenie**  >  **konta**  >  v**skupine & ostatných ľudí** (alebo **iných ľudí**.
 2. Vyberte konto, ktoré chcete odstrániť, vyberte položku **odstrániť**a potom vyberte položku **odstrániť konto a údaje**.
  
-**Poznámka:** Nemôžete odstrániť konto, do ktorého ste aktuálne prihlásený/-á.  Ak potrebujete nahradiť účet, do ktorého ste prihlásený/-á:
+**Poznámka:** Konto, na ktoré ste momentálne prihlásení, nie je možné odstrániť.  Ak potrebujete nahradiť konto, na ktoré ste sa prihlásili:
 
-1. Pridať nové používateľské konto.
-2. Vytvoriť nové používateľské konto správcu v počítači.
-3. Odstráňte staré používateľské konto. Keď odstránite používateľské konto, natrvalo stratíte všetky nastavenia, súbory a údaje priradené k danému používateľovi. [Ak chcete zálohovať všetko, čo chcete uložiť, postupujte podľa týchto krokov](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).
+1. Pridajte nové používateľské konto.
+2. Nastavenie nového používateľského konta správcu v počítači.
+3. Odstráňte staré používateľské konto. Po odstránení používateľského konta natrvalo stratíte všetky nastavenia, súbory a údaje priradené k danému používateľovi. [Ak chcete zálohovať všetko, čo by ste chceli uložiť, postupujte podľa týchto krokov](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).

@@ -1,23 +1,24 @@
 ---
-title: Riešenie problémov s odovzdaním súborov do OneDrivu alebo SharePointu
+title: Riešenie problémov s nahrávaním súborov do OneDrivu alebo SharePointu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: fffcd6754d98b0de1a43894d76b996a451ca6d77
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: b4b4e1e3603d7a2758c027c957961ae2651fbfe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44283084"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800119"
 ---
-# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Riešenie problémov s odovzdaním súborov do OneDrivu alebo SharePointu
+# <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Riešenie problémov s nahrávaním súborov do OneDrivu alebo SharePointu
 
-Prečítajte si, ako [nahrať súbory do OneDrivu](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a). 
+Zistite, ako [nahrať súbory do služby OneDrive](https://support.office.com/article/upload-and-save-files-and-folders-to-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a). 

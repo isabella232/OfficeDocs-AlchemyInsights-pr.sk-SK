@@ -1,28 +1,29 @@
 ---
-title: Režim Microsoft Teams Together
+title: Režim spolupráce v aplikácii Microsoft teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: 1738a21ea98f4c3c8a6a244492850a87c39441de
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198324"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799867"
 ---
-# <a name="microsoft-teams-together-mode"></a>Režim Microsoft Teams Together
+# <a name="microsoft-teams-together-mode"></a>Režim spolupráce v aplikácii Microsoft teams
 
-Režim spolu spája desaťročia výskumu a vývoja produktov pre účastníkov videohovoru, aby sa zdal byť spolu vo virtuálnom priestore, ako je sála, zasadacia miestnosť alebo kaviareň. 
+Režim spoločne kombinuje desaťročia výskumu a vývoja produktov, aby sa účastníci na videohovor zobrazovali spolu vo virtuálnom priestore, ako je napríklad hlediště, konferenčná miestnosť alebo kaviareň. 
 
-Nová funkcia priekopy tradičné mriežky krabíc, vytvára prostredie, ktoré používatelia hovoria, má hlboký vplyv na pocit video konferencie a poskytuje väčšiu súdržnosť pre skupinu. Ďalšie informácie o režime Spolu nájdete v téme [Ako vyťažiť maximum z režimu Spolu](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Nová funkcia zatvorí tradičnú mriežku polí, čím sa vytvára prostredie, v ktorom používatelia hovoria, že má hlboký vplyv na pocit videokonferencie a poskytuje väčšiu súdržnosť skupine. Ak sa chcete dozvedieť viac o režime spoločne, prečítajte si tému [ako čo najlepšie využiť režim spoločne](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
 
-Ďalšie informácie o tom, kedy bude pre vašu organizáciu k dispozícii režim Spolu, nájdete v téme Plán služby Microsoft 365, [Microsoft Teams - Režim Spolu](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Ďalšie informácie o tom, kedy bude pre vašu organizáciu k dispozícii režim pre spoluprácu, nájdete v téme plán Microsoft 365, [režim Microsoft teams-spoločne](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
