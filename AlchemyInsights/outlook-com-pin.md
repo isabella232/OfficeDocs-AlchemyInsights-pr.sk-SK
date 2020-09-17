@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 5b859967d9336306b4b0a4879a7ffd5bee24f7a5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744898"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798211"
 ---
-# <a name="change-your-pin"></a>Zmena kódu PIN
+# <a name="change-your-pin"></a>Zmena PIN kódu
 
-Outlook.com nepoužíva PIN kód, ale môžete sa prihlásiť do počítača pomocou kódu PIN alebo Windows Hello. Zmena kódu PIN v systéme Windows 10:
+Outlook.com nepoužíva PIN kód, ale môžete sa prihlásiť do počítača pomocou PIN kódu alebo Windows Hello. Postup pri zmene PIN kódu vo Windowse 10:
 
-1. Vyberte tlačidlo Štart alebo stlačte kláves Windows na klávesnici a **potom vyberte** > **Accounts** > **Možnosti prihlásenia**kont.
-2. Vyberte tlačidlo **zmeniť** pod **kódom PIN**.
-3. Zadajte aktuálny kód PIN a potom zadajte a potvrďte nový kód PIN pod ním.
+1. Vyberte tlačidlo Štart alebo stlačte kláves s logom Windows na klávesnici a potom vyberte položku **nastavenia**  >  **kont**  >  **– Možnosti prihlásenia**.
+2. Vyberte tlačidlo **zmeniť** v časti **PIN**.
+3. Zadajte svoj aktuálny PIN kód a pod ním zadajte a potvrďte nový PIN kód.
 
-[Prečítajte si viac o Windows Hello.](https://support.microsoft.com/help/17215/)
+[Prečítajte si ďalšie informácie o Windows Hello.](https://support.microsoft.com/help/17215/)

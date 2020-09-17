@@ -1,9 +1,10 @@
 ---
-title: Odporúčané riešenia na synchronizáciu na strane servera Dynamics Server
+title: Riešenie problémov so synchronizáciou na strane servera Dynamics
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36745484"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797923"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Odporúčané riešenia na strane servera Dynamics Server
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Riešenie problémov so synchronizáciou na strane servera Dynamics
 
-* [Ako zobraziť podrobnú chybu servera zobrazenú na mojom portáli](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Zobrazenie podrobnej chyby servera zobrazenej na mojom portáli](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Ako obnoviť portál](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Obnovenie portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Ako vymazať vyrovnávaciu pamäť na strane servera pre portál](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Vymazanie vyrovnávacej pamäte na strane servera pre portál](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Ako zmeniť publikum a typ portálu Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Ako zmeniť cieľovú skupinu a typ portálu Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Ako zmeniť základnú adresu URL portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Zmena základnej URL adresy portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Konfigurácia externého poskytovateľa identity s portálom](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Konfigurovanie externého poskytovateľa identity s portálom](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Najčastejšie otázky](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Začíname pracovať s portálom My Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Začíname s portálom Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
