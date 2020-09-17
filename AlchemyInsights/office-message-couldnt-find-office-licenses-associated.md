@@ -1,24 +1,25 @@
 ---
-title: Správa aplikácií microsoft 365 – nepodarilo sa nájsť priradené licencie balíka Office
+title: Správa aplikácie Microsoft 365 – nemohla sa nájsť priradená licencia balíka Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581666"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802792"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Správa aplikácií microsoft 365 – nepodarilo sa nájsť priradené licencie balíka Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Správa aplikácie Microsoft 365 – nemohla sa nájsť priradená licencia balíka Office
 
 Ak chcete vyriešiť túto chybu, vyskúšajte nasledovný postup:
 
@@ -38,10 +39,10 @@ Ak problém pretrváva, vyskúšajte tento postup:
 
 - Resetujte stav aktivácie balíka Office. Pozrite si tému [Resetovanie stavu aktivácie služby Aplikácie Microsoft 365 pre veľké organizácie](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Skontrolujte nastavenia brány firewall, antivírusového softvéru a servera proxy, aby ste potvrdili, že neblokujú prístup aplikácií Microsoft 365 na Internet. 
+- Skontrolujte, či je brána firewall, antivírusový softvér a nastavenie servera proxy na potvrdenie, že neblokujú prístup aplikácií Microsoft 365 na internet. 
 
 Ďalšie riešenie problémov nájdete v téme:
 
 [Chyba produktu bez platnej licencie a chyba aktivácie v Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Adresy URL a rozsahy adries IP od spoločnosti Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[URL adresy a rozsahy IP adries pre Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

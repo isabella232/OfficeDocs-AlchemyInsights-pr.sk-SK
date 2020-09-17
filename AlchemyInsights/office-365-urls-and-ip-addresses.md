@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 adresy URL a adresy IP
+title: URL adresy a IP adresy pre Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 27a4781458e3d22b7bc69a007680e43c3c45f8d3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 5d7bdac820a29496d375259f3d64e0c2fa21728a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787853"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803008"
 ---
-# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 adresy URL a rozsahy adries IP
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>URL adresy a rozsahy IP adries pre Microsoft 365
 
-Microsoft 365 vyžaduje pripojenie na Internet prostredníctvom špecifických adries IP nazývaných *koncové body*.
-Zoznam koncových bodov, ktoré je potrebné dosiahnuteľné, nájdete v téme [Microsoft 365 adresy URL a rozsahy adries IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+Microsoft 365 vyžaduje pripojenie na Internet prostredníctvom konkrétnych IP adries s názvom *koncové body*.
+Zoznam koncových bodov, ktoré je potrebné dosiahnuteľné, nájdete v téme [URL adresy a rozsahy IP adries v službách Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-Microsoft 365 IP adresa a URL webová služba vám pomôže lepšie identifikovať a odlíšiť Microsoft 365 sieťovej prevádzky, uľahčuje vám hodnotiť, konfigurovať a zostať aktuálne so zmenami. Pozrite si [Microsoft 365 adresu IP a URL webovej služby](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
+IP adresa a webová služba Microsoft 365 vám pomáha lepšie identifikovať a rozlišovať sieťové prenosy Microsoft 365, vďaka čomu môžete jednoduchšie vyhodnotiť, konfigurovať a aktualizovať zmeny. Pozrite si tému [IP adresa a webová služba spoločnosti Microsoft 365](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
