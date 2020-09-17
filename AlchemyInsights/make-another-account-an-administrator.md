@@ -1,29 +1,30 @@
 ---
-title: Vytvorenie iného konta správcu
+title: Vytvorenie iného konta správcom
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 060492f0792caa34de872ccd97b27006ff172ba0
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738443"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794709"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Zmena štandardného používateľského konta na správcu v systéme Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Zmena štandardného používateľského konta na správcu vo Windowse 10
 
-Tu je postup, ako zmeniť štandardné používateľské konto na správcu v systéme Windows 10:
+Tu je postup, ako zmeniť štandardné používateľské konto na správcu vo Windowse 10:
 
-1. Prejdite do **ponuky Štart** > **nastavenia** > **** > **rodiny & ostatní ľudia** (alebo **iní ľudia**, ak používate Windows 10 Enterprise).
-2. Vyberte účet, v ktorom chcete vytvoriť správcu, a vyberte položku **zmeniť účet**.
+1. Ak používate **Start**  >  Windows 10 Enterprise, prejdite na**položky spustiť nastavenie**  >  **konta**  >  v**skupine & ostatných ľudí** (alebo **iných ľudí**.
+2. Vyberte konto, ktoré chcete nastaviť ako správca, a vyberte položku **zmeniť konto**.
 3. V časti **Typ konta**vyberte položku **správca**a potom kliknite na **tlačidlo OK**.
 
 **Poznámka:** Kontá môžete zmeniť iba na správcu z existujúceho konta správcu.

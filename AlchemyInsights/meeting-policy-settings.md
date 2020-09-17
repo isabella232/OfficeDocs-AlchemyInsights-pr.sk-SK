@@ -1,34 +1,35 @@
 ---
-title: Nastavenie politiky schôdzí
+title: Nastavenie politiky schôdze
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042859"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794349"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Správa politík schôdzí v programe Microsoft teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Správa politík schôdze v aplikácii Microsoft teams
 
-**Poznámka: môže trvať až 24 hodín, kým sa zmeny politiky prejavia pre používateľov.** Pravdepodobne nebudete môcť okamžite vykonať zmeny novovytvorených politík. Počkajte 4 hodiny a pokúste sa znova upraviť novovytvorenú politiku.
+**Poznámka: Ak chcete, aby sa zmeny politiky prejavili pre používateľov, môže trvať až 24 hodín.** Možno nebudete môcť okamžite vykonávať zmeny v novovytvorených politikách. Počkajte 4 hodiny a pokúste sa znova upraviť novo vytvorenú politiku.
 
-Politiky schôdzí sa používajú na ovládanie funkcií, ktoré sú k dispozícii účastníkom schôdze, ktoré sú naplánované používateľmi vo vašej organizácii. Niektoré funkcie politiky schôdzí nemusia byť implementované v tíme admin Center zatiaľ (tieto sú označené "pripravujeme" v dokumentácii). V tomto prípade, alebo ak ste získali chybu ako "nemôžeme aktualizovať politiku práve teraz, ale skúste to znova neskôr" v Microsoft teams admin Center, odporúčame použiť PowerShell vytvoriť alebo upraviť tímy stretnutia politiky. 
+Politiky schôdze sa používajú na ovládanie funkcií, ktoré sú k dispozícii účastníkom schôdze pre schôdze, ktoré naplánovali používatelia vo vašej organizácii. Niektoré funkcie politík schôdze sa nemusia implementovať v centre spravovania pre Teams (tieto sú označené ako čoskoro v dokumentácii). V tomto prípade alebo ak sa zobrazuje chybové hlásenie "momentálne nemôžeme aktualizovať politiku, ale skúste to znova neskôr" v centre spravovania služieb Microsoft Teams, odporúčame použiť prostredie PowerShell na vytvorenie alebo úpravu politík schôdze v aplikácii teams. 
 
-Ďalšie informácie o politikách schôdzí nájdete v nasledujúcich zdrojoch informácií:
+Ďalšie informácie o politikách schôdze nájdete v týchto zdrojoch informácií:
 
-- Informácie o vytváraní politík, vykonaní zmien a priraďovaní používateľov k politike nájdete [v téme Spravovanie politík schôdzí v tímoch](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Ďalšie informácie o vytváraní politík, vykonávaní zmien a priradení používateľov k politike nájdete [v téme Správa politík schôdze v aplikácii teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-- Ak chcete vykonať zmeny politiky pomocou rutiny cmdlet prostredia PowerShell, pozrite si [Prehľad tímov PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Musíte použiť [Skype Business PowerShell modul](https://www.microsoft.com/download/details.aspx?id=39366) pre tímy schôdze politiky. 
-    - Skontrolujte [*-csteamsmeetingpolicy rutiny cmdlet dokumentáciu](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) pre viac informácií.
+- Ak chcete vykonať zmeny politiky pomocou rutiny typu cmdlet prostredia PowerShell, pozrite si tému [Prehľad tímov PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Na politiku schôdze v aplikácii teams musíte použiť [modul PowerShell pre Skype for Business](https://www.microsoft.com/download/details.aspx?id=39366) . 
+    - Ďalšie informácie nájdete v [dokumentácii k rutine cmdlet *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
 
