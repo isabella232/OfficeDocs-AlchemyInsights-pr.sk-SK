@@ -1,11 +1,12 @@
 ---
-title: Stav Outlook.com sa vždy zobrazuje ako dostupný
+title: Stav Outlook.com vždy zobrazuje, ako je k dispozícii
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743468"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777020"
 ---
-# <a name="my-status-always-shows-as-available"></a><span data-ttu-id="47a90-102">Môj stav sa vždy zobrazuje ako dostupný</span><span class="sxs-lookup"><span data-stu-id="47a90-102">My status always shows as Available</span></span>
+# <a name="my-status-always-shows-as-available"></a><span data-ttu-id="aa8f7-102">Môj stav vždy zobrazuje, ako je k dispozícii</span><span class="sxs-lookup"><span data-stu-id="aa8f7-102">My status always shows as Available</span></span>
 
-<span data-ttu-id="47a90-103">Zakaždým, keď sa prihlásite do Outlook.com, stav vášho účtu sa obnoví na dostupné.</span><span class="sxs-lookup"><span data-stu-id="47a90-103">Each time you sign in to Outlook.com, your account status will be reset to Available.</span></span> <span data-ttu-id="47a90-104">Môžete zabrániť zmene stavu tým, že sa neprihlásite z Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="47a90-104">You can prevent your status from changing by not signing out of Outlook.com.</span></span> <span data-ttu-id="47a90-105">Ak chcete zostať prihlásený pri zatváraní prehliadača, začiarknite políčko **ma** prihlásiť na prihlasovacej stránke Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="47a90-105">To stay signed in when closing your browser, select the **Keep me signed in** box on the Outlook.com sign-in page.</span></span>
+<span data-ttu-id="aa8f7-103">Pri každom prihlásení do Outlook.com sa stav vášho konta obnoví k dispozícii.</span><span class="sxs-lookup"><span data-stu-id="aa8f7-103">Each time you sign in to Outlook.com, your account status will be reset to Available.</span></span> <span data-ttu-id="aa8f7-104">Môžete zabrániť tomu, aby sa váš stav menil tým, že sa neprihlásite z Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="aa8f7-104">You can prevent your status from changing by not signing out of Outlook.com.</span></span> <span data-ttu-id="aa8f7-105">Ak chcete zostať prihlásení pri zatváraní prehliadača, začiarknite políčko **Chcem** sa prihlásiť na stránke prihlásenia na Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="aa8f7-105">To stay signed in when closing your browser, select the **Keep me signed in** box on the Outlook.com sign-in page.</span></span>
