@@ -1,25 +1,26 @@
 ---
-title: Čo je AutoSave
-ms.author: chrsm
-author: chrsm
+title: Čo je automatické ukladanie
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 63573912b4beb290a0289c53ccd543271c19a76a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 36e4b57d518010c8a77bba5dd3828fe26178d20e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714237"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783530"
 ---
-# <a name="what-is-autosave"></a>Čo je AutoSave?
+# <a name="what-is-autosave"></a>Čo je automatické ukladanie?
 
-AutoSave je funkcia k dispozícii v programe Excel, Word a PowerPoint pre Microsoft 365 predplatiteľov, ktorý ukladá váš súbor automaticky, každých pár sekúnd, pri práci. 
+Automatické ukladanie je funkcia, ktorá je k dispozícii v Exceli, Worde a PowerPointe pre predplatiteľov Microsoft 365, ktorí automaticky ukladajú váš súbor každých niekoľko sekúnd počas práce. 
 
-Často kladené otázky nájdete v téme [čo je automatické ukladanie?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+Najčastejšie otázky nájdete v téme [čo je automatické ukladanie?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
