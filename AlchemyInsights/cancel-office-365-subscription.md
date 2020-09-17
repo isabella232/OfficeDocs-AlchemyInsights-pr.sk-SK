@@ -6,26 +6,27 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b53dc3017cb2a47b25e5c603dcbc5e76fb8dc675
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508319"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811872"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>Zrušenie predplatného na Microsoft 365?
+# <a name="cancelling-your-microsoft-365-subscription"></a>Rušíte svoje predplatné na Microsoft 365?
 
-Je nám ľúto, že ste sa chceli ísť, ale tu sú vaše možnosti zrušenia predplatného:
+Ľutujeme, že sa vám zobrazuje, ale tu sú vaše možnosti na zrušenie predplatného:
   
-- Ak ste zákazníkom skúšobnej verzie, nie je čo zrušiť. Platnosť skúšobných predplatných uplynie automaticky, pokiaľ neposkytnete spôsob platby.
+- Ak ste skúšobným zákazníkom, nie je nič potrebné zrušiť. Platnosť predplatného na skúšobnú verziu sa automaticky skončí, pokiaľ neuvediete spôsob platby.
 
-- Ak máte menej ako 25 priradených licencií, predplatné môžete zrušiť online. Prejdite do **časti** \> **[Fakturácia produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)**. V časti **Nastavenia & akcie** vyberte položku **Zrušiť predplatné**.
+- Ak máte menej ako 25 priradených licencií, môžete predplatné zrušiť online. Prejdite na položky **Fakturácia** \> **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)**. V časti **nastavenia & akcie** vyberte položku **zrušiť predplatné**.
 
-- Ak máte viac ako 25 priradených licencií, môžete používateľov buď odstrániť, kým nebudete mať menej ako 25, alebo použijete možnosť "Zavoláme vám" a porozprávajte sa s inžinierom technickej podpory.
+- Ak máte viac ako 25 priradených licencií, môžete odstrániť používateľov, až kým nebudete mať menej ako 25 rokov, alebo môžete použiť možnosť zavoláme vám a porozprávať sa s pracovníkom technickej podpory.
 
-Ďalšie informácie nájdete v téme [Zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

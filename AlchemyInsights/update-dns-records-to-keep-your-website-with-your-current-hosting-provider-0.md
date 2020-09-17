@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699534"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815800"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aktualizujte DNS záznamy, aby ste mali webovú lokalitu so súčasným poskytovateľom hostiteľských služieb.
 
-1. V centre spravovania služby Microsoft 365 prejdite na stránku **Nastavenie**  >  [domén](https://portal.office.com/adminportal/home#/Domains) a v zozname domén vyberte doménu, ktorú používate pre svoju webovú lokalitu.
+1. V centre spravovania služby Microsoft 365 prejdite na stránku **Nastavenie**  >  [domén](https://admin.microsoft.com/Adminportal#/Domains) a v zozname domén vyberte doménu, ktorú používate pre svoju webovú lokalitu.
 
 2. Vyberte položku **+ nový vlastný záznam** a zadajte tieto možnosti:
 
