@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677005"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236140"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problémy s prihlásením do aplikácií Microsoft 365
 
@@ -25,6 +25,8 @@ Ak chcete vyriešiť problémy s prihlasovaním do aplikácií Microsoft 365, vy
 
 - Informácie [o riešení bežných problémov s prihlásením](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues) nájdete v téme odporúčania pre Windows
 - Ak máte Mac, pozrite si tému  [Nemôžem sa prihlásiť do aplikácie balíka Office 2016 pre Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Tip** V počítačoch s Windowsom môžeme diagnostikovať a automaticky opraviť niekoľko bežných problémov s prihlasovaním do balíka Office. Stiahnite a spustite nástroj  **[Microsoft Support and Recovery Assistant a](https://aka.ms/SaRA-OfficeSignInScenario)** použite náš automatizovaný nástroj.
 
 **Poznámka:** Vypnutie moderného overovania (ADAL) alebo správy webového konta (WAM) na riešenie problémov s prihlasovaním alebo aktiváciou  **sa neodporúča**. Ak sa pri pripájaní k službe Microsoft 365 pomocou balíka Office 2013 vyskytnú chyby, zabezpečte, aby ste [povolili moderné overovanie](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  pre klienta balíka Office.
 
