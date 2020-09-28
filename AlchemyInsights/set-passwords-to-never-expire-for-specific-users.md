@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795583"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295621"
 ---
 # <a name="set-passwords-to-never-expire"></a>Nastavenie neplatnosti hesiel
 
-Ak chcete nastaviť, aby sa všetky heslá neskončili, v centre spravovania služieb Microsoft 365 prejdite na stránku **Nastavenie**  >  [ &amp; ochrany osobných údajov zabezpečenia](https://portal.office.com/adminportal/home#/settings/security) . Vyberte položku **Upraviť** vedľa položky **Politika hesiel**a zapnite jazdec na možnosť **zapnuté**.
+Ak chcete nastaviť, aby sa všetky heslá neskončili, v centre spravovania služieb Microsoft 365 prejdite na položku **nastavenia**  >  **organizácie nastavenia >  >  [politiku uplynutia platnosti hesla](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) [zabezpečenia a ochrany osobných údajov](https://portal.office.com/adminportal/home#/settings/security)** a zrušte začiarknutie políčka nastaviť heslá používateľov na uplynutie platnosti po niekoľkých dňoch.
   
-Podrobnejšie informácie nájdete v témach: 
+Podrobnejšie informácie nájdete v témach:
 
 - [Nastavte politiku uplynutia platnosti hesla pre vašu organizáciu.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
