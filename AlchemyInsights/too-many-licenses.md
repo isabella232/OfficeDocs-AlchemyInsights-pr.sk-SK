@@ -2,7 +2,7 @@
 title: Príliš veľa licencií?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736042"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307249"
 ---
 # <a name="too-many-licenses"></a>Príliš veľa licencií?
 
@@ -28,9 +28,9 @@ Ak si myslíte, že sa vám účtujú príliš veľa licencií, zvyčajne je to 
 **Zmenšenie počtu zakúpených licencií**
   
 1. V centre spravovania prejdite na stránku **Fakturácia** \> **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+2. Na karte **produkty** vyberte predplatné, ktoré chcete zmeniť.
+3. Na stránke Podrobnosti predplatného vyberte položku **odstrániť licencie**.
+4. Na table **odobrať licencie** zadajte do poľa **nové množstvo** v časti **celkové licencie** celkový počet licencií, ktoré chcete pre toto predplatné. Ak máte napríklad licencie na 100 a chcete z nich odstrániť 25, zadajte 75.
+5. Vyberte položku **Uložiť**.
 
-2. Vyhľadajte predplatné, z ktorého chcete odstrániť licencie, a potom vyberte položku **Pridať alebo odstrániť licencie**.
-
-3. Do poľa **celkové licencie** zadajte celkový počet licencií, ktoré potrebujete pre toto predplatné, a potom vyberte položku **Odoslať zmenu**. Ak máte napríklad licencie na 110 a chcete z nich odstrániť 5, zadajte 105.
-
-Ďalšie informácie nájdete v téme [Odstránenie licencií z predplatného na Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Ďalšie informácie nájdete v téme [zakúpenie alebo odstránenie licencií na predplatné](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

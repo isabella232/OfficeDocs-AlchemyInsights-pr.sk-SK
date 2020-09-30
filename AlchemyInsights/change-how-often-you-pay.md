@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733655"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307357"
 ---
 # <a name="change-how-often-you-pay"></a>Zmena frekvencie platby
 
 Ak chcete zmeniť frekvenciu fakturácie a platby za predplatné, postupujte podľa nasledujúcich krokov v centre spravovania služieb Microsoft 365.
 
 1. Prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyberte predplatné, ktoré chcete zmeniť. 
+2. Na karte **produkty** vyberte predplatné, ktoré chcete zmeniť.
 3. Na stránke Podrobnosti predplatného kliknite v časti **nastavenia predplatného a platby** na položku **upraviť frekvenciu fakturácie**.
-4. Na table **Úprava frekvencie fakturácie** shoose možnosť, ako často sa má fakturovať, a potom vyberte položku **zmeniť**.
+4. Na table **Úprava frekvencie fakturácie** vyberte možnosť, ako často sa má fakturovať, a potom vyberte položku **zmeniť**.
 
-**Poznámka**: mesačná alebo ročná Fakturácia je jedinou možnosťou.
+> [!NOTE]
+> Mesačná alebo ročná Fakturácia je jedinou možnosťou.
 
 Ďalšie informácie nájdete v téme [Zmena frekvencie fakturácie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
