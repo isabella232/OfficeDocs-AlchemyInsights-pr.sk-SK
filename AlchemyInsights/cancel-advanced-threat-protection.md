@@ -1,8 +1,8 @@
 ---
 title: Zrušenie rozšírenej ochrany pred hrozbami
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683705"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416284"
 ---
-# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="75d1c-102">Zrušenie rozšírenej ochrany pred hrozbami</span><span class="sxs-lookup"><span data-stu-id="75d1c-102">Cancel Advanced Threat Protection</span></span>
+# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="8b71d-102">Zrušenie rozšírenej ochrany pred hrozbami</span><span class="sxs-lookup"><span data-stu-id="8b71d-102">Cancel Advanced Threat Protection</span></span>
 
-<span data-ttu-id="75d1c-103">Rozšírenú ochranu pred hrozbami môžete zrušiť v **centre spravovania pre Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="75d1c-103">Advanced Threat Protection can be canceled in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="8b71d-103">Správcovia môžu zrušiť predplatenie rozšírenej ochrany pred hrozbami pre svoju organizáciu v centre spravovania služby Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="8b71d-103">Admins can cancel the Advanced Threat Protection subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="75d1c-104">Prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="75d1c-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="75d1c-105">Vyhľadajte plán rozšíreného zabezpečenia hrozby, ktorý chcete zrušiť.</span><span class="sxs-lookup"><span data-stu-id="75d1c-105">Locate the Advanced Threat Protection Plan to cancel.</span></span>
-3. <span data-ttu-id="75d1c-106">Kliknite na položku **zrušiť predplatné**.</span><span class="sxs-lookup"><span data-stu-id="75d1c-106">Click **Cancel subscription**.</span></span>
+1. <span data-ttu-id="8b71d-104">Prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="8b71d-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="8b71d-105">Na karte **produkty** vyhľadajte plán rozšíreného zabezpečenia hrozby, ktorý chcete zrušiť.</span><span class="sxs-lookup"><span data-stu-id="8b71d-105">On the **Products** tab, find the Advanced Threat Protection plan that you want to cancel.</span></span> <span data-ttu-id="8b71d-106">Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.</span><span class="sxs-lookup"><span data-stu-id="8b71d-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="8b71d-107">Na table **zrušiť predplatné** vyberte dôvod, prečo sa ruší.</span><span class="sxs-lookup"><span data-stu-id="8b71d-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="8b71d-108">Voliteľne môžete poskytnúť žiadne pripomienky.</span><span class="sxs-lookup"><span data-stu-id="8b71d-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="8b71d-109">Vyberte položku **Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="8b71d-109">Select **Save**.</span></span>
 
-<span data-ttu-id="75d1c-107">Refundácia: všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.</span><span class="sxs-lookup"><span data-stu-id="75d1c-107">Refund: Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="8b71d-110">**Refundácia:** Všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.</span><span class="sxs-lookup"><span data-stu-id="8b71d-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="75d1c-108">**Poznámka**: Ak sa vám nezobrazuje možnosť zrušiť, kliknutím na predplatné zobrazíte Podrobnosti a v **časti Nastavenia & akcie**by sa mala zobraziť možnosť **zrušiť predplatné** .</span><span class="sxs-lookup"><span data-stu-id="75d1c-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="75d1c-109">Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="75d1c-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="8b71d-111">Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="8b71d-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
