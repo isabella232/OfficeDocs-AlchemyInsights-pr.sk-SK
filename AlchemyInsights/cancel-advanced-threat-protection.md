@@ -1,8 +1,8 @@
 ---
 title: Zrušenie rozšírenej ochrany pred hrozbami
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683705"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416284"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Zrušenie rozšírenej ochrany pred hrozbami
 
-Rozšírenú ochranu pred hrozbami môžete zrušiť v **centre spravovania pre Microsoft 365**.
+Správcovia môžu zrušiť predplatenie rozšírenej ochrany pred hrozbami pre svoju organizáciu v centre spravovania služby Microsoft 365.
 
 1. Prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Vyhľadajte plán rozšíreného zabezpečenia hrozby, ktorý chcete zrušiť.
-3. Kliknite na položku **zrušiť predplatné**.
+2. Na karte **produkty** vyhľadajte plán rozšíreného zabezpečenia hrozby, ktorý chcete zrušiť. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.
+3. Na table **zrušiť predplatné** vyberte dôvod, prečo sa ruší. Voliteľne môžete poskytnúť žiadne pripomienky.
+4. Vyberte položku **Uložiť**.
 
-Refundácia: všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.
-
-**Poznámka**: Ak sa vám nezobrazuje možnosť zrušiť, kliknutím na predplatné zobrazíte Podrobnosti a v **časti Nastavenia & akcie**by sa mala zobraziť možnosť **zrušiť predplatné** .
+**Refundácia:** Všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.
 
 Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
