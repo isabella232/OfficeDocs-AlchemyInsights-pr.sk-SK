@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 53c188f6c6ab93bcc6f87d95717dc0d24d492bb7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777692"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451415"
 ---
 # <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Nie je možné nastaviť primárnu e-mailovú adresu, zmeniť atribúty používateľa alebo odstrániť alebo odstrániť synchronizovaného používateľa
 
@@ -25,9 +25,10 @@ Ak je pre vaše prostredie povolená Synchronizácia adresárov, niektoré atrib
 
 Ak chcete plne spravovať synchronizovaných používateľov a všetky ich atribúty, použite lokálnu konzolu na správu používateľov a skupín služby Active Directory (Adsiedit. msc).  
 
-Prípadne môžete zmeniť jednotlivých používateľov alebo atribúty pre synchronizovaných používateľov, ktorí používajú prostredie PowerShell, ako je to znázornené v týchto bežných príkladoch: 
-- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+Prípadne môžete zmeniť jednotlivých používateľov alebo atribúty pre synchronizovaných používateľov, ktorí používajú prostredie PowerShell, ako je to znázornené v týchto bežných príkladoch:
 
-- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+`Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 
-- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
+`Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+`Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`

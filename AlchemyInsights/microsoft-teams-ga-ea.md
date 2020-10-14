@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798391"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452243"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft teams – hosťovský prístup
 
@@ -24,13 +24,10 @@ Ak potrebujete pomoc s komunikáciami s používateľmi mimo vašej organizácie
 
 Presvedčte sa, či ste [zistili rozdiely](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) a porozumeli funkciám, ktoré sú k dispozícii pre každú z nich.  Napríklad externý prístup (federácia) umožňuje komunikáciu cez 1:1, napríklad chat a prítomnosť.  Externí používatelia sa však nemôžu zúčastniť spolupráce v aplikácii teams.  Ak chcete, aby sa externý používateľ pripojil a podieľal sa na konverzáciách v kanáloch kanála alebo zdieľal súbory, budete musieť zapnúť hosťovský prístup.
 
-**Možnosť 1: Zapnutie hosťovského prístupu**   
-V centre spravovania pre teams prejdite na položku [nastavenia širokej organizácie > hosťovský prístup](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) a zapnite možnosť povoliť prístup hostí v aplikácii teams.  Pre nájomníka s ostatnými predvolenými nastaveniami by to malo byť všetko, čo potrebujete urobiť.  Ak chcete prispôsobiť konfiguráciu hosťovského prístupu, uistite sa, že budete postupovať podľa všetkých krokov v [kontrolnom zozname hosťovského prístupu](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Po úplnom dokončení budete musieť [počkať až 24 hodín, kým](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) sa nastavenia prejavia.
+**Možnosť 1: Zapnutie hosťovského prístupu** V centre spravovania pre teams prejdite na položku [nastavenia širokej organizácie > hosťovský prístup](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) a zapnite možnosť povoliť prístup hostí v aplikácii teams.  Pre nájomníka s ostatnými predvolenými nastaveniami by to malo byť všetko, čo potrebujete urobiť.  Ak chcete prispôsobiť konfiguráciu hosťovského prístupu, uistite sa, že budete postupovať podľa všetkých krokov v [kontrolnom zozname hosťovského prístupu](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Po úplnom dokončení budete musieť [počkať až 24 hodín, kým](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) sa nastavenia prejavia.
 
 Ak ste si istí, že ste dokončili všetky kroky v kontrolnom zozname a už viac ako 24 hodín, pokračujte a skúste [Pridať hosťa do tímu](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
 Ďalšie informácie vrátane videí o tom, ako nájdete v téme [hosťovský prístup v aplikácii Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
 **Možnosť 2: Zapnutie externého prístupu (federácia)** Ak chcete zapnúť aj externý prístup (federácia), v centre spravovania pre teams prejdite na [položku nastavenia pre celú organizáciu > externého prístupu](https://admin.teams.microsoft.com/company-wide-settings/external-communications) a zapnite možnosť používatelia môžu komunikovať s používateľmi Skypu for Business a teams a potom postupujte podľa všetkých krokov v téme [umožnenie používateľom aplikácie teams chatovať a komunikovať s používateľmi v inej organizácii](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
-
-
