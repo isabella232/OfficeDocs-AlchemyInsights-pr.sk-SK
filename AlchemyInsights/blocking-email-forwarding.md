@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
-ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
+ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
+ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
 ms.translationtype: MT
 ms.contentlocale: sk-SK
 ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473116"
+ms.locfileid: "48478329"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Blokovanie alebo odblokovanie preposielania e-mailov
 
 Ak chcete zapnúť alebo vypnúť presmerovanie e-mailov pre konkrétnu poštovú schránku, prečítajte si tému [Konfigurácia preposielania](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Na úrovni nájomníka sa kontrola externého preposielania uskutočňuje pomocou politiky odchádzajúcej pošty. Odchádzajúca politika filtrovania nevyžiadanej pošty môžete skontrolovať v centre zabezpečenia a dodržiavania súladu [tu] ( https://protection.office.com/antispam) alebo pomocou [príkazu Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Na úrovni nájomníka sa kontrola externého preposielania uskutočňuje pomocou politiky odchádzajúcej pošty. Odchádzajúca politika filtrovania nevyžiadanej pošty môžete skontrolovať [v centre zabezpečenia](https://protection.office.com/antispam) a dodržiavania súladu alebo pomocou [príkazu Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
 Ak sa zobrazuje nasledujúca chyba: **"550 5.7.520 Access bol odmietnutý, vaša organizácia nepovoľuje externé preposielanie"**, skontrolujte, či je politika nakonfigurovaná na povolenie externého automatického preposielania.
 
