@@ -1,8 +1,8 @@
 ---
 title: Pozastavenie alebo pozastavenie predplatného
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800155"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488968"
 ---
-# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="88a9f-102">Pozastavenie alebo pozastavenie predplatného</span><span class="sxs-lookup"><span data-stu-id="88a9f-102">Suspend or pause a subscription</span></span>
+# <a name="suspend-or-pause-a-subscription"></a><span data-ttu-id="9c8ef-102">Pozastavenie alebo pozastavenie predplatného</span><span class="sxs-lookup"><span data-stu-id="9c8ef-102">Suspend or pause a subscription</span></span>
 
-<span data-ttu-id="88a9f-103">Ak chcete dočasne pozastaviť alebo pozastaviť predplatné, môžete zrušiť predplatné z **centra spravovania služby Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="88a9f-103">To suspend or pause your subscription temporarily, you can cancel the subscription from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="9c8ef-103">Na dočasné pozastavenie alebo pozastavenie predplatného môžete zrušiť predplatné v centre spravovania služby Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9c8ef-103">To suspend or pause your subscription temporarily, you can cancel the subscription in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="88a9f-104">Prejdite na položky **fakturácia > [svoje produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="88a9f-104">Go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="9c8ef-104">V centre spravovania prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="9c8ef-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="9c8ef-105">Na karte **produkty** vyhľadajte predplatné, ktoré chcete zrušiť.</span><span class="sxs-lookup"><span data-stu-id="9c8ef-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="9c8ef-106">Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.</span><span class="sxs-lookup"><span data-stu-id="9c8ef-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="9c8ef-107">Stav predplatného sa zobrazí ako **vypnutý** a zobrazuje dátum zrušenia predplatného.</span><span class="sxs-lookup"><span data-stu-id="9c8ef-107">The subscription status displays as **Disabled** and shows the date the subscription was cancelled.</span></span> <span data-ttu-id="9c8ef-108">Predplatné zostane v stave vypnuté počas 90 dní a má obmedzenú funkčnosť, kým sa neodstráni alebo [znova neaktivuje](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="9c8ef-108">The subscription remains in a disabled state for 90 days, and has reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
 
-2. <span data-ttu-id="88a9f-105">Vyhľadajte predplatné, ktoré chcete zrušiť, a v časti **nastavenia & akcie**kliknite na položku **zrušiť predplatné**.</span><span class="sxs-lookup"><span data-stu-id="88a9f-105">Find the subscription you want to cancel, and under **Settings & Actions**, click **Cancel subscription**.</span></span>
-
-3. <span data-ttu-id="88a9f-106">Vaše predplatné sa teraz zobrazí v stave vypnutého počas 90 dní a bude mať obmedzenú funkčnosť, kým sa neodstráni alebo [znova neaktivuje](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="88a9f-106">Your subscription will now appear in a disabled state for 90 days and will have reduced functionality until it's deleted or [reactivated](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).</span></span>
-
-<span data-ttu-id="88a9f-107">Ďalšie informácie nájdete v téme [čo sa stane po zrušení predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) a [uložení údajov](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="88a9f-107">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) and [Save your data](https://go.microsoft.com/fwlink/p/?linkid=842054).</span></span>
+<span data-ttu-id="9c8ef-109">Ďalšie informácie nájdete v téme [čo sa stane po zrušení predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) a [uložení údajov](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span><span class="sxs-lookup"><span data-stu-id="9c8ef-109">For more info, see [What happens when you cancel a subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) and [Save your data](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).</span></span>
