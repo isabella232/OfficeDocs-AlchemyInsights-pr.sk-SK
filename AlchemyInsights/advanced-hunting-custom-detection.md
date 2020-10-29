@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48300076"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801531"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Pokročilé vlastné zisťovania lovu
 
@@ -30,6 +30,6 @@ Ak používate Microsoft Defender ATP, ďalšie informácie nájdete v týchto t
 - [Vytvorenie vlastných pravidiel zisťovania](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Zobrazenie a spravovanie vlastných pravidiel hľadania](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Ak používate Microsoft Threat Protection, podrobné informácie nájdete v nasledujúcich témach: 
+Ak používate Microsoft 365 Defender, ďalšie informácie nájdete v nasledujúcich témach: 
 - [Prehľad vlastných zisťovaní](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [Vytvorenie a spravovanie vlastných pravidiel hľadania](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

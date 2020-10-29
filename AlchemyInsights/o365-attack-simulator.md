@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759234"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801566"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulátor útoku v programe Microsoft 365
 
-- Chýba vám simulátor útoku? Simulátor útoku vyžaduje **office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** alebo **Office 365 Enterprise E5**. Simulátor útoku **nie** je zahrnutý v Office 365 pokročilého plánu ochrany pred hrozbami 1 (ATP Plan 1), Office 365 Enterprise E3 alebo ktorejkoľvek aplikácie Microsoft 365 pre predplatné na podniky.
+- Chýba vám simulátor útoku? Simulátor útoku vyžaduje **program Microsoft Defender pre office 365 Plan 2 (ATP Plan 2)** alebo **Office 365 Enterprise E5** . Simulátor útoku **nie** je zahrnutý v programe Microsoft Defender for Office 365 Plan 1 (ATP Plan 1), Office 365 Enterprise E3 ani v ktorejkoľvek aplikácii Microsoft 365 for Business.
 
 - Konto, ktoré používate na spustenie simulovaných útokov, vyžaduje globálny správca alebo povolenia správcu zabezpečenia a viacnásobné overovanie (MFA). Ďalšie informácie o požiadavkách útoku simulátora nájdete v [tejto téme](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759234"
 
 - Dôležité informácie o tom, ako **neoprávnené získavanie údajov** o službe kopije:
 
-  - Návrhom nie je možné poskytnúť vlastnú hodnotu pre **URL adresu prihlasovacieho servera pre neoprávnené získavanie údajov**.
+  - Návrhom nie je možné poskytnúť vlastnú hodnotu pre **URL adresu prihlasovacieho servera pre neoprávnené získavanie údajov** .
 
   - Ak príjemca použije [doplnok povoliť správu zostavy](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) na nahlásenie správy ako neoprávneného získavania údajov, možno nebudete dostávať upozornenia na správu (pretože ide o simulovaný útok).
 
