@@ -12,19 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: d888f4a208ccbc6f54469f5e1eb88f9f4197e5c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
+ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681887"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48804438"
 ---
 # <a name="change-strong-password-requirement"></a>Zmena požiadavky na silné heslo
 
-Spoločnosť Microsoft vyžaduje na základe predvoleného nastavenia silné heslá. 
+Spoločnosť Microsoft vyžaduje na základe predvoleného nastavenia silné heslá.
 
-Pomocou prostredia PowerShell môžete vypnúť silné heslá pre konkrétnych používateľov pomocou tohto príkazu:<br>
-*Set-MsolUser-UserPrincipalName <UserPrincipalName> -StrongPasswordRequired $FALSE*
+Pomocou prostredia PowerShell môžete vypnúť silné heslá pre konkrétnych používateľov s týmito príkazmi:
+
+`Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
+
+Ak chcete vypnúť silné heslá pre všetkých používateľov, použite tento postup:
+
+`Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
 
 - [Ďalšie informácie o politike hesiel](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
 - [Pripojenie k službe Microsoft 365 s prostredím PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
