@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674953"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019562"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Prieskumné zážitky v aplikácii Microsoft teams
 
-Prieskumné prostredie Microsoft teams umožňuje používateľom vo vašej organizácii, ktorí majú službu Azure Active Directory (AAD), a nie sú licencovaní pre teams iniciovať prieskumné skúsenosti s tímami. Správcovia môžu túto funkciu zapnúť alebo vypnúť pre používateľov v organizácii. (Staršia skúšobná verzia služby Microsoft Commercial cloud sa teraz nazýva prieskumné skúsenosti s tímami.)
-
-Prieskumné prostredie v službe Microsoft teams je k dispozícii bez dodatočných poplatkov, až kým nebudete mať k dispozícii ďalšie výročie alebo predĺženie zmluvy o podniku v januári 2021. Koncoví používatelia s licenciou na prieskumné zážitky spoločnosti Microsoft sa v tom čase budú musieť presunúť na platenú licenciu, ktorá zahŕňa aplikácie teams.
-
-Ďalšie informácie nájdete v téme [spravovanie licencie na prieskum v službe Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Čo sú [prieskumy tímov](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Prieskumné prostredie Microsoft teams umožňuje používateľom vo vašej organizácii, ktorí nemajú licenciu na aplikácie Teams, iniciovať prieskumné skúsenosti s tímami. Ďalšie informácie nájdete [v téme Čo je na prieskumných prácach v tímoch](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Kedy uplynie platnosť licencie](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Prieskumné prostredie v službe Microsoft teams je k dispozícii bez dodatočných poplatkov, až kým nebudete mať ďalšie výročie alebo predĺženie zmluvy alebo za január 2021.
+- Ako správca môžete [inovovať používateľov z prieskumnej licencie na tímy](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) zakúpením predplatného, ktoré zahŕňa aplikácie Teams, odstránením predplatného pre tímy od používateľa a priradením novo zakúpenej licencie.
+- Ďalšie informácie nájdete v téme [spravovanie predbežných licencií pre tímy.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
