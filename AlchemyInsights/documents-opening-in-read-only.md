@@ -1,5 +1,5 @@
 ---
-title: Otvorenie dokumentu iba na čítanie
+title: Otvorenie dokumentu v režime iba na čítanie
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089013"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528997"
 ---
-# <a name="documents-opening-in-read-only"></a>Otváranie dokumentov v iba na čítanie
+# <a name="documents-opening-in-read-only"></a>Otvorenie dokumentov v režime iba na čítanie
 
-Súbory, ktoré otvárate, sa môžu nachádzať iba na čítanie. V niektorých prípadoch táto podmienka slúži ako pridaná bezpečnosť, napríklad pri otváraní súborov z internetu a inokedy môže byť táto podmienka spôsobená nastavením, ktoré je možné zmeniť.
+Súbory, ktoré otvárate, môžu byť v režime iba na čítanie. V niektorých prípadoch je to z dôvodu zvýšenia zabezpečenia, napríklad keď otvárate súbory z internetu, a inokedy to môže byť z dôvodu nastavenia, ktoré je možné zmeniť.
 
 - [Súbory SharePointu sa otvoria iba na čítanie](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Ak sa zákazník domnieva, že uvedené príčiny, akými sú napríklad mechanizmus zvyšovania zabezpečenia alebo nezmenené nastavenie, nie sú jedným z scenárov, ktoré sú načrtnuté v [súboroch SharePointu, otvoriť iba na čítanie](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), tu sú ďalšie bežné riešenia dokumentov, ktoré sa otvárajú v režime iba na čítanie.
+Ak si zákazník myslí, že uvedené príčiny, ako je napríklad mechanizmus zlepšovania zabezpečenia alebo nezmenené nastavenie, nepatria medzi zabudované scenáre načrtnuté v [SharePointových súboroch, ktoré sú otvorené iba na čítanie](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), tu sú ďalšie bežné riešenia dokumentov ktoré sa otvárajú v režime iba na čítanie.
 
 - Reštartujte počítač.
 - Nainštalujte aktualizácie balíka Office.
-- Skontrolujte antivírusový program v počítači.
+- Skontrolujte antivírusový program v zariadení.
 - Skontrolujte, či je lokalita v zóne dôveryhodných lokalít v Internet Exploreri.
 - Vykonajte opravu balíka Office.
-- Vymažte [vyrovnávaciu pamäť dokumentov balíka Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Vymažte [ vyrovnávaciu pamät dokumentov balíka Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us)
 
