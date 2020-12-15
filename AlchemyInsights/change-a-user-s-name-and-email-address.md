@@ -1,5 +1,5 @@
 ---
-title: Zmena mena používateľa a e-mailovej adresy
+title: Zmena mena a e-mailovej adresy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756946"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683917"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Zmena mena používateľa a e-mailovej adresy
+# <a name="change-a-name-and-email-address"></a>Zmena mena a e-mailovej adresy
 
 Zmena mena používateľa a e-mailovej adresy v službe Microsoft 365 je jednoduchá. Prejdite na stránku **Používatelia** \> [aktívnych používateľov](https://go.microsoft.com/fwlink/p/?linkid=834822) a vyberte používateľa, ktorého informácie chcete upraviť. Tento článok môžete použiť aj na podrobné pokyny:
   
