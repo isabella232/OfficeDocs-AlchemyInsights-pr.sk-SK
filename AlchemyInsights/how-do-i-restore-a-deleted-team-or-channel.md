@@ -1,5 +1,5 @@
 ---
-title: Ako obnovím odstránenú eeam alebo kanál
+title: Ako obnovím odstránený tím alebo kanál
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705026"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726439"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Obnovenie odstráneného tímu alebo kanála
-
-Ďalšie informácie nájdete v téme [Obnovenie odstráneného tímu v aplikácii Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
 Odstránené kanály v rámci tímu je možné obnoviť až do 21 dní po odstránení kanála.
 
 Ak chcete obnoviť odstránený kanál, vlastník tímu môže vykonať tieto kroky:
 
 1. Otvorte nastavenia tímu výberom 3 bodky napravo od názvu tímu.
-2. Vyberte položku **Spravovať tímové**  >  **kanály**  >  **odstránené**a potom vyberte položku **obnoviť** napravo.
+2. Vyberte položku **Spravovať tímové**  >  **kanály**  >  **odstránené** a potom vyberte položku **obnoviť** napravo.
 
-Ďalšie informácie nájdete v téme [Obnovenie odstráneného tímu v aplikácii Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Ďalšie informácie o obnove tímu nájdete [v téme archivácia alebo odstránenie tímu v aplikácii Microsoft teams – Microsoft teams | Dokumenty Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
