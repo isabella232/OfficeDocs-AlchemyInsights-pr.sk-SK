@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715036"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755634"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Zaplatenie faktúry v Azure Portal – Odporúčané kroky
+
+Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
 
 Ak chcete platiť faktúry na portáli Azure, musíte byť správcom konta fakturácie. Správca fakturačného konta je používateľ, ktorý sa pôvodne zaregistroval v konte Microsoft Customer Agreement. 
 
 Platenie faktúry na portáli Azure: 
 
 1. Prihláste sa na [portáli Azure](https://portal.azure.com/).
-1. Vyhľadávanie v **správe nákladov + Fakturácia**.
+1. Hľadajte v časti **Cost Management + Billing** (Správa nákladov a fakturácia).
 1. Na ľavej table kliknite v časti **Fakturácia** na položku **faktúry**.
 1. Ak sú všetky faktúry splatné alebo po termíne splatnosti, pre danú faktúru sa zobrazí prepojenie Blue **Pay Now** . Kliknite na položku **zaplatiť teraz**.
 1. V novom Blade kliknite na položku **vybrať spôsob úhrady** a vyberte existujúcu kreditnú kartu alebo pridajte novú.

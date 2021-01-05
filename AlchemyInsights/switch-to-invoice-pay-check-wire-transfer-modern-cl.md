@@ -1,5 +1,5 @@
 ---
-title: Prepnutie na zaplatenie faktúry (kontrola/prenos bankového prenosu) – Moderná CL
+title: Prepnutie na platbu na faktúru (kontrola/prenos bankového prenosu)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706784"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755510"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Prepnutie na zaplatenie faktúry (kontrola/prenos bankového prenosu) – Moderná CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Prepnutie na platbu na faktúru (kontrola/prenos bankového prenosu)
+
+Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
 
 Ak prepnete na položku platiť podľa faktúry, znamená to, že faktúru zaplatíte do 30 dní od dátumu vystavenia faktúry. Ak sa chcete stať oprávneným platiť za predplatné služby Azure prostredníctvom faktúry, odošlite žiadosť na technickú podporu Azure. Po schválení žiadosti môžete na portáli Azure zmeniť predplatné na faktúru.
 
@@ -40,7 +42,7 @@ Ak to chcete urobiť, postupujte nasledovne:
 4. V ponuke *profil fakturácie* vyberte položku **spôsoby platby**.
 5. Vyberte titulok, v ktorom sa uvádza, že máte nárok na úhradu šekom/bankovým prevodom.
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
 - [Žiadosť/stiahnutie/zobrazenie fakturačnej faktúry a údajov o používaní služby Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Odoslanie e-mailu prostredníctvom služby Azure faktúry priamo do priečinka Doručená pošta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)

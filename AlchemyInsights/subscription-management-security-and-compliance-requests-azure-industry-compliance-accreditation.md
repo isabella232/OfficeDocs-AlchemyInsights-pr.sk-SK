@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598781"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755598"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Správa predplatného – požiadavky na zabezpečenie a dodržiavanie súladu – akreditácia dodržiavania súladu pre odvetvie
+
+Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
 
 - **Politika**: Ak máte otázky týkajúce sa dokumentu Microsoft compliance, pozrite si tému [zabezpečenie súladu centra dôveryhodnosti](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
@@ -50,7 +52,7 @@ Ak máte otázky týkajúce sa dodržiavania súladu, pozrite si tému Microsoft
 > [!NOTE]
 > Údaje o zákazníkoch online služieb a oznámenie o zozname osobných údajov sú plne automatizované. Ďalšie informácie nájdete v téme zdroje informácií o ochrane údajov spoločnosti Microsoft.
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
 - [Exportovanie alebo odstraňovanie nastavení na portáli Azure](https://docs.microsoft.com/azure/azure-portal/set-preferences)
 - [Vyhľadanie výkazov aktivít na portáli Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)

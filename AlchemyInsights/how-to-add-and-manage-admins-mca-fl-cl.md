@@ -1,5 +1,5 @@
 ---
-title: Ako pridať a spravovať správcov – MCA FL/CL
+title: Ako pridať a spravovať správcov
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692312"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755526"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Ako pridať a spravovať správcov – MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Ako pridať a spravovať správcov
+
+Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
 
 Ak chcete spravovať fakturačné konto pre zmluvu o zákazníkovi spoločnosti Microsoft (MCA), môžete použiť rôzne roly s požadovanou úrovňou prístupu. Tieto roly dopĺňajú vstavané roly služby Azure, ktoré vám pomôžu ovládať zdroje.
 
@@ -32,7 +34,7 @@ Ak chcete spravovať fakturačné konto pre zmluvu o zákazníkovi spoločnosti 
 5. Ak chcete používateľovi poskytnúť prístup, vyberte položku **Pridať** v hornej časti stránky. V rozbaľovacom zozname *rola* vyberte rolu. Zadajte e-mailovú adresu používateľa, ktorému chcete poskytnúť prístup. Ak chcete rolu priradiť, vyberte položku **Uložiť** .
 6. Ak chcete odstrániť prístup pre používateľa, vyberte používateľa s priradením roly, ktorú chcete odstrániť. Vyberte položku **odstrániť**.
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
 - [Definície roly fakturácie](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [Roly a úlohy konta fakturácie](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
