@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731254"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768832"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Povolenie šifrovania BitLocker so službou Intune
 
@@ -30,10 +30,12 @@ Mali by ste vedieť, že mnoho novších zariadení s Windowsom 10 podporuje aut
  
 **Najčastejšie otázky**
 
- Otázka: ktoré vydania systému Windows podporujú šifrovanie zariadenia pomocou politiky koncového bodu ochrany?<br>
- A: nastavenie politiky ochrany koncového bodu služby Intune sa implementuje pomocou [funkcie BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nie všetky vydania ani zostavy Windowsu podporujú funkciu BitLocker CSP. <br><br>
-      V súčasnosti sú podporované tieto vydania Windowsu: Enterprise, Education, Mobile, Mobile Enterprise a Professional (zostava 1809 a novšia verzia).
- 
+Otázka: ktoré vydania systému Windows podporujú šifrovanie zariadenia pomocou politiky koncového bodu ochrany?<br>
+A: nastavenie politiky ochrany koncového bodu služby Intune sa implementuje pomocou [funkcie BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Nie všetky vydania ani zostavy Windowsu podporujú funkciu BitLocker CSP. <br><br>
+
+Otázka: ako môže byť funkcia BitLocker povolená v zariadeniach bez nutnosti interakcie koncového používateľa?<br>
+A: kým sa splnia potrebné predpoklady, je možné povoliť šifrovanie BitLocker tiché šifrovanie prostredníctvom služby Intune. Pozrite si Podrobnosti o požiadavkách na zariadenie a príklade nastavenie politiky na zapnutie tichého šifrovania v nasledujúcom dokumente: [tiché povolenie šifrovania BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 Otázka: Ak je zariadenie už šifrované pomocou šifrovania BitLocker s použitím predvolených nastavení operačného systému pre metódu šifrovania a pevnosť šifrovania (XTS-AES-128), bude uplatňovať politiku s rôznymi nastaveniami automaticky spustiť opätovné šifrovanie jednotky s novými nastaveniami?<br>
 Odpoveď: Nie. Ak chcete použiť nové nastavenie šifrovania, jednotka musí byť najprv dešifrovaná.<br><br>
 **Poznámka:** V prípade zariadení, ktoré sa zaregistrovali pomocou funkcie autopilot, sa automatické šifrovanie, ktoré sa vyskytne počas OOBE, nespustí, kým sa vyhodnotí politika služby Intune, ktorá umožňuje použiť nastavenia na základe politiky namiesto predvolených hodnôt operačného systému.
