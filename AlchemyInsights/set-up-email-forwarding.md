@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801091"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847615"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavení preposielania e-mailov pre poštovú schránku
 
-Overenie nastavení preposielania e-mailov v poštovej schránke spoločnosti Microsoft 365 je jednoduché. Stačí postupovať podľa týchto krokov.
+Po prvé musí byť na úrovni nájomníka zapnutá preposielanie e-mailov. Ak ste nastavili preposielanie e-mailov v poštovej schránke, ale nefunguje, prečítajte si tému [riadenie automatického externého preposielania e-mailov v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Overenie nastavení preposielania e-mailov v poštovej schránke je jednoduché. Stačí postupovať podľa týchto krokov.
   
 > Ak ide o poštovú schránku používateľa, prejdite na položku **Používatelia** \> **aktívni používatelia** a vyberte používateľa, ktorého poštovú schránku preposielate. Na karte **Pošta** vyberte položku **Spravovať preposielanie e-mailov**.
 
