@@ -1,0 +1,41 @@
+---
+title: Problémy so začlenením bezšvíkových SSO s lokálnymi aplikáciami
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/13/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004356"
+- "7798"
+ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.translationtype: MT
+ms.contentlocale: sk-SK
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49868723"
+---
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a><span data-ttu-id="ab27b-102">Problémy so začlenením bezšvíkových SSO s lokálnymi aplikáciami</span><span class="sxs-lookup"><span data-stu-id="ab27b-102">Issues with integrating Seamless SSO with my on-premises apps</span></span>
+
+<span data-ttu-id="ab27b-103">Ak chcete riešiť problémy so začlenením bezproblémového SSO s lokálnymi aplikáciami, postupujte takto:</span><span class="sxs-lookup"><span data-stu-id="ab27b-103">To troubleshoot issues with integrating Seamless SSO with on-premises applications, do the following:</span></span>
+
+<span data-ttu-id="ab27b-104">**Odporúčané kroky**</span><span class="sxs-lookup"><span data-stu-id="ab27b-104">**Recommended steps**</span></span>
+
+1. <span data-ttu-id="ab27b-105">Ak chcete nakonfigurovať **lokálnu aplikáciu** na **jediné prihlásenie prostredníctvom servera proxy aplikácie**, pozrite si tému [zaklenbovanie hesla pre jediné prihlásenie pomocou proxy aplikácie](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span><span class="sxs-lookup"><span data-stu-id="ab27b-105">To configure an **on-premises application** for **single sign-on through Application Proxy**, see [Password vaulting for single sign-on with Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span></span>
+1. <span data-ttu-id="ab27b-106">**Riešenie problémov s proxy aplikáciami**: Odporúčame, aby ste začali s preskúmaním toku riešenia problémov, [ladenia problémov s konektormi servera proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), a zistite, či sú konektory aplikačného servera proxy správne nakonfigurované.</span><span class="sxs-lookup"><span data-stu-id="ab27b-106">**Troubleshooting Application Proxy issues**: we recommend that you start with reviewing the troubleshooting flow, [Debug Application Proxy Connector issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), to determine if Application Proxy connectors are configured correctly.</span></span> <span data-ttu-id="ab27b-107">Ak sa stále vyskytujú problémy s pripojením k aplikácii, postupujte podľa krokov na riešenie problémov v [aplikáciách aplikácie proxy aplikácie Debug](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span><span class="sxs-lookup"><span data-stu-id="ab27b-107">If you're still having trouble connecting to the application, follow the troubleshooting steps in [Debug Application Proxy application issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span></span> <span data-ttu-id="ab27b-108">Problémy s [Corsa môžete identifikovať](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) pomocou nasledujúcich nástrojov ladenia prehliadača:</span><span class="sxs-lookup"><span data-stu-id="ab27b-108">You can [identify CORS issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) by using the following browser debug tools:</span></span>
+    1. <span data-ttu-id="ab27b-109">Spustite prehliadač a prejdite na webovú aplikáciu.</span><span class="sxs-lookup"><span data-stu-id="ab27b-109">Launch the browser and browse to the web app.</span></span>
+    1. <span data-ttu-id="ab27b-110">Stlačením klávesu **F12** zobrazte konzolu ladenia.</span><span class="sxs-lookup"><span data-stu-id="ab27b-110">Press **F12** to bring up the debug console.</span></span>
+    1. <span data-ttu-id="ab27b-111">Skúste reprodukovať transakciu a skontrolujte správu konzoly.</span><span class="sxs-lookup"><span data-stu-id="ab27b-111">Try to reproduce the transaction, and review the console message.</span></span> <span data-ttu-id="ab27b-112">Porušenie Corsa vytvára chybu konzoly o pôvode.</span><span class="sxs-lookup"><span data-stu-id="ab27b-112">A CORS violation produces a console error about origin.</span></span>
+    1. <span data-ttu-id="ab27b-113">Niektoré problémy s Corsa nie je možné vyriešiť, napríklad ak sa vaša aplikácia presmeruje na login.microsoftonline.com na overenie a platnosť tokenu prístupu uplynie.</span><span class="sxs-lookup"><span data-stu-id="ab27b-113">Some CORS issues can't be resolved, such as when your app redirects to login.microsoftonline.com to authenticate, and the access token expires.</span></span> <span data-ttu-id="ab27b-114">Hovor Corsa potom zlyhá.</span><span class="sxs-lookup"><span data-stu-id="ab27b-114">The CORS call then fails.</span></span> <span data-ttu-id="ab27b-115">Alternatívne riešenie tohto scenára je predĺžiť životnosť prístupového tokenu, aby sa zabránilo jeho platnosti počas relácie používateľa.</span><span class="sxs-lookup"><span data-stu-id="ab27b-115">A workaround for this scenario is to extend the lifetime of the access token, to prevent it from expiring during a user’s session.</span></span> <span data-ttu-id="ab27b-116">Ďalšie informácie o postupe nájdete [v téme konfigurovateľné životnosť tokenov v platforme Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span><span class="sxs-lookup"><span data-stu-id="ab27b-116">For more information about how to do this, see [Configurable token lifetimes in Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span></span>
+
+<span data-ttu-id="ab27b-117">**Odporúčané dokumenty**</span><span class="sxs-lookup"><span data-stu-id="ab27b-117">**Recommended documents**</span></span>
+
+- [<span data-ttu-id="ab27b-118">Konfigurovanie jediného prihlásenia do aplikácie proxy aplikácie</span><span class="sxs-lookup"><span data-stu-id="ab27b-118">How to configure single sign-on to an Application Proxy application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [<span data-ttu-id="ab27b-119">Použitie jediného prihlásenia cez SAML pre lokálne aplikácie so serverom proxy aplikácie</span><span class="sxs-lookup"><span data-stu-id="ab27b-119">SAML single sign-on for on-premises applications with Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [<span data-ttu-id="ab27b-120">Informácie o problémoch so serverom proxy aplikácie Azure Active Directory Corsa</span><span class="sxs-lookup"><span data-stu-id="ab27b-120">Understand and solve Azure Active Directory Application Proxy CORS issues</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [<span data-ttu-id="ab27b-121">Riešenie problémov s obmedzeniami delegovania Kerberos pre aplikačný server proxy</span><span class="sxs-lookup"><span data-stu-id="ab27b-121">Troubleshoot Kerberos constrained delegation configurations for Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
