@@ -1,5 +1,5 @@
 ---
-title: Zmena povolení pre poštovú schránku
+title: Zmena povolení v poštovej schránke
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502586"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880181"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Zmena povolení pre poštovú schránku
+# <a name="changing-permissions-on-a-mailbox"></a>Zmena povolení v poštovej schránke
 
-Ak používatelia potrebujú prístup k iným poštovým schránkam, než sú ich vlastné, musia im byť udelené povolenia na prácu s týmito poštovými schránkami. Spôsob priradenia týchto povolení závisí od typu poštovej schránky. Ak používatelia potrebujú prístup k:
+Ak používatelia potrebujú prístup k poštovým schránkam, ktoré sú iné ako ich vlastné, je potrebné im udeliť povolenie na prácu s týmito poštovými schránkami. Spôsob priradenia týchto povolení závisí od typu poštovej schránky. Ak používatelia potrebujú prístup k:
   
-- Poštové schránky iného používateľa – pozrite si tému [Povolenie poštovej schránky inému používateľovi](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Poštové schránky iného používateľa – Pozrite si tému [poskytnutie povolení poštovej schránky inému používateľovi](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Zdieľaná poštová schránka – pozrite si tému [Pridanie alebo odstránenie členov zo zdieľanej poštovej schránky](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Zdieľaná poštová schránka – Pozrite si tému [Konfigurácia nastavení zdieľanej poštovej schránky](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Ak povolenia nefungujú správne po vykonaní vyššie uvedených krokov, prejdite do Centra spravovania pre Exchange a skúste nastaviť povolenia odtiaľ (pozri [Správa povolení pre príjemcov](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Ak povolenia nefungujú správne po vykonaní vyššie uvedených krokov, prejdite do centra spravovania pre Exchange a skúste nastaviť povolenia odtiaľ (Pozrite si tému [Správa povolení pre príjemcov](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
