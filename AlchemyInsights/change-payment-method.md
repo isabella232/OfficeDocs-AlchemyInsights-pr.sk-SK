@@ -8,18 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681850"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152449"
 ---
 # <a name="change-payment-method"></a>Zmena spôsobu úhrady
 
@@ -35,6 +34,6 @@ Spôsob úhrady môžete zmeniť v **centre spravovania pre Microsoft 365**.
 6. Na table **pridať spôsob platby** zadajte informácie o konte a potom vyberte položku **Uložiť**. Je nutné použiť spôsob úhrady z rovnakej krajiny ako nájomníka.
 7. Nový spôsob úhrady je už v rozbaľovacom zozname vybratý. Vyberte položku **nahradiť**.
 
-Ďalšie informácie nájdete v téme [spravovanie spôsobov platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Informácie o tom, ako pridať, aktualizovať, nahradiť alebo odstrániť spôsoby úhrady, nájdete v téme [spravovanie spôsobov úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Ak chcete zistiť, ako zmeniť platby kreditnou kartou na fakturáciu, prečítajte si tému [Zmena z kreditnej karty alebo bankového konta na faktúru](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Informácie o tom, ako zmeniť spôsoby platenia, nájdete [v téme ako zaplatiť za predplatné](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
