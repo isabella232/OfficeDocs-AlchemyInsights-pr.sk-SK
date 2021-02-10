@@ -3,32 +3,32 @@ title: Najčastejšie otázky o faktúrach a fakturácii
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500024"
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
-ms.translationtype: MT
+ms.openlocfilehash: 2bd9f76f0521d51e41b9746df0ee0983876a48c9
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364638"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152527"
 ---
 # <a name="billing-or-invoice-faq"></a>Najčastejšie otázky o faktúrach a fakturácii
 
-- Platby môžu byť **zamietnuté** z niekoľkých dôvodov vrátane vypršania platnosti kreditnej karty. Ak to chcete vyriešiť, pozrite si tému [Zmena spôsobu platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
-- Ak je faktúra **po splatnosti**, použite funkciu **Vyrovnať zostatok** na opätovné odoslanie platby. Ak chcete vyriešiť tento problém, pozrite si tému [Čo robiť, ak je platba po termíne splatnosti?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- Stále platíte za licencie, ktoré nie sú priradené používateľom. Ak chcete zabrániť nepotrebným poplatkom, odstráňte nevyužité licencie na zníženie počtu licencií. Pozrite si tému [Pridanie alebo odstránenie licencií](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) z predplatného.
+- Platby môžu byť **zamietnuté** z niekoľkých dôvodov vrátane vypršania platnosti kreditnej karty. Riešenie nájdete v časti [Aktualizácia podrobností spôsobu platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- Ak je faktúra **po splatnosti**, použite funkciu **Vyrovnať zostatok** na opätovné odoslanie platby. Riešenie nájdete v časti [Čo ak mám nevyrovnaný zostatok?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- Za licencie, ktoré nie sú priradené používateľom, sa vám budú aj naďalej účtovať poplatky. Ak chcete zabrániť nepotrebným poplatkom, znížite počet licencií odstránením nepoužívaných licencií. Prečítajte si tému [Nákup alebo odstránenie licencií z predplatného](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 - Ak chcete zmeniť **frekvenciu fakturácie** na mesačnú alebo ročnú, pozrite si tému [Zmena frekvencie fakturácie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Ak potrebujete pomoc s faktúrou, pozrite si tému [Informácie o faktúre](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Ak potrebujete pomoc so **zobrazením** faktúry, pozrite si tému [Zobrazenie faktúry](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Ak chcete zmeniť fakturačné údaje, pozrite si tému [Správa profilu fakturácie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) alebo [Zmena fakturačnej adresy](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Ak chcete zmeniť informácie o fakturácii, pozrite si témy [vysvetlenie fakturačných profilov](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) alebo [zmena fakturačnej adresy](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Ďalšie informácie nájdete v téme [vysvetlenie faktúry](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Ďalšie informácie o faktúre nájdete v téme [Vysvetlenie faktúry](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
