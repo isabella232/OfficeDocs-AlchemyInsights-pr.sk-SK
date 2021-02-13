@@ -2,8 +2,7 @@
 title: Správa licencií na aplikácie
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778166"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232418"
 ---
 # <a name="manage-app-licenses"></a>Správa licencií na aplikácie
 
 ## <a name="to-change-license-quantity"></a>Zmena množstva licencie
 
-1. Prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** a potom vyberte kartu **aplikácie** .
-
-2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
-
-3. Vyberte položku **Pridať alebo odstrániť licencie**.
-
-4. Zadajte nový počet potrebných licencií. Ak máte napríklad momentálne 5 licencií a potrebujete len 4, zadajte číslo 4 do poľa **celkové licencie** . Ak momentálne máte 5 licencií a potrebujete 10 celkových licencií, zadajte číslo 10 do poľa **celkové licencie** .
+1. Prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+2. Na karte **produkty** v časti **aplikácie** vyhľadajte aplikáciu, ktorú chcete spravovať. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **kúpiť licencie**.
+3. Ak chcete znížiť počet licencií, v hornej časti tably **kúpiť licencie** vyberte položku **odstrániť licencie**.
+4. Ak chcete kúpiť alebo odobrať licencie, v časti **nové množstvo** v poli **celkový počet licencií** zadajte celkový počet licencií, ktoré chcete pre toto predplatné. Ak máte napríklad licencie na 100 a chcete pridať ďalších päť, zadajte 105. Ak chcete odstrániť päť z nich, zadajte 95.
+5. Vyberte položku **Uložiť**.
 
 ## <a name="to-assign-app-licenses"></a>Priradenie licencií na aplikácie
 
-1. Prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** a potom vyberte kartu **aplikácie** .
-
-2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
-
-3. V časti **nastavenia & akcie**vyberte prepojenie na **spravovanie na portáli programu Publisher**.
+1. Prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+2. Na karte **produkty** v časti **aplikácie** vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.
+3. V časti **nastavenia & akcie** vyberte prepojenie na **spravovanie na portáli programu Publisher**.
