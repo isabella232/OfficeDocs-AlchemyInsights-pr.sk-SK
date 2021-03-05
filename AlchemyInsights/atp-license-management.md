@@ -1,5 +1,5 @@
 ---
-title: Pokročilé riadenie licencií na ochranu pred hrozbami
+title: Správa licencií programu Microsoft Defender pre Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287117"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469029"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Pokročilé riadenie licencií na ochranu pred hrozbami
+# <a name="microsoft-defender-for-office-365-license-management"></a>Správa licencií programu Microsoft Defender pre Office 365
 
-Office 365 Advance ochrany pred hrozbami (ATP) Správa licencií môže byť dokončená v  **centre spravovania spoločnosti Microsoft 365**.
+V centre spravovania služieb  **microsoft 365** je možné vykonať správu licencií programu Microsoft Defender pre Office 365.
 
-- Ak chcete zakúpiť Office 365 vopred ochranu pred hrozbami:
-    1. Prejdite na **Billing**položky  >  [nákupné služby](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturácie.
+- Ak chcete zakúpiť program Microsoft Defender pre Office 365:
+    1. Prejdite na položky  >  [nákupné služby](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturácie.
     2. V dolnej časti stránky vyberte položku **Doplnky**.
-    3. Na stránke **nákup služieb** vyberte plán rozšíreného zabezpečenia hrozby, ktorý chcete kúpiť, zadajte počet používateľov, ktorí potrebujú licenciu, a potom vyberte položku **vziať z projektu**. Ďalšie informácie nájdete v téme [zakúpenie doplnku](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Ak chcete priradiť licencie na ochranu pred hrozbami pre Office 365, prejdite na položku licencie na **fakturáciu**  >  **Licenses**. Ďalšie informácie nájdete v téme [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Ak chcete pridať alebo odobrať licencie zo služieb Office 365 Advance ochrany pred hrozbami, prejdite na položku **Fakturácia**  >  **produktov**. Vyberte predplatné, ktoré chcete aktualizovať, a potom vyberte položku **kúpiť licencie** alebo ***odobrať licencie**. Ďalšie informácie nájdete v téme [zakúpenie alebo odstránenie licencií na predplatné](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+    3. Na stránke **nákup služieb** vyberte plán Microsoft Defender pre Office 365, ktorý chcete kúpiť, zadajte počet používateľov, ktorí potrebujú licenciu, a potom vyberte položku **vziať z projektu**. Ďalšie informácie nájdete v téme [zakúpenie doplnku](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Ak chcete priradiť licencie programu Microsoft Defender pre Office 365, prejdite na položku licencie na **fakturáciu**  >  . Ďalšie informácie nájdete v téme [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Ak chcete pridať alebo odobrať licencie z Microsoft Defendera pre Office 365, prejdite na položky **Fakturácia**  >  **produktov**. Vyberte predplatné, ktoré chcete aktualizovať, a potom vyberte položku **kúpiť licencie** alebo **odobrať licencie**. Ďalšie informácie nájdete v téme [zakúpenie alebo odstránenie licencií na predplatné](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

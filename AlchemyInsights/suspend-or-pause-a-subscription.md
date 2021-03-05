@@ -12,12 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: e5bbc2f7e447cfedeaee2be2bcfe1132e73b24e7
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+- commerce
+ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231914"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469101"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Pozastavenie alebo pozastavenie predplatného
 

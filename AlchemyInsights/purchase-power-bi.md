@@ -2,36 +2,35 @@
 title: Zakúpenie služby Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693354"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469669"
 ---
 # <a name="purchase-power-bi"></a>Zakúpenie služby Power BI
 
 Službu Power BI je možné zakúpiť v **centre spravovania služby Microsoft 365**.
 
-1. Prejdite na stránku **služby fakturácie > [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) ** .
+1. Prejdite na stránku **služby fakturácie > [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
+2. Pomocou vyhľadávacieho poľa vyhľadajte výraz Power BI.
+3. Vyberte plán Power BI, ktorý chcete kúpiť, vyberte položku **Podrobnosti** a potom vyberte položku **kúpiť**.
+4. Zadajte počet licencií, ktoré potrebujete, a vyberte, či sa má platiť každý mesiac alebo za celý rok. Vyberte, či chcete automaticky priraďovať licencie všetkým, ktorí v súčasnosti nemajú licenciu. Potom vyberte položku **vziať z projektu**.
+5. Pozrite si informácie o cenách a vyberte položku **ďalej**.
+6. Zadajte informácie o platbe a potom vyberte položku **miesto objednávky**  >  **prejdite na domovskú stránku správcu**.
 
-2. Pomocou vyhľadávacieho poľa môžete vyhľadávať v časti Power BI.
+Ak chcete priradiť licencie používateľom, prečítajte si tému [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-3. Vyberte plán Power BI, ktorý chcete zakúpiť.
-
-4. Vyberte počet používateľov, ktorí budú používať Power BI.
-
-Ak chcete priradiť licencie používateľom, prečítajte si tému [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-
-Ak chcete kúpiť ďalšie licencie alebo odstrániť licencie, pozrite si tému [Pridanie alebo odstránenie licencií na predplatné](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Ak si chcete kúpiť ďalšie alebo odobrať licencie, pozrite si tému [zakúpenie alebo odstránenie licencií na predplatné podniku](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
