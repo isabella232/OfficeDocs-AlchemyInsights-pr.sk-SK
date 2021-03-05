@@ -2,36 +2,35 @@
 title: Zakúpenie služby Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693354"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469669"
 ---
-# <a name="purchase-power-bi"></a><span data-ttu-id="2606c-102">Zakúpenie služby Power BI</span><span class="sxs-lookup"><span data-stu-id="2606c-102">Purchase Power BI</span></span>
+# <a name="purchase-power-bi"></a><span data-ttu-id="dc7ee-102">Zakúpenie služby Power BI</span><span class="sxs-lookup"><span data-stu-id="dc7ee-102">Purchase Power BI</span></span>
 
-<span data-ttu-id="2606c-103">Službu Power BI je možné zakúpiť v **centre spravovania služby Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="2606c-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="dc7ee-103">Službu Power BI je možné zakúpiť v **centre spravovania služby Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
 
-1. <span data-ttu-id="2606c-104">Prejdite na stránku \*\*služby fakturácie > [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433) \*\* .</span><span class="sxs-lookup"><span data-stu-id="2606c-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+1. <span data-ttu-id="dc7ee-104">Prejdite na stránku **služby fakturácie > [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433)** .</span><span class="sxs-lookup"><span data-stu-id="dc7ee-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+2. <span data-ttu-id="dc7ee-105">Pomocou vyhľadávacieho poľa vyhľadajte výraz Power BI.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-105">Use the Search box to search for "Power BI".</span></span>
+3. <span data-ttu-id="dc7ee-106">Vyberte plán Power BI, ktorý chcete kúpiť, vyberte položku **Podrobnosti** a potom vyberte položku **kúpiť**.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-106">Select the Power BI plan you want to buy, select **Details**, then select **Buy**.</span></span>
+4. <span data-ttu-id="dc7ee-107">Zadajte počet licencií, ktoré potrebujete, a vyberte, či sa má platiť každý mesiac alebo za celý rok.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-107">Enter the number of licenses that you need and choose whether to pay each month or for the whole year.</span></span> <span data-ttu-id="dc7ee-108">Vyberte, či chcete automaticky priraďovať licencie všetkým, ktorí v súčasnosti nemajú licenciu.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-108">Choose whether you want to automatically assign licenses to everyone who does not currently have a license.</span></span> <span data-ttu-id="dc7ee-109">Potom vyberte položku **vziať z projektu**.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-109">Then select **Check out now**.</span></span>
+5. <span data-ttu-id="dc7ee-110">Pozrite si informácie o cenách a vyberte položku **ďalej**.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-110">Review the pricing information and select **Next**.</span></span>
+6. <span data-ttu-id="dc7ee-111">Zadajte informácie o platbe a potom vyberte položku **miesto objednávky**  >  **prejdite na domovskú stránku správcu**.</span><span class="sxs-lookup"><span data-stu-id="dc7ee-111">Provide your payment information, and then select **Place order** > **Go to Admin Home**.</span></span>
 
-2. <span data-ttu-id="2606c-105">Pomocou vyhľadávacieho poľa môžete vyhľadávať v časti Power BI.</span><span class="sxs-lookup"><span data-stu-id="2606c-105">Use the Search box to search on "Power BI".</span></span>
+<span data-ttu-id="dc7ee-112">Ak chcete priradiť licencie používateľom, prečítajte si tému [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="dc7ee-112">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-3. <span data-ttu-id="2606c-106">Vyberte plán Power BI, ktorý chcete zakúpiť.</span><span class="sxs-lookup"><span data-stu-id="2606c-106">Select the Power BI plan you want to purchase.</span></span>
-
-4. <span data-ttu-id="2606c-107">Vyberte počet používateľov, ktorí budú používať Power BI.</span><span class="sxs-lookup"><span data-stu-id="2606c-107">Select the number of users who will use Power BI.</span></span>
-
-<span data-ttu-id="2606c-108">Ak chcete priradiť licencie používateľom, prečítajte si tému [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="2606c-108">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
-
-<span data-ttu-id="2606c-109">Ak chcete kúpiť ďalšie licencie alebo odstrániť licencie, pozrite si tému [Pridanie alebo odstránenie licencií na predplatné](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="2606c-109">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="dc7ee-113">Ak si chcete kúpiť ďalšie alebo odobrať licencie, pozrite si tému [zakúpenie alebo odstránenie licencií na predplatné podniku](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="dc7ee-113">To buy more or remove licenses, see [Buy or remove Licenses for your business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
