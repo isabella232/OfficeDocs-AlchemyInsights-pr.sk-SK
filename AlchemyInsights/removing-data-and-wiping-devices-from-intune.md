@@ -1,36 +1,42 @@
 ---
-title: Odstránenie údajov a utieranie zariadení z intune
+title: Odstránenie údajov a vymazanie zariadení z Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: efaf111f694ab57d0435b141a6d4baad58658ed2
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
-ms.translationtype: MT
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440467"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416328"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Odstránenie údajov a utieranie zariadení z intune
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Odstránenie údajov a vymazanie zariadení z Intune
 
-Vzdialené akcie Zariadenia v režime odchodu do dôchodku a Vymazanie zariadení možno použiť na odstránenie údajov spoločnosti spravovaných spoločnosťou Intune alebo na obnovenie výrobných nastavení a vrátenie zariadenia do predvolených nastavení.
+Vzdialené akcie Vyradenie zariadenia a Vymazanie zariadenia možno použiť na odstránenie podnikových údajov spravovaných službou Intune alebo na resetovanie výrobných nastavení a obnovenie predvolených nastavení zariadenia.
 
-1. Prihláste sa do služby Správa zariadení od spoločnosti Microsoft 365 a prejdite do ponuky **Devices**  >  **All Devices (Všetky zariadenia).**
-2. Vyberte zariadenie, ktoré chcete vymazať.
-3. Vyberte typ vzdialeného vymazania, ktoré chcete urobiť. Odchod do dôchodku odstráni iba organizačné informácie, zatiaľ čo úplné vymazanie obnoví výrobné nastavenia zariadenia.
-4. Výber **potvrďte výberom** položky Yes (Áno). Kým vymazanie skončí, stav akcie zariadenie sa zobrazí ako Odchod do dôchodku čakajúce.</br>
-    Po dokončení akcie sa mobilné zariadenie už nebude nachádzať v zozname spravovaných zariadení.
+1. Prihláste sa do aplikácie Správa zariadení pre Microsoft 365 a prejdite na položku **Zariadenia** > **Všetky zariadenia**.
+2. Vyberte zariadenie, v ktorom chcete údaje vymazať.
+3. Vyberte požadovaný typ vzdialeného vymazania údajov. Možnosť vyradenia odstráni len informácie organizácie, zatiaľ čo úplné vymazanie údajov obnoví výrobné nastavenia zariadenia.
+4. Výber potvrďte kliknutím na tlačidlo **Áno**. Kým sa vymazanie nedokončí, stav akcie Zariadenie sa zobrazuje ako *Čaká sa na vyradenie*.
+    Po dokončení akcie sa mobilné zariadenie už v zozname spravovaných zariadení nebude nachádzať.
 
-**Upozornenie:** Údaje spoločnosti nie je možné odstrániť zo zariadení pripojených k službe Azure AD.
+> [!NOTE]
+> Údaje spoločnosti nie je možné odstrániť zo zariadení PRIPOJENÝCH do služby Azure AD. 
 
-Podrobné informácie o účinku akcií Odísť do dôchodku a Vymazanie vrátane toho, čo sa zachová a čo sa odstráni, nájdete [v téme Odstránenie zariadení pomocou vymazania, odchodu do dôchodku alebo manuálneho zrušenia zariadenia](https://docs.microsoft.com/intune/devices-wipe).
+Úplné podrobnosti o vplyve akcií Vyradeniie a Vymazanie vrátane toho, čo sa zachová a čo sa odstráni, nájdete v nasledujúcej dokumentácii:
 
-Ak chcete vymazať všetky údaje zo zariadenia so systémom macOS, pozrite [si tému Vymazanie všetkých údajov zo zariadenia so systémom macOS](https://docs.microsoft.com/intune/device-erase).
+- [Odstránenie zariadení pomocou vymazania, vyradenia alebo manuálneho zrušenia registrácie](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Vymazanie len podnikových údajov z aplikácií spravovaných službou Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Vymazanie všetkých údajov zo zariadenia so systémom macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
