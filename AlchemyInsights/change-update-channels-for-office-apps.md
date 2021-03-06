@@ -1,42 +1,33 @@
 ---
-title: Zmena aktualizačných kanálov pre aplikácie balíka Office
+title: Zmena kanálov aktualizácií pre aplikácie balíka Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4939682a6ca95c4f5475ee6aedea48c9ce83df7f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
-ms.translationtype: MT
+ms.openlocfilehash: 4239875c5d75b75787f9b93316f3153c94806b16
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440020"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448622"
 ---
-# <a name="change-update-channels-for-office-apps"></a>Zmena aktualizačných kanálov pre aplikácie balíka Office
+# <a name="change-update-channels-for-office-apps"></a>Zmena kanálov aktualizácií pre aplikácie balíka Office
 
-V prípade nových inštalácií balíka Office vyberte požadovaný kanál aktualizácie pomocou nastavení na prevzatie softvéru balíka Office a potom nainštalujte (alebo znova nainštalujte) aplikácie balíka Office. Ďalšie informácie nájdete v téme [Správa nastavení preberania softvéru v službách Office 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365). 
+Ak spravujete kanály aktualizácií aplikácií Microsoft 365 pomocou portálu pre správcov, pred inštaláciou aplikácií balíka Office vyberte položku **Možnosti inštalácie balíka Office** a vyberte požadovaný kanál aktualizácií. Ďalšie informácie nájdete v téme [Spravovanie možností inštalácie balíka Office v Centre spravovania služby Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).
 
-**Upozornenie:** Kanál aktualizácie vybratý pomocou nastavenia na prevzatie softvéru balíka Office sa vzťahuje na všetkých používateľov vykonávajúcich nové inštalácie pomocou portálu O365. Ďalšie informácie nájdete v téme [Prevzatie a inštalácia alebo preinštalovanie Microsoft 365 alebo Office 2019 v PC alebo Macu](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).   
+**Poznámka** Kanál aktualizácií vybratý pomocou položky **Možnosti balíka Office** sa vzťahuje na všetkých používateľov, ktorí vykonávajú nové inštalácie (a v niektorých prípadoch aj upravujú existujúce inštalácie). Ak na spravovanie spôsobu získavania aktualizácií funkcií používateľmi používate skupinovú politiku (GPO) alebo Microsoft Endpoint Configuration Manager (MECM), nastavenia, ktoré vyberiete v Centre spravovania služby Microsoft 365, sa nepoužijú.
 
-Pre existujúce inštalácie balíka Office, použite Nástroj office Deployment Tool (ODT) prepnúť na iný kanál aktualizácie:  
+Ak kanály aktualizácií aplikácií Microsoft 365 spravujete pomocou iných možností spravovania uvedených vyššie, pozrite si tému [Ako prepnúť kanály aktualizácií pre existujúce aplikácie balíka Office](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel).
 
-1. Prevezmite najnovšiu verziu nástroja Office Deployment Tool (setup.exe) zo [Strediska pre prevzatie softvéru spoločnosti Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
-2. Identifikujte názov kanála, na ktorý chcete prepnúť. Ďalšie informácie nájdete v téme [Možnosti konfigurácie nástroja na nasadenie balíka Office](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element).
-3. Vytvorte konfiguračný súbor XML určujúci príslušný názov kanála, napríklad update.xml.  
-    a. <Configuration>  
-    b. <aktualizácie **kanála ="Mesačne"** />  
-    c. </Configuration>
-4. Z príkazového riadka s právami správcu prepnite do umiestnenia priečinka, v ktorom setup.exe nachádza, a spustite nasledujúci príkaz:  
-    a. setup.exe /configure update.xml
-5. Spustite aplikáciu balíka Office (napríklad Excel) a potom vyberte **položku Konto**  >  **súboru**. V časti Informácie o produkte vyberte **položku Aktualizovať**  >  **možnosti aktualizácie**.
-
-Ďalšie informácie nájdete v téme [Prepínanie kanálov aktualizácie pre existujúce aplikácie balíka Office](https://support.microsoft.com/help/3185078/how-to-switch-from-semi-annual-channel-to-monthly-channel). 
-
-Prepínanie aktualizačných kanálov pre vybratú skupinu používateľov alebo pomocou Configuration Manager (SCCM), nakonfigurujte nastavenie aktualizácie kanála pomocou objektu gpo. Ďalšie informácie nájdete v téme [Prehľad aktualizačných kanálov pre aplikácie Microsoft 365](https://docs.microsoft.com/deployoffice/overview-update-channels#group-policy). Podrobnosti nájdete v téme [Správa kanálov služieb Office 365 ProPlus pre profesionálov z oblasti IT](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813) a správa [aktualizácií aplikácií Microsoft 365 pomocou programu Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager).
+Podrobné informácie sa nachádzajú v téme:  
+[Spravovanie kanálov služieb Office 365 ProPlus pre IT profesionálov](https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813)  
+[Spravovanie aktualizácií aplikácií Microsoft 365 pomocou nástroja Microsoft Endpoint Configuration Manager](https://docs.microsoft.com/deployoffice/manage-microsoft-365-apps-updates-configuration-manager)
