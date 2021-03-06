@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: d222eb92d806bad52264139a8ddba72f323b3783
+ms.sourcegitcommit: 10cfd9d552b0d8a096bcef34e82c04a4c166a13a
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430698"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50479468"
 ---
 # <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Správy odoslané skupine v Microsoft 365 nedostanú všetci členovia
 
@@ -30,3 +30,7 @@ Ak chcete skontrolovať stav správy členov, ktorí majú zapnutý odber e-mail
 Pomocou nasledujúceho príkazu prostredia PowerShell EXO nakonfigurujte všetkých členov skupiny na prijímanie e-mailov odoslaných skupine v Microsoft 365 do priečinka doručenej pošty:
 
 `$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
+
+Príklad:
+
+`$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
