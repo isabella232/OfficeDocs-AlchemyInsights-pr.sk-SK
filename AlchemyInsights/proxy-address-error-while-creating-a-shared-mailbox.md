@@ -12,18 +12,22 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: 368241a08b6bd1b5eeaf6e5c59ac68e27f761a46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ab491e883ab294f08d0b5d2e686dc059b468d29f
+ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768442"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50568305"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Chyba adresy proxy pri vytváraní zdieľanej poštovej schránky
+# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Chyba adresy servera proxy pri vytváraní poštovej schránky alebo iného objektu s povoleným e-mailom
 
-Ak ste sa pokúsili vytvoriť zdieľanú poštovú schránku a zobrazila sa táto chyba "adresa proxy" SMTP:alias@domain.com "sa už používa...", vybratá e-mailová adresa už je prijatá inou poštovou schránkou vo vašej organizácii.
+Ak ste sa pokúsili vytvoriť objekt s podporou e-mailu (poštová schránka, zdieľaná poštová schránka atď.) a zobrazilo sa chybové hlásenie "adresa proxy" SMTP:alias@domain.com "sa už používa...", vybratá e-mailová adresa je už v organizácii prijatá iným objektom s podporou e-mailu.
   
-Potrebujete nájsť používateľa, skupinu alebo zdieľanú poštovú schránku, ktorá má túto e-mailovú adresu, a odstrániť ju alebo zmeniť jej e-mailovú adresu. Potom môžete vytvoriť zdieľanú poštovú schránku s uvoľnenou e-mailovou adresou. Pomocou vyhľadávania na domovskej stránke ho vyhľadajte.
+Potrebujete nájsť používateľa, skupinu, zdieľanú poštovú schránku alebo verejný priečinok, ktorý má túto e-mailovú adresu, a odstrániť ho alebo zmeniť jeho e-mailovú adresu. Potom môžete vytvoriť nový objekt s podporou e-mailu s uvoľnenou e-mailovou adresou. Pomocou vyhľadávania na domovskej stránke ho vyhľadajte. Na jeho vyhľadanie môžete použiť aj tento príkaz prostredia Exchange Online PowerShell:
+
+`
+    Get-EXORecipient -Filter "EmailAddresses -eq 'email@contoso.onmicrosoft.com'"
+`
   
-Ak nechcete odstrániť existujúcu e-mailovú adresu, vyberte novú e-mailovú adresu zdieľanej poštovej schránky.
+Ak nechcete odstrániť existujúcu e-mailovú adresu, vyberte novú e-mailovú adresu pre nový objekt, ktorý vytvárate.
   
