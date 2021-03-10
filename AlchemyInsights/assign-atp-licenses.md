@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-- commerce
-ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0b6dea84c1342ef17f23180d3b917b052158cf46
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469605"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601839"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Priradenie licencií programu Microsoft Defender pre Office 365
 
@@ -31,4 +30,4 @@ Microsoft Defender pre Office 365 je možné priradiť používateľom v centre 
 5. Kliknite na položku **Zapnúť alebo vypnúť aplikácie a služby a**  priraďte alebo odstráňte.
 6. Kliknite na položku **priradiť** a potom na položku  **zatvorenie**.
 
-Ak si chcete kúpiť ďalšie alebo odobrať licencie, pozrite si tému [zakúpenie alebo odobratie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Ak chcete kúpiť ďalšie licencie alebo odstrániť licencie, pozrite si tému [Pridanie alebo odstránenie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

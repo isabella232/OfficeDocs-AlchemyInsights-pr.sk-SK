@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470021"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601001"
 ---
 # <a name="suspend-or-pause-licenses"></a>Pozastavenie alebo pozastavenie licencií
 
@@ -32,4 +31,4 @@ Ak chcete dočasne pozastaviť alebo pozastaviť používanie licencie, môžete
 4. Na stránke Podrobnosti predplatného vyberte položku **odstrániť licencie**.
 5. Na table **odstrániť licencie** zadajte do poľa **celkové licencie** celkový počet licencií, ktoré chcete pre toto predplatné, a potom vyberte položku **Uložiť**. Ak máte napríklad licencie na 100 a chcete pozastaviť alebo pozastaviť 25, zadajte 75 ako celkové licencie na predplatné.
 
-Ďalšie informácie nájdete v téme [zakúpenie alebo odstránenie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Ďalšie informácie nájdete v téme [Pridanie alebo odobranie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
