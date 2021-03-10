@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-- commerce
-ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 9393a123799c57f6ea112572d1e2be82f59abd5d
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468849"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602631"
 ---
 # <a name="visio-license-management"></a>Správa licencií na Visio
 
@@ -31,4 +30,4 @@ Správu licencií na Visio môžete vykonávať v **Centre spravovania služby 
 - Ak chcete **Kúpiť alebo odstrániť** licencie na Visio, prejdite na položky **Fakturácia > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Ďalšie informácie nájdete v téme [Nákup alebo odstránenie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
 - Ak chcete **zrušiť** predplatné na Visio, prejdite na položky **Fakturácia >[Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte predplatné na Visio a v sekcii **Nastavenia predplatného a platieb** vyberte **Zrušiť predplatné**. Ďalšie informácie nájdete v téme [Zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Ďalšie informácie nájdete v téme [Nákup alebo odstránenie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Ďalšie informácie nájdete v téme [Pridanie alebo odobranie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

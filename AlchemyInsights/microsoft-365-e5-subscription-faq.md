@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002658"
 - "5183"
-- commerce
-ms.openlocfilehash: 1f37ab779ab3181117772f2149cbcc02080262cb
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 6627a9887ac61874c59c2476834a136e6a7b6dd1
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468813"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602451"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Najčastejšie otázky o predplatnom na Microsoft 365 E5 a spravovaní licencií
 
