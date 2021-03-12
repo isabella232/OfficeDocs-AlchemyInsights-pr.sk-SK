@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: b13fed75dd4ebf9cbad2ca71b350ff7805ecfd27
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d096e3ea8566ab6c81aab3284b2a51b52e2b6de6
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718492"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707465"
 ---
 # <a name="outlook-search-not-indexing"></a>Vyhľadávanie v Outlooku nie je indexované
 
 Sme si vedomí problémov s vyhľadávaním v Outlooku, ktoré súvisia s nedávnymi aktualizáciami zabezpečenia pre Windows.
   
-Pri vyhľadávaní v Outlooku sa môže zobraziť niektorá z týchto chýb: Vyskytla sa **chyba a vyhľadávanie sa nepodarilo dokončiť**alebo **Výsledky hľadania môžu byť neúplné, pretože položky sa stále indexujú**. Oprava bola vydaná ako voliteľná služba Windows Update. Nainštalujte si ho, čo zodpovedá verzii systému Windows, na ktorú sa zobrazuje tento problém: 
+Pri vyhľadávaní v Outlooku sa môže zobraziť niektorá z týchto chýb: Vyskytla sa **chyba a vyhľadávanie sa nepodarilo dokončiť** alebo **Výsledky hľadania môžu byť neúplné, pretože položky sa stále indexujú**. Oprava bola vydaná ako voliteľná služba Windows Update. Nainštalujte si ho, čo zodpovedá verzii systému Windows, na ktorú sa zobrazuje tento problém: 
   
-> [Windows 7 – 27. jún 2017 aktualizácia](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7 – 27. jún 2017 aktualizácia](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
     
-> [Windows 8,1 – 27. jún 2017 aktualizácia](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1 – 27. jún 2017 aktualizácia](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
     
-> [Windows 10, verzia 1703 – 27. jún 2017, aktualizácia](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10, verzia 1703 – 27. jún 2017, aktualizácia](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
     
 Najnovšie informácie nájdete v článku: [známe problémy týkajúce sa Outlooku v aktualizáciách zabezpečenia v júni 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) problém #5. 
   
