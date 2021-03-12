@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917051"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708581"
 ---
 # <a name="myapps-portal-issues"></a>Problémy s portálom aplikácie apps
 
@@ -28,9 +28,9 @@ Ak chcete riešiť problémy, s ktorými sa stretnete pri prihlasovaní do port�
 
 Pokyny na zistenie, prečo sa aplikácie, ktoré očakávate, nezobrazujú na paneli prístupu k aplikácii, nájdete v témach:
 
-- [Neviem, prečo sa priradená aplikácia nezobrazuje na paneli programu Access](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Neviem, prečo sa priradená aplikácia nezobrazuje na paneli programu Access](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Neviem, prečo sa aplikácia zobrazuje na paneli programu Access](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Neviem, prečo sa aplikácia zobrazuje na paneli programu Access](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Mám problémy s prihlásením do panela Accessu aplikácie**
 

@@ -1,30 +1,31 @@
 ---
-title: Používanie prostredia PowerShell na zdieľanie politík a vzťahov organizácie
+title: Používanie prostredia Windows PowerShell na zdieľanie zásad a organizačných vzťahov
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 717cdd6827e243ac6bf375209a911937c97088d2
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: cd1d34e4dae474e61c799ca9234b2f18c718f27b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862155"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709481"
 ---
-# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>Používanie prostredia PowerShell na zdieľanie politík a vzťahov organizácie
+# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>Používanie prostredia Windows PowerShell na zdieľanie zásad a organizačných vzťahov
 
 
-Pre vzťahy organizácie si prečítajte podrobné informácie o syntaxi a parametri pre : [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [Set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship) a [Remove-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
+Pri organizačných vzťahoch si opäť pozrite podrobné informácie o syntaxi a parametroch pre: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [Set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship)  A  [Remove-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
 
-Ak chcete vytvoriť politiku zdieľania, použite [novú politiku zdieľania](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Ak chcete [použiť politiku zdieľania pre poštovú schránku alebo používateľa,](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy%23use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes) musíte použiť kombináciu [set-mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) a [Get-Mailbox](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) s novovytvorenou politikou. Ak chcete [upraviť, vypnúť alebo odstrániť politiku zdieľania,](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy) musíte použiť [Set-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) a [Odstrániť ZdieľaniePolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
+Zásady zdieľania vytvoríte pomocou [New-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Ak chcete [použiť zásadu zdieľania pre poštovú schránku alebo používateľa](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy#use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes), musíte použiť kombináciu [Set-Mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) a [Get-Mailbox](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) s novovytvorenou zásadou. Ak chcete [zmeniť, vypnúť alebo odstrániť zásady zdieľania](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy), musíte použiť [Set-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) a [Remove-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
 
-**Pre úplné pochopenie tejto témy prečítajte si prosím:**
+**Podrobné informácie o tejto téme nájdete v článku:**
 
-[Zdieľanie v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing)
+[Zdieľanie v Exchangei Online](https://docs.microsoft.com/exchange/sharing/sharing)
