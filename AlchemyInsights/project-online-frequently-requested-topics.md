@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 610f5b28bd557a67d45e85714d93e7074760452c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 847cfa73c98905dbd87004ea51b5005c59298545
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801703"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708149"
 ---
 # <a name="project-online-frequently-requested-topics"></a>Najčastejšie požadované témy v Projecte Online
 
@@ -26,7 +26,7 @@ Tu je niekoľko najčastejšie vyžiadaných tém s Projectom:
 
 Tu sú najčastejšie vyžiadané témy pre Project:
 1.  Začíname: 
-    -   [Začíname s Projectom online](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
+    -   [Začíname s Projectom online](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
     -   [Dokumentácia k správcovi Projectu Online](https://docs.microsoft.com/projectonline/project-online) 
     -   [Project Online: hranice a limity softvéru](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
 2.  [Pridať ľudí, skupiny a zdroje a potom zdieľať Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 

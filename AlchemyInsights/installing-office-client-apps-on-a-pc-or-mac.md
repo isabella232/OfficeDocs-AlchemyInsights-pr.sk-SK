@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667857"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708365"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Inštalácia klientskych aplikácií balíka Office do PC alebo Macu
 
 Ak chcete nainštalovať klientske aplikácie balíka Office, uistite sa, že máte predplatné služieb Office 365 alebo Microsoft 365, ktoré [zahŕňa klientske aplikácie balíka Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), napr. Microsoft 365 Business Standard, Aplikácie Microsoft 365 pre firmy alebo Aplikácie Microsoft 365 pre veľké organizácie.
 
-**Poznámka**: [Office pre podnikateľov](https://products.office.com/home-and-business) je produkt balíka [Office pre domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a nie je súčasťou podnikového predplatného. Project Online Essentials nezahŕňa počítačovú verziu Projectu, preto inštalácia nie je potrebná. Používatelia s plánom Visio Plan 1 majú prístup k Visiu pre web, keďže tento plán nezahŕňa počítačovú aplikáciu Visio. Počítačové aplikácie Project a Visio nie sú k dispozícii v Macu.
+**Poznámka**: [Office pre podnikateľov](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) je produkt balíka [Office pre domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a nie je súčasťou podnikového predplatného. Project Online Essentials nezahŕňa počítačovú verziu Projectu, preto inštalácia nie je potrebná. Používatelia s plánom Visio Plan 1 majú prístup k Visiu pre web, keďže tento plán nezahŕňa počítačovú aplikáciu Visio. Počítačové aplikácie Project a Visio nie sú k dispozícii v Macu.
 
 Ak máte predplatné, ktoré zahŕňa aplikácie Microsoft 365, nezobrazí sa vám možnosť inštalácie, pokiaľ nemáte [priradenú licenciu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ak ste správcom služieb Office 365 zodpovedným za priraďovanie licencií, pozrite si tému [Priradenie licencií používateľom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Môžete tiež použiť [nastavenia sťahovania softvéru balíka Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) a vybrať, či si používatelia budú môcť inštalovať aplikácie balíka ‎Office‎ do svojich zariadení.
 
