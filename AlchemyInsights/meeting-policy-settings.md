@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794349"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704621"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Správa politík schôdze v aplikácii Microsoft teams
 
@@ -30,6 +30,6 @@ Politiky schôdze sa používajú na ovládanie funkcií, ktoré sú k dispozíc
 - Ďalšie informácie o vytváraní politík, vykonávaní zmien a priradení používateľov k politike nájdete [v téme Správa politík schôdze v aplikácii teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Ak chcete vykonať zmeny politiky pomocou rutiny typu cmdlet prostredia PowerShell, pozrite si tému [Prehľad tímov PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Na politiku schôdze v aplikácii teams musíte použiť [modul PowerShell pre Skype for Business](https://www.microsoft.com/download/details.aspx?id=39366) . 
+    - Na politiku schôdze v aplikácii teams musíte použiť [modul PowerShell pre Skype for Business](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) . 
     - Ďalšie informácie nájdete v [dokumentácii k rutine cmdlet *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
 
