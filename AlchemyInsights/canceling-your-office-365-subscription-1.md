@@ -2,9 +2,9 @@
 title: Ruší sa predplatné na Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757243"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837433"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="97ba7-102">Ruší sa predplatné na Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="97ba7-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="7c105-102">Ruší sa predplatné na Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="7c105-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="97ba7-103">Ľutujeme, že sa vám zobrazuje, ale tu sú vaše možnosti na zrušenie predplatného:</span><span class="sxs-lookup"><span data-stu-id="97ba7-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
-  
-- <span data-ttu-id="97ba7-104">**Na základe údajov vašej organizácie veríme, že všetky vaše aktuálne predplatné sú skúšobné predplatné. Nie je potrebné explicitne zrušiť skúšobné predplatné, pretože predplatné na skúšobnú verziu nevyžaduje žiadne platby a po skončení skúšobnej verzie nie je k dispozícii žiadna povinnosť.**</span><span class="sxs-lookup"><span data-stu-id="97ba7-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+<span data-ttu-id="7c105-103">Ľutujeme, že sa vám zobrazuje, tu sú kroky na zrušenie predplatného:</span><span class="sxs-lookup"><span data-stu-id="7c105-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-- <span data-ttu-id="97ba7-105">Ďalšie informácie o zrušení predplatného alebo podrobný návod nájdete v tomto článku: [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="97ba7-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span></span>
+1. <span data-ttu-id="7c105-104">V centre spravovania prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** a potom vyberte kartu **produkty** .</span><span class="sxs-lookup"><span data-stu-id="7c105-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="7c105-105">Vyhľadajte predplatné, ktoré chcete zrušiť.</span><span class="sxs-lookup"><span data-stu-id="7c105-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="7c105-106">Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.</span><span class="sxs-lookup"><span data-stu-id="7c105-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="7c105-107">Na table **zrušiť predplatné** vyberte dôvod, prečo sa ruší.</span><span class="sxs-lookup"><span data-stu-id="7c105-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="7c105-108">Voliteľne môžete poskytnúť žiadne pripomienky.</span><span class="sxs-lookup"><span data-stu-id="7c105-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="7c105-109">Vyberte položku **Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="7c105-109">Select **Save**.</span></span>
+
+<span data-ttu-id="7c105-110">Ďalšie informácie o zrušení predplatného alebo možnostiach nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="7c105-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
