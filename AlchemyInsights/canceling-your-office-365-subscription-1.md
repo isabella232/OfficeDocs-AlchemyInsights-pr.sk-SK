@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896918"
+ms.locfileid: "50931663"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Ruší sa predplatné na Microsoft 365?
 
@@ -30,3 +30,5 @@ ms.locfileid: "50896918"
 4. Vyberte položku **Uložiť**.
 
 Ďalšie informácie o zrušení predplatného alebo možnostiach nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+
+Ak chcete pokračovať v používaní predplatného počas trvania skúšobnej verzie, môžete vypnúť opakovanú fakturáciu predplatného. Ďalšie informácie nájdete v téme [Obnovenie služieb Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
