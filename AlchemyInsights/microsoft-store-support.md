@@ -1,0 +1,29 @@
+---
+title: Technická podpora pre Microsoft Obchod
+ms.author: pebaum
+author: pebaum
+manager: dansimp
+ms.date: 3/26/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9005680"
+- "9751"
+ms.openlocfilehash: 87c5c263e138e0ee025248dc074b84c24496df0e
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: sk-SK
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51037129"
+---
+# <a name="microsoft-store-support"></a>Technická podpora pre Microsoft Obchod
+
+Načúvame a chceme vám pomôcť. Ak potrebujete pomoc pri vyhľadávaní informácií o nákupe produktov, stave objednávky, problémoch s fakturáciou, špeciálnych akciách, vyhľadávaní informácií o produkte alebo podpore spoločnosti Microsoft Store, prečítajte si tému [kontaktovanie podpory pre Microsoft Obchod](https://support.microsoft.com/account-billing/contact-microsoft-store-support-4f615f2a-6bbd-fd69-6695-ae213d63eef0).
+
+Ďalšie informácie o novo vydaných zariadeniach alebo pripravovaných produktoch spoločnosti Microsoft nájdete v téme [Microsoft Store](https://www.microsoft.com/?ql=1).
+
+Ďakujeme, že ste zákazníkom spoločnosti Microsoft.
