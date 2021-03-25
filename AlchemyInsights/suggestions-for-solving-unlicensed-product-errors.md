@@ -2,8 +2,8 @@
 title: Návrhy na riešenie chýb produktu bez platnej licencie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: b1a1ebe313cc90d49633522546b7757fc2d93543
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1df8b7ef04d57c0cf8ac76385363175ac46d062b
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808434"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200616"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Návrhy na riešenie chýb produktu bez platnej licencie
 
-Uistite sa, že máte predplatné, ktoré umožňuje klientskym licenciám, ako je napríklad Microsoft 365 Apps for Business alebo Microsoft 365 Business Premium Standard, a [zabezpečte, aby mal používateľ priradenú licenciu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Deaktivujte inštaláciu](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) a skontrolujte, či ste prekročili počet inštalácií podporovaných vaším predplatným.
+Uistite sa, že máte predplatné, ktoré umožňuje klientskym licenciám, ako sú napríklad aplikácie Microsoft 365 Apps for Business alebo Microsoft 365 Business Standard, a [zabezpečte, aby mal používateľ priradenú licenciu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Deaktivujte inštaláciu](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) a skontrolujte, či ste prekročili počet inštalácií podporovaných vaším predplatným.
   
 Skontrolujte, či sa Používateľ prihlasuje s tým istým kontom, ktoré má priradenú licenciu.
   
