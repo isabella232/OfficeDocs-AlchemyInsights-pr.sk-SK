@@ -1,5 +1,5 @@
 ---
-title: Používanie prehliadača Microsoft Edge na vzdialenú ladenie zariadenia s Androidom z rozvojového počítača
+title: Použitie aplikácie Microsoft Edge na vzdialené ladenie zariadenia s Androidom z vývojového počítača
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583939"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398708"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Používanie prehliadača Microsoft Edge na vzdialenú ladenie zariadenia s Androidom z rozvojového počítača
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Použitie aplikácie Microsoft Edge na vzdialené ladenie zariadenia s Androidom z vývojového počítača
 
 Ak chcete na diaľku ladiť živý obsah v zariadení s Androidom z počítača:
 
-1. Nastavte zariadenie s Androidom na ladenie vzdialeného ladenia a Objavte ho v počítači s vývojom.
-2. Z počítača s vývojom Skontrolujte a naladiť živý obsah v zariadení s Androidom.
-3. Obsah screencast Live zo zariadenia s Androidom na inštanciu DevTools v počítači s vývojom.
+1. Nastavte zariadenie s Androidom na vzdialené ladenie a objavte ho z vývojového počítača.
+2. Z vývojového počítača môžete skontrolovať a ladiť živý obsah v zariadení s Androidom.
+3. Snímka obrazovky so živým obsahom zo zariadenia s Androidom na inštanciu DevTools v počítači s vývojom.

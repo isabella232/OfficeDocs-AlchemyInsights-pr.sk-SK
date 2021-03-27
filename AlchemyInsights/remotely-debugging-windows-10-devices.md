@@ -1,5 +1,5 @@
 ---
-title: Začíname s vzdialenou ladením zariadení s Windowsom 10
+title: Začíname s ladením zariadení s Windowsom 10 na diaľku
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583963"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398579"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Začíname s vzdialenou ladením zariadení s Windowsom 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Začíname s ladením zariadení s Windowsom 10 na diaľku
 
-Ak chcete na diaľku ladiť živý obsah v zariadení s Windowsom 10 z počítača s Windowsom alebo systémom macOS:
+Ak chcete na diaľku ladiť živý obsah v zariadení s Windowsom 10 z počítača s Windowsom alebo macOS:
 
-1. Nastavte zariadenie s Windowsom 10 na ladenie na diaľku a potom sa k nemu pripojte z vývojového stroja.
-2. V zariadení s Windowsom 10 skontrolujte a naladiť živý obsah zo svojho vývojového zariadenia.
-3. Obsah screencastu z zariadenia s Windowsom 10 na inštanciu DevTools vo vašom vývojovom zariadení.
+1. Nastavte zariadenie s Windowsom 10 na vzdialené ladenie a pripojte sa k neho z vývojového zariadenia.
+2. Skontrolujte a ladenie živého obsahu v zariadení s Windowsom 10 z vývojového stroja.
+3. Screencast content from your Windows 10 device onto a DevTools instance on your development machine.
 
-Ďalšie informácie nájdete v téme [Začíname s funkciou vzdialeného ladenia zariadení s Windowsom 10 pomocou prehliadača Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Ďalšie informácie nájdete v téme [Začíname so vzdialeným ladením zariadení s Windowsom 10 pomocou Microsoft Edgeu.](https://go.microsoft.com/fwlink/?linkid=2142172)

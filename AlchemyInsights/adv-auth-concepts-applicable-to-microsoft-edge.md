@@ -1,5 +1,5 @@
 ---
-title: Rozšírené koncepty overovania platné pre Microsoft Edge
+title: Pokročilé koncepcie overovania platné pre Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573530"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398600"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Rozšírené koncepty overovania platné pre Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Pokročilé koncepcie overovania platné pre Microsoft Edge
 
-Nižšie sú uvedené pokročilé overovacie koncepty, ktoré sa vzťahujú na Microsoft Edge:
+Nižšie sú uvedené pokročilé koncepty overovania, ktoré sa vzťahujú na Microsoft Edge:
 
 **Proaktívne overovanie**
 
-Keď povolíte politiku [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) , Microsoft Edge sa bude pokúšať aktívne autentifikovať používateľov s prihlásením prostredníctvom služieb spoločnosti Microsoft. V pravidelných intervaloch bude používať online službu na vyhľadanie aktualizovaného manifestu, ktorý obsahuje konfiguráciu, ktorá sa riadi proaktívnym overovaním.
+Po zapnutí politiky [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) sa Microsoft Edge pokúsi proaktívne overiť prihlásených používateľov prostredníctvom služieb spoločnosti Microsoft. V pravidelných intervaloch bude používať online službu na kontrolu aktualizovaného manifestu, ktorý obsahuje konfiguráciu, ktorá riadi proaktívne overovanie.
 
-Výhody: proaktívne overovanie umožňuje overenie kľúčových služieb, ako je napríklad stránka na novej karte balíka Office. Aj v prípade, že sa Bing používa ako vyhľadávací nástroj, aktívne overovanie zlepšuje výkon panela s adresou a pomáha vytvárať výsledky vyhľadávania prispôsobené potrebám vášho podniku.
+Výhody: Proaktívne overovanie umožňuje overovanie v kľúčových službách, ako je napríklad stránka Nová karta balíka Office. Ak sa ako vyhľadávací nástroj používa Bing, proaktívne overovanie zlepšuje výkon panela s adresou a pomáha generovať výsledky vyhľadávania prispôsobené potrebám vášho podniku.
 
-**Windows Hello CredUI pre overovanie NTLM**
+**Overovanie Systému Windows Hello CredUI pre systém NTLM**
 
-Ak nie je k dispozícii jediné prihlásenie (SSO), keď sa webová lokalita pokúsi prihlásiť používateľa prostredníctvom protokolu NTLM alebo vyjednávacieho mechanizmu, táto funkcia umožní používateľovi zdieľať poverenia operačného systému s webovou lokalitou a splniť výzvu na overenie pomocou používateľského rozhrania Windows Hello Cred. Tento tok pri prihlasovaní sa zobrazí iba vo Windowse 10 a len pre používateľov, ktorí nezískajú SSO v priebehu protokolu NTLM alebo vyjednávacieho problému.
+Ak jediné prihlásenie (SSO) nie je k dispozícii, keď sa webová lokalita pokúsi používateľa prihlásiť prostredníctvom mechanizmu NTLM alebo Vyjednať, táto funkcia umožní používateľovi zdieľať poverenia operačného systému s webovou lokalitu a splniť výzvu overenia pomocou používateľského rozhrania Windows Hello Cred. Tento tok prihlásenia sa zobrazí len vo Windowse 10 a len pre používateľov, ktorí nemajú jediné prihlásenie počas NTLM alebo vyjednania výzvu Vyjednať.
 
 **Automatické prihlásenie pomocou uložených hesiel**
 
-Používatelia, ktorí ukladajú heslá v prehliadači Microsoft Edge, môžu povoliť automatické prihlásenie na webové lokality, na ktorých boli uložené poverenia. Používatelia môžu túto funkciu zapnúť alebo vypnúť v edge://settings/passwords a môžete ju nakonfigurovať v politikách [správcu hesiel](https://go.microsoft.com/fwlink/?linkid=2134622) .
+Používatelia, ktorí ukladajú heslá v Microsoft Edgei, môžu povoliť automatické prihlásenie na webové lokality, na ktorých uložili poverenia. Používatelia môžu túto funkciu v počítačovej edge://settings/passwords zapnúť alebo vypnúť a môžete ju nakonfigurovať v rámci politík [správcu hesiel.](https://go.microsoft.com/fwlink/?linkid=2134622)
