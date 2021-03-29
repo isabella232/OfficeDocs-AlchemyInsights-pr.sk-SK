@@ -1,5 +1,5 @@
 ---
-title: Pracovný postup sa nezačína
+title: Pracovný postup sa nes začatím
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,39 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794782"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403758"
 ---
-# <a name="workflow-is-not-starting"></a>Pracovný postup sa nezačína
+# <a name="workflow-is-not-starting"></a>Pracovný postup sa nes začatím
 
-- Pracovné postupy SharePointu 2010 a SharePointu 2013 sa nespúšťajú.
+- Pracovné postupy SharePointu 2010 a SharePointu 2013 sa nesajú.
 
-    - Ak sa váš pracovný postup nespúšťa, môže sa vyskytnúť dočasný problém so službou, v ktorom sa môžu používatelia občas zdržiavať s priebehom pracovného postupu. Ak chcete zistiť, či je vaša organizácia ovplyvnená, pozrite si [tabuľu stavu služby](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) .
+    - Ak sa pracovný postup nes začatím nezačína, môže ísť o dočasný problém so službami, v rámci ktorého sa používateľom môžu vyskytnúť občasné oneskorenia s priebehom pracovného postupu. Skontrolujte [tabuľu stavu služby a](https://admin.microsoft.com/AdminPortal/Home/servicehealth) zistite, či to bude mať vplyv na vašu organizáciu.
 
-    - Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prihláste lístok technickej podpory. V mnohých prípadoch už pracujeme na riešení. Ak chcete vyplniť riešenie, poskytnite nám aspoň 24 hodín.
+    - Ak uplynulo viac než 24 hodín od toho, čo ste tento problém prvýkrát videli, prihláste sa do lístka technickej podpory. V mnohých prípadoch už pracujeme na riešení. Dajte nám aspoň 24 hodín na dokončenie riešenia.
 
-- Pracovné postupy SharePointu 2010 oneskorené pri spustení.
+- Pracovné postupy SharePointu 2010 sa oneskorili pri spustení.
 
-    - Tento problém sa vyskytuje, ak je pracovný postup spustený vo veľkých dávkach. (napríklad pri pridávaní viacerých položiek naraz).
+    - Dochádza k tomu, ak sa pracovný postup spustí vo veľkých dávkach. (napríklad, keď sa pridá niekoľko položiek naraz).
 
-    - Pracovné postupy nie sú určené na spustenie v reálnom čase, takže oneskorenie je pri návrhu.
+    - Pracovné postupy nie sú navrhnuté na spustenie v reálnom čase, preto je oneskorenie v štýle návrhu.
 
-   -  Ak je pracovný postup zložitý Extensible Object Markup Language (XMOL), kompilácia môže byť pomalý. Pozrite si [Tento](https://support.microsoft.com//kb/3043697) článok.
+   -  Ak je pracovný postup komplexný extensible Object Markup Language (XILE), kompilácia môže byť pomalá. Pozrite [si tento](https://support.microsoft.com//kb/3043697) článok.
 
-    - Pracovný postup by ste mali zjednodušiť alebo ho môžete znova navrhnúť pomocou typu platformy pracovného postupu Microsoft SharePoint 2013.
+    - Pracovný postup by ste mali zjednodušiť alebo ho vylepšiť pomocou typu platformy Microsoft SharePoint 2013 Workflow.
 
-    - Ak sa História pracovných postupov rozrástla na veľké, možno budete chcieť vyčistiť položky alebo vytvoriť nový zoznam histórie.
+    - Ak sa história pracovného postupu príliš rozrástla, môžete položky vymazať alebo vytvoriť nový zoznam histórie.
 
         Ďalšie informácie: [Vymazanie histórie pracovného postupu](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Súvisiace témy
-Chcete vyskúšať Microsoft flow v SharePointe Online?
+Chcete vyskúšať Microsoft Flow v SharePointe Online?
 - [Vytvorenie toku](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint a tok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-
+- [SharePoint a Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

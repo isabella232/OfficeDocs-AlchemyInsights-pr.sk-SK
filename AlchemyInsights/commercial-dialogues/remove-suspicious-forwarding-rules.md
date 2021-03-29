@@ -1,9 +1,9 @@
 ---
-title: Odstránenie podozrivých pravidiel preposielania
+title: Odstránenie podozrivých pravidiel presmerovania
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: b1319a1432546efc62e462aafdea5c826d581764
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 6bbda4191d677a137ea0a834385d48a941050ef5
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483222"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403542"
 ---
-# <a name="remove-suspicious-forwarding-rules"></a>Odstránenie podozrivých pravidiel preposielania
+# <a name="remove-suspicious-forwarding-rules"></a>Odstránenie podozrivých pravidiel presmerovania
 
-Ak chcete odstrániť všetky podozrivé pravidlá preposielania, postupujte podľa týchto krokov. Toto je ďalší spôsob, ako hakeri posielajú e-mailové správy používateľov.
+Ak chcete odstrániť akékoľvek podozrivé pravidlá presmerovania, postupujte podľa týchto krokov. Toto je ďalší spôsob, ako hakeri preposielajú e-mailové správy používateľov samy sebe.
 
-1. Ak používate Outlook 2016, na karte **domov** kliknite na položku **pravidlá**  >  **spravovať pravidlá & upozornenia**. 
-1. Na karte **pravidlá e-mailu** sa posúvajte v zozname a odstráňte všetky nerozpoznané pravidlá.
-1. Ak používate Outlook na webe, kliknite na ikonu **nastavenia** > **Zobraziť všetky nastavenia Outlooku**.
-1. Kliknite na položku **preposielanie** a zrušte začiarknutie všetkých podozrivých pravidiel preposielania, ktoré nepoznáte.
+1. Ak používate Outlook 2016, na karte Domov **kliknite** na **položku** Pravidlá a  >  **& upozornení.** 
+1. Na karte **Pravidlá e-mailu** sa posuňte v zozname a odstráňte všetky pravidlá, ktoré nepoznáte.
+1. Ak používate Outlook na webe, kliknite na ikonu **Nastavenie** a potom > **Zobraziť všetky nastavenia Outlooku.**
+1. Kliknite **na položku Preposielanie** a vymažte všetky podozrivé pravidlá preposielanie, ktoré nepoznáte.

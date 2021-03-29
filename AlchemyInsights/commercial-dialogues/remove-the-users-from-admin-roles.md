@@ -3,7 +3,7 @@ title: Odstránenie používateľov z rolí správcu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: fc4bd22861fbc1d254d0fdd4d6c5fa46e63d550e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 23a6533f0ae759a7b8bc4a668f1f6d11e297da26
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483209"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403146"
 ---
 # <a name="remove-the-users-from-the-admin-roles"></a>Odstránenie používateľov z rolí správcu
 
-Postupujte takto:
+Postup:
 
-1. V centre spravovania vyberte položku **Používatelia**  >  [**aktívni používatelia**](https://go.microsoft.com/fwlink/p/?linkid=834822).
-1. Vyberte používateľa, ktorého konto bolo ohrozené.
-1. V zobrazenom rozbaľovacom zozname vyberte položku **Upraviť** pre **roly**. Odstráňte používateľa z ľubovoľnej roly správcu, kým nebudete mať istotu, že ich konto už nie je ohrozené.
+1. V centre spravovania vyberte položku **Aktívni**  >  [**používatelia Používatelia.**](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. Vyberte používateľa, ktorého konto bolo zneužiné.
+1. V zobrazenej bubline vyberte položku Upraviť **pre** **roly**. Odstráňte používateľa z ľubovoľnej roly správcu, kým si nie ste istí, či jeho konto už nie je zneužiné.
 

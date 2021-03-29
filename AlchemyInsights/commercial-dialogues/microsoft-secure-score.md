@@ -1,9 +1,9 @@
 ---
-title: Microsoft Secure Score
+title: Výsledky zabezpečenia od spoločnosti Microsoft
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: c8fe2efbc8832b02004bcd01eb289d54a42d78f8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483698"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403254"
 ---
-# <a name="microsoft-secure-score"></a>Microsoft Secure Score
+# <a name="microsoft-secure-score"></a>Výsledky zabezpečenia od spoločnosti Microsoft
 
-Pomocou Microsoft Secure Score môžete zabezpečiť, aby vaše prostredie bolo bezpečnejšie. Myslite na to ako kreditné skóre zabezpečenia. Zobrazuje vám akcie, ktoré môžete vykonať, ktoré by mohli pomôcť zlepšiť zabezpečenie organizácie.
+Vaše prostredie môžete bezpečnejšie zabezpečiť pomocou funkcie Výsledky zabezpečenia spoločnosti Microsoft. Ide o hodnotenie kreditu na zabezpečenie. Obsahuje informácie o akciách, ktoré môžete urobiť, a ktoré vám môžu pomôcť zlepšiť zabezpečenie organizácie.
 
-1. Prejdite na [centrum dodržiavania súladu & zabezpečenia služieb Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Vyberte kartu Microsoft Secure Score alebo prejdite na položku [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
+1. Prejdite do Centra [zabezpečenia a dodržiavania & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Vyberte kartu Výsledky zabezpečenia od spoločnosti Microsoft alebo prejdite na [položku Výsledky zabezpečenia spoločnosti Microsoft.](https://go.microsoft.com/fwlink/?linkid=2099589)
     > [!TIP]
-    >  Na stránke Microsoft Secure Score Overview (prehľad) vyberte akcie na zlepšenie pre odporúčania na zabezpečenie organizácie. Ak chcete rýchlo identifikovať akcie, ktoré by mohli byť lepšie, ak ich dokončíte v objednávke, môžete vybrať možnosť filtrovať alebo zoskupiť podľa tabuľky.
-1. Vyberte akciu na zlepšenie zo zoznamu. Zobrazí sa rozbaľovacie tlačidlo, ktoré poskytuje stručný popis akcie.
-1. Kliknite na položku **Nastavenie zobrazenia** a potom postupujte podľa pokynov, ktoré sú uvedené v **nasledujúcich krokoch**.
+    >  Na stránke Prehľad výsledkov zabezpečenia spoločnosti Microsoft vyberte položku Akcie vylepšovania, pomocou ktorých môžete získať odporúčania na zabezpečenie svojej organizácie. V tabuľke môžete vybrať položku Filter alebo Zoskupiť podľa, pomocou ktorej môžete rýchlo identifikovať akcie, ktoré by mohli byť lepšie, ak ich dokončite v poradí.
+1. V zozname vyberte akciu vylepšovania. Zobrazí sa leták s krátkym popisom akcie.
+1. Kliknite **na položku** Nastavenie zobrazenia a potom postupujte podľa pokynov v časti Ďalšie **kroky.**
     > [!NOTE]
-    > Pri konfigurácii odporúčaných funkcií zabezpečenia máte uvedené body, Nezabudnite však, že niektoré akcie sú označené ako **[neskóroval]**. To znamená, že aj v prípade, že ste vykonali akcie na zlepšenie, nebudete mať žiadne body za svoje skóre. V opačnom prípade *môže trvať až 24 hodín* , kým sa vaše skóre aktualizuje.
+    > Body konfigurácie odporúčaných funkcií zabezpečenia sa odporúčajú, nezabúdajte však, že niektoré akcie sú označené ako **[Ne hodnotení].** Znamená to, že ani v prípade, že implementujete túto akciu zlepšovania, nebudete môcť získať body za vaše skóre. V opačnom prípade môže aktualizácia vášho skóre trvať až *24* hodín.
 
-Ďalšie informácie o Microsoft Secure Score nájdete v téme [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2103077).
+Ďalšie informácie o výsledky zabezpečenia od spoločnosti Microsoft nájdete v téme [Výsledky zabezpečenia spoločnosti Microsoft.](https://go.microsoft.com/fwlink/?linkid=2103077)

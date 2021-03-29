@@ -11,47 +11,49 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004344"
+- "9004357"
 - "9384"
-ms.openlocfilehash: 32790b23547de36cd2864e85ebae67f54ad91707
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+- "9863"
+ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841673"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402282"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Konfigurácia bezproblémového jediného prihlásenia (SSO)
 
-**Konfigurácia aplikácií**
+**Konfigurovanie aplikácií**
 
-1. Mali by ste získať hodnoty od dodávateľa aplikácie. Ak chcete extrahovať hodnotu polí, môžete manuálne zadať hodnoty alebo nahrať súbor metaúdajov.
-2. Mnohé aplikácie už boli vopred nakonfigurované tak, aby fungovali so službou Azure AD. Tieto aplikácie sú uvedené v galérii aplikácií, ktoré môžete prehľadávať pri pridávaní aplikácie do nájomníka služby Azure AD. [Rad](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) rýchlych krokov vás bude sprevádzať procesom.
-3. Ak chcete vytvoriť aplikáciu, ktorá nie je Galéria, môžete kliknúť na položku **+ vytvoriť vlastnú aplikáciu** a pomenovať ju do aplikácie.
-    - Predvolene sa vyberie možnosť **integrovať všetky ostatné aplikácie, ktoré nenájdete v galérii** , ktorá je správnou možnosťou pre aplikácie mimo galérie.
-    - Keď po zadaní názvu aplikácie stlačíte kláves **Create** , vytvorí sa nová podniková aplikácia, ktorá nie je Galéria.
-    - Potom sa môžete prejsť na **jediné prihlásenie** v časti **spravovanie** tejto aplikácie a budete môcť zobraziť rôzne postupy na jej realizáciu vo vašom prostredí.
+1. Hodnoty by ste mali získať od dodávateľa aplikácie. Hodnoty môžete manuálne zadať alebo nahrať súbor metaúdajov na extrahovanie hodnoty polí.
+2. Mnohé aplikácie už boli vopred nakonfigurované na prácu so službou Azure AD. Tieto aplikácie sú uvedené v galérii aplikácií, ktoré môžete prehľadávať po pridaní aplikácie do nájomníka služby Azure AD. Séria [Rýchly štart](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) vás procesom obsahuje.
+3. Ak chcete vytvoriť aplikáciu, ktorá nie je galéria, môžete kliknúť na **položku +** Vytvoriť vlastnú aplikáciu a pomenovať aplikáciu.
+    - Predvolene sa vyberie možnosť Integrovať **všetky ostatné** aplikácie, ktoré v galérii nenájdete, čo je správna možnosť pre aplikácie, ktoré nie sú galériami.
+    - Po uvedení **názvu aplikácie** na tlačidlo Vytvoriť sa vytvorí nová podniková aplikácia mimo galérie.
+    - Potom môžete prejsť na položku Jediné  prihlásenie **v** časti Spravovanie tejto aplikácie a uvidíte rôzne spôsoby jej implementácie vo svojom prostredí.
 
-**Konfigurácia bezproblémového SSO pre konkrétnu aplikáciu**
+**Konfigurácia bezproblémového jediného prihlásenia pre konkrétnu aplikáciu**
 
-Informácie o aplikáciách v galérii nájdete v podrobných pokynoch, krok za krokom. Ak chcete získať prístup k krokom, môžete si pozrieť zoznam všetkých kurzov konfigurácie aplikácií v [kurzoch konfigurácie aplikácií SaaS](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list).
+Pre aplikácie v galérii nájdete podrobné podrobné pokyny. Ak chcete získať prístup k postupu, môžete prehľadávať zoznam všetkých kurzov o konfigurácii aplikácií v kurzoch konfigurácie aplikácie [SaaS.](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)
 
-**Konfigurácia jediného prihlásenia na základe SAML**
+**Konfigurácia jediného prihlásenia na základe súborov SAML**
 
-1. Rýchly [Štart: nastavenie jediného prihlásenia na základe SAML (SSO) pre aplikáciu v nájomníkovi služby Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso).
-2. Ďalšie informácie o možnosti založenej na SAML pre jediné prihlásenie nájdete v téme [vysvetlenie jediného prihlásenia založeného na SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on).
-3. Ďalšie informácie o požiadavkách na overenie SAML 2,0 a odpovediach, ktoré podporuje Azure Active Directory (Azure AD) pre jednu Sign-On (SSO), nájdete v téme [single Sign-On protokol SAML](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol).
-4. Ďalšie informácie o vytváraní a konfigurácii jediného prihlásenia (SSO) pre vašu aplikáciu v službe Azure Active Directory (Azure AD) pomocou rozhrania API Microsoft Graphu nájdete v téme [Konfigurácia jediného prihlásenia v službe SAML pre aplikáciu pomocou rozhrania Microsoft Graph API](https://docs.microsoft.com/graph/application-saml-sso-configure-api).
-5. Informácie o tom, ako Azure AD používa protokol SAML, nájdete [v téme ako platforma Microsoft Identity používa protokol SAML](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
+1. [Rýchly štart: Nastavte](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)jediné prihlásenie (SSO) založené na SAML pre aplikáciu v nájomníkovi Azure Active Directory (Azure AD).
+2. Ďalšie informácie o možnosti založenej na saml pre jediné prihlásenie nájdete v téme Oboznámte sa s jediným prihlásením na [základe saml.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
+3. Informácie o žiadostiach o overovanie SAML 2.0 a odpovediach, ktoré podporuje Azure Active Directory (Azure AD) pre jediné prihlásenie Sign-On (SSO), nájdete v téme Jediné prihlásenie [Sign-On SAML.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
+4. Informácie o vytvorení a konfigurácii jediného prihlásenia (SSO) založeného na SAML pre aplikáciu v Azure Active Directory (Azure AD) pomocou rozhrania Microsoft Graph API nájdete v téme Konfigurácia jediného prihlásenia pomocou rozhrania SAML pre aplikáciu pomocou rozhrania [Microsoft Graph API.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
+5. Ak chcete zistiť, ako Azure AD používa protokol SAML, pozrite si časť Používanie [protokolu SAML platformou Microsoft identity.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
 
-**Konfigurovanie tokenov a pohľadávok**
+**Konfigurácia tokenov a nárokov**
 
-1. [Postup: prispôsobenie pohľadávok vydaných v tokene SAML pre podnikové aplikácie](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
-2. Informácie o konfigurácii tvrdení pomocou prostredia PowerShell nájdete v téme [postup: prispôsobenie pohľadávok emitovaných tokenmi pre konkrétnu aplikáciu v nájomníkovi (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-3. Informácie o konfigurácii voliteľných pohľadávok nájdete v téme [postup: poskytovanie voliteľných nárokov v aplikácii](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-4. Ďalšie informácie o používaní atribútov prípony v adresárovej schéme na odosielanie používateľských údajov do aplikácií v tokenových pohľadávkach nájdete [v téme Používanie atribútov rozšírenia schémy adresára v rámci pohľadávok](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. Ak sa chcete dozvedieť, ako nakonfigurovať životnosť tokenov, pozrite si tému [životnosť konfigurovaných tokenov v platforme Microsoft Identity (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
-6. [Konfigurácia politík ochrany tokenov (Preview)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) – v tomto článku prechádzame bežným politickým scenárom, ktorý vám môže pomôcť pri ukladaní nových pravidiel pre životnosť tokenov. V tomto príklade sa naučíte, ako vytvoriť politiku, ktorá vyžaduje, aby sa používatelia v rámci webovej aplikácie často overovali.
+1. [Postup: prispôsobenie nárokov vydaných v tokene SAML pre podnikové aplikácie.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
+2. Informácie o konfigurácii nárokov pomocou prostredia PowerShell nájdete v téme Postup: Prispôsobenie nárokov, ktoré sa vynechajú v tokenoch pre konkrétnu aplikáciu v [nájomníkovi (verzia Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+3. Informácie o konfigurácii voliteľných nárokov nájdete v [téme Postup: Poskytnutie voliteľných nárokov do aplikácie.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+4. Ak chcete zistiť, ako používať atribúty prípony schémy adresára na odosielanie používateľských údajov do aplikácií v nárokoch na tokeny, pozrite si časť Používanie atribútov [prípony schémy adresára v nárokoch.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions)
+5. Informácie o konfigurácii časov platnosti tokenov nájdete v téme [Konfigurovateľné časy platnosti tokenov v platforme identity Spoločnosti Microsoft (ukážka).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+6. [Konfigurácia politík platnosti tokenov (ukážka)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) – V tomto článku sa nachádza bežný scenár politiky, ktorý vám môže pomôcť nastaviť nové pravidlá pre čas platnosti tokenov. V uvedenom príklade sa naučíte, ako vytvoriť politiku, ktorá vyžaduje od používateľov častejšie overenie vo vašej webovej aplikácii.
 
-**Riešenie problémov s konfiguráciou SSO**
+**Riešenie problémov s konfiguráciou jediného prihlásenia (SSO)**
 
-- Najčastejšie otázky o službe Azure Active Directory bezproblémová jednoduchá Sign-On (bezproblémové SSO) nájdete v téme [bezproblémové jediné prihlásenie v službe Azure Active Directory: najčastejšie otázky](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq).
-- Riešenie problémov s informáciami o bežných problémoch týkajúcich sa jednoduchej služby Azure Active Directory (Azure AD) jednoduchého Sign-On (bezšvíkové SSO) nájdete v téme [Riešenie problémov so službou Azure Active Directory bezproblémové jediné prihlásenie](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).
+- Najčastejšie otázky o bezproblémového jediného prihlásenia služby Azure Active Directory (bezproblémové Sign-On jediné prihlásenie) nájdete v téme Bezproblémové jediné prihlásenie v [Azure Active Directory: najčastejšie otázky.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
+- Informácie o riešení bežných problémov týkajúcich sa bezproblémového jediného prihlásenia Azure Active Directory (Azure AD) Sign-On (bezproblémové jediné prihlásenie) nájdete v téme Riešenie problémov so službou Azure Active Directory bezproblémovo jediným [prihlásením.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)

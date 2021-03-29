@@ -1,9 +1,9 @@
 ---
-title: Ďalšie informácie o ATP
+title: Ďalšie informácie o atp
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 4837fb5ff53198b290333eabb2f94f6fd96dfe53
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483723"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403578"
 ---
-# <a name="learn-about-atp"></a>Ďalšie informácie o ATP
+# <a name="learn-about-atp"></a>Ďalšie informácie o atp
 
-Tu je niekoľko informácií o balíku Office 365 Advanced Threat Protection (ATP):
+Tu nájdete niekoľko informácií o rozšírenej ochrane pred hrozbou pre Office 365 (ATP):
 
 **Čo je ATP?**
 
-ATP je služba na filtrovanie e-mailov v cloude, ktorá pomáha chrániť organizácie pred neznámym malvérom a vírusmi tým, že poskytuje robustnú ochranu na nulu. Obsahuje funkcie na ochranu organizácií pred škodlivými prepojeniami v reálnom čase.
+ATP je cloudová služba filtrovania e-mailov, ktorá poskytuje robustnú nulovú ochranu a pomáha organizáciám chrániť organizácie pred neznámym malvérom a vírusmi. Obsahuje funkcie na ochranu organizácií pred škodlivými prepojeniami v reálnom čase.
 
-**Ako môžem aktivovať ATP?**
+**Ako aktivujem funkciu ATP?**
 
-Súčasťou funkcie ATP sú bezpečné prílohy, bezpečné prepojenia a ochrana pred neoprávneným získavaním údajov. Enterprise E5, Education A5 a Microsoft 365 Business zahŕňajú vstavané funkcie ATP. Všetky ostatné plány vyžadujú predplatné ATP na doplnok. Ak chcete, aby boli používatelia chránení prostredníctvom služieb Office 365 ATP, musíte k nim priradiť príslušné licencie. Ak chcete získať prístup k tejto funkcii, musíte mať povolenia globálneho správcu alebo správcu zabezpečenia. Ďalšie informácie o tom, ako používať licencie vo veľkom množstve na koncových používateľov, nájdete [v téme Priradenie licencií používateľom v Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=2093435).
+Funkcia ATP obsahuje bezpečné prílohy, bezpečné prepojenia a neoprávnené získavanie údajov. Enterprise E5, Education A5 a Microsoft 365 Business obsahujú vstavané funkcie ATP. Všetky ostatné plány vyžadujú predplatné na doplnky ATP. Je potrebné priradiť používateľom príslušné licencie, aby boli chránené pomocou ATP služieb Office 365. Ak chcete získať prístup k tejto funkcii, musíte mať povolenia globálneho správcu alebo správcu zabezpečenia. Ďalšie informácie o hromadnom priradení licencií koncovým používateľom nájdete v téme Priradenie licencií pre používateľov v [službách Office 365 for business.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Ako môžem spravovať ATP alebo získať ďalšie informácie?**
+**Ako môžem spravovať atp alebo získať o ňom ďalšie informácie?**
 
-a. Prejdite na položky [Nastavenie](https://go.microsoft.com/fwlink/p/?linkid=2075721).
-b. V časti **prihlásenie a zabezpečenie** vyhľadajte položku **zvýšenie ochrany pred rozšírenými hrozbami** a potom vyberte položku [Zobraziť](https://go.microsoft.com/fwlink/?linkid=2109302).
+a. Prejdite do [nastavení.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
+b. V **časti Prihlásenie a zabezpečenie vyhľadajte** položku Zvýšiť ochranu pred **rozšírenými hrozbami** a potom vyberte položku [Zobraziť](https://go.microsoft.com/fwlink/?linkid=2109302).
