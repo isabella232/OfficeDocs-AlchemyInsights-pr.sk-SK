@@ -3,7 +3,7 @@ title: Vytvorenie politiky upozornení
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 20a379a4e6ad7e9a14b1eaae21db1c8cee129cdc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483903"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403614"
 ---
-# <a name="create-an-alert-policy"></a><span data-ttu-id="97f04-102">Vytvorenie politiky upozornení</span><span class="sxs-lookup"><span data-stu-id="97f04-102">Create an alert policy</span></span>
+# <a name="create-an-alert-policy"></a><span data-ttu-id="4df58-102">Vytvorenie politiky upozornení</span><span class="sxs-lookup"><span data-stu-id="4df58-102">Create an alert policy</span></span>
 
-<span data-ttu-id="97f04-103">Tu je postup:</span><span class="sxs-lookup"><span data-stu-id="97f04-103">Here is how to do this:</span></span>
+<span data-ttu-id="4df58-103">Postup:</span><span class="sxs-lookup"><span data-stu-id="4df58-103">Here is how to do this:</span></span>
 
-1. <span data-ttu-id="97f04-104">Prejdite na [centrum dodržiavania súladu & zabezpečenia služieb Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).</span><span class="sxs-lookup"><span data-stu-id="97f04-104">Go to the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).</span></span>
-1. <span data-ttu-id="97f04-105">Vyberte položku  >  [politiky upozornení](https://go.microsoft.com/fwlink/?linkid=2103208)na upozornenia.</span><span class="sxs-lookup"><span data-stu-id="97f04-105">Select **Alerts** > [Alert policies](https://go.microsoft.com/fwlink/?linkid=2103208).</span></span>
-1. <span data-ttu-id="97f04-106">Vyberte položku **+ Nová politika upozornení**.</span><span class="sxs-lookup"><span data-stu-id="97f04-106">Select **+ New alert policy**.</span></span> <span data-ttu-id="97f04-107">Zobrazí sa rozbaľovacie tlačidlo.</span><span class="sxs-lookup"><span data-stu-id="97f04-107">A flyout appears.</span></span>
-1. <span data-ttu-id="97f04-108">Nastavte polia **názov**, **Popis**, **závažnosť** a **Kategória** podľa potreby.</span><span class="sxs-lookup"><span data-stu-id="97f04-108">Set the **Name**, **Description**, **Severity**, and **Category** fields as appropriate for your needs.</span></span> <span data-ttu-id="97f04-109">Vyberte položku **ďalej**.</span><span class="sxs-lookup"><span data-stu-id="97f04-109">Select **Next**.</span></span>
-1. <span data-ttu-id="97f04-110">Vyberte aktivitu v rozbaľovacej ponuke **aktivita** .</span><span class="sxs-lookup"><span data-stu-id="97f04-110">Select an activity from the **Activity is** drop-down menu.</span></span>
+1. <span data-ttu-id="4df58-104">Prejdite do Centra [zabezpečenia a dodržiavania & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)</span><span class="sxs-lookup"><span data-stu-id="4df58-104">Go to the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).</span></span>
+1. <span data-ttu-id="4df58-105">Vyberte **položku Politiky**  >  [upozornení.](https://go.microsoft.com/fwlink/?linkid=2103208)</span><span class="sxs-lookup"><span data-stu-id="4df58-105">Select **Alerts** > [Alert policies](https://go.microsoft.com/fwlink/?linkid=2103208).</span></span>
+1. <span data-ttu-id="4df58-106">Vyberte **položku + Nová politika upozornení.**</span><span class="sxs-lookup"><span data-stu-id="4df58-106">Select **+ New alert policy**.</span></span> <span data-ttu-id="4df58-107">Zobrazí sa leták.</span><span class="sxs-lookup"><span data-stu-id="4df58-107">A flyout appears.</span></span>
+1. <span data-ttu-id="4df58-108">Podľa **svojich potrieb** **nastavte** **polia Názov**, Popis , **Závažnosť** a Kategória.</span><span class="sxs-lookup"><span data-stu-id="4df58-108">Set the **Name**, **Description**, **Severity**, and **Category** fields as appropriate for your needs.</span></span> <span data-ttu-id="4df58-109">Vyberte **položku Ďalej.**</span><span class="sxs-lookup"><span data-stu-id="4df58-109">Select **Next**.</span></span>
+1. <span data-ttu-id="4df58-110">Z rozbaľovacej ponuky **Aktivita** je vyberte aktivitu.</span><span class="sxs-lookup"><span data-stu-id="4df58-110">Select an activity from the **Activity is** drop-down menu.</span></span>
 > [!NOTE]
->  <span data-ttu-id="97f04-111">Môžete vybrať len jednu aktivitu, ale môžete pridať podmienky na spresnenie toho, čo táto politika zistí.</span><span class="sxs-lookup"><span data-stu-id="97f04-111">You can only choose one activity, but you can add conditions to refine what the policy detects.</span></span>
-6. <span data-ttu-id="97f04-112">Vyberte intervaly spúšťania upozornení, ktoré vyhovujú vašim potrebám, a potom vyberte položku **ďalej**.</span><span class="sxs-lookup"><span data-stu-id="97f04-112">Select the alert triggering frequencies that meet your needs, then select **Next**.</span></span>
-7. <span data-ttu-id="97f04-113">Rozhodnite sa, či chcete upozorniť ľudí pri spustení tohto upozornenia výberom položky **Odoslať e-mailové oznámenia** a výberom príslušných **príjemcov e-mailu**.</span><span class="sxs-lookup"><span data-stu-id="97f04-113">Decide if you want to notify people when this alert is triggered by selecting **Send email notifications** and choosing appropriate **email recipients**.</span></span> <span data-ttu-id="97f04-114">Vyberte položku **ďalej**.</span><span class="sxs-lookup"><span data-stu-id="97f04-114">Select **Next**.</span></span>
-8. <span data-ttu-id="97f04-115">Po dokončení Skontrolujte nastavenia.</span><span class="sxs-lookup"><span data-stu-id="97f04-115">When you're finished, review the settings.</span></span> <span data-ttu-id="97f04-116">Ak chcete politiku zapnúť ihneď, vyberte možnosť **Áno, ihneď ju zapnite** a potom vyberte položku **Dokončiť**.</span><span class="sxs-lookup"><span data-stu-id="97f04-116">You can turn on the policy right away by selecting **Yes, turn it on right away** and then selecting **Finish**.</span></span>
+>  <span data-ttu-id="4df58-111">Môžete vybrať len jednu aktivitu, ale môžete pridať podmienky na spresnenie toho, čo politika zistí.</span><span class="sxs-lookup"><span data-stu-id="4df58-111">You can only choose one activity, but you can add conditions to refine what the policy detects.</span></span>
+6. <span data-ttu-id="4df58-112">Vyberte upozornenie spúšťacie frekvencie, ktoré spĺňajú vaše potreby, a potom vyberte položku **Ďalej**.</span><span class="sxs-lookup"><span data-stu-id="4df58-112">Select the alert triggering frequencies that meet your needs, then select **Next**.</span></span>
+7. <span data-ttu-id="4df58-113">Výberom položky Odoslať e-mailové oznámenia a  výberom príslušných príjemcov e-mailu rozhodnite, či chcete upozorniť ľudí na **toto upozornenie.**</span><span class="sxs-lookup"><span data-stu-id="4df58-113">Decide if you want to notify people when this alert is triggered by selecting **Send email notifications** and choosing appropriate **email recipients**.</span></span> <span data-ttu-id="4df58-114">Vyberte **položku Ďalej.**</span><span class="sxs-lookup"><span data-stu-id="4df58-114">Select **Next**.</span></span>
+8. <span data-ttu-id="4df58-115">Po dokončení skontrolujte nastavenia.</span><span class="sxs-lookup"><span data-stu-id="4df58-115">When you're finished, review the settings.</span></span> <span data-ttu-id="4df58-116">Túto politiku môžete okamžite zapnúť výberom položky **Áno, zapnúť ju okamžite** a výberom položky **Dokončiť**.</span><span class="sxs-lookup"><span data-stu-id="4df58-116">You can turn on the policy right away by selecting **Yes, turn it on right away** and then selecting **Finish**.</span></span>
 
-<span data-ttu-id="97f04-117">Ďalšie informácie nájdete v téme Nastavenie politiky upozornení</span><span class="sxs-lookup"><span data-stu-id="97f04-117">To learn more, see Alert policy settings</span></span>
+<span data-ttu-id="4df58-117">Ďalšie informácie nájdete v téme Nastavenie politiky upozornení</span><span class="sxs-lookup"><span data-stu-id="4df58-117">To learn more, see Alert policy settings</span></span>
 

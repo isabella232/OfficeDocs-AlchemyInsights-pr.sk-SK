@@ -1,9 +1,9 @@
 ---
-title: Informácie o zostavách
+title: Informácie o upozorneniach na doplnky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 54f09d8aebcf5e10eaad7f19ec5138c9167962b4
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: bcafc8ef052e824093f29e16ffc16f68e6d4e667
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483498"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403650"
 ---
-# <a name="about-built-in-alerts"></a><span data-ttu-id="d921e-102">Informácie o vstavaných upozorneniach</span><span class="sxs-lookup"><span data-stu-id="d921e-102">About built-in alerts</span></span>
+# <a name="about-built-in-alerts"></a><span data-ttu-id="df949-102">Informácie o vstavaných upozorneniach</span><span class="sxs-lookup"><span data-stu-id="df949-102">About built-in alerts</span></span>
 
-<span data-ttu-id="d921e-103">Microsoft 365 obsahuje niekoľko vstavaných upozornení na ochranu systému.</span><span class="sxs-lookup"><span data-stu-id="d921e-103">Microsoft 365 includes a few built-in alerts to protect your system.</span></span> <span data-ttu-id="d921e-104">Tu je niekoľko informácií o nich:</span><span class="sxs-lookup"><span data-stu-id="d921e-104">Here's some info about them:</span></span>
+<span data-ttu-id="df949-103">Microsoft 365 obsahuje niekoľko vstavaných upozornení na ochranu vášho systému.</span><span class="sxs-lookup"><span data-stu-id="df949-103">Microsoft 365 includes a few built-in alerts to protect your system.</span></span> <span data-ttu-id="df949-104">Tu je niekoľko informácií o nich:</span><span class="sxs-lookup"><span data-stu-id="df949-104">Here's some info about them:</span></span>
 
-- <span data-ttu-id="d921e-105">Vstavaná výstraha je e-mail odoslaný globálnemu správcovi z *Office365Alerts@microsoft.com*.</span><span class="sxs-lookup"><span data-stu-id="d921e-105">A built-in alert is an email sent to the global admin from *Office365Alerts@microsoft.com*.</span></span> <span data-ttu-id="d921e-106">Položka predmet je upozornenie s nízkou závažnosťou: <name of alert policy> .</span><span class="sxs-lookup"><span data-stu-id="d921e-106">The subject line is A low-severity alert: <name of alert policy>.</span></span>
-- <span data-ttu-id="d921e-107">Tieto e-maily s upozornením sa vám odošlú, keď niekto urobí niečo podozrivého.</span><span class="sxs-lookup"><span data-stu-id="d921e-107">These alert emails are sent to you when someone does something suspicious.</span></span> <span data-ttu-id="d921e-108">Pravidlá pre doručenú poštu sa napríklad vytvárajú na preposielanie alebo presmerovanie e-mailov, povolenia sa prideľujú k poštovej schránke, súbory sa v SharePointe zdieľajú alebo sa odstránia hromadne alebo sa vyskytnú aktivity elektronického vyhľadávania alebo oneskorenia</span><span class="sxs-lookup"><span data-stu-id="d921e-108">For example, inbox rules are created that forward or redirect email, permissions are granted to a mailbox, files are shared or deleted in bulk from SharePoint, or there are eDiscovery activities or email delays.</span></span>
-- <span data-ttu-id="d921e-109">Spoločnosť Microsoft nikdy nepožiada o heslo používateľa, Podrobnosti o zabezpečení ani na opätovné overenie používateľa v e-mailovom upozornení.</span><span class="sxs-lookup"><span data-stu-id="d921e-109">Microsoft never asks for a user password, security details, or to re-authenticate the user in an alert email.</span></span> <span data-ttu-id="d921e-110">Tieto e-maily nie sú od spoločnosti Microsoft. sú to phishingové e-maily.</span><span class="sxs-lookup"><span data-stu-id="d921e-110">Such emails are not from Microsoft; they are phishing emails.</span></span>
-- <span data-ttu-id="d921e-111">Zoznam všetkých vstavaných politík upozornení nájdete v téme [predvolené politiky upozornení](https://go.microsoft.com/fwlink/?linkid=2103170).</span><span class="sxs-lookup"><span data-stu-id="d921e-111">For a list of all built-in alert policies, see [Default alert policies](https://go.microsoft.com/fwlink/?linkid=2103170).</span></span>
+- <span data-ttu-id="df949-105">Vstavané upozornenie je e-mail odoslaný globálnym správcom z *Office365Alerts@microsoft.com.*</span><span class="sxs-lookup"><span data-stu-id="df949-105">A built-in alert is an email sent to the global admin from *Office365Alerts@microsoft.com*.</span></span> <span data-ttu-id="df949-106">Riadok predmetu je upozornenie s nízkou závažnosťou: <name of alert policy> .</span><span class="sxs-lookup"><span data-stu-id="df949-106">The subject line is A low-severity alert: <name of alert policy>.</span></span>
+- <span data-ttu-id="df949-107">Tieto e-mailové upozornenia sa vám odošlú v prípade, že niekto robí niečo podozrivé.</span><span class="sxs-lookup"><span data-stu-id="df949-107">These alert emails are sent to you when someone does something suspicious.</span></span> <span data-ttu-id="df949-108">Napríklad pri vytvorení pravidiel pre doručenú poštu sa vytvárajú preposielanie alebo presmerovanie e-mailov, povolenia pre poštovú schránku, súbory sa z SharePointu zdieľajú alebo hromadne odstránia, prípadne sa tu nachádzajú aktivity týkajúce sa vyhľadávania eDiscovery alebo oneskorenia e-mailov.</span><span class="sxs-lookup"><span data-stu-id="df949-108">For example, inbox rules are created that forward or redirect email, permissions are granted to a mailbox, files are shared or deleted in bulk from SharePoint, or there are eDiscovery activities or email delays.</span></span>
+- <span data-ttu-id="df949-109">Spoločnosť Microsoft nikdy neposiela heslo používateľa, podrobnosti zabezpečenia ani opätovné overenie používateľa prostredníctvom e-mailu s upozornením.</span><span class="sxs-lookup"><span data-stu-id="df949-109">Microsoft never asks for a user password, security details, or to re-authenticate the user in an alert email.</span></span> <span data-ttu-id="df949-110">Takéto e-maily nie sú od spoločnosti Microsoft; e-maily neoprávneného získavania údajov.</span><span class="sxs-lookup"><span data-stu-id="df949-110">Such emails are not from Microsoft; they are phishing emails.</span></span>
+- <span data-ttu-id="df949-111">Zoznam všetkých vstavaných politík upozornení nájdete v téme Predvolené [politiky upozornení.](https://go.microsoft.com/fwlink/?linkid=2103170)</span><span class="sxs-lookup"><span data-stu-id="df949-111">For a list of all built-in alert policies, see [Default alert policies](https://go.microsoft.com/fwlink/?linkid=2103170).</span></span>
