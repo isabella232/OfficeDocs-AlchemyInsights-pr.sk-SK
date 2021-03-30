@@ -1,5 +1,5 @@
 ---
-title: Priradenie politík v aplikácii Microsoft teams
+title: Priradenie politík v aplikácii Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037116"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401814"
 ---
-# <a name="assign-policies-in-microsoft-teams"></a>Priradenie politík v aplikácii Microsoft teams
+# <a name="assign-policies-in-microsoft-teams"></a>Priradenie politík v aplikácii Microsoft Teams
 
-- V aplikácii teams môžete jednoducho spravovať politiky vo vašej organizácii viacerými spôsobmi, ako priradiť politiky používateľom. Priraďte politiku priamo používateľom, a to buď individuálne alebo v mierke prostredníctvom priradenia dávky, alebo skupine, ktorej používatelia sú členmi.  Priradenie politiky v súčasnosti k skupinám pomocou centra spravovania služby Microsoft teams je momentálne k dispozícii len pre konkrétne typy politiky. 
-- Používateľ má jednu účinnú politiku pre každý typ politiky. Ak chcete skontrolovať poradie, v ktorom sa politiky používajú pre používateľov, pozrite si tému [akú politiku má prednosť?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Ďalšie informácie nájdete v téme [priradenie politík používateľom v aplikácii Microsoft teams](https://docs.microsoft.com/microsoftteams/assign-policies).
+- Ak chcete jednoducho spravovať politiky vo svojej organizácii, aplikácia Teams ponúka niekoľko spôsobov priraďovania politík používateľom. Priraďte politiku priamo jednotlivým používateľom alebo vo veľkom prostredníctvom dávkového priradenia alebo priradenia skupine, ktorej sú používatelia členmi.  Priradenie politiky k skupinám, ktoré používajú Centrum spravovania aplikácie Microsoft Teams, je momentálne k dispozícii len pre konkrétne typy politík. 
+- Používateľ má jednu efektívnu politiku pre každý typ politiky. Ak chcete skontrolovať poradie, v akom sa politiky použijú na používateľov, zistite, [ktorá politika má prednosť.](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Ďalšie informácie nájdete v téme [Priradenie politík používateľom v aplikácii Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
