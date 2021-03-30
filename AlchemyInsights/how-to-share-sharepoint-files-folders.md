@@ -1,5 +1,5 @@
 ---
-title: Zdieľanie súborov alebo priečinkov v SharePointe
+title: Zdieľanie súborov alebo priečinkov v SharePointe alebo vo OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779030"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408129"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Zdieľanie súborov alebo priečinkov v SharePointe
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Zdieľanie súborov alebo priečinkov v SharePointe alebo vo OneDrive
 
-Súbory, ktoré ukladáte na lokalite SharePoint, sú zvyčajne k dispozícii pre všetkých používateľov s povoleniami na lokalitu, ale možno budete chcieť zdieľať konkrétne súbory alebo priečinky s ľuďmi, ktorí inak nemajú prístup na lokalitu. Pri zdieľaní súborov a priečinkov sa môžete rozhodnúť, či chcete ľuďom povoliť úpravy alebo ich len Zobraziť.
+Súbory uložené na lokalite SharePoint sú zvyčajne k dispozícii každému, kto má povolenia na prístup k lokalite, ale možno budete chcieť zdieľať konkrétne súbory alebo priečinky s ľuďmi, ktorí inak na lokalitu nemajú prístup. Pri zdieľaní súborov a priečinkov sa môžete rozhodnúť, či ich budú ľudia upravovať alebo len zobrazovať. Ďalšie informácie nájdete v téme:
 
-[Zdieľanie súborov alebo priečinkov v SharePointe](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[Zdieľanie súborov alebo priečinkov SharePointu](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Zdieľanie súborov a priečinkov vo OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
