@@ -1,5 +1,5 @@
 ---
-title: Nastavenie ochrany informácií spoločnosti Microsoft
+title: Nastavenie služby Microsoft information protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679343"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440944"
 ---
-# <a name="set-up-microsoft-information-protection"></a><span data-ttu-id="f7f64-102">Nastavenie ochrany informácií spoločnosti Microsoft</span><span class="sxs-lookup"><span data-stu-id="f7f64-102">Set up Microsoft information protection</span></span>
+# <a name="set-up-microsoft-information-protection"></a><span data-ttu-id="d28c1-102">Nastavenie služby Microsoft information protection</span><span class="sxs-lookup"><span data-stu-id="d28c1-102">Set up Microsoft information protection</span></span>
 
-<span data-ttu-id="f7f64-103">Získajte prehľad o možnostiach, ktoré môžete použiť v stratégii ochrany informácií, aby ste si mohli byť istí, že vaše citlivé informácie sú chránené.</span><span class="sxs-lookup"><span data-stu-id="f7f64-103">Get an overview of the capabilities you can apply to your Information Protection strategy so that you can be confident your sensitive information is protected.</span></span> <span data-ttu-id="f7f64-104">Použite prístup k štyrom etapám životného cyklu, v ktorom zistíte, klasifikujú, chránite a sledujete citlivé informácie.</span><span class="sxs-lookup"><span data-stu-id="f7f64-104">Use a four-stage lifecycle approach in which you discover, classify, protect, and monitor sensitive information.</span></span> <span data-ttu-id="f7f64-105">Sprievodca nastavením ochrany informácií spoločnosti Microsoft poskytuje usmernenie na dokončenie každej z týchto fáz.</span><span class="sxs-lookup"><span data-stu-id="f7f64-105">The "Microsoft information protection setup" guide provides guidance for completing each of these stages.</span></span>
+<span data-ttu-id="d28c1-103">Získajte prehľad možností, ktoré môžete použiť na stratégiu služby Information Protection, aby ste si mohli byť istí, že vaše citlivé informácie sú chránené.</span><span class="sxs-lookup"><span data-stu-id="d28c1-103">Get an overview of the capabilities you can apply to your Information Protection strategy so that you can be confident your sensitive information is protected.</span></span> <span data-ttu-id="d28c1-104">Použite štvorfázový prístup životného cyklu, v ktorom zisťujete, klasifikujete, chránite a monitorujete citlivé informácie.</span><span class="sxs-lookup"><span data-stu-id="d28c1-104">Use a four-stage lifecycle approach in which you discover, classify, protect, and monitor sensitive information.</span></span> <span data-ttu-id="d28c1-105">[Sprievodca nastavením služby Microsoft information protection](https://go.microsoft.com/fwlink/?linkid=2146619) poskytuje pokyny na dokončenie každej z týchto fáz.</span><span class="sxs-lookup"><span data-stu-id="d28c1-105">The [Microsoft information protection setup guide](https://go.microsoft.com/fwlink/?linkid=2146619) provides guidance for completing each of these stages.</span></span>
