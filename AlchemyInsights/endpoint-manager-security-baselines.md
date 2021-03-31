@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager – pôvodné hodnoty zabezpečenia
+title: EndPoint Manager – základné úrovne zabezpečenia
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421090"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440908"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – pôvodné hodnoty zabezpečenia
+# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – základné úrovne zabezpečenia
 
-Pôvodné hodnoty zabezpečenia sú vopred nakonfigurované skupiny nastavení Windowsu, ktoré vám pomôžu použiť nastavenia zabezpečenia odporúčané príslušnými tímami zabezpečenia. Tieto pôvodné hodnoty je možné prispôsobiť tak, aby sa doručovali iba požadované nastavenia a hodnoty. Ďalšie informácie o pôvodných plánoch zabezpečenia nájdete v téme [Použitie pôvodných bodov zabezpečenia na konfiguráciu zariadení s Windowsom 10 v intune.](https://docs.microsoft.com/mem/intune/protect/security-baselines)
+Základné úrovne zabezpečenia sú vopred nakonfigurované skupiny nastavení Windowsu, ktoré vám pomôžu použiť nastavenia zabezpečenia odporúčané príslušnými bezpečnostnými tímami. Tieto základné úrovne je možné prispôsobiť tak, aby obsahovali iba požadované nastavenia a hodnoty. Ďalšie informácie o základných úrovniach zabezpečenia nájdete v téme [Použitie základných úrovní zabezpečenia na konfiguráciu zariadení s Windowsom 10 v Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-Pre tieto produkty v súčasnosti existujú pôvodné hodnoty:
+V súčasnosti existujú základné úrovne pre tieto produkty:
 
-- Nastavenia zabezpečenia MDM systému Windows
-- Zabezpečenie aplikácie Microsoft Defender pre EndPoint
+- Nastavenie zabezpečenia MDM systému Windows
+- Zabezpečenie Microsoft Defender pre koncové body
 - Microsoft Edge
 
-Všetky pôvodné hodnoty sa pravidelne aktualizujú a uvoľňujú v prírastkových verziách. Každá verzia pridá alebo odstráni nastavenia z predchádzajúcej verzie, aby sa zabezpečilo, že základná čiara spĺňa aktuálne pokyny. Konzola s pôvodnými plánmi zabezpečenia v časti Zabezpečenie koncového bodu umožňuje porovnanie rôznych verzií tak, že zmeny z verzie na verziu sa zobrazia.
+Všetky základné úrovne sa pravidelne aktualizujú a vydávajú v prírastkových verziách. V každej verzii sa pridávajú alebo odstraňujú nastavenia z predchádzajúcej verzie, aby sa zabezpečilo, že základná úroveň spĺňa aktuálne pokyny. Konzola so základnými úrovňami zabezpečenia v Endpoint Security umožňuje porovnať rôzne verzie pomocou viditeľných zmien medzi verziami.
 
-Pokyny na najefektívnejšie zmeny toho, ktorá verzia pôvodného plánu je nasadená, nájdete v téme Správa profilov pôvodného plánu zabezpečenia [v Microsoft Intune.](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)
+Pokyny na najefektívnejšiu zmenu nasadenej verzie základnej úrovne nájdete v téme [Spravovanie základných úrovní zabezpečenia v Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Po nasadení základnej hodnoty zabezpečenia môžete sledovať stav nasadenia a skontrolovať nastavenia na každom zariadení.
+Po nasadení základnej úrovne zabezpečenia môžete monitorovať stav nasadenia a skontrolovať nastavenia podľa jednotlivých zariadení.
 
-**Poznámka:** Vykazovanie údajov pre pôvodné hodnoty môže trvať až 24 hodín, kým sa zobrazia od prvého nasadenia do zariadenia, a až 6 hodín pre ďalšie aktualizácie. 
+**Poznámka:** Údaje zostáv pre základné úrovne sa môžu zobraziť až o 24 hodín od počiatočného nasadenia do zariadenia a až o 6 hodín v prípade ďalších aktualizácií. 
 
-Najčastejšou príčinou, prečo sa nastavenie pôvodného plánu nepoužíva, je to, že rovnaké nastavenie sa používa v inom profile. Tento scenár môžete preskúmať pre konkrétne zariadenie tak, že toto zariadenie vyberiete z uzla Stav zariadenia v profile Plán zabezpečenia. Podrobnosti nájdete v téme [Riešenie konfliktov pre pôvodné hodnoty zabezpečenia.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+Najčastejšou príčinou nepoužitia nastavení základnej úrovne je to, že rovnaké nastavenie sa používa v inom profile. Tento scenár možno preskúmať pre konkrétne zariadenie tak, že ho vyberiete z uzla stavu zariadenia v profile základnej úrovne zabezpečenia. Podrobnosti nájdete v téme [Riešenie konfliktov základných úrovní zabezpečenia](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
