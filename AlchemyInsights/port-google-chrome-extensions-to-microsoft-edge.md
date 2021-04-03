@@ -1,5 +1,5 @@
 ---
-title: Prenos rozšírenia Google Chrome do prehliadača Microsoft Edge (chróm)
+title: Rozšírenia prehliadača Google Chrome porty pre Prehliadač Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004032"
 - "7102"
-ms.openlocfilehash: 2a20f258cbcbca7c8db4e38c52464fefb1b6f39d
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+- "8297"
+- "9004617"
+ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678982"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505299"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Prenos rozšírenia Google Chrome do prehliadača Microsoft Edge (chróm)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Rozšírenia prehliadača Google Chrome porty pre Prehliadač Microsoft Edge (Chromium)
 
-[Rozšírenie prehliadača Google Chrome na Microsoft Edge (chróm)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension)je jednoduché. Vo väčšine prípadov je na spustenie týchto rozšírení v prehliadači Microsoft Edge potrebná len minimálna zmena.
+Rozšírenia prehliadača [Google Chrome môžete jednoducho prenášať do prehliadača Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) Vo väčšine prípadov je na spustenie týchto rozšírení v Microsoft Edbe potrebné iba minimum zmien.
 
-Rozšírenia API a zjavne kľúče podporované prehliadačom Google Chrome sú kompatibilné s kódom Microsoft Edge. Microsoft Edge však nepodporuje rozšírenie rozhrania API Chrome. GCM, Chrome. identity. getAccounts, Chrome. identity. getAuthToken a Chrome. instanceID.
+Rozhrania API rozšírení a kľúče manifestu podporované prehliadačom Google Chrome sú kompatibilné s kódom v prehliadači Microsoft Edge. Microsoft Edge však nepodporuje rozšírenie API chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken a chrome.instanceID.

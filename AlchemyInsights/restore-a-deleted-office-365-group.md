@@ -1,5 +1,5 @@
 ---
-title: Obnovenie odstránenej skupiny v programe Microsoft 365
+title: Obnovenie odstránenej skupiny Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774726"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505705"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Obnovenie odstránenej skupiny v programe Microsoft 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Obnovenie odstránenej skupiny Microsoft 365
 
-Odstránené skupiny sa uchovajú 30 dní. Obnovenie odstránenej skupiny:
-  
-1. V [centre spravovania pre Exchange](https://outlook.office365.com/ecp/)vyberte na ľavej table položku **Príjemcovia** a potom vyberte položku **skupiny**. Ak bola skupina odstránená pred menej ako 30 dňami, zobrazí sa v zozname a v stĺpci stav sa zobrazí dátum, ktorý bol odstránený.
+Odstránenú skupinu v Microsoft 365 alebo aplikáciu Microsoft Teams môžete obnoviť do 30 dní od odstránenia.
 
-2. Vyberte skupinu a potom kliknite na položku **obnoviť** na paneli príkazov alebo kliknite na prepojenie kliknite sem, ak chcete obnoviť na table s podrobnosťami.
+1. Ak sa chcete prihlásiť do Centra spravovania služby Microsoft 365 a vytvoriť zoznam odstránených skupín a tímov, prejdite do Centra [spravovania služby Microsoft 365.](https://aka.ms/RestoreDeletedGroup)
 
-Ďalšie informácie nájdete v téme [Obnovenie odstránenej skupiny Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802)a zistite, ako obnoviť skupiny pomocou prostredia PowerShell.
-  
+    **Poznámka:** Prihláste sa pomocou konta, ktoré je priradené správcovi nájomníkovi alebo k role správcu skupín.
+
+1. Vyberte odstránenú skupinu alebo aplikáciu Microsoft 365/Teams, ktorá sa má obnoviť, a kliknite na **položku Obnoviť skupinu**.
+
+    Ak skupinu nemožno obnoviť z dôvodu konfliktnej adresy SMTP, pomocou nasledujúceho príkazu vyhľadajte objekt, ktorý je príčinou konfliktu, a odstráňte adresu SMTP:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Poznámka:** V niektorých prípadoch môže trvať až 24 hodín, kým sa skupina a všetky jej údaje obnovia.
+
+    Ďalšie informácie alebo informácie o obnovení skupín pomocou prostredia PowerShell nájdete v téme Obnovenie [odstránenej skupiny v službe Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=867802)

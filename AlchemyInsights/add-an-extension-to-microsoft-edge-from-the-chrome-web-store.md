@@ -1,5 +1,5 @@
 ---
-title: Pridanie rozšírenia do prehliadača Microsoft Edge z internetového obchodu Chrome
+title: Pridanie rozšírenia do prehliadača Microsoft Edge z webového obchodu Chrome
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
-ms.openlocfilehash: b11a1304ce6c82c6182dfdcc13716d295ab802d3
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "8312"
+- "9004621"
+ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679271"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505041"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Pridanie rozšírenia do prehliadača Microsoft Edge z internetového obchodu Chrome
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Pridanie rozšírenia do prehliadača Microsoft Edge z webového obchodu Chrome
 
-Ak chcete do prehliadača Microsoft Edge pridať rozšírenie z internetového obchodu Chrome, postupujte takto:
+Ak chcete pridať rozšírenie do prehliadača Microsoft Edge z webového obchodu Chrome, postupujte takto:
 
-1. Prejdite do internetového obchodu Chrome.
-2. V titulku v hornej časti stránky vyberte položku **Povoliť rozšírenia z iných obchodov**.
-3. Vyberte príponu, ktorú chcete pridať, a potom kliknite na položku **pridať do prehliadača Chrome**.
-4. V potvrdzovacom dialógovom okne pozorne Preskúmajte zmeny, ktoré môže prípona vykonať, a potom kliknite na položku **pridať príponu**.
-Záverečné dialógové okno potvrdí, že rozšírenie bolo pridané.
+1. Prejdite do Obchodu Chrome Web Store.
+2. V banneri v hornej časti stránky vyberte položku Povoliť **rozšírenia z iných obchodov**.
+3. Vyberte rozšírenie, ktoré chcete pridať, a potom kliknite na položku **Pridať do prehliadača Chrome**.
+4. V dialógovom okne potvrdenia pozorne skontrolujte úpravy, ktoré rozšírenie môže vykonať, a potom kliknite na položku **Pridať rozšírenie**.
+Posledné dialógové okno potvrdí, že rozšírenie bolo pridané.
