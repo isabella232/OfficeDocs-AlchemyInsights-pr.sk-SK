@@ -1,5 +1,5 @@
 ---
-title: Pridanie rozšírenia do prehliadača Microsoft Edge zo služby Microsoft Edge Add-ons
+title: Pridanie rozšírenia do Microsoft Edgeu z obchodu Microsoft Edge Add-ons Store
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003858"
 - "6919"
-ms.openlocfilehash: 18c7a6a8e397744a114c4bb91df6c45416d9af87
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8310"
+- "9004621"
+ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679934"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505017"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="6856f-102">Pridanie rozšírenia do prehliadača Microsoft Edge zo služby Microsoft Edge Add-ons</span><span class="sxs-lookup"><span data-stu-id="6856f-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="a9c9b-102">Pridanie rozšírenia do Microsoft Edgeu z obchodu Microsoft Edge Add-ons Store</span><span class="sxs-lookup"><span data-stu-id="a9c9b-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
 
-<span data-ttu-id="6856f-103">Ak chcete pridať rozšírenie do prehliadača Microsoft Edge z obchodu s doplnkami Microsoft Edge:</span><span class="sxs-lookup"><span data-stu-id="6856f-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
+<span data-ttu-id="a9c9b-103">Pridanie rozšírenia pre Microsoft Edge z obchodu s doplnokmi Microsoft Edge:</span><span class="sxs-lookup"><span data-stu-id="a9c9b-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
 
-- <span data-ttu-id="6856f-104">Otvorte Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="6856f-104">Open Microsoft Edge.</span></span>
-- <span data-ttu-id="6856f-105">Vyberte položku **... > prípony > [získať prípony pre Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span><span class="sxs-lookup"><span data-stu-id="6856f-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
-- <span data-ttu-id="6856f-106">Vyberte príponu, ktorú chcete pridať, a potom vyberte položku **získať**.</span><span class="sxs-lookup"><span data-stu-id="6856f-106">Select the extension you would like to add, and then select **Get**.</span></span>
-- <span data-ttu-id="6856f-107">V potvrdzovacom dialógovom okne si pozorne Preskúmajte zmeny, ktoré môže prípona vykonať, a vyberte položku **pridať príponu**.</span><span class="sxs-lookup"><span data-stu-id="6856f-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
+- <span data-ttu-id="a9c9b-104">Otvorte Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="a9c9b-104">Open Microsoft Edge.</span></span>
+- <span data-ttu-id="a9c9b-105">Vyberte **položku ... > rozšírenia > Získať rozšírenia pre Microsoft [Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span><span class="sxs-lookup"><span data-stu-id="a9c9b-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
+- <span data-ttu-id="a9c9b-106">Vyberte rozšírenie, ktoré chcete pridať, a potom vyberte položku **Získať**.</span><span class="sxs-lookup"><span data-stu-id="a9c9b-106">Select the extension you would like to add, and then select **Get**.</span></span>
+- <span data-ttu-id="a9c9b-107">V potvrdzovacom dialógovom okne pozorne skontrolujte úpravy, ktoré rozšírenie môže vykonať, a vyberte položku **Pridať rozšírenie**.</span><span class="sxs-lookup"><span data-stu-id="a9c9b-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
 
-<span data-ttu-id="6856f-108">Získate potvrdenie o pridaní prípony.</span><span class="sxs-lookup"><span data-stu-id="6856f-108">You will then get a confirmation that the extension has been added.</span></span>
+<span data-ttu-id="a9c9b-108">Následne dostanete potvrdenie, že rozšírenie bolo pridané.</span><span class="sxs-lookup"><span data-stu-id="a9c9b-108">You will then get a confirmation that the extension has been added.</span></span>
