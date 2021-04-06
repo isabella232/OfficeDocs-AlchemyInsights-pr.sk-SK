@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
+ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505705"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51597458"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Obnovenie odstránenej skupiny Microsoft 365
 
 Odstránenú skupinu v Microsoft 365 alebo aplikáciu Microsoft Teams môžete obnoviť do 30 dní od odstránenia.
 
-1. Ak sa chcete prihlásiť do Centra spravovania služby Microsoft 365 a vytvoriť zoznam odstránených skupín a tímov, prejdite do Centra [spravovania služby Microsoft 365.](https://aka.ms/RestoreDeletedGroup)
+1. Prejdite do Centra [spravovania služby Microsoft 365 a](https://aka.ms/RestoreDeletedGroup) prihláste sa do zoznamu odstránených skupín a tímov.
 
     **Poznámka:** Prihláste sa pomocou konta, ktoré je priradené správcovi nájomníkovi alebo k role správcu skupín.
 
