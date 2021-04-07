@@ -5,23 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 5cc160eb3d78f92ffb82cab79db2685fa9aef88f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 2939012f3a3e01106bcf7a44bed14b954005211d
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553537"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505803"
 ---
-# <a name="recording-in-teams"></a><span data-ttu-id="85bf6-102">Nahrávanie v aplikácii Teams</span><span class="sxs-lookup"><span data-stu-id="85bf6-102">Recording in Teams</span></span>
+# <a name="recording-in-teams"></a><span data-ttu-id="e8f61-102">Nahrávanie v aplikácii Teams</span><span class="sxs-lookup"><span data-stu-id="e8f61-102">Recording in Teams</span></span>
 
-<span data-ttu-id="85bf6-103">Ak sa vám nedarí nahrávať v aplikácii Teams alebo ak potrebujete zistiť, ako nahrávať v aplikácii Teams, vyskúšajte niektorý z nasledujúcich článkov.</span><span class="sxs-lookup"><span data-stu-id="85bf6-103">If you are unable to record in Teams or need to understand how to record in Teams, try one of the following articles.</span></span>
+<span data-ttu-id="e8f61-103">Nahrávanie schôdze cez Microsoft Teams je teraz možné uložiť vo OneDrive alebo SharePointe. Ďalšie informácie a možnosť prihlásiť sa nájdete v nasledujúcom príspevku centra správ: [(Aktualizované) Microsoft Teams: záznamy zo schôdze uložené vo OneDrive a SharePointe](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)</span><span class="sxs-lookup"><span data-stu-id="e8f61-103">Microsoft Teams Meeting Recording can now be stored in OneDrive or SharePoint, for more information and to opt-in, see the following Message Center Post: [(Updated) Microsoft Teams: meeting recordings saved to OneDrive and SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)</span></span>
 
-- <span data-ttu-id="85bf6-104">Informácie o tom, ako spustiť nahrávanie v aplikácii Teams, alebo o type používateľov, ktorí môžu nahrávanie v aplikácii Teams spustiť alebo zastaviť, nájdete v téme [Nahratie schôdze v službe Teams](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span><span class="sxs-lookup"><span data-stu-id="85bf6-104">To learn how to start a recording in Teams, or the type of users that can start or stop a recording in Teams, please review [Record a meeting in Teams](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span></span>
+<span data-ttu-id="e8f61-104">Premiestnenie ukladacieho priestoru do OneDrivu alebo SharePointu eliminuje predchádzajúcu požiadavku, aby bol Microsoft Stream k dispozícii vo vašej oblasti.</span><span class="sxs-lookup"><span data-stu-id="e8f61-104">Moving your storage location to OneDrive or SharePoint eliminates the previous requirement that Stream be available in your region.</span></span>
 
-- <span data-ttu-id="85bf6-105">Informácie o tom, ako zapnúť a nakonfigurovať funkciu nahrávania v aplikácii Teams pre vašu organizácii, nájdete v téme [Nahrávanie schôdze v cloude v službe Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).</span><span class="sxs-lookup"><span data-stu-id="85bf6-105">To learn how to enable and configure the recording feature in Teams for your organization, please review [Teams cloud meeting recording](https://docs.microsoft.com/microsoftteams/cloud-recording).</span></span>
+<span data-ttu-id="e8f61-105">Ak chcete zistiť, ako v aplikácii Microsoft Teams **zapnúť a nakonfigurovať funkciu nahrávania** pre vašu organizáciu, **vrátane ovládacích prvkov na zapnutie alebo vypnutie nahrávania schôdze pre konkrétnych používateľov**, pozrite si tému [Nahrávanie schôdze v cloude v službe Microsoft Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).</span><span class="sxs-lookup"><span data-stu-id="e8f61-105">To learn how to **enable and configure the recording feature** in Teams for your organization, **including controls for enabling or disabling Meeting Recording for specific users**, review [Teams cloud meeting recording](https://docs.microsoft.com/microsoftteams/cloud-recording).</span></span>
+
+<span data-ttu-id="e8f61-106">Ak sa vám **nedarí nahrávať v aplikácii Teams alebo ak potrebujete zistiť, ako nahrávať** v aplikácii Teams, vyskúšajte niektorý z nasledujúcich článkov:</span><span class="sxs-lookup"><span data-stu-id="e8f61-106">If you are **unable to record in Teams or need to understand how to record** in Teams, try one of the following articles:</span></span>
+
+- <span data-ttu-id="e8f61-107">Ak ste sa zatiaľ neprihlásili do ukladacieho priestoru vo OneDrive alebo SharePointe na nahrávanie schôdzí v aplikácii Microsoft Teams, tieto možnosti vyžadujú dostupnosť Microsoft Streamu v oblasti a krajine.</span><span class="sxs-lookup"><span data-stu-id="e8f61-107">If you haven’t yet opted into OneDrive or SharePoint storage for Teams Meeting Recording, these capabilities rely on Stream regional and country availability.</span></span> <span data-ttu-id="e8f61-108">Ak sa vám nedarí zaznamenať schôdzu, uistite sa, že [je vo vašej krajine alebo oblasti k dispozícii Microsoft Stream](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).</span><span class="sxs-lookup"><span data-stu-id="e8f61-108">If you cannot record a meeting check to ensure that [Stream is available in your country or region](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).</span></span> <span data-ttu-id="e8f61-109">Ďalšie informácie nájdete v nasledujúcom príspevku centra správ v portáli pre správcov: [Aktualizovaná funkcia: Regionálne ovládanie úložiska pre cloudové záznamy v Microsoft Streame](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)</span><span class="sxs-lookup"><span data-stu-id="e8f61-109">For more information be sure to review the following Message Center post in the Admin Portal: [Updated Feature: Microsoft Stream cloud recordings regional storage control](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)</span></span>
+
+- <span data-ttu-id="e8f61-110">Nahrávanie schôdze cez Microsoft Teams [vyžaduje priradenie konkrétnych licencií a politík](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording) vrátane licencií na Microsoft Stream na nahrávanie alebo sťahovanie záznamov zo schôdze do Microsoft Streamu.</span><span class="sxs-lookup"><span data-stu-id="e8f61-110">Meeting Recording in Teams [requires specific licenses and policies to be assigned](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), including Stream licenses to upload or download meeting recordings to Microsoft Stream.</span></span>
+
+- <span data-ttu-id="e8f61-111">Po potvrdení splnenia všetkých požiadaviek vrátane licencií, politík a miestnej dostupnosti Microsoft Streamu si pozrite časť [Nahratie schôdze cez Microsoft Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span><span class="sxs-lookup"><span data-stu-id="e8f61-111">Once you’ve confirmed all requirements are met, including licensing, policies and regional availability of Stream, review [Record a meeting in Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).</span></span>
