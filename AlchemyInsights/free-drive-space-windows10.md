@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037948"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505371"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Uvoľnenie miesta na disku vo Windowse 10
 
-Tu sú dve možnosti, ako uvoľniť miesto na disku vo Windowse:
+Existujú dve možnosti, ako vo Windowse uvoľniť miesto na disku:
 
 - Uvoľnite miesto na disku vo Windowse 10.
-- Uvoľnite miesto pre aktualizácie pre Windows 10 s externým ukladacím zariadením.
+- Uvoľnite miesto pre aktualizácie Windowsu 10 v externom ukladacom zariadení.
 
-Ak máte stále dostatok voľného miesta na disku po použití čistenia disku, je možné, že priečinok Temp sa rýchlo vyplní súbormi Application (. Appx), ktoré používa Microsoft Store. Ak chcete tento problém vyriešiť, obnovte ukladanie, vymažte vyrovnávaciu pamäť obchodu a potom spustite Poradcu pri riešení problémov so službou Windows Update. Pred pokračovaním v týchto krokoch Skontrolujte, či je Microsoft Obchod zavretý.
+Ak máte po použití nástroja Čistenie disku stále málo miesta na disku, je možné, že sa priečinok Temp rýchlo zapĺňa súbormi aplikácií (.appx), ktoré používa Microsoft Store. Na odstránenie tohto problému resetujte Microsoft Store, vymažte vyrovnávaciu pamäť Microsoft Storeu a spustite nástroj na riešenie problémov pre Windows Update. Skôr než budete pokračovať podľa týchto krokov, skontrolujte, či je Microsoft Store zatvorený.
 
-**Krok 1: Vynulovanie Microsoft obchodu**
+**1. krok: Resetovanie Microsoft Storeu**
 
-**Poznámka:** Týmto sa natrvalo odstránia údaje aplikácie v zariadení vrátane predvolieb a podrobností o prihlasovaní.
+**Poznámka** Týmto sa natrvalo odstránia údaje aplikácie v zariadení vrátane vašich predvolieb a podrobností o prihlásení.
 
-1. Vyberte položku **Start**  >  **Settings** Apps Apps  >    >  **& funkcií**.
+1. Vyberte možnosti **Štart** > **Nastavenia** > **Aplikácie** > **Aplikácie a funkcie**.
 
 1. V zozname aplikácií vyhľadajte a vyberte položku Microsoft Store.
 
 1. Vyberte položku **Rozšírené možnosti**.
 
-1. Posuňte sa nadol a vyberte položku **obnoviť** a potom **potvrďte vynulovanie**.
+1. Posuňte sa nadol a vyberte možnosť **Resetovať** a potom **Potvrdiť resetovanie**.
 
-**Krok 2: Vymazanie vyrovnávacej pamäte Microsoft obchodu**
+**2. krok: Vymazanie vyrovnávacej pamäte Microsoft Storeu**
 
-1. Stlačením klávesu s logom Windows + R otvorte dialógové okno spustiť.
+1. Stlačte kláves s logom Windows + R a otvorte dialógové okno Spustenie.
 
-1. Zadajte wsreset.exe a kliknite na **tlačidlo OK**.
+1. Napíšte wsreset.exe a vyberte **OK**.
 
-1. Otvorí sa prázdne okno príkazového riadka. Po približne 10 sekundách sa okno zavrie a ukladací priestor sa otvorí automaticky.
+1. Otvorí sa prázdne okno príkazového riadka. Približne po 10 sekundách sa okno zavrie a Microsoft Store sa automaticky otvorí.
 
-**Krok 3: Vynulovanie aktualizácie Windowsu**
+**3. krok: Resetovanie lokality Windows Update**
 
-1. Vyberte položku **Spustiť**  >  aktualizáciu **nastavení**  >  & riešenie problémov so **zabezpečením**  >  .
+1. Vyberte možnosti **Štart** > **Nastavenia** > **Aktualizácia a zabezpečenie** > **Riešenie problémov**.
 
-1. Posuňte sa nadol a zo zoznamu vyberte položku **Windows Update** a vyberte položku **spustiť Poradcu pri riešení problémov**.
+1. Posuňte sa nadol a vyberte zo zoznamu položku **Windows Update** a potom možnosť **Spustiť riešenie problémov**.
 
-1. Reštartujte počítač a skontrolujte, či sa problém vyskytuje aj naďalej.
+1. Reštartujte počítač a skontrolujte, či problém stále pretrváva.
 
