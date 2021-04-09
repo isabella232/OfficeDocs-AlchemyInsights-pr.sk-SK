@@ -1,5 +1,5 @@
 ---
-title: Oprava chyby 0x8004de40 vo OneDrive
+title: Oprava 0x8004de40 vo OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745145"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649763"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Oprava chyby 0x8004de40 vo OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Oprava 0x8004de40 vo OneDrive
 
-Ak sa v službe OneDrive zobrazí chyba 0x8004de40:
+Ak používate Windows 7 a zobrazí sa táto chyba, pri aktualizácii zapnite protokol [TLS 1.1 a TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)ako predvolené zabezpečené protokoly v systéme WinHTTP vo Windowse.
 
-- Reštartujte postihnutý počítač pri pripojení k doméne adresára Acitve.
-- Ak sa problém nevyrieši reštartovaním, odhláste sa a znova sa prihláste do svojho zariadenia zo služby Azure AD. 
+Ak používate Windows 10 a vo OneDrive sa 0x8004de40 chyba:
 
-**Poznámka**: pri vykonaní týchto krokov by ste sa mali nachádzať v podnikovej sieti. Nevykonávajte tieto kroky, ak sa nedokážete pripojiť k podnikovej infraštruktúre (napríklad na cestách). 
+- Po pripojení k doméne adresára Acitve reštartujte ovplyvnený počítač.
+- Ak reštartovanie nepomôže problém vyriešiť, odpojte sa a znova sa pripojiť k zariadeniu zo služby Azure AD. 
 
-- Otvorte príkazový riadok s právami správcu. 
-- Ak chcete otvoriť príkazový riadok s právami správcu, kliknite na tlačidlo **Štart**, kliknite pravým tlačidlom myši na **Príkazový riadok**a potom kliknite na položku **Spustiť ako správca**.
-- Zadajte *dsregcmd/Leave* a stlačte kláves **Enter**.
-- Po vyplnení zadajte *dsregcmd/JOIN* a stlačte kláves **Enter**.
-- Po skončení zatvoríte príkazový riadok.
-- Reštartujte počítač a prihláste sa do služby OneDrive.
+**Poznámka:** Pri vykonávaní týchto krokov by ste sa mali nachádzať vo vašej podnikovej sieti. Tieto kroky nepoužívajte, keď nie ste pripojení k podnikovej infraštruktúre (napríklad na cestách). 
+
+1. Výberom tlačidla Štart otvorte príkazový riadok bez **oprávnení**, kliknite pravým tlačidlom myši na **položku Príkazový** riadok a potom **vyberte položku Spustiť ako správca.**
+
+1. Zadajte *dsregcmd /leave a* stlačte kláves **Enter.**
+
+1. Po dokončení zadajte *dsregcmd /join a* stlačte kláves **Enter.**
+
+1. Po dokončení zatvorte príkazový riadok.
+
+1. Reštartujte počítač a prihláste sa do služby OneDrive.

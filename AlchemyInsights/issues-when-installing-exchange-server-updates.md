@@ -1,5 +1,5 @@
 ---
-title: Problémy pri inštalácii aktualizácií servera Exchange Server
+title: Problémy pri inštalácii aktualizácií servera Exchange
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696303"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645182"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Problémy pri inštalácii aktualizácií servera Exchange Server
+# <a name="issues-when-installing-exchange-server-updates"></a>Problémy pri inštalácii aktualizácií servera Exchange
 
-Pred inštaláciou aktualizácií Exchange servera si prečítajte časť najvhodnejšie postupy v článku [Inovácia Exchangeu na najnovšiu Kumulatívna aktualizácia](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Je obzvlášť dôležité nainštalovať aktualizácie pomocou zvýšenej výzvy CMD (pokiaľ sa aktualizácie neinštalujú prostredníctvom lokality Microsoft Update). Toto sa vzťahuje na kumulatívne aj aktualizácie zabezpečenia.
+Ak potrebujete aktualizovať na najnovšiu kumulatívnu aktualizáciu (CU) pre Exchange Server, môžete použiť na získanie podrobnej množiny krokov na aktualizáciu od aktuálnej kumulatívnej aktualizácie na cieľovú [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) KUMULATÍVNA.
 
-Ak sa pri inštalácii aktualizácií zabezpečenia alebo po inštalácii aktualizácie zobrazia chyby, prečítajte si [Tento článok o riešení problémov s zlyhalmi inštaláciami](https://aka.ms/exupdatefaq).
+Ak sa počas inštalácie aktualizácií Exchange Servera alebo po jej nainštalovaní vyskytujú chyby, pozrite si časť Osvedčené postupy v článku Inovácia servera Exchange na [najnovšiu kumulatívnu aktualizáciu.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Je veľmi dôležité nainštalovať aktualizácie zabezpečenia pomocou výzvy CMD bez oprávnení (ak aktualizácie nie sú nainštalované prostredníctvom služby Microsoft Update).
+
+Ak sa pri inštalácii aktualizácií zabezpečenia alebo po inštalácii aktualizácie zobrazí chyba, pozrite si časť Oprava zlyhala [inštalácií kumulatívnych](https://aka.ms/exupdatefaq)a bezpečnostných aktualizácií programu Exchange.
