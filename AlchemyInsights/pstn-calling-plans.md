@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662520"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692481"
 ---
 # <a name="pstn-calling-plans"></a>Volacie plány na volanie prostredníctvom verejnej telefónnej siete (PSTN)
 
@@ -28,4 +28,4 @@ Ak chcete svojim používateľom umožniť používať bežné telefóny, no eš
 
 - Nastavte [Komunikačné kredity](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) a zabráňte tomu, aby používatelia **minúty minuli**. Sadzby si môžete pozrieť [tu](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Ďalšie informácie nájdete v téme [Telefónny systém a volacie plány](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) alebo [Čo sú komunikačné kredity?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Ďalšie informácie nájdete v téme [Plány volania aplikácie Microsoft Teams Phone a Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) alebo Čo sú [kredity na komunikáciu?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
