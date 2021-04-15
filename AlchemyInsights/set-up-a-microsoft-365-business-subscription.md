@@ -2,21 +2,22 @@
 title: Nastavenie predplatného na Microsoft 365 Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4795"
-ms.openlocfilehash: eb837d6a09f57c60c05dc2fdb641c2d6b2ee6b91
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
+ms.openlocfilehash: f155b5e37047495c8044d58dc4403adfe18d34e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207528"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788502"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Nastavenie predplatného na Microsoft 365 Business
 

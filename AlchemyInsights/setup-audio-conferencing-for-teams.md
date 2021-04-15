@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764384"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692697"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Nastavenie audiokonferencie pre Teams
 
@@ -32,7 +33,7 @@ Ak chcete overiť, či používateľ má licenciu na audiokonferencie a má pred
 
 2. V závislosti od verzie centra spravovania vyberte možnosť **Licencie a aplikácie** alebo kliknite na položku **Upraviť** v okne **Licencie na produkty**.
 
-3. Skontrolujte, či používateľ má vybraté licencie pre **Audiokonferencie, Microsoft Teams**a **Skype for Business Online (plán 2)**.
+3. Skontrolujte, či používateľ má vybraté licencie pre **Audiokonferencie, Microsoft Teams** a **Skype for Business Online (plán 2)**.
 
 4. V **centre spravovania** kliknite na položku **Zobraziť všetko**, potom na položku **Teams**.
 
@@ -42,4 +43,4 @@ Ak chcete overiť, či používateľ má licenciu na audiokonferencie a má pred
 
 7. Vyberte príslušného používateľa a overte, či má **Predvolené platené číslo**.
 
-Ďalšie informácie nájdete v téme [Volacie plány pre Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) alebo zavolajte tímu Microsoft Commerce Billing, kde vám pomôžu s otázkami týkajúcimi sa licencovania.
+Ďalšie informácie nájdete v téme [Volacie plány v Microsoft Teams pre Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) alebo zavolajte tímu Microsoft Commerce Billing, kde vám pomôžu s otázkami týkajúcimi sa licencovania.

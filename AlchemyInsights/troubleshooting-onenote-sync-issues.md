@@ -2,7 +2,7 @@
 title: Riešenie problémov so synchronizáciou OneNotu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 2dba7bf8e6d8293e7447840941a063b343774a53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b59105a5c47d7f2b119d017c2b3dc35729dbbdd7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749817"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782751"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Riešenie problémov so synchronizáciou OneNotu
 
-* Ak chcete riešiť najbežnejšie problémy súvisiace s synchronizáciou OneNotu, postupujte podľa krokov v téme [Riešenie problémov, keď nie je možné synchronizovať OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+* Ak chcete vyriešiť najbežnejšie problémy týkajúce sa synchronizácie OneNotu, postupujte podľa krokov v časti Riešenie [problémov, keď nie je možné synchronizovať OneNote.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)
 
-Ak je Poznámkový blok, ktorý sa nesynchronizuje, uložený vo OneDrive alebo v novších verziách SharePointu, skúste otvoriť Poznámkový blok vo OneNote pre web (na www.onenote.com). Môže to pomôcť zistiť, či je problém spôsobený serverom alebo OneNote.
+Ak je poznámkový blok, ktorý sa nedá synchronizovať, uložený vo OneDrive alebo v novších verziách SharePointu, skúste ho otvoriť vo OneNote pre web (na lokalite www.onenote.com). Tento môže pomôcť určiť, či problém spôsobuje server alebo OneNote.
 
-1. Vo OneNote kliknite na **File**položku  >  **informácie o**súbore.
+1. Vo OneNote kliknite na položku **Informácie o**  >  **súbore.**
 
-2. Kliknite pravým tlačidlom myši na URL adresu zobrazenú pod názvom príslušného poznámkového bloku a potom kliknite na položku **Kopírovať**.
+2. Kliknite pravým tlačidlom myši na URL adresu pod názvom príslušného poznámkového bloku a kliknite na položku **Kopírovať**.
 
-3. Vo webovom prehliadači kliknite na pole adresa a potom stlačením **kombinácie klávesov CTRL + V** prilepte SKOPÍROVANÚ URL adresu.
+3. Vo webovom prehliadači kliknite na pole Adresa a stlačením kombinácie klávesov **Ctrl + V** prilepte skopírovanú URL adresu.
 
-4. Stlačením klávesu **Enter** načítajte Poznámkový blok vo OneNote pre web.
+4. Stlačením **klávesu Enter** načítajte potom poznámkový blok vo OneNote pre web.
 
-Ak sa vám nepodarí otvoriť Poznámkový blok vo OneNote pre web a zmeny sa zobrazia, problém môže byť spôsobený počítačovou verziou OneNotu. Zatvorenie a opätovné otvorenie poznámkového bloku zvyčajne vymaže a úspešne obnoví pripojenie.
+Ak sa poznámkový blok nedá otvoriť vo OneNote pre web a zobrazujú sa zmeny, problém môže spôsobovať počítačová verzia OneNotu. Zatvorením a obnovením poznámkového bloku sa pripojenie zvyčajne vymaže a úspešne obnoví.
 
-* Odporúčame postupovať podľa krokov v téme [Inštalácia aktualizácií balíka Office](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) na inštaláciu najnovších aktualizácií programu OneNote do počítača. Ak používate Mac, postupujte podľa krokov v téme [Kontrola aktualizácií balíka Office pre Mac automaticky](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
+* Pri inštalácii najnovších aktualizácií OneNotu do počítača odporúčame inštalovať aktualizácie balíka Office podľa krokov uvedených v časti Inštalácia aktualizácií balíka [Office.](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) Ak používate Mac, postupujte podľa krokov v časti Automatické [kontrola aktualizácií balíka Office pre Mac.](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)

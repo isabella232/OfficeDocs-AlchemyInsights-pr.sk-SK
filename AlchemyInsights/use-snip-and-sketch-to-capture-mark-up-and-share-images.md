@@ -1,8 +1,8 @@
 ---
-title: Zachytávanie, označovanie a zdieľanie obrázkov pomocou &nia výstrižkov
+title: Použitie funkcie Vystrihnúť & Skicár na zaznamenávanie, označenie a zdieľanie obrázkov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773214"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770826"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Zachytávanie, označovanie a zdieľanie obrázkov pomocou &nia výstrižkov
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Použitie funkcie Vystrihnúť & Skicár na zaznamenávanie, označenie a zdieľanie obrázkov
 
-Skica obrazovky sa teraz nazýva **výstrižok & skica**. Rýchle odobratie **výstrižku**:
+Snímka z obrazovky na **skicovanie sa teraz nazýva Vystrihnúť & Skicár**. **Rýchle zhodný výstrižok:**
 
-1. Stlačte kláves s **logom Windows + Shift + S**. Zobrazí sa obrazovka stmavnutie a kurzor sa zobrazí ako krížik. 
+1. Stlačte kláves **s logom Windows + Shift + S.** Obrazovka sa stmavne a kurzor sa zobrazí ako krížik. 
 
-2. Vyberte bod na okraji oblasti, ktorú chcete kopírovať, a potom kliknite ľavým tlačidlom myši na kurzor. 
+2. Vyberte bod na okraji oblasti, ktorú chcete kopírovať, a ľavým tlačidlom myši kliknite na kurzor. 
 
-3. Posunutím kurzora zvýraznite oblasť, ktorú chcete zachytiť. Oblasť, ktorú zaznamenávate, sa zobrazí na obrazovke.
+3. Presuňte kurzor na zvýraznenie oblasti, ktorú chcete zaznamenať. Na obrazovke sa zobrazí oblasť, ktorú nasnímate.
 
-   ![obrázok zvýrazneného výberu](media/snipone.png)
+   ![Obrázok zvýrazneného výberu](media/snipone.png)
 
-Obrázok, ktorý použitých, je uložený v schránke, ktorý je pripravený na prilepenie do e-mailu alebo dokumentu. 
+Vystrinutý obrázok sa uloží do schránky a je pripravený na prilepenie do e-mailu alebo dokumentu. 
 
-**Ak chcete upraviť alebo Zobraziť obrázok**: 
+**Ak chcete upraviť alebo zobraziť obrázok:** 
 
-- Kliknite na ikonu oznámenia na pravej strane panela úloh. potom kliknite na obrázok, ktorý ste práve zachytili. Výstrižok sa otvorí v aplikácii výstrižok & skica.
+- Kliknite na ikonu oznámení na pravej strane panela úloh. a kliknite na práve zachytený obrázok. Výstrižok sa otvorí v aplikácii Vystrihnúť & Skicár.
 
-   ![Obrázok zobrazenia v aplikácii na vystrihovanie](media/sniptwo.png)
+   ![obrázok obrázka zobrazujúceho sa v aplikácii na vystrihovanie](media/sniptwo.png)

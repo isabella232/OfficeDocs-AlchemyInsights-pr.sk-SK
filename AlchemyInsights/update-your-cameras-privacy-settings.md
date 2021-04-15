@@ -1,8 +1,8 @@
 ---
-title: Aktualizácia nastavenia ochrany osobných údajov fotoaparátu
+title: Aktualizácia nastavení ochrany osobných údajov kamery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: b4731cb8abc7cc8b146a752940fa954138ddb188
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274965"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782670"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Aktualizácia nastavenia ochrany osobných údajov fotoaparátu
+# <a name="update-your-cameras-privacy-settings"></a>Aktualizácia nastavení ochrany osobných údajov kamery
 
-Tento kód chyby znamená, že nastavenia ochrany osobných údajov v kamere majú vplyv na aplikáciu. Ak chcete aktualizovať nastavenia ochrany osobných údajov v kamere, postupujte podľa týchto krokov:
+Tento kód chyby znamená, že nastavenia ochrany osobných údajov vášho fotoaparátu majú vplyv na aplikáciu. Ak chcete aktualizovať nastavenia ochrany osobných údajov kamery, postupujte podľa týchto krokov:
 
-- Otvorte **tlačidlo štart > nastavenia > kamery > ochrany osobných údajov**.
-- V časti **Povoliť prístup k fotoaparátu v tomto zariadení**vyberte položku **zmeniť**. Skontrolujte **, či**je prepínač zapnutý.
-- V časti **povolenie aplikácií na prístup k kamere**Skontrolujte, či je **prepínač zapnutý.**
-- Potom v časti **Výber aplikácií, ktoré majú prístup k kamere**, skontrolujte, či je prepínač vedľa požadovanej aplikácie zapnutý.
+- Otvorte **tlačidlo Štart a > nastavenia > ochrana > osobných údajov**.
+- V **časti Povoliť prístup k fotoaparátu v tomto zariadení** vyberte položku **Zmeniť**. Uistite sa, že prepínač je **zapnutý.**
+- Potom v **časti Povoliť aplikáciám prístup k fotoaparátu** skontrolujte, či je prepínač **zapnutý .**
+- Potom v **časti Výber aplikácií, ktoré majú** prístup k vášmu fotoaparátu skontrolujte, či je prepínač vedľa požadovanej aplikácie tiež zapnutý.
