@@ -1,8 +1,8 @@
 ---
-title: Prehľad procesu nahrávania v Microsoft streame
+title: Prehľad procesu nahrávania v Microsoft Streame
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: b86d899a58279697aab8ca1a6ec4ceba13105df6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d290650a1d8766650e6f88e8b0a671d67f2be85d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798607"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782310"
 ---
-# <a name="upload-process-overview-in-microsoft-stream"></a><span data-ttu-id="0bae0-102">Prehľad procesu nahrávania v Microsoft streame</span><span class="sxs-lookup"><span data-stu-id="0bae0-102">Upload process overview in Microsoft Stream</span></span>
+# <a name="upload-process-overview-in-microsoft-stream"></a><span data-ttu-id="1e4b8-102">Prehľad procesu nahrávania v Microsoft Streame</span><span class="sxs-lookup"><span data-stu-id="1e4b8-102">Upload process overview in Microsoft Stream</span></span>
 
-<span data-ttu-id="0bae0-103">Vždy, keď nahráte video, Microsoft Stream ho automaticky zakóduje do viacerých dátových bitov, aby sa video dalo prenášať pomocou adaptívneho toku údajov.</span><span class="sxs-lookup"><span data-stu-id="0bae0-103">Whenever you upload a video, Microsoft Stream automatically encodes it into multiple bitrates so the video can be streamed using adaptive bitrate streaming.</span></span> <span data-ttu-id="0bae0-104">Microsoft Stream optimalizuje dátový tok a kvalitu prehrávania videa na základe dostupnej šírky pásma zobrazovača.</span><span class="sxs-lookup"><span data-stu-id="0bae0-104">Microsoft Stream optimizes the bitrate and quality of the playing video based on the viewer's available bandwidth.</span></span>
+<span data-ttu-id="1e4b8-103">Vždy, keď nahráte video, Microsoft Stream ho automaticky kóduje do viacerých bitových prenosov, takže ho možno streamovať pomocou adaptívnej streamovania bitovej rýchlosti.</span><span class="sxs-lookup"><span data-stu-id="1e4b8-103">Whenever you upload a video, Microsoft Stream automatically encodes it into multiple bitrates so the video can be streamed using adaptive bitrate streaming.</span></span> <span data-ttu-id="1e4b8-104">Microsoft Stream optimalizuje bitovú rýchlosť a kvalitu prehraného videa na základe dostupnej šírky pásma diváka.</span><span class="sxs-lookup"><span data-stu-id="1e4b8-104">Microsoft Stream optimizes the bitrate and quality of the playing video based on the viewer's available bandwidth.</span></span>
 
-- [<span data-ttu-id="0bae0-105">Prehľad procesu nahrávania v Microsoft streame</span><span class="sxs-lookup"><span data-stu-id="0bae0-105">Upload process overview in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/upload-process-overview)
+- [<span data-ttu-id="1e4b8-105">Prehľad procesu nahrávania v Microsoft Streame</span><span class="sxs-lookup"><span data-stu-id="1e4b8-105">Upload process overview in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/upload-process-overview)
