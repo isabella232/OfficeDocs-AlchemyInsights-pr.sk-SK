@@ -2,7 +2,7 @@
 title: Hybridné a externé vyhľadávanie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 43071a3166735d61ca8cd8ae5ce74aa018ed9d15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743845"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795891"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="f5e05-102">Hybridné a externé vyhľadávania</span><span class="sxs-lookup"><span data-stu-id="f5e05-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="b1bfb-102">Hybridné a externé vyhľadávanie</span><span class="sxs-lookup"><span data-stu-id="b1bfb-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="f5e05-103">Informácie o hybridnom a externom vyhľadávaní v SharePointe Online nájdete [v téme hybridné vyhľadávanie v SharePointe](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="f5e05-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="b1bfb-103">Informácie o hybridnom a federovom vyhľadávaní v SharePointe Online nájdete v téme [Hybridné vyhľadávanie v SharePointe.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span><span class="sxs-lookup"><span data-stu-id="b1bfb-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="f5e05-104">Informácie o plánovaní hybridného externého vyhľadávania nájdete v téme Plánovanie [hybridného externého vyhľadávania pre SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="f5e05-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="b1bfb-104">Informácie o plánovaní hybridného federného vyhľadávania nájdete v téme [Plánovanie hybridného federovaného vyhľadávania pre SharePoint Server.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)</span><span class="sxs-lookup"><span data-stu-id="b1bfb-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
