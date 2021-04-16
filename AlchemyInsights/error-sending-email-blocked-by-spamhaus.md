@@ -1,8 +1,8 @@
 ---
-title: Chyba pri odosielaní e-mailov zablokovaných SpamHaus
+title: Chyba pri odosielaní e-mailov zablokovaných zo strany súboru SpamHaus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a0c2f4be0b2d8ba6fd3dadbdf306e6ce623ad380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783818"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813739"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Chyba pri odosielaní e-mailu: hostiteľ klienta je blokovaný pomocou spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Chyba pri odosielaní e-mailu: Hostiteľ klienta zablokovaný pomocou lokality Spamhaus
 
-IP adresa, ktorá odoslala správu, je v zozname blokovaných vo vlastníctve [spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Dôvody, prečo zablokoval spamhaus, zahŕňajú ohrozené kontá, ohrozené počítače, ktoré zdieľajú verejnú IP adresu, a politiky poskytovateľa internetových služieb (ISP). Možné opravy:
+IP adresa, z ktorých bola správa odoslaná, je v zozname blokovaných položiek vo vlastníctve lokality [Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245) Dôvodom zablokovania zo strany lokality Spamhaus môže byť zneužiné kontá, zneužiné počítače so zdieľaním verejnej IP adresy a zásady poskytovateľa internetových služieb (ISP). Možné opravy:
   
-- V prípade blokovaných prichádzajúcich správ, na ktorých môžete ovládať zdrojový e-mailový server, je potrebné určiť príčinu a odstrániť blok z webovej lokality spamhaus.
+- Pri blokovaných prichádzajúcich správach, ktoré určujú zdrojový e-mailový server, je nutné určiť príčinu a odstrániť blokovanie z webovej lokality Spamhaus.
 
-- V prípade blokovaných prichádzajúcich správ, v ktorých je zdrojová IP adresa členom inej osoby, musí vlastník adresy odstrániť blok z webovej lokality spamhaus. Ak sa IP adresa nachádza v zozname blok politiky (PBL), vlastník môže priradiť inú statickú IP adresu alebo odstrániť adresu z poľa PBL.
+- V prípade blokovaných prichádzajúcich správ, pri ktorých patrí zdrojová IP adresa inému vlastníkovi, musí blokovanie z webovej lokality Spamhaus odstrániť vlastník adresy. Ak sa IP adresa nachádza v zozname blokovaných politík (PBL), vlastník môže priradiť inú statickú IP adresu alebo odstrániť adresu zo zoznamu PBL.
 
-- V prípade blokovaných odchádzajúcich správ z vašej domény pripojenej k spoločnosti Microsoft sa môže táto chyba Zobraziť, ak sú správy smerované prostredníctvom služby tretích strán. Pomocou nástroja vyhľadávania WHOIS môžete nájsť blokovaných vlastníkov IP adries.
+- V prípade blokovaných odchádzajúcich správ z domény pripojenej k spoločnosti Microsoft sa môže táto chyba zobraziť, ak sú správy smerované cez službu tretej strany. Vlastníka blokovanú IP adresu môžete vyhľadať pomocou vyhľadávacieho nástroja WHOIS.

@@ -2,21 +2,22 @@
 title: Povolenie služby Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002642"
 - "5077"
-ms.openlocfilehash: 55c14b0c56255100e6b6ac7e27e6f6a8919c63a1
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: fb126adc43a9e8d4626464309ada6ab4a6cead33
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933365"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814171"
 ---
 # <a name="enable-microsoft-stream"></a>Povolenie služby Microsoft Stream
 

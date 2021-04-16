@@ -1,8 +1,8 @@
 ---
-title: Pri overovaní chyby tokenu prístupu počas analýzy počítača sa vyskytla chyba.
+title: Počas nastupovania do funkcie Desktop Analytics sa vyskytla chyba s overujúca chyba prístupového tokenu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783566"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813703"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Chyba pri overovaní accessového tokenu sa vyskytla chyba počas integrovaného nástroja na analýzu pracovnej plochy
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Počas za panelovania funkcie Desktop Analytics sa vyskytla chyba overovania prístupového tokenu
 
-Táto chyba sa zvyčajne sleduje po uplynutí platnosti overovacieho tokenu. Obnovenie stránky zvyčajne obnoví token. Tento problém však môže pretrvávať, ak sa uplatňujú politiky podmieneného prístupu použité na konto, ktoré sa používa na analýzu na palube počítača. Ak chcete zistiť, či existujú nejaké zlyhanie prihlásenia pre konto, ktoré sa používa na zabudovanie počítačovej analýzy, môžete si pozrieť Denníky prihlásenia Azure AD na portáli Azure Portal.
+Táto chyba sa zvyčajne vyskytuje po uplynutí platnosti tokenu overenia. Obnovením stránky sa zvyčajne obnoví token. Tento problém však môže pretrvávať, ak sa v konte používanom na počítačovú analýzu na palube používajú nejaké politiky podmieneného prístupu. Môžete si pozrieť denníky prihlásenia do služby Azure AD na portáli Azure a zistiť, či sa pre konto používaná pre onboardovanie funkcie Desktop Analytics nejaké zlyhanie prihlásenia.
 
-Ďalšie informácie o podmienenom prístupe nájdete v téme [Plánovanie nasadenia podmieneného prístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Ďalšie informácie o podmienenom prístupe nájdete v článku [Plánovanie nasadenia podmieneného prístupu.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)

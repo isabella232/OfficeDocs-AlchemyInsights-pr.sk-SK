@@ -1,8 +1,8 @@
 ---
-title: Chyba AttributeValueMustBeUnique
+title: Error AttributeValueMustBeUnique
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813775"
 ---
-# <a name="error-attributevaluemustbeunique"></a>Chyba: AttributeValueMustBeUnique
+# <a name="error-attributevaluemustbeunique"></a>Chyba: AtribútValueMustBeUnique
 
-Najčastejšou príčinou chyby AttributeValueMustBeUnique sú dva objekty s rôznymi SourceAnchor (immutableId) majú rovnakú hodnotu pre ProxyAddresses a/alebo UserPrincipalName atribúty. Oprava chyby AttributeValueMustBeUnique:
+Najčastejším dôvodom chyby AtribútValueMustBeUnique sú dva objekty s odlišným atribútom SourceAnchor (immutableId), ktoré majú rovnakú hodnotu pre atribúty ProxyAddresses a/alebo UserPrincipalName. Oprava chyby AtribútValueMustBeUnique:
   
-1. Identifikujte duplikované proxyAddresses, userPrincipalName alebo inú hodnotu atribútu, ktorá spôsobuje chybu. Tiež Identifikujte, ktoré dva (alebo viac) objekty sa v konflikte zúčastňujú. Zostava vytvorená službou Azure AD Connect Health for Sync vám pomôže identifikovať dva objekty.
+1. Identifikujte duplicitné proxyAddresses, userPrincipalName alebo inú hodnotu atribútu, ktorá spôsobuje chybu. Určite, ktoré dva (alebo viac) objektov sa v konflikte zúčastňujú. Zostava vygenerovaná službou Azure AD Connect Health na synchronizáciu vám môže pomôcť identifikovať dva objekty.
     
-2. Identifikujte objekt, ktorý by mal mať aj naďalej duplicitnú hodnotu a objekt, ktorý by nemal.
+2. Identifikujte, ktorý objekt by mal mať naďalej duplicitnú hodnotu a ktorý objekt by nemal mať.
     
-3. Odstráňte duplicitnú hodnotu z objektu, ktorý by nemal mať túto hodnotu. Všimnite si, že by ste mali vykonať zmeny v adresári, v ktorom je objekt z zdroja. V niektorých prípadoch možno budete musieť odstrániť niektorý z objektov v konflikte.
+3. Odstráňte z objektu duplicitnú hodnotu, ktorá NEMÁ túto hodnotu mať. Mali by ste vykonať zmenu v adresári, z ktorého je objekt zdroj. V niektorých prípadoch budete musieť odstrániť jeden z objektov, ktoré sú v konflikte.
     
-4. Ak ste vykonali zmeny v lokálnej REKLAMe, nechajte službu Azure AD Connect synchronizácie zmeniť, aby sa vyskytla chyba.
+4. Ak ste vykonali zmenu v lokálnej službe AD, povoľte službe Azure AD Connect synchronizovať zmenu, aby sa problém vyriešil.
     
 

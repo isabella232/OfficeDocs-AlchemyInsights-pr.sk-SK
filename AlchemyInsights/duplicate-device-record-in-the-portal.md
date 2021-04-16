@@ -2,21 +2,22 @@
 title: Duplicitný záznam zariadenia na portáli
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4386"
-ms.openlocfilehash: 277afc59705e6040f0f9ae0c8cad965bd7d3ef65
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e6f477807823e68965ce966faf0a6f50f9472f3d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790172"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814531"
 ---
 # <a name="duplicate-device-record-in-the-portal"></a>Duplicitný záznam zariadenia na portáli
 

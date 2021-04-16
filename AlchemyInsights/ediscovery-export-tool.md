@@ -1,8 +1,8 @@
 ---
-title: nástroj na exportovanie eDiscovery
+title: Nástroj na exportovanie eDiscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,20 +15,20 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277934"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814603"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nedá sa nainštalovať alebo spustiť nástroj na exportovanie elektronického vyhľadávania?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nemôžete nainštalovať alebo spustiť nástroj na exportovanie eDiscovery?
 
-Ak nemôžete nainštalovať alebo spustiť nástroj na exportovanie eDiscovery na stiahnutie výsledkov vyhľadávania, pozrite si nasledujúce skutočnosti:
+Ak nemôžete nainštalovať alebo spustiť nástroj na exportovanie eDiscovery a stiahnuť výsledky vyhľadávania, skontrolujte tieto veci:
   
 - Počítač, ktorý používate, spĺňa tieto požiadavky:
 
-  - 32 alebo 64-bitové verzie Windowsu 7 a novších verzií
+  - 32-bitová alebo 64-bitová verzia Windowsu 7 a novšie verzie
 
   - Microsoft .NET Framework 4.7
 
@@ -40,12 +40,12 @@ Ak nemôžete nainštalovať alebo spustiť nástroj na exportovanie eDiscovery 
 
   - Internet Explorer 10 a novšie verzie
 
-    Ďalšie prehliadače, ako je napríklad Google Chrome a Mozilla Firefox, nie sú podporované.
+    Iné prehliadače, napríklad Google Chrome a Mozilla Firefox, nie sú podporované.
 
-- Vaša organizácia sa môže pripojiť ku koncovému bodu v Azure, ktorý je ** \* . blob.Core.Windows.net** (zástupný znak predstavuje jedinečný identifikátor pre úlohu exportu).
+- Vaša organizácia sa môže pripojiť ku koncovmu bodu v službe Azure, čo je **\* .blob.core.windows.net** (zástupný znak predstavuje jedinečný identifikátor úlohy exportu).
 
-- Ste priradili rolu exportu v &amp; Centre zabezpečenia dodržiavania súladu pre Microsoft 365. Predvolene je táto rola priradená k skupine rolí správcu eDiscovery. Pozrite si tému [Priradenie povolení pre eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- V Centre zabezpečenia služieb Microsoft 365 máte priradenú rolu &amp; exportu. Táto rola je predvolene priradená len skupine rolí eDiscovery Manager. Pozrite si [časť Priradenie povolení na eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Ďalšie informácie nájdete v téme [exportovanie výsledkov vyhľadávania obsahu](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Ďalšie informácie nájdete v téme [Export výsledkov vyhľadávania obsahu.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-Ak exportujete viac než 100K poštových schránok, budete musieť použiť nasledujúce prostredie PowerShell na stiahnutie výsledkov exportu:  [exportovanie výsledkov z viac ako 100k poštových schránok](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Ak exportujete viac ako 100 000 poštových schránok, na stiahnutie výsledkov exportu budete musieť použiť toto prostredie PowerShell: Export výsledkov z viac ako  [100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)poštových schránok.

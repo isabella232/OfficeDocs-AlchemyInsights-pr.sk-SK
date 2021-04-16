@@ -1,8 +1,8 @@
 ---
-title: Plánovanie využitia siete pre aplikáciu na synchronizáciu OneDrivu
+title: Plánovanie využitia siete pre synchronizačnú aplikáciu OneDrivu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: 2e70dfa85ce2647689f9057c8bf7ef4fd5c031f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a567339dcabc4df9428d36ef78fd151cd05ea7c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803224"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792003"
 ---
-# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Plánovanie využitia siete pre aplikáciu na synchronizáciu OneDrivu
+# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Plánovanie využitia siete pre synchronizačnú aplikáciu OneDrivu
 
-Tento článok je určený pre správcov IT, ktorí plánujú nasadiť aplikáciu na synchronizáciu OneDrivu a chcú odhadnúť, či budú používatelia šírky pásma siete potrebovať synchronizáciu.  
+Tento článok je určený pre správcov IT, ktorí plánujú nasadiť synchronizačnú aplikáciu OneDrivu a chcú odhadnúť šírku pásma, ktorú budú používatelia potrebovať na synchronizáciu.  
 
-- [Plánovanie využitia siete pre aplikáciu na synchronizáciu OneDrivu](https://docs.microsoft.com/onedrive/network-utilization-planning)
+- [Plánovanie využitia siete pre synchronizačnú aplikáciu OneDrivu](https://docs.microsoft.com/onedrive/network-utilization-planning)
