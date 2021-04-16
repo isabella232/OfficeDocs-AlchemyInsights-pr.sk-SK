@@ -1,8 +1,8 @@
 ---
-title: Cena nevyzerá správne?
+title: Cena nie je správna?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92290384e7995ccb44f41665b7166fd07196f947
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790455"
 ---
-# <a name="price-doesnt-look-correct"></a>Cena nevyzerá správne?
+# <a name="price-doesnt-look-correct"></a>Cena nie je správna?
 
-Ak cena na faktúre nevyzerá správne, môže to byť spôsobené zmenou ceny pri obnovení. Ak sa vám nepodarí tento problém vysvetliť, použite možnosť zavoláme vám a porozprávajte sa s pracovníkom technickej podpory.
+Ak sa cena na faktúre nezdá byť správna, môže to byť z dôvodu zmeny ceny pri obnovení. Ak si myslíte, že ide o vysvetlenie problému, použite možnosť Zavoláme vám a poraďte sa s technikom podpory.

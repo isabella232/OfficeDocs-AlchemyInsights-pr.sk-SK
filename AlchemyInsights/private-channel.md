@@ -2,7 +2,7 @@
 title: Súkromný kanál
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801820"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790419"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Súkromné kanály v aplikácii Microsoft teams
+# <a name="private-channels-in-microsoft-teams"></a>Súkromné kanály v aplikácii Microsoft Teams
 
-Súkromné kanály v aplikácii Microsoft teams vytvárajú prioritné priestory na spoluprácu v rámci tímov. Prístup ku kanálu môžu získať len používatelia v tíme, ktorí sú vlastníkmi alebo členmi súkromného kanála. Kohokoľvek vrátane hostí je možné pridať ako člena súkromného kanála, pokiaľ je daný používateľ už členom tímu.
+Súkromné kanály v aplikácii Microsoft Teams vytvárajú priestory zamerané na spoluprácu v rámci tímov. Prístup ku kanálu môžu získať len používatelia v tíme, ktorí sú vlastníkmi alebo členmi súkromného kanála. Kohokoľvek vrátane hostí je možné pridať ako člena súkromného kanála, pokiaľ je daný používateľ už členom tímu.
 
-Ďalšie informácie nájdete v téme Začíname s [súkromnými kanálmi v aplikácii Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Patria sem aj informácie, ako napríklad [vytváranie súkromných kanálov a členstvo](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) a [súkromné kanálové lokality SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+Ak chcete získať ďalšie informácie, začnite so [súkromnými kanálmi v aplikácii Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Patria sem informácie ako vytváranie [súkromných kanálov a členstvo a lokality](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) služby [SharePoint súkromných kanálov.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
 **Potrebujete nového vlastníka tímu?**
 
-Ak váš vlastník súkromného kanála opustí vašu organizáciu alebo sa odstráni zo skupiny, člen súkromného kanála sa automaticky povzbudzuje ako súkromný vlastník kanála.
+Ak vlastník súkromného kanála odíde z organizácie alebo je zo skupiny odstránený, člen súkromného kanála má automaticky povýšenú osobu ako vlastníka súkromného kanála.
 
-Správcovia môžu tiež [v aplikácii Microsoft teams Zobraziť spravovanie životného cyklu súkromných kanálov](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) a získať ďalšie informácie o politikách na spravovanie používateľov, ktorí môžu vytvárať súkromné kanály, ako aj spôsoby, ako pomôcť pri vytváraní dotazov na elektronické vyhľadávanie alebo právne zadržania.
+Správcovia môžu tiež zobraziť tému Spravovanie životného cyklu súkromných kanálov v aplikácii [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) a získať ďalšie informácie o politikách na spravovanie osôb, ktoré môžu vytvárať súkromné kanály, ako aj o spôsoboch, ako vytvoriť dotazy na eDiscovery alebo blokovania právnych údajov.
