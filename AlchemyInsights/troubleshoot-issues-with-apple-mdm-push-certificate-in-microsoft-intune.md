@@ -1,8 +1,8 @@
 ---
-title: Riešenie problémov s vytlačením certifikátu Apple MDM v službe Microsoft Intune
+title: Riešenie problémov s tlačou certifikátu Apple MDM v službe Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,19 +13,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: efb67cb3609266b40c564569941c1598637b5898
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8154cba0aa63356f83cedd1329366ac5712fe2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709049"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797412"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Riešenie problémov s vytlačením certifikátu Apple MDM v službe Microsoft Intune
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Riešenie problémov s tlačou certifikátu Apple MDM v službe Microsoft Intune
 
-Ak chcete problém vyriešiť, prečítajte si zdroje uvedené nižšie.
+Ak chcete problém vyriešiť, pozrite si zdroje uvedené nižšie.
   
-1. Pozrite si [Tento dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) a nakonfigurujte alebo obnovte tlačový certifikát Apple MDM.
+1. Skontrolujte [tento dokument a](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) nakonfigurujte alebo obnovte certifikát Apple MDM push.
 
-2. Použite [portál na riešenie problémov so službou Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) na diagnostikovanie a riešenie bežných zlyhaní registrácie. Pozrite si [Tento dokument](https://docs.microsoft.com/intune/help-desk-operators) a získajte ďalšie podrobnosti.
+2. Pomocou [portálu na riešenie problémov služby Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) môžete diagnostikovať a vyriešiť bežné zlyhania registrácie. Ďalšie [podrobnosti nájdete](https://docs.microsoft.com/intune/help-desk-operators) v tomto dokumente.
 
-3. Pozrite si tieto dokumenty, kde nájdete zoznam bežných chýb, ktoré bránia každej registrácii a rozlíšeniam: [príručka na riešenie problémov](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) a [dokument na riešenie problémov](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
+3. V týchto dokumentoch nájdete zoznam bežných chýb, ktoré v každej z nich bránia registrácii a riešeniam: Príručka na [riešenie problémov](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) a Riešenie problémov [s dokumentom.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)

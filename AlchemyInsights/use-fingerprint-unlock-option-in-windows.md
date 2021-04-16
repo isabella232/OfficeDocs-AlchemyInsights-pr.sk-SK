@@ -1,8 +1,8 @@
 ---
-title: Používanie možnosti odomknutia odtlačkov prstov vo Windowse 10
+title: Použitie možnosti odomknutia prsta vo Windowse 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795259"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796692"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Používanie možnosti odomknutia odtlačkov prstov vo Windowse 10
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Použitie možnosti odomknutia prsta vo Windowse 10
 
-**Povoliť odtlačok prsta Windows Hello**
+**Zapnutie odtlačku prsta vo Windows Hello**
 
-Ak chcete odomknúť Windows 10 pomocou odtlačku prsta, je potrebné nastaviť odtlačok prsta Windows Hello pridaním (ponechanie Windowsu na rozpoznanie) aspoň jedným prstom. 
+Ak chcete Windows 10 odomknúť pomocou odtlačku prsta, je potrebné nastaviť odtlačok prsta Windows Hello pridaním aspoň jedného prsta (ktorý Windows rozpozná, aby ho rozpoznal). 
 
-1. Prejdite na **položky nastavenia > kontá > možnosti prihlásenia** (alebo kliknite [sem](ms-settings:signinoptions?activationSource=GetHelp)). Zobrazia sa dostupné možnosti prihlásenia. Príklad:
+1. Prejdite na **položky > Kontá > Možnosti prihlásenia** (alebo kliknite [sem](ms-settings:signinoptions?activationSource=GetHelp)). Zobrazí sa zoznam dostupných možností prihlásenia. Príklad:
 
     ![Možnosti prihlásenia.](media/sign-in-options.png)
 
-2. Kliknite alebo ťuknite na položku **Windows Hello odtlačok prsta**a potom kliknite na položku **nastaviť**. V okne Nastavenie Windows Hello kliknite na položku **Začíname**. Snímač odtlačkov prstov sa aktivuje a zobrazí sa výzva na posunutie prsta na senzor:
+2. Kliknite alebo ťuknite na **položku Odtlačok prsta vo Windows Hello** a potom kliknite na položku **Nastaviť**. V okne nastavenia funkcie Windows Hello kliknite na **položku Začíname.** Aktivuje sa senzor odtlačku prsta a zobrazí sa výzva, aby ste na senzor umiestnili prst:
 
-   ![Snímač odtlačkov prstov.](media/fingerprint-sensor.png)
+   ![Senzor odtlačku prsta.](media/fingerprint-sensor.png)
 
-3. Postupujte podľa pokynov, v ktorých sa zobrazí výzva na opakované prezretie prsta. Po dokončení je možné pridať ďalšie prsty, ktoré možno budete chcieť použiť na prihlásenie. Pri najbližšom prihlásení do Windowsu 10 budete mať možnosť použiť váš odtlačok prsta.
+3. Postupujte podľa pokynov, ktoré vás požiadajú, aby ste opakovane skenovali prst. Po dokončení tejto úlohy budete mať možnosť pridať ďalšie prsty, ktoré možno budete chcieť použiť na prihlásenie. Keď sa nabudúce prihlásite do Windowsu 10, budete mať možnosť použiť na to odtlačky prsta.
 
-**Odtlačok prsta Windows Hello nie je k dispozícii ako možnosť prihlásenia**
+**Odtlačok prsta vo Windows Hello nie je k dispozícii ako možnosť prihlásenia**
 
-Ak sa Windows Hello odtlačok prsta nezobrazuje ako možnosť pri **prihlasovaní**, znamená to, že Windows nevie o žiadnej čítačke odtlačkov prstov alebo skeneri pripojenom k vášmu počítaču alebo že systémová politika zabráni jej použitiu (Ak napríklad váš počítač spravuje na pracovisku). Riešenie problémov: 
+Ak sa odtlačky prsta vo Windows Hello nezobrazuje ako možnosť v možnostiach **prihlásenia,** znamená to, že Windows nevie o žiadnom čítačke odtlačkov prsta alebo skeneri pripojenom k PC alebo že systémová politika bráni jeho pracovisku (ak napríklad počítač spravuje vaše pracovisko). Riešenie problémov: 
 
-1. Na paneli úloh vyberte tlačidlo **Štart** a vyhľadajte položku **Správca zariadení**.
+1. Na paneli **úloh** vyberte tlačidlo Štart a vyhľadajte položku **Správca zariadení**.
 
-2. Kliknutím alebo ťuknutím otvorte **správcu zariadení**.
+2. Kliknutím alebo ťuknutím otvorte Správcu **zariadení**.
 
-3. V Správcovi zariadení rozbaľte položku Biometrické zariadenia kliknutím na jej šípku.
+3. V Správcovi zariadení rozbaľte položku Biometrické zariadenia kliknutím na jej výložku.
 
-   ![Biometrickými zariadeniami.](media/biometric-devices.png)
+   ![Biometrické zariadenia.](media/biometric-devices.png)
 
-4. Váš snímač odtlačkov prstov by mal byť uvedený ako biometrické zariadenie, ako napríklad WBDI skener Synaptics:
+4. Váš skener odtlačkov prsta by mal byť uvedený ako biometrické zariadenie, ako je napríklad Skener WBDI, a tento skener:
 
-   ![Biometrickými zariadeniami.](media/biometric-devices-expanded.png)
+   ![Biometrické zariadenia.](media/biometric-devices-expanded.png)
 
-5. Ak sa skener odtlačkov prstov nezobrazuje a skener je integrovaný do počítača, prejdite na webovú lokalitu výrobcu počítača. V časti Technická podpora pre model PC vyhľadajte ovládač Windowsu 10 pre skener, ktorý môžete nainštalovať.
+5. Ak sa skener odtlačkov prstov nezobrazuje a skener je integrovaný do počítača, prejdite na webovú lokalitu výrobcu počítača. V časti technickej podpory pre model vášho PC vyhľadajte ovládač pre Windows 10, ktorý môžete nainštalovať.
 
-6. Ak je skener oddelený od počítača (pripojeného cez USB), prejdite na webovú lokalitu výrobcu skenera a vyhľadajte a nainštalujte softvér ovládača zariadenia s Windowsom 10 pre model skenera, ktorý používate.
+6. Ak je skener oddelený od PC (pripojeného cez USB), prejdite na webovú lokalitu výrobcu skenera a vyhľadajte a nainštalujte softvér ovládača zariadenia s Windowsom 10 pre model skenera, ktorý máte.

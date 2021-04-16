@@ -2,9 +2,10 @@
 title: Vysvetlenie faktúry
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796872"
 ---
 # <a name="understand-your-bill"></a>Vysvetlenie faktúry
 
