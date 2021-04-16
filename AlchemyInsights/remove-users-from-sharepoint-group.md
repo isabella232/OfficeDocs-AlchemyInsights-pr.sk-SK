@@ -1,8 +1,8 @@
 ---
-title: Odstránenie používateľov zo skupiny SharePoint
+title: Odstránenie používateľov zo skupiny v službe SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: eaa93ec5d87abe3e6c5db69e895ade5fbd39c952
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701586"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799176"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a><span data-ttu-id="0c9e8-102">Odstránenie používateľov zo skupiny SharePoint</span><span class="sxs-lookup"><span data-stu-id="0c9e8-102">Remove users from a SharePoint group</span></span>
+# <a name="remove-users-from-a-sharepoint-group"></a><span data-ttu-id="17611-102">Odstránenie používateľov zo skupiny v službe SharePoint</span><span class="sxs-lookup"><span data-stu-id="17611-102">Remove users from a SharePoint group</span></span>
 
-<span data-ttu-id="0c9e8-103">Skupina SharePointu je kolekciou používateľov, ktorí majú rovnakú množinu povolení pre lokality a obsah.</span><span class="sxs-lookup"><span data-stu-id="0c9e8-103">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="0c9e8-104">Namiesto toho, aby ste priradili povolenia len pre jednu osobu, môžete použiť skupiny na pohodlné priradenie rovnakej úrovne povolení viacerým osobám naraz.</span><span class="sxs-lookup"><span data-stu-id="0c9e8-104">Rather than assign permissions one person at a time, you can use groups to conveniently assign the same permission level to many people at once.</span></span>
+<span data-ttu-id="17611-103">Skupina SharePointu je skupina používateľov, ktorí majú rovnakú množinu povolení na lokality a obsah.</span><span class="sxs-lookup"><span data-stu-id="17611-103">A SharePoint group is a collection of users who all have the same set of permissions to sites and content.</span></span> <span data-ttu-id="17611-104">Namiesto priraďovania povolení môžete skupinám pohodlne priradiť rovnakú úroveň povolení naraz mnohým ľuďom.</span><span class="sxs-lookup"><span data-stu-id="17611-104">Rather than assign permissions one person at a time, you can use groups to conveniently assign the same permission level to many people at once.</span></span>
 
-- [<span data-ttu-id="0c9e8-105">Odstránenie používateľov zo skupiny</span><span class="sxs-lookup"><span data-stu-id="0c9e8-105">Remove users from a group</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [<span data-ttu-id="0c9e8-106">Pridanie alebo odstránenie členov zo skupín v službe Microsoft 365 pomocou centra spravovania</span><span class="sxs-lookup"><span data-stu-id="0c9e8-106">Add or remove members from Microsoft 365 Groups using the admin center</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [<span data-ttu-id="17611-105">Odstránenie používateľov zo skupiny</span><span class="sxs-lookup"><span data-stu-id="17611-105">Remove users from a group</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
+- [<span data-ttu-id="17611-106">Pridanie alebo odstránenie členov zo skupín v Microsoft 365 pomocou Centra spravovania</span><span class="sxs-lookup"><span data-stu-id="17611-106">Add or remove members from Microsoft 365 Groups using the admin center</span></span>](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
