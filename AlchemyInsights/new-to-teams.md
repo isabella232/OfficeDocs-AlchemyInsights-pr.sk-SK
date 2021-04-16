@@ -2,21 +2,22 @@
 title: Ešte ste s aplikáciou Teams nepracovali?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: 050ed651a77b8cb68665de1c162f4dab385fa40c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a3cda6f733c15c7079e63223369fb7da70fa1397
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761793"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791643"
 ---
 # <a name="new-to-teams"></a>Ešte ste s aplikáciou Teams nepracovali?
 
