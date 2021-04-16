@@ -2,21 +2,22 @@
 title: Správa globálneho zoznamu adries organizácie a adresára offline
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002895"
 - "5550"
-ms.openlocfilehash: a7142d68f0197aaca733766daf30fe8a46f13f9e
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: c6ad2fcb85ef68c42cea11ebe0d1564e957b4720
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022674"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794847"
 ---
 # <a name="managing-organization-global-address-list-gal-and-offline-address-book-oab"></a>Správa globálneho zoznamu adries organizácie (GAL) a adresára offline (OAB)
 
