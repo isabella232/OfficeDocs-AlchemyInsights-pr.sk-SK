@@ -1,8 +1,8 @@
 ---
-title: Ako vyhľadať e-mail?
+title: Ako vyhľadám e-mail?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781694"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811111"
 ---
-# <a name="how-do-i-search-for-an-email"></a>Ako vyhľadať e-mail?
+# <a name="how-do-i-search-for-an-email"></a>Ako vyhľadám e-mail?
 
-E-mail môžete vyhľadať tak, že vyhľadáte kontakt, ktorý vám odoslal e-mail, alebo hľadáte kľúčové slovo obsiahnuté v e-maile.
+E-mail môžete vyhľadať vyhľadaním kontaktu, ktorý vám odoslal e-mail, alebo vyhľadaním kľúčového slova obsiahnutého v e-maile.
 
-Ťuknite na ikonu zväčšovacieho skla na dolnom navigačnom paneli. Do poľa v hornej časti obrazovky potom zadajte svoju žiadosť o vyhľadávanie. 
+V dolnom navigačnom paneli ťuknite na lupu. Potom zadajte požiadavku na vyhľadávanie do poľa v hornej časti obrazovky. 
 
-**Tip:** Dvojitým ťuknutím na lupu môžete presmerovať do vyhľadávacieho poľa. Vaše výsledky sa zobrazia pri zadávaní žiadosti. 
+**Tip:** Dvojitým ťuknutím na lupu sa zameranie prenesie do vyhľadávacieho poľa. Výsledky sa zobrazia, keď napíšete svoju žiadosť. 

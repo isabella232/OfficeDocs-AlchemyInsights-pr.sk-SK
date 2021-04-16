@@ -2,21 +2,22 @@
 title: Získanie plánu Microsoft 365 F3
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5465"
-ms.openlocfilehash: 69b5916bd054dcd949f68c3256f4beb9fb9acc6e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: fcd98a25d48cf40a4a3f79d6cbe8912f231b150b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944546"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812047"
 ---
 # <a name="get-the-microsoft-365-f3-plan"></a>Získanie plánu Microsoft 365 F3
 

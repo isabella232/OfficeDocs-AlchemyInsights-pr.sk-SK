@@ -1,8 +1,8 @@
 ---
-title: Vyhľadanie stránky, na ktorej sa zobrazujú moje kontakty
+title: Vyhľadanie stránky so zoznamom mojich kontaktov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745289"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813019"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a>Vyhľadanie stránky, na ktorej sa zobrazujú moje kontakty
+# <a name="find-the-page-that-shows-my-contacts"></a>Vyhľadanie stránky so zoznamom mojich kontaktov
 
-Kontakty môžete vyhľadávať rovnakým spôsobom ako pri vyhľadávaní e-mailov.
+Kontakty môžete vyhľadávať rovnakým spôsobom ako vyhľadávanie e-mailov.
  
-Ťuknite na ikonu vyhľadávania zväčšovacieho skla a potom do poľa v hornej časti obrazovky zadajte svoju žiadosť o vyhľadávanie kontaktov. (**Protip**: dvojitým ťuknutím na lupu môžete upozorniť na pole Hľadať.) Výsledky sa zobrazia v časti Kontakty.
+Ťuknite na ikonu vyhľadávania lupy a potom do poľa v hornej časti obrazovky zadajte žiadosť o vyhľadávanie kontaktov. **(Protip:** Dvojitým ťuknutím na lupu môžete zameranie zobraziť do vyhľadávacieho poľa.) Výsledky sa zobrazia v časti Kontakty.

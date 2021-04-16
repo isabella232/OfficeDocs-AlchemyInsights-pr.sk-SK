@@ -1,8 +1,8 @@
 ---
-title: Oprava chýb vo Windows Update
+title: Oprava chýb služby Windows Update
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744677"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812659"
 ---
-# <a name="fix-windows-update-errors"></a>Oprava chýb vo Windows Update
+# <a name="fix-windows-update-errors"></a>Oprava chýb služby Windows Update
 
-Ak sa pri sťahovaní a inštalácii Windows Update zobrazí kód chyby, **poradca pri riešení problémov** vám môže pomôcť vyriešiť problém.
+Ak sa počas sťahovania a inštalácie aktualizácie Windowsu zobrazí kód chyby, poradca pri riešení problémov s **aktualizáciou** vám môže pomôcť problém vyriešiť.
 
-- [Stiahnutie riešenia problémov s aktualizáciou pre Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Spustite Poradcu pri riešení problémov. Po dokončení je najvhodnejším postupom na reštartovanie zariadenia. Potom vyhľadajte nové aktualizácie tak, že prejdete na [položku spustiť > nastavenia > aktualizácie & zabezpečenia > Windows Update](ms-settings:windowsupdate).
+- [Stiahnuť Poradcu pri riešení problémov s aktualizáciou pre Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Spustite Poradcu pri riešení problémov. Po jeho dodání sa odporúča reštartovať zariadenie. Potom vyhľadajte nové aktualizácie tak, že v ponuke [Štart > nastavenia > & zabezpečenia > Windows Update.](ms-settings:windowsupdate)
 
-Ak tieto stále nefungujú, pozrite si [tému Windows Update: najčastejšie otázky](https://support.microsoft.com/help/12373/windows-update-faq) o ďalších informáciách.
+Ak tieto stále nefungujú, ďalšie informácie nájdete v časti [Windows Update: najčastejšie](https://support.microsoft.com/help/12373/windows-update-faq) otázky.

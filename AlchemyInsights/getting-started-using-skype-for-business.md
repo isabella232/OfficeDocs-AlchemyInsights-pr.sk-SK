@@ -2,21 +2,22 @@
 title: Začíname so Skypom for Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002421"
 - "4698"
-ms.openlocfilehash: 479a5db2ee7b579735290db18c5b664dce1da7b5
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
+ms.openlocfilehash: 76a00d06316a95d59badf1e7def60761a2a4c5cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812811"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812011"
 ---
 # <a name="getting-started-using-skype-for-business"></a>Začíname so Skypom for Business
 

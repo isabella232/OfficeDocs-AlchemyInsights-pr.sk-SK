@@ -1,8 +1,8 @@
 ---
-title: Začíname so službou Intune
+title: Začíname s Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 101459172ba6c1ae1229280e99060512b7a79fc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897098"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811939"
 ---
-# <a name="getting-started-with-intune"></a>Začíname so službou Intune
+# <a name="getting-started-with-intune"></a>Začíname s Intune
 
-Ak chcete prejsť na rýchlu prehliadku služby Intune a správcovskej konzoly, pozrite si [návod služby Intune na portáli Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).
+Rýchlu prehliadku služby Intune a správcovskej konzoly si môžete pozrieť v článku Návod [pre Intune na portáli Azure.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Ak si chcete vyskúšať službu Intune alebo nastaviť skúšobnú verziu, pozrite si tému rýchly štart [: Vyskúšajte službu Microsoft Intune Bezplatne](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Ak si chcete vyskúšať Intune alebo nastaviť skúšobnú verziu, pozrite si stručný [úvod: Vyskúšajte Bezplatne Microsoft Intune.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Ak ste pripravení začať používať služby Intune, pozrite si recenziu [Nastavenie služby Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). Ak chcete vykonať Sprievodcu nastavením, prečítajte si [príručku na nastavenie služby Intune](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).
+Ak ste pripravení začať používať Intune, pozrite si položku [Nastavenie služby Intune.](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps) Pokyny na nastavenie nájdete v sprievodcovi nastavením [pre Intune.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)

@@ -1,8 +1,8 @@
 ---
-title: Pomoc s pochopením dane z pridanej hodnoty (DPH)
+title: Vysvetlenie dane z pridanej hodnoty (DPH)
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705508"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811651"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Pomoc s pochopením dane z pridanej hodnoty (DPH)
+# <a name="help-understanding-value-added-tax-vat"></a>Vysvetlenie dane z pridanej hodnoty (DPH)
 
-Ak sa nachádzate v krajine, ktorá používa daň z pridanej hodnoty (DPH), napríklad v Spojenom kráľovstve, Fakturácia spoločnosti Microsoft vypočíta DPH za vás a použije čiastku na faktúry.
+Ak sa nachádzate v krajine, ktorá používa daň z pridanej hodnoty (DPH), ako je napríklad Spojené kráľovstvo, Microsoft Invoicing vypočíta DPH za vás a použije túto sumu na vaše faktúry.
   
-Z daňových dôvodov musíte zadať aj svoje registračné číslo DPH v nastaveniach pre fakturáciu.
+Z daňových dôvodov musíte v nastaveniach aplikácie Invoicing zadať aj svoje identifikačné číslo pre DPH.
   
-Sadzby DPH nie je možné pridávať ani odstraňovať, môžete však zmeniť predvolenú sadzbu DPH v nastaveniach. Na základe predvoleného nastavenia Fakturácia používa službu na overenie registračných čísel DPH, ale odporúčame vám prečítať si [vyhlásenie o vylúčení zodpovednosti](https://go.microsoft.com/fwlink/?LinkID=841741) za služby VIES vydané Európskou Komisiou. Ak sa rozhodnete službu vypnúť, musíte overiť všetky registračné čísla DPH.
+Nemôžete pridať ani odstrániť sadzby DPH, ale môžete zmeniť predvolenú sadzbu DPH v nastaveniach. Služba Invoicing predvolene používa službu na overovanie identifikačného čísla pre DPH, ale odporúčame prečítať si vyhlásenie [VIES](https://go.microsoft.com/fwlink/?LinkID=841741) zverejnené Európskou províziou. Ak sa rozhodnete službu zakázať, musíte si overiť všetky identifikačné čísla pre DPH.
