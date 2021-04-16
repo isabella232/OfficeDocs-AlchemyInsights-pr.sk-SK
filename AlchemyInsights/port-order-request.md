@@ -2,21 +2,22 @@
 title: Žiadosť o objednávku prenosu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: 02e031703f53ea2807f0164634b1ea6ae8585e66
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: e624d24718f4b5dac833454775c5f7c626719f90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161030"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801318"
 ---
 # <a name="port-order-request"></a>Žiadosť o objednávku prenosu
 

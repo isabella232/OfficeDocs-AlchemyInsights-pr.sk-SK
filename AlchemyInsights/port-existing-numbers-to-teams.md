@@ -2,21 +2,22 @@
 title: Prenos existujúcich čísel do služby Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 99b83ecdf979adbd262f95f16d8ad83d30d68445
-ms.sourcegitcommit: 1739ead7594cbdaf256cb9f7a31da8f521a33725
+ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42938087"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801462"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Prenos existujúcich čísel do služby Teams
 
