@@ -1,8 +1,8 @@
 ---
-title: Správa nastavení sťahovania softvéru aplikácie Microsoft 365
+title: Spravovať nastavenia sťahovania softvéru v aplikáciách Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: 87dc342f9d4cb8081d35bd93827d05f7598418f9
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
-ms.translationtype: MT
+ms.openlocfilehash: 7ca7e8a979acdb09765095f0ae6ab61ef9a43b3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "50714025"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803271"
 ---
-# <a name="manage-office-installation-options"></a><span data-ttu-id="578f9-102">Správa možností inštalácie balíka Office</span><span class="sxs-lookup"><span data-stu-id="578f9-102">Manage Office installation options</span></span>
+# <a name="manage-office-installation-options"></a><span data-ttu-id="7e765-102">Možnosti inštalácie služby Microsoft Office</span><span class="sxs-lookup"><span data-stu-id="7e765-102">Manage Office installation options</span></span>
 
-<span data-ttu-id="578f9-103">Ako správca služieb Office 365 môžete určiť, ktorý softvér balíka Office môžu používatelia sťahovať a inštalovať z balíka Office 365.</span><span class="sxs-lookup"><span data-stu-id="578f9-103">As an Office 365 admin, you can control which Office software your users can download and install from Office 365.</span></span> <span data-ttu-id="578f9-104">Ďalšie informácie nájdete v téme [Správa možností inštalácie balíka Office v centre spravovania služieb Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).</span><span class="sxs-lookup"><span data-stu-id="578f9-104">For more information, see [Manage Office installation options in the Microsoft 365 admin center](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).</span></span>
+<span data-ttu-id="7e765-103">Ako správca služieb Office 365 môžete určiť, ktorý softvér balíka Office si vaši používatelia môžu stiahnuť a nainštalovať zo služieb Office 365.</span><span class="sxs-lookup"><span data-stu-id="7e765-103">As an Office 365 admin, you can control which Office software your users can download and install from Office 365.</span></span> <span data-ttu-id="7e765-104">Ďalšie informácie nájdete v téme [Spravovanie možností inštalácie balíka Office v Centre spravovania služby Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).</span><span class="sxs-lookup"><span data-stu-id="7e765-104">For more information, see [Manage Office installation options in the Microsoft 365 admin center](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).</span></span>

@@ -1,8 +1,8 @@
 ---
-title: Úprava a správa skupiny v Microsoft streame
+title: Úprava a spravovanie skupiny v Microsoft Streame
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6452"
-ms.openlocfilehash: cc4c64468df911f803d7abbb90e5edd1123013fb
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 801c945a88b6edd09fb6c39b3bca0646ace9f84b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48275014"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814459"
 ---
-# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="a1097-102">Úprava a správa skupiny v Microsoft streame</span><span class="sxs-lookup"><span data-stu-id="a1097-102">Edit and manage a group in Microsoft Stream</span></span>
+# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="e977a-102">Úprava a spravovanie skupiny v Microsoft Streame</span><span class="sxs-lookup"><span data-stu-id="e977a-102">Edit and manage a group in Microsoft Stream</span></span>
 
-<span data-ttu-id="a1097-103">Nastavenia skupiny v Microsoft streame môže zmeniť v streame vlastník skupiny.</span><span class="sxs-lookup"><span data-stu-id="a1097-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
+<span data-ttu-id="e977a-103">Nastavenie skupiny v Microsoft Streame môže v Streame zmeniť vlastník skupiny.</span><span class="sxs-lookup"><span data-stu-id="e977a-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
 
-- [<span data-ttu-id="a1097-104">Úprava a správa skupiny v Microsoft streame</span><span class="sxs-lookup"><span data-stu-id="a1097-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
+- [<span data-ttu-id="e977a-104">Úprava a spravovanie skupiny v Microsoft Streame</span><span class="sxs-lookup"><span data-stu-id="e977a-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
