@@ -1,8 +1,8 @@
 ---
-title: Správa o zdieľaní súborov a priečinkov na lokalitách SharePoint
+title: Nahlásenie zdieľania súborov a priečinkov na lokalitách SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692382"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799032"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Správa o zdieľaní súborov a priečinkov na lokalitách SharePoint
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Nahlásenie zdieľania súborov a priečinkov na lokalitách SharePoint
 
-Môžete vytvoriť súbor CSV s podrobným popisom každého jedinečného súboru, používateľa, povolenia a prepojenia na danej lokalite SharePoint alebo v knižnici OneDrivu. Môže to pomôcť pri pochopení spôsobu používania zdieľania a o tom, či sa súbory alebo priečinky zdieľajú s hosťami.
+Môžete vytvoriť CSV súbor s podrobnosťami o každom jedinečnom súbore, používateľovi, povolení a prepojení na danej lokalite SharePoint alebo v knižnici OneDrive. To vám pomôže zistiť, ako sa využíva zdieľanie, a či sa s hosťami zdieľajú súbory alebo priečinky.
 
-Ďalšie informácie nájdete [v správe o zdieľaní súborov a priečinkov na lokalite SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
+Ďalšie informácie nájdete v [článku Hlásenie o zdieľaní súborov a priečinkov na lokalite SharePoint.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
 > [!NOTE]
-> Táto funkcia je momentálne nasadená na funkciu First Release nájomníkov a postupne sa rozbehne na všetkých nájomníkov výroby.
+> Táto funkcia je momentálne nasadená pre nájomníkov programu First Release a postupne sa nasadzuje všetkým nájomníkom Production.
