@@ -1,8 +1,8 @@
 ---
-title: Excel havaruje?
+title: Excel zlyháva?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359312"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804828"
 ---
-# <a name="frequent-excel-crashes"></a>Často Excel pády?
+# <a name="frequent-excel-crashes"></a>Časté zlyhania Excelu?
 
-Časté pády v programe Excel môže byť spôsobené chybné doplnok. Doplnok programu Excel môžete vypnúť podľa týchto pokynov:
+Časté zlyhania v Exceli môžu byť spôsobené chybný doplnok. Doplnok programu Excel môžete vypnúť podľa týchto pokynov:
   
-1. Vyberte **súbor** \> **Možnosti** \> **Doplnky**.
+1. Vyberte  \> **položku** Možnosti \> **súboru , Doplnky**.
 
-2. V poli **Správa** vyberte **Doplnky COM**a kliknite na tlačidlo **ísť**.
+2. V **poli Správa** vyberte položku **Doplnky com a potom** kliknite na tlačidlo **Spustiť**.
 
-3. V poli dostupné doplnky zrušte začiarknutie políčka vedľa doplnku, ktorý chcete vypnúť, a potom kliknite na tlačidlo **OK**.
+3. V dialógovom Add-Ins k dispozícii zrušte začiarknutie políčka vedľa doplnku, ktorý chcete vypnúť, a potom kliknite na tlačidlo **OK**.
 
 > [!NOTE]
-> Ak Excel havaruje počas štartu, spustite ho v núdzovom režime stlačením a podržaním Ctrl pri spúšťaní programu.
+> Ak Excel počas spustenia zlyhá, spustite ho v núdzovom režime stlačením a podržaním klávesu Ctrl počas spúšťania programu.
   
-Ak máte stále problémy, nájdete v nasledujúcich článkoch:
+Ak problémy aj naďalej pretrváva, pozrite si tieto články:
   
-- [Pri spustení Office 2016 alebo 2013 aplikácie v počítači sa zobrazuje chyba "prestal pracovať"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Po spustení aplikácií balíka Office 2016 alebo 2013 v počítači sa zobrazí chyba program prestal pracovať](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Riešenie problémov vyskytovali a nereaguje s programom Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Riešenie problémov so zlyhaním a nereagovaním v Exceli](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel neodpovedá, visí, zamrzne alebo prestane pracovať](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel nereaguje, zastaví sa, mrzne alebo prestane fungovať](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
