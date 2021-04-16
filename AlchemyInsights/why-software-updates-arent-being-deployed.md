@@ -2,7 +2,7 @@
 title: Prečo sa aktualizácie softvéru nenasadzujú?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461977"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805701"
 ---
 # <a name="why-software-updates-are-not-being-deployed"></a>Prečo sa aktualizácie softvéru nenasadzujú?
 
-Ak ste nakonfigurovali softvérové aktualizácie cez Windows 10 Update Ring, ale aktualizácie sa nenasadzujú, prečítajte si nasledovné:  
+Ak ste nakonfigurovali aktualizácie softvéru cez okruh pre aktualizácie Windows 10, ale aktualizácie sa nenasadzujú, skontrolujte nasledovné:  
 
-- Zvážte zmenu služby Windows servis z  **semi-ročného**  typu Release kanála na prísnejší a častejší typ vydania  
-- Pozrite si obdobie odkladu  **aktualizácie kvality**  a  **aktualizácie funkcií**. Lehota na odklad môže viesť k oneskoreniu aktualizácií až 180 dní.
+- Zvážte zmenu servisu systému Windows z typu vydania **Polročný kanál** na prísnejší a častejší typ vydania.  
+- Skontrolujte obdobie odkladu pre **Aktualizáciu na zvýšenie kvality** a **Aktualizáciu funkcií**. Obdobie odkladu by mohlo spôsobiť časový sklz aktualizácií až o 180 dní.

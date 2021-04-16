@@ -1,8 +1,8 @@
 ---
-title: Vytvorenie nového hesla alebo zmena hesla
+title: Vytvorenie nového hesla alebo zmena hesiel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810211"
 ---
-# <a name="reset-or-change-passwords"></a>Vytvorenie nového hesla alebo zmena hesla
+# <a name="reset-or-change-passwords"></a>Vytvorenie nového hesla alebo zmena hesiel
 
-Používateľ môže zmeniť svoje heslo zo zabezpečenia **konta**  >  [& ochrany osobných údajov](https://portal.office.com/account/#security).
+Používateľ môže zmeniť svoje vlastné heslo z možnosti **Zabezpečenie môjho konta a**& osobných  >  [údajov.](https://portal.office.com/account/#security)
   
-Ak používateľ zabudli heslo, správca môže vytvoriť nové heslo tým, že prejdete na položku **Používatelia**  >  [aktívni používatelia](https://portal.office.com/adminportal/home#/users), vyberte používateľov a kliknite na položku **vytvoriť nové heslo**.
+Ak používateľ zabudli svoje heslo, správca môže vytvoriť nové heslo tak, že preberie položky Aktívni používatelia, vyberie používateľov a kliknite  >  [](https://portal.office.com/adminportal/home#/users)na položku Vytvoriť **nové heslo.**
   
-[Kliknutím sem získate ďalšie informácie](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)alebo umožnite používateľom vytvoriť si nové zabudnuté heslá.
+[Kliknite sem a získajte ďalšie informácie](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)alebo nechajte používateľov, aby si obnovili svoje vlastné zabudnuté heslá.

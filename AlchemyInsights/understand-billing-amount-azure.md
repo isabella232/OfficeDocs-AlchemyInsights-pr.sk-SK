@@ -2,7 +2,7 @@
 title: Vysvetlenie faktúry
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808391"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782706"
 ---
-# <a name="understand-billing-amount"></a>Porozumieť sume fakturácie
+# <a name="understand-billing-amount"></a>Informácie o fakturovanej sume
 
-Ponuka služby Azure Free Account obsahuje $200 Azure kreditov (ktoré sa majú použiť v priebehu prvých 30 dní od registrácie) a 12 mesiacov po výbere bezplatných služieb (môže sa zmeniť)
+Ponuka Azure Free Account zahŕňa kredit Azure v hodnote 200 USD (musí sa využiť do 30 dní od prihlásenia) a 12 mesiacov vybraných služieb zdarma (môže sa meniť).
 
-Táto ponuka je obmedzená na jednu registráciu na oprávneného zákazníka a nie je možné ju kombinovať s inou ponukou, pokiaľ to nie je povolené spoločnosťou Microsoft
+Táto ponuka je obmedzená na jedno prihlásenie na oprávneného zákazníka a nie je možné ju kombinovať so žiadnou inou ponukou, pokiaľ to spoločnosť Microsoft nepovolila.
 
-Do 30 dní od registrácie alebo po vyčerpaní kreditov zákazníka (podľa toho, čo nastane skôr), musí zákazník vykonať inováciu na konto Pay-as-you-go odstránením limitu výdavkov. Toto umožňuje ďalšie používanie konta Azure, ktoré je bezplatné pre zvyšné 11 mesiacov. Po inovovaní zákazníka sa používanie mimo pôvodných kreditov a výber bezplatných služieb účtujú v sadzbách za Pay-as-you-go. Ak sa zákazník rozhodne Neinovovať, predplatné na bezplatné konto bude vypnuté.
+Do 30 dní od prihlásenia alebo po vyčerpaní kreditov zákazníka (podľa toho, čo sa stane prvé) musí zákazník prejsť na konto predplatného Pay-As-You-Go tak, že odstráni limit útraty. To umožňuje Ďalšie používanie bezplatného konta Azure Free Account na zostávajúcich 11 mesiacov. Po aktualizácii účtu zákazníka sa používanie mimo pôvodných kreditov a vybrané bezplatné služby budú účtovať za poplatky predplatného Pay-As-You-Go. Ak sa zákazník rozhodne neaktualizovať svoje konto, bezplatné predplatné Free Account sa vypne.
 
-Ďalšie informácie: [produkty dostupné mesačne zdarma v rámci konta Azure Free](https://azure.microsoft.com/free/free-account-faq/)
+Ďalšie informácie: [Produkty dostupné každý mesiac zdarma v rámci bezplatného konta Azure](https://azure.microsoft.com/free/free-account-faq/)
 
-**Opätovné povolenie predplatného po 30 dňoch**
+**Opätovné povolenie predplatného vypnutého po 30 dňoch**
 
-- Po opätovnom zapnutí a skonvertovaní bezplatného skúšobného predplatného na PAYG bezplatné zahrnuté služby by mali začať od okamihu, kedy je predplatné povolené. Okrem toho, ak ste omylom konvertovali Azure bezplatné konto na ponuku X (iné ako PAYG), budete aj naďalej dostávať výhody.
+- Po opätovnom povolení a konvertovaní vášho predplatného na bezplatnú skúšobnú verziu na PAYG by sa mali bezplatné zahrnuté služby spustiť od momentu, keď je predplatné aktivované. Okrem toho platí, že ak omylom prejdete so svojim bezplatným kontom Azure Free Account na ponuku X (inú ako PAYG), stále budete môcť využívať výhody.
 
-zistiť viac: 
-- [Opätovné povolenie predplatného](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Zrušenie predplatného na Azure](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+Ďalšie informácie: 
+- [Opätovná aktivácia predplatného](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Zrušenie predplatného Azure](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Neočakávané poplatky za konto**
+**Neočakávané poplatky v rámci konta**
 
-- Ak sa vo vašom konte zobrazujú neočakávané poplatky, Stiahnite si údaje o používaní a overte, či nemáte spustené žiadne nežiaduce služby alebo zdroje.
-- Ďalšie informácie: [stiahnutie údajov o používaní služby Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
+- Ak si v konte všimnete neočakávané poplatky, stiahnite si údaje o používaní a overte, či nemáte spustené neželané služby alebo zdroje.
+- Ďalšie informácie: [Stiahnutie údajov o používaní Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
-**Najčastejšie otázky:**
+**Najčastejšie otázky**
 
-**Môžem platiť čokoľvek, keď som na konte Azure Free?**
+**Musím niečo platiť, keď používam konto Azure Free?**
 
-Poplatky sa budú účtovať iba v prípade, ak nasadíte služby, ktoré nie sú zahrnuté v konte Azure Free. Až po tom, ako stratíte kredit $200 alebo dosiahnete 30-dňovú lehotu (podľa toho, čo nastane skôr), začnete účtovať poplatky za platbu za vami.
+Poplatky sa účtujú iba ak nasadíte služby, ktoré nie sú zahrnuté do konta Azure Free Account. Účtovanie poplatkov predplatného Pay-As-You-Go sa spustí až keď vyčerpáte kredit 200 USD alebo uplynite 30 dní (podľa toho, čo sa stane prvé).
 
-**Koľko predplatných Azure Free Account môžem použiť na mojom konte?**  
+**Koľko predplatných konta Azure Free Account môžem používať vo svojom konte?**  
 
-K dispozícii je obmedzenie jedného konta Azure Free Account (predplatné na konto).
+Počet predplatných Azure Free Account je obmedzený na jedno na každé konto.
 
-**Ako funguje služba Azure Free Account s klientmi Enterprise Agreement (EA)?**  
+**Ako funguje konto Azure Free Account pre zákazníkov zmluvy Enterprise (EA)?**  
 
-Táto ponuka nie je k dispozícii pre zákazníkov EA. Ak však má zákazník bezplatné konto a skonvertuje ho na úroveň EA neskôr, výhody bezplatného konta budú trvať 12 mesiacov od prihlásenia na bezplatné konto.
+Táto ponuka nie je dostupná zákazníkom EA. Ak však zákazník má konto Free Account a neskôr prejde na úroveň EA, výhody konta Free Account budú trvať 12 mesiacov od momentu prihlásenia do konta Free Account.
 
-**Budú služby ponúkané v bezplatnej vrstve konzumované z prvých $200 kreditov?**  
+**Budú služby ponúkané na bezplatnej úrovni čerpať z pôvodných kreditov vo výške 200 USD?**  
 
-nie. Zákazníci majú k dispozícii fixný počet služieb služby Free Tier a $200 kredit za prvých 30 dní. Zákazník by preto mohol použiť kredit $200 na iné služby bez služieb Tier.
+Nie. Zákazníci získajú pevne určený počet služieb bezplatnej úrovne a kredit vo výške 200 USD na prvých 30 dní. Takže zákazník môže používať kredit 200 USD na iné služby mimo bezplatnej úrovne.
 
-**Môžem zobraziť podrobnosti o sponzorstve?**
+**Môžem si zobraziť podrobnosti o sponzorovi?**
 
-- Otvorenie okna prehliadača súkromné/inkognito (CTRL + SHIFT + P in Edge)
-- Navigácia v službe [Azure sponzorstva](http://www.microsoftazuresponsorships.com/)
-- Kliknite na prepojenie skontrolovať zostatok
-- Prihláste sa pomocou poverení konta Azure Government sponzoroval (prihlasovacie údaje by mali používať formát user.name@xxxx.onmicrosoft.com)
-- Budete presmerovaní na stránku, ktorá zobrazuje tieto informácie: počiatočný dátum, koncový dátum, výška sponzorstva, použitá, zostávajúca rovnováha
+- Otvorte okno súkromné/inkognito prehliadača (Ctrl + Shift + P v Edgei)
+- Prejdite na časť [Sponzori Azure](http://www.microsoftazuresponsorships.com/)-
+- Kliknite na prepojenie kontroly zostatku
+- Prihláste sa pomocou sponzorovaných vládnych prihlasovacích údajov Azure Government Sponsored (prihlasovacie meno by malo byť vo formáte meno.používateľa@xxxx.onmicrosoft.com)
+- Prejdete tak na stránku, kde uvidíte nasledovné informácie: dátum začatia, dátum ukončenia, sponzorovaná suma, využité, zostatok
 
-**Ako môžem overiť, či sú bezplatné služby aktívne alebo Kedy uplynú?**
+**Ako overím, či sú bezplatné služby aktivované a kedy im vyprší platnosť?**
 
-Na portáli Ibiza> stránke predplatného > prehľad > posuňte sa nadol na položku bezplatné služby na 12 mesiacov a kliknite na ikonu informácie. Zobrazí sa dátum uplynutia platnosti voľných služieb **Poznámka** : žiadne služby v1 nie sú súčasťou služieb Azure Free included Services. Najnovší zoznam bezplatných služieb nájdete v téme [ktoré produkty sú bezplatné 12 mesiacov](http://www.microsoftazuresponsorships.com/) .
+V časti Ibiza Portal > Predplatné > Prehľad > prejdite dolu na Bezplatné služby na 12 mesiacov a kliknite na ikonu informácií. Týmto sa zobrazí dátum vypršania platnosti bezplatných služieb **Poznámka**: Služby V1 sú súčasťou bezplatných zahrnutých služieb Azure Free Included Services. Najnovší zoznam bezplatných služieb nájdete v časti [Ktoré produkty sú bezplatné na 12 mesiacov](http://www.microsoftazuresponsorships.com/)
 
-Ďalšie najčastejšie otázky: [najčastejšie otázky o službe bezplatné konto](https://azure.microsoft.com/free/free-account-faq/)
+Ďalšie najčastejšie otázky: [Najčastejšie otázky o bezplatnom konte](https://azure.microsoft.com/free/free-account-faq/)
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
-- [Podmienky používania služby Azure Free Account](https://azure.microsoft.com/offers/ms-azr-0044p/)
-- [Cenník Azure](https://azure.microsoft.com/pricing/)
+- [Podmienky ponuky bezplatného konta Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Ceny služby Azure](https://azure.microsoft.com/pricing/)

@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 pre neziskové organizácie '
+title: 'Microsoft 365 pre neziskové organizácie – schválené '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779828"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810679"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 pre neziskové organizácie
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 pre neziskové organizácie – schválené
 
-Váš stav ako spoločnosť Microsoft s kvalifikovanou neziskovou organizáciou bol schválený. Nákup môžete vykonať z centra spravovania pre Microsoft 365.
+Váš stav ako nezisková organizácia kvalifikovaná spoločnosťou Microsoft bol schválený. Nákup môžete dokončiť v Centre spravovania služby Microsoft 365.
 
-1. V centre spravovania prejdite na stránku služby **fakturácie** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. V centre spravovania prejdite na stránku Služby **zakúpenia** \> [fakturácie.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Vyberte si zo zoznamu v časti **neziskové plány**.
+2. Vyberte položku v zozname **v časti Plány pre neziskové organizácie**.
 
-3. Ukážte kurzorom na predplatné, ktoré chcete kúpiť, a potom vyberte položku **kúpiť**.
+3. Ukážte myšou na predplatné, ktoré si chcete kúpiť, a vyberte **položku Kúpiť.**
 
-Ďalšie informácie nájdete v téme [zdroje informácií o službe Microsoft 365 pre neziskové organizácie](https://www.microsoft.com/nonprofits/microsoft-365) alebo [predaj v kontaktoch](https://www.microsoft.com/nonprofits/contact-us).
+Ďalšie informácie nájdete v téme [Zdroje služby Microsoft 365 pre neziskové organizácie](https://www.microsoft.com/nonprofits/microsoft-365) alebo [kontaktovanie predaja.](https://www.microsoft.com/nonprofits/contact-us)

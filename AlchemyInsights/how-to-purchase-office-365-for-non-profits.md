@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 pre neziskové organizácie – revízia
+title: Microsoft 365 pre neziskové organizácie – v rámci recenzie
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e8f12b390240e85742efa441fb09a4ecd6f11c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779751"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810643"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 pre neziskové organizácie – revízia
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 pre neziskové organizácie – v rámci recenzie
 
-Vaša spôsobilosť ako spoločnosť Microsoft s kvalifikovanou neziskovou organizáciou sa nachádza **v časti revízia**. Môžete očakávať prijatie oznámenia o určení vášho oprávnenia pred do **48 hodín** od odovzdania. Ak chcete, aby sa oznámenie zobrazilo pred otvorením žiadosti o službu, počkajte aspoň **48 hodín**. 
+Vaše oprávnenie ako nezisková organizácia kvalifikovaná spoločnosťou Microsoft **sa preskúma.** Môžete očakávať prijatie oznámenia o určení vášho oprávnenia pred do **48 hodín** od odovzdania. Ak chcete, aby sa oznámenie zobrazilo pred otvorením žiadosti o službu, počkajte aspoň **48 hodín**. 
 
-Ďalšie informácie nájdete v téme [Microsoft 365 pre neziskové organizácie](https://www.microsoft.com/nonprofits/microsoft-365). 
+Ďalšie informácie nájdete v téme [Microsoft 365 pre neziskové organizácie.](https://www.microsoft.com/nonprofits/microsoft-365) 

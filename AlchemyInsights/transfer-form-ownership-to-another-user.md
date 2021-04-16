@@ -2,7 +2,7 @@
 title: Prenos vlastníctva formulára inému používateľovi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db71635a5f925df85e6613c6cb4760406b4be3e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700146"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809058"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a>Prenos vlastníctva formulára Microsoft
+# <a name="transfer-ownership-of-a-microsoft-form"></a>Prenos vlastníctva formulára Spoločnosti Microsoft
 
-V službe Microsoft Forms môžete presunúť prieskum, kvíz alebo anketu do skupiny, aby sa všetci členovia skupiny stali vlastníkmi tohto formulára. Vlastníctvo formulára môžete preniesť aj na iného používateľa, ak predchádzajúci vlastník opustil organizáciu.
+Prieskum, kvíz alebo anketu v aplikácii Microsoft Forms môžete premiestniť do skupiny, aby sa každý v skupine stal jej vlastníkom. Ak predchádzajúci vlastník organizáciu opustil, môžete vlastníctvo formulára preniesť aj na iného používateľa.
 
-Ďalšie informácie nájdete v téme [prenos vlastníctva formulára](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).
+Ďalšie informácie nájdete v téme [Prenos vlastníctva formulára.](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)

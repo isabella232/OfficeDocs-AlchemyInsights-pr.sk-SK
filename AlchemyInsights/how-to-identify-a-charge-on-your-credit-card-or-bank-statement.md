@@ -1,8 +1,8 @@
 ---
-title: Ako identifikovať poplatok z kreditnej karty alebo výpisu z bankového účtu
+title: Ako identifikovať poplatok vo výpise z kreditnej karty alebo výpise z účtu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +15,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8bafbb57aae358df04332a6c5a6d00ce523c810
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780146"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810859"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Ako identifikovať poplatok z kreditnej karty alebo výpisu z bankového účtu
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Ako identifikovať poplatok vo výpise z kreditnej karty alebo výpise z účtu
 
-Popis poplatku za predplatné na Microsoft 365 vyzerá takto:
+Popis poplatku za predplatné služby Microsoft 365 vyzerá takto:
   
-MSFT \* E012345ABC 0000-MSBILL.info, WA
+MSFT \* E012345ABC 0000 – MSBILL.INFO, WA
   
-Znak 10 s alfanumerickým reťazcom po MSFT \* je číslo faktúry, na ktorú sa vzťahuje poplatok. Ak chcete nájsť faktúru, prejdite na stránku **Fakturácia** \> [& platby](https://go.microsoft.com/fwlink/p/?linkid=848039) a zobrazte si najnovšie faktúry. Číslo faktúry sa nachádza v pravom rohu dokladu faktúry.
+Alfanumerický reťazec 10 znakov po MSFT je číslo faktúry, na \* ktoré sa poplatok sa vzťahuje. Ak chcete vyhľadať faktúru, prejdite **na** \> [stránku & fakturácie a](https://go.microsoft.com/fwlink/p/?linkid=848039) pozrite si nedávne faktúry. Číslo faktúry sa nachádza v pravom rohu dokumentu faktúry.
