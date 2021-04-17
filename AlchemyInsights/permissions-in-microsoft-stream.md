@@ -1,8 +1,8 @@
 ---
-title: Povolenia v Microsoft streame
+title: Povolenia v Microsoft Streame
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721426"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829031"
 ---
-# <a name="permissions-in-microsoft-stream"></a><span data-ttu-id="dc7fd-102">Povolenia v Microsoft streame</span><span class="sxs-lookup"><span data-stu-id="dc7fd-102">Permissions in Microsoft Stream</span></span>
+# <a name="permissions-in-microsoft-stream"></a><span data-ttu-id="f9df5-102">Povolenia v Microsoft Streame</span><span class="sxs-lookup"><span data-stu-id="f9df5-102">Permissions in Microsoft Stream</span></span>
 
-<span data-ttu-id="dc7fd-103">Pri nahrávaní videa sa predvolene nastavia povolenia pre video, ktoré sa má zobraziť pre celú spoločnosť.</span><span class="sxs-lookup"><span data-stu-id="dc7fd-103">By default, when you upload a video, the permissions are set for the video to be visible to the whole company.</span></span> <span data-ttu-id="dc7fd-104">Ak chcete zadať povolenia pre konkrétnych používateľov alebo skupiny, môžete prispôsobiť povolenia pre video.</span><span class="sxs-lookup"><span data-stu-id="dc7fd-104">If you want to specify permissions to specific users/groups, you can customize the video permissions.</span></span>
+<span data-ttu-id="f9df5-103">Pri nahrávaní videa sú predvolene nastavené povolenia na zobrazenie videa celej spoločnosti.</span><span class="sxs-lookup"><span data-stu-id="f9df5-103">By default, when you upload a video, the permissions are set for the video to be visible to the whole company.</span></span> <span data-ttu-id="f9df5-104">Ak chcete zadať povolenia pre konkrétnych používateľov alebo skupiny, môžete prispôsobiť povolenia pre video.</span><span class="sxs-lookup"><span data-stu-id="f9df5-104">If you want to specify permissions to specific users/groups, you can customize the video permissions.</span></span>
 
-- [<span data-ttu-id="dc7fd-105">Povolenia a ochrana osobných údajov v Microsoft Streame</span><span class="sxs-lookup"><span data-stu-id="dc7fd-105">Permissions and privacy in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-permissions)
+- [<span data-ttu-id="f9df5-105">Povolenia a ochrana osobných údajov v Microsoft Streame</span><span class="sxs-lookup"><span data-stu-id="f9df5-105">Permissions and privacy in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-permissions)
 
-- [<span data-ttu-id="dc7fd-106">Skupinové povolenia</span><span class="sxs-lookup"><span data-stu-id="dc7fd-106">Group permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [<span data-ttu-id="f9df5-106">Skupinové povolenia</span><span class="sxs-lookup"><span data-stu-id="f9df5-106">Group permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
-- [<span data-ttu-id="dc7fd-107">Povolenia kanála</span><span class="sxs-lookup"><span data-stu-id="dc7fd-107">Channel permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
+- [<span data-ttu-id="f9df5-107">Povolenia kanála</span><span class="sxs-lookup"><span data-stu-id="f9df5-107">Channel permissions</span></span>](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)

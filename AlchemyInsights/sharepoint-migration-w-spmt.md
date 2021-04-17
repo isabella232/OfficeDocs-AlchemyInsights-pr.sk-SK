@@ -1,8 +1,8 @@
 ---
-title: Migrácia SharePointu s SPMT
+title: Migrácia SharePointu s ČIASTKOU SPMT
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 33864a5ee90d5947d0a9154f585a502b053ff176
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719896"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828323"
 ---
-# <a name="sharepoint-migration-with-spmt"></a><span data-ttu-id="15a13-102">Migrácia SharePointu s SPMT</span><span class="sxs-lookup"><span data-stu-id="15a13-102">SharePoint Migration with SPMT</span></span>
+# <a name="sharepoint-migration-with-spmt"></a><span data-ttu-id="15b97-102">Migrácia SharePointu s ČIASTKOU SPMT</span><span class="sxs-lookup"><span data-stu-id="15b97-102">SharePoint Migration with SPMT</span></span>
 
-<span data-ttu-id="15a13-103">Nástroj na migráciu SharePointu, ktorý sa má použiť na migráciu od najmenšieho súboru súborov až po rozsiahlu podnikovú migráciu, vám umožní prenášať informácie do cloudu a využívať najnovšie riešenia na spoluprácu, inteligenciu a zabezpečenie s Microsoftom 365.</span><span class="sxs-lookup"><span data-stu-id="15a13-103">Designed to be used for migrations ranging from the smallest set of files to a large scale enterprise migration, the SharePoint Migration Tool will allow you to transfer your information to the cloud and take advantage of the newest collaboration, intelligence, and security solutions with Microsoft 365.</span></span>
+<span data-ttu-id="15b97-103">Nástroj na migráciu SharePointu vám umožní preniesť informácie do cloudu a využívať najnovšie riešenia spolupráce, inteligencie a zabezpečenia so spoločnosťou Microsoft 365, ktoré sú navrhnuté na migráciu od najmenšieho súboru po veľkú podnikovú migráciu.</span><span class="sxs-lookup"><span data-stu-id="15b97-103">Designed to be used for migrations ranging from the smallest set of files to a large scale enterprise migration, the SharePoint Migration Tool will allow you to transfer your information to the cloud and take advantage of the newest collaboration, intelligence, and security solutions with Microsoft 365.</span></span>
 
-- [<span data-ttu-id="15a13-104">Stiahnutie a inštalácia nástroja na migráciu SharePointu</span><span class="sxs-lookup"><span data-stu-id="15a13-104">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [<span data-ttu-id="15a13-105">Riešenie bežných problémov s SPMT a chyby</span><span class="sxs-lookup"><span data-stu-id="15a13-105">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [<span data-ttu-id="15a13-106">Riešenie problémov s inštaláciou SPMT</span><span class="sxs-lookup"><span data-stu-id="15a13-106">Troubleshooting SPMT installation issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [<span data-ttu-id="15b97-104">Stiahnutie a inštalácia nástroja na migráciu SharePointu</span><span class="sxs-lookup"><span data-stu-id="15b97-104">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="15b97-105">Riešenie bežných problémov a chýb SPMT</span><span class="sxs-lookup"><span data-stu-id="15b97-105">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [<span data-ttu-id="15b97-106">Riešenie problémov s inštaláciou SPMT</span><span class="sxs-lookup"><span data-stu-id="15b97-106">Troubleshooting SPMT installation issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)

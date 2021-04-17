@@ -1,8 +1,8 @@
 ---
-title: Šetrenie miesta na disku pomocou súborov vo OneDrive na požiadanie pre Mac
+title: Úspora miesta na disku so súbormi OneDrivu na požiadanie v Macu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 32aa2fa21acc647092aac75484dde809a7208113
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807903"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828671"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a><span data-ttu-id="ac02b-102">Šetrenie miesta na disku pomocou súborov vo OneDrive na požiadanie pre Mac</span><span class="sxs-lookup"><span data-stu-id="ac02b-102">Save disk space with OneDrive Files On-Demand for Mac</span></span>
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a><span data-ttu-id="39400-102">Úspora miesta na disku so súbormi OneDrivu na požiadanie v Macu</span><span class="sxs-lookup"><span data-stu-id="39400-102">Save disk space with OneDrive Files On-Demand for Mac</span></span>
 
-<span data-ttu-id="ac02b-103">Súbory vo OneDrive na požiadanie vám pomôžu získať prístup k všetkým súborom vo OneDrive bez nutnosti sťahovania všetkých súborov a používania ukladacieho priestoru vo vašom zariadení.</span><span class="sxs-lookup"><span data-stu-id="ac02b-103">OneDrive Files On-Demand helps you access all your files in OneDrive without having to download all of them and use storage space on your device.</span></span>  
+<span data-ttu-id="39400-103">Súbory onedrivu na požiadanie vám pomôžu získať prístup ku všetkým súborom vo OneDrive bez toho, aby ste ich museli všetky stiahnuť a využiť ukladací priestor vo svojom zariadení.</span><span class="sxs-lookup"><span data-stu-id="39400-103">OneDrive Files On-Demand helps you access all your files in OneDrive without having to download all of them and use storage space on your device.</span></span>  
 
-<span data-ttu-id="ac02b-104">Pre nové kontá OneDrive v operačnom systéme Mac OS Mojave alebo novšom je pri nastavovaní služby OneDrive predvolene zapnutá funkcia súbory na požiadanie.</span><span class="sxs-lookup"><span data-stu-id="ac02b-104">For new OneDrive accounts on Mac OS Mojave or newer, Files On-Demand is turned on by default when you set up OneDrive.</span></span> <span data-ttu-id="ac02b-105">Existujúci používatelia potrebujú zapnúť súbory na požiadanie v predvoľbách OneDrivu.</span><span class="sxs-lookup"><span data-stu-id="ac02b-105">Existing users need to turn on Files On-Demand in OneDrive Preferences.</span></span>  
+<span data-ttu-id="39400-104">V prípade nových kont OneDrive v systéme Mac OS Mojave alebo novšia verzia je po nastavení služby OneDrive možnosť Súbory na požiadanie predvolene zapnutá.</span><span class="sxs-lookup"><span data-stu-id="39400-104">For new OneDrive accounts on Mac OS Mojave or newer, Files On-Demand is turned on by default when you set up OneDrive.</span></span> <span data-ttu-id="39400-105">Existujúci používatelia musia zapnúť súbory na požiadanie v predvoľbách služby OneDrive.</span><span class="sxs-lookup"><span data-stu-id="39400-105">Existing users need to turn on Files On-Demand in OneDrive Preferences.</span></span>  
 
-<span data-ttu-id="ac02b-106">Ďalšie [informácie o súboroch na požiadanie pre Mac OS](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).</span><span class="sxs-lookup"><span data-stu-id="ac02b-106">[Learn more about Files On-Demand for Mac OS](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).</span></span>
+<span data-ttu-id="39400-106">[Ďalšie informácie o súboroch na požiadanie v systéme Mac OS.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)</span><span class="sxs-lookup"><span data-stu-id="39400-106">[Learn more about Files On-Demand for Mac OS](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).</span></span>
