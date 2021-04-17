@@ -1,8 +1,8 @@
 ---
-title: Inovácia zo Skypu for Business online na teams
+title: Inovácia zo Skypu for Business Online na Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: ade3a20530a30ca5a703ce5a22af883cb827aecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734746"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827339"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Inovácia zo Skypu for Business online na teams  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Inovácia zo Skypu for Business Online na Teams  
 
-Postupujte podľa pokynov v článku nižšie, ak máte nasadené Skype for Business online a chcete inovovať používateľov zo Skypu for Business do aplikácie teams. Môžete inovovať používateľov v etapách alebo všetky naraz na základe cesty inovácie, ktorú vaša organizácia zvolila, a to priradením vhodnej koexistencie a režimu inovácie používateľom.
+Ak máte nasadený Skype for Business Online a chcete používateľov inovovať zo Skypu for Business na Teams, postupujte podľa pokynov v článku nižšie. Používateľov môžete inovovať postupne alebo všetky naraz na základe cesty inovácie, ktorú vybrala vaša organizácia, priradením vhodnej koexistencie a režimu inovácie používateľom.
 
-[Inovácia zo Skypu for Business online na teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Inovácia zo Skypu for Business Online na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

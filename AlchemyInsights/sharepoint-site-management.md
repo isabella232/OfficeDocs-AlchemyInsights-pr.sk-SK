@@ -1,8 +1,8 @@
 ---
-title: Správa lokality SharePointu Online
+title: Správa lokality SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5808"
-ms.openlocfilehash: 247a8652ae70751bc6504fed9c91b2267fa3bda6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3226579bcd505699ff595bffb70548e0767229b1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795511"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826574"
 ---
-# <a name="sharepoint-online-site-management"></a>Správa lokality SharePointu Online
+# <a name="sharepoint-online-site-management"></a>Správa lokality SharePoint Online
 
-Tu je niekoľko najčastejšie vyžiadaných tém pre správu lokality SharePoint Online:
+Tu je niekoľko najčastejšie žiadaných tém o správu lokality SharePointu Online:
 
-- [Správa lokalít](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
+- [Spravovanie lokalít](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
 - [Správa limitov ukladacieho priestoru lokalít](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
-- [Spravovanie koša](https://support.microsoft.com/office/8a6c2198-910e-42dc-9a9c-bc5bc4f327da)
+- [Správa Koša](https://support.microsoft.com/office/8a6c2198-910e-42dc-9a9c-bc5bc4f327da)

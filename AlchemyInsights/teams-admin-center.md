@@ -2,7 +2,7 @@
 title: Centrum spravovania aplikácie Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826394"
 ---
 # <a name="teams-admin-center"></a>Centrum spravovania aplikácie Teams
 
@@ -32,5 +32,5 @@ Ak sa v Centre spravovania aplikácie Teams nezobrazujú používatelia, skontro
 
 - Vytvorili ste za posledných 24 hodín používateľov alebo priradili licencie? Uistite sa, že pred otvorením tiketu technickej podpory počkajte aspoň 24 hodín.
 - Skontrolujte, či ste priradili zodpovedajúce licencie.
-- Ak máte lokálnu službu Active Directory, overte, či [je v poli proxyAddresses v lokálnej službe Active Directory hodnota msRTCSIP-PrimaryUserAddress alebo adresa SIP, ktorá sa zhoduje s formátom](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**meno** používateľa používateľa z [centra spravovania služby Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ak máte v úmysle uchovať nasadenie Skypu for Business Server a mať používateľov doma lokálne a online: postupujte podľa pokynov v časti **Nastavenie hybridného nasadenia v aplikácii teams a Skype for Business online** v ovládacom paneli Skypu for Business Server a premiestnite používateľov online.
+- Ak máte lokálnu službu Active Directory, overte, či je hodnota [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) alebo adresa SIP v poli ProxyAddresses v lokálnej službe Active Directory jedinečná a formát zodpovedá sip: Meno používateľa z Centra spravovania služby [Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Ak plánujete nasadenie Skype for Business Servera a máte používateľov lokálne a online, postupujte podľa krokov v časti **Nastavenie hybridného** nasadenia s aplikáciami Teams a Skype for Business Online na ovládacom paneli Skype for Business Servera a presuňte používateľov online.

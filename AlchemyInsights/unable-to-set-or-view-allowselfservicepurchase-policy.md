@@ -2,7 +2,7 @@
 title: Nie je možné nastaviť alebo zobraziť politiku AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735214"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826106"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nie je možné nastaviť alebo zobraziť politiku AllowSelfServicePurchase
 
-Pri pokuse o nastavenie alebo zobrazenie politiky AllowSelfServicePurchase sa zobrazí nasledujúce chybové hlásenie:
+Pri pokuse o nastavenie alebo zobrazenie politiky AllowSelfServicePurchase sa zobrazí toto chybové hlásenie:
 
-*HandleError: Nepodarilo sa načítať politiku produktov s PolicyId ' AllowSelfServicePurchase ', ErrorMessage-základné pripojenie bolo ukončené: na odoslanie sa vyskytla neočakávaná chyba.*
+*HandleError: Nepodarilo sa načítať politiku produktu s nastavením PolicyId 'AllowSelfServicePurchase', ErrorMessage – základné pripojenie sa uzavrelo: Pri odosielaní sa vyskytla neočakávaná chyba.*
 
-Môže to byť spôsobené staršou verziou zabezpečenia Transport Layer (TLS). Ak chcete pripojiť službu MSCommerce, musíte použiť TLS 1,2 alebo novšiu.  
+Môže to byť spôsobené staršou verziou protokolu TLS (Transport Layer Security). Ak chcete pripojiť službu MSCommerce, musíte použiť protokol TLS 1.2 alebo vyššiu.  
 
-Vyskúšajte nasledujúce kroky na zapnutie alebo nastavenie protokolu TLS na 1,2, overenie a opakovanie.
- 1. V príkazovom riadku prostredia PowerShell (PS C: \) Ak chcete nastaviť protokol TLS na verziu 1,2, zadajte nasledujúci príkaz:
+Vyskúšajte nasledujúce kroky na zapnutie/nastavenie protokolu TLS na možnosť 1.2, overenie a zopakovanie pokusu.
+ 1. Do príkazového riadka prostredia PowerShell (PS C: zadajte nasledujúci príkaz na nastavenie protokolu \) TLS na verziu 1.2):
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Overte, či sa používajú protokoly TLS s týmto príkazom:
+2. Pomocou nasledujúceho príkazu overte protokol TLS, ktorý sa používa:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Podľa potreby zopakujte príkazy získať alebo aktualizovať.
+3. Podľa potreby znova skúste príkazy Získať alebo Aktualizovať.
 

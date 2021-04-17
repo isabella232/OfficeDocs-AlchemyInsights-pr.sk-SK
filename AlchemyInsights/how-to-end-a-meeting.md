@@ -2,7 +2,7 @@
 title: Formálne ukončenie schôdze
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780434"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825710"
 ---
 # <a name="how-to-formally-end-a-meeting"></a>Formálne ukončenie schôdze
 
-Organizátori schôdze môžu ukončiť schôdzu pre všetkých účastníkov schôdze v aplikácii teams kliknutím na položku **ukončiť schôdzu** v ovládacích prvkoch schôdze v rámci schôdze.  
+Organizátori schôdze môžu ukončiť schôdzu pre všetkých účastníkov schôdze v Teams kliknutím na položku **Ukončiť** schôdzu v ovládacích prvkoch schôdze v rámci schôdze.  
 
-Ak chcete ukončiť prebiehajúcu schôdzu pre všetkých účastníkov, vyberte položku ovládacie prvky schôdze, vyberte ikonu 3 bodky a kliknite na položku ukončiť schôdzu. Zobrazí sa výzva na potvrdenie výberu. Potvrdením výberu sa schôdza ukončí pre všetkých.
+Ak chcete ukončiť schôdzu, ktorá prebieha, vyberte ovládacie prvky schôdze, ikonu 3-bodka a kliknite na položku Ukončiť schôdzu. Zobrazí sa výzva na potvrdenie vášho výberu. Potvrdením výberu sa schôdza ukončí všetkým.
 
-Poznámka: schôdza môže byť ukončená iba organizátorom schôdze.
+POZNÁMKA: Schôdzu môže ukončiť iba organizátor schôdze.

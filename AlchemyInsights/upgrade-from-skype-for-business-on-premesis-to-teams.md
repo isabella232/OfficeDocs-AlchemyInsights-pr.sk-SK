@@ -1,8 +1,8 @@
 ---
-title: Inovácia z Skypu for Business v priestoroch na teams
+title: Inovácia zo Skypu for Business lokálne na Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734782"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827375"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Inovácia z Skypu for Business v priestoroch na teams
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Inovácia zo Skypu for Business lokálne na Teams
 
-Ak ste nasadili Skype for Business alebo Microsoft Lync v priestoroch a vaša organizácia chce inovovať na Teams, postupujte podľa pokynov v článku nižšie. Budete musieť nastaviť hybridné pripojenie s nájomníkom a potom presunúť používateľov do aplikácie teams a priradiť im príslušný režim koexistencie a inovácie. 
+Ak ste nasadili Skype for Business alebo Microsoft Lync lokálne a vaša organizácia chce vykonať inováciu na Teams, postupujte podľa pokynov v článku nižšie. Musíte nastaviť hybridné pripojenie k nájomníkovi a potom presunúť používateľov do aplikácie Teams a priradiť im príslušnú koexistenciu a režim inovácie. 
 
-[Inovácia z Skypu for Business lokálne do aplikácie teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Inovácia zo Skypu for Business lokálne na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

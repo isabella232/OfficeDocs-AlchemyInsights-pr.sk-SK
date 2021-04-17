@@ -1,8 +1,8 @@
 ---
-title: Odpojenie a opätovné pripojenie fotoaparátu
+title: Odpojte a znova pripojte fotoaparát
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365254"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827735"
 ---
-# <a name="unplug-and-reconnect-camera"></a>Odpojenie a opätovné pripojenie fotoaparátu
+# <a name="unplug-and-reconnect-camera"></a>Odpojte a znova pripojte fotoaparát
 
-Ľutujeme, že nevyšlo. Ak je fotoaparát externou kamerou, odpojenie zariadenia a opätovné pripojenie môže pomôcť.
+Ľutujeme, ale problém sa nečakal. Ak je fotoaparát externou kamerou, môže pomôcť opätovné odpojenie zariadenia a opätovné pripojenie.
 
-Ak ide o vstavanú kameru, môže to pomôcť pri reštartovaní počítača.
+Ak ide o vstavanú kameru, môže pomôcť reštartovanie počítača.
