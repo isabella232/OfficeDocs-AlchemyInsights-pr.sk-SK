@@ -1,8 +1,8 @@
 ---
-title: Ukladací priestor Microsoft Stream
+title: Ukladací priestor v Microsoft Streame
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675313"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833954"
 ---
-# <a name="microsoft-stream-storage"></a>Ukladací priestor Microsoft Stream
+# <a name="microsoft-stream-storage"></a>Ukladací priestor v Microsoft Streame
 
-Nájomníki Microsoft streamu dostávajú fixné rozdelenie ukladacieho priestoru 500 GB a ďalších 0,5 GB ukladacieho priestoru na používateľa s licenciou.
-Ďalšie informácie o ukladacom priestore nájdete v témach:
+Nájomníci služby Microsoft Stream dostávajú pevné vyhradenie ukladacieho priestoru 500 GB a ďalších 0,5 GB ukladacieho priestoru na používateľa s licenciou.
+Ďalšie podrobnosti o ukladacom priestoru nájdete v téme:
 
-- [Microsoft Stream Storage – Preh3/4Ad](https://docs.microsoft.com/stream/license-overview#storage)
-- [Pridanie ukladacieho priestoru do programu Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
-- [Kvóty a obmedzenia v Microsoft streame](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [Prehľad ukladacieho priestoru služby Microsoft Stream](https://docs.microsoft.com/stream/license-overview#storage)
+- [Pridanie ukladacieho priestoru do služby Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
+- [Kvóty a obmedzenia v Microsoft Streame](https://docs.microsoft.com/stream/quotas-and-limitations)

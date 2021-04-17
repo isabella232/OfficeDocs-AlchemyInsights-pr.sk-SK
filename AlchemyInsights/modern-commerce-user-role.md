@@ -1,8 +1,8 @@
 ---
-title: Rola používateľa modernej obchodnej sféry
+title: Rola používateľa moderného obchodu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667029"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833630"
 ---
-# <a name="modern-commerce-user-role"></a>Rola používateľa modernej obchodnej sféry
+# <a name="modern-commerce-user-role"></a>Rola používateľa moderného obchodu
 
-Rola používateľa modernej aplikácie Commerce poskytuje niektorým používateľom povolenie na prístup k centru spravovania služieb Microsoft 365 a zobrazuje ľavé navigačné položky pre **domácnosti**, **fakturáciu**a **podporu**. Obsah, ktorý je k dispozícii v týchto oblastiach, je riadený funkciami špecifickými pre Commerce, ktoré sú priradené používateľom na spravovanie produktov, ktoré si zakúpili pre seba alebo vašu organizáciu. Môže to zahŕňať úlohy, ako sú napríklad platobné faktúry alebo prístup k fakturačným kontám a profilom fakturácie.
+Rola používateľa moderného obchodu poskytuje určitým používateľom povolenie na prístup do Centra spravovania služby Microsoft 365 a zobrazenie položiek na ľavom navigačnom paneli pre **domácnosti,** **fakturáciu** a **podporu.** Obsah dostupný v týchto oblastiach sa riadi rolami špecifickými pre obchod priradenými používateľom na spravovanie produktov, ktoré kúpili pre seba alebo pre vašu organizáciu. Môžu sem patriť úlohy ako platenie faktúr alebo prístup k fakturačným kontám a fakturačným profilom.
 
-Používatelia s rolou modernej aplikácie Commerce majú zvyčajne povolenia správcu v iných nákupných systémoch spoločnosti Microsoft, ale nemajú oprávnenia globálneho správcu alebo správcu fakturácie.
+Používatelia s rolou moderného obchodu majú zvyčajne povolenia správcu v iných nákupných systémoch spoločnosti Microsoft, ale nemajú oprávnenia globálneho správcu ani správcu fakturácie.
 
-Ďalšie informácie o tejto a ďalších funkciách správy nájdete [v téme povolenia roly správcu v službe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Ďalšie informácie o tejto úlohe a ďalších rolách správcu nájdete v téme [Povolenia roly správcu v službe Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)

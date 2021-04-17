@@ -1,8 +1,8 @@
 ---
-title: Pokúšate sa nájsť skúšobnú verziu?
+title: Pokúšate sa vyhľadať skúšobnú verziu?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834710"
 ---
-# <a name="trying-to-find-a-trial"></a>Pokúšate sa nájsť skúšobnú verziu?
+# <a name="trying-to-find-a-trial"></a>Pokúšate sa vyhľadať skúšobnú verziu?
 
-Ak si chcete vyskúšať novú službu, môžete nájsť zoznam predplatných, ktoré sú k dispozícii na skúšobnú verziu v centre spravovania služby Microsoft 365.
+Ak chcete vyskúšať novú službu, zoznam predplatných, ktoré sú k dispozícii na vyskúšanie, nájdete v Centre spravovania služby Microsoft 365.
   
-1. V centre spravovania prejdite na stránku služby **fakturácie** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. V centre spravovania prejdite  na stránku Služby \> [zakúpenia fakturácie.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Vyberte predplatné, ktoré zodpovedá vašim potrebám, a potom vyberte položku  **získať bezplatnú skúšobnú verziu**.
+2. Vyberte predplatné, ktoré zodpovedá vašim potrebám, a potom vyberte položku  **Získať bezplatnú skúšobnú verziu**.
 
     > [!NOTE]
-    > Nie všetky predplatné sú k dispozícii ako skúšobná verzia. Ak sa po kliknutí na predplatné nezobrazuje tlačidlo **získať bezplatnú skúšobnú** verziu, znamená to, že skúšobná verzia nie je k dispozícii.
+    > Nie všetky predplatné sú k dispozícii ako skúšobná verzia. Ak sa tlačidlo Získať bezplatnú skúšobnú verziu **v** prípade, že myšou používate predplatné, skúšobná verzia nie je k dispozícii.
   
-3. Môže sa zobraziť výzva na zadanie kreditnej karty alebo iného spôsobu úhrady, aby bolo možné poskytnúť ďalšie overenie ako bezpečnostné opatrenie. Za túto bezplatnú skúšobnú verziu sa vám neúčtuje poplatok. Vaše informácie o platbe budeme uchovávať v súbore a nebudú sa používať na nákup bez vášho schválenia.
+3. Môže sa zobraziť výzva na zadanie kreditnej karty alebo iného spôsobu úhrady na poskytnutie ďalšieho overenia v rámci bezpečnostného opatrenia. Za túto bezplatnú skúšobnú verziu vám nebude účtovaný poplatok. Vaše informácie o platbe uchováme a nebudeme ich používať na žiadny nákup bez vášho súhlasu.
 
-4. Vyberte položku **skúsiť teraz**.
+4. Vyberte **položku Vyskúšať.**

@@ -1,8 +1,8 @@
 ---
-title: Aktualizujte informácie o svojom profile alebo zmeňte môj obrázok
+title: Aktualizácia informácií o profile alebo zmena obrázka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796951"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834458"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Aktualizujte informácie o svojom profile alebo zmeňte môj obrázok
+# <a name="update-my-profile-information-or-change-my-picture"></a>Aktualizácia informácií o profile alebo zmena obrázka
 
-V súčasnosti nie je možné upravovať a aktualizovať informácie o profile priamo z Outlooku pre iOS, ale tieto informácie je možné upravovať aj inde. 
+Momentálne nie je možné upravovať a aktualizovať informácie v profile priamo z Outlooku pre iOS, ale je možné ich upravovať inde. 
 
-Aktualizácie profilu môžete vykonávať v Outlooku pre Windows alebo v Outlooku na webe (OWA). 
+Svoj profil môžete aktualizovať v Outlooku pre Windows alebo v Outlooku na webe (OWA). 
 
-**Outlook pre Windows**: 
+**Outlook pre Windows:** 
 
-- **File (súbor**  >  ) **Konto**  >  balíka Office **Informácie o používateľovi**  >  **Informácie o mne** (dostanete sa k profilu online v službe Microsoft 365) > **profil aktualizácie** alebo kliknutím na ikonu kamery zmeňte svoju fotografiu.  
+- **Súbor**  >  **Konto balíka Office**  >  **Informácie o používateľovi**  >  **O mne** (prináša vás na online profil služby Microsoft 365) > **Aktualizovať** profil alebo kliknutím na ikonu fotoaparátu zmeňte svoju fotografiu  
   
-**Outlook na webe (OWA)**: 
+**Outlook na webe (OWA):** 
 
-- **Obrázok profilu**  >  **Môj profil**  >  **Aktualizovať profil**
+- **Profilový obrázok**  >  **Môj profil**  >  **Aktualizácia profilu**

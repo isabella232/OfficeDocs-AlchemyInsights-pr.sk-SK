@@ -1,8 +1,8 @@
 ---
-title: Prieskumné zážitky v aplikácii Microsoft teams
+title: Microsoft Teams – exploritívne prostredie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480734"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833810"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Prieskumné zážitky v aplikácii Microsoft teams
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams – exploritívne prostredie
 
-- Čo sú [prieskumy tímov](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Prieskumné prostredie Microsoft teams umožňuje používateľom vo vašej organizácii, ktorí nemajú licenciu na aplikácie Teams, iniciovať prieskumné skúsenosti s tímami. Ďalšie informácie nájdete [v téme Čo je na prieskumných prácach v tímoch](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Ako dlho trvá prieskumné tímy?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Prieskumné prostredie Microsoft teams je k dispozícii bez dodatočných poplatkov za 12 mesiacov (od počiatočného registrácie používateľa) a ďalších 30-dňovej doby odkladu.
-- Ako správca môžete [inovovať používateľov z prieskumnej licencie na tímy](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) zakúpením predplatného, ktoré zahŕňa aplikácie Teams, odstránením predplatného pre tímy od používateľa a priradením novo zakúpenej licencie.
-- Ďalšie informácie nájdete v téme [spravovanie predbežných licencií pre tímy](https://docs.microsoft.com/microsoftteams/teams-exploratory).
+- Čo je [to explorórna skupina Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Okamžité používanie aplikácie Microsoft Teams umožňuje používateľom vo vašej organizácii, ktorí nemajú licenciu na aplikáciu Teams, iniciovať explortívne prostredie aplikácie Teams. Ďalšie informácie nájdete v tom, čo je v tom [najužitočné zážitku v programe Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Ako dlho trvá expumičná skúsenosť v Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Microsoft Teams – najužitočné prostredie je k dispozícii bez dodatočných nákladov na 12 mesiacov (od prvého prihlásenia používateľa) a ďalšie 30-dňové obdobie odkladu.
+- Ako správca môžete inovovať používateľov z licencie na [exploritívnu](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) aplikáciu Teams zakúpením predplatného, ktoré zahŕňa Teams, odstránením predplatného aplikácie Teams od používateľa a priradením novokúpenej licencie.
+- Ďalšie informácie nájdete v téme [Spravovanie licencie na exploritívnu licenciu služby Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory)

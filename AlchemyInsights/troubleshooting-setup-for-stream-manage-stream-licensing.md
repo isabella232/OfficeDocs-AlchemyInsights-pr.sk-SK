@@ -1,8 +1,8 @@
 ---
-title: Riešenie problémov s nastavením pre streamovanie – spravovanie prúdových licencií
+title: Riešenie problémov s nastavením pre Stream – spravovanie licencií streamov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749673"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834782"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Správa licencií na Microsoft Stream
+# <a name="managing-microsoft-stream-licenses"></a>Spravovanie licencií služby Microsoft Stream
 
-**Dôležité:** Ak chcete vykonať operácie popísané v tejto téme, musíte byť v úlohe správcu nájomníka.
+**Dôležité:** Ak chcete vykonať operácie popísané v tejto téme, musíte sa nachádzať v role správcu nájomníka.
 
-Musíte byť globálnym správcom alebo správcom správy používateľov. Ďalšie informácie nájdete v téme [roly správcu](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+Musíte byť globálnym správcom alebo správcom služby User Management. Ďalšie informácie nájdete v téme [Roly správcu.](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
 
-Môžete priradiť [licencie k používateľským kontám v prostredí Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Môžete priradiť [licencie používateľským kontám pomocou prostredia PowerShell služieb Office 365.](https://go.microsoft.com/fwlink/p/?linkid=850410)
