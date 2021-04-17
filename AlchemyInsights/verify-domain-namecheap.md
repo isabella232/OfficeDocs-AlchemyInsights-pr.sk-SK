@@ -1,8 +1,8 @@
 ---
-title: Overenie domény pomocou NameCheap
+title: Overenie domény pomocou programu Namecheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 670cdc69c8054c41c0d768d7beafc245b8145f24
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: dbeecb016708a127ea3980f11b793041f2f3f447
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815836"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824270"
 ---
-# <a name="verify-your-domain-with-namecheap"></a>Overenie domény pomocou NameCheap
+# <a name="verify-your-domain-with-namecheap"></a>Overenie domény pomocou programu Namecheap
 
-Ak chcete overiť svoju doménu, budete musieť do registrátora domén pridať TXT záznam na overenie vášho vlastníctva domény. 
+Ak chcete overiť svoju doménu, budete musieť pridať záznam TXT do registrátora domén a overiť, či ste ich vlastníte. 
 
-Najprv postupujte podľa pokynov v [Sprievodcovi pridaním domény](https://admin.microsoft.com/Adminportal#/Domains) výberom **položky Domain Settings (nastavenia** \> **domén**) a potom **pridajte doménu**.
+Najprv postupujte podľa sprievodcu [pridaním domény výberom](https://admin.microsoft.com/Adminportal#/Domains) položky **Settings** \> **Domains (Nastavenia domény)** a potom **výberom položky Add domain (Pridať doménu).**
   
-Podrobné pokyny nájdete [v téme Vytvorenie DNS záznamov na lokalite NameCheap pre Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) .
+Podrobné [pokyny nájdete v téme Vytvorenie DNS záznamov na lokalite Namecheap pre Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)

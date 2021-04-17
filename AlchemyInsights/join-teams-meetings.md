@@ -1,8 +1,8 @@
 ---
-title: Pripájanie k schôdzam v aplikácii teams
+title: Pripojenie k schôdzi v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772926"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824018"
 ---
-# <a name="join-a-meeting-in-teams"></a>Pripájanie k schôdzi v aplikácii teams
+# <a name="join-a-meeting-in-teams"></a>Pripojenie k schôdzi v Teams
 
-Ak sa chcete k schôdzi tímov zapojiť, najskôr nastavte politiky schôdze a potom sa prihláste priamo používateľom z preferovaných zariadení:
+Ak sa chcete pripojiť k schôdzi cez Teams, najprv nastavte politiky schôdzí a potom prismerte používateľov, aby sa pripojili z uprednostňovaných zariadení:
 
-- Nastavte politiky schôdze, ktoré určujú, kto sa bude môcť zapojiť do schôdze ako [účastníci alebo hostia](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Nastavte politiky schôdzí, ktoré riadia, kto sa bude môcť pripojiť k schôdzi [ako účastníci alebo hostia.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Ak chcete vykonať zmeny politiky, použite [rutiny typu cmdlet prostredia](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft teams PowerShell.    
+- Na zmenu politiky použite rutiny typu cmdlet prostredia Microsoft Teams [PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)    
 
-**Poznámka:** Vykonanie zmien politiky môže trvať až 24 hodín.
+**Poznámka:** Zmeny politiky sa prejavia do 24 hodín.

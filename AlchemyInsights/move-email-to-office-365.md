@@ -1,8 +1,8 @@
 ---
-title: Premiestnenie e-mailu do služieb Microsoft 365
+title: Premiestnenie e-mailu do služby Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: abe11201d2c6dc4c517231b191f22e8ed2038411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ace759a6cfe6e161c5572472b7459f8fd4c6021
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799759"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823730"
 ---
-# <a name="move-email-to-microsoft-365"></a>Premiestnenie e-mailu do služieb Microsoft 365
+# <a name="move-email-to-microsoft-365"></a>Premiestnenie e-mailu do služby Microsoft 365
 
-Máte niekoľko možností na migráciu e-mailov do služby Microsoft 365. [Poradca pre migráciu pošty v službe Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) vám pomôže vybrať ten najvhodnejší pre prostredie a tiež vás prevedie migráciou pošty.
+Máte niekoľko možností migrácie e-mailov do služby Microsoft 365. Poradca pre migráciu pošty v [Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) vám pomôže vybrať si pre vaše prostredie to najlepšie a tiež vás prevedie migráciou pošty.
   
-Ak si chcete prečítať informácie o možnostiach bez začatia migrácie, prečítajte si tému [Výber cesty migrácie](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Ďalšie informácie o možnostiach bez začatia migrácie nájdete v téme [Výber cesty migrácie.](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)
 
-Ak máte nárok na pomoc s migráciou, prečítajte si aj stránku [prijať Microsoft 365 s FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) .
+Ak máte oprávnenie, pozrite [si aj stránku Prechod na Microsoft 365](https://www.microsoft.com/fasttrack/microsoft-365/office-365) s plánom FastTrack, ktorá vám pomôže s migráciou.
   

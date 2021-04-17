@@ -2,7 +2,7 @@
 title: Aktivácia nového zariadenia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668397"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823298"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Aktivácia nového zariadenia so systémom Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>Aktivácia nového zariadenia s Windowsom 10
 
-Ak ste si zakúpili nové zariadenie s Windowsom 10, automaticky sa aktivuje, keď pripojíte zariadenie na internet. Ak sú aktivačné servery zaneprázdnené, môže byť potrebné chvíľu počkať, kým sa Windows neaktivuje.
+Ak ste si kúpili nové zariadenie s Windowsom 10, aktivuje sa automaticky po pripojení zariadenia na internet. Ak sú aktivačné servery zaneprázdnené, môže byť potrebné chvíľu počkať, kým sa Windows aktivuje.
 
-Ak chcete skontrolovať stav aktivácie, vyberte položku **Spustiť** **Settings**  >  **aktualizáciu nastavení &**  >  **aktivácie**zabezpečenia.
+Ak chcete skontrolovať stav aktivácie, **vyberte položky** **Spustiť** nastavenia & zabezpečenie  >    >  **Aktivácia**.
 
-**Poznámka:** V niektorých prípadoch môže byť potrebné zadať kód Product Key pre Windows 10, ktorý bol dodaný s balením zariadenia, alebo je súčasťou karty alebo certifikátu pravosti (COA) pripojeného k zariadeniu.
+**Poznámka:** V niektorých prípadoch možno budete musieť zadať kód Product Key pre Windows 10, ktorý je súčasťou balenia zariadenia, alebo je súčasťou karty alebo certifikátu pravosti pripojeného k zariadeniu.
 
 [Ďalšie informácie o aktivácii vo Windowse 10](https://support.microsoft.com/help/12440)

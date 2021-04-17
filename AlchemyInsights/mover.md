@@ -2,7 +2,7 @@
 title: Mover
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
-ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
+ms.openlocfilehash: e1c1ca19944c55b055f807107d61b0d077743b68
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49986313"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825314"
 ---
 # <a name="mover"></a>Mover
 
-Ďalšie informácie o ťahu nájdete v nasledujúcich článkoch:
+Informácie o doplnku Mover nájdete v týchto článkoch:
 
-- [Plánovanie migrácie pomocou Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
-- [Správa spojníc](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
-- [Spustenie migrácie Mover](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
+- [Plánovanie migrácie pomocou programu Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [Spravovať konektory](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [Spustenie migrácie presunu](https://docs.microsoft.com/sharepointmigration/mover-running-migration)

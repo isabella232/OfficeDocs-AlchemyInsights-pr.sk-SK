@@ -1,8 +1,8 @@
 ---
-title: Nastavenie politiky schôdze
+title: Nastavenia politiky schôdze
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704621"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825458"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Správa politík schôdze v aplikácii Microsoft teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Spravovanie politík schôdzí v aplikácii Microsoft Teams
 
-**Poznámka: Ak chcete, aby sa zmeny politiky prejavili pre používateľov, môže trvať až 24 hodín.** Možno nebudete môcť okamžite vykonávať zmeny v novovytvorených politikách. Počkajte 4 hodiny a pokúste sa znova upraviť novo vytvorenú politiku.
+**Poznámka: Zmeny politiky sa prejavia pre používateľov do 24 hodín.** Je možné, že ihneď nebudete môcť vykonať zmeny v novovytvorených politikách. Počkajte 4 hodiny a skúste znova upraviť novovytvoreú politiku.
 
-Politiky schôdze sa používajú na ovládanie funkcií, ktoré sú k dispozícii účastníkom schôdze pre schôdze, ktoré naplánovali používatelia vo vašej organizácii. Niektoré funkcie politík schôdze sa nemusia implementovať v centre spravovania pre Teams (tieto sú označené ako čoskoro v dokumentácii). V tomto prípade alebo ak sa zobrazuje chybové hlásenie "momentálne nemôžeme aktualizovať politiku, ale skúste to znova neskôr" v centre spravovania služieb Microsoft Teams, odporúčame použiť prostredie PowerShell na vytvorenie alebo úpravu politík schôdze v aplikácii teams. 
+Politiky schôdzí sa používajú na ovládanie funkcií dostupných pre účastníkov schôdze na schôdze naplánované používateľmi vo vašej organizácii. Niektoré funkcie politík schôdzí možno ešte nie sú implementované v Centre spravovania pre Teams (tieto sú v dokumentácii označené ako "čoskoro k dispozícii"). V tomto prípade alebo ak sa vám zobrazuje chybové hlásenie, ako napríklad "Politiku nie je možné aktualizovať hneď, ale skúste to znova neskôr" v Centre spravovania služby Microsoft Teams, odporúčame vám použiť prostredie PowerShell na vytvorenie alebo úpravu politík schôdzí cez Teams. 
 
-Ďalšie informácie o politikách schôdze nájdete v týchto zdrojoch informácií:
+Ďalšie informácie o politikách schôdzí nájdete v týchto zdrojoch:
 
-- Ďalšie informácie o vytváraní politík, vykonávaní zmien a priradení používateľov k politike nájdete [v téme Správa politík schôdze v aplikácii teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Ďalšie informácie o vytváraní politík, zmenách a priraďovaní používateľov k politike nájdete v téme Správa [politík schôdzí v Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- Ak chcete vykonať zmeny politiky pomocou rutiny typu cmdlet prostredia PowerShell, pozrite si tému [Prehľad tímov PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Na politiku schôdze v aplikácii teams musíte použiť [modul PowerShell pre Skype for Business](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) . 
-    - Ďalšie informácie nájdete v [dokumentácii k rutine cmdlet *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- Ak chcete vykonávať zmeny politiky pomocou rutín typu cmdlet prostredia PowerShell, pozrite si [časť Prehľad prostredia PowerShell služby Teams.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
+    - Pre politiky schôdzí v [Teams je potrebné použiť modul Skype for Business PowerShell.](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) 
+    - Ďalšie informácie [nájdete v dokumentácii rutiny typu cmdlet *-CsTeamsMeetingPolicy.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
 

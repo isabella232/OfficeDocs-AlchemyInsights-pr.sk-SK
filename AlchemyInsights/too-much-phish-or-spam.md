@@ -11,17 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767952"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824630"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Prijímate v poštovej schránke príliš veľa formulácií alebo nevyžiadanej pošty?
 
-> [!NOTE]
-> Do Centra zabezpečenia služby Microsoft 365 sa môžete [security.microsoft.com.](https://security.microsoft.com)
+**Poznámka** Do Centra zabezpečenia služby Microsoft 365 máte prístup na stránke [https://security.microsoft.com](https://security.microsoft.com) .
 
 Ako správca služby Microsoft 365 najlepším spôsobom, ako zistiť, prečo sa e-mailová správa o neoprávnenom získavaní údajov alebo nevyžiadanej pošte doručila, je odoslať vzor do spoločnosti Microsoft v [Prieskumníkovi odoslania.](https://security.microsoft.com/reportsubmission) Okamžite získate pripomienky týkajúce sa filtrovania správ a dôvodov problémov.
 

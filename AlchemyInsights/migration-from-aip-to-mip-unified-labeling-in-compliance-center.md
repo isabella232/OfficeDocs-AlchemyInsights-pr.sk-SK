@@ -1,8 +1,8 @@
 ---
-title: Migrácia z AIP na MDC/zjednotené označenie v centre dodržiavania súladu
+title: Migrácia z AIP na označenie MIP alebo zjednotené označenie v Centre dodržiavania súladu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674341"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825386"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migrácia z AIP na MDC/zjednotené označenie v centre dodržiavania súladu
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migrácia z AIP na označenie MIP alebo zjednotené označenie v Centre dodržiavania súladu
 
-Ak chcete migrovať z menoviek AIP na zjednotené označenie v centre zabezpečenia a dodržiavania súladu, postupujte takto:
+Ak chcete migrovať z označení AIP do zjednoteného označenia v centre zabezpečenia a dodržiavania súladu, vykonajte nasledovné:
 
-**Aktivácia ochrany na portáli Azure**
+**Aktivácia zabezpečenia z portálu Azure**
 
-1. Ak ste to ešte neurobili, Otvorte nové okno prehliadača a [Prihláste sa na portáli Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Prejdite na čepeľ na **ochranu informácií v Azure** . V ponuke rozbočovač kliknite napríklad na položku **všetky služby** a začnite písať **informácie** do poľa Filter. Vyberte položku **Azure Information Protection**. Ak ste sa ešte nedostali do programu Azure Information Protection Blade, pozrite si jednorazové [Ďalšie kroky](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) na pridanie tohto kotúča na portál. Ak chcete otvoriť čepeľ na ochranu informácií o Azure, musíte mať [plán služieb Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) alebo plán služieb Office 365, ktorý obsahuje správu prístupových práv. Ak máte niektorý z týchto predplatných, ale zobrazí sa hlásenie o tom, že platné predplatné sa nenašlo, obráťte sa na oddelenie technickej podpory [spoločnosti Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) alebo použite štandardné podporné kanály.
+1. Ak ste tak ešte neurobili, otvorte nové okno prehliadača a [prihláste sa na portál Azure.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Prejdite na **blade Azure Information Protection.** Napríklad v ponuke Centrum kliknite na položku **Všetky služby** a do poľa Filter **začnite** zadávať informácie. Vyberte **položku Azure Information Protection**. Ak ste doteraz nemali prístup k aplikácii Azure Information [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) Protection, pozrite si jednočasové ďalšie kroky na pridanie tohto blade na portál. Ak chcete otvoriť aplikáciu Azure Information Protection blade, musíte mať buď plán [Azure Information Protection Premium,](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) alebo plán služieb Office 365, ktorý obsahuje správu prístupových práv. Ak máte niektoré z týchto predplatných, ale zobrazuje sa hlásenie, že platné predplatné nie je možné nájsť, obráťte sa na technickú podporu spoločnosti [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) alebo použite štandardné kanály podpory.
 
-2. Vyhľadajte možnosti ponuky **Spravovať** a vyberte položku **Aktivácia ochrany**. Kliknite na položku **aktivovať**a potvrďte akciu. Po dokončení aktivácie sa na informačnom paneli zobrazí hlásenie **Aktivácia sa úspešne dokončila**.
+2. Vyhľadajte možnosti **ponuky Spravovať** a vyberte položku **Aktivácia zabezpečenia**. Kliknite **na položku** Aktivovať a potom potvrďte akciu. Po dokončení aktivácie sa na informačnom paneli zobrazí hlásenie **Aktivácia sa úspešne dokončila.**
 
-**Migrácia menoviek Azure Information Protection na centrum zabezpečenia & zabezpečenia dodržiavania súladu v Office 365**
+**Migrácia označení Azure Information Protection do Centra zabezpečenia a dodržiavania & Office 365**
 
-1. Skontrolujte, či ste prihlásení ako používateľ s povolením globálneho správcu.
+1. Prihláste sa ako používateľ s povolením globálneho správcu.
 
-2. Prejdite na čepeľ na **ochranu informácií v Azure** .
+2. Prejdite na **blade Azure Information Protection.**
 
-3. V ponuke **Spravovať** vyberte možnosť **Unified labeling (zjednotené označenie**).
+3. V ponuke **Spravovať** vyberte položku **Zjednotené označovanie**.
 
-4. Na karte **Azure Information Protection – Unified labeling** Blade kliknite na položku **aktivovať** a postupujte podľa pokynov online.
+4. Na obrazovke **Azure Information Protection – Unified labeling** blade kliknite na položku **Aktivovať a** postupujte podľa online pokynov.
 
-**Poznámka**: Skontrolujte, či máte príslušné povolenia pred aktiváciou migrácie centra zabezpečenia & súladu. Ďalšie informácie nájdete v týchto článkoch:
+**Poznámka:** Pred aktiváciou migrácie Centra zabezpečenia a dodržiavania súladu overte, či & príslušné povolenia. Ďalšie informácie nájdete v týchto článkoch:
 
-1. [Musíte byť globálnym správcom na konfiguráciu služby Azure Information Protection alebo môžem delegovať na iných správcov?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [Potrebujete byť globálnym správcom na konfiguráciu služby Azure Information Protection alebo môžem delegovať na iných správcov?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [Dôležité informácie o rolách správcu po migrácii do centra zabezpečenia & dodržiavania súladu.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [Dôležité informácie o rolách správcu po migrácii do centra zabezpečenia & súladu.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-Ďalšie informácie o AIP na zjednotené označenie migrácie do centra zabezpečenia a dodržiavania súladu nájdete v téme [migrácia menoviek](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+Ďalšie informácie o AIP do zjednotenej migrácie označení do Centra zabezpečenia a dodržiavania súladu nájdete v téme [Migrácia označení.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)
