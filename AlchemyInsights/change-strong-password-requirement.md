@@ -1,8 +1,8 @@
 ---
-title: Zmena požiadavky na silné heslo
+title: Zmena požiadavku na silné heslo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
-ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
+ms.openlocfilehash: cf5cab9a1c2dd4226997d93417dc7104347f8a6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48804438"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818483"
 ---
-# <a name="change-strong-password-requirement"></a>Zmena požiadavky na silné heslo
+# <a name="change-strong-password-requirement"></a>Zmena strong password requirement
 
-Spoločnosť Microsoft vyžaduje na základe predvoleného nastavenia silné heslá.
+Spoločnosť Microsoft v predvolenom nastavení vyžaduje silné heslá.
 
-Pomocou prostredia PowerShell môžete vypnúť silné heslá pre konkrétnych používateľov s týmito príkazmi:
+Pomocou prostredia PowerShell môžete zakázať silné heslá pre konkrétnych používateľov pomocou týchto príkazov:
 
 `Set-MsolUser –UserPrincipalName <UserPrincipalName> –StrongPasswordRequired  $false`
 
-Ak chcete vypnúť silné heslá pre všetkých používateľov, použite tento postup:
+Ak chcete zakázať silné heslá pre všetkých používateľov, použite:
 
 `Get-MsolUser | Set-MsolUser -StrongPasswordRequired $false`
 
 - [Ďalšie informácie o politike hesiel](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Pripojenie k službe Microsoft 365 s prostredím PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Ďalšie informácie o príkazoch prostredia PowerShell MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Pripojenie k službe Microsoft 365 pomocou prostredia PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Ďalšie informácie o príkazoch v prostredí PowerShell MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)

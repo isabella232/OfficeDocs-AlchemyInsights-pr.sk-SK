@@ -1,8 +1,8 @@
 ---
-title: Kvalita zvuku v Bluetooth je zlá
+title: Kvalita zvuku Bluetooth je nízka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685397"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820121"
 ---
 # <a name="fix-bluetooth-audio-quality-issue"></a>Riešenie problému s kvalitou zvuku Bluetooth
 
-Ak je vaše zariadenie Bluetooth pripojené, ale kvalita zvuku je zlá, vyskúšajte tieto kroky:
+Ak je zariadenie Bluetooth pripojené, no kvalita zvuku je nízka, vyskúšajte tento postup:
 
-- Skontrolujte, či sa zvuk prehráva prostredníctvom zariadenia Bluetooth. Vyberte položku **Spustiť**  >  **Nastavenie**  >  **System**  >  **zvukového**systému. V časti **vyberte výstupné zariadenie**vyberte zvukové zariadenie Bluetooth.
-- Pozastaviť ďalšie veci, ktoré môžu používať Bluetooth, napríklad zdieľanie súborov cez Bluetooth. Ďalšie informácie nájdete v téme [Riešenie problémov so zvukom vo Windowse 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Overte, či je v zariadení Bluetooth vybratá možnosť stereo, aby sa zaistila najkvalitnejší zvuk. Postupujte takto: 
-    1. Na pravej strane panela úloh vyberte položku **Hlasitosť**a potom vyberte ikonu Chevron a vyberte prehrávacie zariadenie.
-    2. Vyberte zariadenie Bluetooth a skontrolujte, či je vybratá možnosť **stereo** . (Možnosť nižšej kvality zvuku je **bez použitia rúk**.)
-    3. Ak stereo nie je k dispozícii ako voliteľná možnosť, odstráňte zariadenie v zariadeniach s **nastaveniami**  >  **Devices**  >  **Bluetooth & iné zariadenia**a potom ho znova pridajte. Potom znova skontrolujte panel **hlasitosti** , aby ste sa uistili, že je vybratý stereofónny.
+- Skontrolujte, či sa zvuk prehráva cez zariadenie Bluetooth. Vyberte **položku Start** Settings System Sound  >    >  **(Nastavenie Štart**  >  **Systémový zvuk).** V **časti Vyberte výstupné zariadenie** vyberte zvukové zariadenie Bluetooth.
+- Pozastavte ostatné veci, ktoré môžu používať Bluetooth, napríklad zdieľanie súborov cez Bluetooth. Ďalšie informácie nájdete v téme Riešenie [problémov so zvukom vo Windowse 10.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
+- Skontrolujte, či je pre zariadenie Bluetooth vybraté stereofónne zariadenie, aby ste zabezpečili najlepšiu kvalitu zvuku. Ako na to: 
+    1. Na pravej strane panela úloh vyberte **položku** Hlasitosť a potom vyberte ikonu výložky a vyberte prehrávacie zariadenie.
+    2. Vyberte zariadenie Bluetooth a skontrolujte, či je vybratá možnosť **Stereo.** (Možnosť nižšej kvality zvuku je **Hands-Free.)**
+    3. Ak stereo nie je k dispozícii ako možnosť, odstráňte zariadenie v časti Nastavenie zariadení Bluetooth & iných zariadeniach a potom zariadenie  >    >  znova pridajte. Potom znova skontrolujte panel **hlasitosti** a skontrolujte, či je vybratá možnosť stereofónu.
 

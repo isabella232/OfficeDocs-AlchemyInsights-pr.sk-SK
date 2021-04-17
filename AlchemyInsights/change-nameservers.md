@@ -2,22 +2,23 @@
 title: Zmena názvových serverov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: f295e0d7872a13cf47e386343b159e51bc0504de
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 67680a6fa514d31ccb88cc8691a199cd1f58a402
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508103"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818627"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualizácia názvových serverov domény, aby smerovali na Microsoft
 

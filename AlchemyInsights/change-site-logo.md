@@ -2,9 +2,10 @@
 title: Zmena loga lokality
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: e7873d2d0bdde96556d7852811dfdfd6aafebbc6
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.openlocfilehash: 8c45b297feb06d73121b8a473ef28c3820160316
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43955805"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818519"
 ---
 # <a name="change-site-logo"></a>Zmena loga lokality
 

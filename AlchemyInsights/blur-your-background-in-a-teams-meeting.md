@@ -2,21 +2,22 @@
 title: Rozmazanie pozadia počas schôdze cez Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3815"
 - "9001720"
-ms.openlocfilehash: 5e1b2c54071eabda51724b300a9ef75888d7062f
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 4d708e4c71ca9fb18f04121056007041e49fb7e5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707725"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820085"
 ---
 # <a name="blur-your-background-in-a-teams-meeting"></a>Rozmazanie pozadia počas schôdze cez Teams
 
