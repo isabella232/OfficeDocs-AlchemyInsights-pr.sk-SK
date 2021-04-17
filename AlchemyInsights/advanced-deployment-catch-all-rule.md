@@ -1,8 +1,8 @@
 ---
-title: Rozšírené nasadenie Chyť všetky pravidlo
+title: Advanced Deployment Catch All Rule
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 audience: ITPro
 ms.topic: article
@@ -13,20 +13,20 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ec85676df299227a895c2755e8c26f9227fd113b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123002"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821786"
 ---
-# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Inštalácia balíka Office so službou poradca pre nasadenie aplikácií Microsoft 365
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Inštalácia balíka Office s Poradcom pre nasadenie aplikácií služby Microsoft 365
 
-[Poradca pre nasadenie aplikácií Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2145748) vám pomáha získavať zariadenia používateľov, ktorí používajú najnovšiu verziu produktov balíka Office, ako je napríklad Word, Excel, PowerPoint a OneNote.
+Poradca pri nasadení aplikácií služby [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2145748) vám pomôže so zariadeniami používateľov s najnovšou verziou produktov balíka Office, ako napríklad Word, Excel, PowerPoint a OneNote.
   
-Získate pokyny o rôznych spôsoboch nasadenia, ktoré zahŕňajú jednoduché možnosti automatickej inštalácie, ako aj nasadenie podnikov pomocou nástrojov na správu. Pokyny vám pomôžu zhodnotiť prostredie, zistiť konkrétne požiadavky nasadenia a implementovať potrebné nástroje podpory na zabezpečenie úspešnej inštalácie.
+Získate pokyny k rôznym metódam nasadenia, ktoré zahŕňajú možnosti jednoduchej samoinštalovania, ako aj podnikové nasadenie pomocou nástrojov na správu. Pokyny vám pomôžu vyhodnotiť vaše prostredie, zistiť konkrétne požiadavky na nasadenie a implementovať potrebné nástroje podpory na zabezpečenie úspešnej inštalácie.
   
-Ďalšie informácie o nastavení služieb Microsoft 365 a príprave prostredia pre služby Microsoft 365 a Office 365 nájdete v témach:
+Informácie o nastavení služby Microsoft 365 a príprave prostredia pre Microsoft 365 a služby Office 365 nájdete v téme:
 
-- [Príprava príručky pre životné prostredie](https://go.microsoft.com/fwlink/?linkid=2005213)
-- [Sprievodca nastavením programu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646)
+- [Príprava príručky pre prostredie](https://go.microsoft.com/fwlink/?linkid=2005213)
+- [Sprievodca nastavením služby Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646)

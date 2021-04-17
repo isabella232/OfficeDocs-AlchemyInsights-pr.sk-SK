@@ -1,8 +1,8 @@
 ---
-title: Prečo je pre mňa tlačidlo Pridať rozpočet vypnuté?
+title: Prečo je tlačidlo Pridať rozpočet pre mňa vypnuté?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,85 +12,85 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822650"
 ---
-# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Prečo je pre mňa tlačidlo Pridať rozpočet vypnuté?
+# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Prečo je tlačidlo Pridať rozpočet pre mňa vypnuté?
 
-Ak chcete vytvoriť rozpočet, budete potrebovať niektoré z nasledujúcich povolení:
+Ak chcete vytvoriť rozpočet, potrebujete jedno z nasledujúcich povolení:
 
-- Skupina správy, predplatné, rozsahy skupiny zdrojov
-- Prispievateľ správy nákladov
+- Management Group, Subscription, Resource Group Scopes
+- Prispievateľ riadenia nákladov
 - Vlastník
 - Prispievateľ
-- Iba podnikový zákazník: registrácia, oddelenie, rozsahy kont
-- Správca registrácie (nastavte rozpočet na rozsah registrácie)
-- Správca oddelenia (nastaviť rozpočet na oddelenie rozsahu)
-- Vlastník konta (nastavte rozpočet na rozsah konta)
-- Iba moderná zmluva o zákazníkovi: fakturačné konto, profil fakturácie, rozsahy sekcie fakturácie
-- Tvorca predplatného Azure
+- Iba podnikový zákazník: registrácia, oddelenie, rozsahy zákazníkov
+- Správca registrácie (nastaviť rozpočet v rozsahu Registrácia)
+- Správca oddelenia (nastavenie rozpočtu v rozsahu oddelení)
+- Vlastník konta (nastaviť rozpočet v rozsahu Konto)
+- Modern Customer Agreement Only: Billing Account, Billing Profile, Invoice Section Scopes
+- Tvorca predplatného na Azure
 
-**Vytvoril som rozpočet, keď moje náklady na aktuálny mesiac už boli viac než rozpočtové. Prečo sa mi nezobrazilo upozornenie?**  
-Ak ste už prekročili určitú prahovú hodnotu nákladov, keď vytvoríte rozpočet, ktorý upozornenie nebude k požiaru. Po začatí nového cyklu, ak porušíte prahovú hodnotu, potom sa upozornenie spustí.
+**Vytvoril/-a som rozpočet, keď náklady na aktuálny mesiac už boli nadrozpočtové. Prečo sa mi nevyhodí upozornenie?**  
+Ak ste už prekročili stanovenú prahovú hodnotu nákladov, keď vytvoríte rozpočet, ktorý sa nevyzná. Po začatí nového cyklu sa po narušení prahovej hodnoty spustí upozornenie.
 
-**Kedy mám očakávať, že dostanem upozornenie, keď prekročím jeden z mojich definovaných prahov upozornení na rozpočet?**  
-Rozpočty sa hodnotia každých 4 hodín. Ak chcete, aby sa údaje o používaní dosiahli do systému rozpočtov, trvá minimálne 8 hodín. Na základe tohto upozornenia môže trvať až 12 hodín, kým neprekročíte prahovú hodnotu.
+**Kedy očakávam prijatie upozornenia, keď presiahnem jednu z definovaných prahových hodnôt upozornení na rozpočet?**  
+Rozpočty sa vyhodnocujú raz za 4 hodiny. Kým údaje o používaní dosiahnu systém rozpočtov, trvá minimálne 8 hodín. Upozornenie môže po prekročenie prahovej hodnoty trvať až 12 hodín.
 
-**Prečo je tlačidlo dátum začatia vypnuté, keď vyberiete obdobie obnovenia mesiaca alebo fakturácie mesiaca?**  
-Rozpočtové prostriedky sú zarovnané na aktuálny kalendárny mesiac alebo aktuálne fakturačné obdobie (v prípade, že je vybratá položka Fakturácia month). Preto sme pred vyplnením tejto hodnoty.
+**Prečo je tlačidlo Počiatočný dátum vypnuté, keď vyberiem obdobie vynulovania mesiaca alebo fakturácie?**  
+Rozpočty sa zosúlaďuje s aktuálnym kalendárnym mesiacom alebo aktuálnym fakturačným obdobím (v prípade, že je vybratý fakturačný mesiac). Preto sme túto hodnotu vopred vyplniť za vás.
 
-**Prečo sa nezobrazuje graf mojich nákladov v rámci vytvárania rozpočtu?**  
-Na vykreslenie grafu, ktorý vám pomôže s vytvorením rozpočtu, potrebujeme minimálne 2 mesiace údajov o nákladoch.
+**Prečo sa mi v tvorbe rozpočtu zobrazuje graf nákladov?**  
+Pred vykreslením grafu, ktorý vám pomôže s vytváraním rozpočtu, potrebujeme údaje minimálne o 2 mesiace.
 
 **Prečo nemôžem nastaviť rozpočet na predplatné, ktoré som práve vytvoril?**  
-Po vytvorení predplatného údaje trvá 24-48 hodín na spracovanie pred nastavením rozpočtu.
+Po vytvorení predplatného údaje zaberú 24 až 48 hodín, kým pre ne nastavia rozpočet.
 
-**Zdroje informácií o rozpočte API**
+**Rozpočtové zdroje rozhrania API**
 
-- [Rozpočet API v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): poskytuje operácie na vytváranie a aktualizáciu rozpočtov. Pomocou rozhrania API rozpočty môžete nastaviť rozpočtovú prahovú hodnotu a nakonfigurovať viacero upozornení na oheň pri prístupe k tejto hranici. Výstrahy môžu vyvolať e-maily alebo akcie skupiny Azure na vykonávanie automatizácie. Poznámka: filtrovanie tohto rozhrania API sa nezarovná s filtrovaním a rozmermi API dotazov.
-- [Rozpočet API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): vytvorenie rozpočtov s vyššou možnosťou filtrovania nákladov ako v1. Filtrovanie sa zarovná k zmluve použitej v našich dotazoch a dimenziách API. Toto je odporúčaný rozpočet API na používanie posúvania dopredu.
-- [Dimenzie](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): poskytuje operácie na získanie podporovaných dimenzií používania v rámci rôznych rozsahov. Pomocou rozhrania API dimenzie môžete získať zoznam dimenzií, ktoré možno použiť ako vstupy na generovanie dotazov pomocou rozhrania API dotazov.
-- [Query](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): poskytuje operácie na získanie agregovaných nákladov a údajov o používaní na základe vami poskytnutých dotazov. Pomocou rozhrania API dotazu môžete zadať požadované filtrovanie, zoradenie a zoskupenie všetkých dostupných dimenzií (prístupných z rozhrania API pre dimenzie).
+- [Rozhranie API pre rozpočty v1:](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support)Poskytuje operácie na vytvorenie a aktualizáciu rozpočtov. Pomocou rozhrania BUDGETS API môžete nastaviť prahovú hodnotu rozpočtu a nastaviť, aby sa pri prístupe k tejto prahovej hodnote nastavili viaceré upozornenia, ktoré sa majú ohliť. Upozornenia môžu spustiť e-mail alebo skupinu akcií Azure a vykonať automatizáciu. Poznámka: Filtrovanie tohto rozhrania API sa nezarovnáva s filtrovaním a rozmermi rozhrania API dotazu.
+- [Rozhranie API pre rozpočty v2:](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json)Vytvorenie rozpočtov s väčšími možnosťami filtrovania nákladov ako v1. Filtrovanie sa zarovná podľa zmluvy používanej v rozhraní API dotazov a dimenzií. Toto je odporúčané rozhranie API pre rozpočty na posúvanie ďalej.
+- [Rozmery:](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support)Poskytuje operácie na získanie podporovaných dimenzií pre vaše použitie v rôznych rozsahoch. Pomocou rozhrania API dimenzií môžete načítať zoznam dimenzií, ktoré možno použiť ako vstupy na generovanie dotazov pomocou rozhrania API dotazu.
+- [Dotaz:](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support)Poskytuje operácie na získanie agregovaných údajov o nákladoch a používaní na základe dotazu, ktorý poskytnete. Pomocou rozhrania Query API môžete zadať požadované filtrovanie, zoradenie a zoskupenie podľa všetkých dostupných dimenzií (ktoré sú prístupné prostredníctvom rozhrania API dimenzií).
 
-**Prognózované náklady**
+**Predpokladané náklady**
 
-**Prečo sa v analýze nákladov nezobrazujú prognózy pre moje náklady?**  
-Existuje viacero dôvodov, prečo môže byť v analýze nákladov v rámci analýzy nákladov chýbajúca prognóza, niektoré z nich sú nasledovné:
+**Prečo sa mi v analýze nákladov prognózy mojich nákladov zobraziť?**  
+Prognózy prognózy môžu pre vás v analýze nákladov chýbať z viacerých dôvodov, niektoré z nich sú nasledovné:
 
-1. Ak je váš údaj o nákladoch menší ako 10 dní, prognózovaný graf sa nenačíta. Model vyžaduje minimálne 10 dní najnovších údajov o nákladoch na presné výčnelky
-2. Ak ste vybrali možnosť historické dátumy, nezobrazí sa prognózovaný graf. Vyberte rozsah dátumov s budúcimi dátumami, ktoré sa majú zobraziť v prognóze grafu.
-3. Ak máte vo svojom konte viaceré meny, v prognózovanom grafe sa zobrazia iba náklady na projekt za všetky náklady v USD.
+1. Ak sú vaše údaje o nákladoch menšie ako 10 dní, graf prognózy sa načíta. Model vyžaduje minimálne 10 dní posledných údajov o nákladoch na presné prognózy.
+2. Ak ste vybrali historické dátumy, graf s prognózou sa nebude zobrazovať. Vyberte rozsah dátumov s budúcimi dátumami na zobrazenie grafu prognózy
+3. Ak vaše konto používa viacero mien, graf prognózy bude projekt iba pre všetky náklady v USD.
 
-**Prečo sa po vykonaní zmien v mojich zdrojoch nezmení prognóza?**  
-V modeli Forecast sa vyžaduje niekoľko dní, aby sa zohľadnili zmeny v konte a nevykonali sa okamžité projekcie na základe zmeny zdrojov.  
-Pri väčších krokoch na zvýšenie alebo zníženie zdrojov bude model trvať o niečo dlhšie, kým sa tieto zmeny prispôsobia anomáliám.
+**Prečo sa pri zmenách v zdrojoch nemení prognóza?**  
+Model prognózy vyžaduje, aby zmeny v konte boli vykonané niekoľko dní a na základe zmien v zdrojoch sa okamžité prognózy nevymýšli.  
+V prípade väčších krokov zvýšenia alebo zníženia zdrojov bude úpravu týchto zmien v prípade anomálií trvať o niečo dlhšie
 
-**Prečo sa po zakúpení rezervácie alebo trhoviska zvýšila moja predpoveď počasia?**  
-V modeli Forecast sa považuje za skutočné náklady a nevzťahuje sa na použitie a zakúpenie samostatne. Pri jednorazovom nákupe bude model klesať po 10 dňoch, aby sa zohľadnilo náhle zvýšenie nákladov
+**Prečo sa moja prognóza zväčšuje po zakúpení rezervácie alebo služby Marketplace?**  
+Model prognózy zohľadňuje skutočné náklady a nezahŕňa použitie a nákup samostatne. Pri jednonákupe model po 10 dňoch zníži prognózy, aby sa u vás zrazu zvýšilo náklady
 
-**Chcem zobraziť prognózy pre jeden rozmer (napr. Meter**  
-Prognóza v súčasnosti podporuje celkový odhad nákladov a nie pre jednotlivé elektromery. Pri zoskupení podľa dimenzie bude mať projekcie celkový súčet všetkých položiek v dimenzii.
+**Chcem zobraziť prognózy pre jednu dimenziu (napr. Meter)**  
+Prognóza momentálne podporuje celkové prognózy nákladov, nie pre jednotlivé metre. Teda, keď sa dimenzia "Zoskupiť podľa" zobrazí ako súčet všetkých položiek dimenzie.
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
-- [Čo je spravovanie nákladov Azure?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Najvhodnejšie postupy spravovania nákladov Azure](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Čo je Azure Cost Management?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Osvedčené postupy riadenia nákladov služby Azure](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Analýza nákladov a výdavkov](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Skúmanie a analýza nákladov pomocou analýzy nákladov](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Správa nákladov Azure: ceny](https://azure.microsoft.com/services/cost-management/#pricing)
-- [Revízia nákladov na analýzu nákladov](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
-- [Video kurz: vytvorenie rozpočtu na portáli Azure](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
+- [Azure Cost Management: Ceny](https://azure.microsoft.com/services/cost-management/#pricing)
+- [Kontrola nákladov v analýze nákladov](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
+- [Videokuvor: Vytvorenie rozpočtu na portáli Azure](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
 - [Predpoklady na zobrazenie a prispôsobenie rozpočtov](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
 - [Vytváranie a správa rozpočtov](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
-- [Konfigurácia automatizácie pomocou Azure Action groups a rozpočty API](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
-- [Používanie upozornení o nákladoch na monitorovanie používania a výdavkov](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Najvhodnejšie postupy spravovania nákladov](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Konfigurácia automatizácie pomocou rozhrania Azure Action Groups a Budgets API](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
+- [Používanie upozornení na náklady na sledovanie používania a výdavkov](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Osvedčené postupy riadenia nákladov](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Výukové videá**
+**Videoku kurzy**
 
 - [Vytvorenie rozpočtu na portáli Azure](https://go.microsoft.com/fwlink/?linkid=2146761)
-- [Správa nákladov pomocou rozhrania API a akčných skupín pre rozpočty](https://go.microsoft.com/fwlink/?linkid=2147038)
+- [Riadenie nákladov pomocou rozhrania API pre rozpočty a skupín akcií](https://go.microsoft.com/fwlink/?linkid=2147038)

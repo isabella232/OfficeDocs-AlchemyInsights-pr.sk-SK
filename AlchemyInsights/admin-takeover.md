@@ -1,8 +1,8 @@
 ---
-title: Prevzatie správcu
+title: Prevzatie roly správcu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: 1fc7c7c3388420fb0ed93b9fad087cb3b8c95a0d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a5554a45b3b295500e34ea13016b4b07a844c8f4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707393"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821858"
 ---
-# <a name="become-an-admin"></a>Staňte sa správcom
+# <a name="become-an-admin"></a>Ako sa stať správcom
 
-Ak chcete prevziať rolu správcu pre túto organizáciu, musíte prevziať. Podrobné pokyny nájdete v pokynoch uvedených v tejto príručke: [ako vykonať prevzatie IT správcu prostredníctvom služieb O365](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)
+Ak chcete v tejto organizácii prevziať rolu správcu, musíte prevziať kontrolu. Podrobné pokyny nájdete v tejto príručke: Prevzatie roly [IT správcu so office 365.](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)

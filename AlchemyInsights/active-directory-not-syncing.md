@@ -1,8 +1,8 @@
 ---
-title: Synchronizácia služby Active Directory
+title: Nesynchronizuje sa Active Directory
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697644"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822866"
 ---
-# <a name="active-directory-not-syncing"></a>Synchronizácia služby Active Directory
+# <a name="active-directory-not-syncing"></a>Nesynchronizuje sa Active Directory
 
-Ak dostávate chyby synchronizácie, ako napríklad "bez poslednej synchronizácie", alebo si všimnete stav synchronizácie adresárov na portáli pre správcov balíka Office, v časti naposledy synchronizované pred viac ako 3 dňami sa môže stať, že AADConnect má nesprávne nastavenie alebo nedostatočné povolenia na vykonanie synchronizácie.  
+Ak sa vám zobrazuje chyba synchronizácie, napríklad "žiadna nedávna synchronizácia" alebo ak si všimnete stav synchronizácie adresárov na portáli pre správcov balíka Office, zobrazí sa hlásenie Posledná synchronizácia pred viac ako 3 dňami, môže to byť preto, že AADConnect má na vykonanie synchronizácie nesprávne nastavenia alebo nedostatočné povolenia.  
 
-Opätovná inštalácia AADConnect pomocou expresných nastavení môže problém vyriešiť rýchlo:
+Preinštalovanie služby AADConnect pomocou expresných nastavení môže problém rýchlo vyriešiť:
 
-1. [Stiahnite si najnovšiu verziu balíka AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Stiahnite si najnovšiu verziu aplikácie AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Postupujte podľa pokynov na expresné inštaláciu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Postupujte podľa pokynov pre expresnú inštaláciu.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Ďalšie informácie o kontách služby AADConnect nájdete v téme [Azure AD Connect: kontá a povolenia](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Ďalšie informácie o kontách služby AADConnect nájdete v téme [Azure AD Connect: kontá a povolenia.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

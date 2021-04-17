@@ -1,8 +1,8 @@
 ---
-title: Pridávanie externých používateľov
+title: Pridanie externých používateľov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: b54a5f9eb53d777eb97cc5523a4ed3b64a4a5812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ac235dd78f942dac4e9ec52af202d97439e61a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663456"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822110"
 ---
-# <a name="adding-external-users"></a>Pridávanie externých používateľov
+# <a name="adding-external-users"></a>Pridanie externých používateľov
 
-Postup pridávania externých alebo hosťujúcich používateľov sa môže líšiť v závislosti od toho, čo potrebujete, aby mohli získať prístup. Vyberte niektorú z týchto možností:
+Postup pridávania externých alebo hosťovských používateľov sa môže líšiť v závislosti od toho, k čomu ich potrebujete mať prístup. Vyberte niektorú z týchto možností:
   
 - [Prehľad externého zdieľania v SharePointe Online](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Hosťovský prístup v skupinách programu Microsoft 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Hosťovský prístup do skupín v Microsoft 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Hosťovský prístup v aplikácii Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Prístup hostí v aplikácii Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

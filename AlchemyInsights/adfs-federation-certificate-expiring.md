@@ -1,8 +1,8 @@
 ---
-title: Platnosť certifikátu ADFS federácia uplynula
+title: Uplynutie platnosti certifikátu federácie ADFS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: a3172bc402a22999a3bf963233cc26db1ddf2a03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686765"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821966"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>Platnosť certifikátu ADFS federácia uplynula
+# <a name="adfs-federation-certificate-expiring"></a>Uplynutie platnosti certifikátu federácie ADFS
 
-Ak chcete tento problém vyriešiť, postupujte podľa týchto krokov:
+Ak chcete tento problém vyriešiť, postupujte takto:
   
-1. Nainštalujte modul Microsoft Azure Active Directory pre Windows PowerShell v počítači (Ak modul ešte nie je nainštalovaný). Ak to chcete urobiť, prejdite na položku [Správa služby Azure AD pomocou prostredia Windows PowerShell](https://aka.ms/aadposh).
+1. Do počítača nainštalujte modul Microsoft Azure Active Directory pre Windows PowerShell (ak modul ešte nie je nainštalovaný). Ak to chcete urobiť, prejdite do [časti Spravovanie služby Azure AD pomocou prostredia Windows PowerShell.](https://aka.ms/aadposh)
 
-2. Postupujte podľa krokov v časti Scenár 1: platnosť certifikátu token podpisu tokenu AD FS uplynula časť ["Vyskytol sa problém s prístupom na lokalitu" z AD FS pri združenej používateľ prihlási do služby Microsoft 365, Azure alebo Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Postupujte podľa krokov v časti Scenár 1: Platnosť podpisového certifikátu tokenu služby ADFS uplynula v časti Vyskytol sa problém s prístupom na lokalitu zo služby ADFS, keď sa externý používateľ prihlási do služieb [Microsoft 365, Azure alebo Intune.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 
-3. Postupujte podľa krokov v téme [Aktualizácia alebo oprava nastavení externej domény v službe Microsoft, Azure alebo Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Postupujte podľa krokov v [článku Aktualizácia alebo oprava nastavení federnej domény v službe Microsoft, Azure alebo Intune.](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)
 
-    Ďalšie informácie o obnovovaní certifikátov federácie nájdete v téme [obnovenie certifikátov federácie pre služby Microsoft 365 a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Ďalšie informácie o obnovení certifikátov federácie nájdete v téme Obnovenie [certifikátov federácie pre Microsoft 365 a Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)
