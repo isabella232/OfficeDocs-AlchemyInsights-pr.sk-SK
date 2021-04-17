@@ -2,9 +2,10 @@
 title: MC210173 – Odstavenie novej funkcie vlastných formulárov pre SharePoint Designer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "5508"
 - "9000127"
 - "5507"
-ms.openlocfilehash: 185e8fc94345b240667490b1ffc63af8459d8daf
-ms.sourcegitcommit: a9e6b2fcce8bd12fd079ed967f426b67d5c6d239
+ms.openlocfilehash: 5be1ac4c8a4044adbc7d37c32ba7b3cb67c6cc25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43928542"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831821"
 ---
 # <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173 – Odstavenie novej funkcie vlastných formulárov pre SharePoint Designer
 

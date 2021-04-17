@@ -2,7 +2,7 @@
 title: iOS 13 – iPadOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695952"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833162"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>aktualizácie pre iOS 13 +/iPadOS pre politiku podmieneného prístupu
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>Aktualizácie pravidiel podmieneného prístupu pre iOS 13+/iPadOS
 
-Ak sa vyskytnú problémy súvisiace s podmieneným prístupom na iPadoch, ktoré boli inovované na iPadOS (iOS 13 alebo novšiu verziu), prečítajte si nasledujúci článok z tímu AAD o zmenách, ktoré možno budete musieť vykonať, aby sa zabezpečilo, že podmienený prístup bude naďalej fungovať podľa potreby:
+Ak máte problémy týkajúce sa podmieneného prístupu na iPadoch, ktoré boli inovované na iPadOS (iOS 13 alebo novší), pozrite si nasledujúci článok tímu AAD o zmenách, ktoré možno bude potrebné vykonať, aby ste zabezpečili, že podmienený prístup bude fungovať podľa potreby:
 
-[Požadovaná akcia: vyhodnotí a aktualizuje politiky podmieneného prístupu v rámci prípravy na vydanie iPadOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Vyžaduje sa akcia: Vyhodnotenie a aktualizácia politík podmieneného prístupu v rámci prípravy na vydanie v iPadeOS](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

@@ -2,7 +2,7 @@
 title: 'Nastavenia klávesnice vo Windowse 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772818"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832982"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Nastavenia klávesnice vo Windowse 10
 
-**Typ nastavenia**
+**Nastavenia písania**
 
-Ak chcete zmeniť nastavenia Windowsu súvisiace s kontrolou pravopisu, automatickými opravami, návrhmi a ďalšími aspektmi hardvéru a dotykovej klávesnice, prejdite na **položky nastavenia > zariadenia > písanie**. 
+Ak chcete zmeniť nastavenia Windowsu súvisiace s kontrolou pravopisu, automatickou opravou, návrhmi a ďalšími aspektmi hardvéru a dotykovej klávesnice, prejdite na položky Nastavenia > Zariadenia **> Písanie**. 
 
-**Nastavenie jazyka a klávesnice**
+**Nastavenia jazyka a klávesnice**
 
-Ak chcete zmeniť nastavenia, ktoré súvisia s klávesnicou alebo metódou vstupu, ktorú chcete použiť pre jazyk Windowsu, prejdite na **položky nastavenia > času & jazyk > Language**. Vyberte položku jazyky v zozname **preferované jazyky** a kliknite na položku **Možnosti** , ak chcete pridať alebo odstrániť klávesnice alebo metódy vstupu (IME).
+Ak chcete zmeniť nastavenia súvisiace s klávesnicou alebo metódou vstupu, ktorá sa má použiť pre jazyk Windowsu, prejdite na položky **Nastavenia > Čas & jazyk > jazyk**. Vyberte jazyky v zozname **Preferované jazyky a** kliknutím na **položku Možnosti** pridajte alebo odstráňte klávesnice alebo metódy vstupu (IMEs).

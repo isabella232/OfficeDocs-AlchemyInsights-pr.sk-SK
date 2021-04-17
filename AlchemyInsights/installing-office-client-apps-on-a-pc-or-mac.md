@@ -2,7 +2,7 @@
 title: Inštalácia klientskych aplikácií balíka Office do PC alebo Macu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708365"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831965"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Inštalácia klientskych aplikácií balíka Office do PC alebo Macu
 
@@ -25,9 +25,9 @@ Ak chcete nainštalovať klientske aplikácie balíka Office, uistite sa, že m�
 
 **Poznámka**: [Office pre podnikateľov](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) je produkt balíka [Office pre domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a nie je súčasťou podnikového predplatného. Project Online Essentials nezahŕňa počítačovú verziu Projectu, preto inštalácia nie je potrebná. Používatelia s plánom Visio Plan 1 majú prístup k Visiu pre web, keďže tento plán nezahŕňa počítačovú aplikáciu Visio. Počítačové aplikácie Project a Visio nie sú k dispozícii v Macu.
 
-Ak máte predplatné, ktoré zahŕňa aplikácie Microsoft 365, nezobrazí sa vám možnosť inštalácie, pokiaľ nemáte [priradenú licenciu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ak ste správcom služieb Office 365 zodpovedným za priraďovanie licencií, pozrite si tému [Priradenie licencií používateľom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Môžete tiež použiť [nastavenia sťahovania softvéru balíka Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) a vybrať, či si používatelia budú môcť inštalovať aplikácie balíka ‎Office‎ do svojich zariadení.
+Ak máte predplatné, ktoré zahŕňa aplikácie Microsoft 365, možnosť na jeho inštaláciu sa nezobrazí, ak nemáte [priradenú licenciu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ak ste správcom služieb Office 365 zodpovedným za priraďovanie licencií, pozrite si tému [Priradenie licencií používateľom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Môžete tiež použiť [nastavenia sťahovania softvéru balíka Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) a vybrať, či si používatelia budú môcť inštalovať aplikácie balíka ‎Office‎ do svojich zariadení.
 
-**Poznámka**: [Správa o aktivácii balíka Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) poskytuje prehľad o tom, ktorí používatelia nainštalovali a aktivovali svoje aplikácie Microsoft 365 aspoň v jednom zariadení.
+**Poznámka:** Zostava [o aktivácii balíka Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) poskytuje zobrazenie, ktoré používatelia nainštalovali a aktivovali svoje aplikácie Služby Microsoft 365 na aspoň jednom zariadení.
 
 Následné pokyny pre každého používateľa:
 

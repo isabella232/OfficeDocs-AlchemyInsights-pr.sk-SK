@@ -2,21 +2,22 @@
 title: Inštalácia Windowsu do nefunkčného počítača
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: 5bd53d40f14a8116d2efa4a6a4bf0714381a2de4
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: e741b99dcc01aaabce001c8b8fe45161a1d3badd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034409"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832001"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>Inštalácia Windowsu do nefunkčného počítača
 

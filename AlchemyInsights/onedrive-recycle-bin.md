@@ -2,21 +2,22 @@
 title: Kôš OneDrivu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002305"
 - "4476"
-ms.openlocfilehash: 654c680c87ce5591243dfc71a12e01de79eae5c2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 79471086c9702dd379235d092405b08a13ca7d22
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761339"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832829"
 ---
 # <a name="onedrive-recycle-bin"></a>Kôš OneDrivu
 
