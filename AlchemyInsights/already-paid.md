@@ -1,8 +1,8 @@
 ---
-title: Ste už zaplatili?
+title: Už ste zaplatili?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9192eaeeb35a1adc00658f9248bc3bb5d26ae022
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718024"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821534"
 ---
-# <a name="already-paid"></a>Ste už zaplatili?
+# <a name="already-paid"></a>Už ste zaplatili?
 
-Ak ste už platbu odoslali, môžete nám to oznámiť:
+Ak ste už platbu odoslali, môžete nám o tom dajte vedieť:
   
-1. V centre spravovania prejdite na stránku predplatné na **fakturáciu** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V centre spravovania prejdite  na stránku \> [Predplatné fakturácie.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Vyberte predplatné a v časti **môj účet** vyberte položku **Zobraziť faktúru**.
+2. Vyberte predplatné a v časti **Moja faktúra** vyberte položku **Zobraziť faktúru**.
 
-3. Na stránke **Podrobnosti o fakturácii** vyberte možnosť **už zaplatená?** Zobrazí sa výzva na zadanie informácií súvisiacich s platbou, ktorá bola odoslaná.
+3. Na stránke **Podrobnosti faktúry** vyberte položku Už **zaplatené?** Zobrazí sa výzva na zadanie informácií týkajúcich sa odoslaných platieb.
 
 4. Po zadaní všetkých požadovaných informácií vyberte položku **Odoslať**.

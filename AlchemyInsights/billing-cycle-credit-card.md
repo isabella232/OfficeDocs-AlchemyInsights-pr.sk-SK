@@ -1,8 +1,8 @@
 ---
-title: Kreditná karta fakturačného cyklu
+title: Kreditná karta s fakturačným cyklusom
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: ce3cd7b592966399b5e79a8916e631cafcbb49fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7b8246b32ea86ef7261cf01639a226e8662f39c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686009"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820373"
 ---
-# <a name="payment-methods-for-microsoft-for-business"></a>Spôsoby platby pre Microsoft for Business
+# <a name="payment-methods-for-microsoft-for-business"></a>Spôsoby úhrady pre Microsoft for Business
 
-Pri zakúpení predplatného na Microsoft 365 for Business priamo od spoločnosti Microsoft môžete platiť kreditnou alebo debetnou kartou. V niektorých krajinách alebo oblastiach môžete platiť aj prostredníctvom bankového konta.
+Pri zakúpením predplatného na Microsoft 365 for business priamo od spoločnosti Microsoft môžete zaplatiť kreditnou alebo debetnou kartou. V niektorých krajinách alebo oblastiach môžete zaplatiť aj pomocou bankového konta.
   
-Ak sa rozhodnete použiť kreditnú kartu ako svoj spôsob úhrady, môžete sa naučiť spravovať a riešiť problémy pri [spravovaní spôsobov platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ak sa rozhodnete ako spôsob úhrady použiť kreditnú kartu, informácie o spravovaním a riešení problémov nájdete v časti [Spravovanie spôsobov úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
   
-Tento článok obsahuje aj návrhy na riešenie problémov, keď je vaša kreditná karta odmietnutá, a informácie o zmene informácií o kreditnej karte, aby bola karta prijatá.
+Tento článok obsahuje aj návrhy na riešenie problémov s odmietnutou kreditnou kartou a informácie o zmene informácií o kreditnej karte s cieľom jej prijatí.

@@ -1,8 +1,8 @@
 ---
-title: Požiadajte správcu o povolenie aplikácie Microsoft teams
+title: Požiadajte svojho správcu o povolenie aplikácie Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716260"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821201"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Chýba vám to! Požiadajte správcu o povolenie aplikácie Microsoft teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Premešli ste! Požiadajte svojho správcu o povolenie aplikácie Microsoft Teams
 
-Ak máte nájomníka EDU, Microsoft Teams je potrebné povoliť manuálne. Ak to chcete urobiť, prejdite do centra spravovania služieb Microsoft 365 > **služby a doplnky > Microsoft teams**. Ak používate centrum spravovania pre nové tímy, budete musieť vypnúť **vyskúšať nové centrum spravovania**    **a vyhľadať služby a doplnky**. 
+Ak máte nájomníka EDU, Microsoft Teams je potrebné povoliť manuálne. Ak to chcete urobiť, prejdite do Centra spravovania služby Microsoft 365 >o službách a  **> Microsoft Teams.** Ak používate nové Centrum spravovania služby Teams, budete **** musieť vypnúť možnosť Vyskúšať nové centrum spravovania na vyhľadanie   služieb a **doplnkov.** 
 
-**Dôležité**: Ak chcete, aby sa zmeny prejavili, budete musieť počkať až 24 hodín.
+**DÔLEŽITÉ:** Zmeny sa prejavia do 24 hodín.
