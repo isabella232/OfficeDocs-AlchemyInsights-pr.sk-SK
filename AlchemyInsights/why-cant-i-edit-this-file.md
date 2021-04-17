@@ -1,8 +1,8 @@
 ---
-title: Prečo nemôžem tento súbor upraviť?
+title: Prečo nemôžem upraviť tento súbor?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6597a0665b165eafe92baca99b0061111f333e6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664581"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824162"
 ---
-# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="88f78-102">Prečo nemôžem tento súbor upraviť?</span><span class="sxs-lookup"><span data-stu-id="88f78-102">Why can’t I edit this file?</span></span>
+# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="d8ced-102">Prečo nemôžem upraviť tento súbor?</span><span class="sxs-lookup"><span data-stu-id="d8ced-102">Why can’t I edit this file?</span></span>
 
-<span data-ttu-id="88f78-103">Ak je dokument, hárok alebo prezentácia zamknutý na úpravy a nie je možné ho upravovať v počítačových aplikáciách systému Windows, môže to byť súbor upravovaný niekým iným, alebo má súbor vzatý z projektu.</span><span class="sxs-lookup"><span data-stu-id="88f78-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
+<span data-ttu-id="d8ced-103">Ak je dokument, hárok alebo prezentácia zamknutá na úpravy a nemožno ju upravovať v počítačových aplikáciách Windowsu, môže ísť o súbor, ktorý upravuje niekto iný alebo ak má súbor vzatý z sebe.</span><span class="sxs-lookup"><span data-stu-id="d8ced-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
 
-<span data-ttu-id="88f78-104">Prezrite si niektoré z dôvodov, [Prečo nebudete môcť súbor upravovať](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="88f78-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="d8ced-104">Pozrite si stručný prehľad niektorých dôvodov, prečo nie je [možné súbor upravovať.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)</span><span class="sxs-lookup"><span data-stu-id="d8ced-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
