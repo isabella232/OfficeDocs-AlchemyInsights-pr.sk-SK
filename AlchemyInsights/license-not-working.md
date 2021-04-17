@@ -2,21 +2,22 @@
 title: Licencia nefunguje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 18361bf7f06775dfd481b1246707bacf25b48dea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2e915860046dd66c7d7642c0b031717c2113681f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719900"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836510"
 ---
 # <a name="license-not-working"></a>Licencia nefunguje
 

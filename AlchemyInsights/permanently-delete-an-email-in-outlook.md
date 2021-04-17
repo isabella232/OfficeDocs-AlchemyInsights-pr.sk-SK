@@ -2,7 +2,7 @@
 title: Trvalé odstránenie e-mailu v Outlooku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771700"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836114"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Trvalé odstránenie e-mailu v Outlooku
 
-- V zobrazení Doručená pošta stlačte dlhé stlačenie správy a zobrazí sa ikona kôš môže. Ťuknutím na túto ikonu správu odstránite.
+- V zobrazení doručenej pošty stlačte dlhé stlačenie správy a zobrazí sa ikona koša. Ťuknutím na túto ikonu správu odstránite.
 
-- Môžete tiež nastaviť možnosť "Delete" (odstrániť) ako funkciu výpadok prstov (**nastavenia – > možnosti potiahnutím prstom**). potom potiahnite prstom na pošte, ktorú chcete odstrániť. 
+- Môžete tiež nastaviť "odstrániť" ako možnosť potiahnutie prstom (**Nastavenia -> Možnosti potiahovania prstom**); a potiahnite prstom po pošte, ktorú chcete odstrániť. 
 
-- Ak chcete odstrániť správu z otvoreného zobrazenia e-mailu, ťuknite na ikonu Kôš sa zobrazí v hornej časti obrazovky. Odstránené správy sa presunú do priečinka Kôš. 
+- Ak chcete správu odstrániť zo zobrazenia otvoreného e-mailu, ťuknite na ikonu koša v hornej časti obrazovky. Odstránené správy sa premiestnia do priečinka Kôš. 
 
 **Trvalé odstránenie e-mailu**
 
-- Prístup k priečinku Kôš z zobrazenia pošta, ťuknite na ikonu konta (3 riadky) a ťuknite na priečinok Kôš.
+- V zobrazení pošty pristupte k priečinku Koša, ťuknite na ikonu konta (3 riadky) a potom ťuknite na priečinok Koša.
 
-- Odstrániť jednotlivé e-maily alebo Označiť viacero e-mailov a odstrániť ich z tohto miesta, natrvalo sa odstránia.
+- Odstráňte jednotlivé e-maily alebo označte viacero e-mailov a odstráňte ich z tohto miesta. natrvalo sa odstránia.

@@ -2,21 +2,22 @@
 title: 'Počítačová verzia Outlooku: Odosielanie odpovedí Mimo pracoviska'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: df23102cd5d9d5b7e60e4f05187c029ba62de22c
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: 00f295a860c7ac7070b70929a675cfe114e5ed8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506662"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836186"
 ---
 # <a name="outlook-desktop-send-out-of-office-replies"></a>Počítačová verzia Outlooku: Odosielanie odpovedí Mimo pracoviska
 
