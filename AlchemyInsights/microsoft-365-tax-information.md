@@ -2,21 +2,22 @@
 title: Informácie o daniach pre Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4896"
-ms.openlocfilehash: c99eb848d7c188fc620ccee1ed201e5990d7a261
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 8482500972167da0eb25eaeb4ed0381a4485e6b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286715"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829940"
 ---
 # <a name="microsoft-365-tax-information"></a>Informácie o daniach pre Microsoft 365
 

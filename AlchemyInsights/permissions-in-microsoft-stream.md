@@ -1,8 +1,8 @@
 ---
-title: Povolenia v Microsoft streame
+title: Povolenia v Microsoft Streame
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cd3b2e5c8d1bd336029e14051ebfe0eb069827d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721426"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829031"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Povolenia v Microsoft streame
+# <a name="permissions-in-microsoft-stream"></a>Povolenia v Microsoft Streame
 
-Pri nahrávaní videa sa predvolene nastavia povolenia pre video, ktoré sa má zobraziť pre celú spoločnosť. Ak chcete zadať povolenia pre konkrétnych používateľov alebo skupiny, môžete prispôsobiť povolenia pre video.
+Pri nahrávaní videa sú predvolene nastavené povolenia na zobrazenie videa celej spoločnosti. Ak chcete zadať povolenia pre konkrétnych používateľov alebo skupiny, môžete prispôsobiť povolenia pre video.
 
 - [Povolenia a ochrana osobných údajov v Microsoft Streame](https://docs.microsoft.com/stream/portal-permissions)
 

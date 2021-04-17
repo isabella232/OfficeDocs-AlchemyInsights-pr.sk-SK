@@ -2,21 +2,22 @@
 title: Riešenie bežných problémov so synchronizáciou služby AAD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4867"
-ms.openlocfilehash: bb44841a83e76cef67eb72e9aee99b18c24d7f02
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: d26e49421b1b0c1d8ce79121f8dbdea16a06c552
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211470"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828239"
 ---
 # <a name="solutions-to-common-aad-synchronization-problems"></a>Riešenie bežných problémov so synchronizáciou služby AAD
 

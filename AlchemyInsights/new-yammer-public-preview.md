@@ -2,21 +2,22 @@
 title: Nová verejná ukážka Yammeru
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: ca0fbdd17254ec1a909e613648d9ff9c9d53da16
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 47ea8e4d45c6ae2ec32cda6abc05c993bbcac4c8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022619"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829679"
 ---
 # <a name="new-yammer-public-preview"></a>Nová verejná ukážka Yammeru
 

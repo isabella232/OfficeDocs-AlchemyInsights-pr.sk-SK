@@ -2,21 +2,22 @@
 title: Politika obmedzovania toku údajov pre Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: 5e35683adb690236ec8f673d5c7b6b01a0a428eb
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 78013788db0a685253c8575514aaab2bebe1f8b1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530602"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829904"
 ---
 # <a name="microsoft-365-throttle-policies"></a>Politika obmedzovania toku údajov pre Microsoft 365
 

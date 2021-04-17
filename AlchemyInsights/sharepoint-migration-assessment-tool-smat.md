@@ -2,7 +2,7 @@
 title: Nástroj na hodnotenie migrácie SharePointu (SMAT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 6e8ad270af42c78638038e991d35b3c03a43af3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c6cc5a2b0500a5e83f70c015e3cd55320c1fa89
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661971"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828383"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>Nástroj na hodnotenie migrácie SharePointu (SMAT)
 
-Nástroj na hodnotenie migrácie SharePointu (SMAT) je jednoduchý spustiteľný súbor s príkazovým riadkom, ktorý skontroluje obsah farmy SharePoint, aby vám pomohol identifikovať vplyv migrácie servera na SharePoint Online pomocou služby Microsoft 365.
+SharePointový nástroj na hodnotenie migrácie (SMAT) je jednoduchý spustiteľný príkazový riadok, ktorý prehľadá obsah vašej farmy SharePoint a pomôže identifikovať vplyv migrácie servera do SharePointu Online so systémom Microsoft 365.
 
 [Prehľad nástroja na hodnotenie migrácie SharePointu](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)

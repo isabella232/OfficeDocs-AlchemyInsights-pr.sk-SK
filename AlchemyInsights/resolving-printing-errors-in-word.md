@@ -2,7 +2,7 @@
 title: Riešenie chýb tlače vo Worde
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720877"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828707"
 ---
-# <a name="resolving-print-failures-in-word"></a>Riešenie chýb tlače vo Worde
+# <a name="resolving-print-failures-in-word"></a>Riešenie problémov s tlačou vo Worde
 
-Ak pri tlači vo Worde dostávate chyby, skúste vytlačiť z nového skúšobného dokumentu, aby ste zistili, či váš problém súvisí s konkrétnym dokumentom.
+Ak sa pri tlači vo Worde vyskytujú chyby, skúste vytlačiť z nového testovacieho dokumentu a zistiť, či problém súvisí s konkrétnym dokumentom.
 
-- Ak môžete tlačiť z skúšobného dokumentu, ale stále nie je možné vytlačiť pôvodný dokument, pôvodný dokument môže byť poškodený. Postupujte podľa pokynov v [téme Riešenie problémov s poškodenými dokumentmi vo Worde](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- Ak sa stále nedá tlačiť, postupujte podľa pokynov v téme [Riešenie problémov s tlačou v programe Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) na diagnostiku a vyriešenie problému.
+- Ak sa z testovacieho dokumentu dá vytlačiť, no napriek tomu nemôžete vytlačiť pôvodný dokument, pôvodný dokument môže byť poškodený. Postupujte podľa pokynov v [časti Riešenie problémov s poškodenými dokumentmi vo Worde.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)
+- Ak stále nie je možné tlačiť, vykonajte diagnostiku a vyriešenie problému podľa pokynov v časti Riešenie problémov s tlačou vo [Worde.](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)

@@ -2,21 +2,22 @@
 title: Mikro oneskorenia alebo obmedzovanie v prostredí Exchange Online PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 7ab4e7f18b7b8edf08098af8fe9674f66b1b81f4
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43948032"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830048"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Mikro oneskorenia alebo obmedzovanie v prostredí Exchange Online PowerShell
 

@@ -2,21 +2,22 @@
 title: Skúšobná licencia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002620"
 - "5034"
-ms.openlocfilehash: 25ed81d4183d5fd803805dc04c241ed34f5ef682
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3e87aac06279aa64ca0dffcd5685ce7ce712652f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933395"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829319"
 ---
 # <a name="trial-license"></a>Skúšobná licencia
 

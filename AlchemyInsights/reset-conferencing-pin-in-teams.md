@@ -2,21 +2,22 @@
 title: Obnovenie PIN kódu konferencie v službe Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: 5276cbb084fb02507bd768eda1a33a1430644dbd
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 613dea3b5043ff53902bd797e3edc46afb5c7107
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933368"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828743"
 ---
 # <a name="reset-conferencing-pin-in-teams"></a>Obnovenie PIN kódu konferencie v službe Teams
 

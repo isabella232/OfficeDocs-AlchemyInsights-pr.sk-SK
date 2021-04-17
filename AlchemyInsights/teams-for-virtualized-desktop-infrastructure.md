@@ -1,8 +1,8 @@
 ---
-title: Teams pre virtualizovanú počítačovú infraštruktúru
+title: Teams pre virtualizovanú infraštruktúru pracovnej plochy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736447"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829427"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams pre virtualizovanú počítačovú infraštruktúru
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams pre virtualizovanú infraštruktúru pracovnej plochy
 
-Podrobné informácie o aplikácii teams pre virtualizované prostredie infraštruktúry pre stolné počítače nájdete v téme [teams pre virtualizovanú počítačovú infraštruktúru](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Podrobné informácie o aplikácii Teams pre prostredia Virtualizovanej infraštruktúry pracovnej plochy nájdete v téme [Tímy pre virtualizovanú infraštruktúru pracovnej plochy.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
-Známe problémy a obmedzenia v prostrediach VDI sú uvedené v časti [známe problémy a obmedzenia ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) toho istého článku, ktoré obsahujú tieto témy:
- - Nasadenie klientov, inštalácia a nastavenie
- - Hovory a schôdze
+Známe problémy a obmedzenia v prostrediach VDI sú podrobne uvedené v časti Známe problémy a obmedzenia toho istého článku, ktorá obsahuje tieto témy: [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations)
+ - Nasadenie, inštalácia a nastavenie klienta
+ - Volanie a schôdze
