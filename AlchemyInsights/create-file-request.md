@@ -2,7 +2,7 @@
 title: Vytvorenie žiadosti o súbor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: db3169c3ffd69af0987d6beb8a8142b6ca385253
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746954"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816026"
 ---
 # <a name="how-to-create-a-file-request"></a>Vytvorenie žiadosti o súbor
 
-Funkcia žiadosti o súbor vo OneDrive vám umožní vybrať priečinok, do ktorého môžu nahrávať súbory pomocou prepojenia, ktoré ste im odoslali. Používatelia, s ktorými žiadate súbory, nemôžu vidieť, čo sa nachádza v priečinku, môžu do neho nahrávať len súbory.
+Funkcia požiadavky na súbor vo OneDrive umožňuje vybrať priečinok, do ktorého môžu ostatní nahrať súbory pomocou prepojenia, ktoré im odošlete. Používatelia, od ktorých požiadate o súbory, nemôžu zobraziť obsah priečinka – môžu do neho nahrať len súbory.
 
-**Poznámka**: Správca musí povoliť [každému prepojeniam](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) v službe OneDrive požiadavky na súbor na prácu.
+**Poznámka: Správca** musí povoliť aplikácii [Ktokoľvek prepojenie vo](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) OneDrive, aby mohli žiadosti o súbory fungovať.
 
-- Ďalšie informácie nájdete v téme [Vytvorenie žiadosti o súbor](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- Ďalšie informácie nájdete v téme [Vytvorenie žiadosti o súbor.](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)

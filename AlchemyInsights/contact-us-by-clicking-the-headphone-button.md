@@ -2,7 +2,7 @@
 title: Kontaktujte nás kliknutím na tlačidlo slúchadiel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680915"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816971"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktujte nás kliknutím na tlačidlo slúchadiel
 
-Ak sa chcete obrátiť na oddelenie technickej podpory spoločnosti Microsoft, kliknite na položku **kontaktujte nás** v ľavom dolnom rohu tejto aplikácie. V okne preletieť sa budete riadiť správnym kanálom podpory po výbere produktu a kategórie problému.
+Ak chcete kontaktovať podporu spoločnosti Microsoft, kliknite na položku **Kontaktujte nás** v ľavom dolnom rohu tejto aplikácie. V rámci letového okna sa po výbere produktu a kategórie problému zobrazí sprievodca správnym kanálom podpory.
 
 ![Kontaktujte nás kliknutím na ikonu slúchadiel.](media/contact-us-headphone-icon.png)
 
-Interakciu so zvyškom aplikácie môžete naďalej používať aj po začatí schôdze cez kontakt. Panel kontakt sa môže dočasne minimalizovať kliknutím kdekoľvek inde v aplikácii. Ak sa chcete vrátiť k tej istej relácii, jednoducho kliknite na položku **kontaktujte nás** .
+So zvyškom aplikácie môžete naďalej komunikovať aj po tom, čo ste začali reláciu Kontaktujte nás. Panel Kontaktujte nás môžete dočasne minimalizovať kliknutím na ľubovoľné iné miesto v aplikácii. Ak sa chcete vrátiť do rovnakej relácie, stačí znova **kliknúť na položku Kontaktujte** nás.

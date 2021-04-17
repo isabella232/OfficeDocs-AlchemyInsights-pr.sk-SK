@@ -1,8 +1,8 @@
 ---
-title: Vytvorenie e-mailového úlovku všetkých
+title: Vytvorenie e-mailu na zachytenie všetkých
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713001"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816215"
 ---
-# <a name="create-an-email-catch-all"></a>Vytvorenie e-mailového úlovku všetkých
+# <a name="create-an-email-catch-all"></a>Vytvorenie e-mailu na zachytenie všetkých
 
-Používanie všetkých úlovkov je silne odradzované. Je lepšie poskytnúť odskočiť späť odosielateľovi, ktorí odosielajú odosielateľovi, že ich správa sa nedá dodať ako adresovaná, aby mohli konať. Môžete tiež obmedziť sledovanú poštovú schránku, aby sa len chytiť predtým platné e-mailové adresy. 
+Použitie všetkých záchytných údajov sa dôrazne neodporúča. Je lepšie vrátiť sa odosielateľovi, ktorý odosielateľovi dá vedieť, že sa ich správa nemôže doručiť ako adresa, aby mohol prijať opatrenia. Monitorovanú poštovú schránku môžete obmedziť iba na predtým platné e-mailové adresy. 
 
-Akýkoľvek úlovok všetky poštovej schránky dostane veľa nevyžiadanej pošty a môže nakoniec vyplniť, ak nie pozorne sledovať. (Dostávajú sa limity.) 
+Každý úchylovok všetkých poštových schránok dostane veľa nevyžiadanej pošty a nakoniec sa môže vyplniť, ak nie je podrobne monitorovaný. (Prijímacie limity.) 
 
 Ak sa rozhodnete pokračovať, postupujte takto:
 
-1. Vytvorenie dynamickej distribučnej skupiny & zahrnúť všetky typy príjemcov.
+1. Vytvorte dynamickú distribučnú skupinu& obsahuje položku Všetky typy príjemcov.
 
 2. Vytvorte vyhradenú poštovú schránku na zachytenie e-mailov, napríklad catchall@domain.com.
 
-3. Pre konkrétnu doménu nastavte DomainType na "InternalRelay". Ak neskôr odstránite všetky úlovky, nezabudnite nastaviť doménu späť na autoritatívne.
+3. Pre konkrétnu doménu nastavte položku DomainType na možnosť InternalRelay. Ak neskôr odstránite všetky, uistite sa, že ste doménu nastavili späť na možnosť Autoritatívny.
 
-4. Vytvorte pravidlo prenosu Poštyhttps://Configure.Office.com/scenario.aspx?sid=12 takto:
+4. Pravidlo prenosu mailflow je možné vytvoriť takto:
 
-    - Ak sa odosielateľ nachádza mimo organizácie
+    - Ak je odosielateľ "Mimo organizácie"
     - Presmerovať správu na Catchall@domain.com
-    - Okrem prípadov, keď je príjemca členom allusers@domain.com (distribučná skupina obsahuje všetkých členov)
-    - Overenie pridávania nových poštových schránok do dynamickej distribučnej skupiny
+    - Okrem prípadov, keď je príjemca členom člena allusers@domain.com (distribučná skupina obsahuje všetkých členov)
+    - Overenie pridania nových poštových schránok do dynamickej distribučnej skupiny

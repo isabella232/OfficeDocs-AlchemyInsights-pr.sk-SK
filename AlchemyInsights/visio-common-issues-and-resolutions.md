@@ -2,21 +2,22 @@
 title: Bežné problémy aplikácie Visio a riešenia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505214"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806601"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Bežné problémy aplikácie Visio a riešenia
 
@@ -24,7 +25,7 @@ Tu je niekoľko častých tém súvisiacich s aplikáciou Microsoft Visio:
 
 **Možnosti Visia Online**
 
-- Visio sa predáva ako [samostatná aplikácia](https://products.office.com/visio/flowchart-software). Správcovia si môžu zakúpiť [predplatné programu Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) v Centre spravovania služby Microsoft 365.
+- Visio sa predáva ako [samostatná aplikácia](https://products.office.com/visio/flowchart-software). Správcovia môžu zakúpiť [predplatné na Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) v centre spravovania služby Microsoft 365.
 
 - Visio ponúka [rôzne plány predplatného](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Ak vám v aplikácii Visio chýba nejaká funkcia, informácie o rozdieloch medzi plánmi Visio Plan 1 a Plan 2 nájdete v téme [Porovnanie možností pre Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).  Upozorňujeme, že Visio Online (Plan 1) nezahŕňa počítačovú verziu Visia.
 

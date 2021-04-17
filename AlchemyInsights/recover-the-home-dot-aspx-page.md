@@ -1,29 +1,30 @@
 ---
-title: Obnoviť stránku Home. aspx
+title: Obnovenie stránky Home.aspx
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: 58d882c7283ceac24f4306f474de5327fec03b64
-ms.sourcegitcommit: b196100759b29aecd62b693a2bfedbbd25a697c6
-ms.translationtype: MT
+ms.openlocfilehash: e235e7d29935dd9fa6e0c286dbe053e76d08c64e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44358324"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800112"
 ---
-# <a name="recover-the-homeaspx-page"></a>Obnoviť stránku Home. aspx
+# <a name="recover-the-homeaspx-page"></a>Obnovenie stránky Home.aspx
 
-Ak sa Domovská stránka lokality odstráni, môže sa obnoviť z koša prostredníctvom prístupu k adrese URL koša.
+Ak sa odstráni domovská stránka lokality, môžete ju obnoviť z Koša tak, že otvoríte URL adresu Koša.
 
-1. Prejdite na https:// \< tenantname>. SharePoint.com/Sites/ \< sitename>/_layouts/15/RecycleBin.aspx?, nahradením <**tenantname**> s názvom vášho nájomníka a <**sitename**> s názvom vašej lokality.
+1. Prejdite na adresu https://.\<tenantname>sharepoint.com/sites/\<sitename>/_layouts/15/RecycleBin.aspx? nahradením textu <**tenantname**> menom nájomníka a <**sitename**> názvom lokality.
 
 2. Vyberte stránku, ktorú chcete obnoviť.
 
-Ak sa Domovská stránka stále nedá nájsť, môžete vytvoriť novú stránku lokality a [nastaviť ju ako domovskú stránku lokality](https://support.microsoft.com/en-gb/office/use-a-different-page-for-your-sharepoint-site-home-page-35a5022c-f84a-455d-985e-c691ab5dfa17?ui=en-us&rs=en-gb&ad=gb). 404 nenašla chyba by sa už nezobrazí pri pokuse o prístup na lokalitu.
+Ak sa domovská stránka stále nedá nájsť, môžete vytvoriť novú stránku lokality a [nastaviť ju ako domovskú stránku lokality](https://support.microsoft.com/en-gb/office/use-a-different-page-for-your-sharepoint-site-home-page-35a5022c-f84a-455d-985e-c691ab5dfa17?ui=en-us&rs=en-gb&ad=gb). Chyba 404 Stránka nenájdená by sa už nemala zobraziť pri pokuse o prístup na lokalitu.

@@ -1,8 +1,8 @@
 ---
-title: Vymazanie vyrovnávacej pamäte alebo lokálneho obnovenia aplikácie
+title: Vymazanie vyrovnávacej pamäte alebo lokálne obnovenie aplikácie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681239"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817763"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Vymazanie vyrovnávacej pamäte alebo lokálneho obnovenia aplikácie
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Vymazanie vyrovnávacej pamäte alebo lokálne obnovenie aplikácie
 
-Ak sa zobrazujú neúplné alebo nesprávne údaje, zavrite a znova otvorte aplikáciu.  Ak sa tým problém nevyrieši, obnovte konto v zariadení: 
+Ak sa vám zobrazuje neúplné alebo nesprávne údaje, aplikáciu zatvorte a znova otvorte.  Ak sa problém nevyrieši, obnovte konto v zariadení: 
 
-**Otvorte aplikáciu > nastavenia > vyberte e-mailové konto > resetovať konto**
+**Otvorte našu aplikáciu > Nastavenia > Vyberte e-mailové konto > Obnoviť konto**

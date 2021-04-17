@@ -1,27 +1,26 @@
 ---
-title: Noví používatelia aplikácie Microsoft Teams
+title: Nastavenie služby Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509160"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786216"
 ---
-# <a name="new-to-microsoft-teams"></a>Noví používatelia aplikácie Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Nastavenie služby Microsoft Teams
 
-Pozrite si tému  [Začíname s aplikáciou Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Pozrite si školiace videá, prezentácie a ďalšie materiály o Microsoft Teams pre správcov IT.
+[Príručka nastavenia služby Microsoft Teams](https://aka.ms/teamsguidance) poskytuje vašej organizácii pokyny na nastavenie tímových pracovných priestorov, ktoré hosťujú konverzácie v reálnom čase prostredníctvom správ, hovorov a zvukových schôdzí alebo videohovorov na tímovú aj súkromnú komunikáciu. Dostanete pokyny na určenie požiadaviek vašej organizácie na sieť pomocou nástroja Network Planner a poradcu pre Teams v centre spravovania Teams. Po dokončení nasadenia vám príručka poskytne užitočné zdroje informácií pri začatí používnia Teams.
 
-Ak potrebujete pomoc s nasadením aplikácie Teams pre ľudí, ktorí pre pandémiu vírusu COVID-19 pracujú na diaľku (z domu), prečítajte si tému [Podpora vzdialených pracovníkov používajúcich aplikáciu Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Tiež môžete mať nárok na pomoc s nasadením v rámci programu Microsoft 365 FastTrack. Žiadosť môžete odoslať v [centre FastTrack](https://www.microsoft.com/fasttrack).
-
-**Dôležité**: V dôsledku nedávneho nárastu využívania aplikácie Teams sa môže stať, že keď používateľovi priradíte licenciu na Teams, úplné nastavenie môže trvať až 24 hodín. Dovtedy im nebudete môcť priradiť politiky Teams a nemusia mať prístup k niektorým funkciám aplikácie Teams, ako sú napríklad hovory a zvukové konferencie.
+Ďalšie informácie nájdete v článku [Začíname so službou Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

@@ -1,8 +1,8 @@
 ---
-title: Naplánovanie schôdze v aplikácii teams
+title: Naplánovanie schôdze v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746918"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815990"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Naplánovanie schôdze v aplikácii teams
+# <a name="schedule-a-meeting-in-teams"></a>Naplánovanie schôdze v Teams
 
-**Dôležité** Ak máte problémy s vytvorením schôdze alebo sa v aplikácii teams nedarí nájsť možnosť schôdze, skontrolujte, či majú používatelia v podporovanej verzii služby Microsoft teams povolenú poštovú schránku Exchange. Keď sa odporúča Exchange Online, Exchange lokálne poštové schránky sú podporované na serveri Exchange Server 2016 CU3 alebo novší s OAuth úspešne nakonfigurované medzi online a lokálne. Ďalšie informácie nájdete v téme [Vytvorenie používateľských poštových schránok v službe Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) a [požiadavky na lokálne hosťované poštové schránky](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Dôležité** Ak máte problémy s vytváraním schôdze alebo neviete nájsť možnosť schôdze v aplikácii Teams, skontrolujte, či majú dotknuté používateľov zapnutú poštovú schránku Exchange v podporovanej verzii aplikácie Microsoft Teams. Hoci sa odporúča Exchange Online, lokálne poštové schránky Exchange sú podporované v Exchange Serveri 2016 CU3 alebo novšom s úspešne nakonfigurovaným OAuth medzi online a lokálnymi servermi. Ďalšie informácie nájdete v téme Vytvorenie [poštových schránok používateľov v službe Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) a Požiadavky na poštové schránky [hosťované lokálne.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
-1. Schôdzu môžete naplánovať výberom položky:
+1. Schôdzu môžete naplánovať výberom položiek:
 
-    - Ak chcete rezervovať schôdzu s ľuďmi v chate, **Naplánujte ikonu schôdze** v chate pod poľom na písanie.
+    - **Naplánujte ikonu** schôdze v chate pod oknom na napísať a rezervujte schôdzu s ľuďmi v chate.
 
-    - Ikona **kalendára** na ľavej strane aplikácie. Vyberte položku **Nová schôdza** v pravom hornom rohu alebo vyberte časový rozsah v kalendári a otvorte formulár plánovania.
+    - **Ikona** Kalendár na ľavej strane aplikácie. Výberom **položky Nová** schôdza v pravom hornom rohu alebo výberom rozsahu času v kalendári otvorte formulár plánovania.
 
-2. Podobne ako pri plánovaní schôdze v Outlooku môžete schôdzu pomenovať, pozvať ľudí a pridať Podrobnosti o schôdzach.
+2. Podobne ako pri plánovaní schôdze v Outlooku, schôdzu pozvete, pozvete ľudí a pridáte podrobnosti o schôdzach.
 
-3. Na pravej strane plánovacieho formulára môžete pridať kanál alebo jednotlivých ľudí alebo ponechať obidve prázdne na naplánovanie súkromnej plánovanej činnosti.
+3. Na pravej strane formulára plánovania môžete pridať kanál alebo jednotlivých ľudí, prípadne nechať obe prázdne a naplánovať súkromnú plánovanú činnosť.
 
-Ďalšie informácie o vytváraní a plánovaní schôdzí v aplikácii Microsoft teams nájdete [v téme Naplánovanie schôdze v aplikácii teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Ďalšie informácie o vytváraní a plánovaní schôdzí v aplikácii Microsoft Teams nájdete v téme [Plánovanie schôdze v aplikácii Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Ďalšie informácie o obmedzeniach a špecifikáciách schôdzí nájdete v téme [obmedzenia a špecifikácie pre aplikáciu Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Ďalšie informácie o obmedzeniach a špecifikáciách schôdzí nájdete v téme [Obmedzenia a špecifikácie pre aplikáciu Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Ak potrebujete pomoc pri riešení problémov s Teammi a interakciami servera Exchange, najmä v prípade problémov s plánovaním delegátov, prečítajte si tému [Riešenie problémov s interakciou](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Pomoc s riešením problémov s interakciou aplikácie Teams a služby Exchange, najmä pri problémoch s plánovaním delegátov, nájdete v téme Riešenie problémov s [interakciou s aplikáciou Microsoft Teams a serverom Exchange Server.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

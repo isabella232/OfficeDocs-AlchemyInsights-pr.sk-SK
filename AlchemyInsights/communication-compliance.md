@@ -1,8 +1,8 @@
 ---
-title: Súlad s komunikáciami
+title: Súlad komunikácie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875154"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817511"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Súlad s komunikáciami v Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Súlad komunikácie v Microsoft 365
 
-Súlad s komunikáciami je nové riešenie Microsoft 365 compliance, ktoré pomáha organizáciám splniť požiadavky na dodržiavanie súladu s predpismi a minimalizovať riziká komunikácie. Je založená na funkciách dohľadu a obsahuje nové vylepšenia vrátane:
+Súlad komunikácie je nové riešenie dodržiavania súladu pre Microsoft 365, ktoré pomáha organizáciám splniť požiadavky na dodržiavanie súladu so dozorom a minimalizovať riziká komunikácie. Je založená na funkcii Kontrola a obsahuje nové vylepšenia, ako napríklad:
 
 - Inteligentné prispôsobiteľné šablóny
-- Flexibilná Sanácia pracovných postupov
-- Akčné prehľady
+- Flexibilné postupy opráv
+- Prehľady s akciami
 
-Ak v súčasnosti používate [politiku dohľadu](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), odporúčame, aby ste teraz použili novú komunikačnú zhodu na riešenie regulačných potrieb.
+Ak v súčasnosti používate [politiky kontroly,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)odporúčame vám teraz používať nové pravidlá na zabezpečenie súladu s nariadeniami.
 
-Ak chcete nastaviť súlad komunikácie, pozrite si tému [Konfigurácia dodržiavania súladu s komunikáciami](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Ak chcete nastaviť súlad komunikácie, pozrite si [časť Konfigurácia súladu s komunikáciou.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Ak chcete skúmať, kontrolovať a resprostredkovávať súlad s oznámením, pozrite si tému [skúmanie a remediácia upozornení na súlad s komunikáciami](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Informácie o skúmaní, revízii a opravách dodržiavania súladu s komunikáciou nájdete v téme [Skúmanie a opravenie upozornení na súlad komunikácie.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Prehľad funkcie súladu s komunikáciami nájdete v téme [súlad s komunikáciami v službe Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Prehľad funkcie na zabezpečenie súladu s komunikáciou nájdete v téme [Súlad komunikácie v Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Licenčné požiadavky: používatelia sledovaní komunikačnými politikami musia mať jeden z týchto postupov:
+Licenčné požiadavky: Používatelia monitorovaní politikou komunikácie musia mať jednu z nasledujúcich možností:
 
-- Licencia na dodržiavanie súladu s Microsoft 365 E5
-- Licencia na Office 365 Enterprise E3 s rozšíreným doplnkom na dodržiavanie súladu
+- Licencia microsoft 365 E5 Compliance
+- Licencia na Office 365 Enterprise E3 s doplnok Advanced Compliance
 - Predplatné na Office 365 Enterprise E5
 
-Ak nemáte žiadne z vyššie uvedených možností a chcete vyskúšať súlad s oznámením, **[Zaregistrujte sa na skúšobnú verziu služieb Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Ak nemáte uvedené žiadne z uvedených informácií a chcete vyskúšať súlad komunikácie, zaregistrujte si skúšobnú verziu služieb **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Ak chcete, aby sa e-mailové správy v rámci politiky plne spracovali, môže trvať až 24 hodín. Komunikácia v aplikácii Microsoft Teams, Yammeri a platformách tretích strán môže trvať až 48 hodín, kým sa úplne spracuje politika.
+> Úplné spracovanie e-mailových správ v politike môže trvať až 24 hodín. Komunikácia v platformách Microsoft Teams, Yammer a tretích strán môže trvať až 48 hodín, kým sa plne spracová v rámci politiky.

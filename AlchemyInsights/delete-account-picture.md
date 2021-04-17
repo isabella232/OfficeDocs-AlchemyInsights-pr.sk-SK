@@ -2,7 +2,7 @@
 title: Odstránenie obrázka konta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730966"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815558"
 ---
 # <a name="delete-an-account-picture-in-windows-10"></a>Odstránenie obrázka konta vo Windowse 10
 
-Windows je navrhnutý tak, aby vám umožnil prepínať medzi tromi najnovšími obrázkami. Ak potrebujete odstrániť niektorý z obrázkov konta:
+Windows je navrhnutý tak, aby vám dovoľte prepínať medzi tromi najnovšími obrázkami. Ak potrebujete odstrániť jeden z obrázkov konta:
 
-1. Otvorte Prieskumníka na paneli úloh. Ak sa na paneli úloh nezobrazuje položka Prieskumník (ikona priečinka), vyberte položku **Štart** a zadajte výraz **Prieskumník**.
+1. Na paneli úloh otvorte Prieskumníka. Ak sa na paneli úloh nezobrazí text Prieskumník (ikona priečinka), vyberte položku Štart a **zadajte** text **Prieskumník.**
 
-2. Prejdite na C:\Users \\ *Yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
-    - Nahraďte *Yourname* názvom vášho konta.
-    - Ak nie je možné nájsť priečinok AppData v Prieskumníkovi, môže byť skrytý. Vyberte nastavenie **zobrazenia** a začiarknite políčko **skryté položky** a zobrazia sa všetky položky v priečinku.
+2. Prejdite do priečinka C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - *Nahraďte svoje* meno názvom konta.
+    - Ak nemôžete nájsť priečinok AppData v Prieskumníkovi, môže byť skrytý. Vyberte **nastavenie Zobraziť** a začiarknuť **políčko Skryté položky,** ak chcete zobraziť všetky položky v priečinku.
 
-3. Odstráňte obrázok konta, ktorý už nechcete používať.
+3. Odstráňte obrázok konta, ktorý už nechcete použiť.
  
  

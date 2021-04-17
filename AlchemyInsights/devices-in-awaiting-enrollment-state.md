@@ -1,8 +1,8 @@
 ---
-title: Zariadenia čakajú na stav registrácie
+title: Zariadenia sú v stave Čakanie na registráciu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730750"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815369"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Stav zariadenia sa nachádza v stave čaká sa na registráciu
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Zariadenia sú v stave Čaká sa na registráciu
 
-Nástroj na analýzu pracovnej plochy neobsahuje diagnostické údaje pre toto zariadenie. 
+Desktop Analytics nemá diagnostické údaje pre toto zariadenie. 
 
-Tento problém sa môže vyskytnúť, pretože ste nedávno pridali zariadenie do cieľovej kolekcie a zatiaľ neodoslal údaje. Môže to znamenať aj to, že zariadenie nie je správne prepojené so službou a najnovšie diagnostické údaje sú staršie ako 28 dní.
+Tento problém sa môže vyskytnúť, pretože ste nedávno pridali zariadenie do cieľovej kolekcie a zatiaľ neodoslali údaje. Môže to tiež znamenať, že zariadenie so systémom správne nekomunikuje a najnovšie diagnostické údaje sú staré viac ako 28 dní.
 
-Uistite sa, že zariadenie môže komunikovať so službou. Ďalšie informácie nájdete v téme [koncové body](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Uistite sa, že zariadenie môže so zariadením komunikovať. Ďalšie informácie nájdete v téme [Koncové body.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Ďalšie informácie o stave čakajúceho zápisu nájdete v téme stav [pripojenia monitora](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Ďalšie informácie o stave čakania na registráciu nájdete v téme [Monitorovanie stavu pripojenia.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

@@ -1,8 +1,8 @@
 ---
-title: Spoločné riadenie
+title: Spoluspracovné spravovanie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896810"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817727"
 ---
-# <a name="co-management"></a>Spoločné riadenie
+# <a name="co-management"></a>Spoluspracovné spravovanie
 
-**Požiadavky na migráciu zo služby config manager Hybrid do služby Intune**
+**Predpoklady na migráciu z hybridného nasadenia správcu konfigurácie do služby Intune**
 
-- Prečítajte si [Tento článok](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
-- [Pridajte licenciu služby Intune pre používateľov](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Pri konfigurácii spoluriadenia použite [prehliadač Edge](https://www.microsoft.com/edge) .
+- Pozrite [si tento článok.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Pridajte používateľom licenciu na Intune.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Pri [konfigurácii spolu správy](https://www.microsoft.com/edge) použite prehliadač Edge.
 
-Na [tomto mieste](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)nájdete Sprievodcu nastavením krok za krokom.
+Interaktívne nastavenie spolu so správami nájdete [tu.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**Ako nainštalovať klienta config manager v zariadeniach so službou Intune**
+**Ako nainštalovať klienta Správcu konfigurácie v zariadeniach spravovaných intune**
 
-Pozrite si tému [Windows INTUNE MDM – riadené zariadenia s Windowsom](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Pozrite [si časť Zariadenia s Windowsom spravované pomocou MDM služby Intune.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Ako mám postupovať, ak chcem zmeniť iba funkciu MDM Authority?**
+**Čo robiť, ak chcem len zmeniť autoritu MDM?**
 
-Funkciu MDM môžete zmeniť bez toho, aby ste museli otvoriť prípad podpory. Prečítajte si nasledujúcu dokumentáciu na pomoc pri zmene vášho orgánu MDM:
+Autoritu MDM je možné zmeniť bez otvorenia prípadu podpory. Ak chcete pomôcť pri zmene vašej autority MDM, pozrite si nasledujúcu dokumentáciu:
 
-- [Zmena autority MDM v správcovi konfigurácie na samostatné služby Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [Zmena autority MDM zo samostatného správcu služby Intune pre správcov konfigurácie](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Zmena funkcie MDM Authority (Autorita MDM) z Správcu konfigurácie na samostatný súbor služby Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Zmena MDM autority zo samostatného intune na správcu konfigurácie](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

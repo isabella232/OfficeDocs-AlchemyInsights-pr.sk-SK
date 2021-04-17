@@ -1,8 +1,8 @@
 ---
-title: Skóre zhody
+title: Výsledky dodržiavania súladu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785474"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817331"
 ---
-# <a name="compliance-score"></a>Skóre zhody
+# <a name="compliance-score"></a>Výsledky dodržiavania súladu
 
-Microsoft Compliance Score (Preview) je funkcia v Microsoft 365, ktorá vám pomôže merať držanie tela súladu vašej organizácie. Používa skóre založené na riziku na základe vášho priebehu vykonávania akcií súvisiacich s dodržiavaním súladu.   Skóre súladu je zjednodušenou verziou [nástroja Správca dodržiavania súladu](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) a ponúka jednoduchší spôsob, ako preskúmať svoj postoj k dodržiavaniu súladu a implementovať akcie na jeho vylepšenie. 
+Microsoft Compliance Score (Preview) je funkcia v Microsoft 365, ktorá vám pomôže merať uistenie pri dodržiavaní súladu s predpismi vašej organizácie. Používa skóre na základe rizík na základe vášho priebehu implementácie akcií súvisiacich s dodržiavaním súladu.   Výsledky dodržiavania súladu [](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) sú zjednodušenou verziou správcu dodržiavania súladu a ponúkajú jednoduchší spôsob, ako preskúmať váš návrh súladu a implementovať akcie na jeho zlepšenie. 
 
-Globálny správca bude musieť nastaviť správne [povolenia](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) v centre dodržiavania súladu spoločnosti Microsoft na prístup k skóre zhody.  Všetky povolenia, ktoré boli predtým nakonfigurované pre správcu dodržiavania súladu, sa nepresunú do skóre zhody.
+Globálny správca bude musieť nastaviť v centre dodržiavania súladu [spoločnosti](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) Microsoft správne povolenia, aby získal prístup k skóre dodržiavania súladu.  Všetky predtým nakonfigurované povolenia správcu dodržiavania súladu sa neprenesú do funkcie Výsledky dodržiavania súladu.
 
-**Ak chcete získať prístup k skóre súladu**
+**Prístup k skóre dodržiavania súladu**
 
-1. Prejdite na lokalitu centrum dodržiavania súladu služby Microsoft 365 a **prihláste** sa pomocou konta globálneho správcu služby Microsoft 365.
+1. Prejdite do centra dodržiavania súladu pre Microsoft 365 a **prihláste** sa pomocou svojho konta globálneho správcu služby Microsoft 365.
 
-2. Na ľavej navigačnej table vyberte položku **skóre zhody** . Potom by ste mali vidieť svoju [tabuľu skóre zhody s skóre](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Na **ľavej navigačnej** table vyberte položku Výsledky dodržiavania súladu. Potom by ste mali vidieť [tabuľu výsledkov dodržiavania súladu so svojím hodnotením.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
  
 
-**Ďalšie informácie o**:
+**Ďalšie informácie o:**
 
-- Nastavenie povolení Accessu na dosiahnutie súladu nájdete v téme [udelenie prístupu používateľom k centrám zabezpečenia služby Microsoft 365 Security &](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Práca s akciami na zlepšenie v skóre dodržiavania súladu nájdete v téme  [Práca s skóre zhody](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Spôsob výpočtu skóre zhody nájdete v téme [metodika skóre zhody](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Skóre zhody verzus správca dodržiavania súladu nájdete v téme [vzťah k správcovi dodržiavania súladu](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Informácie o nastavení povolení prístupu na dosiahnutie súladu nájdete v téme Poskytnúť používateľom prístup do Centra zabezpečenia a [dodržiavania & Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Práca s akciami vylepšovania v časti Výsledky dodržiavania súladu nájdete [v téme Práca s predpismi.](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)
+- Spôsob výpočtu výsledkov dodržiavania súladu nájdete v téme [Metodológia hodnotenia súladu.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)
+- Compliance Score verzus Compliance Manager (Správca dodržiavania súladu), pozrite [si časť Vzťah k Správcovi dodržiavania súladu.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)
 
