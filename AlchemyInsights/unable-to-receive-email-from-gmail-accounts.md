@@ -1,8 +1,8 @@
 ---
-title: Nie je možné prijať e-mail z kont Gmail
+title: Nie je možné prijímať e-maily z kont Gmail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735466"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830408"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nie je možné prijať e-mail z kont Gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nie je možné prijímať e-maily z kont Gmail
 
 **PROBLÉM**
 
-Sme si vedomí toho, že niektorí používatelia nemusia mať možnosť dostávať e-maily z kont Gmail. Skúmame možný problém.
+Sme si vedomí toho, že niektorí používatelia možno nebudú môcť prijímať e-maily z kont Gmail. Skúmame možný problém.
 
-**ALTERNATÍVNE riešenie**
+**ALTERNATÍVNE RIEŠENIE**
 
-Skontrolujte, či ste neomylom zablokovali doménu Gmailu pri zablokovaní jedného používateľa Gmailu.
+Skontrolujte, či ste doménu Gmail omylom nezablokovali pri blokovaní jedného používateľa Gmailu.
 
-1. Otvorte [zoznam blokovaných odosielateľov](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Otvorte zoznam [blokovaných odosielateľov.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Ak sa Gmail.com nachádza v zozname, kliknite na ikonu koša vedľa položky a stlačte tlačidlo **Uložiť**.
+2. Ak Gmail.com v zozname, kliknite na ikonu koša vedľa položky a stlačte tlačidlo **Uložiť**.

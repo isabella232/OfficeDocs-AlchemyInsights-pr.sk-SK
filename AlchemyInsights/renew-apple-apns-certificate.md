@@ -2,21 +2,22 @@
 title: Obnovenie certifikátu Apple APNS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: dfdf8a50e1d1887361974f3db8122c129afd647b
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: 655fbec4d0722316babcfaed1be6a4cdffcb3072
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211489"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830777"
 ---
 # <a name="renew-apple-apns-certificate"></a>Obnovenie certifikátu Apple APNS
 

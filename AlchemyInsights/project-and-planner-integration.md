@@ -2,21 +2,22 @@
 title: Integrácia Projectu a Plannera
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002569"
 - "5025"
-ms.openlocfilehash: d78441c332bfabfe36091a1b3d5a0903ccf0c612
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: 78abbba396cef2020c69d40069daaacc37a11efc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810568"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830885"
 ---
 # <a name="project-and-planner-integration"></a>Integrácia Projectu a Plannera
 

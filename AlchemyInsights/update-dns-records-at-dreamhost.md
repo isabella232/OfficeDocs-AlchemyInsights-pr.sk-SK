@@ -2,7 +2,7 @@
 title: Aktualizácia DNS záznamov na lokalite Dreamhost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5822"
-ms.openlocfilehash: ed5a299756345290ced5d272af4fa5453e92a8c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 540ed9398105c233a170e6a36c1704e525da81ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657768"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830372"
 ---
 # <a name="update-dns-records-at-dreamhost"></a>Aktualizácia DNS záznamov na lokalite Dreamhost
 
-Pomocou prepojení nižšie môžete aktualizovať svoje DNS záznamy.
+Pomocou prepojení nižšie môžete pomôcť s aktualizáciou DNS záznamov.
 
 - [Vytvorenie DNS záznamov na lokalite Dreamhost](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost?view=o365-worldwide)
-- [Pridanie alebo úprava vlastných DNS záznamov v Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [Pridanie alebo úprava vlastných DNS záznamov v službách Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

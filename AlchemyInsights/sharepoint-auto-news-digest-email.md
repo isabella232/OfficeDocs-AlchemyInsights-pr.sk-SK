@@ -1,8 +1,8 @@
 ---
-title: Automatický Digest E-mail v SharePointe
+title: E-mail s automatickým prehľadom v SharePointe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751186"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831209"
 ---
-# <a name="sharepoint-auto-digest-email"></a>Automatický Digest E-mail v SharePointe
+# <a name="sharepoint-auto-digest-email"></a>E-mail s automatickým prehľadom v SharePointe
 
-Služba SharePoint auto-News Digest odosiela používateľom vo vašej spoločnosti automatizované e-maily o najnovších spravodajských príspevkoch, ktoré ešte nečítali, ktoré sú pre ne relevantné.
+SharePoint Auto-News Digest odosiela používateľom vo vašej spoločnosti automatické e-maily o najnovších príspevkoch správy, ktoré ešte neprečítali a ktoré sú pre nich relevantné.
 
-Ďalšie informácie nájdete v téme [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Ďalšie informácie nájdete na stránke [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- Identifikácia plánu Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Časovanie: cielené vydávanie zákazníkov v  **polovici júla (predtým jún**  a Complete pre všetkých zákazníkov do  **polovice augusta (predtým začiatkom augusta)**.
-- Roll-out: úloha na úrovni používateľa
-- Typ ovládacieho prvku: ovládanie používateľa, * * správcovská kontrola cez prostredie PowerShell (už čoskoro)
+- ID plánu služby Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Časovanie: Cielení zákazníci vydaní v polovici júla **(predtým jún** a dokončení pre všetkých zákazníkov do polovice **augusta (predtým začiatkom augusta)**
+- Zavádzanie: Zavádzanie na úrovni používateľa
+- Typ ovládania: Používateľské ovládanie, **Správcovské ovládanie prostredníctvom prostredia PowerShell (k dispozícii čoskoro)

@@ -2,9 +2,10 @@
 title: Zvýšenie zabezpečenia služby Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 7e7b175267d1839c46f5dd2ca524e66ae6034c4f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707458"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830192"
 ---
 # <a name="increase-microsoft-365-security"></a>Zvýšenie zabezpečenia služby Microsoft 365
 

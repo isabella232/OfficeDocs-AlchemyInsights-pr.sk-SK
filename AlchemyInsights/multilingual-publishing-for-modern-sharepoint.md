@@ -2,21 +2,22 @@
 title: Viacjazyčné publikovanie pre SharePoint v modernom režime
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002551"
 - "4925"
-ms.openlocfilehash: e8e1911e4162774e09949912ccfe8b5c07a6777e
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
+ms.openlocfilehash: 80d3b132e463e7c31fbb657a9ca70f3004cc31f7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930462"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831569"
 ---
 # <a name="multilingual-publishing-for-modern-sharepoint"></a>Viacjazyčné publikovanie pre SharePoint v modernom režime
 

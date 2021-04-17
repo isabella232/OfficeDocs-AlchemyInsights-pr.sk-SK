@@ -2,7 +2,7 @@
 title: Tlač na obe strany papiera
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801892"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831497"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Tlač na obe strany papiera (obojstranná tlač)
 
-**Je tlačiareň s možnosťou obojstrannej tlače?**
+**Je moja tlačiareň možné tlačiť obojstranne?**
 
-Súhrn alebo príručka o funkciách tlačiarne by mali zistiť, či je možné tlačiť na obe strany papiera, nazývané aj obojstranná tlač. Ak máte balík Microsoft Office, ďalší spôsob, ako to zistiť, je otvoriť aplikáciu balíka Office, napríklad Word alebo Excel, prejsť na **súbor > tlač**, uistiť sa, že je vybratá správna tlačiareň, a v časti Nastavenie vyhľadajte možnosť. Príklad: 
+V súhrne alebo príručke funkcií vašej tlačiarne by ste mali zistiť, či je možné tlačiť na obe strany papiera(označuje sa aj ako obojstranná tlač). Ak máte Microsoft Office, ďalším spôsobom, ako to zistiť, je otvorenie aplikácie balíka Office, napríklad Word alebo Excel, po otvorení položky Súbor **> Tlač,** skontrolujte, či je vybratá správna tlačiareň, a hľadajte možnosti v časti Nastavenia. Príklad: 
 
 ![Nastavenie tlačiarne](media/print-settings.png)
 
 **Obojstranná tlač v balíku Microsoft Office**
 
-Ak je tlačiareň schopná tlačiť na oboch stranách, keď prejdete na kartu **súbor > tlač** v aplikácii balíka Office, zobrazí sa možnosť tlač na obe strany, ako je znázornené v príklade uvedenom vyššie.  Vyberte požadovaný typ obojstrannej tlače (Preklopiť na dlhý okraj alebo preklopte na krátky okraj) a kliknutím na položku **Tlačiť spustite tlač** .
+Ak tlačiareň dokáže tlačiť obojstranne, po prechode na položku Súbor **>** Tlačiť v aplikácii balíka Office sa zobrazí možnosť Obojstranná tlač, ako je to znázornené vo vyššie uvedenom príklade.  Vyberte typ obojstrannej tlače, ktorý chcete tlačiť (otočenie na  dlhom okraji alebo otočenie na krátkom okraji) a kliknutím na položku Tlačiť spustite výtlačok.
 
 **Obojstranná tlač z ľubovoľnej aplikácie**
 
-V mnohých aplikáciách pri tlači sa zobrazí všeobecné dialógové okno tlač, ktoré vyzerá takto: 
+V mnohých aplikáciách pri tlači sa zobrazí všeobecné dialógové okno tlače, ktoré vyzerá takto: 
 
-![Dialógové okno tlač](media/print-dialog.png)
+![Dialógové okno Tlač](media/print-dialog.png)
 
-Skontrolujte, či je vybratá správna tlačiareň, a potom kliknutím na položku **predvoľby** otvorte okno Predvoľby tlačiarne. Ak je tlačiareň schopná obojstrannej tlače, v tomto okne sa zobrazí možnosť povoliť túto položku pre aktuálnu tlačovú úlohu.
+Skontrolujte, či je vybratá správna tlačiareň, a potom **kliknutím** na položku Predvoľby otvorte okno predvolieb tlačiarne. Ak je tlačiareň schopní obojstrannej tlače, v tomto okne sa zobrazí možnosť povoliť túto možnosť pre aktuálnu tlačovú úlohu.

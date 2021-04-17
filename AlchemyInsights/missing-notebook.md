@@ -1,8 +1,8 @@
 ---
-title: Chýbajúci Poznámkový blok
+title: Chýbajúci poznámkový blok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667173"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831677"
 ---
 # <a name="recover-missing-notebook"></a>Obnovenie chýbajúceho poznámkového bloku
 
-Ak bol Poznámkový blok vo OneDrive omylom odstránený, môžete ho obnoviť podľa postupu uvedeného v [téme Obnovenie odstránených súborov alebo priečinkov vo OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Ak bol poznámkový blok v službe OneDrive omylom odstránený, môžete ho obnoviť podľa krokov v časti Obnovenie [odstránených súborov alebo priečinkov vo OneDrive.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Poznámkový blok môžete obnoviť v odstránenej službe OneDrive podľa predvoleného nastavenia podľa krokov v [téme Obnovenie odstráneného OneDrivu](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) .
+Podľa postupu v časti Obnovenie odstráneného OneDrivu môžete obnoviť poznámkový blok v odstránenom OneDrive do 30 [dní.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote môže používať iné konto, než očakávate. Ak máte spolu s vaším osobným kontom Microsoft k dispozícii pracovné alebo školské konto, budete musieť pridať ďalšie konto, aby ste mohli Zobraziť všetky svoje poznámkové bloky (Pozrite si pokyny na [Pridanie konta vo OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+OneNote môže používať iné konto, ako ste očakávali. Ak máte okrem svojho osobného konta Microsoft aj pracovné alebo školské konto, na zobrazenie všetkých poznámkových blokov budete musieť pridať svoje ďalšie konto (pokyny na pridanie konta vo [OneNote).](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)

@@ -2,21 +2,22 @@
 title: Zväčšenie alebo zmenšenie ukladacieho priestoru
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4543"
-ms.openlocfilehash: 8581ce129956a4b711d568ddf37c788841f3f9f9
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7dfd46d2fa2daaaafe90c3398929ef6ec64b1fcc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830156"
 ---
 # <a name="increase-or-decrease-storage"></a>Zväčšenie alebo zmenšenie ukladacieho priestoru
 
