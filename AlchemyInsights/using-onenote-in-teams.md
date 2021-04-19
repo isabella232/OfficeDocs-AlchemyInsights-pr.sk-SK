@@ -1,29 +1,30 @@
 ---
-title: Používanie OneNotu v aplikácii teams
+title: Používanie OneNotu v aplikácii Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 369845b8d5cb6e192ab3a6fa976119bc3189ffb1
-ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
+ms.openlocfilehash: 644de124e9807cee69ed9ebff46226530b3930ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852867"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827195"
 ---
-# <a name="using-onenote-in-teams"></a>Používanie OneNotu v aplikácii teams
+# <a name="using-onenote-in-teams"></a>Používanie OneNotu v aplikácii Teams
 
-Zjednodušte si zaznamenávanie poznámok a získajte jednotné miesto na uchovávanie všetkých poznámok, výskumu, plánov a informácií pridaním jednej alebo viacerých kariet OneNotu do kanála teams.
+Zjednodušte si zapisovanie poznámok a majte na jednom mieste všetky poznámky, zdroje informácií, plány a informácie pridaním jednej alebo viacerých k tabulátora OneNotu do kanála aplikácie Teams.
 
-- **Pridanie poznámkového bloku**: v aplikácii teams môžete [Pridať nový alebo existujúci Poznámkový blok](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) .
-- **Správa prístupu k OneNotu**: prístup používateľov k OneNotu môžete spravovať v centre spravovania služieb Microsoft teams. Ďalšie informácie nájdete [v téme Správa aplikácií v centre spravovania služby Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps) .
-- **Obnovenie poznámkových blokov z odstránených skupín**: postupujte podľa krokov v téme [Obnovenie odstráneného tímu](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) a jeho obsahu obnovením skupín v Office 365.
-- **Problémy s poznámkovým blokom pre učebné**predmety: Pozrite si tému [Aktualizácia a najvhodnejšie postupy pre pedagógov a študentov](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) a [aktualizáciu OneNotu a najvhodnejšie postupy pre správcov IT v oblasti vzdelávania](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46).
-- Ak nie je **možné použiť kartu OneNote v aplikácii teams**, alebo ak váš **Poznámkový blok obsahuje problémy so synchronizáciou**, prihláste sa pomocou konta správcu nájomníka a skontrolujte, či sa v [informačnej tabuli služby](https://docs.microsoft.com/office365/enterprise/view-service-health) nenachádza žiadny výpadok ani zhoršenie služby.
+- **Pridanie poznámkového** bloku: [Do teams môžete pridať nový alebo existujúci](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) poznámkový blok.
+- **Spravovanie prístupu k OneNotu:** Prístup používateľov k OneNotu môžete spravovať v Centre spravovania služby Microsoft Teams. Ďalšie [informácie nájdete v článku Spravovanie aplikácií v Centre](https://docs.microsoft.com/MicrosoftTeams/manage-apps) spravovania služby Microsoft Teams.
+- **Obnovenie poznámkových blokov z** odstránených [](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) skupín: Obnovte skupiny v Office 365 podľa krokov uvedených v časti Obnovenie odstráneného tímu a jeho obsahu.
+- **Problémy s poznámkovým blokom** pre učebné predmety: Pozrite si tému Aktualizácia [OneNotu](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) a osvedčené postupy pre pedagógov a študentov a aktualizáciu OneNotu a osvedčené postupy pre [správcov IT vo vzdelávaní.](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46)
+- Ak nie je možné použiť kartu **OneNote** v aplikácii Teams alebo ak máte problémy so [](https://docs.microsoft.com/office365/enterprise/view-service-health) synchronizáciou poznámkového **bloku,** prihláste sa pomocou konta správcu nájomníka a skontrolujte tabuľu stavu služby a overte, či k dispozícii nie sú žiadne výpadky ani zníženie úrovne služby.

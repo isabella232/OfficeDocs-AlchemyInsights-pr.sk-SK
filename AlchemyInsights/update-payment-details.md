@@ -2,21 +2,22 @@
 title: Aktualizácia informácií o kreditnej karte
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720080"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830336"
 ---
 # <a name="update-credit-card-information"></a>Aktualizácia informácií o kreditnej karte
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720080"
 
 Ak sa vyskytnú problémy s načítaním stránky, pokúste sa webovú stránku otvoriť v inom prehliadači alebo sa ju pokúste otvoriť v okne súkromného prehliadača, napríklad okne v režime InPrivate prehliadača Microsoft Edge alebo okne inkognito prehliadača Google Chrome. 
 
-Ďalšie informácie nájdete v téme [Pridanie, aktualizácia alebo odstránenie kreditnej karty alebo bankového účtu v službách Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) a [Riešenie problémov s kreditnými kartami alebo bankovými účtami](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Ďalšie informácie nájdete v téme [Spravovanie spôsobov platby.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

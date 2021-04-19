@@ -2,21 +2,22 @@
 title: 'Planner: Ako fungujú oznámenia'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3809"
 - "9001716"
-ms.openlocfilehash: 0f636c71fff8ec17d9fbe14617ae52bd7c8bbca7
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: b549fe9e625752718aa9cce0f5a730cd60039a24
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707821"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826862"
 ---
 # <a name="planner-how-notifications-work"></a>Planner: Ako fungujú oznámenia
 

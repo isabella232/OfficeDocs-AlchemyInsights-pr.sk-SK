@@ -1,42 +1,43 @@
 ---
-title: Spustenie nástroja Windows Diagnostika pamäte v systéme Windows 10
+title: Spustenie diagnostiky pamäte Windowsu vo Windowse 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: 3fedc52d02f1f70743429d0313eda0361306c3f3
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44358295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826682"
 ---
-# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Spustenie nástroja Windows Diagnostika pamäte v systéme Windows 10
+# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Spustenie diagnostiky pamäte Windowsu vo Windowse 10
 
-Ak systém Windows a aplikácie v počítači zlyhajú, zmrazujú alebo pôsobia nestabilným spôsobom, môže sa stať, že máte problém s pamäťou počítača (RAM). Môžete spustiť Windows Diagnostika pamäte na kontrolu problémov s PC RAM.
+Ak Windows a aplikácie v počítači zlyhávajú, zamŕzajú alebo pôsobia nestabilným spôsobom, môže ísť o problém s pamäťou PC (RAM). Môžete spustiť nástroj Diagnostika pamäte Windowsu a zistiť, či sa v počítači nenálili problémy s pamäťou RAM počítača.
 
-Do vyhľadávacieho poľa na paneli úloh zadajte príkaz **Diagnostika pamäte**a potom vyberte položku **Windows Diagnostika pamäte**. 
+Do vyhľadávacieho poľa na paneli úloh zadajte výraz **Diagnostika pamäte** a potom vyberte položku **Diagnostika pamäte systému Windows.** 
 
-Ak chcete spustiť diagnostický, PC je potrebné reštartovať. Máte možnosť reštartovať okamžite (prosím uložte svoju prácu a zatvorte otvorené dokumenty a e-maily ako prvý), alebo naplánovať diagnostické spustiť automaticky pri ďalšom reštartovaní počítača:
+Na spustenie diagnostiky musí byť počítač reštartovaný. Máte možnosť okamžite reštartovať (najprv uložte svoju prácu a zatvorte otvorené dokumenty a e-maily) alebo naplánujte spustenie diagnostiky automaticky pri ďalšom reštartovaní počítača:
 
-![Windows Diagnostika pamäte](media/windows-memory-diagnostic.png)
+![Nástroj Windows Diagnostika pamäte](media/windows-memory-diagnostic.png)
 
-Po reštartovaní počítača sa **nástroj Windows Diagnostika pamäte** spustí automaticky. Stav a priebeh sa zobrazí ako diagnostický beh a máte možnosť zrušiť diagnostiku stlačením klávesu **ESC** na klávesnici.
+Po reštartovaní počítača sa **nástroj Windows Diagnostika pamäte** spustí automaticky. Stav a priebeh sa budú zobrazovať pri spustení diagnostiky a máte možnosť zrušiť diagnostiku stlačením klávesu **ESC** na klávesnici.
 
-Po dokončení diagnostiky sa systém Windows spustí normálne.
-Ihneď po reštarte, keď sa zobrazí pracovná plocha, zobrazí sa upozornenie (vedľa ikony **centra akcií** na paneli úloh), aby ste uviedli, či sa našli chyby pamäte. Príklad:
+Po dokončení diagnostiky sa Windows spustí normálne.
+Po reštartovaní sa hneď po reštartovaní zobrazí oznámenie  (vedľa ikony Centrum akcií na paneli úloh), ktoré informuje, či sa našli nejaké chyby pamäte. Príklad:
 
-Tu je ikona centra akcií: ![Ikona centra akcií](media/action-center-icon.png) 
+Tu je ikona Centra akcií: ![Ikona Centra akcií](media/action-center-icon.png) 
 
 A vzorové oznámenie: ![Žiadne chyby pamäte](media/no-memory-errors.png)
 
-Ak ste oznámenie vynechali, môžete na paneli úloh vybrať ikonu **centra akcií** , aby sa zobrazil **centrum akcií** a zobrazí sa posúvateľný zoznam upozornení.
+Ak ste oznámenie nestihli,  môžete vybrať ikonu Centra  akcií na paneli úloh a zobraziť centrum akcií a zobraziť posúvateľný zoznam oznámení.
 
-Ak chcete skontrolovať podrobné informácie, zadajte **udalosť** do vyhľadávacieho poľa na paneli úloh a potom vyberte položku **Zobrazovač udalostí**. V table **Zobrazovač udalostí**na ľavej strane prejdite na **denníky systému Windows > systém**. Na pravej table prehľadá zoznam pri pohľade na **zdrojový** stĺpec, až uvidíte udalosti s zdrojovú hodnotu **memorydiagnostics-výsledky**. Zvýraznite každú takúto udalosť a pozrite si informácie o výsledku v poli na karte **Všeobecné** pod zoznamom.
+Ak chcete skontrolovať podrobné informácie, **do** vyhľadávacieho poľa na paneli úloh zadajte udalosť a potom vyberte položku **Zobrazovač udalostí**. Na **ľavej table** zobrazovača udalostí prejdite na položku **Denníky Windowsu > systému**. Na pravej table si pri pohľade na  stĺpec Zdroj pozrite zoznam nadol, až kým sa nenájde udalosť s hodnotou Source value **MemoryDiagnostics-Results.** Zvýraznite každú takúto udalosť a v poli na karte Všeobecné pod **zoznamom** zobrazte informácie o výsledku.

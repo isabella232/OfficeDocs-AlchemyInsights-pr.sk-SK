@@ -2,22 +2,25 @@
 title: Správa o zdieľaní súborov a priečinkov na lokalite SharePointu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: c1d21fb59da298c99bda8a685cb7128077349c6d
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+- "9000191"
+- "3050"
+ms.openlocfilehash: a4b24c699ebd0794d6987e1d3a6bedfc5eeee140
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182941"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830813"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Správa o zdieľaní súborov a priečinkov na lokalite SharePointu
 
-Môžete vytvoriť súbor CSV pre každý jedinečný súbor, používateľa, povolenie a prepojenie na danej lokalite SharePointu alebo v knižnici OneDrivu. To vám pomôže porozumieť tomu, ako sa zdieľanie používa a či sa nejaké súbory alebo priečinky zdieľajú s hosťami. Ďalšie informácie nájdete v téme [Správa o zdieľaní súborov a priečinkov na lokalite SharePointu](https://docs.microsoft.com/sharepoint/sharing-reports).
+Môžete vytvoriť súbor CSV pre každý jedinečný súbor, používateľa, povolenie a prepojenie na danej lokalite SharePointu alebo v knižnici OneDrivu. To vám pomôže zistiť, ako sa využíva zdieľanie, a či sa s hosťami zdieľajú súbory alebo priečinky. Ďalšie informácie nájdete v téme [Správa o zdieľaní súborov a priečinkov na lokalite SharePointu](https://docs.microsoft.com/sharepoint/sharing-reports).

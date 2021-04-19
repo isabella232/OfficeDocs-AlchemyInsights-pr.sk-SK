@@ -1,24 +1,25 @@
 ---
-title: Multi-Geo možnosti v OneDrive a SharePoint Online
+title: Funkcie Multi-Geo Capabilities vo OneDrive a SharePointe Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: e0b22710e4a6924deacea4a624ffeb3188d0629f
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: 75ead5cfd37813d48ed86c23dbf5f6a1f42d95cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44358388"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829715"
 ---
-# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Multi-Geo možnosti v OneDrive a SharePoint Online
+# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Funkcie Multi-Geo Capabilities vo OneDrive a SharePointe Online
 
-Multi-Geo možnosti OneDrive a SharePoint Online umožňuje kontrolu krajiny alebo oblasti, kde zdieľané prostriedky ako SharePoint tímové lokality a Microsoft 365 skupiny poštových schránok sú uložené v pokoji.
-- [Multi-Geo možnosti v OneDrive a SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+Funkcia Multi-Geo Capabilities vo OneDrive a SharePointe Online umožňuje ovládať krajinu alebo oblasť, kde sa ukladajú zdieľané zdroje, ako sú tímové lokality SharePointu a poštové schránky skupiny Microsoft 365.
+- [Funkcia Multi-Geo Capabilities vo OneDrive a v SharePointe Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)

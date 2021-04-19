@@ -2,21 +2,22 @@
 title: Vaša platba bola zamietnutá
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161021"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829067"
 ---
 # <a name="your-payment-was-declined"></a>Vaša platba bola zamietnutá
 
@@ -24,20 +25,31 @@ Spoločnosť Microsoft sa pokúsi stiahnuť si platbu z karty viackrát v obdob�
 
 **Dôležité**: Ak ste pridali novú kartu a stále dostávate oznámenie o zamietnutí na starú kreditnú kartu, je možné, že budete musieť túto novú kartu priradiť k predplatnému.
 
-1. Prejdite na položku **Fakturácia > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Nahradenie spôsobu úhrady pre všetky položky**
 
-2. Vyberte predplatné, za ktoré chcete platiť pomocou novej karty alebo bankového účtu. V časti **Fakturácia** vedľa spôsobu platby kliknite na položku **Upraviť**.
+1. V centre spravovania prejdite na stránku **Fakturácia** > **Faktúry a platby** > [Spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Kliknite na položku **Zmeniť** vedľa aktuálneho spôsobu úhrady.
+2. Vyberte riadok spôsobu úhrady, ktorý chcete nahradiť. Na pravej table sa nachádza zoznam všetkých fakturačných profilov a jednotlivých predplatných, ktoré používajú vybratý spôsob úhrady.
 
-4. V rozbaľovacej ponuke vyberte iný spôsob úhrady alebo pridajte nový.
+3. Na pravej table vyberte položku **Nahradiť spôsob úhrady pre všetky položky**.
 
-**Aktualizácia alebo pridanie nového spôsobu úhrady**
+4. Ak chcete použiť existujúci spôsob úhrady, vyberte ho v rozbaľovacom zozname a potom vyberte položku **Nahradiť**.
 
-1. Prejdite na stránku **Fakturácia > Faktúry a platby > [Spôsoby úhrady](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Ak máte predplatné priradené k profilu fakturácie, na ich platenie môžete použiť len kreditnú alebo debetnú kartu. Ak máte na stránke **Spôsoby platby** uvedené bankové účty, nie sú k dispozícii na výber v rozbaľovacom zozname.
 
-2. Kliknite na položku **Pridať spôsob úhrady**, vyberte kartu alebo bankový účet, ktorý chcete aktualizovať, a kliknite na položku **Upraviť**.
+5. Ak chcete pridať nový spôsob úhrady, vyberte položku **Pridať spôsob úhrady**.
 
-3. Aktualizujte informácie o spôsobe úhrady (meno na karte alebo meno majiteľa účtu, fakturačná adresa, telefónne číslo alebo dátum uplynutia platnosti) a potom kliknite na položku **Uložiť**.
+6. Na table **Pridanie spôsobu úhrady** zadajte informácie o účte a potom vyberte položku **Uložiť**. Musíte použiť spôsob úhrady z tej istej krajiny, ako je váš nájomník.
 
-4. Nezabudnite nastaviť tento nový spôsob úhrady ako spôsob úhrady predplatného. Ďalšie informácie nájdete v téme [Pridanie, aktualizácia alebo odstránenie spôsobov platby](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Nový spôsob úhrady je už vybratý v rozbaľovacom zozname. Vyberte položku **Nahradiť**.
+
+**Aktualizácia podrobností spôsobu platby**
+
+1. V centre spravovania prejdite na stránku **Fakturácia** > **Faktúry a platby** > [Spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Vyberte riadok spôsobu úhrady, ktorý chcete aktualizovať. Na pravej table vyberte položku **Upraviť**.
+
+3. Aktualizujte informácie o spôsobe úhrady vrátane mena na kreditnej alebo debetnej karte, fakturačnej adresy alebo dátumu uplynutia platnosti a potom vyberte položku **Uložiť**.
+
+Ďalšie informácie nájdete v téme [Spravovanie spôsobov úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

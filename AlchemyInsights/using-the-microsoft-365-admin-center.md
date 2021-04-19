@@ -2,21 +2,22 @@
 title: Používanie centra spravovania služby Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002613"
 - "5042"
-ms.openlocfilehash: 804f17e6e484154b60a0b7d94bc5cb2343486929
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
-ms.translationtype: HT
+ms.openlocfilehash: a2d9ded3f2d3a2006e0cd3b698cf40c36ab4df45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812881"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827123"
 ---
 # <a name="using-the-microsoft-365-admin-center"></a>Používanie centra spravovania služby Microsoft 365
 
