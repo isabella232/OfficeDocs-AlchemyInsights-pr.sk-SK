@@ -2,23 +2,24 @@
 title: Zlúčenie kont Microsoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "5072"
-ms.openlocfilehash: 689e95f9359a6b8538deca18159d5a91cb256818
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
-ms.translationtype: HT
+ms.openlocfilehash: ce2dca1ad4281615f61fcf76580864bdafc5ea06
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933479"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825422"
 ---
-# <a name="merge-microsoft-accounts"></a><span data-ttu-id="70910-102">Zlúčenie kont Microsoft</span><span class="sxs-lookup"><span data-stu-id="70910-102">Merge Microsoft accounts</span></span>
+# <a name="merge-microsoft-accounts"></a><span data-ttu-id="b61bf-102">Zlúčenie kont Microsoft</span><span class="sxs-lookup"><span data-stu-id="b61bf-102">Merge Microsoft accounts</span></span>
 
-- <span data-ttu-id="70910-103">Nie je možné zlúčiť ani prepojiť konto Microsoft a pracovné alebo školské konto Office 365, pretože obidve sú v rôznych službách, ale môžete ich používať súbežne.</span><span class="sxs-lookup"><span data-stu-id="70910-103">It is not possible to merge or link a Microsoft Account and Office 365 Work or School accounts as both are on different services, but they can be used side by side.</span></span>
-- <span data-ttu-id="70910-104">Nie je možné zlúčiť ani prepojiť konto Microsoft (ani so samostatnými e-mailovými adresami) alebo konto iné ako Microsoft (napríklad konto Gmail) s existujúcim kontom Microsoft.</span><span class="sxs-lookup"><span data-stu-id="70910-104">It is not possible to merge or link a Microsoft account (even with separate email addresses) or a non-Microsoft account (such as a Gmail account) to an existing Microsoft account.</span></span>
+- <span data-ttu-id="b61bf-103">Nie je možné zlúčiť ani prepojiť konto Microsoft a pracovné alebo školské konto Office 365, pretože obidve sú v rôznych službách, ale môžete ich používať súbežne.</span><span class="sxs-lookup"><span data-stu-id="b61bf-103">It is not possible to merge or link a Microsoft Account and Office 365 Work or School accounts as both are on different services, but they can be used side by side.</span></span>
+- <span data-ttu-id="b61bf-104">Nie je možné zlúčiť ani prepojiť konto Microsoft (ani so samostatnými e-mailovými adresami) alebo konto iné ako Microsoft (napríklad konto Gmail) s existujúcim kontom Microsoft.</span><span class="sxs-lookup"><span data-stu-id="b61bf-104">It is not possible to merge or link a Microsoft account (even with separate email addresses) or a non-Microsoft account (such as a Gmail account) to an existing Microsoft account.</span></span>

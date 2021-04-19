@@ -1,26 +1,27 @@
 ---
-title: Zmena názvových serverov v doménach Google
+title: Zmena názvových serverov na stránke Google Domains
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5860"
 - "14"
-ms.openlocfilehash: a581bcca954586da38fef0bfc63b7ff03a1a930a
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 9f47f0b8c0dff660c75c8fc757c428524e9ed68d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749028"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818807"
 ---
-# <a name="change-nameservers-at-google-domains"></a><span data-ttu-id="eb144-102">Zmena názvových serverov v doménach Google</span><span class="sxs-lookup"><span data-stu-id="eb144-102">Change nameservers at Google Domains</span></span>
+# <a name="change-nameservers-at-google-domains"></a><span data-ttu-id="51232-102">Zmena názvových serverov na stránke Google Domains</span><span class="sxs-lookup"><span data-stu-id="51232-102">Change nameservers at Google Domains</span></span>
 
-[<span data-ttu-id="eb144-103">Change nameservers to setup Microsoft 365 with Google Domains</span><span class="sxs-lookup"><span data-stu-id="eb144-103">Change nameservers to setup Microsoft 365 with Google Domains</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
+[<span data-ttu-id="51232-103">Zmena názvových serverov na nastavenie služby Microsoft 365 pomocou lokality Google Domains</span><span class="sxs-lookup"><span data-stu-id="51232-103">Change nameservers to setup Microsoft 365 with Google Domains</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
 
-<span data-ttu-id="eb144-104">Ďalšie problémy s doménami vyskúšajte [najčastejšie otázky o doménach](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="eb144-104">For other Domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="51232-104">V prípade iných problémov s doménami si vyskúšajte [najčastejšie otázky o doménach](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="51232-104">For other Domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

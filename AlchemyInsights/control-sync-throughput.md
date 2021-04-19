@@ -1,23 +1,24 @@
 ---
-title: Priepustnosť synchronizácie ovládacích prvkov
+title: Ovládanie priepustnosti synchronizácie
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: 675d218123731df656b75af11189ec1699762f54
-ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
+ms.openlocfilehash: 6e45f55efac556d2d9c4f1ebd837db61dfa5422f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708422"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816683"
 ---
-# <a name="control-sync-throughput"></a><span data-ttu-id="d6b5a-102">Priepustnosť synchronizácie ovládacích prvkov</span><span class="sxs-lookup"><span data-stu-id="d6b5a-102">Control sync throughput</span></span>
+# <a name="control-sync-throughput"></a><span data-ttu-id="3452a-102">Ovládanie priepustnosti synchronizácie</span><span class="sxs-lookup"><span data-stu-id="3452a-102">Control sync throughput</span></span>
 
-<span data-ttu-id="d6b5a-103">Ak potrebujete kontrolovať prenosy aplikácií synchronizácie, odporúčame použiť politiku kvality služieb (QoS) siete alebo politiky windowsového qos.</span><span class="sxs-lookup"><span data-stu-id="d6b5a-103">If you need to control sync app traffic, we recommend using your network quality of service (QoS) policies or Windows QoS policies when possible.</span></span> <span data-ttu-id="d6b5a-104">Informácie o nastaveniach siete, ktoré môžete sprístupniť používateľom, nájdete v téme [Zmena rýchlosti nahrávania alebo sťahovania aplikácie na synchronizáciu OneDrivu.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)</span><span class="sxs-lookup"><span data-stu-id="d6b5a-104">For info about the network settings you can make available to your users, see [Change the OneDrive sync app upload or download rate.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)</span></span>
+<span data-ttu-id="3452a-103">Ak potrebujete riadiť synchronizačné prenosy aplikácií, odporúčame používať politiky QoS (network quality of service) alebo politiky QoS Windowsu, ak je to možné.</span><span class="sxs-lookup"><span data-stu-id="3452a-103">If you need to control sync app traffic, we recommend using your network quality of service (QoS) policies or Windows QoS policies when possible.</span></span> <span data-ttu-id="3452a-104">Informácie o sieťových nastaveniach, ktoré môžete sprístupniť používateľom, nájdete v téme Zmena rýchlosti nahrávania alebo sťahovania aplikácie na synchronizáciu [onedrivu.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)</span><span class="sxs-lookup"><span data-stu-id="3452a-104">For info about the network settings you can make available to your users, see [Change the OneDrive sync app upload or download rate.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)</span></span>
