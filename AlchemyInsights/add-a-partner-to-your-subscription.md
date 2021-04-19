@@ -2,21 +2,22 @@
 title: Pridanie partnera k predplatnému
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: 347e2a88cf00e41f1db4dc505214e649cfe6889d
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
-ms.translationtype: HT
+ms.openlocfilehash: 22f22016e266d0b99efe8fa225a19f689f4a71fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930497"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822758"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>Pridanie partnera k predplatnému
 

@@ -2,7 +2,7 @@
 title: Zrušenie predplatného vlastníkom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: 9078c61f693294973f820e94bcea798dd319c34d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 2a96aacb9def733451ffebc247b2e8c3967e7fa1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089170"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819815"
 ---
 # <a name="cancellation-of-a-subscription-by-owner"></a>Zrušenie predplatného vlastníkom
 
-Predplatné Azure môžete zrušiť na portáli Azure iba v prípade, že ste vlastníkom predplatného. Ak už predplatné nepotrebujete, postupujte podľa nižšie uvedených krokov.
+Predplatné služby Azure môžete na portáli Azure zrušiť, len ak ste vlastníkom predplatného. Ak už predplatné nepotrebujete, postupujte podľa nasledujúcich krokov.
 
-1. Vyberte predplatné, ktoré chcete zrušiť zo [stránky predplatné na portáli Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Vyberte položku **Prehľad** a potom vyberte položku **zrušiť predplatné**.
+1. Zo stránky Predplatné na portáli [Azure vyberte predplatné,](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)ktoré chcete zrušiť.
+2. Vyberte **položku Prehľad** a potom položku Zrušiť **predplatné**.
 
 **Čo sa stane po zrušení predplatného?**
 
-Po zrušení predplatného sa Fakturácia okamžite zastaví. Zrušenie zobrazenia na portáli však môže trvať až 10 minút. Ak zrušíte v strede fakturačného obdobia, po skončení obdobia odošleme konečnú faktúru na typický dátum fakturácie.
+Po zrušení predplatného sa fakturácia okamžite zastaví. Zrušenie sa však môže na portáli prejaviť až po 10 minútach. Ak faktúru zrušíte uprostred fakturačného obdobia, konečnú faktúru odošleme k bežnému dátumu faktúry po uplynutí tohto obdobia.
 
-Po zrušení predplatného spoločnosť Microsoft počká na 30-90 dní pred trvalým odstránením údajov, a to v prípade, že k nemu budete potrebovať prístup alebo si to rozmyslíte. Za uchovávanie údajov sa vám neúčtuje poplatok. Ďalšie informácie nájdete v téme [Microsoft Trust Center – spôsob spravovania údajov](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Po zrušení predplatného spoločnosť Microsoft počká 30 až 90 dní pred trvalým odstránením údajov pre prípad, že k nim budete potrebovať prístup alebo si to rozmyslíte. Za uchovanie údajov vám nebudeme účtovať žiadne poplatky. Ďalšie informácie nájdete v téme [Centrum dôveryhodnosti spoločnosti Microsoft – ako spravujeme vaše údaje.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 
 

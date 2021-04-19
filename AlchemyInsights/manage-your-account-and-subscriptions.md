@@ -2,21 +2,22 @@
 title: Spravovanie konta a predplatného
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
-ms.translationtype: HT
+ms.openlocfilehash: f6af9e73bd88d1c4f37a1b7d408f8f89b9423f70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102780"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823910"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Spravovanie konta a predplatného
 
@@ -33,13 +34,13 @@ ms.locfileid: "43102780"
 
 - [Výučba a učenie sa na diaľku v Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**V centre spravovania služby Microsoft 365 máte nasledujúce možnosti**: 
+**V Centre spravovania služby Microsoft 365 môžete:** 
 
 - [Zobrazenie faktúry](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [Informácie o faktúre](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Pridanie, aktualizácia alebo odstránenie spôsobov platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [Spravovanie spôsobov úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Spravovanie predplatných a licencií** 
 

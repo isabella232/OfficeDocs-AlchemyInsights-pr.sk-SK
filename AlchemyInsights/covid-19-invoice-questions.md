@@ -2,21 +2,22 @@
 title: Otázky o fakturácii počas krízy COVID-19
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500005"
 - "5110"
-ms.openlocfilehash: 28a67b6cd5461a0d0650e2c16b1ff01478e7f78f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: b4a85f63009f66a8273481a092a1b677d5659d10
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790247"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816395"
 ---
 # <a name="covid-19-invoice-questions"></a>Otázky o fakturácii počas krízy COVID-19
 

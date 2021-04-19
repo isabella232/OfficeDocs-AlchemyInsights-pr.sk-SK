@@ -2,21 +2,22 @@
 title: 'Azure Information Protection: Inštalácia klienta služby AIP'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944549"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820769"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: Inštalácia klienta služby AIP
 
@@ -33,4 +34,8 @@ Ak inštalujete klienta AIP, použite nasledujúce odporúčané kroky:
 
 4. Ak sa problémy s inštaláciou samotného klienta vyskytnú aj po spustení vyššie uvedeného nástroja, vyhľadajte priečinok **%temp%** a poskytnite súbory denníka inštalácie klienta, ktorých názov začína takto: Microsoft_Azure_Information_Protection_XXXXXXXXXX. log.
 
-5. Ak bola inštalácia úspešná, a stále sa vyskytujú problémy pri používaní služby AIP, vyberte príslušnú tému podpory a vyhľadajte vhodné riešenia.
+Ďalšie informácie:
+
+- Ak chcete stiahnuť klienta AIP, [](https://docs.microsoft.com/azure/information-protection/get-started/requirements) pozrite si dokumentáciu k službe [Azure Information Protection(AIP),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)požiadavky na nastavenie [a umiestnenie.](https://www.microsoft.com/download/details.aspx?id=53018)
+
+- Informácie o predplatnom služby Azure nájdete v [téme Predplatné a funkcie služby Azure Information Protection.](https://azure.microsoft.com/pricing/details/information-protection)

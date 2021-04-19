@@ -2,21 +2,22 @@
 title: Odblokovanie konta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "4863"
-ms.openlocfilehash: 6341be6cfcc42b3a200868b69cf28de7ea80c3ad
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
-ms.translationtype: HT
+ms.openlocfilehash: a84637d7135cef04921ce76bc3582538a003d731
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211422"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825926"
 ---
 # <a name="windows-enrolment-error-codes"></a>Kódy chýb registrácie zariadení s Windowsom
 

@@ -2,21 +2,22 @@
 title: Como pagar com boleto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: a2199bfa7cf419fccb2951c0471c84e2a6683aa0
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: 285ccc257c2453eda4a41b2c8c69d81cae04c0d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183014"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817439"
 ---
 # <a name="como-pagar-com-boleto"></a>Como pagar com boleto
 

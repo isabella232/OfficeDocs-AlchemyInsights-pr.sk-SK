@@ -2,21 +2,22 @@
 title: Bežné problémy s dodržiavaním súladu a riešenia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231660"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817367"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Bežné problémy s dodržiavaním súladu a riešenia
 
@@ -31,5 +32,7 @@ Tu je niekoľko častých tém v oblasti dosahovania súladu:
 - Auditovanie v službách O365: [Prehľadávanie denníka auditu v O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Ochrana pred únikom údajov (Data Loss Prevention – DLP): Ďalšie informácie získate v téme [Prehľad politík ochrany pred únikom údajov](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
+ 
+- Označenia citlivosti: Ďalšie informácie nájdete v téme [Vytvorenie a konfigurácia označení citlivosti a ich politík.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
 **Poznámka**: Ak hľadáte konkrétnejšiu odpoveď o probléme s dodržiavaním súladu, skúste preformulovať svoju otázku tak, aby obsahovala všetky chyby, ktoré vidíte alebo funkcie, ktoré používate.

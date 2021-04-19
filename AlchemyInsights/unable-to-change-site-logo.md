@@ -2,21 +2,22 @@
 title: Nie je možné zmeniť logo lokality
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4868"
-ms.openlocfilehash: 4101d066f2a55f1480d97586f38ee9a4476e80b7
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
-ms.translationtype: HT
+ms.openlocfilehash: c0f823b827980e4ff1a888a121213eabcabb14a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43955846"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824486"
 ---
 # <a name="unable-to-change-site-logo"></a>Nie je možné zmeniť logo lokality
 

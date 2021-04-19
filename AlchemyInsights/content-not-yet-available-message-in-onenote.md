@@ -2,21 +2,22 @@
 title: Hlásenie Obsah zatiaľ nie je k dispozícii v OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002541"
 - "4908"
-ms.openlocfilehash: 65234b9c5ef07caada2ea7c2246787924015a922
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: caa96324f41ad62c2e461241941957aa042602a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991353"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816899"
 ---
 # <a name="content-not-yet-available-message-in-onenote"></a>Hlásenie „Obsah zatiaľ nie je k dispozícii“ v OneNote
 

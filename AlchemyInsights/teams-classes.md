@@ -2,21 +2,22 @@
 title: Teams Classes
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: c30a62636a89b41ee5ee3ea6668c415b3febb0d5
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 23ed3bc86ef1f81aed11eb3083554750c4ea425e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707422"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824810"
 ---
 # <a name="teams-classes"></a>Teams Classes
 

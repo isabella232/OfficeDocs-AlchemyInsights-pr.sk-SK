@@ -1,8 +1,8 @@
 ---
-title: Moderná Fakturácia e-mailov v službe Azure
+title: Modern Azure email invoicing
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922143"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820841"
 ---
-# <a name="email-invoicing-in-azure"></a>Fakturácia e-mailu v službe Azure
+# <a name="email-invoicing-in-azure"></a>E-mailová fakturácia v Azure
 
-Ak chcete aktualizovať svoju preferovanú e-mailovú faktúru, musíte mať vlastníka alebo rolu prispievateľa v profile fakturácie alebo v jeho fakturačnom konte. Po prihlásení sa všetci používatelia s rolami vlastníka, prispievateľa, čítačky a správca faktúry v profile fakturácie dostanú do e-mailu svoju faktúru.
+Ak chcete aktualizovať predvoľby e-mailovej faktúry, musíte mať v fakturačnom profile alebo svojom fakturačnom konte rolu vlastníka alebo prispievateľa. Keď sa prihlásite, všetci používatelia s vlastníkom, prispievateľom, čitateľmi a rolami správcu faktúr vo fakturačnom profile budú faktúru odoslať e-mailom.
 
-1. Prihláste sa na [portáli Azure](https://portal.azure.com/).
-2. Vyhľadajte **správu nákladov + Fakturácia**.
-3. Vyberte položku **faktúry** na ľavej strane a potom vyberte položku **e-mailová faktúra** v hornej časti stránky.
-4. Ak máte viacero profilov fakturácie, vyberte profil fakturácie a potom vyberte položku **opt in (prihlásiť** sa).
+1. Prihláste sa na [portál Azure.](https://portal.azure.com/)
+2. Vyhľadajte **Cost Management + Billing** (Správa nákladov a fakturácia).
+3. Na **ľavej strane** vyberte položku Faktúry a potom v **hornej** časti stránky vyberte položku E-mailová faktúra.
+4. Ak máte viacero fakturačných profilov, vyberte fakturačný profil a potom vyberte položku **Prihlásiť sa**.
 
-5. Vyberte položku **aktualizovať**.
-6. Ak máte viacero profilov fakturácie, vyberte profil fakturácie a potom vyberte položku **opt in (prihlásiť** sa).
+5. Vyberte **položku Aktualizovať**.
+6. Ak máte viacero fakturačných profilov, vyberte fakturačný profil a potom vyberte položku **Prihlásiť sa**.
 
-Ostatným používateľom povolíte prístup na zobrazenie, stiahnutie a platenie faktúr priradením roly správcu fakturácie pre profil fakturácie MCA alebo MPA. Ak ste sa rozhodli dostať svoju faktúru e-mailom, používatelia dostanú faktúry aj e-mailom.
+Ostatným používateľom poskytnete prístup na zobrazenie, stiahnutie a účtovanie, a to tak, že im priradíte rolu správcu faktúr pre fakturačný profil spoločnosti MCA alebo MPA. Ak ste sa rozhodli dostať faktúru e-mailom, používatelia tiež dostane faktúry e-mailom.
 
-1. Prihláste sa na [portáli Azure](https://portal.azure.com/).
-2. Vyhľadajte **správu nákladov + Fakturácia**.
-3. Vyberte položku **profily fakturácie** na ľavej strane. V zozname profily fakturácie vyberte profil fakturácie, ku ktorému chcete priradiť rolu správcu faktúry.
-4. Vyberte položku **Access Control (IAM)** na ľavej strane a potom vyberte položku **Pridať** v hornej časti stránky.
+1. Prihláste sa na [portál Azure.](https://portal.azure.com/)
+2. Vyhľadajte **Cost Management + Billing** (Správa nákladov a fakturácia).
+3. Na **ľavej** strane vyberte položku Fakturačné profily. Zo zoznamu fakturačných profilov vyberte fakturačný profil, ku ktorému chcete priradiť rolu správcu faktúr.
+4. Na ľavej strane vyberte položku Access **Control (IAM)** a potom v **hornej** časti stránky vyberte položku Pridať.
 
-V rozbaľovacom zozname rola vyberte položku **Správca fakturácie**. Zadajte e-mailovú adresu používateľa, ktorému chcete poskytnúť prístup. Ak chcete rolu priradiť, vyberte položku **Uložiť** .
+V rozbaľovacom zozname Rola vyberte položku **Správca faktúr**. Zadajte e-mailovú adresu používateľa, ktorý má prístup poskytnúť. Ak **chcete priradiť rolu,** vyberte položku Uložiť.

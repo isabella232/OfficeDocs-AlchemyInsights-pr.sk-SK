@@ -2,26 +2,27 @@
 title: Premiestnenie súborov do OneDrivu for Business od iného poskytovateľa cloudu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: 29c79dbb0c828418251a84d03d9c32b13e21501d
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825350"
 ---
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Premiestnenie súborov do OneDrivu for Business od iného poskytovateľa cloudu
 
-Ak migrujete údaje od iných poskytovateľov cloudových služieb do OneDrivu alebo SharePointu, [mover](https://go.microsoft.com/fwlink/?linkid=2132453) podporuje migráciu z viac ako tucta poskytovateľov cloudových služieb vrátane boxov, dropboxu, egnytu a Disku Google. Mover možno tiež použiť na migráciu z jedného nájomníka SharePointu do iného alebo zo spotrebiteľa alebo OneDrive.com onedrivu.
+Ak migrujte údaje od iných poskytovateľov cloudových služieb do OneDrivu alebo SharePointu, [Mover](https://go.microsoft.com/fwlink/?linkid=2132453) podporuje migráciu od vyše desiatky poskytovateľov cloudových služieb vrátane Boxu, Dropboxu, Egnyte a Disku Google. Premiestniť možno aj na migráciu z jedného nájomníka SharePointu do druhého alebo zo spotrebiteľov OneDrivu či OneDrive.com.
 
-[Prečítajte si viac o Mover](https://go.microsoft.com/fwlink/?linkid=2132453).
+[Ďalšie informácie o Mover.](https://go.microsoft.com/fwlink/?linkid=2132453)
 
-Získajte informácie o ďalších metódach [na premiestnenie súborov, ktoré ukladáte v Microsoft OneDrive alebo iných cloudových ukladacích službách](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) do OneDrivu for Business v službách Office 365.
+Získajte informácie o ďalších metódach premiestňovania súborov, ktoré máte uložené v [Microsoft OneDrive,](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) alebo iných službách cloudového úložiska súborov do OneDrivu for Business v Office 365.

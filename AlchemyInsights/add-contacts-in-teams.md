@@ -2,21 +2,22 @@
 title: Pridanie kontaktov v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002509"
 - "5040"
-ms.openlocfilehash: 0ebe897d4ed57755dc9a00f3f05ff2f84875af9d
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
-ms.translationtype: HT
+ms.openlocfilehash: 716b0c5defb1a83aca6491fc86fcae0e0b654266
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810603"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822578"
 ---
 # <a name="add-contacts-in-teams"></a>Pridanie kontaktov v Teams
 

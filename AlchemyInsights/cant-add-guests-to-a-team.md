@@ -2,7 +2,7 @@
 title: Nie je možné pridať hostí do tímu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 8542540fb9c9164cccc3a06e0d9cbf83324f4118
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364968"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819491"
 ---
 # <a name="cant-add-guests-to-a-team"></a>Nie je možné pridať hostí do tímu
 
-Ak chcete pridať hosťa do tímu, musí byť splnená nasledovné:  
+Ak chcete pridať hosťa do tímu, musí to byť splnené:  
 
-- Správca v aplikácii teams zapli hosťovský prístup.
+- Váš správca zapol prístup hostí v aplikácii Teams.
 - Ste vlastníkom tímu.
-- Osoba, ktorú chcete pridať, je mimo vašej organizácie, ako je napríklad partner alebo konzultant.
+- Osoba, ktorú chcete pridať, sa nachádza mimo vašej organizácie, napríklad partnera alebo konzultanta.
 
-Podrobnosti nájdete v téme  [ako hosť vstúpi do tímu](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Podrobnosti nájdete v [téme Pripojenie hosťa k tímu.](https://docs.microsoft.com/MicrosoftTeams/guest-joins)

@@ -2,9 +2,10 @@
 title: Otázky o fakturácii a licencovaní počas COVID-19
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 75251e129e71f5f9800aa8a439d09aabb7c07bdd
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: 5c6355106bf53d929eaaac3286ae27ccf7d738a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991024"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816431"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>Otázky o fakturácii a licencovaní počas COVID-19
 

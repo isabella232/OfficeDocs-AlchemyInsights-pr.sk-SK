@@ -1,23 +1,24 @@
 ---
-title: Tímy eDiscovery
+title: EDiscovery v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002981"
 - "5702"
-ms.openlocfilehash: 1648a9287a8ce5464ea8396f2499592bf10d9089
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 79157cf0c5b2c1424fadb37be5883f95590b5ad7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358548"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823514"
 ---
-# <a name="teams-ediscovery"></a>Tímy eDiscovery
+# <a name="teams-ediscovery"></a>EDiscovery v Teams
 
-Môžete sa dozvedieť viac o tímoch eDiscovery [tu](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).
+Ďalšie informácie o eDiscovery v Teams nájdete [tu.](https://docs.microsoft.com/microsoftteams/ediscovery-investigation)

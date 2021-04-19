@@ -2,21 +2,22 @@
 title: Pomocník pre doplnok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000776"
 - "2717"
-ms.openlocfilehash: 302e3efea6270a1d110b0041498759d6ebab6294
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e459ef90a1d08d5f3b4e742b4a31104147733d7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822506"
 ---
 # <a name="add-in-help"></a>Pomocník pre doplnok
 

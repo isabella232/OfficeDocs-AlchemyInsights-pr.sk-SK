@@ -2,21 +2,22 @@
 title: Chyby pri tvorbe živých podujatí v Yammeri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "5112"
-ms.openlocfilehash: 35cddfee1a78fd6e1e502871bd5b56d786bf300a
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
-ms.translationtype: HT
+ms.openlocfilehash: 383943d670c935403fb7f4466a72474120e27e7a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43948017"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825530"
 ---
 # <a name="live-events-in-yammer-creation-errors"></a>Chyby pri tvorbe živých podujatí v Yammeri
 

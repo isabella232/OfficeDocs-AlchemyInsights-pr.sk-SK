@@ -2,21 +2,22 @@
 title: Analytické nástroje a Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000311"
 - "1935"
-ms.openlocfilehash: c9dff323f9e693cc44ae792f1bb82f9d3c8dd2cc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1dd8d9dd394293d8e3293005aaa625b8310cab21
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506494"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821498"
 ---
 # <a name="analytics-and-yammer"></a>Analytické nástroje a Yammer
 

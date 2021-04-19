@@ -1,25 +1,26 @@
 ---
-title: Zálohovanie priečinkov Dokumenty, Obrázky a Pracovná plocha pomocou OneDrivu
+title: Zálohovanie priečinkov Dokumenty, Obrázky a Pracovná plocha s OneDrivom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 9c092f729bbd36f5b34aa983edb2d18583e4a04c
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708489"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820661"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Zálohovanie priečinkov Dokumenty, Obrázky a Pracovná plocha pomocou OneDrivu
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Zálohovanie priečinkov Dokumenty, Obrázky a Pracovná plocha s OneDrivom
 
-Dôležité priečinky (priečinky Pracovná plocha, Dokumenty a Obrázky) môžete [zálohovať](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) v počítači so systémom Windows pomocou zálohy priečinkov onedrivu, aby boli chránené a dostupné v iných zariadeniach. Táto funkcia ešte nie je k dispozícii pre Mac.  
+Dôležité priečinky [(priečinky Pracovná](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  plocha, Dokumenty a Obrázky) môžete v PC s Windowsom zálohovať pomocou zálohovania priečinkov PC vo OneDrive, aby boli chránené a dostupné v iných zariadeniach. Táto funkcia zatiaľ nie je k dispozícii pre Mac.  
 
-Ak ste správcom IT, ktorý chce spravovať zálohovanie dôležitých priečinkov pre organizáciu, existuje návod na [zavedenie presunu známeho priečinka onedrivu](https://docs.microsoft.com/onedrive/redirect-known-folders).
+Ak ste správcom IT a chcete spravovať zálohovanie dôležitých priečinkov pre organizáciu, k dispozícii sú pokyny na nasnímanie aplikácie Presun známeho [priečinka OneDrivu.](https://docs.microsoft.com/onedrive/redirect-known-folders)

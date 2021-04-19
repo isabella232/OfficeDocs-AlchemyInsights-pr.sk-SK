@@ -2,21 +2,22 @@
 title: Kombinovanie faktúr
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002546"
 - "4959"
-ms.openlocfilehash: 81cfab560e615a8c591521e4611aadb28ce146b2
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: a9f3fe8a8e223430e5cde29013b764bad05bd1b5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799513"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817691"
 ---
 # <a name="combine-invoices"></a>Kombinovanie faktúr
 

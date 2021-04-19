@@ -2,22 +2,23 @@
 title: Pridanie používateľov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: df00781324bc17eb4b34e3215a4d25307d0ab576
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506681"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822254"
 ---
 # <a name="add-a-user"></a>Pridanie používateľa
 

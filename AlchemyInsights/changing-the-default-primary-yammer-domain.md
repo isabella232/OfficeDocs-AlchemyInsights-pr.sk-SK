@@ -2,21 +2,22 @@
 title: Zmena predvolenej domény Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002662"
 - "5162"
-ms.openlocfilehash: 099feb5c58a2b1068a2ec501ff966c6ac73d804d
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: 6a7215ef7187e8dc6c834470b4724692b239efd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991326"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818015"
 ---
 # <a name="changing-the-defaultprimary-yammer-domain"></a>Zmena predvolenej/primárnej domény Yammer
 
