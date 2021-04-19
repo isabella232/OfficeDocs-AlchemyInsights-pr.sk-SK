@@ -1,8 +1,8 @@
 ---
-title: Záznamy schôdze v aplikácii teams do OneDrivu
+title: Záznamy schôdzí cez Teams do OneDrivu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807682"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810283"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Záznamy schôdze v aplikácii teams do OneDrivu
+# <a name="teams-meeting-recordings-to-onedrive"></a>Záznamy schôdzí cez Teams do OneDrivu
 
-Microsoft teams má novú metódu ukladania záznamov zo schôdze. Ako prvá fáza prechodu z klasického Microsoft streamu do [nového prúdu](https://docs.microsoft.com/stream/streamnew/new-stream)sa v tejto metóde ukladajú záznamy v službe Microsoft OneDrive for Business a SharePointe v službe Microsoft 365 a ponúka mnoho výhod.  
+V aplikácii Microsoft Teams je k dispozícii nová metóda ukladania záznamov schôdzí. Ako prvá fáza prechodu z klasického Microsoft Streamu na nový [Stream](https://docs.microsoft.com/stream/streamnew/new-stream)je táto metóda uchováva záznamy v Microsoft OneDrive for Business a SharePointe v službe Microsoft 365 a ponúka mnohé výhody.  
 
-- [Nastavenie možnosti nahrávania schôdze pre OneDrive for Business a SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Odhlásenie zo služby OneDrive for Business a SharePointu na pokračovanie v používaní prúdu údajov](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Nastavenie možnosti nahrávania schôdze vo OneDrive for Business a SharePointe](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Ak sa chcete odhlásiť z OneDrivu for Business a SharePointu a pokračovať v používaní Streamu,](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Najčastejšie otázky](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)

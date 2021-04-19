@@ -2,21 +2,22 @@
 title: Vytvorenie a spustenie živých podujatí v Yammeri
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: 44c0dd2010e5ec6f4a55e0ed764e5959d5b45a99
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
-ms.translationtype: HT
+ms.openlocfilehash: 6c51e3a53f89489ffd25a2c222055be1eff5f23c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816071"
 ---
 # <a name="create-and-run-live-events-in-yammer"></a>Vytvorenie a spustenie živých podujatí v Yammeri
 

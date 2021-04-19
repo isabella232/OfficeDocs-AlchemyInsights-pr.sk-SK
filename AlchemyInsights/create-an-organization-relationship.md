@@ -1,50 +1,51 @@
 ---
-title: Vytvorenie vzťahu organizácie, ktorý umožní používateľom spolupracovať s inou organizáciou
+title: Vytvorenie vzťahu organizácie na umožnenie používateľom spolupracovať s inou organizáciou
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862194"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816143"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Vytvorenie vzťahu organizácie, ktorý umožní používateľom spolupracovať s inou organizáciou
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Vytvorenie vzťahu organizácie na umožnenie používateľom spolupracovať s inou organizáciou
 
-1. Na tabuli Centra spravovania služby Microsoft 365 prejdite na položku **Výmena správ**  >  **Exchange**.
-2. Prejdite **organization**na  >  **zdieľanie organizácie**.
-3. V časti **Zdieľanie organizácie**kliknite na položku **Nové** .
-4. V **novom vzťahu organizácie**zadajte do poľa **Názov vzťahu** popisný názov vzťahu organizácie.
-5. Do poľa **Domény, s ktorými sa chcete zdieľať,** zadajte doménu externej lokálnej organizácie služieb Office 365 alebo Exchange, ktorú chcete zobraziť v kalendároch. Ak potrebujete zadať viac ako jednu doménu, oddeľte názvy domén čiarkou. Napríklad contoso.com, service.contoso.com.
-6. Ak chcete zapnúť zdieľanie kalendára s doménami, ktoré ste uviedli, začiarknite políčko **Povoliť zdieľanie informácií o voľnom čase** v kalendári. Nastavte úroveň zdieľania informácií o voľnom čase v kalendári a nastavte, ktorí používatelia môžu zdieľať informácie o voľnom čase v kalendári.  
+1. Na tabuli Centra spravovania služby Microsoft 365 prejdite na položku **Exchange**  >  **správcu.**
+2. Prejdite do **zdieľania**  >  **organizácie.**
+3. V **časti Zdieľanie organizácie** kliknite na položku **Nové** .
+4. V **novom organizačnom** vzťahu zadajte **do poľa Názov** vzťahu priateľský názov pre vzťah organizácie.
+5. Do poľa Domény na zdieľanie **zadajte** doménu pre externú organizáciu so službami Office 365 alebo Exchange lokálnou organizáciou, s ktorej chcete zobraziť kalendáre. Ak potrebujete zadať viac domén, oddeľte názvy domén čiarkami. Môžete napríklad contoso.com service.contoso.com.
+6. **Začiarknuť políčko Povoliť zdieľanie informácií o voľnom** čase v kalendári zapnete zdieľanie kalendára s doménami, ktoré sú uvedené v zozname. Nastavte úroveň zdieľania informácií o voľnom čase v kalendári a nastavte používateľov, ktorí môžu zdieľať informácie o voľnom čase z kalendára.  
 
-Ak chcete nastaviť úroveň prístupu na informácie o voľnom čase, vyberte jednu z nasledujúcich možností:
+Ak chcete nastaviť úroveň prístupu k informáciám o voľnom čase, vyberte niektorú z týchto možností:
 
-- **Informácie o voľnom čase kalendára len s časom**
-- **Kalendár voľnom s časom, predmetom a umiestnením**  
+- **Informácie o voľnom čase z kalendára len s časom**
+- **Informácie o voľnom čase z kalendára s časom, predmetom a polohou**  
 
- Ak chcete nastaviť, ktorí používatelia budú zdieľať informácie o voľnom čase kalendára, vyberte jednu z nasledujúcich možností:
+ Ak chcete nastaviť, ktorí používatelia budú zdieľať informácie o voľnom čase z kalendára, vyberte niektorú z týchto možností:
 
-- **Všetci vo vašej organizácii**
+- **Každý vo vašej organizácii**
 - **Zadaná skupina zabezpečenia**  
 
-Kliknutím na **tlačidlo Prehľadávať** vyberte skupinu zabezpečenia zo zoznamu a potom kliknite na **tlačidlo OK**.
+Kliknite **na** položku Prehľadávať, vyberte skupinu zabezpečenia zo zoznamu a potom kliknite na tlačidlo **OK.**
 
-Kliknutím na **tlačidlo Uložiť** vytvoríte vzťah organizácie.  
+Kliknutím **na tlačidlo** Uložiť vytvoríte vzťah organizácie.  
 
-**Upozornenie:** Konfigurácie krížového nájomníka nepodporujú osobné kontakty na vyhľadávanie informácií o voľnom čase. Kontakty musia byť zahrnuté do globálneho zoznamu adries, aby bolo možné pracovať s vyhľadávaním informácií o voľnom čase.
+**Poznámka:** Konfigurácie medzi nájomníkmi nepodporuje osobné kontakty pre vyhľadávanie informácií o voľnom čase. Ak chcete, aby vyhľadávanie informácií o voľnom čase bolo k dispozícii, v globálnom zozname adries sa musia nachádzať kontakty.
 
-**Pre úplné pochopenie tejto témy prečítajte si prosím:**
+**Podrobné informácie o tejto téme nájdete v článku:**
 
-- [Vytvorenie vzťahu organizácie v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Úprava vzťahu organizácie v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Odstránenie vzťahu organizácie v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Vytvorenie vzťahov v organizácii v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Úprava vzťahov v organizácii v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Odstránenie vzťahov organizácie v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

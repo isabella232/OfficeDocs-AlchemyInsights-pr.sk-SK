@@ -1,30 +1,31 @@
 ---
-title: Pomoc so stránkami a webovými časťami SPFx
+title: Pomoc so stránkami SPFx a webovými časťami
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569791"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811543"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>Pomoc so stránkami a webovými časťami SPFx
+# <a name="help-with-spfx-pages-and-web-parts"></a>Pomoc so stránkami SPFx a webovými časťami
 
-Balík SPFx je podporovaný len prostredníctvom podpory vývojára od spoločnosti Microsoft. Tím produktov SharePoint reaguje na komunitu vývojárov vo viacerých kanáloch.
+Služba SPFx je podporovaná len prostredníctvom podpory pre vývojárov spoločnosti Microsoft. Produktový tím SharePointu odpovie na komunitu vývojárov vo viacerých kanáloch.
 
-- [Programovacie otázky](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) môžu byť predložené **GitHub sp-dev-docs** alebo **Stack Pretečenie**.
-- [Chyby dokumentácie](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) je možné odoslať do **služby GitHub**.
-- [Vzorové chyby aplikácie](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) môžu byť odoslané do **GitHub**.
-- [Žiadosti o funkcie](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) je možné odoslať do služby UserVoice.
+- [Otázky týkajúce sa](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)  programovania je možné odoslať na  **lokalitu GitHub sp-dev-docs**  alebo  **Stack Overflow**.
+- [Chyby v dokumentácii možno](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) odoslať do **aplikácie GitHub.**
+- [Vzorové chyby aplikácie je](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) možné odoslať do **aplikácie GitHub.**
+- [Na lokalite](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  UserVoice je možné odoslať žiadosti o funkcie.
 
-Ďalšie zdroje informácií pre vývojárov nájdete v téme [Podpora & spätnej väzby](https://docs.microsoft.com/sharepoint/dev/support-feedback)
+Ďalšie zdroje informácií pre vývojárov nájdete v téme  [Podpora & pripomienky](https://docs.microsoft.com/sharepoint/dev/support-feedback)
