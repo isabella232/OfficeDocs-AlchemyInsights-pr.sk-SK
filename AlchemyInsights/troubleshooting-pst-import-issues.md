@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826178"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059830"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Riešenie problémov s importom súborov PST
 
-- Ak importujete v samotnom klientovi Outlook, prečítajte si tému [Riešenie problémov s importovaním súboru .pst programu Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Ak importujete v rámci samotného klienta Outlooku, pozrite si [časť Riešenie problémov s importovaním outlookového .pst súboru.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Ak používate službu Import Service a zasekla sa, nezabúdajte, že žiadny súbor PST, ktorý nahráte do ukladacieho priestoru platformy Azure, by nemal byť väčší ako 20 GB. Súbory PST väčšie ako 20 GB môžu mať vplyv na výkon procesu importu súborov PST.
+- Ak používate službu importovania a zasekla sa, každý súbor PST, ktorý nahráte do ukladacieho priestoru platformy Azure, by nemal byť väčší ako 20 GB. Pst súbory väčšie ako 20 GB môžu mať vplyv na výkon procesu importu PST. Ďalšie informácie o riešení problémov s uviaznutými úlohami nájdete [v téme Problémy, ktoré majú vplyv na úlohy importu PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
-- Ak chcete overiť stav konkrétnej úlohy importu, môžete použiť [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Ak chcete overiť stav konkrétnej úlohy importu, použite rutinu [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- Podrobné informácie o službe importu nájdete v téme [Prehľad importovania súborov PST vašej organizácie](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- Úplné podrobnosti o službe importovania nájdete v [téme Prehľad importovania súborov PST organizácie.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)
