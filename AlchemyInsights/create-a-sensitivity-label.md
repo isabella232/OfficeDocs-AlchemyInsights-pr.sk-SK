@@ -1,0 +1,37 @@
+---
+title: Vytvorenie označenia citlivosti
+ms.author: pebuam
+author: pebaum
+manager: scotv
+ms.date: 04/21/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "11014"
+- "9000181"
+ms.openlocfilehash: 0daa46f35f80eb423a75b150a1742c23e90389f8
+ms.sourcegitcommit: 69206a3d292d681c81f0ac74b1fcec3ae50912de
+ms.translationtype: MT
+ms.contentlocale: sk-SK
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "52125279"
+---
+# <a name="how-to-create-a-sensitivity-label"></a>Vytvorenie označenia citlivosti
+
+1. Prejdite do Centra Office 365 zabezpečenia & zabezpečenia >   >  **klasifikácie označení citlivosti.**
+
+1. Výberom **položky + Vytvoriť** označenie spustite Sprievodcu novým označením citlivosti.
+
+    Ďalšie informácie o nastavení šifrovania nájdete v téme Obmedzenie prístupu [k obsahu pomocou šifrovania v označeniach citlivosti.](https://go.microsoft.com/fwlink/?linkid=2106331)
+
+    Ďalšie informácie o automatickom označení nájdete v [téme Automatické použitie označenia citlivosti na obsah.](https://go.microsoft.com/fwlink/?linkid=2105837)
+
+1. Ak chcete vytvoriť ďalšie označenia, zopakujte tento postup. Ak však chcete vytvoriť podlabel, najprv vyberte označenie nadradenej položky, pre položku Ďalšie akcie vyberte **položku ...** a potom vyberte položku Pridať pod **označenie**.
+
+1. Po vytvorení všetkých potrebných označení skontrolujte ich poradie a v prípade potreby ich presuňte nahor alebo nadol. 
+    
+    Ak chcete zmeniť poradie označenia, vyberte **položku ...** pre položku **Ďalšie akcie** a potom vyberte položku **Posunúť nahor alebo** **Posunúť nadol**.
