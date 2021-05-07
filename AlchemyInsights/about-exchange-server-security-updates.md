@@ -1,5 +1,5 @@
 ---
-title: Informácie o aktualizáciách zabezpečenia servera Exchange
+title: Informácie Exchange Server aktualizáciách
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726542"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233477"
 ---
-# <a name="about-exchange-server-security-updates"></a>Informácie o aktualizáciách zabezpečenia servera Exchange
+# <a name="about-exchange-server-updates"></a>Informácie Exchange Server aktualizáciách
 
-Spoločnosť Microsoft vydala rad dôležitých aktualizácií zabezpečenia lokálneho servera Exchange. Príslušné verzie servera sú všetky úrovne aktualizácie Exchange servera 2010, 2013, 2016 a 2019. Exchange Online nie je ovplyvnený, ale ak máte v dôsledku hybridnej konfigurácie niektoré lokálne servery Exchange, môžu byť potenciálne zraniteľní.
+Spoločnosť Microsoft zvyčajne vydáva Exchange Server aktualizácie v utorok (aktualizácie zabezpečenia) alebo kvartality (kumulatívne aktualizácie). Oznámenia o najnovších vydaných aktualizáciách nájdete v blogu tímu [Exchange tímu.](https://aka.ms/ehlo)
 
-Prečítajte si nasledujúce oznámenie o umiestnení opráv: [vydané: marec 2021 aktualizácie zabezpečenia servera Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Ak chcete svoje Exchange servery, použite Exchange Server Kontrola stavu [služby (GitHub použiť najnovšie vydanie).](https://aka.ms/ExchangeHealthChecker) Spustením tohto skriptu sa oznámi, či niektorý Exchange servery zaostávajú za aktualizáciami (CU a SU).
 
-**Dôležité poznámky:**
+- Ak chcete aktualizovať na najnovšiu kumulatívnu aktualizáciu, prejdite [na sprievodcu Exchange aktualizácie](https://aka.ms/ExchangeUpdateWizard) a vyberte aktuálne spustené KUMULATÍVNA a cieľovú kumulatívnu aktualizáciu. Ak **chcete získať navigačné pokyny pre svoje** prostredie, vyberte položku Chcem vedieť postup.
 
-Ak manuálne inštalujete aktualizácie, prečítajte si časť známe problémy v téme Aktualizácia článkov vedomostnej databázy, kde nájdete dôležité informácie. Aktualizácie zabezpečenia sa musia spustiť z vyžiadanej výzvy CMD alebo PowerShell.
-
-Informácie o riešení problémov s aktualizáciou nájdete [tu](https://aka.ms/exupdatefaq).
+- Ak sa počas inštalácie alebo po inštalácii aktualizácií vyskytne Exchange Server chyba, pozrite si časť Oprava zlyhala Exchange [kumulatívnych aktualizácií a aktualizácií zabezpečenia.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

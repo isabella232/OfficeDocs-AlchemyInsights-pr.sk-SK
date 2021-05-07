@@ -1,5 +1,5 @@
 ---
-title: Proces nastavenia Sprievodcu nastavením balíka Office 365 s FastTrack
+title: Proces Office 365 procesu nastavenia pomocou programu FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194615"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233765"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Proces nastavenia Sprievodcu nastavením balíka Office 365 s FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Proces Office 365 procesu nastavenia pomocou programu FastTrack
 
-Ak máte nárok na pomoc s balíkom Office 365 FastTrack, môžete požiadať o pomoc prostredníctvom portálu. Ak hľadáte pomoc s vlastným ovládaním alebo poradenstvo od partnera, sprievodcovia nastavením služieb Office 365 alebo kvalifikovaný partner vám môžu pomôcť v procese.
+Ak máte nárok na získanie Office 365 FastTrack, môžete požiadať o pomoc prostredníctvom portálu. Ak hľadáte samoobslužnú pomoc alebo poradenstvo od partnera, naši sprievodcovia nastavením balíka Office 365 vám môžu v procese pomôcť.
 
-1. Ak chcete získať pomoc prostredníctvom portálu FastTrack, prihláste sa na [portál FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) a postupom podľa krokov dokončite žiadosť o pomoc s formulárom Microsoft 365.
+- Ak chcete získať pomoc prostredníctvom portálu FastTrack, prihláste sa na portál [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) a postupujte podľa krokov na dokončenie žiadosti o pomoc s Microsoft 365.
 
     > [!NOTE]
-    > Ak máte problémy s prihlásením alebo potrebujete ďalšiu pomoc, odošlite e-mail na [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+    > Ak máte problémy s prihlásením alebo potrebujete ďalšiu pomoc, pošlite e-mail [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-2. Ak potrebujete pomoc s vlastným nariadeným pre Office 365, pozrite si tému [Nastavenie navádzania](https://go.microsoft.com/fwlink/?linkid=2125827).
-3. Ak chcete nájsť poskytovateľa riešení, pozrite si tému [Hľadám poskytovateľa riešenia](https://go.microsoft.com/fwlink/?linkid=2125918).
+- Pomoc s vlastnou usmernenie pre Office 365 nájdete v [pokynoch na nastavenie.](https://go.microsoft.com/fwlink/?linkid=2125827)
+- Ak chcete nájsť poskytovateľa riešení, [pozrite si časť Hľadám poskytovateľa riešení.](https://go.microsoft.com/fwlink/?linkid=2125918)

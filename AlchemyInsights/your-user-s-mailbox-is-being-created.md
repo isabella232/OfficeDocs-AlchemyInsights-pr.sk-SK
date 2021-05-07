@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796267"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261823"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Vytvorenie poštovej schránky používateľa trvá príliš dlho
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Vytváranie poštových schránok používateľov trvá príliš dlho
 
-Môže trvať až 24 hodín, kým bude Nová poštová schránka pripravená na použitie.
+Príprava novej poštovej schránky na použitie môže trvať až 24 hodín.
   
-Ak je poštová schránka používateľa "pripravuje sa" dlhšie ako hodinu, skúste odstrániť licenciu na Exchange od používateľa a znova ju pridať späť alebo sa [obráťte na oddelenie technickej podpory](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+Ak sa poštová schránka používateľa pripravuje na dlhšie ako hodinu, skúste používateľovi odobrať licenciu na Exchange a znova ju pridať späť alebo sa obráťte na oddelenie [podpory.](/microsoft-365/admin/contact-support-for-business-products?tabs=online)
