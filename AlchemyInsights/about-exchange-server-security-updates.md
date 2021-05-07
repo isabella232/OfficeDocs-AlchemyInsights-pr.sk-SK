@@ -1,5 +1,5 @@
 ---
-title: Informácie o aktualizáciách zabezpečenia servera Exchange
+title: Informácie Exchange Server aktualizáciách
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726542"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233477"
 ---
-# <a name="about-exchange-server-security-updates"></a><span data-ttu-id="455d0-102">Informácie o aktualizáciách zabezpečenia servera Exchange</span><span class="sxs-lookup"><span data-stu-id="455d0-102">About Exchange Server Security updates</span></span>
+# <a name="about-exchange-server-updates"></a><span data-ttu-id="bbb56-102">Informácie Exchange Server aktualizáciách</span><span class="sxs-lookup"><span data-stu-id="bbb56-102">About Exchange Server updates</span></span>
 
-<span data-ttu-id="455d0-103">Spoločnosť Microsoft vydala rad dôležitých aktualizácií zabezpečenia lokálneho servera Exchange.</span><span class="sxs-lookup"><span data-stu-id="455d0-103">Microsoft has released a series of critical security updates for Exchange Server on-premises.</span></span> <span data-ttu-id="455d0-104">Príslušné verzie servera sú všetky úrovne aktualizácie Exchange servera 2010, 2013, 2016 a 2019.</span><span class="sxs-lookup"><span data-stu-id="455d0-104">The affected server versions are any update levels of Exchange Server 2010, 2013, 2016 and 2019.</span></span> <span data-ttu-id="455d0-105">Exchange Online nie je ovplyvnený, ale ak máte v dôsledku hybridnej konfigurácie niektoré lokálne servery Exchange, môžu byť potenciálne zraniteľní.</span><span class="sxs-lookup"><span data-stu-id="455d0-105">Exchange Online is NOT impacted, but if you have some on-premises Exchange servers due to Hybrid configuration, they are potentially vulnerable.</span></span>
+<span data-ttu-id="bbb56-103">Spoločnosť Microsoft zvyčajne vydáva Exchange Server aktualizácie v utorok (aktualizácie zabezpečenia) alebo kvartality (kumulatívne aktualizácie).</span><span class="sxs-lookup"><span data-stu-id="bbb56-103">Microsoft usually releases Exchange Server updates on Update Tuesday (Security Updates) or quarterly (Cumulative Updates).</span></span> <span data-ttu-id="bbb56-104">Oznámenia o najnovších vydaných aktualizáciách nájdete v blogu tímu [Exchange tímu.](https://aka.ms/ehlo)</span><span class="sxs-lookup"><span data-stu-id="bbb56-104">To see the announcements of latest released updates released, see the [Exchange Team Blog](https://aka.ms/ehlo).</span></span>
 
-<span data-ttu-id="455d0-106">Prečítajte si nasledujúce oznámenie o umiestnení opráv: [vydané: marec 2021 aktualizácie zabezpečenia servera Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span><span class="sxs-lookup"><span data-stu-id="455d0-106">Please see the following announcement for location of fixes: [Released: March 2021 Exchange Server Security Updates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span></span>
+- <span data-ttu-id="bbb56-105">Ak chcete svoje Exchange servery, použite Exchange Server Kontrola stavu [služby (GitHub použiť najnovšie vydanie).](https://aka.ms/ExchangeHealthChecker)</span><span class="sxs-lookup"><span data-stu-id="bbb56-105">To inventory your Exchange Servers, use the [Exchange Server Health Checker script, (GitHub, use the latest release)](https://aka.ms/ExchangeHealthChecker).</span></span> <span data-ttu-id="bbb56-106">Spustením tohto skriptu sa oznámi, či niektorý Exchange servery zaostávajú za aktualizáciami (CU a SU).</span><span class="sxs-lookup"><span data-stu-id="bbb56-106">Running this script tells you if any of your Exchange Servers are behind on updates (CUs and SUs).</span></span>
 
-<span data-ttu-id="455d0-107">**Dôležité poznámky:**</span><span class="sxs-lookup"><span data-stu-id="455d0-107">**Important notes:**</span></span>
+- <span data-ttu-id="bbb56-107">Ak chcete aktualizovať na najnovšiu kumulatívnu aktualizáciu, prejdite [na sprievodcu Exchange aktualizácie](https://aka.ms/ExchangeUpdateWizard) a vyberte aktuálne spustené KUMULATÍVNA a cieľovú kumulatívnu aktualizáciu.</span><span class="sxs-lookup"><span data-stu-id="bbb56-107">To update to the latest Cumulative Update, go to [Exchange Update Wizard](https://aka.ms/ExchangeUpdateWizard) and choose your currently running CU and your target CU.</span></span> <span data-ttu-id="bbb56-108">Ak **chcete získať navigačné pokyny pre svoje** prostredie, vyberte položku Chcem vedieť postup.</span><span class="sxs-lookup"><span data-stu-id="bbb56-108">Select **Tell me the steps** to get directions for your environment.</span></span>
 
-<span data-ttu-id="455d0-108">Ak manuálne inštalujete aktualizácie, prečítajte si časť známe problémy v téme Aktualizácia článkov vedomostnej databázy, kde nájdete dôležité informácie.</span><span class="sxs-lookup"><span data-stu-id="455d0-108">If installing updates manually, please read the "Known issues" section of update KB articles for important information.</span></span> <span data-ttu-id="455d0-109">Aktualizácie zabezpečenia sa musia spustiť z vyžiadanej výzvy CMD alebo PowerShell.</span><span class="sxs-lookup"><span data-stu-id="455d0-109">Security updates MUST be run from elevated CMD/PowerShell prompt!</span></span>
-
-<span data-ttu-id="455d0-110">Informácie o riešení problémov s aktualizáciou nájdete [tu](https://aka.ms/exupdatefaq).</span><span class="sxs-lookup"><span data-stu-id="455d0-110">Update troubleshooting information can be [found here](https://aka.ms/exupdatefaq).</span></span>
+- <span data-ttu-id="bbb56-109">Ak sa počas inštalácie alebo po inštalácii aktualizácií vyskytne Exchange Server chyba, pozrite si časť Oprava zlyhala Exchange [kumulatívnych aktualizácií a aktualizácií zabezpečenia.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)</span><span class="sxs-lookup"><span data-stu-id="bbb56-109">If you encounter errors during or after installation of Exchange Server updates, see [Repair failed installations of Exchange Cumulative and Security updates](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).</span></span>
