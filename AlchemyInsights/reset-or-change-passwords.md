@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810211"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569666"
 ---
 # <a name="reset-or-change-passwords"></a>Vytvorenie nového hesla alebo zmena hesiel
 
-Používateľ môže zmeniť svoje vlastné heslo z možnosti **Zabezpečenie môjho konta a**& osobných  >  [údajov.](https://portal.office.com/account/#security)
+Používateľ môže zmeniť svoje vlastné heslo výberom fotografie alebo iniciály používateľa > **Zobraziť konto**.
   
 Ak používateľ zabudli svoje heslo, správca môže vytvoriť nové heslo tak, že preberie položky Aktívni používatelia, vyberie používateľov a kliknite  >  [](https://portal.office.com/adminportal/home#/users)na položku Vytvoriť **nové heslo.**
   
-[Kliknite sem a získajte ďalšie informácie](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)alebo nechajte používateľov, aby si obnovili svoje vlastné zabudnuté heslá.
+Ďalšie informácie o heslách, ktoré používateľom umožnia vytvoriť si nové heslá, nájdete v téme [Vytvorenie nového hesla.](/microsoft-365/admin/add-users/reset-passwords)

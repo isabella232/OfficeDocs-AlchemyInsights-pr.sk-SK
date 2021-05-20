@@ -1,5 +1,5 @@
 ---
-title: Doplnok teams pre Mac
+title: Teams pre Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670343"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582085"
 ---
-# <a name="teams-add-in-for-mac"></a>Doplnok teams pre Mac
+# <a name="teams-add-in-for-mac"></a>Teams pre Mac
 
-Ak chcete vyriešiť problém s chýbajúcimi tímami pre používateľov operačných systémov pre Mac, postupujte takto:
+Ak chcete vyriešiť problém Teams používateľom chýbajúceho doplnku pre Mac, postupujte takto:
 
-**Krok 1:** Ak máte lokálne hybridné Exchange (2016 CU3 alebo novšiu verziu), pomocou nástroja Test-HMA.ps1 potvrďte, že hybridné moderné overovanie je správne nakonfigurované. Ďalšie informácie nájdete v téme [overovanie hybridného moderného nastavenia overovania pre Outlook pre iOS a Android](https://aka.ms/AA980zq).  
+**Krok 1:** Ak máte hybridné Exchange lokálne (vyžaduje sa 2016 CU3 alebo novšia verzia), pomocou nástroja Test-HMA.ps1 overte, či je hybridné moderné overovanie správne nakonfigurované. Ďalšie informácie nájdete v téme [Overenie nastavenia hybridného moderného overovania pre Outlook pre iOS a Android.](https://aka.ms/TestHMAEAS)  
 
-**Poznámka:** Použite formát adresy UPN (napríklad [username@contoso.com](mailto:username@contoso.com)), nie Domain\Username. Urobte to aj pre používateľov s poštovými schránkami v službe Exchange Online.
+**Poznámka** Použite formát adresy menom používateľa (napríklad username@contoso.com [),](mailto:username@contoso.com)nie doména\menopoužívateľa. Tento to môžete urobiť aj pre používateľov s Exchange Online poštovou Exchange Online poštovou schránkami.
 
-**Krok 2:** Používateľ musí prejsť na kontá **nástrojov**  >  **Accounts**... v Outlooku pre Mac a vyhľadajte a vyberte konto. Potvrďte, že je uvedené meno používateľa vo formáte UPN (napríklad [username@contoso.com](mailto:username@contoso.com)).
+**Krok 2:** Uchyťte používateľa prejsť **na položku Kontá**  >  **nástrojov**... in Outlook pre Mac, and find and select the account. Potvrďte, že meno používateľa je vo formáte uvedeného užívateľa [(napríklad username@contoso.com](mailto:username@contoso.com)).
 
-**Krok 3:** Potvrďte, že používateľ je licencovaným používateľom aplikácie Microsoft teams. Používateľ musí používať predplatné na Office 365 pre Mac, verziu produktu 16,24 alebo novšiu verziu.
+**Krok 3:** Potvrďte, že používateľ je licencovaný Microsoft Teams používateľa. Používateľ musí používať predplatné na Office 365 pre Mac, verziu produktu 16.24 alebo novšiu.

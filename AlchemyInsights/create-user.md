@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747026"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569762"
 ---
 # <a name="create-user"></a>Vytvoriť používateľa
 
-**OZNÁMENIE**
+**OZNÁMENIE:**
 
-- [Odmietanie podpory pri prihlasovaní na webové stránky od spoločnosti Google od 4. januára 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . Otestujte, či vaše aplikácie môžu byť ovplyvnené podľa [pokynov spoločnosti Google](https://go.microsoft.com/fwlink/?linkid=2157323) o testovaní kompatibility.
-- Pri prihlasovaní používateľov pomocou spotrebiteľských kont Google sa uistite, že používate systémové webové zobrazenie alebo systémový prehliadač. Ďalšie informácie nájdete v téme [problémy s prihlasovaním do aplikácií pomocou prehliadača Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- [Od 4. januára 2021](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) sme podporu pri prihlasovaní do služby WebView od spoločnosti Google odstrašujú. Pomocou pokynov spoločnosti Google o testovaní [kompatibility môžete testovať,](https://go.microsoft.com/fwlink/?linkid=2157323) či môžu byť vaše aplikácie ovplyvnené.
+- Pri prihlasovaní používateľov pomocou spotrebiteľských kont Google nezabudnite používať systémové webové zobrazenie alebo systémový prehliadač. Ďalšie informácie nájdete v téme [Problémy pri prihlasovaní do aplikácií len pomocou prehliadača Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
-**Nemôžem vytvoriť nového používateľa v službe Azure AD Directory**
+**Nemôžem vytvoriť nového používateľa v adresári Azure AD**
 
-1. Uistite sa, že máte oprávnenie na vytvorenie nového štandardného používateľa. Nový štandardný používateľ môže vytvoriť iba globálny správca alebo rola správcu používateľa v službe Azure Active Directory (AD). Ak nie ste v niektorej z týchto rolí, požiadajte správcu, aby vás pridal do niektorej z týchto rolí alebo aby vám vytvoril nové používateľské konto.
-1. Skontrolujte, či sa meno používateľa nachádza v doméne, ktorá je overená v službe Azure AD. Ak nemáte žiadne overené vlastné názvy domén v službe Azure AD, môžete použiť pôvodnú doménu Azure AD, ktorá končí reťazcom *. onmicrosoft.com.
-1. Skontrolujte, či sa meno používateľa nachádza v doméne, ktorá nie je združená s Azúrovou REKLAMou z lokálnej reklamy. Používatelia nie je možné pridať do cloudu s názvami domén, ktoré sú externé ako lokálne.
-1. Uistite sa, že žiadny iný používateľ ani kontakt už nemá meno používateľa, ktoré chcete priradiť novému používateľovi. Mená používateľov musia byť jedinečné v rámci služby Azure AD.
-1. Pozrite si tému [roly Azure AD a správcovia](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) služby Azure AD.
-1. Pozrite si [názvy domén](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) v službe Azure AD.
-1. Skontrolujte [denníky auditu](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) , aby sa zobrazili podrobnejšie informácie o nedávno vytvorenom alebo odstránenom používateľovi, ako ktorí vykonali akciu, a kedy.
-1. Ďalšie informácie o pridávaní nových používateľov nájdete [v téme Používanie portálu Azure na vytvorenie nového používateľa v službe Azure AD](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Roly spravovania služby Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): povolenia roly správcu v službe Azure Active Directory
-1. [Na vytvorenie nového používateľa môžete použiť aj prostredie Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).
+1. Uistite sa, že máte oprávnenie na vytvorenie nového štandardného používateľa. Nového štandardného používateľa môže vytvoriť iba rola globálneho Azure Active Directory správcu alebo správcu používateľov v službe Azure Active Directory (AD). Ak nemáte niektorú z týchto rolí, požiadajte správcu, aby vás k jednej z týchto rolí pridať, alebo aby pre vás vytvoril nové používateľské konto.
+1. Overte, či sa meno používateľa nachádza v doméne overenej v službe Azure AD. Ak nemáte v Azure AD žiadne overené vlastné názvy domén, môžete použiť počiatočnú doménu služby Azure AD, ktorá sa končí na *.onmicrosoft.com.
+1. Skontrolujte, či sa meno používateľa nachádza v doméne, ktorá nie je federovaná na Azure AD z lokálnej služby AD. Používateľov nie je možné pridať do cloudu s názvami domén, ktoré sú federované z lokálneho objektu.
+1. Presvedčte sa, že žiaden iný používateľ alebo kontakt už nemá meno používateľa, ktoré chcete priradiť novému používateľovi. V Azure AD musia byť mená používateľov jedinečné.
+1. Pozrite [si časť Roly a správcovia služby Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pre službu Azure AD.
+1. Pozrite si [názvy domén v](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD.
+1. Pozrite [si denníky](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) auditu a pozrite si podrobnejšie informácie o nedávno vytvorenom alebo odstránenom používateľovi, napríklad kto a kedy akciu vykonal.
+1. Ďalšie informácie o pridávaní nových používateľov nájdete v téme Vytvorenie nového používateľa v službe Azure AD pomocou [portálu Azure.](/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Roly správcu služby Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)povolenia roly správcu v Azure Active Directory
+1. Na vytvorenie nového používateľa môžete použiť aj [Azure AD PowerShell.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

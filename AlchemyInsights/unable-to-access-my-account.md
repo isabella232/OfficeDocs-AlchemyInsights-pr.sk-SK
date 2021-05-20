@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 4ab3fb7929fe9c00c2e07985e95b9cc821579576
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489184"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545463"
 ---
 # <a name="unable-to-access-my-account"></a>Nie je možné získať prístup ku kontu
 
@@ -25,9 +25,9 @@ Ak platnosť vášho predplatného uplynula, bolo vypnuté spoločnosťou Micros
 
 **Opätovná aktivácia predplatného**
 
-1. V centre spravovania prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyhľadajte predplatné, ktoré chcete opätovne aktivovať. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **znova aktivovať toto predplatné**.
-3. Na table **opätovne aktivovať toto predplatné** vyberte spôsob úhrady z rozbaľovacieho zoznamu alebo vyberte položku **pridať spôsob úhrady**.
-4. Vyberte položku **Uložiť**.
+1. V centre spravovania prejdite na stránku  >  [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **karte** Produkty vyhľadajte predplatné, ktoré chcete opätovne aktivovať. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Znovu aktivovať toto predplatné**.
+3. Na table **Znova aktivovať toto** predplatné vyberte z rozbaľovacieho zoznamu spôsob úhrady alebo vyberte položku **Pridať spôsob úhrady**.
+4. Vyberte **položku Uložiť**.
 
-Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
