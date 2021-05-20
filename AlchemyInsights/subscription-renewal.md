@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286865"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539983"
 ---
-# <a name="subscription-recurring-billing"></a>Opakovaná Fakturácia predplatného
+# <a name="subscription-recurring-billing"></a>Opakovaná fakturácia predplatného
 
-Ak sa chcete dozvedieť, kedy sa mesačné alebo ročné predplatné účtujú (ak je **opakovaná Fakturácia** zapnutá) alebo po uplynutí platnosti (ak je **opakovaná Fakturácia** vypnutá), postupujte takto:
+Ak chcete zistiť, kedy je vaše mesačné alebo  ročné predplatné fakturované (ak je možnosť  Opakovaná fakturácia zapnutá) alebo kedy sa skončí jej platnosť (ak je možnosť Opakovaná fakturácia vypnutá), postupujte takto:
   
-1. V centre spravovania prejdite na stránku **Fakturácia** \> [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyhľadajte predplatné, o ktorom sa chcete dozvedieť viac. V stĺpci **stav predplatného** sa zobrazuje dátum obnovenia alebo uplynutia platnosti.
-3. Ak chcete vykonať zmenu, vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **Upraviť opakovanú fakturáciu**.
-4. Na table **Upraviť opakovanú fakturáciu** vyberte možnosť **zapnuté**, **zapnuté, obnoviť raz**alebo **VYP**.
-5. Vyberte položku **Uložiť**.
+1. V centre spravovania prejdite  na stránku \> [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na karte **Produkty** vyhľadajte predplatné, o ktorých sa chcete dozvedieť viac. V **stĺpci Stav** predplatného sa zobrazuje dátum obnovenia alebo uplynutia platnosti.
+3. Ak chcete vykonať zmenu, vyberte tri bodky (ďalšie akcie) a potom vyberte položku Upraviť **opakovanú fakturáciu**.
+4. Na table **Upraviť opakovanú fakturáciu** vyberte **možnosť On** **(Dňa) , On (Dňa) , Renew once (Obnoviť raz)** alebo **Off (Vypnuté).**
+5. Vyberte **položku Uložiť**.
 
-Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](/microsoft-365/commerce/subscriptions/renew-your-subscription).

@@ -1,5 +1,5 @@
 ---
-title: Rozdiely v podnikových plánoch programu Microsoft 365
+title: Microsoft 365 Enterprise rozdielov v pláne
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748521"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539767"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Rozdiely v podnikových plánoch programu Microsoft 365
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise rozdielov v pláne
 
-Microsoft 365 Enterprise E5 obsahuje všetky funkcie programu Microsoft 365 Enterprise E3 a Rozšírené bezpečnostné opatrenia, ako napríklad:
+Microsoft 365 Enterprise E5 zahŕňa všetky funkcie systému Microsoft 365 Enterprise E3 a pokročilé bezpečnostné opatrenia, ako napríklad:
 
-- Rozšírená ochrana pred hrozbami (ATP)
-- Pokročilé riadenie údajov
+- Ochrana pred hrozbou
+- Advanced Data Governance
 - Customer Lockbox
-- Zabezpečenie cloudovej aplikácie Microsoft 365
-- Rozšírené elektronické vyhľadávanie
-- Služby správy prístupových práv
-- Trezor v Azúrovom tlačidle
+- Microsoft 365 Cloud App Security
+- Advanced eDiscovery
+- Rights Management Services
+- Trezor na klávesy Azure
 
-Microsoft 365 Enterprise E5 tiež prichádza s výkonnými analytickými a hlasnými funkciami, ako napríklad:
+Microsoft 365 Enterprise E5 obsahuje aj výkonné analytické a hlasové možnosti, ako napríklad:
 
 - Živé tabule
-- Zostavy so službou Power BI
-- Moderný hlas
+- Zostavy so power bi
+- Modern Voice
 - Audiokonferencie
 - Online schôdze
 
-Ďalšie informácie o službe Microsoft 365 Enterprise E5 alebo o registrácii skúšobného predplatného nájdete v téme [vyskúšanie alebo zakúpenie predplatného na Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2099673).
+Ďalšie informácie o Microsoft 365 Enterprise E5 alebo o zaregistrovaní skúšobného predplatného nájdete v téme Vyskúšanie [alebo zakúpenie Microsoft 365 predplatného.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
-Ak chcete porovnať funkcie v rámci podnikových plánov, pozrite si tému [porovnanie podnikových plánov](https://go.microsoft.com/fwlink/?linkid=2097200).
+Ak chcete porovnať funkcie v rámci plánov Enterprise, pozrite si [časť Porovnanie plánov Enterprise.](https://go.microsoft.com/fwlink/?linkid=2097200)
 
-Radi by sme uvítali vaše pripomienky, preto na zobrazenú otázku vyberte možnosť Áno/nie a potom Ohodnoťte svoje skúsenosti.
+Ďakujeme za vaše pripomienky, preto k zobrazenej otázke vyberte možnosť Áno/Nie a potom ohodíme vaše skúsenosti.

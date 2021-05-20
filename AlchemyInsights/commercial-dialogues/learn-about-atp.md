@@ -1,5 +1,5 @@
 ---
-title: Ďalšie informácie o atp
+title: Ďalšie informácie o programe Microsoft Defender pre Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403578"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539803"
 ---
-# <a name="learn-about-atp"></a>Ďalšie informácie o atp
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Ďalšie informácie o programe Microsoft Defender pre Office 365
 
-Tu nájdete niekoľko informácií o rozšírenej ochrane pred hrozbou pre Office 365 (ATP):
+Tu nájdete niekoľko informácií o aplikácii Microsoft Defender Office 365:
 
-**Čo je ATP?**
+**Čo je Microsoft Defender for Office 365?**
 
-ATP je cloudová služba filtrovania e-mailov, ktorá poskytuje robustnú nulovú ochranu a pomáha organizáciám chrániť organizácie pred neznámym malvérom a vírusmi. Obsahuje funkcie na ochranu organizácií pred škodlivými prepojeniami v reálnom čase.
+Microsoft Defender pre Office 365 je cloudová služba filtrovania e-mailov, ktorá pomáha chrániť organizácie pred neznámym malvérom a vírusmi poskytnutím robustnej nulovej ochrany. Obsahuje funkcie na ochranu organizácií pred škodlivými prepojeniami v reálnom čase.
 
-**Ako aktivujem funkciu ATP?**
+**Ako aktivujem Microsoft Defender pre Office 365?**
 
-Funkcia ATP obsahuje bezpečné prílohy, bezpečné prepojenia a neoprávnené získavanie údajov. Enterprise E5, Education A5 a Microsoft 365 Business obsahujú vstavané funkcie ATP. Všetky ostatné plány vyžadujú predplatné na doplnky ATP. Je potrebné priradiť používateľom príslušné licencie, aby boli chránené pomocou ATP služieb Office 365. Ak chcete získať prístup k tejto funkcii, musíte mať povolenia globálneho správcu alebo správcu zabezpečenia. Ďalšie informácie o hromadnom priradení licencií koncovým používateľom nájdete v téme Priradenie licencií pre používateľov v [službách Office 365 for business.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Trezor Prílohy, Trezor prepojenia a neoprávnené získavanie údajov sú súčasťou funkcie Microsoft Defender Office 365 údajov. Enterprise E5, Education A5 a Microsoft 365 Business obsahujú vstavaný program Microsoft Defender pre Office 365 funkcií. Všetky ostatné plány vyžadujú doplnok Microsoft Defender pre Office 365 predplatné. Je potrebné priradiť používateľom príslušné licencie, aby boli chránené aplikáciou Microsoft Defender pre Office 365. Ak chcete získať prístup k tejto funkcii, musíte mať povolenia globálneho správcu alebo správcu zabezpečenia. Ďalšie informácie o hromadnom priradení licencií koncovým používateľom nájdete v téme Priradenie licencií pre používateľov v [Office 365 for business.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Ako môžem spravovať atp alebo získať o ňom ďalšie informácie?**
+**Ako môžem spravovať Microsoft Defender pre Office 365 získať ďalšie informácie?**
 
 a. Prejdite do [nastavení.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
 b. V **časti Prihlásenie a zabezpečenie vyhľadajte** položku Zvýšiť ochranu pred **rozšírenými hrozbami** a potom vyberte položku [Zobraziť](https://go.microsoft.com/fwlink/?linkid=2109302).

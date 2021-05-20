@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233801"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539659"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Publikovanie označenia citlivosti
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233801"
 
 1. Ak potrebujete odlišné nastavenia politiky pre rôznych používateľov alebo umiestnenia, zopakujte tento postup. Chcete napríklad ďalšie označenia pre skupinu používateľov alebo iné predvolené označenie podmnožiny používateľov.
 
-1. Ak vytvoríte viac ako jednu politiku označenia, ktorá môže viesť ku konfliktu pre používateľa alebo umiestnenie, skontrolujte poradie politiky a v prípade potreby ich presuňte nahor alebo nadol. Ak chcete zmeniť poradie politiky označenia, vyberte **položku ...** pre položku **Ďalšie akcie** a potom vyberte položku **Posunúť nahor alebo** **Posunúť nadol**.
+1. Ak vytvoríte viac ako jednu politiku označenia, ktorá môže viesť ku konfliktu pre používateľa alebo umiestnenie, skontrolujte poradie politiky a v prípade potreby ich presuňte nahor alebo nadol. Ak chcete zmeniť poradie politiky označenia, vyberte tri bodky (ďalšie akcie) a potom vyberte položku **Posunúť** nahor alebo **Posunúť nadol**.
 
 Dokončuje sa sprievodca, ktorý automaticky publikuje politiku označenia.
