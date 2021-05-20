@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824630"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544845"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Prijímate v poštovej schránke príliš veľa formulácií alebo nevyžiadanej pošty?
 
-**Poznámka** Do Centra zabezpečenia služby Microsoft 365 máte prístup na stránke [https://security.microsoft.com](https://security.microsoft.com) .
+**Poznámka** Do Centra zabezpečenia Microsoft 365 môžete získať prístup na adrese [https://security.microsoft.com](https://security.microsoft.com) .
 
-Ako správca služby Microsoft 365 najlepším spôsobom, ako zistiť, prečo sa e-mailová správa o neoprávnenom získavaní údajov alebo nevyžiadanej pošte doručila, je odoslať vzor do spoločnosti Microsoft v [Prieskumníkovi odoslania.](https://security.microsoft.com/reportsubmission) Okamžite získate pripomienky týkajúce sa filtrovania správ a dôvodov problémov.
+Ako správca Microsoft 365 najlepším spôsobom, ako zistiť, prečo sa e-mailová správa o neoprávnenom získavaní údajov alebo nevyžiadanej pošte doručila, je odoslať ukážku do spoločnosti Microsoft [v Prieskumníkovi odoslania.](https://security.microsoft.com/reportsubmission) Okamžite získate pripomienky týkajúce sa filtrovania správ a dôvodov problémov.
 
 Ak ju chcete zjednodušiť, môžete povoliť používateľom nahlásiť správu priamo spoločnosti Microsoft prostredníctvom [doplnku Nahlásiť správu.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-**Vedeli ste to?**: Ukážky [](https://security.microsoft.com/messagetrace) teraz môžete odoslať priamo zo sledovania správ a zákazníci s plánom E5/ATP Plan 2 môžu odoslať vzorky z [Prieskumníka hrozieb.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
+**Vedeli ste to?**: Ukážky [](https://security.microsoft.com/messagetrace) teraz môžete odoslať priamo zo sledovania správ a e5/Microsoft Defender pre Office 365 Zákazníkom s plánom 2 môžu odoslať ukážky z [Prieskumníka hrozieb.](/microsoft-365/security/office-365-security/threat-explorer)

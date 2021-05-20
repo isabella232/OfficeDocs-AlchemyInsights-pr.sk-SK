@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 464efadcfa0a80efecad107199e669dbadfbae39
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261781"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544809"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferencie
 
-Potrebujete pomoc pri zapnutí alebo nastavení [audiokonferencií pre Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Je používateľ nedávno vytvorený? Ak áno, nastavenia sa prejavia až po niekoľkých hodinách.
+Potrebujete pomoc pri zapnutí alebo nastavení [audiokonferencií pre Microsoft Teams?](/microsoftteams/set-up-audio-conferencing-in-teams)  Je používateľ nedávno vytvorený? Ak áno, nastavenia sa prejavia až po niekoľkých hodinách.
 
-Ak [ste licencie zakúpili, overte,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)či má používateľ licenciu na Microsoft 365 audiokonferencie a či má predvolené spoplatnené číslo.
+Ak [ste licencie zakúpili, overte,](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)či má používateľ licenciu na Microsoft 365 audiokonferencie a či má predvolené spoplatnené číslo.
 
 1. Prejdite na položku [Aktívni používatelia](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) a potom vyberte príslušného používateľa.
 
 2. V závislosti od verzie centra spravovania vyberte možnosť **Licencie a aplikácie** alebo kliknite na položku **Upraviť** v okne **Licencie na produkty**.
 
-3. Potvrďte, že používateľ má vybraté licencie **na Microsoft 365 audiokonferencie, Microsoft Teams** a Skype for Business Online **(Plan 2)**. Ak licencia **Microsoft 365 audiokonferencie** nie je k dispozícii, treba najprv zakúpiť licencie [na pridanie.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. Potvrďte, že používateľ má vybraté licencie **na Microsoft 365 audiokonferencie, Microsoft Teams** a Skype for Business Online **(Plan 2)**. Ak licencia **Microsoft 365 audiokonferencie** nie je k dispozícii, treba najprv zakúpiť licencie [na pridanie.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. V **centre spravovania** kliknite na položku **Zobraziť všetko**, potom na položku **Teams**.
 
@@ -40,4 +40,4 @@ Ak [ste licencie zakúpili, overte,](https://docs.microsoft.com/microsoftteams/s
 
 7. Vyberte príslušného používateľa a overte, či má **Predvolené platené číslo**.
 
-Ak potrebujete väčšiu pomoc s nákupom licencií na audiokonferencie **od spoločnosti Microsoft, zavolajte** na oddelenie podpory pre [fakturáciu od spoločnosti Microsoft.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support)
+Ak potrebujete väčšiu pomoc s nákupom licencií na audiokonferencie **od spoločnosti Microsoft,** obráťte sa na oddelenie technickej podpory [pre fakturáciu od spoločnosti Microsoft.](https://go.microsoft.com/fwlink/p/?linkid=518322)

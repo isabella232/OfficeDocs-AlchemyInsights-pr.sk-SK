@@ -1,5 +1,5 @@
 ---
-title: Integrovaná aplikácia Microsoft Defender ATP
+title: Tabuľa Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673440"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545319"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Integrovaná aplikácia Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>Tabuľa Microsoft Defender ATP
 
-Informácie o zdrojoch na palube aplikácie Microsoft Defender ATP pre Windows 10, Windows servery a Mac a linuxové zariadenia nájdete v témach: 
+Zdroje informácií o onboardových Microsoft Defender ATP pre Windows 10, Windows a Mac a Linux nájdete v téme: 
 
-- **Počítače s Windowsom 10** V závislosti od vašich obchodných požiadaviek si môžete vybrať z možností na palube počítača s Windowsom 10. Ďalšie informácie nájdete v téme [Nástroje a metódy pre zariadenia s Windowsom 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Windows 10 počítače** V závislosti od podnikových požiadaviek si môžete vybrať z možností a zapnite počítač so Windows 10. Ďalšie informácie nájdete v téme [Nástroje a metódyboardovania pre Windows 10 zariadenia.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Servery Windowsu** Ak chcete na palube aplikácie Microsoft Defender ATP pre svoju verziu systému Windows Server, pozrite si tému [integrované servery v službe Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows servery** Ak chcete Microsoft Defender ATP pre svoju verziu Windows Servera, pozrite si časť Server [na Microsoft Defender ATP služby.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
-- **Koncové body mimo Windowsu**  Pred založením systému bez systému Windows musíte spĺňať systémové požiadavky pre [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) alebo [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+- **Koncové body Windows, ktoré sa Windows od iných koncových bodov**  Pred spustením systému mimo Windows musíte spĺňať systémové požiadavky pre [Mac alebo](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 
-    Po potvrdení systémových požiadaviek si pozrite tému [integrované zariadenia mimo Windowsu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).
+    Po potvrdení systémových požiadaviek si prečítajte časť [Zariadenia, ktoré nie sú pripojené k Windows zariadenia.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)

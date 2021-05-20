@@ -1,5 +1,5 @@
 ---
-title: V centre zabezpečenia nie sú nájdené žiadne predplatné
+title: V Centre zabezpečenia sa nenašli žiadne správy o predplatných
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713965"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544123"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>V centre zabezpečenia nie sú nájdené žiadne predplatné
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>V Centre zabezpečenia sa nenašli žiadne správy o predplatných
 
-Ak sa pri prístupe k centru zabezpečenia programu Microsoft Defender zobrazí hlásenie žiadne nájdené predplatné, znamená to, že v službe Azure Active Directory (AAD), ktorá sa používa na prihlásenie používateľa na portál, nie je k dispozícii licencia Microsoft Defender ATP.  
+Ak sa počas prístupu k Centrum zabezpečenia v programe Microsoft Defender zobrazí hlásenie Nenašli sa žiadne predplatné, znamená to, že Azure Active Directory (AAD) používaný na prihlásenie používateľa na portál nemá licenciu na Microsoft Defender ATP.  
 
-Licencie na Windows E5 a Office E5 sú samostatné licencie.
+Licencie Windows E5 a Office E5 sú samostatné licencie.
 
-Otvorte prípad podpory, ak bola licencia zakúpená, ale nebola poskytnutá tejto inštancii AAD. Buď máte: <br/>
+Otvorte prípad podpory, ak bola licencia zakúpená, ale nie je ustavená v tejto inštancii služby AAD. Či už máte: <br/>
 -   Možný problém s poskytovaním licencií.<br/>
--   Ste neúmyselne ustanovili licenciu na inú spoločnosť Microsoft AAD, než je tá, ktorá sa použila na overenie do služby.
+-   Neúmyselne ste licenciu zverejňujú inej službe Microsoft AAD ako ten, ktorý sa používa na overovanie do služby.

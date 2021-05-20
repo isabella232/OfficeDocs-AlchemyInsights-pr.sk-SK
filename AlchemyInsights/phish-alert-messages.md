@@ -1,5 +1,5 @@
 ---
-title: 2491 upozorniť na e-mailové správy z Phish doručené z dôvodu politiky prepísania nájomníka alebo používateľa
+title: 2491 Alert email messages from the 'Phish Delivered due to tenant or user override' policy
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728626"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544593"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Upozorniť na e-mailové správy z Phish doručené z dôvodu politiky prepísania nájomníka alebo používateľa
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>E-mailové správy s upozornením z politiky prepísania nájomníka alebo používateľa sa doručujú phish Delivered
 
-Na nájomníkov s licenciami na Office 365 ATP P1 a P2 boli prevzaté predvolené politiky upozornení s názvom Phish doručené z dôvodu prepísania nájomníka alebo používateľa. Ak ste prijali toto upozornenie, tu sú uvedené kroky, ktoré je potrebné preskúmať:
+Pre nájomníkov pomocou nástroja Microsoft Defender pre Office 365 P1 a P2 sa v nájomníkoch zaregistrovala predvolená politika upozornenia s názvom Phish Delivered due to tenant or user override (Prepísanie nájomníka alebo používateľa). Ak ste dostali toto upozornenie, preskúmajte tieto kroky:
 
-1. V upozorňujúcej správe kliknite na položku **Zobraziť upozornenie** , čím prejdete na stránku **upozornenia** v centre zabezpečenia & dodržiavania súladu.
+1. V upozornení kliknite na položku **Zobraziť upozornenie** a prejdite na stránku **Upozornenia** v Centre zabezpečenia & súladu.
 
-2. Vyberte upozornenie, aby sa zobrazila možnosť **Zobraziť zoznam správ** alebo **Zobraziť správy v Prieskumníkovi**. Obe tieto možnosti sa donesú do podrobností o správe, ktorá obsahuje identifikáciu správy. Všimnite si, že prepojenie na program Threat Explorer automaticky filtruje správy, ktoré zodpovedajú kritériám upozornenia. Možno bude potrebné nastaviť filter dátumu v programe Threat Explorer.
+2. Ak chcete zobraziť možnosť Zobraziť zoznam správ alebo **Zobraziť správy v Prieskumníkovi,** **vyberte upozornenie.** Pomocou oboch týchto možností sa môžete o tejto správe postarať o podrobnosti, ktoré obsahujú identifikáciu správy. Všimnite si, že prepojenie Prieskumník hrozieb automaticky filtruje správy, ktoré spĺňajú kritériá upozornenia. Možno budete musieť upraviť filter dátumu v Prieskumníkovi hrozieb.
 
-Správa neoprávneného získavania údajov bola doručená z dôvodu manuálne nakonfigurovaného prepísania:
+Správa s cieľom neoprávneného získavania údajov sa doručila z dôvodu manuálne nakonfigurovaného prepísania:
 
-- Povolený odosielateľ alebo doména, ktorú používateľ nastavil.
+- Povolený odosielateľ alebo doména nastavená používateľom.
 
-- Povoleného odosielateľa alebo domény nastavenej správcom v politike ochrany pred nevyžiadanou poštou.
+- Povolený odosielateľ alebo doména nastavená správcom v politike ochrany pred nevyžiadanou poštou.
 
-- Povolená IP adresa v politike filtrovania pripojení.
+- Povolená IP adresa v politike filtrovania pripojenia.
 
-- Pravidlo toku pošty (označuje sa aj ako pravidlo prenosu), ktoré je nakonfigurované na povolenie správ v programe.
+- Pravidlo toku pošty (známe aj ako pravidlo prenosu), ktoré je nakonfigurované na povolenie správ.
 
-Ak sa domnievate, že správa bola nesprávne označená ako Phish, na odoslanie vzoriek správ do spoločnosti Microsoft použite [doplnok správa zostavy](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) programu Outlook.
+Ak si myslíte, že správa bola nesprávne označená ako phish, použite doplnok Outlook [Report Message a](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) odošlite vzorky správ spoločnosti Microsoft.

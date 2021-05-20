@@ -1,5 +1,5 @@
 ---
-title: Pridanie alebo odstránenie licencií na predplatné
+title: Pridanie alebo odstránenie licencií pre predplatné
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d26f9211b15332c1b94b09563d93a5b90592bcf4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232454"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544737"
 ---
-# <a name="add-or-remove-licenses-for-your-subscription"></a>Pridanie alebo odstránenie licencií na predplatné
+# <a name="add-or-remove-licenses-for-your-subscription"></a>Pridanie alebo odstránenie licencií pre predplatné
 
-**Pozrite si video, v** ktorom sa dozviete, ako to urobiť: [zakúpenie nových licencií](https://go.microsoft.com/fwlink/p/?linkid=2154857) alebo [odstránenie existujúcich licencií](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**POZRITE si video,** ktoré vám ukáže, ako na to: [Zakúpenie nových licencií](https://go.microsoft.com/fwlink/p/?linkid=2154857) [alebo Odstránenie existujúcich licencií](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. V centre spravovania prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyhľadajte predplatné, pre ktoré chcete zakúpiť alebo odobrať licencie. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **kúpiť licencie**.
-3. Ak chcete znížiť počet licencií, v hornej časti tably **kúpiť licencie** vyberte položku **odstrániť licencie**.
-4. Ak chcete kúpiť alebo odobrať licencie, v časti **nové množstvo** v poli **celkový počet licencií** zadajte celkový počet licencií, ktoré chcete pre toto predplatné. Ak máte napríklad licencie na 100 a chcete pridať ďalších 25, zadajte 125. Ak chcete odobrať 25 licencií, zadajte 75.
-5. Vyberte položku **Uložiť**.
+1. V centre spravovania prejdite na stránku  >  [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **karte Produkty** vyhľadajte predplatné, pre ktoré chcete kúpiť alebo odstrániť licencie. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Kúpiť licencie**.
+3. Ak chcete znížiť počet licencií, v hornej časti tably Nákup **licencií** vyberte položku **Odstrániť licencie**.
+4. Ak chcete zakúpiť alebo  odstrániť licencie,  v časti Nové množstvo v poli Celkový počet licencií zadajte celkový počet licencií, ktoré chcete pre toto predplatné použiť. Ak máte napríklad 100 licencií a chcete pridať ďalších 25, zadajte 125. Ak chcete odstrániť 25 licencií, zadajte 75.
+5. Vyberte **položku Uložiť**.
 
-Informácie o priradení licencií nájdete v téme [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Informácie o priraďovaní licencií nájdete v téme [Priradenie licencií používateľom.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-**Zdrojov**
+**Zdroje informácií**
   
-- [Zakúpenie alebo odobratie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-- [Zrušenie služby Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Vyskúšanie alebo zakúpenie predplatného na Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Zakúpenie alebo odstránenie licencií](/microsoft-365/commerce/licenses/buy-licenses)
+- [Zrušenie Microsoft 365 for business](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Vyskúšajte alebo si kúpte Microsoft 365 pre podniky](/microsoft-365/commerce/try-or-buy-microsoft-365)

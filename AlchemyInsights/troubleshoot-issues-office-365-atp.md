@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s aplikáciou Microsoft Defender pre Office 365 (ATP)
+title: Riešenie problémov s programom Microsoft Defender pre Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801422"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544773"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Riešenie problémov s balíkom Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Riešenie problémov s programom Microsoft Defender pre Office 365
 
-- **Všimnite si meškania s doručením e-mailových správ** ? Skúste použiť možnosť dynamické doručenie pre politiky v oblasti bezpečnosti príloh ATP. Týmto sa vyhnete meškaniu doručovania e-mailových správ a zároveň chránite príjemcov pred škodlivými súbormi.
-- **Chcete nahlásiť falošné pozitíva alebo falošné negatívy** ? Pomocou tohto prepojenia odošlete súbor na analýzu: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- Vedeli **ste, že môžete povoliť ochranu zabezpečených prepojení ATP v e-mailoch odoslaných medzi ľuďmi vo vašej organizácii** ? Vykonajte nasledujúce kroky:
+- **Všimli ste si oneskorenia pri doručovaní e-mailových správ?** Skúste použiť možnosť Dynamické doručovanie pre nástroj Microsoft Defender pre Office 365 Trezor politiky príloh. Zabránite tak oneskoreniu doručovania e-mailových správ a zároveň ochránite príjemcov pred škodlivými súbormi.
+- **Chcete nahlásiť nesprávne pozitívny alebo nesprávne negatívny výsledok?** Použite [Prieskumníka odosielania.](https://protection.office.com/reportsubmission)
+- Vedeli ste, že v aplikácii Microsoft Defender pre Microsoft Defender môžete zapnúť ochranu Office 365 Trezor prepojeniami pre e-maily odoslané **medzi ľuďmi vo vašej organizácii?** Vykonajte nasledujúce kroky:
     1. Prejdite na https://protection.office.com položku a prihláste sa.
-    2. Prejdite na **Threat management**  >  **Policy**  >  **bezpečné prepojenia** politiky správy hrozieb.
-    3. V časti **politiky, ktoré sa vzťahujú na konkrétnych príjemcov** , upravte (alebo pridajte) politiku.
-    4. Vyberte položku **použiť bezpečné prepojenia na správy odoslané v rámci organizácie** .
-    5. Uložte si politiku a počkajte 30 minút, kým sa vaše zmeny budú môcť používať v údajovom centre.
-- Ak chcete získať ďalšiu pomoc s ATP, pozrite si tému [Microsoft Defender pre Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+    2. Prejdite na **politiku správy**  >  **hrozieb Trezor**  >  **Prepojenia**.
+    3. V **časti Politiky, ktoré sa vzťahujú na konkrétnych** príjemcov, upravte (alebo pridajte) politiku.
+    4. Vyberte **položku Použiť bezpečné prepojenia na správy odoslané v rámci organizácie**.
+    5. Uložte politiku a až do 30 minút povoľte, aby sa zmeny mohli použiť.
+
+- Ak chcete získať väčšiu pomoc s aplikáciou Microsoft Defender Office 365, pozrite si [článok Microsoft Defender pre Office 365](/microsoft-365/security/office-365-security/office-365-atp).

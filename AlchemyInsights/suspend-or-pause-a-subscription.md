@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-- commerce
-ms.openlocfilehash: 1eec8f54e7fcc779dfcae73bda39efbabf533c43
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469101"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544521"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Pozastavenie alebo pozastavenie predplatného
 
-Na dočasné pozastavenie alebo pozastavenie predplatného môžete zrušiť predplatné v centre spravovania služby Microsoft 365.
+Ak chcete dočasne pozastaviť alebo pozastaviť predplatné, môžete predplatné zrušiť v centre spravovania Microsoft 365 predplatného.
 
-1. V centre spravovania prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Na karte **produkty** vyhľadajte predplatné, ktoré chcete zrušiť. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.
-3. Stav predplatného sa zobrazí ako **vypnutý** a zobrazuje dátum zrušenia predplatného. Predplatné zostane v stave vypnuté počas 90 dní a má obmedzenú funkčnosť, kým sa neodstráni alebo [znova neaktivuje](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+1. V centre spravovania prejdite na stránku  >  **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na **karte** Produkty vyhľadajte predplatné, ktoré chcete zrušiť. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Zrušiť predplatné**.
+3. Stav predplatného sa zobrazí **ako Vypnuté** a zobrazuje dátum zrušenia predplatného. Predplatné zostáva vo vypnutom stave 90 dní a má obmedzenú funkčnosť, kým sa neodstráni alebo znova [neaktivuje.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Ďalšie informácie nájdete v téme [čo sa stane po zrušení predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) a [uložení údajov](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Ďalšie informácie nájdete v téme [Čo sa stane po zrušení predplatného a](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Uloženie údajov.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

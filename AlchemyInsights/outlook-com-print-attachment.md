@@ -14,17 +14,17 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: eb497d3555a2c044e42b5877b1d9b0f524819f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c52e13b159edb5215e39f10fcfca983fcecb08d8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798139"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544413"
 ---
-# <a name="print-an-attachment-in-outlookcom"></a>Tlač prílohy v Outlook.com
+# <a name="print-an-attachment-in-outlookcom"></a>Tlač prílohy na lokalite Outlook.com
 
-1. Otvorte správu obsahujúcu prílohu, ktorú chcete vytlačiť.
-2. Presunutie kurzora na prílohu a výber ikony **Ďalšie akcie** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> > **Stiahnuť**.
-3. Po stiahnutí súboru ho otvorte s príslušným programom a vyberte možnosť, ktorú chcete vytlačiť. Otvorte napríklad súbor. doc vo Worde a potom ho vytlačte.
+1. Otvorte správu s prílohou, ktorú chcete vytlačiť.
+2. Premiestnite kurzor nad prílohu a vyberte tri bodky (ďalšie akcie) a > **Stiahnuť**.
+3. Po stiahnutí súboru ho otvorte pomocou príslušného programu a vyberte možnosť tlače. Môžete napríklad otvoriť nový .doc vo Worde a potom ho vytlačiť.
 
-Ďalšie informácie nájdete v téme [tlač e-mailových správ, príloh a kalendárov v Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v článku [Tlač e-mailových správ, príloh a kalendárov na lokalite Outlook.com.](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)

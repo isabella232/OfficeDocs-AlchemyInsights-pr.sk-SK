@@ -1,5 +1,5 @@
 ---
-title: 2554 nová funkcia, ktorá vám pomôže diagnostikovať EOP a ATP
+title: 2554 Nová funkcia, ktorá pomáha diagnostikovať EOP a Microsoft Defender pre Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726537"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544917"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Nová funkcia, ktorá vám pomôže diagnostikovať EOP a ATP
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Nová funkcia, ktorá pomáha diagnostikovať EOP a Microsoft Defender pre Office 365
 
-Ako správca môžete teraz jednoducho nahlásiť podozrivé e-mailové správy, URL adresy a obsah do spoločnosti Microsoft v [Prieskumníkovi](https://protection.office.com/reportsubmission)predplatného. Dokonca ju môžete použiť na to, aby ste pochopili, prečo sa legitímna správa označila nesprávne. Ďalšie informácie nájdete v tomto [oznámení](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Ako správca teraz môžete v Prieskumníkovi odosielania jednoducho nahlásiť podozrivé e-mailové správy, URL adresy [a obsah do spoločnosti](https://protection.office.com/reportsubmission)Microsoft. Môžete ju dokonca použiť, aby ste lepšie pochopili, prečo bola legitímna správa označená nesprávne. Ďalšie informácie nájdete v tomto [oznámení.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)

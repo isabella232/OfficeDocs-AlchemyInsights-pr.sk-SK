@@ -1,5 +1,5 @@
 ---
-title: Platnosť predplatného
+title: Predplatné s uplynutou platnosťou
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "456"
 - "1500020"
-ms.openlocfilehash: 39ac3c49e6d065cef3d40f7dffeaa66027045b62
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416158"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544197"
 ---
-# <a name="expired-subscription"></a>Platnosť predplatného
+# <a name="expired-subscription"></a>Predplatné s uplynutou platnosťou
 
-Zdá sa, že máte predplatné s uplynutou platnosťou. Ak chcete pokračovať v službe, musíte znova aktivovať predplatné alebo vytvoriť nový nákup.
+Zdá sa, že máte jedno alebo viac predplatných s uplynutou platnosťou. Ak chcete službu používať aj naďalej, predplatné musíte znovu aktivovať alebo zakúpiť nové.
   
 **Opätovná aktivácia**
   
-1. V centre spravovania prejdite na stránku **Fakturácia** \> [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyhľadajte predplatné, ktoré chcete opätovne aktivovať. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **znova aktivovať toto predplatné**.
+1. V centre spravovania prejdite  na stránku \> [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **karte** Produkty vyhľadajte predplatné, ktoré chcete opätovne aktivovať. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Znovu aktivovať toto predplatné**.
     > [!NOTE]
-    > Ak sa položka **Opätovná aktivácia tohto predplatného**nezobrazuje, obráťte sa na oddelenie technickej podpory.
-3. Na table **opätovne aktivovať toto predplatné** vyberte spôsob úhrady z rozbaľovacieho zoznamu alebo vyberte položku **pridať spôsob úhrady**.
-4. Vyberte položku **Uložiť**.
+    > Ak sa vám toto predplatné znova **neaktivuje, zavolajte** na podporu.
+3. Na table **Znova aktivovať toto** predplatné vyberte z rozbaľovacieho zoznamu spôsob úhrady alebo vyberte položku **Pridať spôsob úhrady**.
+4. Vyberte **položku Uložiť**.
 
-Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+Ďalšie informácie nájdete v téme [Opätovná aktivácia predplatného.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-**Vytvorenie nového nákupu**
+**Nový nákup**
   
-1. V centre spravovania prejdite na stránku služby **fakturácie** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-2. Vyberte predplatné, ktoré chcete kúpiť, a potom vyberte položku **kúpiť**.
-3. Zadajte počet licencií, ktoré potrebujete, a vyberte, či sa má platiť každý mesiac alebo za celý rok. Vyberte, či chcete automaticky priraďovať licencie všetkým, ktorí v súčasnosti nemajú licenciu. Potom vyberte položku **vziať z projektu**.
-4. Postupujte podľa zvyšných krokov na vykonanie vzatia z projektu.
+1. V centre spravovania prejdite  na stránku Služby \> [zakúpenia fakturácie.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. Vyberte predplatné, ktoré chcete kúpiť, a potom vyberte položku **Kúpiť**.
+3. Zadajte počet licencií, ktoré potrebujete, a vyberte, či budete platiť mesačne alebo za celý rok. Vyberte, či chcete automaticky priradiť licencie každému, kto licenciu momentálne nemá. Potom vyberte **položku Pokladne**.
+4. Dokončite v pokladne podľa zvyšných krokov.
 
-Ďalšie informácie nájdete v téme [zakúpenie iného predplatného](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+Ďalšie informácie nájdete v téme [Zakúpenie ďalšieho predplatného.](/microsoft-365/commerce/buy-another-subscription)

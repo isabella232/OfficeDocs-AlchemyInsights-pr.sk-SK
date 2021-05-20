@@ -1,5 +1,5 @@
 ---
-title: Zakúpenie licencií na predplatné aplikácií Microsoft 365 for Business
+title: Zakúpenie licencií na predplatné Aplikácie Microsoft 365 pre podnikateľov.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232346"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545355"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Zakúpenie licencií na predplatné aplikácií Microsoft 365 for Business
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Zakúpenie licencií na predplatné Aplikácie Microsoft 365 pre podnikateľov.
 
-Pri priraďovaní licencií používateľom možno zistíte, že je potrebné zakúpiť ďalšie licencie.
+Pri priraďovaní licencií používateľom možno zistíte, že potrebujete zakúpiť ďalšie licencie.
 
-**Pozrite si video, v** ktorom sa dozviete, ako to urobiť: [zakúpenie nových licencií](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**POZRITE SI video,** ktoré vám ukáže, ako na to: [Zakúpenie nových licencií](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-1. V centre spravovania prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyhľadajte predplatné, ktoré chcete aktualizovať. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **kúpiť licencie**.
-3. Na table **kúpiť licencie** zadajte do poľa **nové množstvo** v časti **celkové licencie** celkový počet licencií, ktoré chcete pre toto predplatné. Ak máte napríklad licencie na 100 a chcete pridať ďalších 25, zadajte 125.
-4. Vyberte položku **Uložiť**.
+1. V centre spravovania prejdite na stránku  >  [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **karte** Produkty vyhľadajte predplatné, ktoré chcete aktualizovať. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Kúpiť licencie**.
+3. Na table **Nákup licencií**  v časti  Nové množstvo do poľa Celkový počet licencií zadajte celkový počet licencií, ktoré chcete pre toto predplatné použiť. Ak máte napríklad 100 licencií a chcete pridať ďalších 25, zadajte 125.
+4. Vyberte **položku Uložiť**.
 
-Ďalšie informácie nájdete v téme [zakúpenie alebo odstránenie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Ďalšie informácie nájdete v téme [Zakúpenie alebo odstránenie licencií.](/microsoft-365/commerce/licenses/buy-licenses)
