@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748261"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539731"
 ---
 # <a name="publish-sensitivity-labels"></a>Publikovanie označení citlivosti
 
 Ak chcete publikovať označenia citlivosti, vykonajte tieto kroky:
 
-1. Vyberte položku **centrum dodržiavania súladu & zabezpečenia balíka Office 365 > klasifikáciu > označenia citlivosti**.
-2. Na stránke **označenia citlivosti** kliknite na kartu **politiky menoviek** .
-3. Kliknite na položku **Publikovať menovky**.
-4. Kliknite na položku **vybrať označenia citlivosti na publikovanie**. 
-5. Vyberte menovky, ktoré chcete sprístupniť v aplikáciách a službách, a potom kliknite na položku **Pridať**.
+1. Vyberte **Office 365 Centrum zabezpečenia & súladu > klasifikácie > označenia citlivosti**.
+2. Na **stránke Označenia citlivosti kliknite** na **kartu Politiky** označenia.
+3. Kliknite **na položku Publikovať menovky**.
+4. Kliknite **na položku Vybrať označenia citlivosti na publikovanie**. 
+5. Vyberte označenia, ktoré chcete sprístupniť v aplikáciách a službách, a potom kliknite na položku **Pridať**.
 > [!IMPORTANT]
-> Ak vyberiete podmenovku, uistite sa, že vyberiete aj jeho nadradenú menovku.
-6. Skontrolujte vybraté menovky. Ak chcete vykonať zmeny, kliknite na položku **Upraviť**. v opačnom prípade kliknite na položku **ďalej**.
-7. Postupujte podľa pokynov na konfiguráciu nastavení politiky.
-8. Ak potrebujete odlišné nastavenia politiky pre rôznych používateľov alebo umiestnenia, zopakujte tieto kroky. Potrebujete napríklad ďalšie menovky pre skupinu používateľov alebo inú predvolenú menovku pre podmnožinu používateľov.
-9. Ak vytvoríte viac ako jednu politiku označenia, ktorá môže mať za následok konflikt pre používateľa alebo miesto, prezrite si poradie politiky a v prípade potreby ich premiestnite nahor alebo nadol. Ak chcete zmeniť poradie politiky menoviek **, vyberte** položku **...** a potom vyberte položku **Posunúť nahor** alebo **Posunúť nadol**.
+> Ak vyberiete podlabel, uistite sa, že ste tiež vyberali jeho nadradené označenie.
+6. Skontrolujte vybraté menovky. Ak chcete vykonať zmeny, kliknite na **položku Upraviť**. V opačnom prípade kliknite na **tlačidlo Ďalej**.
+7. Podľa pokynov nakonfigurujte nastavenie politiky.
+8. Ak potrebujete odlišné nastavenia politiky pre rôznych používateľov alebo umiestnenia, zopakujte tento postup. Chcete napríklad ďalšie označenia pre skupinu používateľov alebo iné predvolené označenie podmnožiny používateľov.
+9. Ak vytvoríte viac ako jednu politiku označenia, ktorá môže viesť ku konfliktu pre používateľa alebo umiestnenie, skontrolujte poradie politiky a v prípade potreby ich presuňte nahor alebo nadol. Ak chcete zmeniť poradie politiky označenia, vyberte tri bodky (ďalšie akcie) a potom vyberte položku **Posunúť** nahor alebo **Posunúť nadol**.
 
-Dokončením sprievodcu sa automaticky publikuje politika menoviek.
+Dokončuje sa sprievodca, ktorý automaticky publikuje politiku označenia.
 
