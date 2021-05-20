@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233405"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543664"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Vytvorenie označenia citlivosti
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233405"
 
     Ďalšie informácie o automatickom označení nájdete v [téme Automatické použitie označenia citlivosti na obsah.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
-1. Ak chcete vytvoriť ďalšie označenia, zopakujte tento postup. Ak však chcete vytvoriť podlabel, najprv vyberte označenie nadradenej položky, pre položku Ďalšie akcie vyberte **položku ...** a potom vyberte položku Pridať pod **označenie**.
+1. Ak chcete vytvoriť ďalšie označenia, zopakujte tento postup. Ak však chcete vytvoriť podlabel, najprv vyberte nadradenú menovku, vyberte tri bodky (ďalšie akcie) a potom vyberte **položku** Pridať pod označenie .
 
 1. Po vytvorení všetkých potrebných označení skontrolujte ich poradie a v prípade potreby ich presuňte nahor alebo nadol. 
     
-    Ak chcete zmeniť poradie označenia, vyberte **položku ...** pre položku **Ďalšie akcie** a potom vyberte položku **Posunúť nahor alebo** **Posunúť nadol**.
+    Ak chcete zmeniť poradie označenia, vyberte tri bodky (ďalšie akcie) a potom vyberte položku Posunúť **nahor alebo** **Posunúť nadol**.

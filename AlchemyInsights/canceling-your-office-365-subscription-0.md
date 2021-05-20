@@ -1,5 +1,5 @@
 ---
-title: Ruší sa predplatné na Microsoft 365?
+title: Rušíte svoje Microsoft 365 predplatné?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416360"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543304"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Ruší sa predplatné na Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Rušíte svoje Microsoft 365 predplatné?
 
-Ľutujeme, že sa vám pomôžeme.
+Mrzí nás, že idete.
   
-Na základe údajov vašej organizácie veríme, že všetky vaše aktuálne predplatné majú menej ako 25 kresiel. Ak chcete zrušiť predplatné online, prejdite na stránku **Fakturácia** \> [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) . Na karte **produkty** nájdite predplatné, ktoré chcete zrušiť, vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.
+Z údajov vašej organizácie sme presvedčení, že všetky vaše aktuálne predplatné majú menej ako 25 ľudí. Ak chcete zrušiť predplatné online, prejdite na **stránku** \> [Fakturácia vašich](https://go.microsoft.com/fwlink/p/?linkid=842054) produktov. Na karte **Produkty** vyhľadajte predplatné, ktoré chcete zrušiť, vyberte tri bodky (ďalšie akcie) a potom vyberte položku **Zrušiť predplatné**.
   
-**Refundácia:** Všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.
+**Refundácia:** V rámci nasledujúceho fakturačného obdobia vám bude vrátený akýkoľvek profesionálne kredit.
 
-Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Ďalšie informácie nájdete v téme [Zrušenie predplatného.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

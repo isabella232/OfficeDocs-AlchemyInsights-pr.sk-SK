@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801242"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542908"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pre Office 365
 
-- Bezpečné prílohy, bezpečné prepojenia a ochrana pred neoprávneným získavaním údajov sú súčasťou programu Microsoft Defender pre Office 365 (ATP). Enterprise E5, Education A5 a Microsoft 365 Business Premium zahŕňajú ATP. Všetky ostatné plány vyžadujú predplatné ATP na doplnok.
+- Trezor Prílohy, Trezor prepojenia a neoprávnené získavanie údajov sú súčasťou aplikácie Microsoft Defender pre Office 365. Enterprise E5, Education A5 a Microsoft 365 Business Premium zahŕňajú Microsoft Defender pre Office 365. Všetky ostatné plány vyžadujú doplnok Microsoft Defender pre Office 365 predplatné.
 
-- Na ochranu používateľov prostredníctvom balíka Office 365 ATP je potrebné priradiť príslušné licencie. Pozrite si [tému](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) pokyny na hromadné používanie licencií používateľom.
+- Na ochranu používateľov pomocou aplikácie Microsoft Defender pre Office 365 je potrebné priradiť Office 365. Pokyny [na hromadné použitie licencií pre používateľov nájdete v](/microsoft-365/admin/add-users/add-users) téme Pridanie používateľov a priradenie licencií súčasne.
 
-- Globálny správcovia alebo správcovia zabezpečenia môžu získať prístup k funkciám ATP v Office 365 v centre zabezpečenia & dodržiavania súladu s politikou **ohrozenia Managmeent** \> **Policy** .
+- Globálni správcovia alebo správcovia zabezpečenia môžu získať prístup k aplikácii Microsoft Defender pre Office 365 & funkcie v Centre dodržiavania súladu pre zabezpečenie a zabezpečenie na lokalite **Threat Managmeent** \> **Policy.**
 
-- Bezpečné prílohy a politiky bezpečného prepojenia vám môžu byť v rámci celej organizácie, konkrétnych domén alebo menších skupín používateľov.
+- Trezor Prílohy a Trezor Prepojenia môžu byť rozsahované pre celú organizáciu, konkrétne domény alebo menšie skupiny používateľov.
 
-- Neexistuje žiadna predvolená politika v oblasti bezpečného pripojenia ATP. Potrebujete [vytvoriť politiku](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) a použiť ju pre svojich používateľov.
+- Predvolená politika prílohy Trezor nie je. Je potrebné vytvoriť [politiku a](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) použiť ju pre používateľov.
 
-- K dispozícii je predvolená politika v oblasti bezpečného prepojenia ATP, ktorá sa vzťahuje na všetkých používateľov vo vašej organizácii. Ak chcete upraviť túto politiku alebo vytvoriť vlastné politiky, pozrite si [túto tému](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- K dispozícii je predvolená Trezor Prepojenia, ktorá sa vzťahuje na každého vo vašej organizácii. Ak chcete upraviť túto politiku alebo vytvoriť vlastné politiky, pozrite si časť Nastavenie Trezor [prepojení v aplikácii Microsoft Defender pre Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

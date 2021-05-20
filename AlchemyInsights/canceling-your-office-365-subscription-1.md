@@ -1,5 +1,5 @@
 ---
-title: Ruší sa predplatné na Microsoft 365?
+title: Rušíte svoje Microsoft 365 predplatné?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
-ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
+ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50931663"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543268"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Ruší sa predplatné na Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Rušíte svoje Microsoft 365 predplatné?
 
-Ľutujeme, že sa vám zobrazuje, tu sú kroky na zrušenie predplatného:
+Mrzí nás, že idete na vás. Tu sú kroky na zrušenie predplatného:
 
-1. V centre spravovania prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** a potom vyberte kartu **produkty** .
-2. Vyhľadajte predplatné, ktoré chcete zrušiť. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.
-3. Na table **zrušiť predplatné** vyberte dôvod, prečo sa ruší. Voliteľne môžete poskytnúť žiadne pripomienky.
-4. Vyberte položku **Uložiť**.
+1. V centre spravovania prejdite na stránku  >  **[Fakturácia produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** a potom vyberte **kartu** Produkty.
+2. Vyhľadajte predplatné, ktoré chcete zrušiť. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Zrušiť predplatné**.
+3. Na **table Zrušiť** predplatné vyberte dôvod zrušenia. Prípadne môžete poskytnúť akékoľvek pripomienky.
+4. Vyberte **položku Uložiť**.
 
-Ďalšie informácie o zrušení predplatného alebo možnostiach nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Ďalšie informácie o zrušení predplatného alebo možnostiach nájdete v téme [Zrušenie predplatného.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Ak chcete pokračovať v používaní predplatného počas trvania skúšobnej verzie, môžete vypnúť opakovanú fakturáciu predplatného. Ďalšie informácie nájdete v téme [Obnovenie služieb Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Ak chcete naďalej používať svoje predplatné počas trvania skúšobnej verzie, môžete vypnúť opakovanú fakturáciu predplatného. Postup nájdete v téme [Obnovenie Microsoft 365 pre podniky.](/microsoft-365/commerce/subscriptions/renew-your-subscription)

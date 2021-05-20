@@ -1,5 +1,5 @@
 ---
-title: Zrušenie rozšírenej ochrany pred hrozbami
+title: Zrušenie rozšírenej ochrany pred hrozbou
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416284"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543520"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Zrušenie rozšírenej ochrany pred hrozbami
+# <a name="cancel-advanced-threat-protection"></a>Zrušenie rozšírenej ochrany pred hrozbou
 
-Správcovia môžu zrušiť predplatenie rozšírenej ochrany pred hrozbami pre svoju organizáciu v centre spravovania služby Microsoft 365.
+Správcovia môžu zrušiť predplatné rozšírenej ochrany pred hrozbami pre svoju organizáciu v Microsoft 365 spravovania.
 
-1. Prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyhľadajte plán rozšíreného zabezpečenia hrozby, ktorý chcete zrušiť. Vyberte položku **Ďalšie akcie** (tri bodky) a potom vyberte položku **zrušiť predplatné**.
-3. Na table **zrušiť predplatné** vyberte dôvod, prečo sa ruší. Voliteľne môžete poskytnúť žiadne pripomienky.
-4. Vyberte položku **Uložiť**.
+1. Prejdite na stránku  >  [Fakturácia Vašich](https://go.microsoft.com/fwlink/p/?linkid=842054) produktov.
+2. Na karte **Produkty** vyhľadajte plán rozšírenej ochrany pred hrozbou, ktorý chcete zrušiť. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Zrušiť predplatné**.
+3. Na **table Zrušiť** predplatné vyberte dôvod zrušenia. Prípadne môžete poskytnúť akékoľvek pripomienky.
+4. Vyberte **položku Uložiť**.
 
-**Refundácia:** Všetky kredity s pomerom ceny sa vrátia do nasledujúceho fakturačného cyklu.
+**Refundácia:** V rámci nasledujúceho fakturačného obdobia vám bude vrátený akýkoľvek profesionálne kredit.
 
-Ďalšie informácie nájdete v téme [zrušenie predplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Ďalšie informácie nájdete v téme [Zrušenie predplatného.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
