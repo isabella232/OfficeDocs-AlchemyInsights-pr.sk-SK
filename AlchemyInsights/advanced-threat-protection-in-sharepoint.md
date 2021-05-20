@@ -1,5 +1,5 @@
 ---
-title: Rozšírená ochrana pred hrozbami v SharePointe a OneDrive
+title: Rozšírená ochrana pred hrozbami v SharePoint a OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc7ea11f9cd12f3459c5da4b0fd6fe124d133293
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663348"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542944"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a><span data-ttu-id="24ace-102">Rozšírená ochrana pred hrozbami (ATP) v SharePointe a vo OneDrive</span><span class="sxs-lookup"><span data-stu-id="24ace-102">Advanced Threat Protection (ATP) in SharePoint and OneDrive</span></span>
+# <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a><span data-ttu-id="b9623-102">Microsoft Defender pre Office 365 v SharePoint a OneDrive</span><span class="sxs-lookup"><span data-stu-id="b9623-102">Microsoft Defender for Office 365 in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="24ace-103">Pozrite si nasledujúce témy:</span><span class="sxs-lookup"><span data-stu-id="24ace-103">See the following:</span></span>
-- [<span data-ttu-id="24ace-104">ATP pre SharePoint, OneDrive a teams</span><span class="sxs-lookup"><span data-stu-id="24ace-104">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [<span data-ttu-id="24ace-105">Hrozby Explorer a zisťovanie v reálnom čase</span><span class="sxs-lookup"><span data-stu-id="24ace-105">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+<span data-ttu-id="b9623-103">Pozrite si tieto téme:</span><span class="sxs-lookup"><span data-stu-id="b9623-103">See the following:</span></span>
+- [<span data-ttu-id="b9623-104">Microsoft Defender pre Office 365 pre SharePoint, OneDrive a Teams</span><span class="sxs-lookup"><span data-stu-id="b9623-104">Microsoft Defender for Office 365 for SharePoint, OneDrive and Teams</span></span>](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [<span data-ttu-id="b9623-105">Prieskumník hrozieb a zisťovanie v reálnom čase</span><span class="sxs-lookup"><span data-stu-id="b9623-105">Threat Explorer and Realtime detections</span></span>](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
-<span data-ttu-id="24ace-106">Ďalšie informácie:</span><span class="sxs-lookup"><span data-stu-id="24ace-106">Additional Information:</span></span>
+<span data-ttu-id="b9623-106">Ďalšie informácie:</span><span class="sxs-lookup"><span data-stu-id="b9623-106">Additional Information:</span></span>
 
-- [<span data-ttu-id="24ace-107">Zisťovanie vírusov v SPO</span><span class="sxs-lookup"><span data-stu-id="24ace-107">Virus Detection in SPO</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [<span data-ttu-id="24ace-108">Šifrovanie údajov v ODB a SPO</span><span class="sxs-lookup"><span data-stu-id="24ace-108">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [<span data-ttu-id="24ace-109">Ochrana údajov v SharePointe</span><span class="sxs-lookup"><span data-stu-id="24ace-109">Safeguarding your data in SharePoint</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [<span data-ttu-id="24ace-110">Zisťovanie a obnova súborov ransomware</span><span class="sxs-lookup"><span data-stu-id="24ace-110">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [<span data-ttu-id="b9623-107">Zisťovanie vírusov v SPO</span><span class="sxs-lookup"><span data-stu-id="b9623-107">Virus Detection in SPO</span></span>](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [<span data-ttu-id="b9623-108">Šifrovanie údajov v odb a spo</span><span class="sxs-lookup"><span data-stu-id="b9623-108">Data Encryption in ODB and SPO</span></span>](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [<span data-ttu-id="b9623-109">Zabezpečenie údajov vo SharePoint</span><span class="sxs-lookup"><span data-stu-id="b9623-109">Safeguarding your data in SharePoint</span></span>](/sharepoint/safeguarding-your-data)</br>
+- [<span data-ttu-id="b9623-110">Detekcia ransomwaru a obnovenie súborov</span><span class="sxs-lookup"><span data-stu-id="b9623-110">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
