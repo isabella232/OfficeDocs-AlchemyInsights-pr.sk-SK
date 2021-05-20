@@ -1,5 +1,5 @@
 ---
-title: 975 chcete nahlásiť nevyžiadanú poštu ako falošnú pre spoločnosť Microsoft?
+title: 975 Chcete spoločnosti Microsoft nahlásiť nesprávne pozitívny nevyžiadanú poštu?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692346"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540415"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a><span data-ttu-id="16486-102">Chcete nahlásiť nevyžiadanú poštu ako falošnú pre spoločnosť Microsoft?</span><span class="sxs-lookup"><span data-stu-id="16486-102">Would you like to report a spam false positive to Microsoft?</span></span>
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a><span data-ttu-id="481f6-102">Chcete spoločnosti Microsoft nahlásiť nevyžiadanú poštu s nesprávne pozitívnym nádychom?</span><span class="sxs-lookup"><span data-stu-id="481f6-102">Would you like to report a spam false positive to Microsoft?</span></span>
 
-<span data-ttu-id="16486-103">Ako správca je najlepším spôsobom, ako zistiť, prečo sa odoslala správa neoprávneného získavania údajov alebo Nevyžiadaná pošta, predložiť vzorku spoločnosti Microsoft v [Prieskumníkovi](https://protection.office.com/reportsubmission)odoslaní.</span><span class="sxs-lookup"><span data-stu-id="16486-103">As an admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="16486-104">Ak chcete, aby bol jednoduchší, môžete používateľom povoliť nahlasovanie priamo do spoločnosti Microsoft prostredníctvom [doplnku na správu zostáv](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="16486-104">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="481f6-103">Ak ste správcom, najlepším spôsobom, ako zistiť, prečo bola doručená správa o neoprávnenom získavaní údajov alebo nevyžiadanej pošte, je odoslať vzor v [Prieskumníkovi odoslaných](https://protection.office.com/reportsubmission)správ spoločnosti Microsoft.</span><span class="sxs-lookup"><span data-stu-id="481f6-103">As an admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="481f6-104">Ak ju chcete zjednodušiť, môžete povoliť používateľom nahlásiť správu priamo spoločnosti Microsoft prostredníctvom [doplnku Nahlásiť správu.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)</span><span class="sxs-lookup"><span data-stu-id="481f6-104">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
 
-<span data-ttu-id="16486-105">Odporúčame upozornenie, ak sa rozhodnete [obísť filtre nevyžiadanej pošty v Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span><span class="sxs-lookup"><span data-stu-id="16486-105">We advise caution if you decide to [bypass the Microsoft 365 spam filters](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span></span>
+<span data-ttu-id="481f6-105">Ak sa rozhodnete obísť filter nevyžiadanej [pošty, Microsoft 365 odporúča postupovať opatrne.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)</span><span class="sxs-lookup"><span data-stu-id="481f6-105">We advise caution if you decide to [bypass the Microsoft 365 spam filters](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span></span>
 
-<span data-ttu-id="16486-106">Vedeli **ste to?**: odteraz môžete odosielať vzorky priamo zo [sledovania správ](https://protection.office.com/messagetrace) a E5/ATP Plan 2 zákazníci môžu odosielať vzorky z [Prieskumníka ohrozenia](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span><span class="sxs-lookup"><span data-stu-id="16486-106">**Did you know?**: You can now submit samples directly from [Message trace](https://protection.office.com/messagetrace) and E5/ATP Plan 2 customers can submit samples from [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span></span>
+<span data-ttu-id="481f6-106">**Vedeli ste to?**: Ukážky [](https://protection.office.com/messagetrace) teraz môžete odoslať priamo zo sledovania správ a e5/Microsoft Defender pre Office 365 Zákazníkom s plánom 2 môžu odoslať ukážky z [Prieskumníka hrozieb.](/microsoft-365/security/office-365-security/threat-explorer)</span><span class="sxs-lookup"><span data-stu-id="481f6-106">**Did you know?**: You can now submit samples directly from [Message trace](https://protection.office.com/messagetrace) and E5/Microsoft Defender for Office 365 Plan 2 customers can submit samples from [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).</span></span>
