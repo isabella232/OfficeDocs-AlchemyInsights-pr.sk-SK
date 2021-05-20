@@ -1,5 +1,5 @@
 ---
-title: Problémy s prístupom k sekciám ATP portálu Microsoft Defender
+title: Problémy s prístupom do častí Microsoft Defendera pre Office 365 portáli
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713865"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545247"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a><span data-ttu-id="e1e3e-102">Problémy s prístupom k sekciám ATP portálu Microsoft Defender</span><span class="sxs-lookup"><span data-stu-id="e1e3e-102">Issues accessing sections of Microsoft Defender ATP portal</span></span>
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a><span data-ttu-id="6aab0-102">Problémy s prístupom do častí Microsoft Defendera pre Office 365 portáli</span><span class="sxs-lookup"><span data-stu-id="6aab0-102">Issues accessing sections of Microsoft Defender for Office 365 portal</span></span>
 
-<span data-ttu-id="e1e3e-103">Ak sa na tabuli portálu a v iných častiach zobrazuje chybové hlásenie, ako napríklad "údaje v súčasnosti nie je k dispozícii", je pravdepodobné, že niektoré domény URL a všetky subdomény sú vo vašej organizácii povolené a otvárajú sa na komunikáciu.</span><span class="sxs-lookup"><span data-stu-id="e1e3e-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
+<span data-ttu-id="6aab0-103">Ak sa na tabuli portálu a v iných častiach zobrazuje chybové hlásenie, ako napríklad Údaje momentálne nie sú k dispozícii, je pravdepodobné, že niektoré domény URL adresy a všetky subdoména sú vo vašej organizácii povolené a otvorené na komunikáciu.</span><span class="sxs-lookup"><span data-stu-id="6aab0-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
 
-<span data-ttu-id="e1e3e-104">Ďalšie informácie nájdete v téme [Riešenie problémov s predplatným a prístupom k portálu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span><span class="sxs-lookup"><span data-stu-id="e1e3e-104">For more information, see [Troubleshoot subscription and portal access issues](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>
+<span data-ttu-id="6aab0-104">Ďalšie informácie nájdete v téme Riešenie problémov s [predplatným a prístupom na portál.](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)</span><span class="sxs-lookup"><span data-stu-id="6aab0-104">For more information, see [Troubleshoot subscription and portal access issues](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>
