@@ -1,10 +1,11 @@
 ---
 title: Spravovanie obnovenia predplatného
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,25 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195250"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545535"
 ---
-# <a name="manage-subscription-renewal"></a><span data-ttu-id="66ecf-102">Spravovanie obnovenia predplatného</span><span class="sxs-lookup"><span data-stu-id="66ecf-102">Manage subscription renewal</span></span>
+# <a name="manage-subscription-renewal"></a><span data-ttu-id="ae997-102">Spravovanie obnovenia predplatného</span><span class="sxs-lookup"><span data-stu-id="ae997-102">Manage subscription renewal</span></span>
 
-<span data-ttu-id="66ecf-103">Ak chcete spravovať mesačné alebo ročné účtovanie, môžete zapnúť alebo vypnúť **opakovanú fakturáciu**.</span><span class="sxs-lookup"><span data-stu-id="66ecf-103">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="ae997-103">Ak chcete spravovať mesačné alebo ročné účtovanie, môžete zapnúť alebo vypnúť **opakovanú fakturáciu**.</span><span class="sxs-lookup"><span data-stu-id="ae997-103">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
 
-1. <span data-ttu-id="66ecf-104">V centre spravovania prejdite na stránku **Fakturácia > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="66ecf-104">In the admin center, go to the **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="ae997-104">V centre spravovania prejdite na stránku  >  **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="ae997-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="ae997-105">Na karte **Produkty** vyhľadajte predplatné, ktoré chcete spravovať, vyberte tri bodky (ďalšie akcie) a potom vyberte položku Upraviť **opakovanú fakturáciu**.</span><span class="sxs-lookup"><span data-stu-id="ae997-105">On the **Products** tab, find the subscription that you want to manage, select the three dots (more actions), then select **Edit recurring billing**.</span></span>
+3. <span data-ttu-id="ae997-106">Na table **Upraviť opakovanú fakturáciu** vyberte **možnosť On** **(Dňa) , On (Dňa), Obnova raz (obnova)** alebo **Off (Vypnuté).**</span><span class="sxs-lookup"><span data-stu-id="ae997-106">In the **Edit recurring billing** pane, select **On**, **On, renew onces**, or **Off**.</span></span>
+4. <span data-ttu-id="ae997-107">Vyberte **položku Uložiť**.</span><span class="sxs-lookup"><span data-stu-id="ae997-107">Select **Save**.</span></span>
 
-2. <span data-ttu-id="66ecf-105">Vyberte predplatné, pre ktoré chcete spravovať opakovanú fakturáciu.</span><span class="sxs-lookup"><span data-stu-id="66ecf-105">Choose the subscription for which you want to manage recurring billing.</span></span>
+<span data-ttu-id="ae997-108">Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="ae997-108">To learn more, see [Turn recurring billing off or on](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
 
-3. <span data-ttu-id="66ecf-106">V časti **Fakturácia** vedľa položky **Dátum obnovenia** alebo **Dátum uplynutia** kliknite na položku **upraviť**.</span><span class="sxs-lookup"><span data-stu-id="66ecf-106">Under **Billing**, next to **Renews on** or **Expiring on**, click **edit**.</span></span>
-
-4. <span data-ttu-id="66ecf-107">Ak chcete túto funkciu vypnúť, na table s **nastaveniami opakovanej fakturácie** vyberte položku **Vypnúť**.</span><span class="sxs-lookup"><span data-stu-id="66ecf-107">In the **Recurring billing settings** pane, click **Turn OFF** to turn it off.</span></span> <span data-ttu-id="66ecf-108">Ak je opakovaná fakturácia už vypnutá, zapnete ju výberom položky **Mesačne** alebo **Raz**.</span><span class="sxs-lookup"><span data-stu-id="66ecf-108">If recurring billing is already turned off, click **Monthly** or **Once** to turn it on.</span></span>
-
-5. <span data-ttu-id="66ecf-109">Kliknite na položku **Odoslať zmenu**.</span><span class="sxs-lookup"><span data-stu-id="66ecf-109">Click **Submit change**.</span></span>
-
-<span data-ttu-id="66ecf-110">Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="66ecf-110">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
