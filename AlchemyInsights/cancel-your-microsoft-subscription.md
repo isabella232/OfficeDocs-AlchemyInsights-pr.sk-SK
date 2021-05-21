@@ -1,29 +1,31 @@
 ---
 title: Zrušenie predplatného od spoločnosti Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707757"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543340"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Zrušenie predplatného od spoločnosti Microsoft
 
-1. Prejdite do časti [Služby a predplatné](https://account.microsoft.com/services/) a prihláste sa pomocou konta Microsoft, ktoré ste použili pri zakúpení predplatného.
+Správcovia môžu zrušiť predplatné pre svoju organizáciu v centre Microsoft 365 spravovania služieb.
 
-2. Vyhľadajte svoje predplatné a kliknite na položku **Spravovať**. Ak sa zobrazuje položka **Zapnutie opakovanej fakturácie** namiesto položky **Spravovať**, prejdite na časť Riešenie problémov. V opačnom prípade pokračujte krokom 3.
+1. Prejdite na  stránku \> [Fakturácia Vašich](https://go.microsoft.com/fwlink/p/?linkid=842054) produktov.
+2. Na **karte** Produkty vyhľadajte predplatné, ktoré chcete zrušiť. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Zrušiť predplatné**.
+3. Na **table Zrušiť** predplatné vyberte dôvod zrušenia. Prípadne môžete poskytnúť akékoľvek pripomienky.
+4. Vyberte **položku Uložiť**.
 
-3. Na ďalšej stránke kliknite na položku **Zrušiť** alebo **Inovovať alebo zrušiť** podľa typu predplatného.
-
-4. Pokračujte v postupe podľa pokynov na zrušenie na stránke.
+**Refundácia:** V rámci nasledujúceho fakturačného obdobia vám bude vrátený akýkoľvek profesionálne kredit.

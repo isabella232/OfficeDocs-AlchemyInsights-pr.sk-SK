@@ -1,5 +1,5 @@
 ---
-title: Konfigurácia výnimiek pre aplikáciu Microsoft Defender ATP scan
+title: Konfigurácia vylúčenia na Microsoft Defender ATP kontroly
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713905"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543700"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Konfigurácia výnimiek pre aplikáciu Microsoft Defender ATP scan
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Konfigurácia vylúčenia na Microsoft Defender ATP kontroly
 
-Vo všeobecnosti môžete vylúčiť určité prípony súborov a umiestnenia priečinkov z kontroly ATP v programe Microsoft Defender. Môžete tiež nakonfigurovať vylúčenia pre súbory otvorené určitými procesmi. Ďalšie informácie nájdete v téme [Konfigurácia a overenie výnimiek na základe prípony súboru a umiestnenia priečinka](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) a [Konfigurácia výnimiek pre súbory otvorené procesmi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+Vo všeobecnosti môžete z kontroly vylúčiť určité prípony súborov a Microsoft Defender ATP priečinkov. Môžete tiež nakonfigurovať vylúčenia pre súbory otvorené určitými procesmi. Ďalšie informácie nájdete v téme Konfigurácia a overenie vylúčení na základe [prípony](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) súboru a umiestnenia priečinka a Konfigurácia vylúčení pre súbory [otvorené procesmi.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-Ak chcete nakonfigurovať vylúčenia pre  **Windows Server 2016 a 2019**, pozrite si tému [Konfigurácia výnimiek z antivírusového programu Microsoft Defender na Windows serveri](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+Ak chcete nakonfigurovať vylúčenia **pre Windows Server 2016 a 2019,** pozrite si Microsoft Defender Antivirus Nastavenia vylúčenia [Windows Serveri.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
 
 **Mac**
 
-Podrobné informácie o podporovaných typoch vylúčenia a konfigurácii zoznamu výnimiek pre Mac nájdete v téme [podporované typy vylúčenia](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) a [Konfigurovanie zoznamu výnimiek](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+Podrobnosti o podporovaných typoch výnimiek a konfigurácii [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) zoznamu vylúčení pre Mac nájdete v témach Podporované typy vylúčenia a Konfigurácia [zoznamu vylúčení.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Poznámka:** Zoznamy výnimiek môžete tiež overiť pomocou skúšobného súboru EICAR. Ďalšie informácie nájdete v téme [overenie zoznamov výnimiek pomocou skúšobného súboru eicar](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Poznámka** Zoznamy výnimiek môžete overiť aj pomocou testovacieho súboru EICAR. Ďalšie informácie nájdete v téme [Overenie zoznamov vylúčení pomocou testovacieho súboru systému EICAR.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
-**Linuxe**
+**Linux**
 
-Podrobné informácie o podporovaných typoch vylúčenia a konfigurácii zoznamu výnimiek pre Linux nájdete v téme [podporované typy vylúčenia](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) a [Konfigurovanie a overenie výnimiek pre Microsoft Defender ATP pre Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+Podrobnosti o podporovaných typoch výnimiek a konfigurácii [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) zoznamu vylúčení pre Linux nájdete v témach Podporované typy vylúčenia a Konfigurácia a overenie [vylúčení pre Microsoft Defender ATP Linux.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Poznámka:** Zoznamy výnimiek môžete tiež overiť pomocou skúšobného súboru EICAR. Ďalšie informácie nájdete v téme [overenie zoznamov výnimiek pomocou skúšobného súboru eicar](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Poznámka** Zoznamy výnimiek môžete overiť aj pomocou testovacieho súboru EICAR. Ďalšie informácie nájdete v téme [Overenie zoznamov vylúčení pomocou testovacieho súboru systému EICAR.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
