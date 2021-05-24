@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821129"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626092"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Priradenie bezplatného čísla pre audiokonferenčný most
 
 Priradenie nového telefónneho čísla pre audiokonferenčný most:
 
-1. Prihláste sa do Office 365 pomocou svojho pracovného konta.
-2. Prejdite na položky **Centrum spravovania služby Microsoft 365 > Centrá spravovania > Teams a Skype > Starší portál > Hlasové služby > Telefónne čísla**.
-3. Vyberte telefónne číslo v zozname a na table **Akcia** kliknite na položku **Priradiť**.
-4. Na stránke **Priradiť** kliknite na položku **Uložiť**.
+1. Prejdite do Centra Microsoft Teams spravovania.
+1. Na ľavej navigačnej table prejdite na položku **Konferenčné**  >  **mosty pre schôdze.**
+1. Zvýraznite platené číslo služby, ktoré chcete nakonfigurovať ako predvolené.
+1. Vyberte položku **Nastaviť ako predvolené**.
 
-Ďalšie informácie nájdete v téme [Zmena telefónnych čísel pre audiokonferenčný most](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Ďalšie informácie nájdete v téme [Zmena telefónnych čísel pre audiokonferenčný most](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
