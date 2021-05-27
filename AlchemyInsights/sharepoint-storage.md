@@ -1,5 +1,5 @@
 ---
-title: Ukladací priestor SharePointu
+title: Spravovanie ukladacieho SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773754"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689873"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Správa ukladacieho priestoru v SharePointe Online
+# <a name="manage-your-sharepoint-online-storage"></a>Spravovanie ukladacieho SharePoint Online
 
-Zistite, ako [sa vypočítava ukladací priestor nájomníkov](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) na základe vášho plánu.
+Vo väčšine organizácií sa SharePoint sa ukladací priestor spravuje automaticky, takže nie je potrebné nastavovať obmedzenia pre jednu kolekciu lokalít. Ďalšie informácie o spôsobe výpočtu ukladacieho priestoru nájomníka na základe vášho plánu nájdete v téme [Obmedzenia podľa plánu.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
-Pre väčšinu organizácií sa ukladací priestor SharePointu automaticky spravuje, takže nie je potrebné nastaviť limity na kolekciu lokalít.
+Ďalšie informácie nájdete v téme:
 
-Zistite, ako [Zobraziť celkový a dostupný ukladací priestor pre vašu organizáciu](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Správa limitov ukladacieho priestoru lokalít](/sharepoint/manage-site-collection-storage-limits)
 
-Zistite, ako [Spravovať limity ukladacieho priestoru jednotlivých kolekcií lokalít](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Správa limitov ukladacieho priestoru jednotlivých lokalít](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Ak je lokalita mimo priestoru alebo sa chcete dozvedieť, ktorú knižnicu alebo zoznam využíva priestor, prejdite do **časti Nastavenia**  >  **ukladacieho priestoru** na lokalite (vyžadujú sa povolenia správcu kolekcie lokalít).
+Ak vaša lokalita nie je k dispozícii alebo chcete zistiť, ktorá knižnica alebo zoznam využíva priestor, prejdite na položku Metrika **ukladacieho** priestoru lokality Nastavenia (vyžadujú sa povolenia správcu kolekcie  >   lokalít).
 
-Zistite, ako [sledovať limity ukladacieho priestoru lokalít pomocou prostredia PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Ďalšie informácie nájdete v téme:
 
-Zistite, ako [zakúpiť dodatočný ukladací priestor](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Monitorovanie limitov ukladacieho priestoru lokalít pomocou prostredia PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Pridanie ukladacieho priestoru pre vaše predplatné](/microsoft-365/commerce/add-storage-space) 
   
