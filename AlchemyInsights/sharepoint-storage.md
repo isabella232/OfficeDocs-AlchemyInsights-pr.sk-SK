@@ -1,5 +1,5 @@
 ---
-title: Ukladací priestor SharePointu
+title: Spravovanie ukladacieho SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773754"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689873"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="c4210-102">Správa ukladacieho priestoru v SharePointe Online</span><span class="sxs-lookup"><span data-stu-id="c4210-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="460a7-102">Spravovanie ukladacieho SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="460a7-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="c4210-103">Zistite, ako [sa vypočítava ukladací priestor nájomníkov](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) na základe vášho plánu.</span><span class="sxs-lookup"><span data-stu-id="c4210-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="460a7-103">Vo väčšine organizácií sa SharePoint sa ukladací priestor spravuje automaticky, takže nie je potrebné nastavovať obmedzenia pre jednu kolekciu lokalít.</span><span class="sxs-lookup"><span data-stu-id="460a7-103">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span> <span data-ttu-id="460a7-104">Ďalšie informácie o spôsobe výpočtu ukladacieho priestoru nájomníka na základe vášho plánu nájdete v téme [Obmedzenia podľa plánu.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)</span><span class="sxs-lookup"><span data-stu-id="460a7-104">For more information about how tenant storage is calculated based on your your plan, see [Limits by plan](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).</span></span>
 
-<span data-ttu-id="c4210-104">Pre väčšinu organizácií sa ukladací priestor SharePointu automaticky spravuje, takže nie je potrebné nastaviť limity na kolekciu lokalít.</span><span class="sxs-lookup"><span data-stu-id="c4210-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="460a7-105">Ďalšie informácie nájdete v téme:</span><span class="sxs-lookup"><span data-stu-id="460a7-105">For more information, see:</span></span>
 
-<span data-ttu-id="c4210-105">Zistite, ako [Zobraziť celkový a dostupný ukladací priestor pre vašu organizáciu](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="c4210-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+- [<span data-ttu-id="460a7-106">Správa limitov ukladacieho priestoru lokalít</span><span class="sxs-lookup"><span data-stu-id="460a7-106">Manage site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits)
 
-<span data-ttu-id="c4210-106">Zistite, ako [Spravovať limity ukladacieho priestoru jednotlivých kolekcií lokalít](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="c4210-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+- [<span data-ttu-id="460a7-107">Správa limitov ukladacieho priestoru jednotlivých lokalít</span><span class="sxs-lookup"><span data-stu-id="460a7-107">Manage individual site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-<span data-ttu-id="c4210-107">Ak je lokalita mimo priestoru alebo sa chcete dozvedieť, ktorú knižnicu alebo zoznam využíva priestor, prejdite do **časti Nastavenia**  >  **ukladacieho priestoru** na lokalite (vyžadujú sa povolenia správcu kolekcie lokalít).</span><span class="sxs-lookup"><span data-stu-id="c4210-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="460a7-108">Ak vaša lokalita nie je k dispozícii alebo chcete zistiť, ktorá knižnica alebo zoznam využíva priestor, prejdite na položku Metrika **ukladacieho** priestoru lokality Nastavenia (vyžadujú sa povolenia správcu kolekcie  >   lokalít).</span><span class="sxs-lookup"><span data-stu-id="460a7-108">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="c4210-108">Zistite, ako [sledovať limity ukladacieho priestoru lokalít pomocou prostredia PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="c4210-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="460a7-109">Ďalšie informácie nájdete v téme:</span><span class="sxs-lookup"><span data-stu-id="460a7-109">For more information, see:</span></span>
 
-<span data-ttu-id="c4210-109">Zistite, ako [zakúpiť dodatočný ukladací priestor](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="c4210-109">Learn how to [buy extra storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span></span> 
+- [<span data-ttu-id="460a7-110">Monitorovanie limitov ukladacieho priestoru lokalít pomocou prostredia PowerShell</span><span class="sxs-lookup"><span data-stu-id="460a7-110">Monitor site storage limits by using PowerShell</span></span>](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [<span data-ttu-id="460a7-111">Pridanie ukladacieho priestoru pre vaše predplatné</span><span class="sxs-lookup"><span data-stu-id="460a7-111">Addd storage space for your subscription</span></span>](/microsoft-365/commerce/add-storage-space) 
   
