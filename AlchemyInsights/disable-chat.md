@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573761"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696901"
 ---
 # <a name="disable-chat"></a>Vypnutie chatu
 
@@ -26,7 +26,7 @@ Ak chcete povoliť alebo zakázať chat pre svoju organizáciu, môžete vytvori
 
 - **Schôdza:** V centre spravovania Teams prejdite na položku [Politiky](https://admin.teams.microsoft.com/) schôdze – nastavenie pre chat je **Povoliť chat na schôdzach**. Ďalšie informácie o vytváraní vlastných politík schôdzí nájdete v téme [Správa politík schôdzí v Teams](/microsoftteams/meeting-policies-in-teams) a Povolenie [chatu na schôdzach.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **M*essaging:** V centre spravovania Teams prejdite [](https://admin.teams.microsoft.com/)na položku Politiky výmeny správ a prepnite **chat do** zapnutia alebo **vypnutia**. Ďalšie informácie o vlastných politikách výmeny správ a priraďovaní politík používateľom nájdete v téme Správa [politík výmeny správ v Teams.](/microsoftteams/messaging-policies-in-teams)
+- **Odosielanie** správ: v Teams spravovania prejdite na [položku](https://admin.teams.microsoft.com/)Politiky výmeny správ a prepnite chat **do zapnutia** alebo **vypnutia**. Ďalšie informácie o vlastných politikách výmeny správ a priraďovaní politík používateľom nájdete v téme Správa [politík výmeny správ v Teams.](/microsoftteams/messaging-policies-in-teams)
 
 - **Študenti:** Ak chcete zakázať chat pre študenta, pozrite si možnosti povolenia chatu na schôdzach a povolenie chatu vo 1 :1 v balíkoch Teams a balíkov politík [pre vzdelávanie.](/microsoftteams/policy-packages-edu)
 

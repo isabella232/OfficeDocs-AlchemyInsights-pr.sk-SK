@@ -1,5 +1,5 @@
 ---
-title: Nedarí sa vám nájsť záznam schôdze v aplikácii teams
+title: Nie je možné nájsť záznam Teams schôdze
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294374"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696951"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Nedarí sa vám nájsť záznam schôdze v aplikácii teams
+# <a name="cant-find-the-teams-meeting-recording"></a>Nie je možné nájsť záznam Teams schôdze
 
-Ak nemôžete nájsť alebo nájsť záznam o schôdzi v aplikácii Teams, pozrite si nasledujúcu dokumentáciu na riešenie problémov:
+Ak nemôžete nájsť záznam schôdze programu Teams, najprv spustite spustenie diagnostiky chýbajúceho záznamu schôdze zadaním možnosti **Diagnostika:** Chýbajúci záznam vo vyššie uvedenom poli. 
 
-[Riešenie problémov s nahrávaním tímov schôdze – Microsoft teams | Dokumenty Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Nahrávky sa nachádzajú v streame, OneDrive alebo v SharePoint v závislosti od konfigurácie nájomníka a podľa toho, či záznam bol pre schôdzu kanála. Pokyny na manuálne vyhľadanie záznamu schôdze nájdete v týchto téme: 
 
-Záznam schôdze sa bude nachádzať v streame, vo OneDrive alebo v SharePointe v závislosti od toho, ako je váš nájomník nakonfigurovaný.
+[Problém 2: Prepojenie na nahrávanie schôdze sa v okne chatu nezobrazuje](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Pokyny na vyhľadanie záznamu schôdze nájdete v témach:
-
-**[Problém 2: prepojenie na nahrávanie schôdze sa nezobrazuje v okne konverzácie](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Ďalšie informácie nájdete v téme [Problémy s záznamami schôdzí.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
