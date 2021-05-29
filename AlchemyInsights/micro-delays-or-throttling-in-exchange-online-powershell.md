@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830048"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702141"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Mikro oneskorenia alebo obmedzovanie v prostredí Exchange Online PowerShell
 
-Pri spustení skriptov a rutín typu cmdlet v službe Exchange Online sa môžu vyskytnúť upozornenia „Micro Delay Applied“ (Použilo sa mikro oneskorenie) alebo oneskorenia. V súvislosti s týmto ponúkame dva návrhy:
+Pri spustení skriptov a rutín typu cmdlet v službe Exchange Online sa môžu vyskytnúť upozornenia „Micro Delay Applied“ (Použilo sa mikro oneskorenie) alebo oneskorenia. Tu je niekoľko návrhov, ako to vyriešiť:
 
-- Možno budete chcieť skúsiť použitie [modulu Exchange Online v2 PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), ktorý obsahuje rutiny typu CMDlet založené na rozhraní REST API, ktoré sú oveľa výkonnejšie. Môže to byť skvelé riešenie v prípade mnohých rutín typu Get- CMDlet, ktoré sa používajú často.
-- Ak potrebujete používať rutiny typu CMDlet, ktoré zatiaľ nie sú zahrnuté v module v2, pozrite si tému [Running PowerShell cmdlets for large numbers of users in Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#) (Spustenie rutín typu cmdlet prostredia PowerShell pre veľké množstvo používateľov v Office 365), v ktorej sa dozviete, ako obísť očakávané limity a obmedzenia prostredia PowerShell v službe Exchange Online.
+- Spustením našich diagnostiky uvoľnite politiky obmedzovania prostredia PowerShell nájomníka. Toto riešenie najviac vyrieši problém.
+- Ak sa problém nevyriešil, použite [modul Exchange Online v2 Prostredia PowerShell,](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true)ktorý obsahuje cmDlety, ktoré sú založené na rozhraní REST API a sú výrazne výkonnejšie. Môže to byť skvelé riešenie v prípade mnohých rutín typu Get- CMDlet, ktoré sa používajú často.
+- Ak potrebujete použiť príkazy CMDlets, ktoré nie sú zahrnuté v module V2, pozrite si časť Spustenie rutín typu cmdlet prostredia PowerShell pre veľký počet používateľov v prostredí [Office 365,](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)ktorá hovorí o tom, ako obísť limity obmedzovania prostredia PowerShell v prostredí Exchange Online.
