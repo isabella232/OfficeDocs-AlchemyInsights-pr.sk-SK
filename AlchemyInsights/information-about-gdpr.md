@@ -1,5 +1,5 @@
 ---
-title: Informácie o HDPR
+title: Informácie o nariadeniach GDPR
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755685"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853884"
 ---
-# <a name="information-about-gdpr"></a>Informácie o HDPR
+# <a name="information-about-gdpr"></a>Informácie o nariadeniach GDPR
 
-- Začíname s [portálom dôveryhodnosti služby.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [Zjednodušený GDPR: Príručka pre váš malý podnik](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Na čokoľvek, čo sa týka **dohody o spracovaní údajov** (DPA), revízia:
+- Začíname s [portálom SY (Service Trust Portal).](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-  - [Zdroje informácií o ochrane údajov](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+- Všetky informácie týkajúce sa **zmluvy o spracovaní údajov** (DPA) si pozrite:
+
+  - [Zdroje ochrany údajov](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [Zostavy auditu](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informácie o **požiadavkách na údaje o predmete** (DSR) – Objavte, Access, opraviť, obmedziť, odstrániť, exportovať je [tu.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informácie o **žiadostiach predmetu** údajov – tu nájdete informácie o tom, ako zistiť, získať prístup, rectifiu, obmedziť, odstrániť, [exportovať.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Informácie o **oznámení o narušení údajov** sú [tu.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Informácie o **oznámení o narušení údajov** nájdete [tu.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Informácie o **umiestneniach údajov** sú [tu.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Informácie o **umiestnení údajov nájdete** [tu.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
