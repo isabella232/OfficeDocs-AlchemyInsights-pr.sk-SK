@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Sharepoint PowerShell unable to connect
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774374"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931026"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell unable to connect
 
-Pracujete s prostredím PowerShell alebo skriptmi v SharePointe Online? Ďalšie informácie nájdete v prepojeniach nižšie.
-- [Začíname s SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Pripojenie spo PowerShell pomocou viacfaktorového overovania (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- SharePoint Vzorové vzory a postupy [(PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) obsahuje knižnicu príkazov prostredia PowerShell, ktorá umožňuje vykonávať komplexné akcie správy týkajúce sa služby SPO.
+Ak máte problémy s pripojením k modulu powershell služby SharePoint Online, pozrite si časť Chyby pri pripájaní k SharePoint [Online Management Shell.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
