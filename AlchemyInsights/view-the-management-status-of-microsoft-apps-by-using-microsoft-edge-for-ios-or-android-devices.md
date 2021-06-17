@@ -1,5 +1,5 @@
 ---
-title: Zobrazenie stavu správy aplikácií Microsoft pomocou prehliadača Microsoft Edge pre zariadenia so systémom iOS alebo Android
+title: Zobrazenie stavu správy aplikácií spoločnosti Microsoft pomocou Aplikácie Microsoft Edge pre zariadenia so systémom iOS alebo Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679199"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989912"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Zobrazenie stavu správy aplikácií Microsoft pomocou prehliadača Microsoft Edge pre zariadenia so systémom iOS alebo Android
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Zobrazenie stavu správy aplikácií spoločnosti Microsoft pomocou Aplikácie Microsoft Edge pre zariadenia so systémom iOS alebo Android
 
-Ak chcete získať prístup k denníkom aplikácií, ktoré môžete použiť pri riešení problémov so spravovanými aplikáciami pre iOS alebo Android, otvorte Microsoft Edge a do poľa Adresa zadajte text **about: intunehelp** . Microsoft Edge sa spustí v režime riešenia problémov.
+Ak chcete získať prístup k denníkom aplikácií na riešenie problémov so spravovanými aplikáciami systému iOS alebo Android, otvorte Microsoft Edge a do poľa adresy zadajte **about:intunehelp.** Microsoft Edge sa spustí v režime riešenia problémov.
 
-Zoznam nastavení uložených v denníkoch aplikácií nájdete v téme [Revízia denníkov ochrany klientskych aplikácií](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Zoznam nastavení uložených v denníkoch aplikácií nájdete v téme Kontrola [denníkov ochrany aplikácií klienta.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Ďalšie informácie o zobrazení denníkov aplikácií v zariadeniach s Androidom nájdete v téme [nahratie a e-mailové denníky](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Informácie o zobrazení denníkov aplikácií v zariadeniach s Androidom nájdete v téme Nahratie [denníkov e-mailov a ich odoslanie.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
