@@ -1,5 +1,5 @@
 ---
-title: Povoliť nástroj na exportovanie eDiscovery v Office 365 v prehliadači Microsoft Edge
+title: Povolenie Office 365 na exportovanie eDiscovery v Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583679"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023190"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Povoliť nástroj na exportovanie eDiscovery v Office 365 v prehliadači Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Povolenie Office 365 na exportovanie eDiscovery v Microsoft Edge
 
-Podpora pre ClickOnce už v prehliadači Microsoft Edge nie je predvolene povolená. Ak chcete pokračovať v používaní nástroja na exportovanie eDiscovery Microsoft Office 365, budete musieť použiť Microsoft Internet Explorer alebo zapnúť možnosť podpory ClickOnce v prehliadači Microsoft Edge založený na chróme takto:
+Podpora pre ClickOnce pre Windows už nie je Microsoft Edge povolená. Ak chcete pokračovať v používaní nástroja na exportovanie Microsoft Office 365 eDiscovery, budete musieť použiť Microsoft Internet Explorer alebo zapnúť možnosť podpory pre ClickOnce v programe Chromium na serveri Microsoft Edge, a to takto:
 
-1. Prejdite na edge://flags/#edge kliknite na položku-raz.
-1. Ak chcete **Povoliť** **podporu pre ClickOnce** , zmeňte hodnotu z možnosti **Predvolená** alebo **zakázaná** .
-1. V dolnej časti okna prehliadača kliknite na položku **reštartovať**. Zmena sa prejaví po reštartovaní prehliadača Microsoft Edge.
+1. Prejdite na edge://flags/#edge-click-once.
+1. Pre možnosť **ClickOnce podpory** zmeňte hodnotu z Predvolené **alebo** Vypnuté **na** **Zapnuté.**
+1. V dolnej časti okna prehliadača kliknite na položku **Reštartovať**. Zmena sa prejaví po reštartovaní Microsoft Edge.
 
-Ďalšie informácie nájdete v téme [Používanie nástroja na exportovanie eDiscovery v Office 365 v prehliadači Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Ďalšie informácie nájdete v téme [Používanie nástroja Office 365 eDiscovery v programe Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
