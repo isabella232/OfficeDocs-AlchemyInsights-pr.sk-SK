@@ -1,5 +1,5 @@
 ---
-title: Usmernenie o inovácii pre tímy
+title: Teams o inovácii
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333943"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095415"
 ---
-# <a name="microsoft-teams-upgrade"></a>Inovácia v aplikácii Microsoft teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams aktualizácie
 
-**Dôležité**: Ak ste boli inovovaní z Skypu for Business online do aplikácie Microsoft teams v režime iba v aplikácii Teams, ale zistíte, že ešte nie ste pripravení, môžeme vám pomôcť tento problém vyriešiť pomocou diagnostického nástroja technickej podpory. Uistite sa, že používate nové centrum spravovania presunutím prepínača v pravom hornom rohu, ktorý hovorí, že **nové centrum spravovania**napravo. Pomocou nového centra spravovania kliknite na položku **potrebujete pomoc?** widget, zadajte výraz "**teams upgrade**" a potom postupujte podľa pokynov na spustenie diagnostiky.
+Bez ohľadu na to, či ešte len začínate používať Teams, už používate Teams spolu s balíkom Skype for Business alebo ste pripravení na inováciu, chceme vám zabezpečiť, aby ste mali všetko, čo potrebujete na to, aby ste prechádzali úspešnou cestou Teams. Ďalšie informácie nájdete na nasledujúcich prepojeniach.
 
-Bez ohľadu na to, či práve začínate pracovať s aplikáciou Teams, už používate aplikácie teams spolu so službou Skype for Business alebo ste pripravení na inováciu, chceme zabezpečiť, aby ste mali všetko potrebné na navigáciu v aplikácii teams. Ďalšie informácie nájdete na prepojeniach nižšie.
+[Začíname s inováciou Microsoft Teams počítača](/MicrosoftTeams/upgrade-start-here)
 
-[Začíname s aktualizáciou Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Plánovanie inovácie](/MicrosoftTeams/upgrade-plan-journey)
 
-[Plánovanie inovácie](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Porozumenie Microsoft Teams Skype for Business koexistencie](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Informácie o koexistencii v službách Microsoft teams a Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Vykonanie inovácie z Skype for Business Online na Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Vykonanie inovácie z Skypu for Business online na teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Vykonanie inovácie z Skypu for Business lokálne do aplikácie teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Vykonanie inovácie Skype for Business lokálneho Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Kontrola stavu Skypu for Business online na inováciu na teams pomocou prostredia PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Kontrola stavu služby Skype for Business Online na Teams pomocou prostredia PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
