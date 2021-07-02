@@ -1,5 +1,5 @@
 ---
-title: PDF čítačka v prehliadači Microsoft Edge
+title: Čítačka PDF súborov v Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679079"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255906"
 ---
-# <a name="pdf-reader-in-microsoft-edge"></a>PDF čítačka v prehliadači Microsoft Edge
+# <a name="pdf-reader-in-microsoft-edge"></a>Čítačka PDF súborov v Microsoft Edge
 
-Popularita súborov PDF upozorňuje na potrebu spoľahlivého, bezpečného a výkonného PDF čítačky, ktoré môžu prijímať podnikové spoločnosti. PDF čítačka funkcií, ktorá je súčasťou prehliadača Microsoft Edge (verzie 77 a novšie), je len takouto aplikáciou. Funguje vo Windowse a v systéme macOS a môže sa použiť na otváranie a komentovanie súborov PDF, ktoré sú lokálne, online alebo vložené na webové stránky.
+Obľúbenosť PDF súborov zvýrazňuje potrebu spoľahlivého, zabezpečeného a výkonného programu na čítanie PDF súborov, ktorý môžu prijať podnikové spoločnosti. Čítačka PDF formátu, ktorá je bohatá na Microsoft Edge (verzie 77 a novšie), je jednoduchou aplikáciou. Funguje v systémoch Windows MacOS a možno ho používať na otváranie a komentovanie PDF súborov, ktoré sú lokálne, online alebo vložené na webových stránkach.
 
-Ďalšie informácie nájdete v téme [čítačka súborov PDF v prehliadači Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
+Ďalšie informácie nájdete v téme [Čítačka PDF súborov v Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
