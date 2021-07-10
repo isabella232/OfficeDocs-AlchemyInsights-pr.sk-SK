@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge Support pre aplikáciu Microsoft Defender Application Guard
+title: Microsoft Edge podpory pre Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584011"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346077"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge Support pre aplikáciu Microsoft Defender Application Guard
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge podpory pre Microsoft Defender Application Guard
 
-Aplikácia Guard je navrhnutá pre Windows 10 a Microsoft Edge, ktorá používa hardvérový izolačný prístup, ktorý umožňuje používateľovi prejsť na nedôveryhodnú lokalitu zvnútra izolovaného, Hyper-V-povoleného kontajnera oddeleného od hostiteľského operačného systému.
+Microsoft Defender pre identitu predstavuje centrálne umiestnenie, v ktorom správcovia môžu identifikovať, zisťovať a skúmať lokálne hrozby identity. 
 
-Podnikový správca definuje zoznam dôveryhodných webových lokalít, cloudových zdrojov a interných sietí. Keď používateľ navštívi lokalitu, ktorá sa nenachádza v zozname, Microsoft Edge otvorí lokalitu v kontajneri. To znamená, že ak sa lokalita ukáže ako škodlivá, hostiteľský počítač zostane zabezpečený a útočník sa nedostane do podnikových údajov.
+Pomocou Sprievodcu [nastavením aplikácie Microsoft Defender pre identitu](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) overte, či spĺňate všetky požiadavky na prostredie. vytvorte inštanciu, pripojte sa k službe Active Directory a nainštalujte senzor. 
 
-Inštalácia rozšírení v kontajneri je podporovaná v prehliadači Microsoft Edge verzie 81 a môže byť riadená prostredníctvom politiky. Adresa updateURL, ktorá sa použije v politike ExtensionInstallForcelist, by sa mala pridať ako neutrálny zdroj v politike izolácie siete, ktorú používa strážca aplikácie.
-
-Ďalšie informácie nájdete v téme [podpora aplikácie Microsoft Edge pre aplikáciu Microsoft Defender Guard](https://go.microsoft.com/fwlink/?linkid=2134229).
+Po dokončení sa monitorujú identity používateľov a okamžité kroky možno vykonať proti každej škodlivému aktivite, ktorá by ohrozila vašu organizáciu.
