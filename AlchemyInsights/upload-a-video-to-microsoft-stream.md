@@ -1,7 +1,7 @@
 ---
 title: Nahratie videa do služby Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 77a172462eef60c88c45e5ef0b6eb48f3b0af60a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4b4b5043d9cb3aaffd1546676d2cb805c4db3c38
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782490"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389340"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="1d166-102">Nahratie videa do služby Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="1d166-102">Upload a video to Microsoft Stream</span></span>
+# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="34709-102">Nahratie videa do služby Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="34709-102">Upload a video to Microsoft Stream</span></span>
 
-<span data-ttu-id="1d166-103">Nahrávanie videí pomocou služby Microsoft Stream je jednoduché a ktokoľvek to dokáže.</span><span class="sxs-lookup"><span data-stu-id="1d166-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
+<span data-ttu-id="34709-103">Nahrávanie videí pomocou služby Microsoft Stream je jednoduché a ktokoľvek to dokáže.</span><span class="sxs-lookup"><span data-stu-id="34709-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
 
-- [<span data-ttu-id="1d166-104">Nahrávanie videa</span><span class="sxs-lookup"><span data-stu-id="1d166-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)
+- [<span data-ttu-id="34709-104">Nahrávanie videa</span><span class="sxs-lookup"><span data-stu-id="34709-104">Upload a video</span></span>](/stream/portal-upload-video)
