@@ -1,5 +1,5 @@
 ---
-title: Odstránenie lokality skupiny
+title: Odstrániť lokalitu skupiny
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745837"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532126"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Odstránenie lokality SharePoint, ktorá patrí do skupiny Microsoft 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Odstránenie SharePoint, ktorá patrí do Microsoft 365 skupiny
 
-Odstránením lokality pripojenej k skupine sa odstráni skupina a všetky jej zdroje vrátane poštovej schránky a kalendára Outlooku a ľubovoľných kanálov tímov.
+Odstránením lokality pripojenej k skupine sa skupina a všetky jej zdroje vrátane poštovej schránky a kalendára služby Outlook a všetkých Teams kanálov.
   
-Dôležité
+Dôležité:
 
-- Odstránené lokality môžete obnoviť za 93 dní. Odstránené skupiny sa musia obnoviť do 30 dní. [Zobrazenie a obnovenie odstránených lokalít](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) priamo z centra spravovania služby SharePoint. Ak chcete [Zobraziť a obnoviť **odstránené skupiny**](https://outlook.office.com/people/group/deleted), vyberte položku **spravovať skupiny**a potom vyberte položku **odstránené**.
-- Ak je lokalita súčasťou politiky uchovávania údajov, pravdepodobne ju nebudete môcť odstrániť, kým sa lokalita neodstráni z [centra spravovania zabezpečenia & dodržiavania súladu](https://protection.office.com/?rfr=AdminCenter#/retention). Ďalšie informácie nájdete v téme [Prehľad politík uchovávania údajov](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Odstránené lokality môžete obnoviť po 93 dňoch. Odstránené skupiny je potrebné obnoviť do 30 dní. [Zobrazte a obnovte odstránené](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) lokality priamo z centra spravovania SharePoint lokality. Ak [chcete zobraziť a obnoviť odstránené **skupiny**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups), vyberte **položku Spravovať skupiny** a potom vyberte položku **Odstránené**.
+- Ak je lokalita súčasťou politiky uchovávania údajov, je možné, že ju nebudete môcť odstrániť, kým sa lokalita neodstráni z Centra spravovania zabezpečenia & zabezpečenia a [dodržiavania súladu.](https://protection.office.com/?rfr=AdminCenter#/retention) Ďalšie informácie nájdete v téme [Prehľad politík uchovávania údajov.](/microsoft-365/compliance/retention-policies)
   
-Ďalšie informácie nájdete v téme [Správa lokalít v novom centre spravovania služby SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Ďalšie informácie nájdete v téme [Správa lokalít v novom centre spravovania SharePoint spravovania.](/sharepoint/manage-sites-in-new-admin-center)

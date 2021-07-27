@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539659"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532270"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Publikovanie označenia citlivosti
 
-1. Prejdite do Centra Office 365 zabezpečenia & zabezpečenia >   >  **klasifikácie označení citlivosti.**
+1. Prejdite do Centra dodržiavania Microsoft 365 súladu >  >  **politiky ochrany informácií**.
 
-1. Na stránke Označenia citlivosti vyberte kartu **Politiky** označenia a potom vyberte položku Publikovať **označenia**.
+1. Výberom **položky + Publikovať** označenie spustite Sprievodcu novým označením citlivosti.
 
 1. Vyberte **položku Vybrať označenia citlivosti na publikovanie**. Vyberte označenia, ktoré chcete sprístupniť v aplikáciách a službách, a potom vyberte položku **Pridať**.
 
