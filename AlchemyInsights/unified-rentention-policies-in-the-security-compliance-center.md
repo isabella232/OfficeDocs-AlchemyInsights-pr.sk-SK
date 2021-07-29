@@ -1,5 +1,5 @@
 ---
-title: Zjednotené politiky uchovávania údajov v centre zabezpečenia & dodržiavania súladu
+title: Zjednotené politiky uchovávania údajov v Centre dodržiavania & zabezpečenia a dodržiavania súladu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669226"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630156"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Zjednotené politiky uchovávania údajov v centre zabezpečenia & dodržiavania súladu
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Zjednotené politiky uchovávania údajov v Centre dodržiavania & zabezpečenia a dodržiavania súladu
 
-Politiky uchovávania údajov umožňujú spravovať obsah vašej organizácie pomocou nastavení uchovávania a odstraňovania. Jednotné politiky uchovávania údajov môžete vytvoriť v centre zabezpečenia & zabezpečenia služby Office 365 alebo v centre dodržiavania súladu spoločnosti Microsoft 365. 
+Politiky uchovávania údajov umožňujú spravovať obsah organizácie pomocou nastavení uchovávania údajov a odstraňovania. Jednotné politiky uchovávania údajov môžete vytvoriť v Centre Office 365 zabezpečenia & alebo v Centre dodržiavania súladu pre Microsoft 365 údajov. 
 
-1. V [Centre zabezpečenia dodržiavania súladu &](https://go.microsoft.com/fwlink/p/?linkid=2077143)vyberte položku retenčné **riadenie informácií**  >  **Retention**  >  **+ vytvoriť**. <br/>
-    V [centre dodržiavania súladu pre Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)vyberte položku **politiky**  >  **údajov > retenčné > + nová politika uchovávania údajov.**
-2. Pridajte **názov**, **nastavenia**a **Vyberte položku umiestnenia**.
-3. Skontrolujte nastavenia a potom vyberte položku **vytvoriť túto politiku** alebo **Uložiť na novšiu verziu**.  
+1. V Centre [zabezpečenia & súladu vyberte](https://go.microsoft.com/fwlink/p/?linkid=2077143)položku Správa informácií **Uchovávanie**  >  **údajov**+  >  **Vytvoriť**. <br/>
+    V Centre [Microsoft 365 na zabezpečenie súladu](https://go.microsoft.com/fwlink/p/?linkid=2077149)vyberte položku **Politiky** politiky > uchovávania > + Nová politika  >  **uchovávania údajov.**
+2. Pridajte **názov**, **Nastavenia** a **Vyberte umiestnenia**.
+3. Skontrolujte nastavenia a potom vyberte položku Vytvoriť **túto politiku alebo Uložiť** na **neskôr**.  
       
-Ďalšie informácie o politikách uchovávania údajov pre obsah, ako je napríklad Exchange e-mail, OneDrive, SharePoint a obsah tímu, nájdete v téme [Prehľad politík uchovávania údajov](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Ďalšie podrobnosti o politikách uchovávania údajov pre obsah, ako sú napríklad Exchange-maily, OneDrive, SharePoint a Teams obsahu, nájdete v téme [Prehľad politík uchovávania údajov.](https://go.microsoft.com/fwlink/?linkid=2127785)  
     
-Ak používate politiky uchovávania údajov vedľa seba v centre spravovania pre Exchange a Centre zabezpečenia dodržiavania súladu &, prečítajte si toto odporúčanie, aby sa [namiesto starších funkcií používala politika uchovávania údajov](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Ak používate politiky uchovávania údajov vedľa seba v Centre spravovania pre Exchange a Centre dodržiavania súladu pre &, pozrite si toto odporúčanie, aby ste namiesto starších funkcií nepoužívali politiku [uchovávania údajov.](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)  
     
-Konkrétne informácie o zachovaní tímov nájdete [v téme politiky uchovávania údajov v aplikácii teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Konkrétne informácie o používaní Teams údajov nájdete v téme [Politiky uchovávania údajov v Teams.](/microsoftteams/retention-policies)
