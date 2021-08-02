@@ -1,9 +1,10 @@
 ---
-title: Zmena frekvencie platby
+title: Zmena často používanej platby
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +13,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
+- commerce_billing
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3ad1bb7a13a9c26dd3e4f9cbee7944e975191c3a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307357"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680565"
 ---
-# <a name="change-how-often-you-pay"></a>Zmena frekvencie platby
+# <a name="change-how-often-you-pay"></a>Zmena často používanej platby
 
-Ak chcete zmeniť frekvenciu fakturácie a platby za predplatné, postupujte podľa nasledujúcich krokov v centre spravovania služieb Microsoft 365.
+Ak chcete zmeniť, ako často sa vám účtujú faktúry a platiť za predplatné, postupujte podľa nasledujúcich krokov v Centrum spravovania služby Microsoft 365.
 
-1. Prejdite na stránku **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na karte **produkty** vyberte predplatné, ktoré chcete zmeniť.
-3. Na stránke Podrobnosti predplatného kliknite v časti **nastavenia predplatného a platby** na položku **upraviť frekvenciu fakturácie**.
-4. Na table **Úprava frekvencie fakturácie** vyberte možnosť, ako často sa má fakturovať, a potom vyberte položku **zmeniť**.
+1. Prejdite na stránku  >  [Fakturácia Vašich](https://go.microsoft.com/fwlink/p/?linkid=842054) produktov.
+2. Na **karte** Produkty vyberte predplatné, ktoré chcete zmeniť.
+3. Na stránke s podrobnosťami predplatného vyberte v **časti Nastavenia predplatného a platby** položku Upraviť **frekvenciu fakturácie**.
+4. Na table **Upraviť frekvenciu** fakturácie vyberte možnosť, ako často chcete fakturáciu fakturovať, a potom vyberte položku **Zmeniť**.
 
 > [!NOTE]
-> Mesačná alebo ročná Fakturácia je jedinou možnosťou.
+> Možnosť mesačnej alebo ročnej fakturácie je jedinou možnosťou.
 
-Ďalšie informácie nájdete v téme [Zmena frekvencie fakturácie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+Ďalšie informácie nájdete v téme [Zmena frekvencie fakturácie](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
