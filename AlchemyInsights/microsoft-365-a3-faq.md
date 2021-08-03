@@ -3,6 +3,7 @@ title: Najčastejšie otázky o pláne Microsoft 365 A3
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002871"
 - "5417"
-ms.openlocfilehash: 1489517dda411e26b453c44dffffd3e200478476
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: 5026a9bed01b87f2b5990d4337ff6a5767709ba3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601469"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685605"
 ---
 # <a name="microsoft-365-a3-faq"></a>Najčastejšie otázky o pláne Microsoft 365 A3
 

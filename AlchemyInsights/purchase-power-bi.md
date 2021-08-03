@@ -3,6 +3,8 @@ title: Zakúpenie služby Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: ec8e44bf634eb8393e26767dc153e7e404af54d1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c802485272c20d21201c76ce5986834ae45e1ea0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602055"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686433"
 ---
 # <a name="purchase-power-bi"></a>Zakúpenie služby Power BI
 
-Službu Power BI je možné zakúpiť v **centre spravovania služby Microsoft 365**.
+Power BI si môžete zakúpiť v **službe Centrum spravovania služby Microsoft 365.**
 
-1. Prejdite na stránku **služby fakturácie > [nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
-2. Pomocou vyhľadávacieho poľa vyhľadajte výraz Power BI.
-3. Vyberte plán Power BI, ktorý chcete kúpiť, vyberte položku **Podrobnosti** a potom vyberte položku **kúpiť**.
-4. Zadajte počet licencií, ktoré potrebujete, a vyberte, či sa má platiť každý mesiac alebo za celý rok. Vyberte, či chcete automaticky priraďovať licencie všetkým, ktorí v súčasnosti nemajú licenciu. Potom vyberte položku **vziať z projektu**.
-5. Pozrite si informácie o cenách a vyberte položku **ďalej**.
-6. Zadajte informácie o platbe a potom vyberte položku **miesto objednávky**  >  **prejdite na domovskú stránku správcu**.
+1. Prejdite na stránku **fakturácie > [nákup](https://go.microsoft.com/fwlink/p/?linkid=868433)** služieb.
+2. Pomocou vyhľadávacieho poľa vyhľadajte výraz "Power BI".
+3. Vyberte plán služby Power BI, ktorý chcete kúpiť, vyberte položku **Podrobnosti** a potom vyberte položku **Kúpiť**.
+4. Zadajte počet licencií, ktoré potrebujete, a vyberte, či budete platiť mesačne alebo za celý rok. Vyberte, či chcete automaticky priradiť licencie každému, kto licenciu momentálne nemá. Potom vyberte **položku Pokladne .**
+5. Skontrolujte informácie o cenách a vyberte položku **Ďalej**.
+6. Zadajte svoje platobné informácie a potom vyberte položku **Objednať**  >  **Prejsť na domovskú kartu správcu.**
 
-Ak chcete priradiť licencie používateľom, prečítajte si tému [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Ak chcete používateľom priradiť licencie, pozrite si [časť Priradenie licencií používateľom.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Ak si chcete kúpiť ďalšie alebo odobrať licencie, pozrite si tému [zakúpenie alebo odstránenie licencií na predplatné podniku](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Ak chcete zakúpiť ďalšie alebo odstrániť licencie, pozrite si [časť Zakúpenie alebo odstránenie licencií pre podnikové predplatné.](/microsoft-365/commerce/licenses/buy-licenses)

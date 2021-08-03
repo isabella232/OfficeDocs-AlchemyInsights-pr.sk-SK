@@ -3,6 +3,7 @@ title: Najčastejšie otázky o pláne Microsoft 365 A5
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002872"
 - "5425"
-ms.openlocfilehash: 0920f231f56207c488a4ddee0b0cd852ccf8e8ec
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: ee64ce73f87d20b780e86552a6143751dfe351e3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602937"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685389"
 ---
 # <a name="microsoft-365-a5-faq"></a>Najčastejšie otázky o pláne Microsoft 365 A5
 

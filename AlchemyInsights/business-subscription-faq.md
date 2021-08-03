@@ -3,6 +3,7 @@ title: Najčastejšie otázky o predplatnom pre podniky
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002875"
 - "5445"
 - "9002874"
@@ -20,12 +22,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 417299cb82d9dfcd7afd8822378d2993e12ce355
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: d9f11e265480a97025b8c57e4f012ce1e64bbed6
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601109"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686109"
 ---
 # <a name="business-subscription-faq"></a>Najčastejšie otázky o predplatnom pre podniky
 

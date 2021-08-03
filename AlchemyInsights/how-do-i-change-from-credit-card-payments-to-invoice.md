@@ -3,20 +3,23 @@ title: Ako zmením spôsob platby kreditnou kartou na platbu na faktúru?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: c34dc93f7ad091c08f23f11cdf0dddea6afb9a04
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: be744c88181d97edfe0f98f2d5e6bc02ff1bf30b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544485"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685965"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Ako zmením spôsob platby kreditnou kartou na platbu na faktúru?
 

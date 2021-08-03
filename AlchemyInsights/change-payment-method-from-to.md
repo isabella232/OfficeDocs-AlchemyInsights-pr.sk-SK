@@ -3,26 +3,29 @@ title: Zmena spôsobu úhrady
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601397"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685353"
 ---
 # <a name="change-payment-method-fromto"></a>Zmena spôsobu úhrady z/do
 
 1. **Zmena z fakturácie na platbu kreditnou kartou alebo platbu z bankového účtu**
 
-    - Nemôžete automaticky zmeniť platbu z faktúry na platbu iným spôsobom. Namiesto toho si musíte [kúpiť iné predplatné](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) zaplatené kreditnou alebo debetnou kartou alebo bankovým účtom, [presunúť všetkých používateľov na nové predplatné](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), a potom [zrušiť staré predplatné](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Nemôžete automaticky zmeniť platbu z faktúry na platbu iným spôsobom. Namiesto toho si musíte [kúpiť iné predplatné](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) zaplatené kreditnou alebo debetnou kartou alebo bankovým účtom, [presunúť všetkých používateľov na nové predplatné](/microsoft-365/commerce/subscriptions/move-users-different-subscription), a potom [zrušiť staré predplatné](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Zmena z platby kreditnou kartou alebo platby z bankového účtu na fakturáciu**
 
@@ -32,4 +35,4 @@ ms.locfileid: "50601397"
 
     - Manuálnu zmenu môžete dokončiť postupom podľa krokov uvedených v téme [Zmena z platby kreditnou kartou na fakturáciu](how-do-i-change-from-credit-card-payments-to-invoice.md).
 
-Ďalšie informácie nájdete v časti [Ako platiť za predplatné](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Ďalšie informácie nájdete v časti [Ako platiť za predplatné](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

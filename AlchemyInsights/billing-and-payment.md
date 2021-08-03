@@ -3,6 +3,8 @@ title: Fakturácia a platba
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820409"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686901"
 ---
 # <a name="billing-and-payment"></a>Fakturácia a platba
 
@@ -35,27 +38,27 @@ Ak platíte kreditnou kartou alebo bankovým účtom, spôsob úhrady priradený
 
 Ak ste pridali novú kartu a na starej kreditnej karte sa stále zobrazuje oznámenie o odmietnuní, možno bude potrebné priradiť túto novú kartu k predplatnému.
 
-1. V centre spravovania prejdite na stránku **Faktúry**  >  **a &**  >  [platby.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. V centre spravovania prejdite na stránku **Fakturácia** > **Faktúry a platby** > [Spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Vyberte riadok spôsobu úhrady, ktorý chcete nahradiť. Na pravej table sú uvedené všetky fakturačné profily a jednotlivé predplatné, ktoré používajú vybratý spôsob úhrady.
+2. Vyberte riadok spôsobu úhrady, ktorý chcete nahradiť. Na pravej table sa nachádza zoznam všetkých fakturačných profilov a jednotlivých predplatných, ktoré používajú vybratý spôsob úhrady.
 
 3. Na pravej table vyberte položku **Nahradiť spôsob úhrady pre všetky položky**.
 
-4. Ak chcete použiť existujúci spôsob úhrady, vyberte niektorý z rozbaľovacieho zoznamu a potom vyberte položku **Nahradiť**.
+4. Ak chcete použiť existujúci spôsob úhrady, vyberte ho v rozbaľovacom zozname a potom vyberte položku **Nahradiť**.
 
     > [!NOTE]
-    > Ak máte predplatné priradené k fakturačným profilom, na ich platenie môžete použiť len kreditnú alebo debetnú kartu. Ak máte na stránke Spôsoby platby **uvedené bankové** kontá, v rozbaľovacom zozname nie sú k dispozícii na výber.
+    > Ak máte predplatné priradené k profilu fakturácie, na ich platenie môžete použiť len kreditnú alebo debetnú kartu. Ak máte na stránke **Spôsoby platby** uvedené bankové účty, nie sú k dispozícii na výber v rozbaľovacom zozname.
 
-5. Ak chcete pridať nový spôsob úhrady, vyberte **položku Pridať spôsob úhrady**.
+5. Ak chcete pridať nový spôsob úhrady, vyberte položku **Pridať spôsob úhrady**.
 
-6. Na table **Pridanie spôsobu platby** zadajte informácie o konte a potom vyberte položku **Uložiť**. Musíte použiť spôsob úhrady z tej istej krajiny, v ktorej sa nachádza nájomník.
+6. Na table **Pridanie spôsobu úhrady** zadajte informácie o účte a potom vyberte položku **Uložiť**. Musíte použiť spôsob úhrady z tej istej krajiny, ako je váš nájomník.
 
-7. Nový spôsob úhrady je už vybratý v rozbaľovacom zozname. Vyberte **položku Nahradiť**.
+7. Nový spôsob úhrady je už vybratý v rozbaľovacom zozname. Vyberte položku **Nahradiť**.
 
-Ďalšie informácie nájdete v téme [Spravovanie spôsobov platby.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Ďalšie informácie nájdete v téme [Spravovanie spôsobov úhrady](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frekvencia fakturácie**
 
 Faktúry sa generujú mesačne alebo ročne v závislosti od frekvencie fakturácie zvolenej pri pokladni.  
 
-**Poznámka:** Ak sa vykonali zmeny, ako je napríklad pridanie alebo odstránenie licencií, objednávky s ročnom fakturáciou môžu dostávať faktúry uprostred obdobia. [Zmeňte frekvenciu fakturácie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Poznámka:** Ak sa vykonali zmeny, ako je napríklad pridanie alebo odstránenie licencií, objednávky s ročnom fakturáciou môžu dostávať faktúry uprostred obdobia. [Zmeňte frekvenciu fakturácie.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

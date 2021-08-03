@@ -3,6 +3,7 @@ title: Najčastejšie otázky týkajúce sa predplatného na Microsoft 365 E3
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: sctov
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002554"
 - "5392"
-ms.openlocfilehash: 8bcf109173278cf5b235afa24340b8ee5c4468a5
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: 01d653201f05903fec0533f335d4ed228de1565f
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602487"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686865"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Najčastejšie otázky o predplatnom na Microsoft 365 E3 a spravovaní licencií
 
