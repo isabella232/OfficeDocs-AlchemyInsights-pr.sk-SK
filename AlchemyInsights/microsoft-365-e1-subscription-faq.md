@@ -3,6 +3,7 @@ title: Najčastejšie otázky týkajúce sa predplatného na Microsoft 365 E1
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002870"
 - "5407"
-ms.openlocfilehash: 08d4fc4672a6202cb61e90f9e7027b1189fc06f8
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: 07aaccb4442afd2eea09b7220676eb586d25e4db
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602523"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689601"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Najčastejšie otázky o predplatnom na Microsoft 365 E1 a spravovaní licencií
 

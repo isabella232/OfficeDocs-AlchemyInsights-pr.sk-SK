@@ -3,6 +3,7 @@ title: Pozastavenie alebo pozastavenie predplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 1a4c9016335bc045569ac6a17627b8cce4e78dc5
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: ae36b1500e48e9a12547daa27d5b1d035d8b2ba5
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544521"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687729"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Pozastavenie alebo pozastavenie predplatného
 
-Ak chcete dočasne pozastaviť alebo pozastaviť predplatné, môžete predplatné zrušiť v centre spravovania Microsoft 365 predplatného.
+Ak chcete dočasne pozastaviť alebo pozastaviť predplatné, môžete predplatné zrušiť v Centrum spravovania služby Microsoft 365.
 
 1. V centre spravovania prejdite na stránku  >  **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **karte** Produkty vyhľadajte predplatné, ktoré chcete zrušiť. Vyberte tri bodky (ďalšie akcie) a potom vyberte **položku Zrušiť predplatné**.

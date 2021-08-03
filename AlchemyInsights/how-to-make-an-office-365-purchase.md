@@ -1,8 +1,10 @@
 ---
-title: Vytvorenie nákupu v službe Microsoft 365
+title: Ako vykonať Microsoft 365 nákup
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232382"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689097"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Vytvorenie nákupu v službe Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Ako vykonať Microsoft 365 nákup
 
-Predplatné na Microsoft 365 si môžete kúpiť v centre spravovania.
+Predplatné na Office Microsoft 365 v centre spravovania.
   
-- Ak si chcete zakúpiť plán, prejdite na stránku služby **fakturácie** \> **[nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
-- Ak chcete zakúpiť ďalšie licencie, prejdite na stránku **Fakturácia** \> **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Vyberte predplatné, ktoré chcete zmeniť, a potom vyberte položku **kúpiť licencie**. \
-**Pozrite si video, v** ktorom sa dozviete, ako to urobiť: [zakúpenie nových licencií](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- Ak si chcete zakúpiť plán, prejdite na **stránku Služby** \> **[zakúpenia fakturácie.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Ak si chcete zakúpiť ďalšie licencie, prejdite **na stránku** \> **[Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Vyberte predplatné, ktoré chcete zmeniť, a potom vyberte **položku Kúpiť licencie**.\
+**POZRITE SI video,** ktoré vám ukáže, ako na to: [Zakúpenie nových licencií](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Ďalšie informácie nájdete v téme [zakúpenie alebo odstránenie licencií](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Ďalšie informácie nájdete v téme [Zakúpenie alebo odstránenie licencií.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Riešenie problémov**
 
@@ -35,5 +38,5 @@ Ak sa vyskytnú problémy s načítaním stránky, pokúste sa webovú stránku 
 
 **Ďalšie zdroje informácií**
   
-- [Priradenie licencií používateľom v službe Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Zrušenie služby Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Priradenie licencií pre používateľov vo Microsoft 365 for business](/microsoft-365/admin/add-users/add-users)
+- [Zrušenie Microsoft 365 for Business](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

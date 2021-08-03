@@ -1,9 +1,10 @@
 ---
-title: Odmietnutá Kreditná karta
+title: Odmietnutá kreditná karta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 7e060ffa586d7b2dc6b64d7fcd6a672645e09096
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 76ce53116ef0bcfaf382dfde4b0bc0fa7829c5c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416687"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688665"
 ---
-# <a name="declined-credit-card"></a>Odmietnutá Kreditná karta
+# <a name="declined-credit-card"></a>Odmietnutá kreditná karta
 
-Ak platíte kreditnou kartou a odmietnete kreditnú kartu, dostanete e-mail s informáciou o tom, že sme nemohli spracovať platbu. Dvakrát skontrolujte, či sú [údaje kreditnej karty](https://go.microsoft.com/fwlink/p/?linkid=842054) – číslo karty, dátum uplynutia platnosti, meno na kreditnej karte a adresa vrátane mesta, štátu a PSČ – zobrazené presne tak, ako to robia na kreditnej karte a v výpise z kreditnej karty. Môžete aktualizovať informácie o kreditnej karte a okamžite Odošlite platbu pomocou možnosti **vyrovnať vyváženie** na stránke **Fakturácia**  >  [produktov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Ak platíte kreditnou kartou a kreditná karta bola zamietnutá, dostanete e-mail s o tom, že sa nám nepodarilo spracovať platbu. Prekontrolujte, či sú podrobnosti o kreditnej karte [–](https://go.microsoft.com/fwlink/p/?linkid=842054) číslo karty, dátum uplynutia platnosti, meno na kreditnej karte a adresa vrátane mesta, štátu a PSČ – uvedené presne tak ako na kreditnej karte a na výpise ku kreditnej karte. Informácie o kreditnej karte môžete aktualizovať a okamžite odoslať platbu pomocou možnosti Vyúčtovanie **zostatku** na **stránke**  >  [Fakturácia Vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
 
-Ďalšie informácie nájdete v časti "čo ak uplynula platnosť kreditnej karty a moja platba je splatná?" [platíte za predplatné na Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Ďalšie informácie nájdete v časti Čo robiť, ak uplynula platnosť kreditnej karty a úhrada je po termíne splatnosti? v [časti Zaplatenie predplatného Microsoft 365 for business](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Ak sa zobrazí hlásenie odmietnuté, obráťte sa na svoju banku. Je možné, že vaša kreditná karta nie je aktívna, napríklad ak ste nedávno dostali kreditnú kartu v pošte s aktualizovaným dátumom uplynutia platnosti, možno ho budete musieť aktivovať. Vaša banka vám tiež oznámi, či vaša kreditná karta nie je schválená pre online, medzinárodné alebo opakujúce sa transakcie.
+Ak sa bude hlásenie o odmietnuní naďalej zobrazuje, obráťte sa na svoju banku. Je možné, že kreditná karta nie je aktívna, napríklad ak ste v poslednej dobe dostali kreditnú kartu poštou s aktualizovaným dátumom uplynutia platnosti, možno ju budete musieť aktivovať. Vaša banka vám môže tiež povedať, že kreditná karta nie je schválená na online, medzinárodné alebo opakované transakcie.
   
-Ďalšie informácie nájdete v téme [spravovanie spôsobov úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ďalšie informácie nájdete v téme [Spravovanie spôsobov platby.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

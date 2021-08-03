@@ -3,6 +3,7 @@ title: Najčastejšie otázky týkajúce sa predplatného na Microsoft 365 E5
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 6627a9887ac61874c59c2476834a136e6a7b6dd1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: 5ea198b013721d96f985f40830731f71dc4b3700
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602451"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688017"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Najčastejšie otázky o predplatnom na Microsoft 365 E5 a spravovaní licencií
 
