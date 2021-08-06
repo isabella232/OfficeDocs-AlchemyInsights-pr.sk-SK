@@ -1,5 +1,5 @@
 ---
-title: Priradenie jedinečných povolení v SharePointe
+title: Priradenie jedinečných povolení v SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6869"
 - "9000156"
-ms.openlocfilehash: ed07dea56090d1816fe59d2839fdecb58916a849
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 32d790e59ee2e4a96ed0172a14aee306b22a1f8ba6702e57ade5357a69b46803
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019631"
 ---
-# <a name="assign-unique-permissions-in-sharepoint"></a>Priradenie jedinečných povolení v SharePointe
+# <a name="assign-unique-permissions-in-sharepoint"></a>Priradenie jedinečných povolení v SharePoint
 
-Keď prerušíte dedenie povolení pre zoznam, knižnicu alebo prieskum a potom definujete nové nastavenia povolení, zoznam (alebo knižnica) sa stane nadradeným položkám, ktoré sú v ňom.  
+Keď prerušíte dedenie povolení pre zoznam, knižnicu alebo prieskum a potom definujete nové nastavenia povolení, zoznam (alebo knižnica) sa stane nadradeným objektom pre položky v zozname.  
 
-Ak chcete prerušiť Dedenie a priradiť jedinečné povolenia, postupujte podľa týchto krokov: [Priradenie jedinečných povolení v SharePointe](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break).
+Ak chcete prerušiť dedenie a priradiť jedinečné povolenia, postupujte podľa týchto krokov: [Priradenie jedinečných povolení SharePoint](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#bkmk_break).

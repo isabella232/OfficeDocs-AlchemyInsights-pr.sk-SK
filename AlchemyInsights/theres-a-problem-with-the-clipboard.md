@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908689"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Riešenie chyby Schránky v Exceli
+# <a name="resolving-excel-clipboard-error"></a>Riešenie Excel schránky
 
-Ak sa v Exceli zobrazí chybové hlásenie Vyskytol sa problém so Schránkou, ale obsah môžete v tomto zošite prilepiť, skúste vypnúť funkciu Živá ukážka pomocou týchto krokov:
+Ak sa v aplikácii Excel zobrazí chybové hlásenie Vyskytol sa problém so schránkou, ale obsah môžete prilepiť do tohto zošita, skúste vypnúť funkciu živej ukážky pomocou týchto krokov:
 
-1. V Exceli kliknite na **položku**  >  **Možnosti súboru**.
-3. V **dialógovom okne Excel** – možnosti vyberte položku **Všeobecné**.
+1. V Excel kliknite na **položku Možnosti**  >  **súboru**.
+3. V **dialógovom Excel Možnosti** vyberte položku **Všeobecné**.
 4. V **časti Možnosti používateľského rozhrania** zrušte **začiarknutie políčka Povoliť živú ukážku.**
 5. Kliknite na tlačidlo **OK**.
 6. Reštartujte Excel.

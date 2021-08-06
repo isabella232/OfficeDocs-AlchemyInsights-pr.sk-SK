@@ -1,5 +1,5 @@
 ---
-title: 902 (chyby synchronizácie spôsobené duplicitnými objektmi)
+title: 902 (chyby synchronizácie v dôsledku duplicitných objektov)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998809"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>Chyby synchronizácie spôsobené duplicitnými objektmi
+# <a name="sync-errors-due-to-duplicate-objects"></a>Chyby pri synchronizácii z dôvodu duplicitných objektov
 
-Pri dokončení synchronizácie adresárov v programe Microsoft 365 sa môže zobraziť jedno z nasledujúcich chybových hlásení:
+Po dokončení synchronizácie adresárov v programe Outlook sa môže zobraziť niektoré z Microsoft 365:
 
-- Nie je možné aktualizovať tento objekt v službách Microsoft Online Services, pretože nasledovné atribúty priradené k tomuto objektu majú hodnoty, ktoré už môžu byť priradené k inému objektu v lokálnom adresári.
+- Nie je možné aktualizovať tento objekt v službách Microsoft Online Services, pretože nasledujúce atribúty priradené k tomuto objektu majú hodnoty, ktoré už môžu byť priradené k inému objektu v lokálnom adresári.
 
-- Synchronizovaný objekt s rovnakou adresou proxy už existuje v adresári služieb Microsoft Online Services.
+- Synchronizovaný objekt s rovnakou adresou servera proxy už existuje v adresári služieb Microsoft Online Services.
 
-- Nie je možné aktualizovať tento objekt, pretože nasledovné atribúty priradené k tomuto objektu majú hodnoty, ktoré už môžu byť priradené k inému objektu v miestnych adresárových službách: UserPrincipalName.
+- Tento objekt nie je možné aktualizovať, pretože nasledujúce atribúty priradené k tomuto objektu majú hodnoty, ktoré už môžu byť priradené k inému objektu v lokálnych adresárových službách: UserPrincipalName.
 
-Ak chcete problém identifikovať a vyriešiť, Stiahnite a spustite [nástroj na sanáciu chýb nástroja IdFix DirSync](https://github.com/Microsoft/idfix).
+Ak chcete identifikovať a opraviť problém, stiahnite a spustite nástroj Na opravu chýb [nástroja IdFix DirSync.](https://github.com/Microsoft/idfix)
 
-Ďalšie informácie nájdete v téme [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
+Ďalšie informácie nájdete v téme [KB2647098.](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o)

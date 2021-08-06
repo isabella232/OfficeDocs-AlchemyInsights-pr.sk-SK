@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907753"
 ---
 # <a name="workflow-is-not-starting"></a>Pracovný postup sa nes začatím
 
-- Pracovné postupy SharePointu 2010 a SharePointu 2013 sa nesajú.
+- SharePoint 2010 a SharePoint 2013 sa nesajú.
 
     - Ak sa pracovný postup nes začatím nezačína, môže ísť o dočasný problém so službami, v rámci ktorého sa používateľom môžu vyskytnúť občasné oneskorenia s priebehom pracovného postupu. Skontrolujte [tabuľu stavu služby a](https://admin.microsoft.com/AdminPortal/Home/servicehealth) zistite, či to bude mať vplyv na vašu organizáciu.
 
     - Ak uplynulo viac než 24 hodín od toho, čo ste tento problém prvýkrát videli, prihláste sa do lístka technickej podpory. V mnohých prípadoch už pracujeme na riešení. Dajte nám aspoň 24 hodín na dokončenie riešenia.
 
-- Pracovné postupy SharePointu 2010 sa oneskorili pri spustení.
+- SharePoint spustení sa odložili pracovné postupy z roku 2010.
 
     - Dochádza k tomu, ak sa pracovný postup spustí vo veľkých dávkach. (napríklad, keď sa pridá niekoľko položiek naraz).
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403758"
 
 
 ## <a name="related-topics"></a>Súvisiace témy
-Chcete vyskúšať Microsoft Flow v SharePointe Online?
-- [Vytvorenie toku](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Chcete sa o Microsoft Flow v SharePoint Online?
+- [Vytvorenie Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint a Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

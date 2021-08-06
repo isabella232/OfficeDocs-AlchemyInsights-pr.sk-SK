@@ -1,5 +1,5 @@
 ---
-title: Odinštalovanie balíka Microsoft Office pomocou nástroja Microsoft Support and Recovery Assistant
+title: Použitie služby Microsoft Support and Recovery Assistant na odinštalovanie Microsoft Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908443"
 ---
-# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Odinštalovanie balíka Microsoft Office pomocou nástroja Microsoft Support and Recovery Assistant
+# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Použitie služby Microsoft Support and Recovery Assistant na odinštalovanie Microsoft Office
 
 Postupujte takto:
 
-1. Stiahnite si [nástroj Microsoft Support and Recovery Assistant](https://go.microsoft.com/fwlink/?linkid=2139122).
-1. V dolnej časti okna prehliadača kliknite na položku **Spustiť** , čím spustíte súbor **SetupProd_OffScrub.exe** .
-1. Vyberte verziu, ktorú chcete odinštalovať, a potom kliknite na tlačidlo **ďalej**.
-1. Postupujte podľa uvedených krokov. Po zobrazení výzvy reštartujte počítač.
-1. Po reštartovaní počítača sa nástroj automaticky znova otvorí a bude vás sprevádzať zostávajúcimi krokmi.
+1. Stiahnite [si Microsoft Support and Recovery Assistant.](https://go.microsoft.com/fwlink/?linkid=2139122)
+1. V dolnej časti okna prehliadača kliknite na položku **Spustiť a** spustite **SetupProd_OffScrub.exe** súbor.
+1. Vyberte verziu, ktorú chcete odinštalovať, a potom kliknite na tlačidlo **Ďalej**.
+1. Postupujte podľa pokynov. Po zobrazení výzvy reštartujte počítač.
+1. Po reštartovaní počítača sa nástroj automaticky znova otvorí a prevedie zvyšnými krokmi.
 
-Ak potrebujete preinštalovať balík Microsoft Office, postupujte podľa krokov určených pre požadovanú verziu: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)alebo [Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).
+Ak potrebujete preinštalovať balík Microsoft Office, postupujte podľa postupu, ktorý je špecifický pre verziu, ktorú potrebujete: M[icrosoft 365,](https://go.microsoft.com/fwlink/?linkid=2138843) [Office 2019,](https://go.microsoft.com/fwlink/?linkid=2138843) [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)alebo [Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).

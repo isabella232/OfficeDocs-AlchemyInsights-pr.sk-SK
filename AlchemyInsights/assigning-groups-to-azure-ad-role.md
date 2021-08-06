@@ -1,5 +1,5 @@
 ---
-title: Priradenie skupín k úlohe Azure AD
+title: Priradenie skupín k role služby Azure AD
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036255"
 ---
-# <a name="assigning-groups-to-azure-ad-role"></a>Priradenie skupín k úlohe Azure AD
+# <a name="assigning-groups-to-azure-ad-role"></a>Priradenie skupín k role služby Azure AD
 
-Ak chcete priradiť skupinu Azure AD so zdrojom autority v službe Azure AD na rolu Azure AD, vykonajte tieto kroky:
+Ak chcete k role služby Azure AD priradiť skupinu služby Azure AD so zdrojom autority v službe Azure AD, vykonajte tieto kroky:
 
-1. Vytvorenie novej skupiny – vytvorenie novej skupiny:
+1. Vytvorenie novej skupiny – Vytvorenie novej skupiny:
 
-    a. Prihláste sa do centra spravovania služby Azure AD s **privilegovaným správcom roly** alebo povoleniami **globálneho správcu** .
-    b. Vyberte položku **Azure Active Directory > skupiny > všetky skupiny > novú skupinu**.
+    a. Prihláste sa do Centra spravovania služby Azure AD s **privilegovaným správcom rolí** alebo **povoleniami globálneho** správcu.
+    b. Vyberte **Azure Active Directory > skupiny > položku Všetky skupiny > novej skupiny**.
     c. Vytvorte skupinu.
 
-2. Priraďte rolu skupine buď počas vytvárania skupiny alebo po vytvorení skupiny.
+2. Priraďte skupine rolu počas vytvárania skupiny alebo po jej vytvorení.
 
-    a. Ak chcete skupine priradiť rolu v čase vytvárania skupiny, zapnite funkciu prepnutia **funkcií Azure AD môže byť priradená skupine** a vytvorte skupinu.
-    b. Ak chcete priradiť rolu k skupine po jej vytvorení, prejdite na kartu **priradené roly** pre novo vytvorenú skupinu a priraďte rolu skupine.  
+    a. Ak chcete k skupine priradiť rolu v čase vytvorenia skupiny, zapnite prepínač rolí služby **Azure AD,** ktoré môžu byť k tejto skupine priradené, a vytvorte skupinu.
+    b. Ak chcete priradiť rolu k skupine po  jej vytvorení, prejdite na kartu Priradené roly pre novovytvorenú skupinu a priraďte skupine rolu.  
 
-**Spravovanie členstva v skupine, ktorá je priradená k úlohe Azure AD**
+**Spravovanie členstva v skupine, ktorá je priradená k role služby Azure AD**
 
-Ak chcete zabrániť zvýšeniu počtu privilégií, na základe predvoleného nastavenia môžu členovia skupiny, ktorá je priradená k úlohe, upravovať iba privilegovaní správcovia rolí a globálni správcovia. Môže sa však rozhodnúť priradiť vlastníkovi takejto skupiny a delegovať túto úlohu.
+S cieľom zabrániť neautorizovanému výšky oprávnení môžu predvolene upravovať členstvo v skupine priradenej k role iba oprávnení správcovia rolí a globálni správcovia. Môže však priradiť vlastníka tejto skupiny a túto úlohu delegovať.
 
-Ďalšie informácie o priraďovaní cloudových skupín k funkciám Azure AD nájdete v téme [Priradenie ROLÍ reklamy skupine cloud](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Ďalšie informácie o riešení problémov s rolami priradenými k cloudovým skupinám nájdete v téme [Riešenie problémov priradených k cloudovým skupinám](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Ďalšie informácie o priraďovaní cloudových skupín k rolám služby Azure AD nájdete v téme Priradenie [rolí AD ku cloudovej skupine.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Ďalšie informácie o riešení problémov s rolami priradenými ku cloudových skupinám nájdete v téme Riešenie problémov s [rolami priradenými ku cloudovej skupine.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 

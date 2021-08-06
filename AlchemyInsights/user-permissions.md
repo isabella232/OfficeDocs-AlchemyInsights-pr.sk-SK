@@ -1,5 +1,5 @@
 ---
-title: Povolenia používateľa
+title: Povolenia používateľov
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
@@ -9,34 +9,34 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908365"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Povolenia používateľov v SharePointe a OneDrive
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Povolenia používateľov v SharePoint a OneDrive
 
-Ak používateľ vo vašej organizácii nedokáže získať prístup k službe SharePoint alebo OneDrive, skontrolujte, či majú licenciu, ktorá zahŕňa SharePoint a OneDrive. 
+Ak používateľ vo vašej organizácii nemá prístup k programu SharePoint alebo OneDrive, skontrolujte, či má licenciu, ktorá zahŕňa SharePoint a OneDrive. 
   
-1. Prejdite na [stránku aktívni používatelia v centre spravovania služieb Microsoft 365](https://portal.office.com/adminportal/home#/users) a vyberte používateľa. 
+1. Prejdite na [stránku Aktívni používatelia v Centrum spravovania služby Microsoft 365](https://portal.office.com/adminportal/home#/users) vyberte používateľa. 
     
-2. Skontrolujte, či je v časti **licencie na produkt**priradená licencia a či je vybratá možnosť **SharePoint Online** . 
+2. Uistite sa, **že v časti Licencie** na produkty je priradená licencia a SharePoint je **vybratá možnosť Online.** 
     
- Udelenie povolenia používateľovi na prístup k lokalite SharePoint: 
+ Ak chcete používateľovi poskytnúť povolenie na prístup k SharePoint lokalite: 
   
 1. Otvorte lokalitu vo webovom prehliadači.
     
-2. Ak lokalita patrí do skupiny Microsoft 365, kliknite na ikonu nastavenia v pravom hornom rohu a potom kliknite na položku **povolenia lokality**. Kliknite na položku **pozvať ľudí**a potom vyberte položku na pridanie členov do skupiny Microsoft 365 alebo na zdieľanie len na lokalite. 
+2. Ak lokalita patrí do Microsoft 365, kliknite na ikonu povolenia Nastavenia v pravom hornom rohu a potom kliknite na **položku Povolenia lokality**. Kliknite **na položku Pozvať** ľudí a potom vyberte, či chcete pridať členov Microsoft 365 alebo zdieľať len lokalitu. 
     
-    Ak ide o komunikačnú lokalitu, kliknite na položku **zdieľať lokalitu** v pravom hornom rohu, zadajte meno danej osoby a potom vyberte úroveň povolení (čítanie, úprava alebo úplný prístup). 
+    V prípade lokality  na komunikáciu kliknite v pravom hornom rohu na položku Zdieľať lokalitu, zadajte meno osoby a potom vyberte úroveň povolení (Čítať, Upraviť alebo Úplný prístup). 
     
-    Ak chcete vytvoriť klasickú tímovú lokalitu, kliknite na položku **zdieľať** v pravom hornom rohu. Zadajte meno osoby, ktorú chcete pozvať, alebo napíšte každému, koho chcete zdieľať so všetkými používateľmi v organizácii. Kliknite na položku **zdieľať**.
+    V prípade klasickej tímovej lokality kliknite **v** pravom hornom rohu na položku Zdieľať. Zadajte meno osoby, ktorú chcete pozvať, alebo zadajte položku Všetci, ak chcete zdieľať so všetkými vo vašej organizácii. Kliknite na **položku Zdieľať**.
     
 > [!NOTE]
-> Ak ste členom lokality, nie však vlastníkom, môžete na lokalitu pozvať ľudí, ale vaša Pozvánka vygeneruje žiadosť o prístup, ktorú môže schváliť alebo odmietnuť vlastník lokality. 
+> Ak ste členom lokality, ale nie vlastníkom, môžete na lokalitu pozvať ľudí, ale vaša pozvánka vygeneruje žiadosť o prístup, ktorú môže vlastník lokality schváliť alebo zamietnuť. 
   
-[Informácie o zdieľaní súboru alebo priečinka s používateľom](https://go.microsoft.com/fwlink/?linkid=533408)
+[Zistite, ako zdieľať súbor alebo priečinok s používateľom](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

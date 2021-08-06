@@ -1,5 +1,5 @@
 ---
-title: Nastavenie virtuálnej pracovnej plochy systému Windows
+title: Nastavenie virtuálnej Windows pracovnej plochy
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036651"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Nastavenie virtuálnej pracovnej plochy systému Windows
+# <a name="set-up-windows-virtual-desktop"></a>Nastavenie virtuálnej Windows pracovnej plochy
 
-Virtuálna pracovná plocha Windowsu je komplexná Počítačová a Virtualizačná služba spustená v cloude. Ide o jedinú virtuálnu počítačovú infraštruktúru (VDI), ktorá poskytuje zjednodušené spravovanie, multi-session Windows 10, optimalizáciu aplikácií Microsoft 365 a podporu pre prostredie služby Remote Desktop Services (RDS). Nasadenie a zmenšenie počítačov s Windowsom a aplikácií do služby Azure v priebehu niekoľkých minút a získanie vstavaných funkcií zabezpečenia a dodržiavania súladu.
+Windows Virtuálna pracovná plocha je komplexná služba virtualizácie pracovnej plochy a aplikácií spustená v cloude. Je to jediná virtuálna počítačová infraštruktúra (VDI), ktorá poskytuje zjednodušené spravovanie, Windows 10 viacnásobných relácií, optimalizácie pre Aplikácie Microsoft 365 a podporu prostredí služieb vzdialenej pracovnej plochy. Nasadenie a škálovanie Windows počítačov a aplikácií v službe Azure za niekoľko minút a získanie vstavaných funkcií zabezpečenia a dodržiavania súladu.
 
-[Sprievodca nastavením virtuálnej pracovnej plochy systému Windows](https://go.microsoft.com/fwlink/?linkid=2146236) poskytuje správcom plánovanie zdrojov a predpoklady nasadenia, pokyny na nastavenie a ďalšie zdroje informácií.
+Sprievodca [Windows virtuálnej pracovnej plochy](https://go.microsoft.com/fwlink/?linkid=2146236) poskytuje správcom zdroje plánovania a predpoklady na nasadenie, pokyny na nastavenie a ďalšie zdroje.

@@ -1,5 +1,5 @@
 ---
-title: Obnovenie odstránených položiek zo SharePointu alebo OneDrivu
+title: Obnovenie odstránených položiek z SharePoint alebo OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728194"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922318"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Obnovenie odstránených položiek zo SharePointu alebo OneDrivu
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Obnovenie odstránených položiek z SharePoint alebo OneDrive
 
-1. Prejdite do služby OneDrive alebo na lokalitu SharePoint.
+1. Prejdite na svoju OneDrive alebo SharePoint lokalitu.
     
-2. Na ľavej table kliknite na položku **Kôš** . 
+2. Na **ľavej table** kliknite na položku Kôš. 
     
 3. Kliknite naľavo od položiek alebo súborov, ktoré chcete obnoviť.
     
-4. Kliknite na položku **obnoviť**. 
+4. Kliknite na **položku Obnoviť**. 
     
-Keď sa súbory, priečinky, knižnice, zoznamy a položky zoznamu odstránia z lokality SharePoint, presunú sa do koša, kde sa uchovávajú počas 93 dní, pokiaľ ich niekto z tohto koša neodstráni. Ak sa odstránia z tohto koša (nazývaného Kôš lokality), presunú sa do Koša kolekcie lokalít a potom sa natrvalo odstránia. Odstránené lokality a kolekcie lokalít sa presunú priamo do Koša kolekcie lokalít pre 93 dní.
+Keď odstránite súbory, priečinky, knižnice, zoznamy a položky zoznamu z lokality SharePoint, prejdú do Koša, kde sú uložené 93 dní, pokiaľ ich niekto z tohto Koša neodstráni. Ak sa odstránia z tohto Koša (ktorý sa nazýva Kôš lokality), prejdú na zostávajúci čas do Koša kolekcie lokalít a potom sa natrvalo odstránia. Odstránené lokality a kolekcie lokalít prejdú priamo do Koša kolekcie lokalít na 93 dní.
   
-[Obnovenie položiek v koši kolekcie lokalít](https://go.microsoft.com/fwlink/?linkid=867800) (správcovia kolekcie lokalít) 
+[Obnovenie položiek v Koši kolekcie lokalít](https://go.microsoft.com/fwlink/?linkid=867800) (správcovia kolekcie lokalít) 
   
-[Obnovenie odstránených kolekcií lokalít](https://go.microsoft.com/fwlink/?linkid=867660) (globálnych alebo sharepointových správcov v Microsoft 365) 
+[Obnovenie odstránených kolekcií](https://go.microsoft.com/fwlink/?linkid=867660) lokalít (globálnych SharePoint správcov v Microsoft 365) 
   
-Pre lokality, ktoré patria do skupiny Microsoft 365, je potrebné obnoviť skupinu na obnovenie lokality. Pozrite si tému [Obnovenie odstránenej skupiny Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802) (globálny správca) 
+Na lokalitách, ktoré patria Microsoft 365 skupiny, bude na obnovenie lokality potrebné obnoviť skupinu. Pozrite [si tému Obnovenie odstránenej Microsoft 365 skupiny](https://go.microsoft.com/fwlink/?linkid=867802) (globálny správca) 
   
 

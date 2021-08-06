@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019523"
 ---
 # <a name="authentication-issues"></a>Problémy s overením
 
@@ -75,14 +75,14 @@ Na základe politík podmieneného prístupu (CA) organizácie môže byť použ
 - [Riešenie problémov s podmieneným prístupom pomocou MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Pokyny pre vývojárov pre podmienený prístup k službe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Ukončenie podpory pre križnicu Azure Active Directory Authentication Library (ADAL) a rozhranie Azure AD Graph API (AAD Graph)_* _
+***Ukončenie podpory pre Azure Active Directory overovanie (ADAL) a Azure AD Graph API (AAD Graph)***
 
 - Od 30. júna 2020 už nebudeme pridávať žiadne nové funkcie do knižnice Azure Active Directory Authentication Library (ADAL) a rozhrania AD Graph API (AAD Graph). Naďalej budeme poskytovať technickú podporu a aktualizácie zabezpečenia, ale už nebudeme poskytovať aktualizácie funkcií.
 - Od 30. júna 2022 ukončíme podporu pre ADAL a AAD Graph a nebudeme poskytovať technickú podporu ani aktualizácie zabezpečenia.
     - Aplikácie používajúce ADAL v existujúcich verziách operačného systému budú fungovať aj naďalej, ale nebudú mať k dispozícii žiadnu technickú podporu ani aktualizácie zabezpečenia.
     - Aplikácie používajúce AAD Graph po tomto čase už nemusia prijímať odpovede z koncového bodu AAD Graphu.
 
-_ *Migrácia ADAL**
+**Migrácia ADAL**
 
 Odporúčame aktualizovať na [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) s najnovšími funkciami a aktualizáciami zabezpečenia. Pri tomto odporúčaní ide o migráciu aplikácií spoločnosti Microsoft do MSAL do termínu ukončenia podpory. Cieľom migrácie aplikácií spoločnosti Microsoft do MSAL je zabezpečiť, aby aplikácie mohli využívať výhody priebežného zabezpečenia a vylepšení funkcií pre MSAL.
 

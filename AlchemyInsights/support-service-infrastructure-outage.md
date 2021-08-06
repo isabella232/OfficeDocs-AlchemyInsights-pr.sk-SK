@@ -1,5 +1,5 @@
 ---
-title: Výpadok infraštruktúry služby technickej podpory
+title: Výpadky infraštruktúry podpory
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48365320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998994"
 ---
-# <a name="support-service-infrastructure-outage"></a>Výpadok infraštruktúry služby technickej podpory
+# <a name="support-service-infrastructure-outage"></a>Výpadky infraštruktúry podpory
 
-V súčasnosti zažívame výpadok v infraštruktúre služieb technickej podpory. Pracujeme na tom, aby sme problém vyriešili čo najskôr, ale Medzitým sa môže zobraziť oneskorenie odozvy pri pokuse o kontaktovanie spoločnosti Microsoft.
+V súčasnosti dochádza k výpadku infraštruktúry služieb podpory. Pracujeme na tom, aby sme problém vyriešili čo najrýchlejšie, no aj tak sa pri pokuse o kontaktovanie spoločnosti Microsoft môžu zobraziť oneskorenia času odozvy.

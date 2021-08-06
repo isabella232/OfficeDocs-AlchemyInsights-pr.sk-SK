@@ -1,5 +1,5 @@
 ---
-title: Rýchla úprava autonavrhnite
+title: Rýchle úpravy automatických úprav
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447489"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923110"
 ---
-# <a name="quick-edit-autosuggest"></a>Rýchla úprava autonavrhnite
+# <a name="quick-edit-autosuggest"></a>Rýchle úpravy automatických úprav
 
-Položky v zozname SharePointu môžete upraviť dvomi spôsobmi. V zobrazení zoznamu môžete upraviť jednu položku, ktorá je predvolenou metódou. Alebo ak chcete byť ešte produktívnejší, môžete upraviť viacero položiek v zobrazení rýchle úpravy. Na úpravu položiek potrebujete povolenie na úrovni prispievania alebo vyššie. Ďalšie informácie nájdete v téme [Úprava položiek zoznamu v SharePointe Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).
+Položku možno v zozname položiek upraviť dvomi SharePoint spôsobmi. V zobrazení zoznamu môžete upraviť jednu položku, čo je predvolený spôsob. Ak chcete byť ešte produktívnejší, môžete upraviť niekoľko položiek v zobrazení Rýchle úpravy. Na úpravu položiek potrebujete povolenie na úrovni prispievanie alebo vyššie. Ďalšie informácie nájdete v téme [Úprava položiek zoznamu v SharePoint Online.](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)

@@ -1,5 +1,5 @@
 ---
-title: Systém Windows sa nespustí na povrchu
+title: Windows sa v zariadení Surface nespustí
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: d4e86433bb15e07143b0b25bb515eedcfd329cb9
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 91ccb5d24b820978579ece9a412cb87c5540564d9c1005482ab928b53a0c1a10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036795"
 ---
-# <a name="windows-doesnt-start-on-surface"></a>Systém Windows sa nespustí na povrchu
+# <a name="windows-doesnt-start-on-surface"></a>Windows sa v zariadení Surface nespustí
 
-Ak sa Windows nespustí na povrchu alebo sa vaše zariadenie neprebúdza z režimu spánku, vyskúšajte tieto kroky na riešenie problémov:
+Ak Windows zariadení Surface alebo vaše zariadenie nie je možné prebúchať z režimu spánku, vyskúšajte tieto kroky na riešenie problémov:
 
-- Ak sa Windows nespustí správne pri zapnutí povrchu (t. j. Windows sa nespustí), postup na vyriešenie problému nájdete [v téme systém Windows sa nespustí na povrchu](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c).
+- Ak Windows Surface (t. j. Windows sa nespustí správne), postup na vyriešenie problému nájdete v téme Windows sa v zariadení [Surface](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c)nespustí.
 
-- Ak sa váš povrch nezapne ani neprebudí, v prípade postupu pri riešení problémov si pozrite tému [Surface sa nezapne ani prebudiť z režimu spánku](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a).
+- Ak sa zariadenie Surface nezapísa alebo neprebudí, informácie o krokoch na riešenie problémov nájdete v téme Surface sa nezapísal ani neprebudil [z režimu spánku.](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a)
 
-- Ak používate zariadenie iného výrobcu, prečítajte si tému [Riešenie problémov s zariadeniami tretích strán](https://support.microsoft.com/topic/b6f3408d-dac9-43e2-82f6-e620ca783636).
+- Ak používate zariadenie tretej strany, pozrite si tému Riešenie problémov [so zariadeniami tretích strán.](https://support.microsoft.com/topic/b6f3408d-dac9-43e2-82f6-e620ca783636)
 

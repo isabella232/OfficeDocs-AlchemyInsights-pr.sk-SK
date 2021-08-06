@@ -1,5 +1,5 @@
 ---
-title: Odinštalovanie balíka Office
+title: Odinštalovanie Office
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: Nižšie uvedené kroky popisujú postup odinštalovania balíka Office z počítača.
-ms.openlocfilehash: 1be113b2fd140dc30857de68a4ab851c0d946af7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Postup nižšie popisuje spôsob odinštalovania Office z POČÍTAČA.
+ms.openlocfilehash: 50e276e1f0bc142b39515f8ee571bb028b2e5793c990e19f72da5b88ea81c848
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908617"
 ---
-# <a name="uninstall-office"></a>Odinštalovanie balíka Office
+# <a name="uninstall-office"></a>Odinštalovanie Office
 
 Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Keď sa otvorí, v časti **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.
+1. Keď sa otvorí, v časti **Odinštalovať Office produkty** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **Ďalej**.
 
 2. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.
 
-    Po reštartovaní sa automaticky znova otvorí nástroj support and Recovery Assistant, aby sa dokončil proces odinštalovania.
+    Po reštartovaní sa Support and Recovery Assistant znova otvorí, aby sa dokončil proces odinštalovania.
 
-3. Sledovanie zostávajúcich výziev a [Preinštalovanie balíka Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorenie Asistenta.
+3. Postupujte podľa ďalších pokynov a [znova](https://portal.office.com/OLS/MySoftware.aspx) Office alebo zatvorte asistenta.
 
-Ak chcete zobraziť zoznam ďalších možností odinštalovania, vyberte položku [odinštalovať balík Office z počítača](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
+Ak chcete zobraziť zoznam ďalších možností odinštalovania, vyberte [Office odinštalovať z počítača.](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)
   
