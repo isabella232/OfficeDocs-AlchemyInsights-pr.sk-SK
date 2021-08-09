@@ -1,5 +1,5 @@
 ---
-title: 8000053 nie je možné odosielať skupinové e-maily
+title: 8000053 nie je možné odoslať skupinové e-maily
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060583"
 ---
 # <a name="unable-to-send-group-emails"></a>Nie je možné odosielať skupinové e-maily
 
-Ak nie je možné odosielať e-maily do zoznamov kontaktov alebo skupín kontaktov v Outlook.com, vyskúšajte tento postup:
+Ak sa e-maily nedajú odoslať do zoznamov kontaktov alebo skupín kontaktov na lokalite Outlook.com, skúste vykonať tieto kroky:
   
-1. Použite Outlook.com beta. Ďalšie informácie nájdete [v téme Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Použite Outlook.com beta. Ďalšie informácie nájdete v [časti Informácie o verzii beta Outlook.com.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. Ak ešte stále máte problémy so zostavovaním e-mailu do skupiny, prejdite na položku [ľudia](https://outlook.live.com/people/), vyberte zoznam kontaktov alebo skupinu a potom vyberte položku **Odoslať e-mail**.
+2. Ak sa vám stále ne odosielajú e-maily [](https://outlook.live.com/people/)zo skupiny, prejdite do časti Ľudia, vyberte zoznam kontaktov alebo skupinu a potom vyberte položku **Odoslať e-mail**.
     
- **Poznámok**
+ **Poznámky:**
   
-1. Uistite sa, že nemáte blokované automaticky otvárané okná: odosielanie e-mailov zo stránky zoznam kontaktov otvorí nové okno.
+1. Skontrolujte, či nemáte automaticky otvárané okná zablokované: pri odosielaní e-mailov zo stránky zoznamu kontaktov sa otvorí nové okno.
     
-2. Odoslanie e-mailu zo zoznamu kontaktov automaticky umiestni zoznam v riadkoch **Komu** . Ak chcete skryť podrobnosti zoznamu kontaktov, kliknite na položku **Skrytá** v pravom hornom rohu, potom skopírujte a prilepte zoznam kontaktov do položky **Skrytá** kópia a odstráňte **ho** . 
+2. Odoslať poštu zo zoznamu kontaktov automaticky umiestni zoznam do **riadka** Odoslať. Ak chcete skryť podrobnosti zoznamu kontaktov, kliknite na položku Skrytá v pravom hornom  rohu, potom skopírujte zoznam kontaktov a prilepte ho do skrytej kópie a odstráňte **položku** v zozname úloh.  
     
-3. Pri použití **skrytej kópie**je vhodné, aby ste mali vždy niečo v linke **Komu** , napríklad svoju vlastnú adresu od. 
+3. Pri používaní **skrytej** kópie je vhodné, aby ste v riadku **Skrytá** vždy niečo mali, napríklad svoju vlastnú adresu odosielateľa. 
     
 

@@ -1,5 +1,5 @@
 ---
-title: 413 informácie o programe pošta
+title: 413 Informácie o pošte s agendou
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 413
 ms.assetid: 90e254a1-19b7-4715-beaa-31b938473b07
-ms.openlocfilehash: c7861f20a8d014e2276b7cee85a7986e3a1ca518
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d88e8e98d2d4d2922e3f8b1188156a6bca6f46c131007feb45b745f36f2ff46d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060367"
 ---
-# <a name="understanding-agenda-mail"></a>Informácie o pošte agendy
+# <a name="understanding-agenda-mail"></a>Informácie o pošte s agendou
 
-Ďalšie informácie nájdete v téme [Nastavenie kalendára v Outlooku na webe](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx).
+Ďalšie informácie nájdete v téme [Nastavenia kalendára v Outlook na webe.](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f.aspx)

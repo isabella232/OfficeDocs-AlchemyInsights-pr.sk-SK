@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060079"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Prístup ku kľúčem na obnovenie pre šifrovanie BitLocker
 
-Pri konfigurácii nastavení šifrovania BitLocker Politika ochrany koncových bodov služby Intune je možné definovať, či sa majú informácie o obnove pre šifrovanie BitLocker uložiť do služby Azure Active Directory.
+Pri konfigurácii nastavení šifrovania BitLocker Politika ochrany koncových bodov služby Intune je možné definovať, či sa majú informácie o obnove pre šifrovanie BitLocker ukladať Azure Active Directory.
 
 Ak je toto nastavenie nakonfigurované, uložené údaje o obnove by mal vidieť správca služby Intune ako súčasť údajov záznamu zariadenia v zariadeniach Intune blade dvoma spôsobmi:
 
@@ -47,5 +47,5 @@ Ak bolo zariadenie zašifrované pred zaregistrovaním do služby Intune, kľú�
  
 Ak bolo zariadenie zašifrované v dôsledku konfigurácie prostredníctvom skupinovej politiky založenej na doméne, informácie o obnove môžu byť uložené v presnej službe Active Directory.
 
-Ak ste nakonfigurovali politiku ochrany koncového bodu na ukladanie kľúča na obnovenie v službe Azure Active Directory, ale kľúč pre konkrétne zariadenie nebol nahraný, nahrávanie môžete spustiť otočením kľúča na obnovenie pre toto zariadenie z konzoly MEM. Podrobnosti nájdete v téme [Otočenie kľúčov na obnovenie pre šifrovanie BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Ak ste nakonfigurovali politiku ochrany koncového bodu na ukladanie kľúča na obnovenie v balíku Azure Active Directory ale kľúč pre konkrétne zariadenie nebol nahraný, môžete spustiť nahrávanie otočením kľúča na obnovenie pre toto zariadenie z konzoly MEM. Podrobnosti nájdete v téme [Otočenie kľúčov na obnovenie pre šifrovanie BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

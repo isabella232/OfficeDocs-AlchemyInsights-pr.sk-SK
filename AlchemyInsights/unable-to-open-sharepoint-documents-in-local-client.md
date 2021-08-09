@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: c08f119b878b5a9e0987f5440e17f43f3a6cc8ef
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e63cadee448eca3e0c25a8b584883fe158b1e170cebf07d32301ac9cede51ab2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060655"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Nie je možné otvoriť dokumenty SharePointu v lokálnom klientovi
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Nie je možné otvoriť SharePoint v lokálnom klientovi
 
-Niekedy môžete mať problémy s otvorením súborov a dokumentov balíka Office zo SharePointu alebo OneDrivu z lokálnych klientov Office.
+Niekedy môžete mať problémy s otvorením súborov Office a dokumentov zo služieb SharePoint alebo OneDrive z lokálnych Office klientov.
 
-- [Nie je možné otvoriť súbory balíka Office zo SharePointu alebo OneDrivu](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+- [Nie je možné otvoriť Office z SharePoint alebo OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
