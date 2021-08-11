@@ -1,5 +1,5 @@
 ---
-title: Webové časti yammera v SharePointe
+title: Yammer webových častí v SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970346"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>Webové časti yammera v SharePointe
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer webových častí v SharePoint
 
-Konverzácie v Yammeri a Yammer upozorňuje na webové časti, ktoré zlepšujú spoluprácu na moderných a klasických stránkach SharePointu. Ďalšie informácie nájdete v téme [konverzácie v Yammeri](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  a  [hlavné body yammera](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
+Yammer Konverzácie a Yammer zvýrazňujú webové časti a vylepšia spoluprácu na moderných a klasických SharePoint stránkach. Ďalšie informácie nájdete v téme [Konverzácie Yammer a Yammer](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) [zvýraznenia](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights).    
 
-Moderná webová časť konverzácie v Yammeri sa aktualizuje na nové prostredie Yammera a je k dispozícii pre nájomníkov so zameraním na vydanie. Spustilo sa nasadenie GA. K novým funkciám patrí možnosť začať konverzáciu s ľubovoľným príspevkom (otázky, ankety, pochvala) a označiť najlepšie odpovede priamo z SharePointu. Ďalšie informácie nájdete v téme [nové podmienky pre zákazníkov yammera a najčastejšie otázky](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq).
+Moderná webová Yammer Konverzácie sa aktualizuje na nové používateľské prostredie Yammer je k dispozícii pre nájomníkov zameraného na vydanie. Ga rollout sa začal. Medzi nové funkcie patrí možnosť začať konverzáciu s akýmkoľvek príspevokom (Otázky, Ankety, Pochvala) a označiť najlepšie odpovede priamo z SharePoint. Ďalšie informácie nájdete v téme Nové [Yammer a najčastejšie otázky zákazníkov.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
 
- Ak chcete zistiť, ktorá webová časť a konfigurácia je pre vás správna, pozrite si tému [Používanie webovej časti Yammer v SharePointe Online](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da).  
+ Ak chcete zistiť, ktorá webová časť a konfigurácia sú pre vás to pravé, pozrite si [Yammer webovú časť v SharePoint Online.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
 
-**Používanie webových častí so SharePoint serverom**  
+**Používanie webových častí so SharePoint Serverom**  
 
-Webové časti je možné použiť v moderných a klasických stránkach v prostredí lokálne.
+Webové časti možno použiť v moderných a klasických stránkach v lokálnych prostrediach.
 
-- Ďalšie informácie o moderných stránkach nájdete v téme [Pridanie informačného kanála yammera na modernú stránku v SharePoint serveri 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
-- Ďalšie informácie o klasických stránkach nájdete [v téme Pridanie informačného kanála yammera na klasickú stránku v sharepointových serveroch 2013, 2016 a 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019).
+- Ďalšie informácie o moderných stránkach nájdete v [téme Pridanie Yammer informačného kanála na modernú stránku v SharePoint Server 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019). 
+- Ďalšie informácie o klasických stránkach nájdete v téme Pridanie informačného kanála Yammer na klasickú stránku v serveroch [SharePoint 2013, 2016 a 2019.](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)
 
-**Vloženie yammera**  
+**Yammer Vložiť**  
 
-Použitie nástroja na konfiguráciu vloženia na otestovanie využitia vloženia. Budúce aktualizácie na vloženie umožnia nové používanie služby Yammer. Ďalšie informácie nájdete v téme [nástroj na konfiguráciu vloženia yammera](https://aka.ms/YammerEmbedConfigureTool). Ak chcete lepšie porozumieť súčasti na vloženie Yammera, pozrite si tému [Vloženie informačného kanála](https://aka.ms/YammerDevDocs).
+Použitie nástroja na konfiguráciu vkladania na testovanie použitia vkladania. Budúca aktualizácia funkcie Vložiť umožní nové prostredie Yammer prostredie. Ďalšie informácie nájdete v téme Yammer [Vložiť konfiguráciu.](https://aka.ms/YammerEmbedConfigureTool) Ak chcete lepšie porozumieť komponentu Yammer Vložiť, pozrite si časť [Vloženie informačného kanála.](https://aka.ms/YammerDevDocs)
 
 **Známe problémy a obmedzenia**
 
-- Identifikátory skupiny nie sú k dispozícii v nových URL adresách Yammera, ktoré sa zmenili. Ak chcete získať identifikácie skupiny alebo iné identifikátory z URL adries, prejdite späť do klasického režimu.
-- Vlastné (márnosť) domény nie sú podporované.
-- Vložiť Yammer nie je optimalizovaný pre mobilné zariadenia. Využite moderné stránky s webovou časťou konverzácie v Yammeri a získajte najlepšie výsledky.
-- Vlastné motívy môžu ovplyvniť vzhľad a použiteľnosť webovej časti konverzácie cez Yammer. Ak chcete nahlásiť problémy, otvorte prípad podpory.
+- Identifikátory skupiny nie sú k dispozícii z nových Yammer URL adries, ktoré sa zmenili. Ak chcete získať ID skupiny alebo iné identifikátory z URL adries, prepnite späť do klasického režimu.
+- Vlastné domény (nádych) nie sú podporované.
+- Yammer Vloženie nie je optimalizované pre mobilné zariadenia. Používajte moderné stránky s webovou Yammer Konverzácie, aby ste sa vycilili čo najlepšie.
+- Vlastné motívy môžu ovplyvniť vzhľad a použiteľnosť webovej Yammer Konverzácie. Otvorte prípad podpory a nahláste problémy.

@@ -1,5 +1,5 @@
 ---
-title: Odhláste sa z aplikácie Teams a vyriešte chybu pri načítavaní blokov
+title: Odhláste sa z Teams a vyriešte chybu v načítaní bloku
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83cda9e663e5143e5023e6a233bf6dd7d515d541bd0fe6e13e50b61c26066416
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093217"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Odhláste sa z aplikácie Teams a vyriešte chybu pri načítavaní blokov
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Odhláste sa z Teams a vyriešte chybu v načítaní bloku
 
-Ak sa pri prístupe na kartu Súbory v Aplikácii Teams zobrazí chyba " Načítava sa blok **xxx** zlyhal", skúste sa odhlasovať z tímov a potom sa znova prihláste, aby ste chybu vyriešili.
+Ak sa pri prístupe na kartu Súbory v aplikácii Teams zobrazí chyba " Načítava sa blok **xxx** zlyhal", skúste sa odhlasovať z tímov a potom sa znova prihláste a vyriešte chybu.
 
-- Ak chcete zistiť, ako sa odhlásiť z Teams, pozrite si [časť Odhlásenie z Teams.](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487)
+- Ak chcete zistiť, ako sa odhlásiť Teams, pozrite si [časť Odhlásenie z Teams.](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487)

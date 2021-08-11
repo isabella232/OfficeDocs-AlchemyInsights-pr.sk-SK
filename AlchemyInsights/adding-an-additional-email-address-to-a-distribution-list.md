@@ -13,21 +13,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 57adf32faba3399fbbf08c9cfed267a2fc75b05a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad46b9ca5df6b050f1d5cdaa897be528aafcb14c11568049aa512c4f65645392
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934992"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Pridanie e-mailovej adresy distribučnej skupiny
 
-Ak chcete pridať e-mailové adresy existujúcej distribučnej skupiny, postupujte podľa týchto krokov:
+Ak chcete pridať e-mailové adresy pre existujúcu distribučnú skupinu, postupujte takto:
 
-1. V [centre spravovania pre Exchange](https://outlook.office365.com/ecp/)prejdite na položku **Recipients** \> **skupiny**príjemcov.
+1. V Centre [Exchange prejdite](https://outlook.office365.com/ecp/)na položku **Skupiny** \> **príjemcov**.
 
 2. Vyberte distribučnú skupinu, ktorú chcete upraviť, a potom kliknite na položku **Upraviť**.
 
-3. Vo vlastnostiach skupiny prejdite na kartu **Možnosti e-mailu** a pridajte e-mailové adresy. 
+3. Vo vlastnostiach skupiny prejdite na  kartu Možnosti e-mailu a pridajte e-mailové adresy. 
 
-Ďalšie informácie nájdete v téme [Možnosti e-mailu](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Ďalšie informácie nájdete v téme Možnosti [e-mailu.](https://technet.microsoft.com/library/bb124513.aspx#emailoptions)

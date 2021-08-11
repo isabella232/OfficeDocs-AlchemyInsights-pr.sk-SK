@@ -1,5 +1,5 @@
 ---
-title: Používanie jediného prihlásenia na základe PRT v Microsoft Edgei
+title: Použitie jediného prihlásenia založeného na prt v Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9657"
-ms.openlocfilehash: f74c80947f885214b8af48561b278c445069cdd0
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 2980739f3a7c7200ceff5a0f2ed6e913eb06c9c1e60c8eb8b8f102f3f2760f01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006977"
 ---
-# <a name="use-prt-based-sso-in-microsoft-edge"></a>Používanie jediného prihlásenia na základe PRT v Microsoft Edgei
+# <a name="use-prt-based-sso-in-microsoft-edge"></a>Použitie jediného prihlásenia založeného na prt v Microsoft Edge
 
-Primárny [obnovovací token (PRT) je](https://go.microsoft.com/fwlink/?linkid=2133632) kľúč Azure Active Directory, ktorý sa používa na overovanie v zariadeniach so systémom Windows 10, iOS a Android. PRT umožňuje jediné prihlásenie pre všetky aplikácie používané v týchto zariadeniach.
+Primárny [obnovovací token (PRT) je](https://go.microsoft.com/fwlink/?linkid=2133632) kľúč Azure Active Directory na overovanie v zariadeniach so systémom Windows 10, iOS a Android. PRT umožňuje jediné prihlásenie pre všetky aplikácie používané v týchto zariadeniach.
 
-V Microsoft Edgei je podpora jediného prihlásenia založeného na PRT natívne a nevyžaduje žiadne ďalšie rozšírenia. Vo Windowse 10 RS3 a novších vydaniach budú prihlásení používatelia môcť jediné prihlásenie s prt získať na webových lokalitách, ktoré podporujú jediné prihlásenie založené na PRT.
+Vo Microsoft Edge pre jediné prihlásenie založené na PRT je natívne a nevyžaduje žiadne ďalšie rozšírenia. V Windows 10 RS3 a vyššie budú prihlásení používatelia môcť prihlásenie pomocou prT získať na webových lokalitách, ktoré podporujú jediné prihlásenie založené na PRT.
