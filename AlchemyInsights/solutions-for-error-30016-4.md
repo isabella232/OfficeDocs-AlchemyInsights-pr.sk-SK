@@ -1,5 +1,5 @@
 ---
-title: Riešenie chyby 30016-4
+title: Riešenia chyby 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909949"
 ---
-# <a name="solutions-for-error-30016-4"></a>Riešenie chyby 30016-4
+# <a name="solutions-for-error-30016-4"></a>Riešenia chyby 30016-4
 
-Pri pokuse o odinštalovanie aplikácií Microsoft 365 pre podniky z počítača a zobrazí sa chybové hlásenie, že sa vyskytla chyba **30016-4**, znamená to, že jednotka **% temp%** je priradená k jednotke inej než **% ProgramFiles%**.
+Keď sa pokúsite odinštalovať Aplikácie Microsoft 365 pre veľké organizácie z počítača a zobrazí sa chybové hlásenie Vyskytla sa chyba **30016-4,** znamená to, že **jednotka %temp%** je mapovaná k inej jednotke ako **%ProgramFiles%.**
   
-Oprava, stiahnutie a inštalácia nástroja [support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Ak chcete tento problém vyriešiť, stiahnite a [nainštalujte Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Keď sa otvorí, v časti **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.
+1. Keď sa otvorí, v časti **Odinštalovať Office produkty** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **Ďalej**.
 
 2. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.
 
-    Po reštartovaní sa automaticky znova otvorí nástroj support and Recovery Assistant, aby sa dokončil proces odinštalovania.
+    Po reštartovaní sa Support and Recovery Assistant znova otvorí, aby sa dokončil proces odinštalovania.
 
-3. Sledovanie zostávajúcich výziev a [Preinštalovanie balíka Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorenie Asistenta.
+3. Postupujte podľa ďalších pokynov a [znova](https://portal.office.com/OLS/MySoftware.aspx) Office alebo zatvorte asistenta.

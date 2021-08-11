@@ -1,5 +1,5 @@
 ---
-title: Alchýmia – diagnostika a riešenie problémov s pripojením k Outlooku
+title: Alchemy – diagnostika a riešenie Outlook problémov s pripojením
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933732"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnostika a riešenie problémov s pripojením v Outlooku
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnostika a riešenie Outlook problémov s pripojením
 
-Ak chcete diagnostikovať a vyriešiť problémy s pripojením v Outlooku, môžete spustiť [nástroj na pripojenie k Outlooku](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) v dotknutom zariadení.
+Ak chcete diagnostikovať a opraviť Outlook pripojenia, môžete spustiť [nástroj Outlook pripojenia v](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) ovplyvneného počítača.
   
-Tento nástroj vykoná diagnostické kontroly a navrhne možné riešenia, ktoré vám pomôžu vyriešiť problém s pripojením k Outlooku.
+Tento nástroj vykoná diagnostické kontroly a navrhne možné riešenia problému s pripojením Outlook pripojenia.
   

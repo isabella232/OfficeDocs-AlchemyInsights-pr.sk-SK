@@ -14,18 +14,18 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 2169f65cda6386aad5c061d38aaf7890a5a0c0a2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0c3be2b31dc9cd726fe9dd4447e4b6d13ac88ce16b0557127f804a86fee3fb10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818411"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917150"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Zmena alternatívnej e-mailovej adresy na oznámenie o fakturácii
 
 Zmena alternatívnej e-mailovej adresy, na ktorú sa dá odoslať oznámenie o fakturácii, je jednoduchá. Stačí postupovať podľa týchto krokov:
   
-1. V centre spravovania služby Microsoft 365 prejdite na stránku **Oznámenia** \> [o fakturácii.](https://go.microsoft.com/fwlink/p/?linkid=853212)  
+1. V Centrum spravovania služby Microsoft 365 prejdite na stránku **Oznámenia** \> [o fakturácii.](https://go.microsoft.com/fwlink/p/?linkid=853212)  
 
 2. Vyberte meno zo zoznamu.
 

@@ -1,5 +1,5 @@
 ---
-title: Chyba Outlooku nie je možné spustiť Microsoft Outlook
+title: Outlook chyba Microsoft Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,17 +13,17 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22c3c21d9a361712e84dd75123ded376a81756989ad1d7ec5aa573e0046c04b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933660"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Chyba Outlooku: Microsoft Outlook sa nedá spustiť
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook chyba: Microsoft Outlook
 
-Máte problémy so spustením Outlooku 2016, Outlooku 2013 alebo Outlooku 2010 alebo prijatia "nie je možné spustiť Microsoft Outlook. Nie je možné otvoriť okno Outlooku chybové hlásenia?
+Máte problém so spustením programu Outlook 2016, Outlook 2013 alebo Outlook 2010, alebo sa môže zobraziť chyba Microsoft Outlook. Nie je možné otvoriť Outlook Okno konverzácie"?
   
-Najprv použite kroky na riešenie problémov uvedené v [tomto článku](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) , ktoré vám pomôžu vyriešiť tieto problémy pri spustení. 
+Na vyriešenie týchto problémov so spustením [postupujte](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) podľa krokov na riešenie problémov uvedených v tomto článku. 
   
-Môžete tiež spustiť [rozšírený nástroj diagnostiky](https://aka.ms/SaRA-OutlookAdvDiagnostics) v dotknutom zariadení.
+V vplyvneom [počítači môžete spustiť](https://aka.ms/SaRA-OutlookAdvDiagnostics) aj nástroj Rozšírená diagnostika.

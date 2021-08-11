@@ -1,5 +1,5 @@
 ---
-title: Alchýmia – kroky na riešenie problémov pri zlyhaní Outlooku
+title: Alchemy – Outlook riešenie problémov pri zlyhaní
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933696"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Kroky na riešenie problémov pri zlyhaní Outlooku
 
-Ak máte problémy s prácou s počítačom v Outlooku, Začnite tým, že sledujete tri nižšie uvedené kroky, ktoré sú uvedené v časti Podrobnosti v tomto článku: [Riešenie problémov, ktoré spôsobujú zlyhanie programu Outlook alebo prestane reagovať.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Ak máte problémy Outlook zlyhanie počítača, začnite podľa troch krokov uvedených nižšie, ktoré sú podrobne uvedené v tomto článku: Riešenie problémov, ktoré spôsobujú zlyhanie Outlook zastavenie [odpovedanie.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Krok 1: Preskúmajte možné problémy s doplnkami.
+Krok 1: Preverte možné problémy s doplnky.
   
-Krok 2: Oprava Outlooku a spustenie [nástroja support and Recovery Assistant](https://aka.ms/SaRA-OutlookWontStart) na riešenie chýb pri spustení programu Outlook v dotknutom zariadení.
+Krok 2: Opravte Outlook a spustite [nástroj Support and Recovery Assistant,](https://aka.ms/SaRA-OutlookWontStart) ktorý Outlook problémov so spustením počítača.
   
-Krok 3: vytvorenie nového profilu v Outlooku alebo spustenie [nástroja profil v Outlooku](https://aka.ms/SaRA-OutlookSetupProfile) v dotknutom stroji.
+Krok 3: Vytvorte nový Outlook profilu alebo spustite [nástroj Outlook profilu v](https://aka.ms/SaRA-OutlookSetupProfile) vplyvneom počítači.
   
-Ak sa problém vyskytol po aktualizácii a nepodarilo sa ho odstrániť pomocou týchto krokov, pravdepodobne sa budete musieť vrátiť k predchádzajúcej zostave. Prečítajte si, [ako sa vrátiť k staršej verzii balíka Office 2016 klikni a spusti](https://support.microsoft.com/help/2770432).
+Ak sa problém vyskytol po aktualizácii a nepodarilo sa ho odstrániť pomocou týchto krokov, pravdepodobne sa budete musieť vrátiť k predchádzajúcej zostave. Pozrite [si časť Návrat na staršiu verziu balíka Office 2016 Klikni a spusti.](https://support.microsoft.com/help/2770432)
   
