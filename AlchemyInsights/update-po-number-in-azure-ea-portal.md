@@ -1,5 +1,5 @@
 ---
-title: Číslo aktualizácie PO na portáli Azure EA Portal – Odporúčané kroky
+title: Aktualizácia čísla pošte na portáli Azure EA – odporúčané kroky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007193"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Číslo aktualizácie PO na portáli Azure EA Portal – Odporúčané kroky
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aktualizácia čísla pošte na portáli Azure EA – odporúčané kroky
 
-Zmeny v čísle DPH/dane alebo nákupnej objednávky (PO) sa prejavia na nasledujúcej faktúre. Ak chcete zmeniť identifikáciu DPH/dane alebo číslo objednávky na faktúru, ktorá už bola vygenerovaná, otvorte lístok technickej podpory. Ak máte akékoľvek problémy týkajúce sa identifikácie DPH/dane, obráťte sa na svojho partnera služieb Microsoft Licensing partner (partner alebo softvérový poradca). Ak máte otázky týkajúce sa DPH/DAŇOVÉho IDENTIFIKÁTORa, obráťte sa na centrum regionálneho prevádzky (ROC). 
+Zmeny v čísle IČ DPH/DPH alebo objednávky sa prejavia na nasledujúcej faktúre. Ak chcete zmeniť identifikačné číslo PRE DPH/DAŇ alebo číslo objednávky na faktúru, ktorá už bola vygenerovaná, otvorte lístok technickej podpory. Ak máte akékoľvek problémy týkajúce sa IČ DPH/DANÍ, oslovte svojho licenčného partnera spoločnosti Microsoft (partnera alebo poradcu pre softvér). S otázkami týkajúcimi sa IČ DPH a DANÍ sa obrátia na Regional Operations Center (ROC). 
 
-Na portáli Azure EA sa automaticky vygeneruje predvolené číslo PO, pokiaľ správca EA nenastaví jeden pred dátumom fakturácie. Ako správca EA (priama registrácia)/partner Administrator (nepriama registrácia) môžete aktualizovať číslo PO na portáli Azure EA Portal. Číslo PO môžete aktualizovať kedykoľvek pred vygenerovaním faktúry za aktuálne fakturačné obdobie a až sedem dní po prijatí e-mailu s oznámením automatizovanej faktúry.    
+Ak správca EA nena nastaví číslo objednávky pred dátumom faktúry, portál Azure EA automaticky vytvorí predvolené číslo objednávky. Ako správca EA (priama registrácia)/Správca partnerov (nepriama registrácia) môžete aktualizovať číslo povolenia na portáli Azure EA. Číslo objednávky môžete aktualizovať kedykoľvek pred generovaním faktúry za aktuálne fakturačné obdobie a až sedem dní po prijatí e-mailu s oznámením o automatizovanej faktúre.    
 
-Ak chcete aktualizovať číslo PO:
+Aktualizácia čísla pošte:
 
-1. Prihláste sa do [portálu EA Portal](https://ea.azure.com/).
-1. Na ľavej table kliknite na položku **zostavy**.
-1. V hornej časti stránky kliknite na položku **súhrnné informácie o používaní** a vyberte v rozbaľovacom zozname vyberte príslušné obdobie.
-1. Kliknite na položku **Zobraziť alebo upraviť čísla po**.
-1. Zadajte nové číslo PO a kliknite na tlačidlo **Uložiť**.
+1. Prihláste sa na [portál EA](https://ea.azure.com/).
+1. Na ľavej table kliknite na položku **Zostavy.**
+1. V hornej časti stránky kliknite na položku **Súhrn** používania a v rozbaľovacej ponuke vyberte príslušné obdobie.
+1. Kliknite na **položku Zobraziť alebo upraviť čísla PO.**
+1. Zadajte nové číslo položky a kliknite na tlačidlo **Uložiť**.
 
-**Odporúčané dokumenty** 
+**Odporučené dokumenty** 
 
-- [Faktúry za registráciu v službe Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Oboznámte sa s fakturačnou zmluvou služby Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Informácie o funkciách Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Vytvorenie iného podnikového správcu (Správca EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Faktúry za registráciu podniku v Azure](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Informácie o faktúre za Azure zmluva Enterprise Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Informácie o rolách v službe Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Vytvorenie ďalšieho správcu podniku (správca EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

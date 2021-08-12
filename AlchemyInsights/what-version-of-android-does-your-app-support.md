@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970742"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Akú verziu Androidu podporuje vaša aplikácia?
 
@@ -27,7 +27,7 @@ Ak máte verziu operačného systému Android, ale stále dostávate oznámenia 
 
 Ak to chcete urobiť, vykonajte tieto aktivity: 
 
-1. V telefóne alebo tablete s Androidom otvorte **nastavenia a** potom vyberte **položku Aplikácie** alebo **Aplikácie.**
+1. V telefóne alebo tablete s Androidom **otvorte Nastavenia** potom položku **Aplikácie** alebo **Aplikácie.**
 
 2. V hornej časti obrazovky ťuknite na položku Viac **(môže** to byť aj tri bodky alebo tri zvislé bodky) a potom na **položku Zobraziť systém**. 
 

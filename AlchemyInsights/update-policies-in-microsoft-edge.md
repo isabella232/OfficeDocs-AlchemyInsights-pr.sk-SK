@@ -1,5 +1,5 @@
 ---
-title: Použiť skupinové politiky súvisiace s aktualizáciou, ktoré sú k dispozícii v Microsoft Edgei
+title: Použiť skupinové politiky súvisiace s aktualizáciou, ktoré sú k dispozícii Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "9004632"
 - "7092"
 - "8359"
-ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 85eff448dbf6cecd80ea870739c1223b10fbe6894462226c19fd9aae26faad6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007157"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Použiť skupinové politiky súvisiace s aktualizáciou, ktoré sú k dispozícii v Microsoft Edgei
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Použiť skupinové politiky súvisiace s aktualizáciou, ktoré sú k dispozícii Microsoft Edge
 
-Pomocou politík [dostupných](https://go.microsoft.com/fwlink/?linkid=2134862) v Microsoft Edgei (verzia 77 alebo novšia) môžete ovládať, ako a kedy sa aktualizuje Microsoft Edge.
+Pomocou politík [dostupných](https://go.microsoft.com/fwlink/?linkid=2134862) vo Windowse Microsoft Edge (verzia 77 alebo novšia) môžete riadiť spôsob a čas Microsoft Edge aktualizácie.

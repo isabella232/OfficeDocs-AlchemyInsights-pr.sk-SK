@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000699"
 - "2596"
-ms.openlocfilehash: 6fe8cb8067b5aa121f8cf88ab56d7fbeb7b0b72d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 099f331367be8ff5d2dc5a865d1ec489f8d185a3eeec58f4a59ca50fa8a65ee7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910597"
 ---
-# <a name="skype-for-business-online-retirement"></a>Vyradenie Skypu for Business Online
+# <a name="skype-for-business-online-retirement"></a>Skype for Business Online – vyradenie z ponuky
 
-Informácie o príležitosti na vyradenie Skypu for Business Online nájdete v [tomto článku.](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)
+Informácie týkajúce sa odchodu do služieb Skype for Business online nájdete v [tomto článku.](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833)
 
-Poznámka: Toto oznámenie nemá vplyv na lokálny Skype for Business. 
+Poznámka: Skype for Business lokálne nie je toto oznámenie ovplyvnené. 

@@ -1,5 +1,5 @@
 ---
-title: Iba na čítanie správy o údržbe pri pokuse o používanie SharePointu alebo OneDrivu
+title: Read-Only pre údržbu pri pokuse o používanie služby SharePoint alebo OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910561"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Iba na čítanie správy o údržbe pri pokuse o používanie SharePointu alebo OneDrivu
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only pre údržbu pri pokuse o používanie služby SharePoint alebo OneDrive
 
-Pri pokuse o používanie SharePointu alebo OneDrivu pre niektorý z nasledujúcich scenárov môžu používatelia dostávať správu o **údržbe iba na čítanie** . 
+Používatelia môžu dostať hlásenie **iba na čítanie pre** údržbu pri pokuse o SharePoint alebo OneDrive pre niektorý z nasledujúcich scenárov. 
 
--   Plánovaná alebo aktívna aktivita údržby.  Vyhľadajte ich tak, že prejdete do [centra správ](https://portal.office.com/adminportal/home#/messagecenter).
--   Aktívny incident služby s vysokou prioritou, ktorý sa môže vyskytnúť. Vyhľadajte všetky upozornenia alebo incidenty navigáciou na [stav služby](https://portal.office.com/adminportal/home#/servicehealth).
--   Malý scenár obnovenia automatického hojenia, ktorý by sa mohol stať v dôsledku neočakávaných udalostí na serveroch, ktoré môžu trvať menej ako 30 minút alebo tak. 
+-   Plánovaná alebo aktívna údržba.  Skontrolujte ich prechodom do [Centra správ.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Môže sa vyskytol incident s vysokou prioritou aktívneho servisu. Ak chcete skontrolovať všetky upozornenia alebo incidenty, prechodom na [položku Stav služby.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Menší scenár automatického obnovenia v spoločnosti Microsoft, ktorý by sa mohol vyskytol v dôsledku neočakávaných udalostí na serveroch, ktoré môžu trvať menej než 30 minút. 
     
-    Nie sú k dispozícii žiadne centrá správ ani príspevky týkajúce sa zdravotníckych služieb pre tieto drobné zotavuje, ale mali by ste sa vrátiť k normálu veľmi skoro.
+    V prípade týchto menších obnovení nie sú k dispozícii žiadne príspevky v Centre správ alebo stave služby, ale v normálnom stave by ste sa mali vrátiť veľmi skoro.
 
-Pri veľmi málo príležitostiach sme zistili, že jedným z týchto troch scenárov boli príčiny a služba bola obnovená, ale vyrovnávacia pamäť prehliadača používateľov nebola vymazaná.
+Pri veľmi málo príležitosti sme si poznamenali, že príčinou bol jeden z troch uvedených scenárov a služba sa obnovila, ale vyrovnávacia pamäť prehliadača používateľov nebola vymazaná.
 
-Skôr než prejdete na lokalitu, skúste vymazať vyrovnávaciu pamäť prehliadača.
+Pred prechodom na lokalitu sa pokúste vymazať vyrovnávaciu pamäť prehliadača.
 
-1. V prehliadači Microsoft Edge vyberte položku **Nastavenie**a potom vyberte položku **Ochrana osobných údajov a zabezpečenie**.
-2. V časti **Vymazanie prehľadávania**vyberte položku **vybrať položky, ktoré chcete vymazať**.
-3. Vyberte položku **súbory cookie a uložené údaje webovej lokality**a vyberte položku **Vymazať**.
+1. V prehliadači Microsoft Edge vyberte možnosť **Nastavenia** a potom vyberte položku Ochrana **osobných údajov a zabezpečenie**.
+2. V **časti Vymazanie prehľadávania** vyberte **položku Vybrať položky na vymazanie**.
+3. Vyberte **položku Súbory cookie a uložené údaje webovej** lokality a vyberte položku **Vymazať**.
 
 >[!Note] 
 > Tieto kroky sa môžu líšiť pri používaní iných prehliadačov, ako je napríklad Mozilla Firefox alebo Google Chrome.
 
 >[!Note] 
-> Ďalšou možnosťou by bolo otvoriť lokalitu SharePoint alebo OneDrive v novom okne v režime InPrivate.
+> Ďalšou možnosťou by bolo otvorenie vašej SharePoint lokality alebo OneDrive v novom okne v režime InPrivate.
