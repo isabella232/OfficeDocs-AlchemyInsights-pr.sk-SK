@@ -1,5 +1,5 @@
 ---
-title: Odporúčané riešenia pre Dynamics 365 portály
+title: Portály systému Dynamics 365 odporúčané riešenia
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 701e7e74648ce09927f41b70945c7a2e9ba89e5d96a088343984c2054fda2343
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911065"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>Odporúčané riešenia pre Dynamics 365 portály
+# <a name="dynamics-365-portals-recommended-solutions"></a>Odporúčané riešenia portálov Dynamics 365
 
-* [Zobrazenie podrobnej chyby servera zobrazenej na mojom portáli](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Ako zobraziť podrobnú chybu servera zobrazenú na portáli](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Obnovenie portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Resetovanie portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Vymazanie vyrovnávacej pamäte na strane servera pre portál](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Ako zmeniť cieľovú skupinu a typ portálu Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Zmena cieľovej skupiny a typu portálu služby Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [Zmena základnej URL adresy portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Konfigurovanie externého poskytovateľa identity s portálom](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Konfigurácia externého poskytovateľa identity s portálom](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Najčastejšie otázky](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Začíname s portálom Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Začíname pracovať s portálom Môj Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

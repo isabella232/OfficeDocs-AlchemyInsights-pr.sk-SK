@@ -4,18 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 8c4400c0b2ca0b7571ac7626b891483624bed193
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: f98bcfa73c043b2426c38099bf80208165455bc823301fc0d296cc32200e539a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951112"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Dostávate do poštovej schránky príliš veľa nevyžiadanej pošty alebo správ s pokusmi o neoprávnené získavanie údajov?
 

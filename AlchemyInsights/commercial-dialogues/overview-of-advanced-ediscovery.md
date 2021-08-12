@@ -1,5 +1,5 @@
 ---
-title: Prehľad rozšíreného elektronického vyhľadávania
+title: Prehľad Advanced eDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916178"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Prehľad rozšíreného elektronického vyhľadávania
+# <a name="overview-of-advanced-ediscovery"></a>Prehľad Advanced eDiscovery
 
 Služba Advanced eDiscovery umožňuje analyzovať neštruktúrované údaje a znížiť náklady na eDiscovery. Môžete použiť textovú analýzu, strojové učenie a relevančné/prediktívne kódovanie. Tu je niekoľko tipov:
 
-- Rozšírená funkcia elektronického vyhľadávania vyžaduje buď predplatné E5 pre vašu organizáciu alebo predplatné na Office 365 E3 s rozšíreným doplnkom na dodržiavanie súladu.
-- Ak chcete vytvoriť nový rozšírený prípad elektronického vyhľadávania, prejdite na [centrum zabezpečenia & dodržiavania súladu](https://go.microsoft.com/fwlink/p/?linkid=2077143) a vyberte položku   >  **Rozšírené elektronické vyhľadávanie** eDiscovery.
-- Ďalšie informácie nájdete v téme [Prehľad doplnku Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101588).
-- Informácie o potrebných krokoch na nastavenie rozšíreného elektronického vyhľadávania nájdete v téme [Nastavenie služby Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).
+- Funkcia Advanced eDiscovery vyžaduje predplatné na E5 pre vašu organizáciu alebo predplatné služieb Office 365 E3 s doplnok Advanced Compliance.
+- Ak chcete vytvoriť nový Advanced eDiscovery prípadu, prejdite do centra zabezpečenia [& zabezpečenia](https://go.microsoft.com/fwlink/p/?linkid=2077143) a vyberte **položku eDiscovery**  >  **Advanced eDiscovery**.
+- Ďalšie informácie nájdete v [téme Prehľad Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2101588)
+- Informácie o krokoch potrebných na nastavenie Advanced eDiscovery nájdete v téme [Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2122672)

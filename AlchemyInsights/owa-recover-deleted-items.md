@@ -1,5 +1,5 @@
 ---
-title: Obnovenie odstránených e-mailov v Outlooku na webe
+title: Obnovenie odstráneného e-mailu v Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 40ebd8a68aebb8d3638940e5263a03abf1ab342f
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: ff252b7fab1aaba9f4e27866b7296ff0bada9ba0891b2f818eda4b7e7a3a3c31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924280"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Obnovenie odstránených e-mailov v Outlooku na webe
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Obnovenie odstráneného e-mailu v Outlook na webe
 
 1. Na ľavej table vyberte priečinok Odstránené položky alebo priečinok Nevyžiadaná pošta.
 
 2. Vykonajte niektorý z týchto krokov:
 
-    - Priečinok Odstránené položky: vyberte správu, ktorú chcete obnoviť, a vyberte položku **obnoviť**. Ak sa správa nenachádza v priečinku Odstránené položky, vyberte položku **obnoviť položky odstránené z tohto priečinka** v hornej časti zoznamu správ, vyberte správu, ktorú chcete obnoviť, a vyberte položku **obnoviť**.
+    - Priečinok Odstránené položky: Vyberte správu, ktorú chcete obnoviť, a vyberte položku **Obnoviť**. Ak sa správa v priečinku Odstránené položky  nachádza, vyberte možnosť Obnoviť položky odstránené z tohto priečinka v hornej časti zoznamu správ, vyberte správu, ktorú chcete obnoviť, a vyberte položku **Obnoviť**.
 
-    - Priečinok Nevyžiadaná pošta: vyberte správu, ktorú chcete obnoviť, a vyberte položku **nie je Nevyžiadaná**.
+    - Priečinok Nevyžiadaná pošta: Vyberte správu, ktorú chcete obnoviť, a vyberte možnosť Nie **je nevyžiadaná.**
 
-Ďalšie informácie nájdete v téme [Obnovenie odstránených e-mailových správ v Outlooku na webe](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Ďalšie informácie nájdete v téme Obnovenie [odstránených e-mailových správ Outlook na webe.](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)
