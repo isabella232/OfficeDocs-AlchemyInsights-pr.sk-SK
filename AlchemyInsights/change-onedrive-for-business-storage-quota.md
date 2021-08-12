@@ -1,5 +1,5 @@
 ---
-title: Zmena kvóty ukladacieho priestoru vo OneDrive for Business
+title: Zmena OneDrive for Business ukladacieho priestoru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968692"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Zmena predvoleného ukladacieho priestoru vo OneDrive pre používateľov
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Zmena predvoleného OneDrive ukladacieho priestoru pre používateľov
 
-1. Prejdite na [stránku ukladacieho priestoru v centre spravovania pre OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Prejdite na stránku [Ukladací priestor v Centre OneDrive spravovania](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Do poľa **predvolený ukladací priestor** zadajte predvolenú čiastku ukladacieho priestoru (v GB) a potom kliknite na tlačidlo **Uložiť**.
+2. Do poľa Predvolený ukladací priestor zadajte predvolenú veľkosť ukladacieho priestoru (v GB) **a** potom kliknite na položku **Uložiť**.
     
-Toto nastavenie ukladacieho priestoru sa vzťahuje na všetkých používateľov, pre ktorých ste nenastavili konkrétne limity ukladacieho priestoru. Ak chcete zmeniť ukladací priestor pre konkrétnych používateľov, musíte použiť prostredie Microsoft PowerShell. Informácie o postupe nájdete v téme [Zmena ukladacieho priestoru vo OneDrive používateľov pomocou prostredia PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Toto nastavenie ukladacieho priestoru sa vzťahuje na všetkých používateľov, pre ktorých ste nenastavili konkrétne limity ukladacieho priestoru. Ak chcete zmeniť ukladací priestor pre konkrétnych používateľov, musíte použiť prostredie Microsoft PowerShell. Informácie o tom, ako to urobiť, nájdete v [téme Zmena ukladacieho OneDrive používateľov pomocou prostredia PowerShell.](https://go.microsoft.com/fwlink/?linkid=866402)
   
 

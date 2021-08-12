@@ -1,5 +1,5 @@
 ---
-title: Alchýmia – opätovné vytvorenie profilu v Outlooku
+title: Alchemy – Opätovné vytvorenie Outlook profilu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933552"
 ---
-# <a name="create-an-outlook-profile"></a>Vytvorenie profilu v Outlooku
+# <a name="create-an-outlook-profile"></a>Vytvorenie Outlook profilu
 
-Ak chcete vytvoriť alebo znova vytvoriť profil v Outlooku, môžete spustiť [nástroj profil v Outlooku](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) v dotknutom zariadení.
+Ak chcete vytvoriť alebo znova vytvoriť Outlook profilu, môžete [spustiť nástroj Outlook profilu v](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) vplyvneom počítači.
 
-Nástroj bude vykonávať rôzne kontroly a keď budete pripravení, vytvorí sa profil v Outlooku s e-mailovou adresou.
+Tento nástroj vykoná rôzne kontroly a keď budete pripravení, vytvorí sa Outlook s vašou e-mailovou adresou.

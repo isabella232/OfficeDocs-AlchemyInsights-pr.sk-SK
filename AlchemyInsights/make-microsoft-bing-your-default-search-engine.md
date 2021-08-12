@@ -1,5 +1,5 @@
 ---
-title: Nastavenie služby Microsoft Bing ako predvoleného vyhľadávacieho nástroja
+title: Nastavenie Microsoftu Bing ako predvoleného vyhľadávacieho nástroja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: 96cf8e223921ef175a31cf0a55e7390d313a5478
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925504"
 ---
-# <a name="make-microsoft-bing-your-default-search-engine"></a>Nastavenie služby Microsoft Bing ako predvoleného vyhľadávacieho nástroja
+# <a name="make-microsoft-bing-your-default-search-engine"></a>Nastavenie Microsoftu Bing ako predvoleného vyhľadávacieho nástroja
 
-Ak chcete, aby bol Bing vaším predvoleným vyhľadávacím nástrojom pre Prehliadač Microsoft Edge, Google Chrome alebo Internet Explorer, postupujte podľa pokynov v časti Nastavenie [Bingu ako predvoleného vyhľadávacieho nástroja.](https://go.microsoft.com/fwlink/?linkid=2148834)
+Ak chcete Bing ako predvolený vyhľadávací nástroj pre Microsoft Edge, Google Chrome alebo Internet Explorer, postupujte podľa pokynov v Bing Nastaviť ako predvolený [vyhľadávací nástroj.](https://go.microsoft.com/fwlink/?linkid=2148834)

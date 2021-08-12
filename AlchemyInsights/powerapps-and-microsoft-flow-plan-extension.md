@@ -1,5 +1,5 @@
 ---
-title: 1575 – PowerApps a rozšírenie plánu toku Microsoft
+title: 1575-PowerApps a Microsoft Flow rozšírenie plánu
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960454"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps a rozšírenie plánu toku Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps a Microsoft Flow rozšírenie plánu
 
-Ak máte v úmysle požiadať o predĺženie plánu pre **Microsoft flow** alebo **PowerApps** a váš nájomník už má aktívnych používateľov niektorej z týchto funkcií, nie je potrebné podať žiadosť o technickú podporu.
+Ak plánujete požiadať o rozšírenie plánu pre **Microsoft Flow** alebo **PowerApps** a váš nájomník už má aktívnych používateľov jednej z nasledujúcich funkcií, nie je potrebné zažiadať o podporu.
 
-- Vytváranie a uverejňovanie vlastných spojníc v PowerApps a Microsoft flow
-- Vlastné akcie HTTP integrované do toku mimo SharePointu a OneDrivu
+- Vytváranie a publikovanie vlastných spojníc v PowerApps a Microsoft Flow
+- Vlastné akcie HTTP integrované do Flow mimo SharePoint a OneDrive
 - Integrácia lokálnych údajov prostredníctvom lokálnej brány údajov
 
-Zákazníci s aktívnymi používateľmi týchto funkcií získajú automatické predĺženie až do 31. januára 2020 alebo uplynutie platnosti existujúceho obdobia predplatného Microsoft 365, podľa toho, čo je dlhšie.
+Zákazníci s aktívnymi používateľmi týchto funkcií budú mať automatické predĺženie do 31. januára 2020 alebo do uplynutia platnosti existujúceho obdobia predplatného Microsoft 365 podľa toho, čo je dlhšie.

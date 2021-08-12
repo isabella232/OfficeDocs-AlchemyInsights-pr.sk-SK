@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "9001733"
 - "4401"
-ms.openlocfilehash: ae294962e075610f0ecd237684225851c4e6e50c
-ms.sourcegitcommit: da04e79b6072321caa16a6ceea6eb5f15de22394
-ms.translationtype: HT
+ms.openlocfilehash: 842a00da5eb4293c565258c82593d6e6ce76cc02e5ae475e8dd7f7613640d605
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42955251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933444"
 ---
 # <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Umožnenie používateľom komunikovať s používateľmi Skypu
 

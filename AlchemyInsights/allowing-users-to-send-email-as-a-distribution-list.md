@@ -1,5 +1,5 @@
 ---
-title: 717 umožňuje používateľom odosielať e-maily ako distribučný zoznam
+title: 717 Povolenie používateľom odosielať e-maily ako distribučný zoznam
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66d4a8941bc4f4a6300b08f11de1f4a888b356040ebc15c9ab37677d19da82c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933372"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Povolenie odosielania e-mailov ako distribučnej skupiny používateľom
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Povolenie používateľom odosielať e-maily ako distribučná skupina
 
-Ak chcete používateľom povoliť odosielanie správ, ktoré sa zdajú pochádzať z existujúcej distribučnej skupiny, postupujte podľa týchto krokov:
+Ak chcete používateľom umožniť odosielanie správ, ktoré podľa vás pochádzajú z existujúcej distribučnej skupiny, postupujte takto:
 
-1. V [centre spravovania pre Exchange](https://outlook.office365.com/ecp/)prejdite na položku **Recipients** \> **skupiny**príjemcov.
+1. V Centre [Exchange prejdite](https://outlook.office365.com/ecp/)na položku **Skupiny** \> **príjemcov**.
 
 2. Vyberte distribučnú skupinu, ktorú chcete upraviť, a potom kliknite na položku **Upraviť**.
 
-3. Vo vlastnostiach skupiny prejdite na kartu **delegovanie skupín** a zadajte používateľov, ktorí môžu odosielať alebo odosielať v mene distribučnej skupiny.
+3. Vo vlastnostiach skupiny prejdite na  kartu Delegovanie skupiny a určte používateľov, ktorí môžu odosielať ako alebo odosielať v mene distribučnej skupiny.
 
-Ďalšie informácie nájdete v téme [Možnosti e-mailu](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Ďalšie informácie nájdete v téme Možnosti [e-mailu.](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation)
