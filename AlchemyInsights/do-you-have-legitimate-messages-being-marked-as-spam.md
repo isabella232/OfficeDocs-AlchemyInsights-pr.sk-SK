@@ -5,19 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3fd6e02f41eae2cdc5306bc6ef3a78aca22842dd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: b40d4cc6524a207889bf8ec0e2459c5d3077e7911a0b173a5ac87bb330d5d2cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947926"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Označujú sa vám legitímne správy ako nevyžiadaná pošta?
 

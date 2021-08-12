@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: 74fc4adc75492e3b8728ac3d5ac009e096db746d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d47241f92f5ead7d6e1e8ad78e64dbccd780b437da757d6d273778fcc5372378
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947962"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>Distribučná skupina sa nezobrazuje v zozname skupín
 
-Kým sa nový distribučný zoznam zobrazí v Centre spravovania pre Exchange, môže trvať až 60 minút.
+Môže trvať až 60 minút, kým sa nový distribučný zoznam zobrazí v centre Exchange spravovania.
   
-Ak chcete hneď pridať členov alebo vykonať iné úpravy, použite funkciu Skupiny v Centre spravovania [pre Exchange.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)
+Ak chcete hneď pridať členov alebo vykonať iné úpravy, použite funkciu Skupiny v Centre [spravovania pre Exchange spravovania.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)
   
 

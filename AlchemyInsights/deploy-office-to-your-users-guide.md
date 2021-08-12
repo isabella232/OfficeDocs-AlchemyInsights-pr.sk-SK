@@ -1,5 +1,5 @@
 ---
-title: Nasadenie balíka Office do príručky používateľov
+title: Nasadenie Office do príručky pre používateľov
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948106"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Nasadenie balíka Office do príručky používateľov
+# <a name="deploy-office-to-your-users-guide"></a>Nasadenie Office do príručky pre používateľov
 
-Nasadenie aplikácií balíka Office z cloudu s možnosťou prispôsobenia inštalácie pomocou nástroja na nasadenie balíka Office.
+Nasadiť Office z cloudu s možnosťou prispôsobiť inštaláciu pomocou nástroja na Office na nasadenie.
 
-Sprievodca [nasadením balíka Office pre používateľov](https://go.microsoft.com/fwlink/?linkid=2146451) vám pomôže vytvoriť prispôsobenú konfiguráciu balíka Office s rozšírenými nastaveniami, alebo môžete použiť vopred vstavanú odporúčanú konfiguráciu. Bez ohľadu na to, či používatelia vykonávajú vlastnú inštaláciu alebo Nasadzujete svojich používateľov jednotlivo alebo hromadne, tento rozšírený sprievodca vám poskytne podrobné pokyny na prispôsobovanie inštalácie balíka Office na mieru vašej organizácii.
+Sprievodca [Office](https://go.microsoft.com/fwlink/?linkid=2146451) na nasadenie používateľom vám pomôže vytvoriť prispôsobenú Office s rozšírenými nastaveniami alebo môžete použiť preddefinovanú odporúčanú konfiguráciu. Bez ohľadu na to, či používatelia vykonávajú samoinštalovanie alebo ich nasadzujete jednotlivo alebo hromadne, tento rozšírený sprievodca vám poskytne podrobné pokyny, ktoré používateľom poskytne inštaláciu balíka Office prispôsobenú vašej organizácii.

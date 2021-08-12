@@ -1,5 +1,5 @@
 ---
-title: Prispôsobenie povolení pre zoznam alebo knižnicu SharePointu
+title: Prispôsobenie povolení pre SharePoint zoznam alebo knižnicu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 6baa38c0aab87bdfdd2643aa4871d0e8fdba0eeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 429a0a32819ac320bf1e1b76041dfb666109adbb5818836956663ca98797a462
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914702"
 ---
-# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>Prispôsobenie povolení pre zoznam alebo knižnicu SharePointu
+# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a>Prispôsobenie povolení pre SharePoint zoznam alebo knižnicu
 
 Ako správca alebo vlastník knižnice, zoznamu alebo prieskumu môžete meniť povolenia tak, aby jedna skupina ľudí získala prístup k údajom, ktoré potrebuje, a zároveň môžete obmedziť prístup iných používateľov.
 
-[Prispôsobenie povolení pre zoznam alebo knižnicu SharePointu](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[Prispôsobenie povolení pre SharePoint zoznamu alebo knižnice](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
