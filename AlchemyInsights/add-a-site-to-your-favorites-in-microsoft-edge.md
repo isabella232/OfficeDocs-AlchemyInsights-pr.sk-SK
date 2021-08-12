@@ -1,5 +1,5 @@
 ---
-title: Pridanie lokality medzi obľúbené položky v prehliadači Microsoft Edge
+title: Pridanie lokality medzi obľúbené položky v Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8258"
-ms.openlocfilehash: c286af7b9a6b6e96a5735f44b42a786663433d03
-ms.sourcegitcommit: bdbe81bbb5beb641b27b974c69207428eb11e60f
+ms.openlocfilehash: a08190f82896ac8deabd29ba5ee6ca845650913c0a4aadd1a2cd3239d27b8a8d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50841720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936396"
 ---
-# <a name="add-a-site-to-your-favorites-in-microsoft-edge"></a>Pridanie lokality medzi obľúbené položky v prehliadači Microsoft Edge
+# <a name="add-a-site-to-your-favorites-in-microsoft-edge"></a>Pridanie lokality medzi obľúbené položky v Microsoft Edge
 
-1. V prehliadači Microsoft Edge prejdite na lokalitu, ktorú chcete pridať.
-2. Na paneli s adresou vyberte ikonu **Pridať túto stránku do priečinka Obľúbené** . Prípadne vyberte **kombináciu klávesov CTRL + D**.
-3. Voliteľné: v dialógovom okne **Upraviť obľúbenú** položku premenujte položku Obľúbené a vyberte iný priečinok, do ktorého ho chcete uložiť.
-4. Potom vyberte položku **Done (Hotovo** ) v dialógovom okne **Úprava obľúbenej položky** .
+1. V Microsoft Edge prejdite na lokalitu, ktorú chcete pridať.
+2. Na paneli s adresou vyberte ikonu **Pridať túto stránku medzi obľúbené** položky. Môžete tiež vybrať **kombináciu klávesov Ctrl + D.**
+3. Voliteľné: V **dialógovom okne Upraviť** obľúbenú položku premenujte obľúbenú položku a vyberte iný priečinok, do ak ho chcete uložiť.
+4. Potom v **dialógovom okne** Upraviť obľúbené **vyberte položku** Hotovo.
