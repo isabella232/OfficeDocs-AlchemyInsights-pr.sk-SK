@@ -1,5 +1,5 @@
 ---
-title: Riešenia pre Office (64-bitová alebo 32-bitová verzia) nie je možné nainštalovať
+title: Riešenia pre Office (64-bitovú alebo 32-bitovú verziu) sa nepodarilo nainštalovať
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21c4ea922fd3e24c818cab441c9847c2ab8b3cdf6701a922fe30d284317d2291
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957259"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Riešenie problémov s balíkom Office (64-bitová alebo 32-bitová verzia) sa nepodarilo nainštalovať
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Riešenia pre Office (64-bitovú alebo 32-bitovú verziu) sa nepodarilo nainštalovať
 
-Vyskytla sa chyba Office (64-bitová alebo 32-bitová verzia), pretože nie je možné kombinovať 64-bitovú a 32-bitovú verziu balíka Office.
+Chyba "Office (64-bitová alebo 32-bitová verzia) sa nepodarilo nainštalovať", pretože nie je možné kombinovať 64-bitovú a 32-bitovú verziu Office.
   
-Ak chcete túto chybu opraviť a prejsť z 32-bitovej verzie na 64-bitovú verziu, musíte v tomto poradí vykonať nasledovné kroky.
+Ak chcete túto chybu opraviť a prejsť z 32-bitovej verzie na 64-bitovú, je potrebné vykonať nasledovné kroky v tomto poradí.
   
 1. Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Keď sa otvorí, v časti **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.
+1. Keď sa otvorí, v časti **Odinštalovať Office produkty** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **Ďalej**.
 
 2. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.
 
-    Po reštartovaní sa automaticky znova otvorí nástroj support and Recovery Assistant, aby sa dokončil proces odinštalovania.
+    Po reštartovaní sa Support and Recovery Assistant znova otvorí, aby sa dokončil proces odinštalovania.
 
-3. Sledujte zostávajúce výzvy a [preinštalujte balík Office](https://portal.office.com/OLS/MySoftware.aspx) so správnym 32-bitovou alebo 64-bitovou verziou.
+3. Postupujte podľa ďalších pokynov a znova [Office](https://portal.office.com/OLS/MySoftware.aspx) so správnou 32-bitovou alebo 64-bitovou verziou.
 
-    Postupujte podľa krokov v téme [Inštalácia balíka Office do počítača](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Postupujte podľa krokov v [Office do POČÍTAČA](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Ďalšie informácie nájdete v téme [chyba pri pokuse o inštaláciu balíka Office (64-bitová alebo 32-bitová verzia)](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Ďalšie informácie nájdete v téme [Office (64-bitová alebo 32-bitová verzia)](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) sa nepodarilo nainštalovať" pri pokuse o inštaláciu.
   

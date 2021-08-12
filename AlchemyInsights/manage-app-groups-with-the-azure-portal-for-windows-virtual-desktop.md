@@ -1,5 +1,5 @@
 ---
-title: Správa skupín aplikácií pomocou platformy Azure Portal pre Windows Virtual Desktop
+title: Spravovanie skupín aplikácií pomocou portálu Azure pre Windows virtuálnej pracovnej plochy
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912073"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Správa skupín aplikácií pomocou platformy Azure Portal pre Windows Virtual Desktop
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Spravovanie skupín aplikácií pomocou portálu Azure pre Windows virtuálnej pracovnej plochy
 
-Predvolená skupina aplikácií vytvorená pre nový Windows Virtual Desktop Host pool tiež publikuje celú pracovnú plochu. Pomocou portálu Azure môžete okrem toho vytvoriť jednu alebo viacero skupín aplikácií RemoteApp pre hostiteľský fond.
+Predvolená skupina aplikácií vytvorená pre nový fond Windows virtuálnej pracovnej plochy tiež publikuje celú pracovnú plochu. Okrem toho vám pomocou portálu Azure môžete vytvoriť jednu alebo viac skupín aplikácií RemoteApp pre fond hostiteľov.
 
-Proces nasadenia bude nasledovný:
+Proces nasadenia bude mať tieto možnosti:
 
 1. Vytvorte skupinu aplikácií RemoteApp.
 2. Pridajte vybraté aplikácie do skupiny aplikácií.
-3. Publikujte jednotlivých používateľov alebo skupiny používateľov do skupiny aplikácií.
-4. Zaregistrujte skupinu aplikácií, ak sa tak rozhodnete.
-5. Vytvorte prepojenie na šablónu nástroja Azure Resource Manager v závislosti od konfigurácie, ktorú si môžete stiahnuť a uložiť.
+3. Publikovanie jednotlivých používateľov alebo skupín používateľov v skupine aplikácií.
+4. Ak sa tak rozhodnete, zaregistrujte skupinu aplikácií.
+5. Vytvorte prepojenie na šablónu Azure Resource Manager podľa konfigurácie, ktorú si môžete stiahnuť a uložiť.
 
-Ak chcete vytvoriť skupinu RemoteApp pre virtuálnu pracovnú plochu Windowsu, postupujte podľa pokynov v téme [Správa skupín aplikácií pomocou portálu Azure](https://go.microsoft.com/fwlink/?linkid=2129550).
+Ak chcete vytvoriť skupinu RemoteApp pre Windows virtuálnej pracovnej plochy, postupujte podľa pokynov v časti [Spravovanie skupín aplikácií pomocou portálu Azure.](https://go.microsoft.com/fwlink/?linkid=2129550)

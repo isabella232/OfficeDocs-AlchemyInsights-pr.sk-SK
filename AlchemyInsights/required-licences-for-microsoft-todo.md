@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972992"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Požadované licencie na Microsoft ToDo
 
@@ -29,11 +29,11 @@ Na používanie aplikácie Microsoft ToDo musí mať používateľ jednu z nasle
   
 - Business Essentials
 
-- Business Premium
+- Podnikové Premium
 
 - Microsoft 365 Firstline F1
 
-- Ľubovoľný plán služieb Office 365 Enterprise
+- Ľubovoľný Office 365 Enterprise plánu
 
 - Secure Productive Business
 
@@ -41,23 +41,23 @@ Na používanie aplikácie Microsoft ToDo musí mať používateľ jednu z nasle
 
 - Secure Productive Enterprise E5
 
-- Ľubovoľný plán služieb Office 365 Education
+- Ľubovoľný Office 365 Education plánu
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Okrem platnej licencie na produkt sa na synchronizáciu používateľských údajov potrebuje niektorá z týchto verzií služby Exchange Online:
+Okrem platnej licencie na produkt je potrebná jedna z nasledujúcich verzií balíka Exchange Online, aby toDo dokázalo synchronizovať údaje používateľov:
   
 - Exchange Online Plan 1
 
 - Exchange Online Plan 2
 
-- Exchange Essentials
+- Exchange Základné informácie
 
 - Exchange Online Kiosk
 
 - Exchange Online POP
 
-[Priradenie licencií k používateľským kontám pomocou prostredia PowerShell služieb Office 365](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Priradenie licencií k používateľským kontám pomocou Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

@@ -12,18 +12,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: dbdcb538a94567f32dee8b135822900ea50f94c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 566073563c6159bfa1d5fb2d2b105ce566accac7fc88f4c90ee1d8d41bbd061e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920554"
 ---
 # <a name="trying-to-remove-your-domain"></a>Pokúšate sa odstrániť svoju doménu?
 
-Ak chcete doménu odstrániť zo spoločnosti Microsoft, postupujte podľa krokov v tomto článku: [Odstránenie domény](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Ak chcete odstrániť doménu zo spoločnosti Microsoft, postupujte podľa krokov v tomto článku: [Odstránenie domény](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
-Pred odstránením domény budete musieť aktualizovať všetkých používateľov alebo skupiny, ktoré sú priradené k danému názvu domény.
+Pred odstránením domény je potrebné aktualizovať všetkých používateľov alebo skupiny priradené k tejto doméne.
   
-[Pozrite si článok](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) o ďalších bežných riešeniach v článku domény.
+[Ďalšie bežné riešenia nájdete v](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) článku o doménach.
   

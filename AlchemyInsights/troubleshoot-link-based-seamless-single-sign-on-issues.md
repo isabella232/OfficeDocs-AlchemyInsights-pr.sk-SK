@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s bezproblémovým jediným prihlásením (SSO) založeného na prepojení
+title: Riešenie problémov s bezproblémovo jediným prihlásením pomocou prepojenia
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972875"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Riešenie problémov s bezproblémovým jediným prihlásením (SSO) založeného na prepojení
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Riešenie problémov s bezproblémovo jediným prihlásením pomocou prepojenia
 
-Väčšina používateľov dokáže vyriešiť problém s jediným prihlásením jediného prihlásenia založeného na prepojení pomocou krokov uvedených nižšie:
+Väčšina používateľov dokáže vyriešiť bezproblémový problém s jediným prihlásením založeným na prepojení pomocou nasledujúcich krokov:
 
-**Oboznámte sa s prepojením SSO: informácie o** prepojenom [prihlasovaní](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) – možnosť prepojené vám umožňuje nakonfigurovať cieľové umiestnenie, keď používateľ vyberie aplikáciu v mojich aplikáciách vašej organizácie alebo na portáli Office 365. Tento článok odkazuje na ďalšie podrobnosti o možnosti prepojené.
+**Informácie o** prepojenom jediného [prihlásenia:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) Informácie o prepojenom prihlásení – možnosť Prepojené vám umožňuje konfigurovať cieľové umiestnenie, keď používateľ vyberie aplikáciu na stránke Moje aplikácie alebo na Office 365 portáli. Tento článok obsahuje podrobnejšie informácie o prepojenej možnosti.
 
-**Konfigurovanie prepojeného SSO**: [Konfigurácia prepojenia](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Konfigurácia prepojeného jediného prihlásenia:** [Konfigurácia prepojenia](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Získajte pomoc**: [Microsoft Q&a](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) – odošle žiadosti o funkcie A technické otázky týkajúce sa jediného prihlásenia založeného na prepojení (SSO) v službe Azure Active Directory & Development.
+**Získať pomoc:** Microsoft [Q&A –](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) odošlite žiadosti o funkcie a technické otázky o jedinom prihlásení pomocou prepojenia (SSO) Azure Active Directory & vývoja.
