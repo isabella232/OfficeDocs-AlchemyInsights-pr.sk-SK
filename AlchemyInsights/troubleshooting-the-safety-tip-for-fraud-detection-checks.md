@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s bezpečnostnými tipmi na kontroly podvodov
+title: Riešenie problémov bezpečnostný tip podvodných kontrol
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955981"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Riešenie problémov s bezpečnostnými tipmi na kontroly podvodov
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Riešenie problémov bezpečnostný tip podvodných kontrol
 
-Ak vám zobrazí bezpečnostný tip s o tom, že odosielateľ zlyhal z našich kontrol zisťovania podvodov a pravdepodobne nie tým, kým sa zdá byť," odosielateľ nedokázal odovzdať overovacie kontroly DKIM alebo SPF. Najlepším spôsobom riešenia tohto problému je, aby si odosielateľ povolil svoje povolenie. Ak odosielateľ odosiela správy vo vašom mene, je potrebné povoliť ho pridaním IP adresy odosielateľa do SPF záznamu.
+Ak dostávate e-mail so bezpečnostný tip s o tom, že odosielateľ zlyhal z našich kontrol zisťovania podvodov a nemusí byť tým, kto sa zdá byť", odosielateľ nedokázal preniesť overovacie kontroly DKIM alebo SPF. Najlepším spôsobom riešenia tohto problému je, aby si odosielateľ povolil svoje povolenie. Ak odosielateľ odosiela správy vo vašom mene, je potrebné povoliť ho pridaním IP adresy odosielateľa do SPF záznamu.
   
-Ďalšie [informácie nájdete v téme Riešenie problémov s červeným (podozrivým) bezpečnostným tipom na kontrolu](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) podvodov.
+Ďalšie [informácie nájdete v téme Riešenie problémov bezpečnostný tip červenou (podozrivou) e-mailmi na](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) kontrolu podvodov.
   
 Tu je niekoľko ďalších prepojení, ktoré vám môžu pomôcť:
   

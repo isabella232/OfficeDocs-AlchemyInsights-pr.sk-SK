@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929212"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Dostali vaši používatelia škodlivé e-maily?
 

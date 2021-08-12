@@ -1,5 +1,5 @@
 ---
-title: Informácie o inštruktáži e-mailu
+title: Informácie o stručnú e-mailovú správu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955873"
 ---
-# <a name="about-briefing-email"></a>Informácie o inštruktáži e-mailu
+# <a name="about-briefing-email"></a>Informácie o stručnú e-mailovú správu
 
-Ďalšie informácie o inštruktáži nájdete v téme [Stručný prehľad e-mailov](https://docs.microsoft.com/briefing/be-overview).  
+Ďalšie informácie o aplikácii Stručné informácie nájdete v téme [Stručný prehľad e-mailov.](https://docs.microsoft.com/briefing/be-overview)  
 
-Táto funkcia sa momentálne zobrazuje, takže vaša organizácia nemusí dostávať inštruktážne e-maily aj v prípade, že máte zapnutú inštruktáž. Upozorňujeme tiež, že používatelia nie sú zaručene dostávať e-maily s krátkym poznámkovým blokom každý deň. E-maily sa odosielajú len vtedy, keď má používateľ aspoň jeden návrh na akciu pre daný konkrétny deň. Ďalšie informácie nájdete v téme [najčastejšie otázky týkajúce sa inštruktážnej e-mailovej správy](https://docs.microsoft.com/briefing/be-faqs).
+Táto funkcia sa práve schová, takže vaša organizácia možno dostane e-mail s krátkou správou aj vtedy, ak máte funkciu Stručné informácie zapnutú. Pamätajte tiež, že nie je zaručené, že používatelia budú každý deň dostávať e-mail s pokynmi. E-maily sa odošlú iba v prípade, že používateľ má v konkrétny deň aspoň jeden návrh na akciu. Ďalšie informácie nájdete v téme [Najčastejšie otázky týkajúce sa e-mailu s krátkou správou.](https://docs.microsoft.com/briefing/be-faqs)

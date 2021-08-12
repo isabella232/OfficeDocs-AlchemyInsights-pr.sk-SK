@@ -1,5 +1,5 @@
 ---
-title: Táto lokalita sa nedá dosiahnuť – chyba pri pokuse o prístup k lokalite SharePoint z prehliadača alebo tímu
+title: Táto lokalita sa nedá dosiahnuť – chyba pri pokuse o prístup k SharePoint z prehliadača alebo Teams
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946666"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Pri pokuse o prístup k lokalite SharePoint z prehliadača alebo tímu sa zobrazí chyba Táto lokalita sa nedá dosiahnuť
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Chyba "Táto lokalita sa nedá dosiahnuť" pri pokuse o prístup SharePoint lokality z prehliadača alebo Teams
 
-Používateľom sa môže pri pokuse o prístup na lokalitu SharePoint z prehliadača alebo tímu Zobraziť chyba Táto lokalita sa nedá dosiahnuť. 
+Používateľom sa môže zobraziť chyba "Túto lokalitu nie je možné získať" pri pokuse o prístup SharePoint lokality z prehliadača alebo Teams. 
 
-Ak chcete tento problém vyriešiť: 
+Riešenie tohto problému: 
 
-1. Skontrolujte, či sa Domovská stránka nachádza v priečinku Kôš alebo v koši druhej fázy, a obnovte stránku.
+1. Skontrolujte, či sa domovská stránka nachádza v Koši alebo v Koši druhej fázy, a obnovte stránku.
 
-**Ukážka priameho URL adresy na kôš**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Vzorová priama URL adresa do Koša:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
 
-1. Ak sa Domovská stránka natrvalo odstráni z koša, vytvorte novú stránku lokality z knižnice stránky lokality a zmeňte ju na domovskú stránku. 
+1. Ak sa domovská stránka natrvalo odstráni z Koša, vytvorte novú stránku lokality z knižnice Stránky lokality a urobte z nej domovskú stránku. 
 
-**Ukážka priamej URL adresy**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Vzorová priama URL adresa:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx

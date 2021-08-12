@@ -1,5 +1,5 @@
 ---
-title: 1815 zväčšenie veľkosti zdieľanej poštovej schránky
+title: 1815 Zväčšenie veľkosti zdieľanej poštovej schránky
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912757"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>Zväčšenie veľkosti zdieľanej poštovej schránky
 
-Veľkosť zdieľanej poštovej schránky môžete zväčšiť z predvolenej veľkosti 50 GB na 100 GB priradením zdieľanej poštovej schránky k licencii Exchange Online P2 (ktorá je zahrnutá v rámci licencií E3 a E5). Keď priradíte licenciu P2 k zdieľanej poštovej schránke v [aktívnych používateľoch](https://portal.office.com/adminportal/home), veľkosť sa automaticky zvýši v priebehu 15 minút.
+Veľkosť zdieľanej poštovej schránky môžete zväčšiť z predvolenej veľkosti 50 GB na 100 GB tak, že zdieľanej poštovej schránke priradíte licenciu na Exchange Online P2 (ktorá je súčasťou licencií na plány E3 a E5). Keď priradíte licenciu P2 k zdieľanej poštovej schránke v službe [Aktívni](https://portal.office.com/adminportal/home)používatelia, veľkosť sa automaticky zväčší do 15 minút.

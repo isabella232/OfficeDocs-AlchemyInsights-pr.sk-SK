@@ -1,5 +1,5 @@
 ---
-title: Pravidlo pre predplatné alebo konto vypnuté
+title: Pravidlo deaktivované predplatným/kontom
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938458"
 ---
-# <a name="azure-subscription-disabled"></a>Predplatné služby Azure vypnuté
+# <a name="azure-subscription-disabled"></a>Predplatné služby Azure bolo vypnuté
 
-Vaše predplatné Azure môže byť vypnuté, pretože uplynula platnosť vášho kreditu, dosiahli ste limit výdavkov, máte oneskorené faktúry, zasiahli ste limit kreditnej karty alebo ste zrušili predplatné od správcu konta. Nižšie nájdete informácie o tom, ako môžete opätovne povoliť predplatné. Ďalšie informácie: [Opätovná aktivácia predplatného Azure](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Predplatné služby Azure sa môže deaktivovať, pretože platnosť vášho kreditu uplynula, dosiahli ste limit výdavkov, máte po termíne vyúčtovanú faktúru, dosiahli ste limit kreditnej karty alebo ste ho zrušili správcom konta. Nižšie nájdete informácie o tom, ako môžete znova zapnúť svoje predplatné. Ďalšie informácie: [Opätovná aktivácia predplatného služby Azure](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Opätovné zapnutie predplatného Azure (omylom bolo zrušené predplatné)** [Správca konta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) môže opätovne aktivovať zrušené predplatné na platené služby v centre kont:
+**Opätovné povolenie predplatného na Azure (predplatné bolo omylom zrušené)** Správca [konta môže](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) opätovne aktivovať zrušené predplatné na Pay-As-You-Go v centre kont:
 
-1. Prihláste sa do [centra kont](https://account.windowsazure.com/Subscriptions).
-2. Vyberte zrušené predplatné. Kliknite na položku **znova aktivovať** .
+1. Prihláste sa do [Centra kont.](https://account.windowsazure.com/Subscriptions)
+2. Vyberte zrušené predplatné. Kliknite **na položku Znova aktivovať**.
 
-Ak máte iné typy predplatného, obráťte sa na [oddelenie technickej podpory](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) a znova aktivujte predplatné.
+V prípade iných typov [predplatného sa obráťte na podporu](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) a požiadajte o opätovnú aktiváciu svojho predplatného.
 
 **Kreditná karta s uplynutou platnosťou**
 
-Keď sa zaregistrujete na **bezplatné konto Azure** , dostanete bezplatnú skúšobnú verziu, ktorá vám poskytuje $200 v Azure kreditov za 30 dní a 12 mesiacov bezplatných služieb. Na konci 30 dní Azure vypína predplatné. Vaše predplatné je vypnuté, aby vás chránilo pred náhodným vyplatením poplatkov za použitie za kreditnými a bezplatnými službami, ktoré sú súčasťou vášho predplatného. Ak chcete pokračovať v používaní služieb Azure, musíte [inovovať predplatné](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). Po inovácii má predplatné k dispozícii bezplatné služby na 12 mesiacov. Účtujú sa vám len poplatky za používanie za bezplatné služby a množstvo.  
-Ďalšie informácie: [uplynula Kreditná karta](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+Po zaregistrovaní do bezplatného konta **Azure** získate bezplatné skúšobné predplatné, ktoré vám v Azure poskytuje kredity 30 dní a 12 mesiacov bezplatných služieb vo výške 200 USD. Na konci 30 dní Azure zakáže vaše predplatné. Vaše predplatné je vypnuté, aby vás chránilo pred neúmyselnými poplatkami za používanie nad rámec kreditných a bezplatných služieb, ktoré sú súčasťou vášho predplatného. Ak chcete pokračovať v používaní služieb Azure, musíte [inovovať svoje predplatné](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). Po inovácii má vaše predplatné stále prístup k bezplatným službám na 12 mesiacov. Poplatok za použitie získate len mimo bezplatných služieb a množstiev.  
+Ďalšie informácie: [Kreditná karta s uplynutou platnosťou](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
 **Dosiahol sa limit výdavkov**
 
-Keď vaše používanie dosiahne limit výdavkov, Azure vypína predplatné na zvyšné obdobie fakturácie. Vaše predplatné je vypnuté, aby vás chránilo pred náhodným vyplatením poplatkov za používanie mimo kreditu, ktorý je súčasťou vášho predplatného. Ak chcete odstrániť limit výdavkov, pozrite si tému [obmedzenie výdavkov Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-Ďalšie informácie: [dosiahli ste limit výdavkov](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+Keď vaša spotreba dosiahne limit výdavkov, Azure zakáže vaše predplatné do konca tohto fakturačného obdobia. Vaše predplatné je vypnuté, aby vás chránilo pred neúmyselnými poplatkami za používanie nad rámec kreditu, ktorý je súčasťou vášho predplatného. Informácie o odstránení výdavkov nájdete v téme [Azure spending limit](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
+Ďalšie informácie: [Dosiahol sa limit výdavkov](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Splatná faktúra za rok**
+**Po termíne splatnosti faktúry**
 
-Ak chcete vyriešiť predchádzajúce saldo z minulosti, prečítajte si tému [vyriešenie splnenia termínov dokončenia pre svoje predplatné Azure po získaní e-mailu od Azure](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
+Ak chcete vyriešiť zostatok po termíne splatnosti, pozrite si časť Vyriešenie zostatkov po termíne splatnosti predplatného na Azure po získaní [e-mailu zo služby Azure.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Faktúra prekračuje limit kreditnej karty**
 
-Ak chcete tento problém vyriešiť, [prepnite na inú kreditnú kartu](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Ak zastupujete firmu, môžete [sa prepnúť na položku zaplatiť podľa faktúry](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+Ak chcete vyriešiť tento problém, [prejdite na inú kreditnú kartu](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Ak zastupujete podnik, môžete prejsť na [platiť prostredníctvom faktúry](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Poznámka** : nový dátum výročnia predplatného (sa) bude priradený k predplatnému, ktoré bolo opätovne povolené. Počet dní (interval), v ktorých bolo predplatné pozastavené, sa pridá k pôvodnému dátumu. Dátum výročia, ktorý sa vzťahuje na 29, 30 alebo 31, bude mať za následok, že dátum sa nastavuje na prvý z nasledujúceho mesiaca.  
-Napríklad
+**Poznámka:** K predplatným, ktoré boli znova povolené, sa priradí nový dátum výročia (SA). Počet dní (interval), v ktorých bolo predplatné pozastavené, sa pridá k pôvodnému dátumu sadu sa. Pri každom dátume výročia, ktorý sa nachádza 29. deň, 30. deň alebo 31. deň, sa dátum sa nastaví na prvý deň nasledujúceho mesiaca.  
+Príklad:
 
-- Vaše pôvodné výročie predplatného je 25.
-- Predplatné bolo pozastavené na 10/3 a opätovne povolené na 10/9;
-- Predplatné bolo vypnuté na 6 dní (interval 6);
-- Interval sa potom pridá do pôvodnej AKD a súčet sa stane novým dátumom zabezpečenia (25 + 6 = 31). 
+- vaše pôvodné výročie vo vašom predplatnom je 25. výročie,
+- Predplatné bolo odstavené 3. 10. a opätovne zapnuté 9. 10. 2009;
+- Predplatné bolo vypnuté 6 dní (interval 6);
+- Interval sa potom pridá k pôvodnému sadu sa stane novým dátumom SA (25 + 6 = 31). 
 
-**Poznámka** : v tomto príklade, pretože dátum je teraz väčší ako 28, nový dátum sa bude prvý z nasledujúceho mesiaca.
+**Poznámka:** Keďže je dátum sadá teraz väčší ako 28, v tomto príklade bude nový dátum sa bude 1. deň v nasledujúcom mesiaci.
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
-- [Prepnutie predplatného](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Zrušenie predplatného](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Zmeniť predplatné](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Zrušiť predplatné](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- Vyhľadanie [správcu konta](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- [Čo robiť, ak sa moje predplatné služby Azure zakáže?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Obmedzenie výdavkov Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Vyhľadajte [správcu kont](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [Čo robiť, ak sa moje predplatné služby Azure deaktiví?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Limit výdavkov služby Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

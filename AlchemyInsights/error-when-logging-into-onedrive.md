@@ -1,5 +1,5 @@
 ---
-title: 0x8004de40 pri spúšťaní OneDrivu
+title: 0x8004de40 chybe pri spúšťaní OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 23c57356c8bd94c1cbafb538c9318208429754115a7c4e88abc93d293b5ea6e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946594"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 pri spúšťaní OneDrivu
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 chybe pri spúšťaní OneDrive
 
-Ak sa pri prihlasovaní **do 0x8004de40** OneDrive zobrazí chybové hlásenie, reštartujte počítač po pripojení k pracovnej alebo školskej doméne. Ak sa táto chyba zobrazí po reštartovaní, skúste to po pripojení k pracovnej alebo školskej doméne:
+Ak sa pri prihlasovaní **0x8004de40** do počítača OneDrive počítač po pripojení k pracovnej alebo školskej doméne, počítač reštartujte. Ak sa táto chyba zobrazí po reštartovaní, skúste to po pripojení k pracovnej alebo školskej doméne:
 
 1. Kliknite na tlačidlo Štart a zadajte **výraz cmd** alebo **príkazový** riadok do vyhľadávacieho poľa, kliknite pravým tlačidlom myši na aplikáciu príkazového riadka a vyberte položku **Spustiť ako správca.** Ak sa zobrazí výzva na zadanie hesla správcu alebo potvrdenie, zadajte heslo alebo kliknite na položku **Povoliť**.  
 

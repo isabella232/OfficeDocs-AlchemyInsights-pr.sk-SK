@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0659d3fe017d7c77b936d80a308bcb56f94ee322029f79ee095ebeec0b8ea7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963442"
 ---
 # <a name="how-to-enable-seamless-sso"></a>Zapnutie bezproblémového jediného prihlásenia
 
-Povoľte bezproblémové jediné prihlásenie prostredníctvom [služby Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
+Povoľte bezproblémové jediné prihlásenie [prostredníctvom služby Azure AD Pripojenie.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
   
-Ak robíte novú inštaláciu služby Azure AD Connect, vyberte vlastnú [cestu inštalácie.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) Na **prihlasovacej stránke Používateľ** vyberte možnosť **Zapnúť jediné** prihlásenie.
+Ak robíte novú inštaláciu služby Azure AD Pripojenie, vyberte vlastnú [cestu inštalácie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na **prihlasovacej stránke Používateľ** vyberte možnosť **Zapnúť jediné** prihlásenie.
   
 Overenie, či ste funkciu bezproblémového jediného prihlásenia povolili správne:
   
-1. Prihláste sa do [centra spravovania služby Azure Active Directory](https://aad.portal.azure.com) ako globálny správca.
+1. Prihláste sa do [Azure Active Directory spravovania služby](https://aad.portal.azure.com) ako globálny správca.
 
-2. Na ľavej table vyberte položku **Azure Active Directory.**
+2. Na **Azure Active Directory** vyberte položku Priečinok.
 
 3. Overte, či je povolené bezproblémové jediné **prihlásenie.**
 
-Ďalšie informácie nájdete v téme [Bezproblémové jediné prihlásenie v Azure Active Directory: Stručný návod.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+Ďalšie informácie nájdete v [Azure Active Directory bezproblémové jediné prihlásenie: Stručný návod.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   

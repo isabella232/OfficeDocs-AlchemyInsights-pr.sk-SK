@@ -1,5 +1,5 @@
 ---
-title: Typ entity sa nezobrazuje v kategorizovaných alebo relevantných výsledkoch vyhľadávania v systéme Dynamics 365 Unified Interface
+title: Typ entít sa nezobrazuje vo výsledkoch vyhľadávania s kategorizovanými výsledkami vyhľadávania alebo relevantnosti výsledkov vyhľadávania v zjednotenom rozhraní Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946761"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Typ entity sa nezobrazuje vo výsledkoch vyhľadávania
+# <a name="entity-type-not-showing-in-search-results"></a>Typ entít sa nezobrazuje vo výsledkoch vyhľadávania
 
-Ak chcete, aby sa typ entity zobrazil v kategorizovanom vyhľadávaní alebo vyhľadávaní relevantnosti v rozhraní Dynamics 365 Unified, musí byť najprv pridaný do modulu aplikácie.
+Typ entít, ktorý sa má zobraziť v kategorizovanom vyhľadávaní alebo vyhľadávaní relevantnosti výsledkov v zjednotenom rozhraní služby Dynamics 365, musí byť najprv pridaný do modulu aplikácie.
 
-Poznámka: pri vyhľadávaní príloh v relevantnom vyhľadávaní je nutné, aby sa entita príloha pridala do modulu aplikácie aj napriek tomu, že nadradený záznam sa zobrazuje vo výsledkoch.
+Poznámka: Pri vyhľadávaní príloh vo vyhľadávaní podľa relevantnosti výsledkov je nutné do modulu aplikácie pridať entitu prílohy napriek tomu, že nadradený záznam je ten, ktorý sa zobrazuje vo výsledkoch.
