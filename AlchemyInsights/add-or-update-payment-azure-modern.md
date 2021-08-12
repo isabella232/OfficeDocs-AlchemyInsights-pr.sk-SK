@@ -1,5 +1,5 @@
 ---
-title: Pridanie alebo nahradenie spôsobu úhrady v službe Azure
+title: Pridanie alebo nahradenie spôsobu úhrady v Azure
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6856"
-ms.openlocfilehash: 58b4292d03a446ebaf77d4b753c928b8778dab74
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 9ed2a1221cac0951878f97e45baaf2a42236321d27809b9b59f612343f66fd58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953992"
 ---
-# <a name="add-or-replace-payment-method-in-azure"></a>Pridanie alebo nahradenie spôsobu úhrady v službe Azure
+# <a name="add-or-replace-payment-method-in-azure"></a>Pridanie alebo nahradenie spôsobu úhrady v Azure
 
-Spôsoby úhrady sa priradia k [profilom fakturácie](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Spôsob úhrady môže aktualizovať len používateľ, ktorý sa zaregistroval v službe Azure a vytvoril konto na fakturáciu. Postupujte podľa krokov na pridanie alebo nahradenie spôsobu úhrady.
+Vaše spôsoby úhrady sú priradené k [fakturačným profilom](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Spôsob úhrady môže aktualizovať iba používateľ, ktorý sa zaregistroval do služby Azure a vytvoril fakturačné konto. Postupujte podľa pokynov na pridanie alebo nahradenie spôsobu úhrady.
 
-1. Prihláste sa na [portáli Azure](https://portal.azure.com/).
-2. Vyhľadávanie v **správe nákladov + Fakturácia** .
-3. V ponuke na ľavej strane vyberte položku **profily fakturácie** .
-4. Vyberte profil fakturácie.
-5. V ponuke na ľavej strane vyberte položku **spôsoby platby** .
-6. V časti **predvolený spôsob úhrady** vyberte položku **nahradiť** .
-7. V novej oblasti na pravej strane vyberte z rozbaľovacieho zoznamu existujúcu kartu alebo pridať novú, a to výberom prepojenia modré **Pridanie nového spôsobu úhrady** .
+1. Prihláste sa na [portál Azure.](https://portal.azure.com/)
+2. Hľadajte v časti **Cost Management + Billing** (Správa nákladov a fakturácia).
+3. V ponuke na ľavej strane vyberte položku **Fakturačné profily**.
+4. Vyberte fakturačný profil.
+5. V ponuke na ľavej strane vyberte položku **Spôsoby platby**.
+6. V časti **Predvolený spôsob úhrady** vyberte položku **Nahradiť**.
+7. V novej oblasti na pravej strane vyberte z rozbaľovacieho zoznamu existujúcu kartu alebo pridajte novú výberom modrého prepojenia Pridať nový **spôsob úhrady**
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
-- [Zmena spôsobu platby – najčastejšie otázky](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Zmena spôsobu úhrady pre profil fakturácie](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Zmena spôsobu úhrady – najčastejšie otázky](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Zmena spôsobu úhrady pre fakturačný profil](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
