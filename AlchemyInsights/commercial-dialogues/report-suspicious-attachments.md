@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948934"
 ---
 # <a name="report-suspicious-attachments"></a>Nahlásenie podozrivých príloh
 
-1. V rozbaľovacom zozname **nové odoslanie** vyberte položku **príloha** a potom nahrajte súbor, ktorý chcete skenovať.
+1. V **letáku New submission** (Nové položky) **vyberte položku Attachment**(Príloha) a potom nahrajte súbor, ktorý chcete skontrolovať.
     > [!NOTE]
-    > V súčasnosti je tu obmedzenie 3 MB. Ak súbor prekročí 3 MB, zvážte jeho odoslanie pomocou e-mailovej identifikácie namiesto toho.
-2. Ak vyberiete možnosť **zablokovaná**, položka sa automaticky označí ako **malvér**.
-3. Vyberte položku **Odoslať**.
+    > V tejto dobe je k dispozícii obmedzenie 3 MB. Ak súbor presiahne 3 MB, zvážte jeho odoslanie pomocou ID e-mailu.
+2. Ak vyberiete **možnosť Should have been blocked (Mali byť** zablokované), položka sa automaticky označí ako malvér. 
+3. Vyberte **položku Odoslať**.

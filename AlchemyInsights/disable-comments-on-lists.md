@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "7613"
-ms.openlocfilehash: 28a04424cdace0083ac012b7301595a7b9ca2687
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: e797c8ea75aa9a11358cec6ccac0f51f203f93aa5e6e0a0811ec50178c914b20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928774"
 ---
 # <a name="disable-comments-on-lists"></a>Zakázanie komentárov v zoznamoch
 
-Správcovia môžu túto funkciu vypnúť na úrovni organizácie zmenou parametra **CommentsOnListItemsDisabled** v rutine typu cmdlet prostredia **Set-SPOTenant** .
+Správcovia môžu túto funkciu na úrovni organizácie zakázať zmenou parametra **CommentsOnListItemsDisabled** v rutine typu cmdlet prostredia PowerShell **Set-SPOTenant.**
 
-V súčasnosti nie je možné zakázať komentovanie na úrovni lokality alebo zoznamu. Dúfame, že tieto ovládacie prvky budú v neskoršej aktualizácii pravdepodobne v prvom štvrťroku 2021.
+Momentálne nie je možné vypnúť pridávanie komentárov na lokalite alebo na úrovni zoznamu. Tieto ovládacie prvky by sme možno radi mali k dispozícii v neskoršej aktualizácii, pravdepodobne v prvom štvrťroku 2021.

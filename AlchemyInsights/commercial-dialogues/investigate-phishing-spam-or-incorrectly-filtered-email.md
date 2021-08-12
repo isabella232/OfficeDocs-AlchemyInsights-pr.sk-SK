@@ -1,5 +1,5 @@
 ---
-title: Šetrenie neoprávneného získavania údajov, nevyžiadanej pošty alebo nesprávne filtrovaných
+title: Prieskum neoprávneného získavania údajov, nevyžiadanej pošty alebo nesprávne filtrovaných e-mailov
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2646a80ebcec959375c8fa938d420b5e11b0fdb8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948970"
 ---
-# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Šetrenie neoprávneného získavania údajov, nevyžiadanej pošty alebo nesprávne filtrovaných
+# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Prieskum neoprávneného získavania údajov, nevyžiadanej pošty alebo nesprávne filtrovaných e-mailov
 
-Ak chcete odoslať správu spoločnosti Microsoft, použite Prieskumníka odoslania. Zobrazí sa okamžitá odozva na filtrovanie správ a dôvod, prečo sa vyskytol problém. Tu je súhrn krokov:
+Odošlite správu spoločnosti Microsoft pomocou Prieskumníka odosielania. Okamžite získate pripomienky týkajúce sa filtrovania správ a príčiny výskytu problému. Tu je súhrn krokov:
 
-1. Prejdite na [centrum dodržiavania súladu & zabezpečenia služieb Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), vyberte položku podania **hrozby riadenia**  >  a potom vyberte položku **+ nové odoslanie**.
-2. Zadajte Podrobnosti na rozbaľovacom zozname **nové odoslanie** .
-3. Informovanie používateľov o tom, že by mali nahlásiť podozrivé e-maily spoločnosti Microsoft a že [doplnok správy zostáv](https://go.microsoft.com/fwlink/?linkid=2092385) je nástrojom, ktorý by mali použiť na tento účel.
+1. Prejdite do Centra [Office 365 zabezpečenia &, vyberte](https://go.microsoft.com/fwlink/p/?linkid=2077143)položku **Odosielania hrozieb** a potom vyberte položku  >   **+Nové odosielanie**.
+2. Zadajte podrobnosti v **letáku Nové odoslanie.**
+3. Informujte používateľov, že by mali spoločnosti Microsoft nahlásiť podozrivé [e-maily](https://go.microsoft.com/fwlink/?linkid=2092385) a že doplnok Správa o správe je nástroj, ktorý by mali na tento účel použiť.
