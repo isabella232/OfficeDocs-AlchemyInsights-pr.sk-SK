@@ -14,18 +14,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: 15286a34e6118ca5f379b52b2db26e4d6a4d3925
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c10caf49bb2937ff80f403bd7ff3d57a47205dc11d8e295b2a34ddacf0eacfad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959257"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Vyriešenie chyby pri aktivácii balíka Office 0xD000000C
 
 - Uistite sa, že v Macu, do ktorého sa pokúšate inštalovať, funguje pripojenie na internet. Môžete to urobiť tak, že otvoríte internetový prehliadač a prejdete na stránku [Microsoft](https://www.microsoft.com). Ak sa stránka načíta, internetové pripojenie funguje.
 
-- Ukončite všetky aplikácie Microsoft 365.
+- Ukončite všetky Microsoft 365 aplikácie.
 
 - Stiahnite a spustite [Nástroj na odstránenie licencií](https://go.microsoft.com/fwlink/?linkid=849815) a odstráňte všetky položky v kľúčenke Office.
 

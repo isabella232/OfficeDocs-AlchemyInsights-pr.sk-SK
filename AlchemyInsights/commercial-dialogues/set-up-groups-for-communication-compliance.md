@@ -1,5 +1,5 @@
 ---
-title: Nastavenie skupín na dosiahnutie súladu s komunikáciami
+title: Nastavenie skupín na súlad komunikácie
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 6550e9a7ec675607565640741f9527688116e5b4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1f9205bf06460ea395611d8dd7dc875d49fa7ac1a5dd3654d372e670fb84e4fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747624"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966772"
 ---
-# <a name="set-up-groups-for-communication-compliance"></a>Nastavenie skupín na dosiahnutie súladu s komunikáciami
+# <a name="set-up-groups-for-communication-compliance"></a>Nastavenie skupín na súlad komunikácie
 
-Tento krok je voliteľný. Ak chcete začať pracovať len s niekoľkými používateľmi, aby ste videli, ako funguje dodržiavanie súladu s komunikáciami, tento krok môžete vynechať.  
+Tento krok je voliteľný. Ak chcete začať len s niekoľkými používateľmi a zistiť, ako funguje súlad komunikácie, tento krok môžete vynechať.  
   
-Keď vytvoríte politiku dodržiavania súladu komunikácie, zadefinujte, kto má overené komunikácie a kto vykonáva Recenzie. Pomocou e-mailových adries môžete identifikovať jednotlivcov alebo skupiny ľudí. Ak chcete zjednodušiť nastavenie, môžete vytvoriť skupiny pre ľudí, ktorí majú preverené oznámenia a skupiny pre ľudí, ktorí túto komunikáciu kontrolujú.  
+Pri vytváraní politiky dodržiavania súladu s predpismi na komunikáciu určíte, kto a kto bude skontrolovať, kto ich bude vykonávať recenzie. Na identifikáciu jednotlivcov alebo skupín ľudí budete používať e-mailové adresy. Ak chcete zjednodušiť nastavenie, môžete vytvoriť skupiny pre ľudí, ktorí majú ich revíziu komunikácie, a skupiny pre ľudí, ktorí si budú tieto komunikácie prekontrolovať.  
   
-Ďalšie informácie nájdete v téme [Nastavenie skupín na zabezpečenie súladu komunikácie](https://go.microsoft.com/fwlink/?linkid=2129594).
+Postup nájdete v téme [Nastavenie skupín na zabezpečenie súladu s komunikáciou.](https://go.microsoft.com/fwlink/?linkid=2129594)

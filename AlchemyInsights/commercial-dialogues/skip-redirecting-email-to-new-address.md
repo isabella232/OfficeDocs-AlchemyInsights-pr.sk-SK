@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747416"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966700"
 ---
 # <a name="skip-redirecting-email-to-new-address"></a>Preskočiť presmerovanie e-mailov na novú adresu
 
-Ak máte vlastné DNS záznamy, preskočte krok presmerovania e-mailu na novú adresu. Potom môžete pridať záznamy, ktoré potrebujete neskôr. Niektoré služby balíka Office 365 nemusia byť k dispozícii, kým nepridáte záznamy manuálne do vášho registrátora.
+Ak máte vlastné DNS záznamy, preskočte krok presmerovania e-mailov na novú adresu. Potom môžete neskôr pridať potrebné záznamy. Niektoré Office 365 služby nemusia byť k dispozícii, kým manuálne nepridáte záznamy u svojho registrátora.
 
-Ak chcete preskočiť presmerovanie e-mailov na novú adresu, vyberte položku **Preskočiť tento krok > overiť**.
+Ak chcete preskočiť presmerovanie e-mailov na novú adresu, vyberte **položku Vynechať tento krok > Overiť**.

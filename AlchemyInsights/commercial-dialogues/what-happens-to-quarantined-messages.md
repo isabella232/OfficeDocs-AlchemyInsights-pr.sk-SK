@@ -1,5 +1,5 @@
 ---
-title: Čo sa stane s uloženými správami v karanténe?
+title: Čo sa stane s správami v karanténe?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966592"
 ---
-# <a name="what-happens-to-quarantined-messages"></a>Čo sa stane s uloženými správami v karanténe?
+# <a name="what-happens-to-quarantined-messages"></a>Čo sa stane s správami v karanténe?
 
-Ak sa rozhodnete nevykonať žiadne hlásenie, správa sa automaticky odstráni z balíka Office 365 po uplynutí platnosti. Všimnite si nasledovné:
+Ak sa rozhodnete nič urobiť, po uplynutí platnosti sa správa Office 365 automaticky odstráni. Všimnite si nasledujúce:
 
-1. Predvolene sa správy o nevyžiadanej pošte, hromadných, malvéroch a neoprávnené získavanie údajov uchovávajú v karanténe na 15 dní.
-2. Správa v karanténe, ktorá sa zhoduje s pravidlom toku pošty, sa uchováva v karanténe počas 7 dní (Toto sa nedá prispôsobiť).
-3. Keď Office 365 odstráni správu z karantény, nie je ju možné vrátiť späť.
-4. Ak chcete, môžete zmeniť obdobie uchovávania správ v karanténe pomocou nastavenia zachovať nevyžiadanú poštu (dni) v politikách filtra obsahu.
+1. Predvolene sa správy s nevyžiadanou poštou, hromadným e-mailom, malvérom a neoprávneným získavaním údajov uchovávajú 15 dní v karanténe.
+2. Správa v karanténe, ktorá zodpovedá pravidle toku pošty, sa po 7 dňoch uchováva v karanténe (toto nastavenie nie je možné prispôsobiť).
+3. Keď Office 365 správu z karantény, nie je možné ju vrátiť späť.
+4. Ak chcete, môžete obdobie uchovávania správ v karanténe zmeniť pomocou nastavenia Uchovať nevyžiadanú poštu po dobu (v dňoch) v rámci politík filtrovania obsahu.

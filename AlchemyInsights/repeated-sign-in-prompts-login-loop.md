@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f3c3e60a5a2ab0ee2cb9a7b58794ab1ad7faf677c7350b309d968a282db43772
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799068"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943426"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Opakované výzvy na prihlásenie v aplikáciách služby Microsoft 365
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Opakované výzvy na prihlásenie v Microsoft 365 aplikáciách
 
-Informácie o riešení problémov s opakovanými výzvami na prihlásenie v aplikáciách služby Microsoft 365 nájdete v téme:
+Ak chcete vyriešiť problémy s opakovanými výzvami na prihlásenie Microsoft 365 aplikáciách, pozrite si tému:
 
-- [Riešenie problémov s aplikáciami, ktoré nie sú prehliadačmi a ktoré sa nemôže prihlásiť do služieb Microsoft 365, Azure alebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["Prístup odmietnutý" alebo sa používateľovi pri pripájaní k službe Microsoft 365 opakovane zobrazuje výzva na zadanie poverení](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Pri prihlasovaní do služieb Microsoft 365, Azure alebo Intune sa od federovaného používateľa opakovane zobrazuje výzva na zadanie poverení](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Riešenie problémov s aplikáciami, ktoré nie sú prehliadačmi, do služieb Microsoft 365, Azure alebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["Prístup odmietnutý" alebo sa používateľovi opakovane zobrazuje výzva na zadanie poverení pri pripájaní k Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Federovaný používateľ opakovane pri prihlasovaní do služieb Microsoft 365, Azure alebo Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
