@@ -1,5 +1,5 @@
 ---
-title: Prihláste sa do svojho registrátora domén
+title: Prihlásenie do registrátora domén
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9a9c2cb422ca73d5d56183bf0176a16fb15c523
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ef354cb6f7251081793d46b430789f55029020039bb3748cb8ece3b951e787a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930004"
 ---
-# <a name="sign-in-to-your-domain-registrar"></a>Prihláste sa do svojho registrátora domén
+# <a name="sign-in-to-your-domain-registrar"></a>Prihlásenie do registrátora domén
 
-Musíte sa prihlásiť do svojho registrátora domén z druhého okna prehliadača.
+V druhom okne prehliadača sa musíte prihlásiť k registrátorovi domén.
 
-Ak nepoznáte svoje prihlasovacie údaje, obráťte sa na oddelenie technickej podpory svojho registrátora a požiadajte o pomoc.
+Ak nepoznáte svoje prihlasovacie údaje, požiadajte o pomoc oddelenie technickej podpory svojho registrátora.

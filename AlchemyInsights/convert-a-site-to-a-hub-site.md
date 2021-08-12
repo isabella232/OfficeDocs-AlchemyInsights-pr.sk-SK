@@ -1,5 +1,5 @@
 ---
-title: Konverzia lokality na lokalitu rozbočovača
+title: Konverzia lokality na lokalitu centra
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929824"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Vytvorenie lokality služby SharePoint Hub
+# <a name="create-a-sharepoint-hub-site"></a>Vytvorenie SharePoint lokality
 
-1. V novom centre spravovania služby SharePoint kliknite v časti **lokality**na položku **aktívne lokality**.
+1. V novom Centre SharePoint v časti Lokality **kliknite na** položku **Aktívne lokality**.
 
-2. Vyberte lokalitu, ktorú chcete umiestniť ako rozbočovač, kliknite na položku **lokalita rozbočovača**a potom kliknite na položku **zaregistrovať ako lokalitu rozbočovača**.
+2. Vyberte lokalitu, ktorá má byť centrom, kliknite na položku **Centrum lokality** a potom kliknite na položku **Zaregistrovať ako lokalitu centra**.
 
-3. Zadajte zobrazovaný názov lokality rozbočovača a zadajte jednotlivých používateľov alebo skupiny zabezpečenia, ktorým chcete povoliť priradenie lokalít k centru.
+3. Zadajte zobrazovaný názov lokality centra a zadajte jednotlivých používateľov alebo skupiny zabezpečenia, ktoré chcete povoliť na priradenie lokalít k rozbočovaču.
 
     > [!NOTE]
-    >  Odporúčame, aby ste vybrali komunikačnú lokalitu alebo tímovú lokalitu, ktorá používa novú šablónu. Ak používate klasickú tímovú lokalitu, navigácia v rozbočovači sa zobrazí iba na moderných stránkach a nastavenie lokality rozbočovača sa zobrazí len na moderných stránkach. Lokality, ktoré sú už priradené k inému rozbočovaču, nie je možné zaregistrovať ako lokalitu rozbočovača.
+    >  Odporúčame vybrať lokalitu na komunikáciu alebo tímovú lokalitu, ktorá používa novú šablónu. Ak používate klasickú tímovú lokalitu, navigácia v centre sa zobrazí len na moderných stránkach a nastavenie centra lokality sa zobrazí len na moderných stránkach. Lokality, ktoré už sú priradené k inému rozbočovaču, nie je možné zaregistrovať ako lokalitu centra.
   
-[Ďalšie informácie o lokalitách rozbočovača](https://go.microsoft.com/fwlink/?linkid=869149)
+[Ďalšie informácie o lokalitách centra](https://go.microsoft.com/fwlink/?linkid=869149)
   
