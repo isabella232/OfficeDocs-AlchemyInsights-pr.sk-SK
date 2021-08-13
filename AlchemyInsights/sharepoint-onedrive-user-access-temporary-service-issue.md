@@ -1,5 +1,5 @@
 ---
-title: Problémy s výkonom – SharePoint alebo OneDrive
+title: Problémy s výkonom SharePoint alebo OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08bdc2527147279063e3f66a1767203e5ccdc1dd4fd8b871f2800d3f71b9a233
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093792"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>Služby SharePoint alebo OneDrive sú pomalé, nedostupné alebo nie sú k dispozícii pre viacerých používateľov
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint alebo OneDrive Slow, Neprístupné alebo Nedostupné pre viacerých používateľov
 
-Ak OneDrive alebo SharePoint nie je k dispozícii viacerým používateľom, ktorí mali predtým prístup, môže sa vyskytnúť dočasný problém so službou. [Skontrolujte tabuľu stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
+Ak lokalita OneDrive alebo SharePoint pre viacerých používateľov, ktorí predtým mali prístup, môže ísť o dočasný problém so servisom. [Skontrolujte tabuľu stavu služby.](https://portal.office.com/adminportal/home#/servicehealth)
 
-**Pridanie a povolenie používateľa**
+**Pridanie a licencia pre používateľa**
 
-Uistite sa, že [priraďujete licencie používateľom v službe Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Uistite [sa, že priradíte licencie používateľom vo Microsoft 365 for business.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
 
 **Priradenie povolení**
 
-Ak je používateľovi priradená licencia na SharePoint a stále sa zobrazuje hlásenie o odmietnutí prístupu, skontrolujte, či majú priradenú [zodpovedajúcu úroveň povolení](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
+Ak má používateľ priradenú licenciu na SharePoint a stále sa mu zobrazuje hlásenie o odmietnutí prístupu, uistite sa, že má [priradenú príslušnú úroveň](https://docs.microsoft.com/sharepoint/understanding-permission-levels) povolení.
 
-**Zvážte použitie funkcie žiadosť o prístup**
+**Zvážte použitie funkcie požiadavky na prístup**
 
-[Funkcia žiadosti o prístup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) umožňuje ľuďom požiadať o prístup k obsahu, ktorý momentálne nemajú povolenie na zobrazenie.
+Funkcia [požiadavky na prístup umožňuje](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) používateľom požiadať o prístup k obsahu, ktorý momentálne nemôžu zobraziť.
 
-**Povolenie vlastného skriptu môže spôsobiť problémy s prístupom k odmietnutým**
+**Povoliť vlastný skript môže spôsobiť problémy s odmietnutím prístupu**
 
-K dispozícii sú určité scenáre, v ktorých môže funkcia *Povoliť vlastný skript* prezentovať prístup odmietnutý. Zoznam ovplyvnených funkcií, dôvody zabezpečenia a možnosť vypnutia funkcie. Prejdite na stránku [povolenie alebo zakázanie vlastného skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Existujú určité scenáre, kedy funkcia *Povoliť vlastný skript* môže prezentovať prístup odmietnutý. Zoznam ovplyvnených funkcií, zváženia zabezpečenia a možnosti vypnutia funkcie. Prejdite na [stránku Povolenie alebo zabrá pomôžte predísť vlastnému skriptu.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 

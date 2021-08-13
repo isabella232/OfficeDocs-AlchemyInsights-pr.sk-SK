@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971354"
 ---
 # <a name="user-provisioning"></a>Poskytovanie používateľov
 
-- Pomocou funkcie [na poskytovanie na požiadanie](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) môžete používateľovi poskytnúť podrobné informácie o vykonaných krokoch.
-- Ak chcete riešiť problémy, s ktorými sa stretnete pri zriaďovaní používateľov a skupín, prečítajte si príručku na riešenie problémov, ktorá [sa neposkytuje používateľom](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).
-- Ak zistíte, že používatelia nie sú zriadení, pozrite si tému [poskytovanie denníkov (Preview)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) v službe Azure Active Directory (AD). Vyhľadajte položky denníka, ktoré súvisia s konkrétnym používateľom.
-- Pravidelným reštartovaním poskytovania Zachyťte všetkých používateľov, ktorí zmeškali predchádzajúci cyklus poskytovania.
-- Používateľ alebo skupina sa nemuseli poskytnúť, pretože naša služba ešte nemá možnosť hodnotenia používateľa. Pozrite si usmernenie o tom, ako dlho bude poskytovanie trvať, ako aj indikátor priebehu na stránke konfigurácie poskytovania. Ak je rovnovážny stav zadaný v časti Ďalšie podrobnosti pred dátumom vytvorenia/aktualizácie alebo odstránenia používateľa, znamená to, že sme zatiaľ nehodnotili používateľa. V tomto scenári je najvhodnejšie počkať na dokončenie poskytovania služby. Ak sa rovnovážny stav dosiahlo, odporúčame vám vykonať reštartovanie z používateľského rozhrania na portáli Azure.
-  - Všimnite si, že naša služba je oboznámená len s zmenami používateľa alebo skupiny v zdrojovom systéme (Azure Active Directory). Ak sa používateľ alebo skupina odstráni priamo v aplikácii (napríklad ServiceNow), tieto zmeny nie sú známe a nie je možné ju vrátiť späť na základe stavu používateľa v zdrojovom systéme. V tomto scenári je najlepšie vrátiť zmeny priamo do cieľovej aplikácie.
-- Naša služba hodnotila používateľa/skupinu a určila, že by sa nemala poskytovať:
-  - Ak ste nastavili rozsah na priradených používateľov a skupiny, skontrolujte, či je používateľ alebo skupina priradená k aplikácii.
-  - Ak je používateľ alebo skupina priradená k aplikácii, uistite sa, že nie je priradená k predvolenej úlohe prístupu. Túto rolu nie je možné použiť na poskytovanie.
-  - Ak ste nastavili filter založený na atribútoch, overte, či používateľ spĺňa kritériá, ktoré ste zadali.
-  - Ak už používatelia existujú v cieľovom systéme a stave používateľa v zdrojovej a cieľovej zhode, nebudeme mať žiadne ďalšie kroky.
-- Služba sa pokúsila o poskytnutie používateľa a zlyhala. V prípade týchto scenárov si pozrite kartu Riešenie problémov a odporúčaní v denníkoch poskytovania:
-  - Požadovaný atribút používateľa môže chýbať v službe Azure Active Directory alebo sa nezhoduje s formátom vyžadovaným aplikáciou tretej strany. Atribút krajiny na používateľa môže byť napríklad nastavený na Spojené štáty, Kedy by mal byť v USA.
-  - Atribút je referenčný atribút, ktorý ešte neexistuje v cieľovej aplikácii. Referenčný atribút je atribút, ktorý odkazuje na iný objekt, napríklad na používateľa, ktorý je členom skupiny. ID používateľa bude v atribúte člena skupiny, ale môže sa spracovať iba v prípade, že objekt používateľa odkazuje na už existuje.
+- Použite funkciu [poskytovania na požiadanie](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) na poskytnutie používateľa a získanie podrobnej diagnostiky pre podnikaných krokov.
+- Ak chcete riešiť problémy, ktoré sa vyskytnú pri poskytovaní služieb používateľom a skupinám, pozrite si príručku na riešenie problémov: [Nie sú k dispozícii používatelia.](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned)
+- Ak pozorujete, že používatelia sa nezriadujú, pozrite si článok [Poskytovanie denníkov (ukážka)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) v Azure Active Directory (AD). Vyhľadávať záznamy denníka týkajúce sa konkrétneho používateľa.
+- Pravidelné reštartovanie poskytovania, aby ste zachytiť všetkých používateľov, ktorí sa zmeškali v predchádzajúcom cykle poskytovania.
+- Používateľ alebo skupina možno nebola zhodnotená, pretože služba ešte nemá možnosť vyhodnotiť používateľa. Pozrite si pokyny na to, ako dlho trvá poskytovanie, ako aj indikátor priebehu na stránke konfigurácie poskytovania. Ak sa stabilný stav uvedený v časti Ďalšie podrobnosti nachádza pred dátumom vytvorenia/aktualizácie/odstránení používateľa, znamená to, že sme ešte nevyhodnocovali používateľa. V tomto scenári je najlepšie počkať, kým sa poskytovanie služby dokončí. Ak sa dosiahne stabilný stav, odporúčame vykonať reštart z používateľského rozhrania na portáli Azure.
+  - Upozorňujeme, že naša služba vie len o zmenách používateľa alebo skupiny v zdrojovom systéme (Azure Active Directory). Ak sa používateľ alebo skupina odstráni priamo v aplikácii (napríklad ServiceNow), o týchto zmenách vieme a nevrátime ich späť na základe stavu používateľa v zdrojovom systéme. V tomto scenári je najlepšie vrátiť zmenu späť priamo v cieľovej aplikácii.
+- Naša služba vyhodnotila používateľa alebo skupinu a zistila, že by sa nemala poskytnúť:
+  - Ak ste rozsah nastavili tak, aby boli k aplikácii priradení používatelia a skupiny, skontrolujte, či je používateľ alebo skupina priradená k aplikácii.
+  - Ak je používateľ alebo skupina priradená k aplikácii, uistite sa, že nie je priradená k predvolenej role prístupu. Túto rolu nie je možné použiť na poskytovanie.
+  - Ak ste nastavili filter na určenie rozsahu na základe atribútov, uistite sa, že používateľ spĺňa zadané kritériá.
+  - Ak už používatelia v cieľovom systéme existujú a stav používateľa v zdrojovom a cieľovom zhody, žiadne ďalšie kroky nevyberieme.
+- Náš pokus o poskytnutie služby zlyhal a používateľ sa pokúsil o poskytnutie tejto služby. Pri týchto scenároch si pozrite kartu Riešenie problémov a odporúčania z denníkov poskytovania:
+  - Požadovaný atribút používateľa môže v aplikácii Azure Active Directory chýbať alebo nezodpovedá formátu, ktorý vyžaduje aplikácia tretej strany. Atribút Krajina pre používateľa môže byť napríklad nastavený na hodnotu Spojené štáty, kedy by mal byť v USA.
+  - Atribút je referenčný atribút, ktorý v cieľovej aplikácii ešte neexistuje. Referenčný atribút je atribút, ktorý odkazuje na iný objekt, napríklad používateľ, ktorý je členom skupiny. Identifikácia používateľa sa nachádza v atribúte člena skupiny, ale môže sa spracovať iba v prípade, že objekt používateľa, na ktorý odkazuje, už existuje.

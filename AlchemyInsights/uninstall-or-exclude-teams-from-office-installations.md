@@ -1,5 +1,5 @@
 ---
-title: Odinštalovanie alebo vylúčenie aplikácie Teams z inštalácií balíka Office
+title: Odinštalovanie alebo Teams z Office inštalácií
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 2d96d54cb479f5f52cc707d4307cf9cf1e891a01
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a960c96abf6215e3a34908ce8669a0c61298daac829343b3673dbfef0c4cbfc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007733"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Odinštalovanie alebo vylúčenie aplikácie Teams z nových alebo existujúcich inštalácií balíka Office
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Odinštalovanie alebo Teams z nových alebo existujúcich Office inštalácií
 
-Aplikácia Microsoft Teams je súčasťou aplikácií Microsoft 365 pre veľké podniky, aplikácií Microsoft 365 pre podniky a balíka Office pre Mac.
+Microsoft Teams je súčasťou týchto Aplikácie Microsoft 365 pre veľké organizácie, Aplikácie Microsoft 365 pre podnikateľov a Office pre Mac.
 
-- Nástroj na [nasadenie balíka Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) použite na vylúčenie aplikácie Teams z nových inštalácií balíka Office.
-- Ak chcete *službu* Teams odinštalovať zo zariadenia s Windowsom, pozrite si časť [Odinštalovanie aplikácie Microsoft Teams.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Ak chcete aplikáciu Microsoft Teams vyčistiť z viacerých cieľových počítačov alebo používateľov, pozrite si [časť Vyčistenie nasadenia aplikácie Microsoft Teams.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
-- Ak chcete aplikácii Microsoft Teams zabrániť v automatickej inštalácii pomocou balíka Office, použite možnosť [PreventTeamsInstall.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+- Nástroj na [Office na nasadenie](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) môžete Teams z nových inštalácií balíka Office.
+- Ak *chcete Teams* zariadenia so systémom Windows, pozrite si časť [Odinštalovanie Microsoft Teams.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Ak chcete Microsoft Teams z viacerých cieľových počítačov alebo používateľov, pozrite si [Microsoft Teams nasadenie zariadenia](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+- Ak chcete zabrániť automatickej Microsoft Teams s použitím Office, použite možnosť [PreventTeamsInstall.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
 )
-- Ak chcete zabrániť tomu, aby sa Aplikácia Microsoft Teams spúšťala automaticky po inštalácii, použite možnosť [PreventFirstLaunchAfterInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) pred inštaláciou aplikácie *Teams.*
+- Ak chcete zabrániť automatickému Teams Microsoft Teams po inštalácii, použite možnosť [PreventFirstLaunchAfterInstall.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
 
-Ak používate Office pre Mac, pozrite si časť Inštalácie [aplikácie Microsoft Teams v Macu.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+Ak používate e-Office pre Mac, pozrite [si Microsoft Teams inštalácie v Macu.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
