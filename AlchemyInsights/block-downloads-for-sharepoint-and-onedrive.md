@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: aa6440f36c832d2cd5576ee0adf13ba14518485c
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 87f0b48f5c3ef68af5053414b893adc66ad35d28e163154db8c3f2b3a52cf4a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969112"
 ---
 # <a name="block-downloads-for-sharepoint-and-onedrive"></a>Blokovanie sťahovania pre SharePoint a OneDrive
 
-Existujú rôzne spôsoby zablokovania sťahovania z SharePointu a OneDrivu. Ďalšie informácie nájdete v článkoch nižšie.
+Sťahovanie z e-SharePoint a OneDrive možno OneDrive. Ďalšie informácie nájdete v článkoch nižšie.
 
-- [Blokovanie stiahnutých súborov v SharePointe a OneDrive v súboroch iba na zobrazenie](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
+- [Blokovanie sťahovania súborov iba na zobrazenie v SharePoint a OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
 - [Riadenie prístupu z nespravovaných zariadení](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [Riadenie prístupu k údajom SharePointu a OneDrivu na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Riadenie prístupu k SharePoint údajov OneDrive na základe sieťového umiestnenia](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)

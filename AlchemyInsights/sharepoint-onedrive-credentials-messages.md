@@ -1,5 +1,5 @@
 ---
-title: Otvorenie knižnice SharePointu v Prieskumníkovi
+title: Otvorenie SharePoint v Prieskumníkovi
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 97466d2505cccecb2087f15b1df97a5d46868b72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0f6be42831594615db474c8f7f0f0b5e2da787a8a91f4943fb2c27ec57abb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957952"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Správy poverení v SharePointe alebo vo OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Správy poverení v SharePoint alebo OneDrive
 
-Pri pokuse o otvorenie dokumentov môže Office pravidelne zobrazovať výzvu na zadanie poverení v SharePointe Online alebo OneDrive.
+Používatelia môžu byť pri pokuse o otvorenie Office pravidelne vyzvaní na SharePoint online alebo OneDrive používateľov.
 
-Ak sa vyskytnú tieto príznaky, vyskúšajte kroky, ktoré sa nachádzajú v [tomto článku](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
+Ak sa vyskytnú tieto príznaky, vyskúšajte kroky uvedené v [tomto článku.](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)
 
-Prípadne, ak používate jediné prihlásenie (SSO) na overenie, prečítajte si [Tento článok](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) namiesto toho.
+Prípadne, ak na overenie používate jediné prihlásenie, pozrite si namiesto toho [tento](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) článok.

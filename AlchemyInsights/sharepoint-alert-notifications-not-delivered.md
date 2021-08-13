@@ -1,5 +1,5 @@
 ---
-title: Upozornenia na upozornenia SharePointu sa nedoručujú
+title: SharePoint upozornenia sa nedoručujú
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957916"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Upozornenia na upozornenia SharePointu sa nedoručujú
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint upozornenia sa nedoručujú
 
-Skontrolujte priečinok nevyžiadanej pošty v e-maile, pretože niekedy sa môžu vyskytnúť upozornenia.
+Skontrolujte priečinok NEVYŽIADANÁ POŠTA v e-maile, pretože niekedy sa tam môžu nachádzať upozornenia.
 
-Zistite, či sa nezobrazia **všetky upozornenia** alebo ak sa nedoručuje **individuálne upozornenie** zo špecifického súboru alebo knižnice.
+Zistite, **či sa nedoručujú všetky** upozornenia alebo či sa **jednotlivé** upozornenia z konkrétneho súboru alebo knižnice nedoručujú.
 
-- **Jednotlivé upozornenia sa nedoručujú**: Ak sa nedoručuje individuálne upozornenie zo špecifického súboru alebo knižnice, môžete sa pokúsiť o jeho odstránenie a opätovné vytvorenie. Ďalšie informácie o opätovnom vytvorení upozornenia nájdete v téme [Správa, zobrazenie alebo odstránenie upozornení SharePointu](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
-- **Všetky upozornenia sa nedoručujú**: Ak sa nedoručujú všetky upozornenia z viacerých súborov alebo knižníc, prejdite na [tabuľu stavu služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a vyhľadajte všetky upozornenia alebo incidenty, ktoré sa môžu vyskytnúť v SharePointe alebo Exchangei. Problém môže byť s funkciou upozornenia SharePointu alebo oneskorením v e-mailoch prostredníctvom servera Exchange. Bude tiež dôležité upozorniť na to, či sa doručujú iné e-maily, a ak nie, problém je pravdepodobne s oneskorením pri výmene.
+- **Jednotlivé upozornenia sa nedoručujú:** Ak sa jednotlivé upozornenia z konkrétneho súboru alebo knižnice nedoručujú, môžete sa ho pokúsiť odstrániť a znova vytvoriť. Ak [chcete opätovne vytvoriť upozornenie, pozrite si SharePoint,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) zobrazenie alebo odstránenie upozornení.
+- **Nie všetky** upozornenia sa nedoručujú: Ak sa nedoručujú [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) všetky upozornenia z viacerých súborov alebo knižníc, navštívte tabuľu Stav služby a skontrolujte upozornenia alebo incidenty, ktoré sa môžu vyskytnúť pri práci s SharePoint alebo Exchange. Problém môže byť v prípade možnosti upozornenia SharePoint upozornenia alebo oneskorenia v e-mailoch prostredníctvom Exchange. Dôležité bude tiež vedieť, či sa doručujú iné e-maily, a ak nie, problém je pravdepodobne v prípade Exchange oneskorenia.
 
 Najčastejšie otázky o upozorneniach:
 
-- Nie je možné odosielať upozornenia do distribučnej skupiny, podporované sú len skupiny zabezpečenia a služby O365.
-- Nie je možné prispôsobiť šablóny upozornení e-mailov, na dosiahnutie týchto úloh je potrebné použiť pracovný postup Microsoft FLOW alebo SharePoint Designer.
+- Nie je možné odosielať upozornenia distribučnej skupine, podporujú sa iba skupiny zabezpečenia a O365.
+- Šablóny e-mailových upozornení nie je možné prispôsobiť. Na dosiahnutie týchto úloh je potrebné použiť Microsoft FLOW SharePoint pracovný postup Návrhára.
 
 ## <a name="related-topics"></a>Súvisiace témy
 
-Chcete vyskúšať Microsoft flow v SharePointe Online?
+Chcete sa o Microsoft Flow v SharePoint Online?
 
-- [Vytvorenie toku](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Vytvorenie Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint a tok](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint a Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
