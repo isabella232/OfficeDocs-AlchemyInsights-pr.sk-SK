@@ -1,5 +1,5 @@
 ---
-title: Inštalácia a odkaz modulu teams PS
+title: Teams Inštalácia a odkaz modulu PS
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956560"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Čo je možné vykonať pomocou modulu Microsoft teams PowerShell
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Čo môžete dosiahnuť pomocou Microsoft Teams PowerShell
 
-Ak potrebujete vedieť, ako nainštalovať modul Team PowerShell, môžete sa pozrieť na [Tento blog](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
+Ak potrebujete vedieť, ako nainštalovať modul Teams PowerShell, môžete si pozrieť [tento blog.](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)
 
 Ďalšie informácie:
 
-- Pozrite si [Prehľad tímov PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) a porozumieť [možnostiam roly správcu](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [vytvárať a spravovať tímy pomocou prostredia PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)a [spravovať politiky](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) alebo [konfigurácie](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
-- Skontrolujte [odkaz na príkaz prostredia Microsoft teams PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) na zoznam príkazov dostupných cez prostredie PowerShell. 
+- Pozrite si [Teams PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) a [](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)porozumiete možnostiam roly správcu, vytvárajte a spravujte tímy prostredníctvom prostredia [PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)a [spravujte politiky](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) [alebo konfigurácie.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
+- V časti [Microsoft Teams príkazov prostredia PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) sa nachádza zoznam príkazov dostupných prostredníctvom prostredia PowerShell. 

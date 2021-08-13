@@ -1,5 +1,5 @@
 ---
-title: Ako môžem komunikovať s externými používateľmi Skypu for Business
+title: Ako môžem komunikovať s externými používateľmi Skype for Business používateľmi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 9580a1e9f850726210f403a5dc6c84cd9a7df196
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b7f452431bc92e5bc3c8447dccdaec25c3e2a24c7a38bf4d933d3f125e4d2d35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927664"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Povolenie externej komunikácie so Skypom for Business 
+# <a name="allow-external-communications-with-skype-for-business"></a>Povolenie externej komunikácie s Skype for Business 
 
-Chcete povoliť používateľom Skypu for Business kontaktovať používateľov mimo vašej organizácie? Pozrite [si časť Povolenie používateľom kontaktovať externých používateľov Skypu for Business.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+Chcete používateľom služieb umožniť kontaktovanie Skype for Business používateľov mimo vašej organizácie? Pozrite [si časť Povolenie používateľom kontaktovať externých Skype for Business používateľov.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
 Vaše DNS záznamy MUSIA byť správne nastavené, aby externá komunikácia fungovala správne. Tu [sa](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) môžete pozrieť, či máme konkrétne pokyny na nastavenie DNS záznamov u vášho poskytovateľa. 
 
-Chcete povoliť len používateľom Skypu for Business kontaktovať spotrebiteľských používateľov Skypu? Pozrite si tému:
+Chcete vašim používateľom umožniť kontaktovať Skype for Business na Skype používateľov? Pozrite si tému:
 
-- [Nechajte používateľov Skypu for Business pridávať kontakty Skypu.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 
+- [Nechajte Skype for Business používateľom pridávať Skype kontakty](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
-- [Pridanie kontaktu v Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+- [Pridajte kontakt vo Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
 
 
-Ak chcete, aby mohli používatelia aplikácie Teams kontaktovať používateľov mimo vašej organizácie (vrátane používateľov Skypu for Business), pozrite si časť Správa [externého prístupu v aplikácii Microsoft Teams.](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people) 
+Ak chcete, aby používatelia Teams mohli kontaktovať používateľov mimo vašej organizácie (vrátane používateľov Skype for Business), pozrite si časť Správa [externého](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people)prístupu v Microsoft Teams . 

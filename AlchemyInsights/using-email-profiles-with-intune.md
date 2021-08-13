@@ -1,5 +1,5 @@
 ---
-title: Používanie e-mailových profilov so službou Intune
+title: Používanie e-mailových profilov v intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b1653b73e7296e7eed411ae73c19342a1187b2eb7e287cff4339ea0ca32d75c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919438"
 ---
-# <a name="using-email-profiles-with-intune"></a>Používanie e-mailových profilov so službou Intune
+# <a name="using-email-profiles-with-intune"></a>Používanie e-mailových profilov v intune
 
-Intune sa môže použiť na vytvorenie a nasadenie e-mailových profilov pre natívny (vstavaný) e-mailového klienta na viacerých platformách zariadení.
+Intune možno použiť na vytvorenie a nasadenie e-mailových profilov pre natívne (vstavané) e-mailového klienta na viacerých platformách zariadení.
 
-Informácie o niektorých obmedzeniach, ktoré sú priradené k e-mailovým profilom vrátane spôsobu spracovania prítomnosti existujúcich profilov a odstraňovania e-mailových profilov, nájdete v téme [Pridanie nastavení e-mailu do zariadení pomocou služby Intune](https://docs.microsoft.com/intune/email-settings-configure).
+Informácie o niektorých obmedzeniach súvisiacich s e-mailovými profilmi vrátane spôsobu manipulácie s prítomnosťou existujúcich profilov a odstránenia e-mailových profilov nájdete v téme Pridanie nastavení e-mailu do zariadení po použití [služby Intune.](https://docs.microsoft.com/intune/email-settings-configure)
 
-Ďalšie informácie o tom, ako vytvoriť e-mailové profily pre každú platformu zariadenia, nájdete v témach:
+Ďalšie informácie o vytváraní e-mailových profilov pre platformy jednotlivých zariadení nájdete v týchto téme:
 
-[Nastavenie zariadenia s Androidom na konfiguráciu e-mailu, overovania a synchronizácie v službe Intune](https://docs.microsoft.com/intune/email-settings-android)  
-[Pridanie nastavení e-mailu pre zariadenia so systémom iOS a iPadOS v službe Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
-[Nastavenie e-mailového profilu v službe Microsoft Intune pre zariadenia s operačným systémom Windows Phone 8,1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[Nastavenie e-mailového profilu pre zariadenia s Windowsom 10 v službe Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
+[Nastavenia zariadenia s Androidom na konfiguráciu e-mailu, overovania a synchronizácie v Intune](https://docs.microsoft.com/intune/email-settings-android)  
+[Pridanie e-mailových nastavení pre zariadenia so systémom iOS a iPadOS v Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[Nastavenia e-mailového profilu v Microsoft Intune pre zariadenia so Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[Nastavenia e-mailového profilu pre zariadenia so Windows 10 v Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
 **Bežný problém so synchronizáciou**
 
-**Platforma KNOX v e-mailovom profile pre Android zabraňuje synchronizácii používateľských kontaktov, kalendára a úloh v synchronizácii s používateľskými zariadeniami.**
+**KNOX v e-mailovom profile Androidu zabraňuje používateľom v synchronizácii kontaktov, kalendára a úloh s používateľskými zariadeniami.**
 
-E-mailový profil KNOX v systéme Android KNOX poskytuje správcovi možnosť rozhodnúť sa, ktoré typy obsahu sa synchronizujú so zariadením, nastavením jednotlivých povolení.
+Funkcia KNOX v e-mailovom profile systému Android KNOX poskytuje správcom možnosť rozhodnúť sa, ktoré typy obsahu sa majú so zariadením synchronizovať, nastavením ich zapnutých.
 
-Ak je nastavenie pre ktorýkoľvek z typov obsahu nastavené na možnosť **nie je nakonfigurované** (predvolené), daný typ obsahu sa nesynchronizuje automaticky. Používateľ môže povoliť manuálne nastavenie typu obsahu priamo v zariadení, ale táto konfigurácia sa prepíše nastavením politiky služby Intune a synchronizácia sa prestane pre daný typ obsahu.
+Ak je nastavenie pre niektorý z typov obsahu nastavené na hodnotu Nie je **nakonfigurované** (predvolené), tento typ obsahu sa nesynchronizuje automaticky. Používateľ môže povoliť typ obsahu, ktorý chce, priamo v zariadení, ale toto nastavenie sa prepíše nastavením politiky služby Intune a synchronizácia sa pre tento typ obsahu zastaví.
 
