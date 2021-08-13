@@ -1,5 +1,5 @@
 ---
-title: Prehľad spojníc v Microsoft Graphe
+title: Prehľad konektorov Aplikácie Microsoft Graph
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924560"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>Prehľad spojníc v Microsoft Graphe
+# <a name="overview-of-microsoft-graph-connectors"></a>Prehľad konektorov Aplikácie Microsoft Graph
 
-Ak chcete plánovať konektory Microsoft Graph, pozrite si  [Prehľad spojníc](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Ak chcete plánovať pre konektory Microsoft Graph, pozrite si [časť Prehľad konektorov.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Pozrite si tému [konektory spoločnosti Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) alebo  [spojnice podľa partnerov](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [Spravujte spojnicu pre Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Pozrite [si časť Konektory od spoločnosti Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) alebo [Konektory od partnerov.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Spravujte svoju spojnicu pre Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Ak chcete naplánovať vyhľadávanie v Microsofte, pozrite si  [Prehľad vyhľadávania Microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Ak chcete naplánovať Microsoft Search, pozrite si [prehľad Microsoft Search.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
