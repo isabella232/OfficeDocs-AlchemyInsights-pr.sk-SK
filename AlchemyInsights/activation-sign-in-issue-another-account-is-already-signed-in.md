@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 76eef6f89cc1cb4c26e9022c7048d23937e5af59
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 72af15ab8481a5661a0ec201c64d5ad21687744f949d0e555da21baf269a780f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937224"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Oprava správy o aplikáciách služby Microsoft 365 "Ľutujeme, iné konto z vašej organizácie je už prihlásené"
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Oprava Microsoft 365 s hlásením "Ľutujeme, iné konto z vašej organizácie je už prihlásené"
 
 Ak chcete vyriešiť túto chybu, vyskúšajte nasledovný postup:
 
 1. Otvorte aplikáciu balíka Office a [odhláste sa](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) zo všetkých existujúcich používateľských kont.   
-2. Pomocou konta nastavení  >  **Windowsu**  >  **e-&-mailových kont** odstráňte všetky pracovné kontá okrem príslušného konta. 
-3. Pomocou nastavení **Windowsu**  >  **kontá prístup** k  >  **pracovnom alebo školskému**, odpojte všetky pracovné kontá okrem príslušného konta. 
+2. Pomocou Windows   >  **Nastavenia-mailových**& kont odstráňte všetky pracovné kontá okrem príslušného  >  konta. 
+3. Pomocou Windows **Nastavenia**  >  **alebo školy odpojte** všetky pracovné kontá okrem príslušného  >  konta. 
 4. Resetujte stav aktivácie balíka Office. [Zistite, ako na to.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 )
 5. [Prihláste sa](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) pomocou príslušného používateľského konta. 
 
-Ďalšie informácie nájdete v téme "Ľutujeme, iné konto z vašej organizácie je už v tomto počítači [prihlásené" v balíku Office 2013.](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+Ďalšie informácie nájdete v téme Ľutujeme, v aplikácii [Office 2013 je](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)už prihlásené iné konto z vašej organizácie.
 
 V prípade Macu si pozrite tému [Nemôžem sa prihlásiť do aplikácie balíka Office 2016 pre Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).

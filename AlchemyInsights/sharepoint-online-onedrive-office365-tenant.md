@@ -1,5 +1,5 @@
 ---
-title: Nastavenie služby SharePoint Online alebo OneDrivu
+title: SharePoint Online OneDrive Nastavenie
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093613"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>Nastavenie služby SharePoint Online alebo OneDrive
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online alebo OneDrive Nastavenie
 
-Po pridaní používateľa k existujúcemu nájomníkovi sa môžu zobraziť ikony SharePointu Online alebo OneDrivu for Business, ktoré sú uvedené ako "nastavenie" alebo "stále pracujeme na získavaní súborov" až do dokončenia procesu poskytovania. Ak potrebujete pomoc, postupujte podľa tohto [návodu na riešenie problémov](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) .
+Po pridaní používateľa k existujúcemu nájomníkovi sa ikony služby SharePoint Online alebo OneDrive for Business môžu zobraziť ako Nastavenie alebo Stále pracujeme na nastavení súborov, kým sa proces zriaďovania nedokončí. Ak potrebujete [pomoc, postupujte podľa tejto príručky](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) na riešenie problémov.
 
-Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prihláste prípad podpory.
+Ak uplynulo viac než 24 hodín od toho, čo ste tento problém prvýkrát videli, prihláste sa do prípadu podpory.
 
-Chápeme, že 24 hodín sa môže zdať ako dlhý čas. V mnohých prípadoch už pracujeme na riešení. Ak chcete vyplniť riešenie, poskytnite nám aspoň 24 hodín.
+Chápeme, že 24 hodín sa môže zdať príliš dlhý. V mnohých prípadoch už pracujeme na riešení. Dajte nám aspoň 24 hodín na dokončenie riešenia.

@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebd41479e74341decf818533c05c47f4121718e6ec3404df90ab28c5ca59f65d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937152"
 ---
 # <a name="activation-troubleshooting"></a>Riešenie problémov s aktiváciou
 
-V **ovládacom paneli** \> **programy a funkcie**vyhľadajte Office. Mali by ste vidieť Microsoft 365 Apps for Enterprise alebo Microsoft 365 Apps for Business. Ak sa v zozname zobrazí viac verzií balíka Office, odinštalujte verziu, ktorú nepoužívate.
+V **okne Programy** a súčasti \> **ovládacieho** panela vyhľadajte položku Office. Mala by sa zobraziť Aplikácie Microsoft 365 pre veľké organizácie alebo Aplikácie Microsoft 365 pre podnikateľov. Ak sa v zozname zobrazí viac verzií balíka Office, odinštalujte verziu, ktorú nepoužívate.
   
-Ak nie je možné úspešne odinštalovať pomocou ovládacieho panela, odinštalujte verziu, ktorú nepoužívate, pomocou [Asistenta podpory a obnovy](https://aka.ms/SARA-OfficeUninstall-Alchemy) .
+Ak nemôžete úspešne odinštalovať pomocou ovládacieho panela, použite Support and Recovery Assistant na odinštalovanie verzie, ktorú nepoužívate. [](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-Ak je Office stále bez platnej licencie, vráťte sa do **Control Panel** časti \> **programy a funkcie**ovládacieho panela. Kliknite pravým tlačidlom myši na zostávajúcu inštaláciu balíka Office, vyberte položku **Upraviť** (alebo zmeniť) a potom vyberte položku **online oprava**. Online oprava môže chvíľu trvať. Potom znova spustite balík Office a pri zobrazení výzvy sa prihláste pomocou pracovného alebo školského konta.
+Ak Office naďalej bez kurzu, vráťte sa do **ovládacieho** panela \> **Programy a súčasti.** Kliknite pravým tlačidlom myši na zostávajúcu Office, vyberte **položku Upraviť** (alebo Zmeniť) a potom vyberte položku **Online oprava.** Online oprava môže chvíľu trvať. Potom znova spustite balík Office a pri zobrazení výzvy sa prihláste pomocou pracovného alebo školského konta.
   
-Ak je Office stále bez platnej licencie, Stiahnite a spustite [poradcu pri riešení problémov s aktiváciou](https://aka.ms/SARA-OfficeActivation-Alchemy) v dotknutom zariadení, aby sa opravili problémy s aktiváciou.
+Ak Office naďalej bez licencie, stiahnite si ho [](https://aka.ms/SARA-OfficeActivation-Alchemy) a potom v zariadení s aktiváciou spustite Poradcu pri riešení problémov s aktiváciou a vyriešte problémy s aktiváciou.
   
-Ďalšie informácie nájdete v téme: [chyby produktu bez platnej licencie a chyby aktivácie v Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Ďalšie informácie nájdete v téme: [Chyba produktu bez licencie a chyba aktivácie v Office.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

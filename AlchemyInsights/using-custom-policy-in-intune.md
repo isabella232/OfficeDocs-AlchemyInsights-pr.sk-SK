@@ -1,5 +1,5 @@
 ---
-title: Používanie vlastných profilov v službe Intune
+title: Používanie vlastných profilov v Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971102"
 ---
-# <a name="using-custom-policy-in-intune"></a>Používanie vlastnej politiky v službe Intune
+# <a name="using-custom-policy-in-intune"></a>Používanie vlastnej politiky v Intune
 
-Intune obsahuje množstvo vstavaných nastavení pre Android, iOS, macOS a zariadenia s Windowsom. Môžete tiež vytvoriť vlastný profil a potom nasadiť tieto vlastné nastavenia do svojich zariadení pomocou služby Intune. Vlastné profily sú navrhnuté tak, aby sa pridali nastavenia zariadenia a funkcie, ktoré nie sú vstavané do služby Intune.
+Služba Intune obsahuje mnoho vstavaných nastavení pre zariadenia so systémom Android, iOS, macOS Windows Androidom. Môžete tiež vytvoriť vlastný profil a potom nasadiť tieto vlastné nastavenia do svojich zariadení pomocou služby Intune. Vlastné profily sú navrhnuté tak, aby sa do intune pridávali nastavenia a funkcie zariadenia, ktoré nie sú vstavané.
 
-[Vlastné nastavenia pre zariadenia s Androidom v službe Intune](https://docs.microsoft.com/intune/custom-settings-android)
+[Vlastné nastavenia pre zariadenia s Androidom v intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Vlastné nastavenia pre podnikové zariadenia s Androidom v službe Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Vlastné nastavenia pre zariadenia s Androidom Enterprise v intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Vlastné nastavenia pre zariadenia so systémom iOS v službe Intune](https://docs.microsoft.com/intune/custom-settings-ios)
+[Vlastné nastavenia pre zariadenia so systémom iOS v intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Vlastné nastavenia pre zariadenia macOS v službe Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Vlastné nastavenia pre zariadenia so systémom macOS v intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Vlastné nastavenia zariadení s Windowsom 10 v službe Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Vlastné nastavenia pre Windows 10 zariadenia v Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Vlastné nastavenia pre Windows holografický pre podnikové zariadenia v službe Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Vlastné nastavenia pre Windows Holographic for Business zariadenia v Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
