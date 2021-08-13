@@ -1,5 +1,5 @@
 ---
-title: Reťazec Microsoft Edge User Agent String (pracovná plocha)
+title: Microsoft Edge agenta používateľa (počítačová aplikácia)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976016"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Reťazec Microsoft Edge User Agent String (pracovná plocha)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge agenta používateľa (počítačová aplikácia)
 
-Reťazce User Agent (UA) sa dajú použiť na zistenie, akú verziu konkrétneho prehliadača používate v určitom operačnom systéme. Podobne ako v iných prehliadačoch, Microsoft Edge obsahuje tieto informácie v hlavičke HTTP User-Agent (User-Agent) vždy, keď žiadosť vykoná na lokalite. Prehliadač – informácie o verzii môžete získať aj prostredníctvom JavaScriptu prostredníctvom dotazu na hodnotu "Navigator. userAgent".
+Reťazce agenta používateľa (UA) možno použiť na zistenie verzie konkrétneho prehliadača, ktorá sa používa v určitom operačnom systéme. Rovnako ako v iných prehliadačoch Microsoft Edge tieto informácie obsahuje do hlavičky HTTP agenta používateľa vždy, keď sa žiadosť o lokalitu vyžiada. Informácie o verzii prehliadača je možné získať aj cez JavaScript dotazom hodnoty navigator.userAgent.
 
-Odporúčame, aby weboví vývojári využívali funkciu detekcie funkcií vždy, keď je to možné, na zlepšenie údržby kódu, zníženie krehkosti kódu a vylúčenie rizika rozbitia kódu v prípade budúceho aktualizácie reťazcov UA.
+Odporúčame, aby weboví vývojári vždy, keď je to možné, mohli používať zisťovanie funkcií, a zlepšiť čitateľnosť kódu, znížiť si čitateľnosť kódu a eliminovať riziko prerušenia kódu v prípade budúcich aktualizácií reťazca UA.
 
-Ďalšie informácie nájdete v téme [Microsoft Edge User Agent String (Počítačová verzia)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Ďalšie informácie nájdete v téme [Microsoft Edge agenta používateľa (počítačová aplikácia).](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)

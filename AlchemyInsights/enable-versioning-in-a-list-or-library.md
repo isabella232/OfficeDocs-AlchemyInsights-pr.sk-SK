@@ -1,5 +1,5 @@
 ---
-title: Povolenie tvorby verzií v zozname alebo knižnici
+title: Povolenie verzií v zozname alebo knižnici
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: 82cdd41121d343ec25dc59cae38e3243fa0c74e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b91da1e856d694ee872159bd4534f88391ce4a4a79655537c3c69b1910d9b37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964576"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a>Zapnutie vytvárania verzií pre zoznam alebo knižnicu
+# <a name="enable-versioning-for-a-list-or-library"></a>Zapnutie verzie pre zoznam alebo knižnicu
 
-1. Prejdite na zoznam alebo knižnicu.
+1. Prejdite do zoznamu alebo knižnice.
     
-2. Kliknite na položku **Nastavenie**a potom na položku **Nastavenie knižnice** alebo **Nastavenie zoznamu**.
+2. Kliknite **Nastavenia** a potom kliknite na **položku Nastavenie knižnice** alebo Nastavenie **zoznamu**.
     
-3. Kliknite na položku **Nastavenie tvorby verzií**.
+3. Kliknite na **položku Nastavenie verzií.**
     
-4. Vyberte požadované nastavenia a potom kliknite na **tlačidlo OK**.
+4. Vyberte nastavenia, ktoré chcete použiť, a potom kliknite na tlačidlo **OK**.
     
 

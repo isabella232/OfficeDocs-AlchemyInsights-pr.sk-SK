@@ -1,5 +1,5 @@
 ---
-title: Nastavenia protokolu POP, IMAP a SMTP pre Outlook.com
+title: Nastavenia POP, IMAP a SMTP pre Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,25 +14,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983828"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Nastavenia protokolu POP, IMAP a SMTP pre Outlook.com
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Nastavenia POP, IMAP a SMTP pre Outlook.com
 
-Ak chcete pridať konto Outlook.com do poštovej aplikácie, ktorá podporuje protokoly POP alebo IMAP, tu sú nastavenia servera, ktoré budete potrebovať:
+Ak chcete pridať svoje konto Outlook.com do poštovej aplikácie, ktorá podporuje protokoly POP alebo IMAP, potrebujete tieto nastavenia servera:
   
-- **Názov servera IMAP:** Outlook.office365.com
+- **Názov servera IMAP:** outlook.office365.com
 - **Port IMAP:** 993
 - **Metóda šifrovania IMAP:** TLS
-- **Názov servera POP:** Outlook.office365.com  
-- **Port pop:** 995  
-- **Metóda šifrovania pop:** TLS  
-- **Názov servera SMTP:** SMTP.office365.com
+- **Názov servera POP:** outlook.office365.com  
+- **Port POP:** 995  
+- **Metóda šifrovania POP:** TLS  
+- **Názov servera SMTP:** smtp.office365.com
 - **Port SMTP:** 587
 - **Metóda šifrovania SMTP:** STARTTLS
 
-Ďalšie informácie o [pridaní konta Outlook.com do inej poštovej aplikácie alebo inteligentného zariadenia](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie o [pridaní konta Outlook.com do inej poštovej aplikácie alebo inteligentného zariadenia.](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)

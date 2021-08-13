@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 4d55866700b9b8494f1f692cd3b865116b96a1bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7085890d295cf0c41e11aaf18e404313413100cb8a1134bfac051d5fa26996
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926260"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skrytie skupiny v Microsoft 365 v zozname adries
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skrytie Microsoft 365 v zozname adries
 
-Ak chcete skryť skupinu Microsoft 365 v zoznamoch adries (GAL) klientov Exchange (ako je napríklad Outlook alebo OWA), použite nasledujúci príkaz v prostredí EXO shell:
+Ak chcete skryť Microsoft 365 v zoznamoch adries (GAL) klientov Exchange (napríklad Outlook alebo OWA), použite nasledujúci príkaz v rámci prostredia EXO:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Ak chcete skryť skupinu v Microsoft 365 pred jej viditeľnením pre klientov Exchangeu, použite v prostredí EXO tento príkaz:
+Ak chcete skryť Microsoft 365, aby sa skupina Exchange klientom, použite nasledujúci príkaz v shellu EXO:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

@@ -1,5 +1,5 @@
 ---
-title: Dôkazy o Outlook.com MSA
+title: Outlook.com – korektúry pre MSA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983972"
 ---
 # <a name="security-info-and-security-codes"></a>Bezpečnostné informácie a bezpečnostné kódy
 
 Pridanie bezpečnostných informácií do konta Microsoft:
 
-1. Prihláste sa do [Základy zabezpečenia](https://account.microsoft.com/security) s kontom Microsoft.
-1. Vyberte položku **kontaktné informácie o zabezpečení**.
-1. Vyberte položku **Pridať bezpečnostné informácie** a postupujte podľa pokynov na zadanie telefónneho čísla alebo e-mailovej adresy.
-1. Dostanete bezpečnostný kód na toto telefónne číslo alebo e-mailovú adresu. Zadajte bezpečnostný kód, ktorý ste dostali v okne **Pridanie informácií o zabezpečení** , a vyberte položku **ďalej**.
+1. Prihláste sa [do časti Základy zabezpečenia](https://account.microsoft.com/security) pomocou konta Microsoft.
+1. Vyberte **položku Kontaktné informácie zabezpečenia.**
+1. Vyberte **položku Pridať informácie o** zabezpečení a podľa pokynov zadajte telefónne číslo alebo e-mailovú adresu.
+1. Na toto telefónne číslo alebo e-mailovú adresu dostanete bezpečnostný kód. Zadajte bezpečnostný kód, ktorý ste dostali, v **okne Pridanie bezpečnostných informácií** a vyberte **položku Ďalej**.
 
-Ak chcete odstrániť telefónne číslo alebo e-mailovú adresu, vyberte položku **odstrániť** vedľa nej.
+Ak chcete odstrániť telefónne číslo alebo e-mailovú adresu, vyberte **vedľa** nej položku Odstrániť.
 
-Ak chcete zmeniť, ktoré telefónne číslo alebo e-mailová adresa prijíma upozornenia zabezpečenia, vyberte položku **zmeniť možnosti upozornení**.
+Ak chcete zmeniť telefónne číslo alebo e-mailovú adresu, na ktorú sa budú prijímať upozornenia zabezpečenia, vyberte **položku Zmeniť možnosti upozornení**.
 
-Ďalšie informácie nájdete v téme [informácie o zabezpečení konta Microsoft a overovacie kódy](https://support.microsoft.com/help/12428/).
+Ďalšie informácie nájdete v článku [Bezpečnostné informácie a overovacie kódy konta Microsoft.](https://support.microsoft.com/help/12428/)
