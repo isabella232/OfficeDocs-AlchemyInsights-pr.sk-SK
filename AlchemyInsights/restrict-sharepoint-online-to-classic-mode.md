@@ -1,5 +1,5 @@
 ---
-title: Obmedziť SharePoint Online na klasický režim
+title: Obmedziť SharePoint online na klasický režim
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958816"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Obmedziť SharePoint Online na klasický režim
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Obmedziť SharePoint online na klasický režim
 
-Niektoré organizácie vyžadujú klasické používanie režimu. Hoci neexistujú žiadne plány na odstránenie klasického režimu na úrovni zrnitosti, už nie je možné obmedziť celú organizáciu (nájomníka) na klasický režim pre zoznamy a knižnice.
+Niektoré organizácie stále vyžadujú klasický režim. Hoci na podrobnej úrovni neexistujú žiadne plány na odstránenie klasického režimu, nie je možné obmedziť režim celej organizácie (nájomníka) na klasický režim pre zoznamy a knižnice.
 
-Správca bude mať k dispozícii nasledujúce možnosti na spravovanie jednotlivých zoznamov a knižníc v klasickom režime pomocou granulovaných prepínačov opt-out, ktoré poskytujeme na nasledujúcich úrovniach:
+Správca bude mať k dispozícii nasledujúce možnosti na spravovanie jednotlivých zoznamov a knižníc v klasickom režime pomocou granulárneho prepínača explicitných nesúhlasov, ktoré poskytujeme na nasledujúcich úrovniach:
 
 - kolekcia lokalít
-- stránky
-- zoznamu
-- Knižnica
+- lokalita
+- zoznam
+- knižnica
 
-Okrem toho zoznamy, ktoré používajú určité funkcie a prispôsobenia, ktoré nie sú podporované modernými, budú automaticky prepnutý do klasického režimu.
+Zoznamy, ktoré používajú niektoré funkcie a prispôsobenia, ktoré nie sú podporované modernými zariadeniami, sa navyše automaticky prepnú na klasický režim.
 
-Začiatok apríla 1, 2019, proces vypnutia úrovne nájomníka opt out of Modern zoznam a knižnice sa spustí a pokračuje až do 31. mája 2019.  Zoznamy a knižnice, ktoré sa nachádzajú v klasickom režime ako výsledok opt-out nájomníka, sa automaticky presunú do modernej.
+Od 1. apríla 2019 sa proces vypnutia moderného zoznamu a knižníc na úrovni nájomníka začne a bude pokračovať až do 31. mája 2019.  Zoznamy a knižnice, ktoré sú v klasickom režime ako výsledok odhlásenie nájomníka, sa automaticky presunú do moderného režimu.
 
-Ak potrebujete klasický režim, prečítajte [si tu ďalšie informácie a](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) [v tomto článku](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) nájdete informácie o možnostiach a nástrojoch, ktoré môžete použiť na používanie klasického režimu.
+Ak potrebujete klasický režim, [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) pozrite si ďalšie informácie [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) tu a pokyny pre prostredie PowerShell pre PnP tu popisujú možnosti a nástroje, ktoré môžete v súčasnosti použiť na používanie klasického režimu.

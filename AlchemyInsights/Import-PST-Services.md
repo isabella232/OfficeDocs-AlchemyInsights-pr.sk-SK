@@ -14,14 +14,14 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918446"
 ---
-# <a name="microsoft-365-import-service"></a>Služba Microsoft 365 Import
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Importovanie služby
 
 Ak chcete získať prístup k službe importovania a spustiť proces importovania:
 
@@ -31,11 +31,11 @@ Ak chcete získať prístup k službe importovania a spustiť proces importovani
 
 1. Na stránke **Import** vyberte položku Nová **úloha importu**. Zadajte názov pracovnej miesta a vyberte položku **Ďalej**.
 
-1. Ak **chcete použiť možnosť sieťového** nahrávania pre položku Importovať typ úlohy, vyberte položku **Nahrať údaje.** Podrobný postup nájdete v téme [Importovanie súborov PST organizácie do služby Microsoft 365 pomocou sieťového nahrávania.](/compliance/use-network-upload-to-import-pst-files)
+1. Ak **chcete použiť možnosť sieťového** nahrávania pre položku Importovať typ úlohy, vyberte položku **Nahrať údaje.** Podrobný postup nájdete v téme Importovanie súborov PST organizácie do organizácie pomocou [sieťového Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
 Ak chcete získať prístup k stránke **Import,** uistite sa, že máte priradené príslušné povolenia. Ďalšie informácie nájdete v téme [Importovanie PST súborov pomocou sieťového nahrávania.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Ak chcete importovať súbor PST do poštovej schránky, pozrite si časť [Importovanie e-mailov, kontaktov](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)a kalendára z outlookového .pst súboru.
+Ak chcete importovať súbor PST do poštovej schránky, pozrite si časť [Importovanie e-mailov, kontaktov](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)a kalendára z Outlook .pst.
 
 Ak máte problém s importom, pozrite si časť Problémy, ktoré [majú vplyv na úlohy importu PST.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

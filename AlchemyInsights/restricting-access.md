@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7769"
-ms.openlocfilehash: 8af9546f219474e2382cd2436470385bf3ad31e8
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 98057b8e34cad19e2118f470dbeacdc8a7e78d9bc941e7f6565743201a541b56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958672"
 ---
 # <a name="restricting-access"></a>Obmedzenie prístupu
 
-1. Informácie o tom, ako obmedziť prístup k aplikácii, nájdete [v téme ako na to: obmedzenie aplikácie Azure AD na množinu používateľov v nájomníkovi služby Azure AD](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users).
-1. Zistite, ako skontrolovať a spravovať povolenia aplikácií. [Vykonanie akcie s neprivilegovanými alebo podozrivými aplikáciami v službe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) poskytuje rôzne akcie, ktoré môžete vykonať na zabezpečenie vašej aplikácie podľa scenára. Tieto akcie sa použijú na všetky aplikácie, ktoré boli pridané do nájomníka služieb Azure Active Directory (Azure AD) prostredníctvom súhlasu používateľa alebo správcu.
-1. [Správa používateľských priradení aplikácie v službe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) vám ukáže, ako priradiť používateľov a skupiny k podnikovým aplikáciám v službe Azure Active Directory (Azure AD), a to buď z portálu Azure alebo pomocou prostredia PowerShell. Pri priradení používateľa k aplikácii sa aplikácia zobrazí v časti Moje aplikácie používateľa, aby ste mali jednoduchý prístup. Ak aplikácia vystavuje roly, môžete tiež priradiť konkrétnu rolu používateľovi.
-    - Ďalšie informácie o priradení používateľov a skupín nájdete v téme [podmienený prístup: používatelia a skupiny](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-users-groups).
+1. Informácie o tom, ako obmedziť prístup k aplikácii, nájdete v téme Postup: Obmedzenie aplikácie Azure AD na množinu používateľov v [nájomníkovi služby Azure AD.](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users)
+1. Zistite, ako skontrolovať a spravovať povolenia aplikácií. [V prípade nadmerne prenesených](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) alebo podozrivých aplikácií Azure Active Directory k dispozícii sú rôzne akcie, ktoré môžete urobiť na zabezpečenie svojej aplikácie podľa scenára. Tieto akcie sa vzťahujú na všetky aplikácie, ktoré boli pridané do vášho Azure Active Directory (Azure AD) prostredníctvom súhlasu používateľa alebo správcu.
+1. [V službe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) môžete spravovať priradenie používateľov k aplikácii, ako priradiť používateľov a skupiny do podnikových aplikácií v službe Azure Active Directory (Azure AD) buď z portálu Azure, alebo pomocou prostredia PowerShell. Po priradení používateľa k aplikácii sa aplikácia zobrazí v časti Moje aplikácie používateľa, kde k nim budete mať jednoduchý prístup. Ak aplikácia vystaví roly, môžete používateľovi priradiť aj konkrétnu rolu.
+    - Ďalšie informácie o priradení používateľov a skupín nájdete v téme [Podmienený prístup: Používatelia a skupiny.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-users-groups)

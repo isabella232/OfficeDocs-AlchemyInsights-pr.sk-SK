@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 80e8cc72db8ae32445d48e5c8a411d5ccd538626653260b3dbd28a247561e888
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975116"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Monitorovanie podmieneného prístupu pre Exchange
 
-Používatelia s podmieneným prístupom budú dostávať e-maily s upozornením, ak nespĺňajú požiadavky na prístup vašej organizácie. Ak chcete vyriešiť, odporúčame niektoré z týchto riešení:
+Ak používatelia zameraní na podmienený prístup nespĺňajú požiadavky vašej organizácie na prístup, dostanú e-mailové oznámenie. Na vyriešenie tohto problému odporúčame jedno alebo viacero z nasledujúcich riešení:
 
-- Ak sa predpokladá, že zariadenie je zaregistrované, odporúča sa používateľovi prejsť na aplikáciu firemný portál a overiť, či sa zobrazuje na firemnom portáli. Ak to tak nie je, používateľ by mal zariadenie zaregistrovať.
-- Na portáli Azure prejdite do služby Intune > súladu zariadenia. V časti monitor kliknite na položku súlad zariadenia. Ak chcete overiť, či je zariadenie používateľa označené ako vyhovujúce, pozrite si zostavu súladu zariadenia.
-- Na portáli Azure prejdite do služby Intune > súladu zariadenia. V časti Spravovať kliknite na položku politiky. V zozname politík dodržiavania súladu Skontrolujte, či je profil priradený k zariadeniu používateľa. Ak nie je priradený žiadny profil, služby Intune nebudú môcť potvrdiť stav súladu zariadenia.
+- Ak by malo byť zariadenia zaregistrované, poraďte používateľovi, aby Company Portal aplikácie a overil, či sa zariadenie zobrazí v Company Portal. Ak sa tak stane, používateľ by mal zariadenie zaregistrovať.
+- Na portáli Azure prejdite na položku Intune > Súlad zariadení. V časti Monitorovať kliknite na položku Súlad zariadení. Pozrite si hlásenie o dodržiavaní súladu zariadenia a overte, či je zariadenie používateľa označené ako kompatibilné.
+- Na portáli Azure prejdite na položku Intune > Súlad zariadení. V časti Správa kliknite na položku Politiky. V zozname politík dodržiavania súladu overte, či je k zariadeniu používateľa priradený profil. Ak nie je priradený žiadny profil, služba Intune nebude môcť potvrdiť súlad zariadenia.
 - Upravte priradenie podmieneného prístupu používateľa.
 
-1. Na portáli Azure prejdite na   >  **politiky podmieneného prístupu** služby Intune  >  .
-2. Zo zoznamu vyberte politiku.
+1. Na portáli Azure prejdite na službu **Intune**  >  **– politiky podmieneného**  >  **prístupu.**
+2. Vyberte politiku zo zoznamu.
 3. Kliknite na položku Používatelia a skupiny.
-4. Ak chcete určitú politiku zacieliť na inú osobu, pridajte ich do zoznamu zahrnúť. Ak chcete zabezpečiť, aby bola osoba z politiky vynechaná, pridajte ju do zoznamu výnimiek.
+4. Ak chcete na niekoho zacieliť určitú politiku, pridajte ho do zoznamu Zahrnúť. Ak chcete zabezpečiť, aby sa osoba v politike nezanechá, pridajte ju do zoznamu Vylúčiť.
 
 Užitočné prepojenia:
 
-[Prehľad súladu zariadenia](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Prehľad súladu zariadení](https://docs.microsoft.com/intune/device-compliance-get-started)
 
 [Riešenie problémov s certifikačnou autoritou](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
 [Politika riešenia problémov](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-[Sledovanie dodržiavania súladu zariadenia Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+[Monitorovanie dodržiavania súladu zariadení so intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Poznámka: tieto kroky sú užitočné len pri riešení problémov s podmieneným prístupom funkcie Azure Active Directory. Je tiež možné do karantény zablokovať zariadenie, ktoré blokuje prístup k e-mailu pomocou politiky Exchange. Ďalšie informácie o spravovaní zariadení s Exchangeom nájdete v téme [tu] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
+Poznámka: Tieto kroky sú užitočné len pri riešení problémov Azure Active Directory podmieneného prístupu. K dispozícii je tiež možnosť umiestniť do karantény prístup zariadenia blokujúcemu e-mail s Exchange politiky. Ďalšie informácie o Exchange zariadení nájdete na stránke [tu]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
