@@ -1,5 +1,5 @@
 ---
-title: Chyba pri prihlasovaní zo služby Intune Insider
+title: Prihlásenie k chybe v Intune Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925936"
 ---
-# <a name="intune-insider-bug-filing"></a>Chyba pri prihlasovaní zo služby Intune Insider
+# <a name="intune-insider-bug-filing"></a>Prihlásenie k chybe v Intune Insider
 
-Ďakujeme za váš záujem o insiderov v programe Intune. Ak ste už na palube insiderov programu Intune a potrebujete podať žiadosť o technickú podporu, potom:
+Ďakujeme za váš záujem o program Intune Insiders. Ak ste už boli k dispozícii pre program Intune Insiders a potrebujete žiadosť o podporu, potom:
 
-1. Opíšte problém vo vyššie uvedenom poli.
-2. Pomocou možností nižšie vytvorte novú žiadosť o službu.
+1. Popíšte svoj problém vo vyššie uvedenom poli.
+2. Vytvorte novú žiadosť o službu pomocou možností uvedených nižšie.
 
-Pracovník technickej podpory služby Intune vás bude kontaktovať.
+Bude vás kontaktovať tím technickej podpory služby Intune.
 
-Ak nie ste v programe Insider Insiders, Ďakujeme za váš záujem. Momentálne nie sme nábor nových účastníkov.
+Ak nie ste v programe Intune Insiders, ďakujeme za váš záujem. Momentálne prebieha nábor nových účastníkov.

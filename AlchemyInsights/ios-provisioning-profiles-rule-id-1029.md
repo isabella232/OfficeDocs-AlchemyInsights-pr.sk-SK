@@ -1,5 +1,5 @@
 ---
-title: Pravidlá poskytovania profilov v systéme iOS ID 1029
+title: iOS Provisioning Profiles Rule Id 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925720"
 ---
-# <a name="ios-provisioning-profiles"></a>Profily poskytovania systému iOS
+# <a name="ios-provisioning-profiles"></a>Profily poskytovania pre iOS
 
-Apple iOS – podnik používa koncept zriaďovacieho profilu, ktorý sa používa na overenie integrity aplikácie a presadzovanie politík definovaných v profile. Tieto zriaďovacie profily uplynú po 12 mesiacoch a preto musí byť nový profil priradený k nasadenej aplikácii, aby boli aplikácie naďalej spustené.
+Riadok podniku v systéme Apple iOS používa koncept profilu poskytovania, ktorý sa používa na overenie integrity aplikácie a na vynútenie politík definovaných v profile. Platnosť týchto profilov poskytovania uplynie po 12 mesiacoch, takže nový profil musí byť priradený k nasadenej aplikácii, aby sa aplikácie mohli naďalej spúšťať.
   
-Nasledujúci článok popisuje, ako vytvoriť priradenie nového profilu zabezpečenia s aplikáciou LOB v systéme iOS nasadením prostredníctvom služby Intune: [použitie profilov na poskytovanie aplikácií pre iOS na zabránenie uplynutia platnosti aplikácií](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+V nasledujúcom článku je popísané, ako vytvoriť priradenie nového profilu poskytovania k aplikácii iOS LOB nasadeným prostredníctvom služby Intune: Použitie profilov poskytovania aplikácií pre [iOS](https://docs.microsoft.com/intune/app-provisioning-profile-ios) na zabránenie uplynutia platnosti aplikácií
   

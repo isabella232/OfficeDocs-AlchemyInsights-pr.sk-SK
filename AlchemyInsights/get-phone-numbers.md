@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: 29b216c18b99f451d438c347dea670c712083a81
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 668a5676cd9fe143facf7da8bccc8a1fe8f1a626469ca00c192853afada440ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964468"
 ---
 # <a name="get-phone-numbers"></a>Získanie telefónnych čísel
 

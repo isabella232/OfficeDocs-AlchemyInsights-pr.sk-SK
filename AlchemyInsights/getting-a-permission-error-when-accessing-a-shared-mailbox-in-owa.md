@@ -1,5 +1,5 @@
 ---
-title: 124 získanie chyby povolenia pri prístupe k zdieľanej poštovej schránke v aplikácii OWA?
+title: 124 Zobrazuje sa vám pri prístupe k zdieľanej poštovej schránke v aplikácii OWA chyba povolenia?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913514"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Zobrazuje sa chyba povolenia pri otváraní zdieľanej poštovej schránky v Outlooku na webe?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Zobrazuje sa vám pri otváraní zdieľanej poštovej schránky vo Outlook na webe?
 
-Ak sa zobrazí chyba, vyskytla sa chyba **. Nemáte povolenie na otvorenie tejto poštovej schránky.** pri pokuse o otvorenie zdieľanej poštovej schránky v Outlooku na webe môže vaše konto mať povolenie na prístup k zdieľanej poštovej schránke. Správca vašej organizácie môže priradiť povolenia konta k zdieľanej poštovej schránke podľa pokynov uvedených v téme [vytvorenie zdieľanej poštovej schránky](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Ak sa zobrazí chybové hlásenie **Vyskytla sa chyba. Nemáte povolenie na otvorenie tejto poštovej schránky.** Keď sa pokúsite otvoriť zdieľanú poštovú schránku vo Outlook na webe, vaše konto pravdepodobne nemá povolenie na prístup k zdieľanej poštovej schránke. Správca vašej organizácie môže priradiť povolenia pre konto k zdieľanej poštovej schránke podľa pokynov v téme [Vytvorenie zdieľanej poštovej schránky.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
   

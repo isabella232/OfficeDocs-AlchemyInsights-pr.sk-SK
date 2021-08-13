@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: 3b8ea1ac6922ceab57b94f51cd8dabd60caf0984
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: c4d65e0d12bd730b841ae61fd12c73aa9b60ff5431df8b3aadc9c5cead6d71f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954059"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936540"
 ---
 # <a name="add-a-member-to-teams"></a>Pridanie člena do Teams
 
