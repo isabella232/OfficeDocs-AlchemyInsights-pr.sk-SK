@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004332"
 - "7728"
-ms.openlocfilehash: 7296a0f170d56b705ccf3173ba0636cb1942924a
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: cc28fdacdd7261c96eaf7224ea27f215a828c059dafdb01085434d06551c6e0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954424"
 ---
 # <a name="adding-or-creating-an-application"></a>Pridanie alebo vytvorenie aplikácie
 
-- Rýchly štart [: Pridanie aplikácie do nájomníka služby Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) vám ukáže, ako pridať aplikáciu do nájomníka služby Azure AD.
-- [Kurz: Pridanie lokálnej aplikácie na vzdialený prístup prostredníctvom servera proxy aplikácie v službe Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) vám ukáže, ako pripraviť prostredie na použitie so serverom proxy aplikácie. Keď je vaše prostredie pripravené, na Pridanie lokálnej aplikácie do nájomníka služby Azure AD sa použije portál Azure.
-- Na pomoc pri integrácii aplikácií pomocou služby Azure Active Directory sme vytvorili [kolekciu kurzov](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) , ktoré vás prevedie konfiguráciou.
+- [Rýchly štart: Pridanie aplikácie do nájomníka služby Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) vám ukáže, ako pridať aplikáciu do nájomníka služby Azure AD.
+- [Kurz: Pridanie lokálnej](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) aplikácie na vzdialený prístup prostredníctvom aplikačného servera proxy v Azure Active Directory vám ukáže, ako pripraviť prostredie na používanie s aplikačným serverom proxy. Keď bude prostredie pripravené, na pridanie lokálnej aplikácie do nájomníka služby Azure AD budete používať portál Azure.
+- S cieľom integrovať vaše aplikácie so servermi Azure Active Directory sme vytvorili [kolekciu](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) kurzov, ktoré vás presťujú konfiguráciou.

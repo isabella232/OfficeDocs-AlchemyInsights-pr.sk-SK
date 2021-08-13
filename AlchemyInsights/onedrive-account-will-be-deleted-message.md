@@ -1,5 +1,5 @@
 ---
-title: Správa konta OneDrive sa odstráni
+title: Hlásenie OneDrive kontom sa odstráni
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: b8e1a4617dc2560b5255b530c121324c5cfb4c1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a77fa39829a550935882f05ea174f9c9be942b074183aaef9c0e464c94cfb4ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985160"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Hlásenie "konto OneDrive sa odstráni"
+# <a name="onedrive-account-will-be-deleted-message"></a>Hlásenie OneDrive odstránené konto
 
-Ak ste dostali e-mail od email@mail.onedrive.com s upozornením, že "vaše konto OneDrive sa odstráni", Upozorňujeme, že toto je vaše osobné konto OneDrive.com, nie vaše konto OneDrive for Business. 
+Ak ste prostredníctvom e-mailu email@mail.onedrive.com upozorňujúce, že konto OneDrive sa odstráni, upozorňujeme, že toto je vaše osobné konto OneDrive.com, nie vaše OneDrive for Business konto. 
   
-Ak si nie ste istí, či používate osobnú službu OneDrive, prihláste sa do onedrive.com na opätovnú aktiváciu a kontrolu konta.
+Ak si nie ste istí, či používate osobné konto OneDrive, prihláste sa onedrive.com a znova aktivujte a skontrolujte svoje konto.
   
-Ďalšie informácie nájdete v téme [Prečo sa mi zobrazil e-mail s informáciou o tom, že vaše konto sa odstráni?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Ďalšie informácie nájdete v téme [Prečo sa mi došla e-mailová správa o odstránení konta?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

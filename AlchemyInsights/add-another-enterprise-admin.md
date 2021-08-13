@@ -1,5 +1,5 @@
 ---
-title: Pridanie ďalšieho podnikového správcu – Odporúčané kroky
+title: Pridanie ďalšieho správcu podniku – odporúčané kroky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954706"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Pridanie ďalšieho podnikového správcu – Odporúčané kroky
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Pridanie ďalšieho správcu podniku – odporúčané kroky
 
-Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
+Na základe popisu vášho problému sme pre vás našli riešenie. Väčšina zákazníkov sa po na základe dokumentácie dokázala problém vyriešiť sama.
 
-V podnikovej registrácii môžete mať viacerých podnikových správcov.
+V registrácii podniku môžete mať viacerých podnikových správcov.
 
-**Ak chcete pridať ďalšieho správcu podniku:**
+**Pridanie ďalšieho správcu podniku:**
 
-1. Prihláste sa na [portál Azure Enterprise Portal](https://ea.azure.com/).
-1. Prejdite na **správu**  >  **podrobností o registrácii**.
-1. Kliknite na položku **+ pridať správcu** v pravom hornom rohu.
-1. Ak chcete získať prístup iba na čítanie, nastavte možnosť Read-Only na možnosť **Áno** a potom vyberte položku **Pridať**.
+1. Prihláste sa na [portál Azure Enterprise.](https://ea.azure.com/)
+1. Prejdite na **položku**  >  **Spravovať podrobnosti o registrácii.**
+1. Kliknite **na položku + Pridať** správcu v pravom hornom rohu.
+1. Ak chcete prístup iba na čítanie, nastavte Read-Only možnosť **Áno a** potom vyberte položku **Pridať**.
 
-Uistite sa, že máte e-mailovú adresu používateľa a preferovaný spôsob overovania, ako je napríklad práca, škola alebo konto Microsoft. Ak nie ste správcom podniku, obráťte sa na správcu podniku a požiadajte ho, aby vás pridal do registrácie. Noví správcovia dodajú len existujúci správcovia. Po pridaní k registrácii dostanete aktivačný e-mail.
+Skontrolujte, či máte e-mailovú adresu používateľa a preferovaný spôsob overovania, ako je napríklad pracovné, školské alebo konto Microsoft. Ak nie ste podnikovým správcom, obráťte sa na správcu podniku a požiadajte ho o pridanie do registrácie. Nových správcov pridávajú len existujúci správcovia. Po pridaní do registrácie dostanete e-mail o aktivácii.
 
-**Ak chcete pridať správcu oddelenia:**
+**Pridanie správcu oddelenia:**
 
-Po vytvorení oddelenia pomocou správcu služby Azure EA môže správca podnikovej siete pridať správcov oddelenia a priradiť ich každému oddeleniu. Pre každú podnikovú registráciu môžete mať viacero správcov oddelení.
+Keď správca SLUŽBY Azure EA vytvorí oddelenie, správca Azure Enterprise môže pridať správcov oddelení a priradiť ich k niektorému z oddelení. Pre každú registráciu podniku môžete mať viacerých správcov oddelení.
 
-1. Prihláste sa na [portál Azure Enterprise Portal](https://ea.azure.com/).
-1. Prejdite na kartu **Spravovať**  >  **oddelenie** a potom vyberte oddelenie.
-1. Vyberte položku **+ pridať správcu** a pridajte požadované informácie.
-1. Ak chcete získať prístup iba na čítanie, nastavte možnosť Read-Only na možnosť **Áno** a potom vyberte položku **Pridať**.
+1. Prihláste sa na [portál Azure Enterprise.](https://ea.azure.com/)
+1. Prejdite na **kartu**  >  **Správa** oddelenia a potom vyberte oddelenie.
+1. Vyberte **položku + Pridať správcu** a pridajte požadované informácie.
+1. Ak chcete prístup iba na čítanie, nastavte Read-Only možnosť **Áno a** potom vyberte položku **Pridať**.
 
-**Postup pri aktualizácii alebo odstránení správcu:**
+**Aktualizácia alebo odstránenie správcu:**
 
-1. Ukážte kurzorom na položku Správca EA a kliknite na modrú ikonu **X** .
-1. Skontrolujte, či je vybratý požadovaný správca a kliknite na tlačidlo **Áno**.
+1. Ukážte na správcu EA, ktorý sa má odstrániť, a kliknite na modrú **ikonu X.**
+1. Potvrďte výber požadovaného správcu a kliknite na tlačidlo **Áno.**
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
-- [Informácie o administratívnej úlohe v službe Azure Enterprise Agreement v službe Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Informácie o rolách zmluva Enterprise Azure v službe Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
 - [Správa portálu Azure EA](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)

@@ -1,5 +1,5 @@
 ---
-title: Pridanie alebo spravovanie minút na verejnú telekomunikačnú sieť pre Skype alebo Teams
+title: Pridanie alebo spravovanie minút na verejnej telekomunikačnej Skype alebo Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 3800e5bb4aaf614ef39dfdb72bdb973bfa9a1568
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ab1428030cba96bcb016ace9a89e53ae86495e0404bb2ca5f0ee4e4a11755a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954460"
 ---
-# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Pridanie alebo spravovanie minút na verejnú telekomunikačnú sieť pre Skype alebo Teams
+# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Pridanie alebo spravovanie minút na verejnej telekomunikačnej Skype alebo Teams
 
-Ak ste dostali upozornenie, že minúty na volanie cez Skype alebo do služby Teams sa takmer použili, pozrite si, ako pridať prostriedky a spravovať kredity na komunikáciu [pre nájomníka.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+Ak sa vám zobrazí upozornenie, že vaše Skype alebo Teams minúty sa takmer používajú, pozrite si, ako pridať prostriedky a spravovať kredity na komunikáciu [pre nájomníka.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)

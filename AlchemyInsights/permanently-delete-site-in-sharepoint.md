@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "5200006"
 - "4391"
-ms.openlocfilehash: 263317339d965d173a5a038fa006e0ce6f8476cc
-ms.sourcegitcommit: da04e79b6072321caa16a6ceea6eb5f15de22394
-ms.translationtype: HT
+ms.openlocfilehash: f461963c4a5719957258349d667731231023721ab3ee4641538c94371bf3f56d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42955238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944326"
 ---
 # <a name="permanently-delete-a-site-in-sharepoint"></a>Trvalé odstránenie lokality v SharePointe
 

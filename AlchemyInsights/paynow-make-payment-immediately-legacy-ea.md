@@ -1,5 +1,5 @@
 ---
-title: PayNow/uskutočnite platbu okamžite
+title: ZaplatiťNow/Vykonať platbu okamžite
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944434"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/uskutočnite platbu okamžite
+# <a name="paynowmake-payment-immediately"></a>ZaplatiťNow/Vykonať platbu okamžite
 
-Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
+Na základe popisu vášho problému sme pre vás našli riešenie. Väčšina zákazníkov sa po na základe dokumentácie dokázala problém vyriešiť sama.
 
-V prípade predplatného Azure Enterprise Agreement sa nepodporuje spôsob pridávania alebo aktualizácie alebo zmeny spôsobu úhrady. Ak chcete zmeniť adresu na existujúcej faktúre, obráťte sa na zástupcu spoločnosti Microsoft.
+V prípade predplatného zmluvy Enterprise so službou Azure nie je podporovaný spôsob pridania, aktualizácie alebo zmeny spôsobu úhrady. Ak chcete zmeniť adresu na existujúcej faktúre, obráťte sa na zástupcu spoločnosti Microsoft.
 
-Ak chcete použiť zálohu služby Azure na vyrovnanie faktúr za spotrebu Azure a/alebo nákupy, obráťte sa na oddelenie technickej podpory. Všimnite si, že poplatky účtované oddelene a služby Marketplace nie je možné vyrovnať s platbou služby Azure. Pri nepriamej registrácii zabezpečte, aby boli Vaši partneri informovaní o potenciálnych vplyvoch na faktúry. Pri priamych zákazníkoch budete chcieť, aby váš Bill-To kontakt informoval.
+Ak chcete použiť službu Azure Prepayment na fakturáciu za spotrebu alebo nákupy v Azure, obráťte sa na oddelenie podpory. Všimnite si, že služby Poplatky fakturované samostatne a Marketplace nie je možné vyvážiť so službou Azure Prepayment. V prípade nepriamej registrácie sa uistite, že vaši partneri sú informovaní o potenciálnom vplyve na faktúry. V prípade priamych zákazníkov môžete svoj kontakt Bill-To informovaní.
 
 **Odporučené dokumenty**
 
-- [Platba za platbu prostredníctvom služby Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Zaplatenie nadmerne zaplatenou službou Azure Prepayment](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
