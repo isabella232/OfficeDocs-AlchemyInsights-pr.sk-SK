@@ -12,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6868d8238aa376cace020950490de22ea0fc26d05b8308bfc4d9e5f1fc992bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977672"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externý používateľ nemôže získať prístup k obsahu SharePointu alebo OneDrivu
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externý používateľ nemôže získať prístup SharePoint k OneDrive obsahu
 
-Ak bol externý používateľ pozvaný a nie je schopný získať prístup k obsahu, skúste navštíviť nižšie zobrazené prepojenia:
+Ak bol pozvaný externý používateľ a nemá prístup k obsahu, skúste použiť nasledujúce prepojenia:
 
-- [Externí používatelia dostanú chyby povolení pri prístupe na lokalitu](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Pri zdieľaní položky alebo lokality v SharePointe Online alebo vo OneDrive for Business vám politiky vašej organizácie neumožňujú zdieľať s týmito používateľmi](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Možnosti zdieľania sú v prípade zdieľania zo služby SharePoint Online alebo OneDrivu sivé](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Externí používatelia pri prístupe k lokalite dostávajú chyby povolení](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [Chyba Politiky vašej organizácie nepovoľujú zdieľanie s týmito používateľmi pri zdieľaní položky alebo lokality v službe SharePoint Online alebo OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Možnosti zdieľania sú pri zdieľaní zo služby SharePoint Online alebo OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948178"
 ---
 # <a name="delete-a-site"></a>Odstránenie lokality
 
-Po odstránení lokality sa presunie na odstránené lokality a zachová sa počas 93 dní. Ak chcete odstrániť lokalitu, prejdite na položku [aktívne lokality](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Keď odstránite lokalitu, premiestni sa na odstránené lokality a uchová sa na 93 dní. Ak chcete lokalitu odstrániť, prejdite na položku [Aktívne lokality.](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
 
-Po odstránení lokality sa všetko v nej odstráni vrátane týchto:
+Pri odstránení lokality sa odstráni všetko, čo je v nej, vrátane týchto:
 
 - Knižnice dokumentov a súbory.
 - Zoznamy a údaje zoznamu.
-- Nastavenie lokality a História.
-- Všetky podlokality a ich obsah.
+- Nastavenia a história lokality.
+- Všetky podlokalky a ich obsah.
 
-Pred odstránením lokality by ste mali informovať správcov lokality a všetkých vlastníkov podlokalít, aby mohli presúvať svoje údaje do iného umiestnenia a tiež informovať používateľov o odstránení lokalít.
+Pred odstránením lokality by ste mali upozorniť správcov lokality a všetkých vlastníkov podlokal sietí, aby mohli premiestniť svoje údaje do iného umiestnenia a informovať používateľov o tom, kedy sa lokality odstránia.
 
-Ďalšie informácie nájdete v téme [Odstránenie lokality](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Ďalšie informácie nájdete v [téme Odstránenie lokality.](https://docs.microsoft.com/sharepoint/delete-site-collection)

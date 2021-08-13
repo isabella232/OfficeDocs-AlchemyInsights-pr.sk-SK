@@ -1,5 +1,5 @@
 ---
-title: Synchronizácia používateľských profilov SharePointu Online
+title: SharePoint Synchronizácia používateľského profilu online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957484"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>Synchronizácia používateľských profilov SharePointu Online
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Synchronizácia používateľského profilu online
 
-Microsoft SharePoint používa úlohu synchronizácie služby Active Directory na importovanie informácií o atribútoch používateľov a skupín do aplikácie používateľského profilu (UPA).Ďalšie informácie nájdete v článku nižšie.
+Microsoft SharePoint používa úlohu synchronizácie služby Active Directory na import informácií o atribútoch používateľov a skupín do aplikácie používateľského profilu (UPA).Ďalšie informácie nájdete v článku nižšie.
 
-- [Synchronizácia používateľských profilov SharePointu Online](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Synchronizácia používateľského profilu online](https://docs.microsoft.com/sharepoint/user-profile-sync)
