@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 858a80886321394a5f3acc813e1f95b6f88cad8f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d42d7eb55062b729b3156dc02562c83800c786d34f6de05152e7e09fa88ab71b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915710"
 ---
 # <a name="report-suspicious-urls"></a>Nahlásenie podozrivých URL adries
 
-Ak chcete odoslať podozrivé URL adresy, postupujte podľa týchto krokov:
+Ak chcete odoslať podozrivé URL adresy, postupujte takto:
 
-1. V rozbaľovacom zozname **nové odoslanie** zadajte úplnú URL adresu vrátane protokolu (https://).
-2. Ak vyberiete možnosť **zablokované**, zadajte, či je URL adresa **neoprávneného získavania údajov** alebo **malware**.
-3. Vyberte položku **Odoslať**.
+1. Do **letáku New submission** (Nové odosielanie) zadajte úplnú URL adresu vrátane protokolu (https://).
+2. Ak vyberiete možnosť **Mali byť zablokované**, zadajte, či má URL adresa neoprávnené získavanie **údajov** alebo **malvér.**
+3. Vyberte **položku Odoslať**.

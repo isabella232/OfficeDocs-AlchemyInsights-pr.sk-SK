@@ -1,5 +1,5 @@
 ---
-title: Ako používateľom Skypu for Business povolím komunikáciu s používateľmi Skypu
+title: Ako môžem používateľom Skype for Business komunikovať s používateľmi Skype používateľmi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927736"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Nechajte používateľov Skypu for Business pridávať kontakty Skypu
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Dovoľte Skype for Business používateľom pridávať Skype kontakty
 
-So Skypom for Business môžu vaši používatelia vyhľadávať a používať okamžité správy s každým, kto používa Skype, bezplatnú aplikáciu. V tomto článku sa vysvetľuje, čo je potrebné urobiť, aby mohli pridať kontakty v Skype.
+So Skype for Business môžu vaši používatelia vyhľadávať a používať okamžité správy s každým, Skype používa bezplatnú aplikáciu! V tomto článku sa vysvetľuje, čo je potrebné urobiť, aby mohli Skype kontakty.
 
-[Nechajte používateľov Skypu for Business pridávať kontakty Skypu](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Dovoľte Skype for Business používateľom pridávať Skype kontakty](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
