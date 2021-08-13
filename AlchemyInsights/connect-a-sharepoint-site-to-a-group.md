@@ -1,5 +1,5 @@
 ---
-title: Pripojenie lokality SharePoint k skupine
+title: Pripojenie na SharePoint lokality do skupiny
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915422"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Pripojenie lokality SharePoint k skupine
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Pripojenie na SharePoint lokality do skupiny
 
-Na pripojenie lokality SharePoint k skupine Microsoft 365 použite Sprievodcu pripojením skupiny.
+Pomocou Sprievodcu pripojením skupiny môžete pripojiť lokalitu SharePoint k Microsoft 365 skupine.
 
-1. Na lokalite, ku ktorej sa chcete pripojiť, vyberte položku Nastavenia  **(ikona ozubeného kolieska)**.
-2. Vyberte  **položku Pripojiť k novej skupine v Microsoft 365**.
+1. Na lokalite, ku ktorej sa chcete pripojiť, vyberte položku Nastavenia **(ikona ozubeného kolieska).**
+2. Výberom **Pripojenie novú Microsoft 365 skupinu**.
 3. Dokončite pripojenie podľa sprievodcu.
 
-**Poznámka:**  Ak pripojenie k novej skupine v Microsoft 365 nie je k dispozícii, lokalita nebude podporovať skupinové pripojenie.
+**Poznámka:**  Ak Pripojenie na Microsoft 365 skupina nie je k dispozícii, lokalita nebude podporovať skupinové pripojenie.
 
-Ďalšie informácie nájdete v téme [Pripojenie k skupine v Office 365.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Ďalšie informácie nájdete v [Pripojenie na Office 365 skupiny](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).

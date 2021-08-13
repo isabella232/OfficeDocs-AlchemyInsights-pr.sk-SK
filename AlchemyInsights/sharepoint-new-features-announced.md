@@ -1,5 +1,5 @@
 ---
-title: Oznámenia o nových funkciách v SharePointe
+title: SharePoint boli oznámené nové funkcie
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093937"
 ---
-# <a name="sharepoint-new-features-announced"></a>Oznámenia o nových funkciách v SharePointe
+# <a name="sharepoint-new-features-announced"></a>SharePoint boli oznámené nové funkcie
 
-Na konferencii Ignite 2018 spoločnosť Microsoft oznámila nové inovácie pre SharePoint vrátane nových funkcií moderných portálov, nových webových častí, mnohých vylepšení lokalít rozbočovača, prepojenia na správy, zamerania na cieľovú skupinu, dostupnosti nových mobilných aplikácií, pripojenia k tímom a ďalších...
+Na konferencii Ignite 2018 spoločnosť Microsoft oznámili nové inovácie balíka SharePoint vrátane nových funkcií pre moderné portály, nových webových častí, mnohých vylepšení centier lokalít, prepojenia na novinky, zamerania na cieľové skupiny, dostupnosti nových mobilných aplikácií, prepojenia s Teams atď.
   
-Ďalšie informácie o týchto funkciách nájdete v blogovom príspevku [nových inovácií v SharePointe &amp; Microsoft 365, ktoré poskytujú energiu a jednoduchosť pri spolupráci s obsahom.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Ďalšie informácie o týchto funkciách nájdete v blogového príspevku Nové inovácie v SharePoint Microsoft 365 prináša výkon a [ &amp; jednoduchosť spolupráce s obsahom.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Vaša organizácia sa môže zapojiť do programu s cieľom získať rýchly prístup k novým funkciám. Pozrite si tému [Nastavenie štandardných alebo cielených možností uvoľnenia v programe Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+Vaša organizácia sa môže pripojiť k programu Targeted Release a získať rýchly prístup k novým funkciám. Pozrite [si časť Nastavenie možností Štandardné vydanie alebo Cielené vydanie v Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365)

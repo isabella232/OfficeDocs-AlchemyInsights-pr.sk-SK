@@ -1,5 +1,5 @@
 ---
-title: Konfigurácia dozoru
+title: Konfigurovanie kontroly
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915458"
 ---
-# <a name="configure-supervision-policies"></a>Konfigurácia politík dohľadu
+# <a name="configure-supervision-policies"></a>Konfigurácia politík kontroly
 
-Politiky dohľadu v službe Microsoft 365 vám umožňujú sledovať e-maily Exchange, Skype for Business online, Microsoft teams a tretej strany, ktoré sa odosielajú v rámci organizácie aj mimo nej. Určení Recenzenti môžu preskúmať sledované správy, aby boli v súlade s politikou vašej organizácie, riadením rizík a normami dodržiavania súladu s predpismi a vyriešili ich pomocou typu klasifikácie.
+Kontroly v Microsoft 365 umožňujú monitorovať e-maily Exchange, e-maily, služby Skype for Business Online, Microsoft Teams a komunikácie tretích strán odoslané v rámci organizácie aj mimo nej. Určení recenzenti môžu monitorované správy preskúmať a zabezpečiť, aby boli v súlade s politikami vašej organizácie, riadením rizík a normami na dodržiavanie súladu s nariadeniami a riešiť ich podľa typu klasifikácie.
 
-Ak chcete používať politiky dohľadu vo vašej organizácii, musíte:
+Ak chcete vo svojej organizácii používať politiky kontroly, musíte:
 
-- Určenie komunikácie na sledovanie.
-- Rozhodnite sa, kto bude vykonávať kontrolu komunikácie.
-- Politiky dohľadu nad nastavením
+- Určite komunikáciu, ktorá sa má sledovať.
+- Rozhodnite sa, kto bude vykonávať revíziu komunikácie.
+- Politiky kontroly inštalácie
 
-zistiť viac:
+Ďalšie informácie:
 
-- [Prehľad politík dohľadu](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Konfigurácia politík dohľadu](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Prehľad politík kontroly](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Konfigurácia politík kontroly](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
