@@ -1,5 +1,5 @@
 ---
-title: Zobrazí sa čierne pozadie alebo formátovanie buniek nevyzerá správne
+title: Zobrazí sa čierne pozadie alebo formátovanie bunky nevyzerá správne
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917870"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Zobrazí sa čierne pozadie alebo formátovanie buniek nevyzerá správne
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Zobrazí sa čierne pozadie alebo formátovanie bunky nevyzerá správne
 
-V Exceli 2016 sa môže zobraziť neočakávané čierne pozadie alebo sa môže Zobraziť formátovanie buniek, ktoré sa nezobrazuje správne. Môže sa to stať po pridaní hlavičky alebo päty do zobrazenia rozloženia strany a pri použití vzorovej výplne v bunke. Tento problém bol vyriešený vo verzii 1708 (zostava 8431,2094). Ak chcete tento problém vyriešiť, aktualizujte na najnovšiu verziu balíka Office. Vyberte **File** položku \> **Account** \> **Možnosti aktualizácie** konta súboru \> **Update Now**.
+V Excel 2016 sa môže zobraziť neočakávané čierne pozadie alebo sa môže zobraziť nesprávne formátovanie buniek. Môže sa to stať po pridaní hlavičky alebo päty v zobrazení rozloženia strany a použití výplne vzorkou na bunku. Tento problém bol opravený vo verzii 1708 (zostava 8431.2094). Ak chcete tento problém vyriešiť, aktualizujte na najnovšiu Office. Vyberte **položku Možnosti** \> **aktualizácie** konta \> **súboru** \> **Aktualizovať.**
   
 

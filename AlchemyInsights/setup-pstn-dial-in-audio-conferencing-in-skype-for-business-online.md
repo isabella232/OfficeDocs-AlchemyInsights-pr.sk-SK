@@ -1,5 +1,5 @@
 ---
-title: Nastavenie telefonických audiokonferencií prostredníctvom verejnej telefónnej siete (PSTN) v Skype for Business Online
+title: Nastavenie telefonických audiokonferencií prostredníctvom verejnej telefónnej siete (PSTN) Skype for Business Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094405"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavenie telefonických audiokonferencií prostredníctvom verejnej telefónnej siete (PSTN) v Skype for Business Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavenie telefonických audiokonferencií prostredníctvom verejnej telefónnej siete (PSTN) Skype for Business Online
 
-Ak chcete nastaviť audiokonferencie pre Skype for Business Online, treba urobiť niekoľko vecí. 
+Ak chcete nastaviť audiokonferencie pre Skype for Business online, budete musieť urobiť niekoľko vecí. 
 
 - Zistite, či sú audiokonferencie k dispozícii vo vašej krajine alebo oblasti.
 

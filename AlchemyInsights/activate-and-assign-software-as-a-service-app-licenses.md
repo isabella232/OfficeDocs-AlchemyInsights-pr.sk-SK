@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af767f4c2ab03ab4d0757b572085ff77d9a2901ddcde61523c7f314b11726f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938052"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivácia a priradenie licencií na aplikácie "software-as-a-service" 
 
@@ -35,4 +35,4 @@ ms.locfileid: "51823226"
 
 2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
 
-3. V **časti & akcií** vyberte prepojenie Spravovať na **portáli vydavateľa**.
+3. V **Nastavenia & akcií** vyberte prepojenie Spravovať na **portáli vydavateľa**.
