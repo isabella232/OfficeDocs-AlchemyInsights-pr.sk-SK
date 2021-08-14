@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932790"
 ---
 # <a name="anonymous-sharing"></a>Anonymné zdieľanie
 
  **Povolenie anonymného prístupu**
   
-V novom centre spravovania služby SharePoint kliknite na položku **Zdieľanie** na ľavej table. 
+V novom Centre SharePoint kliknite na položku **Zdieľanie na** ľavej table. 
   
-- Vyberte nasledovné: **Povoliť zdieľanie pre overených externých používateľov a používať anonymný prístup.**
+- Vyberte toto: Povolenie **zdieľania overeným externým používateľom a používanie anonymného prístupu.**
   
-(Voliteľne môžete nastaviť uplynutie platnosti prepojení v určitom počte dní a vybrať, ako môžu príjemcovia použiť prepojenia.)
+(Voliteľne môžete nastaviť uplynutie platnosti prepojení o určitý počet dní a vybrať, ako môžu príjemcovia prepojenia používať.)
     
  **Anonymné zdieľanie súboru alebo priečinka**
   
-- Vyberte súbor alebo priečinok, ktorý chcete zdieľať, a potom kliknite na položku **zdieľať**. 
+- Vyberte súbor alebo priečinok, ktorý chcete zdieľať, a potom kliknite na položku **Zdieľať**. 
     
-- Na koho sa má toto prepojenie pracovať? kliknite na položku **ktokoľvek.**
+- Kto by ste chceli, aby toto prepojenie bolo k dispozícii? kliknite na **položku Ktokoľvek.**
   
- **Poznámka**: **ktokoľvek** vytvorí prepojenie, ktoré môže ktokoľvek použiť na prístup k dokumentu alebo priečinku, a to aj v prípade, že nie sú prihlásení do služieb Microsoft 365 alebo OneDrive. Túto možnosť použite na zdieľanie s kýmkoľvek, vo vašej spoločnosti alebo mimo nej. Toto prepojenie môže byť preposlané aj každému. 
+ **Poznámka:** **Ktokoľvek** vytvorí prepojenie, ktoré môže na prístup k dokumentu alebo priečinku použiť ktokoľvek, dokonca aj vtedy, ak nie je prihlásený do služby Microsoft 365 alebo OneDrive. Túto funkciu môžete použiť na zdieľanie s kýmkoľvek v rámci vašej spoločnosti alebo mimo nej. Toto prepojenie je tiež možné preposlať komukoľvek. 
     
 

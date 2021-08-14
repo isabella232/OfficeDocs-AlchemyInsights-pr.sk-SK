@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "9002312"
 - "4497"
-ms.openlocfilehash: 33c537ee96285ebff1877fd7fe95e33113ade98c
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: 4af4323e0a51c69f5689483508ff3196519030824806cb24a1157b61daefa2cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004061"
 ---
 # <a name="editing-documents-in-teams"></a>Úprava dokumentov v Teams
 

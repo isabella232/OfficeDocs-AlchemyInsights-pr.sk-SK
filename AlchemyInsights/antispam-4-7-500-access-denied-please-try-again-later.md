@@ -1,5 +1,5 @@
 ---
-title: 1051 antispam 4.7.500 prístup odmietnutý, skúste to znova neskôr
+title: 1051 Antispam 4.7.500 Prístup odmietnutý, skúste to znova neskôr
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f783a4c931318003b36f38600e69918c43b474d0039d039da25684c865c5e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932688"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 prístup odmietnutý, skúste to znova neskôr
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Prístup odmietnutý, skúste to znova neskôr
 
-Táto chyba sa vyskytuje vtedy, keď je objem e-mailovej prenosnosti zo zdrojovej IP adresy väčší ako limit na základe dobrého mena (alebo nedostatočnej reputácie) zdrojovej IP adresy.
+K tejto chybe dôjde vtedy, keď objem prenosu e-mailov zo zdrojovej IP adresy presiahne limit na základe reputácie (alebo chýbajúceho ohodnosti) zdrojovej IP adresy.
 
-Zablokovanie e-mailu zo zdrojovej IP adresy sa skončí v priebehu hodiny. Ak je zdrojovou IP adresou lokálny e-mailový server, ktorý patrí vám, overte konfiguráciu konektora toku pošty. Ak správanie trvá dlhšie ako hodinu, obráťte sa na oddelenie podpory a požiadajte o výnimku pre zdrojovú IP adresu.
+Blokovanie e-mailu zo zdrojovej IP adresy uplynie do hodiny. Ak je zdrojová IP adresa lokálny e-mailový server, ktorý vám patrí, overte konfiguráciu konektora toku pošty. Ak sa správanie bude prejavovať aj dlhšie ako hodinu, obráťte sa na oddelenie podpory a požiadajte o výnimku v prípade zdrojovej IP adresy.

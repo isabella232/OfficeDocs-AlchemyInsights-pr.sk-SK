@@ -1,5 +1,5 @@
 ---
-title: 1050 antispam 4.7.500 server je zaneprázdnený. Skúste to znova neskôr z [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Server busy. Skúste to znova neskôr z lokality [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 76182c54fe16a01843db02f66dd7f94b4514d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84a5dfccd7ec3e4640c728ab1740220309a0d97b61157d0fd4e463ed95aef0d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932652"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 server je zaneprázdnený, skúste to znova neskôr
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Server zaneprázdnený, skúste to znova neskôr
 
-Táto chyba sa vyskytuje vtedy, keď je objem e-mailovej prenosnosti zo zdrojovej IP adresy väčší ako limit na základe dobrého mena (alebo nedostatočnej reputácie) zdrojovej IP adresy.
+K tejto chybe dôjde vtedy, keď objem prenosu e-mailov zo zdrojovej IP adresy presiahne limit na základe reputácie (alebo chýbajúceho ohodnosti) zdrojovej IP adresy.
 
-Zablokovanie e-mailu zo zdrojovej IP adresy sa skončí v priebehu hodiny. Ak je zdrojovou IP adresou lokálny e-mailový server, ktorý patrí vám, overte konfiguráciu konektora toku pošty. Ak správanie trvá dlhšie ako hodinu, obráťte sa na oddelenie podpory a požiadajte o výnimku pre zdrojovú IP adresu.
+Blokovanie e-mailu zo zdrojovej IP adresy uplynie do hodiny. Ak je zdrojová IP adresa lokálny e-mailový server, ktorý vám patrí, overte konfiguráciu konektora toku pošty. Ak sa správanie bude prejavovať aj dlhšie ako hodinu, obráťte sa na oddelenie podpory a požiadajte o výnimku v prípade zdrojovej IP adresy.
