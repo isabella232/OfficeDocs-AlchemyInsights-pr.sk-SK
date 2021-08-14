@@ -1,5 +1,5 @@
 ---
-title: Žiadosť o vrátenie z Outlook.com beta na klasickú Outlook.com
+title: Žiadosť o vrátenie späť z Outlook.com verzie beta na klasickú Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961750"
 ---
-# <a name="the-new-outlookcom"></a>Nový Outlook.com
+# <a name="the-new-outlookcom"></a>Nová webová Outlook.com
 
-Nové Outlook.com prostredie už nie je možné opustiť a vrátiť sa k klasickej verzii programu Outlook.com.
+Už nie je možné opustiť nové prostredie lokality Outlook.com a vrátiť sa ku klasickej verzii lokality Outlook.com.
 
-Ak chcete poskytnúť pripomienky k novej Outlook.com, prejdite na [Fórum uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Môžete hlasovať o nápadoch alebo problémoch, ktoré by ste si chceli pozrieť, a my vám odpovieme priamo na najvyšších komentároch a návrhoch.
+Ak chcete poskytnúť pripomienky k novému webovej lokalite Outlook.com, prejdite na fórum [UserVoice.](https://go.microsoft.com/fwlink/p/?linkid=851599) Môžete tu hlasovať o nápadoch a problémoch, ktoré by mali byť vyriešené, a my budeme priamo odpovedať na najlepšie komentáre a návrhy.
 
-[Získajte pomoc s Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Získajte pomoc s webovou Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

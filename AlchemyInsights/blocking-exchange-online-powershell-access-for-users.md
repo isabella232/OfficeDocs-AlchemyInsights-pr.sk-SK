@@ -1,5 +1,5 @@
 ---
-title: 763 blokovanie prístupu pre používateľov v službe Exchange Online PowerShell
+title: 763 Blokovanie Exchange Online prístup do prostredia PowerShell pre používateľov
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931428"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blokovanie prístupu pre používateľov v službe Exchange Online PowerShell
-Ako správca máte možnosť zablokovať prístup k službe Exchange Online PowerShell pre vašich používateľov. Ďalšie informácie nájdete v týchto témach:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blokovanie Exchange Online prostredia PowerShell pre používateľov
+Ako správca máte možnosť pre svojich používateľov zablokovať prístup k Exchange Online prostredia PowerShell. Ďalšie informácie nájdete v týchto témach:
 
-- [Povolenie alebo zakázanie prístupu k službe Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Povolenie alebo zakázanie prístupu k Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Pravidlá klientskeho prístupu v službe Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (Pozrite si protokol **RemotePowerShell** ) 
+- [Pravidlá klientskeho prístupu Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (vyhľadajte protokol **RemotePowerShell)** 
 
-**Poznámka**: ako je popísané v téme, dávajte pozor, aby ste nezablokovali prístup k službe Exchange Online PowerShell pre správcov.
+**Poznámka:** Ako je to popísané v tejto téme, dávajte pozor na to, aby ste neblokujte prístup Exchange Online prostredia PowerShell pre správcov.
