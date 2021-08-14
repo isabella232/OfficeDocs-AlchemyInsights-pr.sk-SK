@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630084"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868433"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Denníky auditu pre odstránené e-mailové správy
 
@@ -34,6 +34,6 @@ Od januára 2019 spoločnosť Microsoft predvolene zapína zapisovanie auditu po
 
 Vo výsledkoch vyberte záznam auditu. V letáku s podrobnosťami kliknite na položku **Ďalšie informácie**. Ďalšie informácie o odstránenej položke (napríklad riadok predmetu a umiestnenie položky v prípade jej odstránení) sa zobrazia v poli **Ovplyvnené položky.** Vlastnosť **ClientInfoString** sa zobrazí, ak sa odstránenie vyskytlo v Outlook, Outlook na webe (predtým známe ako Outlook Web App) alebo akomkoľvek inom zariadení.
 
-Ďalšie informácie nájdete v téme Určenie [osoby, ktorá nastavila preposielanie e-mailov v poštovej schránke.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Ďalšie informácie nájdete v téme Určenie [osoby, ktorá nastavila preposielanie e-mailov v poštovej schránke.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Poznámka:** Odstránené položky nemožno načítať pomocou funkcie denníka auditu. Ak chcete v Outlooku obnoviť odstránené Outlook na webe, pozrite si [časť Obnovenie odstránených položiek v Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
+**Poznámka:** Odstránené položky nemožno načítať pomocou funkcie denníka auditu. Ak chcete v Outlooku obnoviť odstránené Outlook na webe, pozrite si [časť Obnovenie odstránených položiek Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)

@@ -1,5 +1,5 @@
 ---
-title: Úprava súboru, ktorý je určený iba na čítanie
+title: Úprava súboru iba na čítanie
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 78f2f33c4a5aea2e3d0d3ee4949e3e1670b9e644
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 2e343abc0b7ae06de34b20006059fd2c93cf47c8063ee16f0e9e1ab273e1ee4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947206"
 ---
-# <a name="edit-a-read-only-file"></a>Úprava súboru, ktorý je určený iba na čítanie
+# <a name="edit-a-read-only-file"></a>Úprava súboru iba na čítanie
 
-Možno zistíte, že pri otváraní súborov sa otvoria iba na čítanie. V niektorých prípadoch ide o zvýšenie zabezpečenia, napríklad pri otváraní súborov z internetu a iných časoch môže to byť spôsobené nastavením, ktoré je možné zmeniť.
+Možno zistíte, že keď otvárate súbory, otvoria sa iba na čítanie. V niektorých prípadoch je to z dôvodu pridanej bezpečnosti, napríklad pri otváraní súborov z internetu, a inokedy to môže byť z dôvodu nastavenia, ktoré je možné zmeniť.
 
-- [Súbory SharePointu sa otvoria iba na čítanie](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint sa súbory otvoria iba na čítanie](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)

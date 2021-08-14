@@ -1,5 +1,5 @@
 ---
-title: Prepnutie na platbu na faktúru (kontrola/prenos bankového prenosu)
+title: Prepnúť na platiť faktúrou (šekom/bankovým prevodom)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009083"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Prepnutie na platbu na faktúru (kontrola/prenos bankového prenosu)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Prepnúť na platiť faktúrou (šekom/bankovým prevodom)
 
-Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
+Na základe popisu vášho problému sme pre vás našli riešenie. Väčšina zákazníkov sa po na základe dokumentácie dokázala problém vyriešiť sama.
 
-Ak prepnete na položku platiť podľa faktúry, znamená to, že faktúru zaplatíte do 30 dní od dátumu vystavenia faktúry. Ak sa chcete stať oprávneným platiť za predplatné služby Azure prostredníctvom faktúry, odošlite žiadosť na technickú podporu Azure. Po schválení žiadosti môžete na portáli Azure zmeniť predplatné na faktúru.
+Ak prepnete na platenie prostredníctvom faktúry, znamená to, že faktúru zaplatíte do 30 dní od dátumu faktúry. Ak sa chcete stať oprávneným na zaplatenie predplatného na Azure na faktúru, odošlite žiadosť na podporu pre Azure. Po schválení žiadosti môžete zmeniť predplatné na platenie prostredníctvom faktúry na portáli Azure.
 
-**Skôr než začnete pokračovať, prečítajte si nasledujúce požiadavky/obmedzenia týkajúce sa žiadosti o platbu na faktúru:**
+**Skôr než budete pokračovať ďalej, pozrite si tieto požiadavky alebo obmedzenia týkajúce sa žiadosti o možnosť platenia na faktúru:**
 
-- Prihláste sa na [portáli Azure](https://portal.azure.com/), prejdite na položku spôsoby úhrady a skontrolujte, či ste už vopred povolili platbu na faktúru.
-- Platba za faktúry je k dispozícii len pre obchodné kontá, nie pre osobné kontá.
-- Pred prechodom na zaplatenie faktúry musíte zaplatiť všetky zostávajúce poplatky.
-- Tím technickej podpory prehodnotí konto a určí, či má nárok na platbu v režime faktúry.
-- Po prepnutí na položku zaplatiť faktúru nie je možné prepnúť späť na platbu kreditnou alebo debetnou kartou.
+- Prihláste sa na [portál Azure](https://portal.azure.com/), prejdite na spôsoby úhrady a skontrolujte, či ste už vopred schválili platbu na faktúru.
+- Platba na faktúru je k dispozícii len pre podnikové kontá, nie pre osobné kontá.
+- Pred prechodom na zostatok na faktúru je nutné uhradiť všetky nevyrovnané poplatky.
+- Tím podpory preskúma konto a zistí, či je oprávnené na režim platby prostredníctvom faktúry.
+- Po prechode na platbu na faktúru nie je možné prejsť späť na platbu kreditnou alebo debetnou kartou.
 
-Po schválení platby na základe faktúry môžete prepínať predplatné služby Azure na faktúru za úhradu prostredníctvom kontroly alebo bankového prevodu na [portáli Azure Portal](https://portal.azure.com/).
-Ak to chcete urobiť, postupujte nasledovne:
+Po schválení platby na faktúru môžete zmeniť predplatné služby Azure na faktúru prostredníctvom šeku alebo bankovým prevodom na [portáli Azure.](https://portal.azure.com/)
+Ako na to:
 
-1. Prihláste sa na [portáli Azure](https://portal.azure.com/)   ako správca konta. Vyhľadajte a vyberte položku **Správa nákladov + Fakturácia**.
-2. V ponuke vyberte položku **profily fakturácie**.
-3. Vyberte profil fakturácie.
-4. V ponuke *profil fakturácie* vyberte položku **spôsoby platby**.
-5. Vyberte titulok, v ktorom sa uvádza, že máte nárok na úhradu šekom/bankovým prevodom.
+1. Prihláste sa na [portál Azure](https://portal.azure.com/)ako   správca kont. Vyhľadajte a vyberte položku **Riadenie nákladov + fakturácia.**
+2. V ponuke vyberte položku **Fakturačné profily.**
+3. Vyberte fakturačný profil.
+4. V ponuke *Fakturačný profil* vyberte položku **Spôsoby platby**.
+5. Vyberte nápis s overiť, či máte nárok na platiť šekom alebo bankovým prevodom.
 
 **Odporučené dokumenty**
 
-- [Žiadosť/stiahnutie/zobrazenie fakturačnej faktúry a údajov o používaní služby Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Odoslanie e-mailu prostredníctvom služby Azure faktúry priamo do priečinka Doručená pošta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Žiadosť/stiahnutie/zobrazenie faktúry za Azure a údajov o používaní](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Ako odoslať faktúry služby Azure e-mailom priamo do priečinka doručenej pošty](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Platba na faktúru](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Porozumieť podmienkam na faktúre](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Informácie o podmienkach na faktúre](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
