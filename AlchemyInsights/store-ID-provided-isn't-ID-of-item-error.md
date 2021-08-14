@@ -1,5 +1,5 @@
 ---
-title: Poskytnutá identifikácia ukladacieho priestoru nie je IDENTIFIKÁCIou položky
+title: Poskytnuté ID obchodu nie je ID položky
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "6828"
-ms.openlocfilehash: 0834850cb7be2d2005265a54130f95c393f514fd
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: fca2b4eb17e08232bc8a249ea275a6cbc25a3e8a29eeb159fc25f623d4f24390
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981920"
 ---
-# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Chyba "ID obchodu poskytnuté nie je ID položky"
+# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Chyba Poskytnuté ID obchodu nie je IDENTIFIKÁCIOU položky
 
-Sme si vedomí tejto chyby a my sme vyriešili opravu, ktorá by mala čoskoro vyriešiť.
+O tejto chybe vieme a pracujeme na oprave, ktorá by sa mala vyriešiť čoskoro.

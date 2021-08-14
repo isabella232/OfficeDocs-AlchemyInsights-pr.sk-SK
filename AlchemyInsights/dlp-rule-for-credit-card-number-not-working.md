@@ -1,5 +1,5 @@
 ---
-title: Pravidlo DLP pre číslo kreditnej karty nefunguje
+title: DLP pravidlo pre číslo kreditnej karty nefunguje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,48 +13,48 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005105"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>Problémy s DLP s číslami kreditných kariet
+# <a name="dlp-issues-with-credit-card-numbers"></a>Problémy s DLP číslami kreditných kariet
 
 **Dôležité**: V tejto výnimočnej situácií vykonávame kroky na to, aby sme zabezpečili, že služby SharePoint Online a OneDrive zostanú vysoko dostupné. Ďalšie informácie nájdete v téme [Dočasné úpravy funkcií SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Problémy s DLP s číslami kreditných kariet**
+**Problémy s DLP číslami kreditných kariet**
 
-Vyskytli sa problémy s **prevenciou pred stratou údajov (DLP)** , ktorá nepracuje s obsahom, ktorý obsahuje **číslo kreditnej karty** , ak sa v službe O365 používa typ informácií s informáciami o DLP? Ak áno, uistite sa, že obsah obsahuje potrebné informácie na spustenie politiky DLP, keď sa vyhodnotí. Napríklad pre **politiku kreditnej karty** nakonfigurovanú s úrovňou spoľahlivosti 85% sa vyhodnotia a pre pravidlo sa musí zistiť, či sa má spustiť nasledovné:
+Máte problémy s ochrana pred stratou údajov **(DLP)** pri používaní typu citlivých informácií DLP v O365 s obsahom obsahujúcim číslo kreditnej karty?  Ak áno, uistite sa, že váš obsah obsahuje potrebné informácie na spustenie politiky DLP pri vyhodnocovaní. Napríklad pri politike kreditnej karty nakonfigurovanej na úrovni spoľahlivosti 85 % sa vyhodnotia nasledujúce pravidlá **a** musia sa zistiť, aby sa toto pravidlo spustilo:
   
-- **[Formát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 číslic, ktoré môžu byť formátované alebo nenaformátované (dddddddddddddddd) a musia prejsť testom Luhn.
+- **[Formát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 číslic, ktoré môžu byť formátované alebo neformátované (ddddddddddd) a musia prejsť cez Luhnov test.
 
-- **[Vzor:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Veľmi zložitý a robustný vzor, ktorý detekuje karty zo všetkých hlavných značiek na celom svete vrátane víz, kariet MasterCard, Discover Card, JCB, American Express, darčekových poukazov a stravníkov.
+- **[Vzorka:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Veľmi zložitý a robustný vzor, ktorý zisťuje karty všetkých hlavných svetových značiek vrátane Visa, MasterCard, Discover Card, JCB, American Express, darčekových poukazov a dinerových kariet.
 
-- **[Kontrolný súčet:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Áno, kontrolný súčet Luhn
+- **[Kontrolný súčet:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Áno, Luhnov kontrolný súčet
 
-- **[Definícia:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Politika DLP je 85% presvedčená, že zistí tento typ citlivých informácií, ak v blízkosti 300 znakov:
+- **[Definícia:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Politika DLP si je na 85% istá, že sa zistil tento typ citlivej informácie, ak v blízkosti 300 znakov:
 
-  - Funkcia Func_credit_card nájde obsah, ktorý zodpovedá vzoru.
+  - Funkcia vyhľadá Func_credit_card, ktorý zodpovedá vzoru.
 
-  - Je splnená jedna z nasledujúcich možností:
+  - Jedna z nasledujúcich platí:
 
-  - Nájde sa kľúčové slovo z Keyword_cc_verification.
+  - Nájde sa kľúčové slovo Keyword_cc_verification kľúčové slovo z tejto lokality.
 
-  - Našlo sa kľúčové slovo z Keyword_cc_name
+  - Nájde sa kľúčové Keyword_cc_name z
 
-  - Funkcia Func_expiration_date nájde dátum v správnom formáte dátumu.
+  - Funkcia Func_expiration_date dátum v správnom formáte dátumu.
 
-  - Kontrolný súčet prechádza
+  - Kontrolný súčet prejde
 
-    Nasledujúci príklad by sa spustil pre politiku kreditnej karty DLP:
+    Napríklad nasledujúca ukážka by spustila politiku číslovania kreditných kariet DLP:
 
-  - Vízum: 4485 3647 3952 7352
+  - Visa: 4485 3647 3952 7352
   
-  - Platnosť uplynie: 2/2009
+  - Platnosť uplynie: 2.2.2009
 
-Ďalšie informácie o tom, čo sa vyžaduje pri zisťovaní **čísla kreditných kariet** pre váš obsah, nájdete v tejto časti tohto článku: informácie o tom, [ktoré typy citlivých informácií vyhľadávajú kreditnú kartu #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Ďalšie informácie o tom,  čo sa vyžaduje na to, aby sa zistilo číslo kreditnej karty v obsahu, nájdete v nasledujúcej časti tohto článku: Čo typy citlivých informácií hľadať po kliknutí na položku Kreditná [karta#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Ak používate iný vstavaný typ citlivých informácií, prečítajte si v nasledujúcom článku informácie o tom, čo sa vyžaduje pre iné typy: [Aké typy citlivých informácií hľadajú](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Ak používate iný vstavaný typ citlivých informácií, informácie potrebné pre iné typy informácií nájdete v nasledujúcom článku: Čo [typy citlivých informácií hľadať](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

@@ -1,5 +1,5 @@
 ---
-title: Čo je nové vo Windowse 10, verzia 1607
+title: Čo je nové vo Windows 10, verzia 1607
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003960"
 - "7016"
-ms.openlocfilehash: 369daf8dfea932746f957d19e2d58e3043cfd135
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: fc4f9cb1b04ae9bdebefe02d2f9d84216295a90f740b7ee8d0d7e92e478f3357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997833"
 ---
-# <a name="whats-new-in-windows-10-version-1607"></a>Čo je nové vo Windowse 10, verzia 1607
+# <a name="whats-new-in-windows-10-version-1607"></a>Čo je nové vo Windows 10, verzia 1607
 
-Tu je niekoľko nových a aktualizovaných funkcií vo Windowse 10, verzii 1607, ktorá sa označuje aj ako aktualizácia výročia:
+Tu je niekoľko nových a aktualizovaných funkcií vo Windows 10, verzii 1607, známej aj ako výročná aktualizácia:
 
 1. [Nasadenie](https://go.microsoft.com/fwlink/?linkid=2114462)
-2. [Aktualizácie systému Windows](https://go.microsoft.com/fwlink/?linkid=2114463)
+2. [Windows aktualizácie](https://go.microsoft.com/fwlink/?linkid=2114463)
 3. [Zabezpečenie](https://go.microsoft.com/fwlink/?linkid=2114270)
-4. [Správy](https://go.microsoft.com/fwlink/?linkid=2114271)
+4. [Spravovanie](https://go.microsoft.com/fwlink/?linkid=2114271)

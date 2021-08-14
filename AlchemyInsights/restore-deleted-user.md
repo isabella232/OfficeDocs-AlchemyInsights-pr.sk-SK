@@ -14,12 +14,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 2f8430b1a03e66cdbe0bf846464218f58578e252
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60c39466457e5f5fabfd02fae9b4192cdd27ded423a99ce5149b1c102e138097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982028"
 ---
 # <a name="restore-a-deleted-user"></a>Obnovenie odstráneného používateľa
 
@@ -33,4 +33,4 @@ Obnovenie používateľa pomocou týchto krokov:
 
 4. Po **kliknutí na položku Odoslať e-mail** a zavrieť je všetko.
 
-Nebolo to jednoduché? Ďalšie informácie a kroky spolu so snímkami obrazovky nájdete v tomto článku: [Obnovenie používateľa.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user) Ak si uvedomíte, že namiesto toho potrebujete obnoviť poštovú schránku používateľa, pozrite si túto časť: Odstránenie alebo [obnovenie poštových schránok používateľov v službe Exchange Online.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)
+Nebolo to jednoduché? Ďalšie informácie a kroky spolu so snímkami obrazovky nájdete v tomto článku: [Obnovenie používateľa.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user) Ak si uvedomíte, že namiesto toho potrebujete obnoviť poštovú schránku používateľa, pozrite si téme: Odstránenie [alebo obnovenie poštových schránok používateľov v Exchange Online.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)

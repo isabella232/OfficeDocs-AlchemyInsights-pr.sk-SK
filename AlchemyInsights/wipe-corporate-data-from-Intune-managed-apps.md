@@ -1,5 +1,5 @@
 ---
-title: Vymazanie firemných údajov z aplikácií spravovaných službou Intune
+title: Vymazanie podnikových údajov z aplikácií spravovaných intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997761"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Vymazanie firemných údajov z aplikácií spravovaných službou Intune
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Vymazanie podnikových údajov z aplikácií spravovaných intune
 
-Intune podporuje odstraňovanie firemných údajov z aplikácií politiky ochrany aplikácií (aplikácie). 
+Intune podporuje odstránenie podnikových údajov z aplikácií spravovaných pomocou politiky ochrany aplikácií. 
 
-Ďalšie informácie o stieraní, odstraňovaní alebo odstraňovaní firemných údajov z týchto aplikácií nájdete v téme [Vymazanie iba firemných údajov zo aplikácií spravovaných](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)službou Intune.
+Ďalšie informácie o vymazaní, odstránení alebo odstránení podnikových údajov z týchto aplikácií nájdete v téme Vymazanie iba podnikových údajov z aplikácií spravovaných spoločnosťou [Intune.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

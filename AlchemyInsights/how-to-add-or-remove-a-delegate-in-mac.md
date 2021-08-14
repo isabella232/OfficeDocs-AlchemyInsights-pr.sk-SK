@@ -1,5 +1,5 @@
 ---
-title: Ako pridať alebo odstrániť delegáta v Macu
+title: Pridanie alebo odstránenie delegáta v Macu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945388"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Ako pridať alebo odstrániť delegáta v Macu
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Pridanie alebo odstránenie delegáta v Macu
 
-Ak chcete pridať alebo odstrániť delegáta v Macu, postupujte takto:
+Ak chcete pridať alebo odstrániť delegáta v Macu, vykonajte nasledujúce kroky:
 
-**Pridanie delegáta v Macu**:
+**Pridanie delegáta v Macu:**
 
-1. V ponuke **Nástroje** vyberte položku **kontá**.
-1. Vyberte konto Exchange, ktoré budete používať na prístup k delegovaným položkám, kliknite na položku **Rozšírené** a potom na položku **Delegáti**.
-1. V časti ľudia, ktorých **som delegátom**, kliknite na položku **Pridať**. .
+1. V ponuke **Nástroje** vyberte položku **Kontá**.
+1. Vyberte konto Exchange ktoré budete používať na prístup k delegovaným položkám, kliknite na **položku** Rozšírené a potom na položku **Delegáti**.
+1. V **časti Ľudia, ktorých som delegátom kliknite** na položku **Pridať**. .
 1. Zadajte meno osoby, ktorá vás pridala ako delegáta.
-1. Vo výsledkoch hľadania vyberte meno danej osoby a potom kliknite na položku **Pridať**.
+1. Vo výsledkoch hľadania vyberte meno osoby a potom kliknite na položku **Pridať**.
  
-**Ako odstrániť delegáta v Macu**:
+**Odstránenie delegáta v Macu:**
 
-1. V ponuke **Nástroje** vyberte položku **kontá**.
-1. Vyberte konto Exchange, ktoré chcete zmeniť, kliknite na položku **Rozšírené** a potom na kartu delegáti.
-1. V časti ľudia, ktorých **som delegátom**, vyberte osobu, ktorej chcete prestať byť delegátom, a potom kliknite na položku **odstrániť**.
+1. V ponuke **Nástroje** vyberte položku **Kontá**.
+1. Vyberte konto Exchange, ktoré chcete zmeniť, kliknite na položku Rozšírené **a** potom kliknite na kartu ****Delegáti.
+1. V **časti Ľudia, ktorých som delegátom** vyberte osobu, ktorej delegátom už nechcete byť, a potom kliknite na položku **Odstrániť**.
