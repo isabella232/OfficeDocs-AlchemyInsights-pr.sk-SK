@@ -14,17 +14,17 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 2abdc805bf176eeac30e97b9cccf3cf9947b779abdae3c4566d354854a78b040
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501111"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868693"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Ako zmením spôsob platby kreditnou kartou na platbu na faktúru?
 
 > [!NOTE]
-> Platenie na faktúru môžete zmeniť len vtedy, ak sú náklady na predplatné vyššie ako určitá čiastka. Pred zmenou na platenie na faktúru musíte najskôr uhradiť akýkoľvek nevyrovnaný zostatok na kreditnej alebo debetnej karte alebo bankovom účte.
+> Platenie na faktúru môžete zmeniť len vtedy, ak je náklady na predplatné vyššie ako určitá suma. Pred zmenou na platenie na faktúru musíte najskôr uhradiť akýkoľvek nevyrovnaný zostatok na kreditnej alebo debetnej karte alebo bankovom účte.
 
 1. V centre spravovania prejdite na stránku  >  [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na karte **Produkty** vyhľadajte predplatné, za ktoré chcete platiť alternatívnym spôsobom úhrady.
@@ -34,4 +34,4 @@ ms.locfileid: "54501111"
 6. Zadajte svoje meno, adresu a telefónne číslo. Môžete pridať aj číslo objednávky, ktoré sa zobrazí na faktúre.
 7. Po dokončení vyberte položku **Uložiť**.
 
-Ďalšie informácie nájdete v [téme Spôsob platby za predplatné](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Ďalšie informácie nájdete v [téme Spôsob platby za predplatné](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

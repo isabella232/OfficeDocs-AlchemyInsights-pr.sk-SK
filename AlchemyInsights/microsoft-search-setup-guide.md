@@ -1,5 +1,5 @@
 ---
-title: Sprievodca nastavením vyhľadávania spoločnosti Microsoft
+title: Microsoft Search o nastavení
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975822"
 ---
-# <a name="microsoft-search-setup-guide"></a>Sprievodca nastavením vyhľadávania spoločnosti Microsoft
+# <a name="microsoft-search-setup-guide"></a>Microsoft Search o nastavení
 
-Pomocou [Sprievodcu nastavením vyhľadávania spoločnosti Microsoft](https://go.microsoft.com/fwlink/?linkid=2153798) nastavte a nakonfigurujte Microsoft Search. Či chcete vykonať pilotnú skupinu používateľov alebo ju môžete vysunúť všetkým používateľom vo vašej organizácii. Môžete priradiť správcov vyhľadávania a vyhľadávať editory a potom prispôsobiť možnosti vyhľadávania používateľom s odpoveďami a ďalšími možnosťami, ako je napríklad pridanie rozšírenia Bing do prehliadača Chrome alebo nastavenie Bingu ako predvoleného vyhľadávacieho nástroja.
+Pomocou Sprievodcu [Microsoft Search nastavenia](https://go.microsoft.com/fwlink/?linkid=2153798) nastavte a nakonfigurujte Microsoft Search. Pilotné na pilotné nasnúte pre skupinu používateľov alebo pre všetkých používateľov v organizácii. Priradíte správcov vyhľadávania a editorov vyhľadávania a potom prispôsobíte možnosti vyhľadávania pre používateľov s odpoveďami a ďalšími možnosťami, ako je napríklad pridanie rozšírenia Bing do Chromu alebo nastavenie Bing ako predvoleného vyhľadávacieho nástroja.
