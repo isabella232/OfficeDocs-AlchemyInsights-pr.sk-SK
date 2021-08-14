@@ -1,5 +1,5 @@
 ---
-title: Pridanie alebo odstránenie delegáta v Outlooku pre Windows
+title: Pridanie alebo odstránenie delegáta vo Outlook pre Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945352"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Pridanie alebo odstránenie delegáta v Outlooku pre Windows
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Pridanie alebo odstránenie delegáta vo Outlook pre Windows
 
-Pridanie delegáta v Outlooku pre Windows: 
+Pridanie delegáta do Outlook pre Windows: 
 
-1. Kliknite na kartu **súbor** a potom na položku **Nastavenie konta** a potom vyberte položku **prístup delegátov**.
-2. Kliknite na položku **Pridať**. Ak sa **Pridanie** nezobrazuje, v Outlooku a Exchangei nemusí existovať aktívne pripojenie. V stavovom riadku Outlooku sa zobrazuje stav pripojenia.
-3. Zadajte meno osoby, ktorú chcete označiť ako delegáta, alebo vyhľadajte a vyberte názov v zozname výsledkov hľadania.
-
-    > [!NOTE]
-    > Delegát musí byť osobou v globálnom zozname adries v organizácii Exchange (GAL).
-4. Kliknite na položku **Pridať** a potom na **tlačidlo OK**.
-5. V dialógovom okne **povolenia delegáta** prijmite predvolené nastavenia povolení alebo vyberte vlastné úrovne prístupu pre priečinky Exchange.
-
-    - Ak delegát potrebuje povolenie na prácu iba pri žiadostiach o schôdzu a odpovediach, predvolené nastavenia povolení, ako napríklad **delegát, prijímajú kópie správ súvisiacich so schôdzami, ktoré mi boli zaslané** . Nastavenie povolení pre **doručenú poštu** môžete ponechať na **žiadnej**. Žiadosti o schôdzu a odpovede sa presunú priamo do priečinka Doručená pošta delegáta.
+1. Kliknite na kartu **Súbor,** za ním **položku Konto Nastavenia** a potom vyberte položku Prístup **delegátov**.
+2. Kliknite na **položku Pridať.** Ak **sa** nezobrazí tlačidlo Pridať, aktívne pripojenie pravdepodobne neexistuje medzi rôznymi Outlook a Exchange. V Outlook stavového riadku sa zobrazí stav pripojenia.
+3. Zadajte meno osoby, ktorú chcete určiť ako svojho delegáta, alebo ho vyhľadajte a vyberte meno v zozname výsledkov hľadania.
 
     > [!NOTE]
-    > Na základe predvoleného nastavenia je delegátovi poskytnutý **Editor (môže čítať, vytvárať a upravovať položky)** povolenie pre priečinok **kalendára** . Keď delegát odpovie na schôdzu vo vašom mene, automaticky sa pridá do priečinka **Kalendár** .
+    > Delegát musí byť osobou v globálnom zozname adries Exchange vašej organizácie.
+4. Kliknite na položku **Pridať** a potom na **tlačidlo OK.**
+5. V **dialógovom okne** Povolenia delegátov prijmite predvolené nastavenia povolení alebo vyberte vlastné úrovne prístupu Exchange priečinkov.
 
-5. Ak chcete odoslať správu s cieľom informovať delegáta o zmenených povoleniach, začiarknite políčko **automaticky odoslať správu delegátovi so súhrnom týchto povolení** .
-6. Ak chcete, začiarknite políčko **delegát môže zobraziť moje súkromné položky** .
+    - Ak delegát potrebuje povolenie len na prácu so žiadosťami o schôdzu a odpoveďami na ne, predvolené nastavenia povolení, ako napríklad Delegát prijíma kópie mne zaslaných správ týkajúcich sa schôdze, **sú** postačujúce. Nastavenie povolenia Doručená pošta **môžete ponechať** na možnosti **Žiadne.** Žiadosti o schôdzu a odpovede na ne sa budú nachádzať priamo v priečinku doručenej pošty delegáta.
+
+    > [!NOTE]
+    > Na základe predvoleného nastavenia má delegát **povolenie Editor (môže čítať, vytvárať a upravovať položky)** pre váš **priečinok** Kalendár. Keď delegát odpovie na schôdzu vo vašom mene, schôdza sa automaticky pridá do **priečinka** Kalendár.
+
+5. Ak chcete delegátovi odoslať správu so zmenenými povoleniami, začiarknite políčko Automaticky odoslať delegátovi správu, ktorá tieto povolenia **zhrnie.**
+6. Ak chcete, začiarknite **políčko Delegát má prístup k mojim súkromným** položkám.
 
     > [!IMPORTANT]
-    > Toto nastavenie ovplyvní všetky priečinky Exchange. Toto zahŕňa všetky priečinky pošta, kontakty, kalendár, úlohy, poznámky a denník. Neexistuje spôsob, ako udeliť prístup k súkromným položkám iba do zadaných priečinkov.
+    > Toto nastavenie ovplyvňuje všetky Exchange priečinky. Patria sem všetky priečinky Pošta, Kontakty, Kalendár, Úlohy, Poznámky a Denník. Neexistuje žiadny spôsob, ako udeliť prístup k súkromným položkám len v určených priečinkoch.
 
-7. Vyberte **tlačidlo OK**.
+7. Vyberte **tlačidlo OK.**
 
     > [!NOTE]
     >
-    > - Správy odoslané s povoleniami Odoslať v mene zahŕňajú delegáta aj mená vedľa položky **od**. Keď sa správa odošle s povoleniami Odoslať ako, zobrazí sa len vaše meno.
-    > - Keď pridáte niekoho ako delegáta, môžete pridať poštovú schránku Exchange do svojho profilu v Outlooku. Pokyny nájdete v téme [spravovanie pošty a položiek kalendára inej osoby](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - V správach odoslaných s povoleniami na odosielanie v mene iného delegáta sa vedľa položky Od nachádza meno **delegáta aj vaše meno.** Keď sa odošle správa s povoleniami Odoslať ako, zobrazí sa len vaše meno.
+    > - Keď niekoho pridáte ako delegáta, môže do svojho profilu Exchange pridať vašu poštovú Outlook schránky. Pokyny nájdete v [téme Spravovanie pošty a položiek kalendára inej osoby.](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)
 
-Ak chcete odstrániť delegáta v Outlooku pre Windows:
+Odstránenie delegáta z Outlook pre Windows:
 
-1. Kliknite na kartu **súbor** .
-2. Kliknite na položku **Nastavenie konta** a potom na položku **prístup delegáta**.
-3. Vyberte meno delegáta, pre ktorého chcete zmeniť povolenia, a potom kliknite na tlačidlo **odstrániť** , za ktorým nasleduje **tlačidlo OK**.
+1. Kliknite na **kartu** Súbor.
+2. Kliknite na položku **Konto Nastavenia** a za ním položku **Prístup delegátov**.
+3. Vyberte meno delegáta, pre ktorého chcete zmeniť povolenia, a potom kliknite na položku **Odstrániť a** za ním **tlačidlo OK.**

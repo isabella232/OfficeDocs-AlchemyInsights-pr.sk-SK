@@ -1,5 +1,5 @@
 ---
-title: Obnovenie odstráneného OneDrivu
+title: Obnovenie odstránenej OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: f7e99a75fdac420cc2cea0ec10be681bcb2b98ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6310e3e225392a911bd1f5ae18dc3d49c6b50f0a32f603ceb60816657d5b3fc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958924"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Obnovenie odstráneného OneDrivu
+# <a name="restore-a-deleted-onedrive"></a>Obnovenie odstránenej OneDrive
 
-Po odstránení používateľa môžete získať prístup k službe OneDrive používateľa prostredníctvom centra spravovania služby Microsoft 365 za 30 dní. Ďalší používatelia môžu v službe OneDrive pokračovať v prístupe k zdieľanému obsahu v čase, ktorý ste nastavili v centre spravovania pre OneDrive. (Ak sa chcete dozvedieť, ako tento postup nastaviť, prečítajte si tému [Nastavenie predvoleného uchovávania súborov pre odstránených používateľov OneDrivu](https://go.microsoft.com/fwlink/?linkid=874267).) Po uplynutí tohto času sa OneDrive premiestni do koša za 93 dní a potom sa odstráni.
+Po odstránení používateľa môžete získať prístup k používateľskému OneDrive cez Centrum spravovania služby Microsoft 365 30 dní. Ostatní používatelia môžu aj naďalej pristupovať k zdieľanému obsahu OneDrive čas, ktorý ste nastavili v Centre spravovania OneDrive spravovania služieb. (Postup nastavenia nájdete v téme Nastavenie [predvoleného uchovávania súborov pre odstránených OneDrive používateľov](https://go.microsoft.com/fwlink/?linkid=874267).) Po uplynutí tohto času OneDrive do Koša počas 93 dní a potom sa odstráni.
   
-Po prvých 30 dňoch, keď sa odstránený používateľ už nezobrazuje v centre spravovania služby Microsoft 365, môžete získať prístup k OneDrivu používateľa cez prostredie PowerShell. Informácie nájdete v téme [Obnovenie odstráneného OneDrivu](https://go.microsoft.com/fwlink/?linkid=874269).
+Po prvých 30 dňoch, keď sa odstránený používateľ už nebude v zozname Centrum spravovania služby Microsoft 365, môžete k používateľskému rozhraniu OneDrive Prostredia PowerShell. Informácie nájdete v téme [Obnovenie odstránenej OneDrive.](https://go.microsoft.com/fwlink/?linkid=874269)
   
 

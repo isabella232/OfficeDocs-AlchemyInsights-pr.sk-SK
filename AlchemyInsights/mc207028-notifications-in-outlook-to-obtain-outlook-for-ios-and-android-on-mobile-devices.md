@@ -14,12 +14,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: f7321067edb3c0ce41dedaa00324dcae42ec7ec9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4545a578154edac69acac6097d4a259299c5303a5a0b254c7fe0c57869b7bcab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945091"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 – Oznámenia v Outlooku na získanie Outlooku pre iOS a Android v mobilných zariadeniach
 
@@ -27,6 +27,6 @@ Na prípravu na túto zmenu nemusíte urobiť nič. Ak chcete, aby sa používat
 
 Žiadosti sa prejavia do 7 dní. Nepošleme vám oznámenie o tom, že žiadosť bola spracovaná. Ak sa vám odporúčanie bude zobrazovať aj po 7 dňoch od odoslania formulára, obráťte sa na oddelenie technickej podpory.
 
-Vďaka hlbšej integrácii medzi službami OneDrive, Teams a Microsoft 365 je Outlook najlepším spôsobom, ako používať služby Office 365 v mobilnom zariadení. Mnohí zákazníci nevedia, že môžu získať ďalšie funkcie a práva na komerčné používanie Outlooku Mobile v rámci svojich služieb Office 365 a Microsoft 365 bez dodatočných poplatkov.
+S hlbšou integráciou OneDrive, Teams a Microsoft 365 je služba Outlook najlepším spôsobom, ako Office 365 v mobilnom zariadení. Mnohí zákazníci nevedia, že môžu získať ďalšie funkcie a práva na komerčné používanie Outlooku Mobile v rámci svojich služieb Office 365 a Microsoft 365 bez dodatočných poplatkov.
 
 Používateľom, ktorí používajú Outlook so svojím pracovným alebo školským kontom, ale nepoužívajú Outlook Mobile, sa môže čoskoro zobraziť oznámenie, že môžu získať Outlook pre svoj telefón. Ak oznámenie zrušia alebo začnú používať Outlook Mobile, oznámenie sa nezobrazí znova. Poskytne sa rýchle prepojenie na zjednodušenie stiahnutia aplikácie do mobilného zariadenia podľa vlastného výberu.

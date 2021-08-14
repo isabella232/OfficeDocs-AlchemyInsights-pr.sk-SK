@@ -1,5 +1,5 @@
 ---
-title: Problém s funkciou AAD Connect Health
+title: Problém so stavom služby AAD Pripojenie AAD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923767"
 ---
-# <a name="problem-with-aad-connect-health"></a>Problém s funkciou AAD Connect Health
+# <a name="problem-with-aad-connect-health"></a>Problém so stavom služby AAD Pripojenie AAD
 
-- Uistite sa, že máte oprávnenie na vykonanie operácie. Globálni správcovia majú predvolene prístup. Okrem toho môžete použiť [riadenie prístupu na základe rolí](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) na delegovanie povolenia na registráciu prispievateľovi.
-- Uistite sa, že sú povolené požadované koncové body a nie je blokovaný v dôsledku brány firewall. Podrobnosti nájdete v téme [požiadavky](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Uistite sa, že máte oprávnenie vykonávať operáciu. Globálni správcovia majú predvolene prístup. Okrem toho môžete použiť prístupový ovládací [prvok založený na rolách na](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) delegovanie registračného povolenia prispievateľa.
+- Zabezpečte, aby boli požadované koncové body povolené a nie sú blokované pre bránu firewall. Podrobnosti nájdete v časti [požiadavky](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
 - Registrácia môže zlyhať z dôvodu odchádzajúcej komunikácie, ktorá je podrobená kontrole SSL prostredníctvom sieťovej vrstvy.
-- Skontrolujte, či ste overili nastavenie oznámení v službe Azure AD Connect Health. Skontrolujte nastavenie. Táto [príručka](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) vám pomôže pochopiť, ako nakonfigurovať nastavenia oznámení pre oznámenia o stave pripojenia služby Azure AD.
-- Ak chcete získať ďalšie informácie o zostave synchronizácie so službou AAD Connect Health a o tom, ako si ju stiahnuť, pozrite si tému [synchronizácia na úrovni objektov](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Skontrolujte nastavenia oznámení služby Azure AD Pripojenie Stav. Skontrolujte svoje nastavenie. Táto [príručka](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) vám pomôže pochopiť, ako konfigurovať nastavenia oznámení pre oznámenia o stave služby Azure AD Pripojenie oznámenia o stave.
+- Ďalšie informácie o zostave synchronizácie služby AAD Pripojenie Health a o tom, ako ju stiahnuť, nájdete v téme Správa o [synchronizácii na úrovni objektov.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Ak chcete riešiť problémy so zobrazovaním upozornení o stave pripojenia AAD, postupujte podľa pokynov na [Riešenie problémov s funkciou AAD pripojenie upozornení o stave údajov o zdraví](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) a v prípade najčastejšie kladených otázok nájdete v téme [bežné problémy so stavom inštalácie](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)
+Ak chcete riešiť problémy Pripojenie upozornení služby AAD pre stav, postupujte podľa príručky na riešenie problémov s upozorneniami na stav služby [AAD Pripojenie a](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) v prípade bežných otázok si pozrite tému Bežné otázky týkajúce sa inštalácie služby [AAD Pripojenie Health.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)

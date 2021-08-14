@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988814"
 ---
 # <a name="create-a-journal-rule"></a>Vytvorenie pravidla denníka
 
 Postupujte takto:
 
-1. V [centre spravovania pre Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)prejdite na položku pravidlá denníka **spravovania súladu**  >  a potom vyberte ikonu **Pridať (+)** .
-2. V **pravidle nového denníka** zadajte názov pravidla denníka a potom Súťažte o tieto polia:  
-    - **Odoslanie zostáv denníka**: zadajte adresu poštovej schránky denníka, ktorá bude dostávať všetky zostavy denníkov.  
-    - **Ak je správa odoslaná alebo prijatá od**: Zadajte príjemcu, ktorého sa bude pravidlo zacieľovať. Môžete buď vybrať konkrétneho príjemcu alebo použiť pravidlo na všetky správy.  
-    - **Denník nasledujúce správy**: zadajte rozsah pravidla denníka. Môžete denníky iba interné správy, iba externé správy alebo všetky správy bez ohľadu na pôvod alebo cieľ.
-3. Ak chcete vytvoriť pravidlo denníka, vyberte položku **Uložiť** .
+1. V centre [Exchange prejdite](https://go.microsoft.com/fwlink/p/?linkid=2059104)na položku Pravidlá **denníka** spravovania súladu a  >  potom vyberte **ikonu Pridať (+).**
+2. V **novom pravidle** denníka zadajte názov pravidla denníka a potom konkurte nasledujúcim poliam:  
+    - **Odoslať zostavy denníka na** adresu: Zadajte adresu poštovej schránky denníka, na ktorú sa budú prijímať všetky zostavy denníka.  
+    - **Ak je správa odoslaná alebo prijatá od:** Zadajte príjemcu, že pravidlo bude cieľové. Môžete vybrať konkrétneho príjemcu alebo pravidlo použiť na všetky správy.  
+    - **Denník týchto správ:** Zadajte rozsah pravidla denníka. Denníky je možné iba pre interné správy, externé správy alebo všetky správy bez ohľadu na pôvod alebo miesto určenia.
+3. Pravidlo **denníka vytvoríte** výberom položky Uložiť.

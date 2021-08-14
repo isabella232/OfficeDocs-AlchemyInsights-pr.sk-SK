@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e78afcc696403b64fa875c768cc5a64af4284a424b778e79e0921e190a01e22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834062"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945280"
 ---
 # <a name="identify-your-tenant-id"></a>Identifikácia identifikácie nájomníka
 
-Vyhľadajte svoju identifikáciu organizácie v službe Microsoft 365 (ID nájomníka) v Centre spravovania služby Azure.
+Vyhľadajte svoju Microsoft 365 organizácie (ID nájomníka) v Centre spravovania služby Azure.
 
 1. Na [stránke Vlastnosti](https://aka.ms/AzurePropertiesPage)prejdite do poľa **ID adresára.**
 
 2. Podľa potreby id skopírujte.
 
-Ďalšie informácie nájdete v téme [Vyhľadanie identifikácie organizácie v Microsoft 365.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)
+Ďalšie informácie nájdete v téme [Vyhľadanie identifikácie Microsoft 365 organizácie.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

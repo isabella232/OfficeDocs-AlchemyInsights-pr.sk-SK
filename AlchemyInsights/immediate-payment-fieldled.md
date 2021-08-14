@@ -1,5 +1,5 @@
 ---
-title: Uskutočnenie okamžitej platby
+title: Vykonať okamžitú platbu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945244"
 ---
-# <a name="make-an-immediate-payment"></a>Uskutočnenie okamžitej platby
+# <a name="make-an-immediate-payment"></a>Vykonať okamžitú platbu
 
-Na základe popisu problému sme našli riešenie. Väčšina zákazníkov si po vykonaní našej dokumentácie dokázala vyriešiť svoj problém sami.
+Na základe popisu vášho problému sme pre vás našli riešenie. Väčšina zákazníkov sa po na základe dokumentácie dokázala problém vyriešiť sama.
 
-Vďaka zmluve o zákazníkovi spoločnosti Microsoft (MCA) sú spôsoby úhrady priradené k [profilom fakturácie](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile).
+Na základe zmluvy spoločnosti Microsoft so zákazníkom (MCA) sú vaše spôsoby platby priradené k [fakturačným profilom.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 
-Ak máte spoločnosť MCA, predvolený spôsob úhrady je šekom alebo bankovým prevodom. Po prijatí prvej faktúry budete môcť nájsť pokyny na úhradu šekom alebo bankovým prevodom v dolnej časti prvej strany faktúry.
+Ak máte spoločnosť MCA, predvolený spôsob úhrady je šekom alebo bankovým prevodom. Po prijatí prvej faktúry nájdete v dolnej časti prvej strany faktúry pokyny na spôsob platby šekom alebo bankovým prevodom.
 
-Ak chcete zaplatiť faktúry kreditnou kartou na portáli Azure, musíte mať konto fakturácie, vlastníka profilu fakturácie alebo rolu prispievateľa.
+Ak chcete platiť faktúry kreditnou kartou na portáli Azure, musíte mať fakturačné konto, vlastníka fakturačného profilu alebo rolu prispievateľa.
 
-1. Prihláste sa na [portáli Azure](https://portal.azure.com/).
-2. Vyhľadajte *správu nákladov + Fakturácia*.
-3. V ľavej ponuke vyberte položku **faktúry**   v časti *Fakturácia*.
-4. Ak je niektorá z vašich faktúr splatná alebo po termíne splatnosti, zobrazí sa prepojenie Blue *Pay Now*   pre danú faktúru. Vyberte položku **zaplatiť teraz**.
-5. V novom Blade kliknite na položku **vybrať spôsob úhrady** a   Vyberte existujúcu kreditnú kartu alebo pridajte novú.
-6. Po výbere spôsobu úhrady kliknite na položku **zaplatiť teraz**.
+1. Prihláste sa na [portál Azure.](https://portal.azure.com/)
+2. Vyhľadajte položku *Riadenie nákladov + fakturácia.*
+3. V ľavej ponuke vyberte položku **Faktúry v časti**    *Fakturácia*.
+4. Ak je niektorá faktúra splatná alebo po termíne splatnosti, zobrazí sa modré prepojenie *Zaplatiť*   za túto faktúru. Vyberte **položku Zaplatiť.**
+5. Na novej karte kliknite na **položku Vybrať spôsob úhrady a** vyberte   existujúcu kreditnú kartu alebo pridajte novú.
+6. Po výbere spôsobu úhrady kliknite na položku **Zaplatiť.**
 
-Stav faktúry sa aktualizuje tak, aby sa zaplatil v Blade faktúry.
+Na faktúre sa aktualizuje stav faktúry.
 
 **Odporučené dokumenty**
 
-- [Zmena spôsobu platby – najčastejšie otázky](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Zmena spôsobu úhrady pre profil fakturácie](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Kontrola prístupu k Zmluve o zákazníkovi spoločnosti Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
-- [Úlohy fakturácie pre zmluvy o zákazníkovi spoločnosti Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Zmena spôsobu úhrady – najčastejšie otázky](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Zmena spôsobu úhrady pre fakturačný profil](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Kontrola prístupu k zmluve spoločnosti Microsoft so zákazníkom](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Roly fakturácie v prípade zmlúv spoločnosti Microsoft so zákazníkmi](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

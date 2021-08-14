@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source kódexu správania
-Tento projekt prijala, [Microsoft Open Source správania](https://opensource.microsoft.com/codeofconduct/). Pre viac informácií pozri [Kódex správania FAQ](https://opensource.microsoft.com/codeofconduct/faq/) alebo kontaktujte [opencode@microsoft.com](mailto:opencode@microsoft.com) s akékoľvek dodatočné otázky alebo komentáre.
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source Code of Conduct
+Tento projekt prijal pravidlá [správania spoločnosti Microsoft Open Source.](https://opensource.microsoft.com/codeofconduct/)
+Ďalšie informácie nájdete v téme Najčastejšie [otázky týkajúce sa správania,](https://opensource.microsoft.com/codeofconduct/faq/) prípadne sa [opencode@microsoft.com](mailto:opencode@microsoft.com) s ďalšími otázkami alebo komentármi.
