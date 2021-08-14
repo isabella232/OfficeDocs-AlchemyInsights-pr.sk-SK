@@ -1,5 +1,5 @@
 ---
-title: Stránka archívu je prázdna alebo sa nenačítava v rámci správy informácií
+title: Archive page blank or not loading under Information Governance
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997365"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Stránka archívu je prázdna alebo sa nenačítava v rámci správy informácií
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Archive page blank or not loading under Information Governance
 
-Ak je stránka **archívu** v časti riadenie informácií v centre zabezpečenia a dodržiavania súladu prázdna alebo sa nenačíta, použite možnosť **Archivovať** v novom centre dodržiavania súladu M365.
+Ak je **stránka Archív** v časti Riadenie informácií v centre zabezpečenia  a dodržiavania súladu prázdna alebo sa nenačíta, použite možnosť Archivovať v novom Centre dodržiavania súladu pre M365.
 
 1. ísť na [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Vyberte položku Správa informácií.
-1. Potom kliknite na možnosť **Archivovať** .
+1. Vyberte položku Riadenie informácií.
+1. Potom kliknite na **možnosť** Archivovať.
 
-Prípadne použite túto URL adresu: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
+Alebo postupujte podľa tejto URL adresy: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)

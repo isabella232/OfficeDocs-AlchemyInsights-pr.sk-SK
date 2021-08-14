@@ -1,5 +1,5 @@
 ---
-title: Nastavenie a povolenie automatického telefónneho systému služby Teams
+title: Nastavenie a zapnutie Teams telefónny systém
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b54108c9df524f97b111a17952cfc8dfb5f2e8aa09cdf105e9452fcc27dc1028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921706"
 ---
 # <a name="set-up-a-cloud-auto-attendant"></a>Nastavenie cloudového automatického telefónneho systému
 
-Automatické telefónne systému majú momentálne špecifické licenčné požiadavky. Informácie [o vytváraní a nastavovaní automatických telefónnych](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) systému aplikácie Teams nájdete v téme Čo sú cloudové automatické telefónne systému?. 
+Automatické telefónne systému majú momentálne špecifické licenčné požiadavky. Informácie [o vytváraní a nastavovaní automatických telefónnych](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) systému nájdete v téme Čo sú cloudové automatické telefónne Teams? 
 
-Ďalšie informácie nájdete v téme:
+Ďalšie informácie nájdete v téme:
 
-- [Nastavte si cloudový automatický telefónny systém s](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) aplikáciou Microsoft Teams. 
-- [Vytvorte cloudový front hovorov s](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) aplikáciou Microsoft Teams. 
-- [Odpovedzte na automatický telefónny systém a hovory vo fronte priamo z Teams.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 
+- [Nastavte cloudový automatický telefónny systém so](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) Microsoft Teams. 
+- [Vytvorte cloudový front hovorov](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) s Microsoft Teams. 
+- [Odpovedzte na automatický telefónny systém a hovory vo fronte priamo Teams.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 

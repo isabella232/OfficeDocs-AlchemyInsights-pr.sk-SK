@@ -14,18 +14,18 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d060791e8981576c526885f171ab592f96c98783a061acbf41e659b1f896b8cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930780"
 ---
 # <a name="check-aad-identity-sync-status"></a>Kontrola stavu synchronizácie identity AAD
 
 Kontrola stavu synchronizácie je jednoduchá:
   
-- Prihláste sa do Centra spravovania služby Microsoft 365 a na domovskej stránke vyberte položku Stav **DirSync.**
+- Prihláste sa do aplikácie Centrum spravovania služby Microsoft 365 na domovskej stránke vyberte položku Stav **DirSync.**
 
 - Prípadne môžete prejsť na položku Aktívni používatelia a potom na stránke Aktívni používatelia \> vybrať položku Ďalšie \> synchronizácie adresárov.
 

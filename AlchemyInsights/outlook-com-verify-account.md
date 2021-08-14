@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961606"
 ---
 # <a name="how-to-verify-your-outlookcom-account"></a>Overenie konta Outlook.com
 
-Dvojstupňové overenie pomáha chrániť vás tým, že bude pre niekoho iného ťažšie sa prihlásiť do konta Microsoft. Používa dve rôzne formy identity: heslo a spôsob kontaktu (známe aj ako bezpečnostné informácie).
+Vďaka dvojstupňového overeniu je prihlásenie do vášho konta Microsoft pre niekoho zložitejšie, vďaka tomu je prihlásenie do vášho konta Microsoft náročnejšie. Používa dve rôzne formy identity: heslo a kontaktná metóda (známa aj ako bezpečnostná informácia).
   
 Zapnutie alebo vypnutie dvojstupňového overenia:
   
-1. Prejdite na [stránku Základy zabezpečenia](https://go.microsoft.com/fwlink/?linkid=842325) a prihláste sa pomocou konta Microsoft.
-2. Vyberte položku **Ďalšie možnosti zabezpečenia**.
-3. V časti **dvojstupňové overenie**vyberte položku **Nastavenie dvojstupňového overenia** a postupujte podľa pokynov.
+1. Prejdite na stránku [Základy zabezpečenia a](https://go.microsoft.com/fwlink/?linkid=842325) prihláste sa pomocou konta Microsoft.
+2. Vyberte **položku Ďalšie možnosti zabezpečenia**.
+3. V **časti Dvojstupňové overenie** vyberte položku Nastaviť **dvojstupňové overenie a** postupujte podľa pokynov.
 
-Ak zapnete dvojstupňové overenie, budete vždy potrebovať dve formy identifikácie. Ak stratíte spôsob kontaktu, heslo sa vám nevráti späť do vášho konta – a to môže trvať 30 dní na opätovné získanie prístupu.
+Ak zapnete dvojstupňové overenie, budete vždy potrebovať dve formy identifikácie. Ak stratíte spôsob kontaktovania, samotné heslo vás nedostane späť do konta a získanie prístupu vám môže trvať 30 dní.
   
-Ďalšie informácie o [dvojstupňovom overení](https://go.microsoft.com/fwlink/?linkid=872270).
+Ďalšie informácie o [dvojstupňovom overení.](https://go.microsoft.com/fwlink/?linkid=872270)
   

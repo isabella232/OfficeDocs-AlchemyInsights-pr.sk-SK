@@ -1,5 +1,5 @@
 ---
-title: Hlásenie o aplikáciách služby Microsoft 365 – Vyskytol sa problém s vaším predplatným
+title: Microsoft 365 aplikácií – vyskytol sa problém s vaším predplatným
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 9c7907c43fcaa74146c379c2a1cae3f43416ae7d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5c3881aca1030d59211b9ec5a51530b90767096c7cb313bba7ed161a1b1ec2e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974224"
 ---
-# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Hlásenie o aplikáciách služby Microsoft 365 – Vyskytol sa problém s vaším predplatným
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 aplikácií – vyskytol sa problém s vaším predplatným
 
 - Ak ste nedávno prešli na iné predplatné alebo plán, preinštalujte alebo aktualizujte Office podľa krokov v téme [Po zmene plánov sa v balíku Office zobrazí chyba Upozornenie konta](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d).
 
