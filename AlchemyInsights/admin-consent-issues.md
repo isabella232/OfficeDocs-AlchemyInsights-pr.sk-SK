@@ -1,5 +1,5 @@
 ---
-title: Problémy s udelením súhlasu správcu
+title: Problémy so súhlasom správcu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952588"
 ---
-# <a name="admin-consent-issues"></a>Problémy s udelením súhlasu správcu
+# <a name="admin-consent-issues"></a>Problémy so súhlasom správcu
 
-1. Povoľte [pracovný postup súhlasu správcu](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) , aby používatelia mohli požiadať o schválenie správcu priamo z obrazovky súhlasu.
+1. [Povoľte pracovný postup súhlasu správcu,](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) aby používatelia mohli požiadať správcu o schválenie priamo z obrazovky so súhlasom.
 
-1. Ak sa počas procesu udelenia súhlasu zobrazili neočakávané chyby, v tomto článku nájdete postup na riešenie problémov: [neočakávaná chyba pri vykonávaní súhlasu s aplikáciou](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Ak sa vám alebo používateľom aplikácie počas procesu súhlasu vyskytujú neočakávané chyby, pozrite si tento článok, kde nájdete kroky na riešenie problémov: Neočakávaná chyba pri vykonávaní súhlasu s [aplikáciou.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
 
-1. Ďalšie informácie o [súhlase správcu na platforme Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent), o tom, ako funguje [výzva na udelenie súhlasu](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) , a ako [vyhodnotiť žiadosť o súhlas správcu pre celú nájomníka](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. Ďalšie informácie o [súhlase správcu na stránke Microsoft identity platform,](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)o tom, ako funguje výzva na súhlasiť a ako vyhodnotiť žiadosť o súhlas správcu [v rámci celého nájomníka.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) [](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)
 
-1. Aplikácie, ktoré sú integrované s platformou Microsoft identity, sledujú autorizačný model, ktorý umožňuje používateľom a správcom kontrolovať spôsob prístupu k údajom. Implementácia modelu autorizácie bola aktualizovaná na koncovom bode Microsoft Identity Platform a mení sa, ako musí aplikácia pracovať s platformou Microsoft Identity. Pozrite si tému [povolenia a súhlas v koncovom bode platformy Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) pre prehľad tohto modelu autorizácie vrátane rozsahov, povolení a súhlasu.
+1. Aplikácie, ktoré sa integrujú Microsoft identity platform majú oprávnenie na model oprávnenia, ktorý poskytuje používateľom a správcom kontrolu nad spôsobom prístupu k údajom. Implementácia modelu oprávnení sa aktualizovala v koncovom Microsoft identity platform a mení, ako musí aplikácia pracovať s Microsoft identity platform. Ak [chcete získať prehľad tohto modelu oprávnení vrátane rozsahov,](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) povolení a súhlasu, pozrite si časť Povolenia a súhlas v koncovom Microsoft identity platform o tomto modeli oprávnení.

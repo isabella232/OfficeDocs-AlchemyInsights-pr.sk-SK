@@ -1,5 +1,5 @@
 ---
-title: Problémy s nevyžiadanou poštou s tvrdením, že sú z LinkedInu
+title: Problémy s nevyžiadanou e-mailovou správou, pri ktorých sa tvrdia, že je z LinkedInu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095989"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problémy s nevyžiadanou poštou s tvrdením, že sú z LinkedInu
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problémy s nevyžiadanou e-mailovou správou, pri ktorých sa tvrdia, že je z LinkedInu
 
-Sme si vedomí toho, že niektorí používatelia dostávajú nevyžiadanú poštu, ktorá tvrdí, že je z LinkedInu.
+Sme si vedomí toho, že niektorí používatelia dostávajú nevyžiadané e-maily, ktoré sa tvrdia, že sú z LinkedInu.
 
 Na filtrovanie týchto e-mailov odporúčame použiť pravidlo pre doručenú poštu.
 
-Ďalšie informácie nájdete [v téme Používanie pravidiel pre doručenú poštu v Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v článku Používanie pravidiel pre [doručenú poštu na lokalite Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

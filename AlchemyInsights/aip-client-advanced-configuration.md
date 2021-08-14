@@ -1,5 +1,5 @@
 ---
-title: Rozšírená Konfigurácia klienta AIP
+title: Rozšírená konfigurácia klienta AIP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951832"
 ---
-# <a name="aip-client-advanced-configuration"></a>Rozšírená Konfigurácia klienta AIP
+# <a name="aip-client-advanced-configuration"></a>Rozšírená konfigurácia klienta AIP
 
-Vyskytli sa problémy s pokročilou konfiguráciou klienta AIP? Ak áno, postupujte takto:
+Máte problémy s rozšírenou konfiguráciou klienta AIP? Ak áno, vykonajte nasledovné kroky:
 
-1. Možno používate politiky rozsahu, ktoré nie sú správne nakonfigurované. Ďalšie informácie nájdete v téme [Konfigurácia politiky ochrany informácií Azure pre konkrétnych používateľov pomocou politiky rozsahu](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. Možno používate politiky rozsahu, ktoré nie sú správne nakonfigurované. Ďalšie informácie nájdete v [téme Konfigurácia politiky Azure Information Protection pre konkrétnych používateľov pomocou politík s rozsahom.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 
-2. Ak sa problém vyskytuje aj naďalej, pozrite si zdroje nižšie. Ak problém pretrváva, vytvorte snímku obrazovky problému a priložte ju na lístok technickej podpory.
+2. Ak problém pretrváva, pozrite si nasledujúce zdroje informácií. Ak problém pretrváva, urobte snímku obrazovky s problémom a priložte ju k lístku technickej podpory.
 
-Ďalšie zdroje informácií nájdete v témach:
+Ďalšie zdroje informácií nájdete v téme:
 
-- [Konfigurovanie nastavení politiky pre ochranu informácií v službe Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Konfigurácia nastavení politiky pre Službu Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [Príručka pre správcov: vlastné konfigurácie klienta služby Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [Príručka pre správcov: Vlastné konfigurácie pre klienta Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [Čo je ochrana informácií Azure?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Čo je Azure Information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Príručky pre bežné scenáre, ktoré používajú ochranu informácií Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Príručky s návodmi pre bežné scenáre, ktoré používajú Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Konfigurovanie politiky ochrany informácií Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [Konfigurácia politiky Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [Predvolená politika ochrany informácií Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [Predvolená politika Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [Vytvorenie nového označenia pre ochranu informácií v službe Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [Vytvorenie nového označenia pre Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Konfigurovanie označenia pre ochranu pred správaním práv](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Konfigurácia označenia na ochranu prístupových práv](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [Požiadavky na ochranu informácií Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Požiadavky služby Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [Kurz: Konfigurácia nastavení politiky ochrany informácií Azure a vytvorenie novej menovky](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Kurz: Konfigurácia nastavení politiky Azure Information Protection a vytvorenie nového označenia](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

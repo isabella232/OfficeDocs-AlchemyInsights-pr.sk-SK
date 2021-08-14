@@ -1,5 +1,5 @@
 ---
-title: Vyhľadanie a obnovenie chýbajúcich alebo odstránených e-mailov, udalostí v kalendári alebo kontaktov
+title: Vyhľadanie a obnovenie chýbajúceho alebo odstráneného e-mailu, udalostí kalendára alebo kontaktov
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -21,19 +21,19 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5a8bfc34bc5642be97c7c07dd933f7f98707855f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d550831af54105330bf4c08e6dad4dce34a9f679536f208bb5e037471cd0c50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063751"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Vyhľadanie a obnovenie chýbajúcich alebo odstránených e-mailov, udalostí kalendára alebo kontaktov Outlook.com
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Vyhľadanie a obnovenie chýbajúceho alebo odstráneného e-mailu, udalostí kalendára alebo kontaktov Outlook.com
 
-- V aplikácii Pošta použite položku <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- **Vyhľadávací** panel v hornej časti stránky, v ktorom môžete [vyhľadávať správy alebo kontakty](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
+- V aplikácii Pošta použite aplikáciu <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Panel** hľadania v hornej časti stránky na [vyhľadávanie správ alebo kontaktov.](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
   
-- V kalendári použite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- **Vyhľadávací** panel v hornej časti stránky, v ktorom môžete [vyhľadávať udalosti pomocou slova, mena alebo frázy](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Ak máte otvorených viac ako jeden kalendár, vyhľadávanie sa zameria na aktuálne vybratý kalendár.
+- V kalendári použite tlačidlo <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Panel** hľadania v hornej časti stránky, ktorý [vyhľadáva udalosti pomocou slova, mena alebo slovného spojenia](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Ak máte otvorených viac kalendárov, vyhľadávanie sa zameria na kalendár, ktorý je práve vybratý.
   
-- Ak omylom odstránite správu, udalosť v kalendári alebo kontakt, môžete [tieto položky obnoviť, ak sa stále nachádzajú v priečinku Odstránené položky alebo Nevyžiadaná pošta](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+- Ak omylom odstránite správu, udalosť v kalendári alebo kontakt, môžete tieto položky obnoviť, ak sa stále nachádza v priečinku Odstránené položky alebo [Nevyžiadaná pošta.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

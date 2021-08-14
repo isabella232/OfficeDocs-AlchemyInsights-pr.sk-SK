@@ -1,5 +1,5 @@
 ---
-title: AggregateGroupMailbox úplných oznámení o nedoručení prijatých e-mailov odoslaných do skupiny Microsoft 365
+title: AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951868"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox úplných oznámení o nedoručení prijatých e-mailov odoslaných do skupiny Microsoft 365
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 
-Použite nasledujúci príkaz EXO shell na vytvorenie pravidla prenosu Exchangeu na tiché drop e-mailov odoslaných do agregovanej poštovej schránky skupiny:
+Pomocou nasledujúceho príkazu prostredia EXO Shell vytvorte pravidlo Exchange na tichú pustenie e-mailov odoslaných do agregovanej poštovej schránky skupiny:
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
 > [!NOTE]
-> Nahraďte adresu SMTP v **SentTo neakceptuje** s adresou SMTP agregovanej poštovej schránky skupiny v nájomníkovi. Môžete získať adresu SMTP celkovej poštovej schránky skupiny z prijatého oznámenia o nedoručení.
+> Nahraďte adresu SMTP v časti **-SentTo a** adresou SMTP agregovanej poštovej schránky skupiny v nájomníkovi. Z prijatej správy o nedoručení môžete získať adresu SMTP agregovanej poštovej schránky skupiny.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Riešenie problému s neoprávneným získavaním údajov v Outlook.com
+title: Manipulácia s neoprávneným získavaním údajov na lokalite Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095917"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Ako sa vysporiadať s e-mailom s neoprávneným získavaním údajov
+# <a name="how-to-deal-with-a-phishing-email"></a>Ako sa zaoberať e-mailom neoprávneným získavaním údajov
 
-Podvod s neoprávneným získavaním údajov je e-mail, ktorý sa zobrazí ako legitímny, ale je skutočne pokus ukradnúť vaše osobné informácie alebo peniaze. Podvodníci môžu tiež použiť techniku s názvom spoofing, aby sa zobrazovali ako v prípade, že ste dostali e-mail od seba.
+K neoprávnenému získavaniu údajov ide o e-mail, ktorý vyzerá legitímne, no v skutočnosti ide o pokus o krádež vašich osobných údajov alebo peňazí. Podvodníci môžu použiť aj techniku predstierania predstierania jej predstierania, takže to bude vyzerať, ako keby ste od vás dostali e-mail.
 
-Ak dostanete e-mail, ktorý vyzerá ako podvod neoprávneného získavania údajov, môžete ho ohlásiť výberom správy a následným **výberom položky**  >  **neoprávnené získavanie údajov**.
+Ak dostanete e-mail, ktorý vyzerá ako neoprávnené získavanie údajov, môžete ho nahlásiť tak, že vyberiete správu a potom vyberiete položku Neoprávnené **získavanie** údajov  >  **nevyžiadanej pošty**.
 
-*Poznámka:* Keď označíte správu ako neoprávnené získavanie údajov, oznámi to iba odosielateľ.Neblokuje, že odosielateľ vám posiela správy v budúcnosti. Ak chcete odosielateľa blokovať, musíte do zoznamu blokovaných odosielateľov pridať odosielateľa. Ďalšie informácie nájdete v téme [blokovanie odosielateľov alebo odblokovanie odosielateľov v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Poznámka:* Keď označíte správu ako neoprávnené získavanie údajov, odosielateľ sa tým hlási len. V budúcnosti vám tento odosielateľ nebude blokovať odosielanie správ. Ak chcete odosielateľa zablokovať, musíte pridať odosielateľa do zoznamu blokovaných odosielateľov. Ďalšie informácie nájdete v téme [Blokovanie alebo odblokovanie odosielateľov v Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Získajte informácie o tom [, ako sa vysporiadať s zneužitím, neoprávneným získavaním údajov alebo falšovaním v Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) a [rozšírenej Outlook.com zabezpečenia pre predplatiteľov Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Získajte informácie o tom, ako si riešiť zneužívanie, neoprávnené získavanie údajov alebo predstieranie ich predstierania na lokalite [Outlook.com,](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) a rozšírené zabezpečenie na [lokalite Outlook.com pre Microsoft 365 predplatiteľov](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

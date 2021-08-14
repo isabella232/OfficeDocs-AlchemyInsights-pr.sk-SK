@@ -1,5 +1,5 @@
 ---
-title: Problém s pripojením servera proxy aplikácie
+title: Problém s pripojením k serveru proxy aplikácie
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951616"
 ---
-# <a name="app-proxy-connection-issue"></a>Problém s pripojením servera proxy aplikácie
+# <a name="app-proxy-connection-issue"></a>Problém s pripojením k serveru proxy aplikácie
 
-1. Ak používate službu proxy aplikácie na vzdialený prístup k lokálnej webovej aplikácii, ale máte problémy s pripojením k aplikácii, použite [Tento článok](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) , ktorý vám pomôže vyriešiť problémy s konektormi proxy aplikácie Azure Active Directory (Azure AD).
-2. Ak potrebujete pomoc pri riešení bežných problémov, ktorým čelia v prípade, že sa nezistila spojnica pre aplikáciu proxy aplikácie integrovanú so službou Azure Active Directory, postupujte podľa krokov v článku [žiadne pracovné spojovacie skupiny](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) , ktoré sa používajú na riešenie problémov s aplikáciou proxy aplikácie.
+1. Ak na vzdialený prístup k lokálnej webovej aplikácii používate službu proxy aplikácie, ale máte [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) problémy s pripojením k aplikácii, tento článok vám pomôže pri riešení problémov s konektormi proxy aplikácie služby Azure Active Directory (Azure AD).
+2. Ak potrebujete pomoc pri riešení bežných problémov, pri ktorých sa zistil konektor pre aplikáciu proxy aplikácie integrovanej so serverom Azure Active Directory, postupujte podľa krokov v článku Pre aplikáciu [proxy](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) aplikácie sa nenašiel žiadna pracovná skupina konektorov, ktorá sa vyskytuje pri riešení problémov.
