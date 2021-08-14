@@ -1,5 +1,5 @@
 ---
-title: Zapnutie alebo vypnutie externého zdieľania v SharePointe
+title: Zapnutie alebo vypnutie externého zdieľania pre SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dcba3ff83c4fa4db2e687ca9236ee8732102c431edc265b9856c94c126708d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941383"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Upozorňujúce hlásenie: politiky vašej organizácie vám neumožňujú zdieľať s týmito používateľmi
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Upozornenie: Politiky vašej organizácie nepovoľujú zdieľanie s týmito používateľmi
 
-Používateľom sa môže pri pokuse o zdieľanie s externými používateľmi vašej organizácie vyskytnúť upozorňujúce hlásenie. Správa je **politika vašej organizácie, ktorá vám neumožňuje zdieľať s týmito používateľmi. Prejdite na externé zdieľanie v centre spravovania služieb Microsoft 365, aby ste ho povolili**. Tento postup sa často vyskytuje pri prvom pokuse o zdieľanie s externými používateľmi alebo pri zdieľaní s novými externými používateľmi.
+Používateľom sa môže zobraziť upozornenie pri pokuse o zdieľanie s externými používateľmi v organizácii. Správa je **Politiky vašej organizácie nepovoľujú zdieľanie s týmito používateľmi. Ak ho chcete zapnúť, prejdite na položku Centrum spravovania služby Microsoft 365 zdieľanie.** Stáva sa to pri prvom pokuse o zdieľanie s externými používateľmi alebo pri zdieľaní s novými externými používateľmi.
 
-Skontrolujte **nastavenia externého zdieľania SharePointu a OneDrivu** pre vašu organizáciu.
+Skontrolujte nastavenia **SharePoint OneDrive externé zdieľanie pre** svoju organizáciu.
 
-1. V [centre spravovania služby Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte položku **SharePoint**.
-3. Ak chcete zobraziť nastavenie externého zdieľania, vyberte položku **Zdieľanie** .
+1. V [Centrum spravovania služby Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte položku **SharePoint**.
+3. Ak **chcete zobraziť** nastavenia externého zdieľania, vyberte položku Zdieľanie.
 
-Skontrolujte **Nastavenie externého zdieľania** pre konkrétnu lokalitu.
+Skontrolujte nastavenia **externého zdieľania** pre konkrétnu lokalitu.
 
-1. V [centre spravovania služby Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte položku **SharePoint**.
-2. Ak chcete zobraziť dostupné lokality, vyberte položku **aktívne lokality** .
-3. Vyberte lokalitu, ktorú chcete skontrolovať, a potom vyberte tlačidlo **zdieľania** , ktoré sa zobrazí na paneli s ponukami, a overte nastavenia lokality.
+1. V [Centrum spravovania služby Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)vyberte položku **SharePoint**.
+2. Ak **chcete zobraziť lokality,** ktoré sú k dispozícii, vyberte položku Aktívne lokality.
+3. Vyberte lokalitu, ktorú chcete skontrolovať,  potom vyberte tlačidlo Zdieľanie, ktoré sa zobrazí na paneli s ponukami, a overte nastavenia lokality.
 
-Ďalšie informácie nájdete v téme [externé zdieľanie – Preh3/4ad](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Ďalšie informácie nájdete v téme [Prehľad externého zdieľania.](https://docs.microsoft.com/sharepoint/external-sharing-overview)

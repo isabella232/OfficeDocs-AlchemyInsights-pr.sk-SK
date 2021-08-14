@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 81906f5260c032bb15dd12dfce5945a8972fb5eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bdd9aa9fb892e021ce0d5d950d235322838a24a0090ec34e1fe040cb1473113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985448"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Skupiny v Microsoft 365 zobrazujú označenie citlivosti
 
 Môže sa zobraziť nasledujúci problém so skupinou v Microsoft 365:
 
-- Nie je možné vytvoriť skupinu Microsoft 365 zo služby OWA s chybou "Pole klasifikácie nemôže byť prázdne."
+- V aplikácii OWA sa Microsoft 365 skupina s chybou Klasifikácia poľa nemôže byť prázdna.
 
 - Zobrazuje sa označenie citlivosti pre skupiny v Microsoft 365 aj napriek tomu, že ste túto funkciu nepovolili.
 

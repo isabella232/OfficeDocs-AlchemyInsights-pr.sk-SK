@@ -1,5 +1,5 @@
 ---
-title: 620 úprava časového pásma a nastavenia jazyka v Outlooku na webe
+title: 620 Úprava časového pásma a nastavenia jazyka v Outlook na webe
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952948"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Úprava časového pásma a nastavenia jazyka v Outlooku na webe
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Úprava časového pásma a nastavenia jazyka v Outlook na webe
 
-Ak chcete upraviť časové pásmo a nastavenia jazyka v Outlooku na webe, ku ktorému máte prístup pomocou pracovného alebo školského konta, pozrite si tému [Zmena časového pásma a nastavenia jazyka v Outlooku na webe](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
+Ak chcete upraviť časové pásmo a jazykové nastavenia v aplikácii Outlook na webe, ku ktorým pristupujte pomocou pracovného alebo školského konta, pozrite si časť Zmena časového pásma a nastavenia jazyka [v Outlook na webe.](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)
   

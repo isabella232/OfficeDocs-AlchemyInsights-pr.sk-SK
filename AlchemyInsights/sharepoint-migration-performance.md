@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -12,12 +13,12 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 901da763a9b13a034d882d974f6c56e012c1ebc4100768d5314a2e8fa80bdb31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941606"
 ---
 # <a name="sharepoint-migration-performance-guidance"></a>Odporúčanie pre výkon migrácie SharePoint
 
