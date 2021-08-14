@@ -1,5 +1,5 @@
 ---
-title: Zdieľanie súboru vo OneDrive alebo SharePoint s externými používateľmi
+title: Zdieľanie OneDrive alebo SharePoint s externými používateľmi
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 242284b6300d871c52a7bf4a2975a121be738566
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d43150d3e11c3d15302231b919497d3a9876c05ddc720f46b1428d1f6f09eeb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094441"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Zdieľanie súboru alebo priečinka služby OneDrive alebo SharePoint s externými používateľmi
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Zdieľanie OneDrive alebo SharePoint alebo priečinka s externými používateľmi
 
-1. V prehliadači prejdite na súbor alebo priečinok, ktorý chcete zdieľať, vyberte ho a potom kliknite na položku **zdieľať**.
+1. V prehliadači prejdite na súbor alebo priečinok, ktorý chcete zdieľať, vyberte ho a potom kliknite na položku **Zdieľať**.
     
-2. V dialógovom okne Odoslať prepojenie kliknite na šípku nadol a zmeňte typ prepojenia.
+2. V dialógovom okne Odoslanie prepojenia kliknutím na šípku nadol zmeňte typ prepojenia.
     
-3. V časti **Komu by sa vám páčilo toto prepojenie**, ak chcete, aby príjemcovia mohli zdieľať prepojenie alebo **konkrétnych ľudí** s prístupom iba k zadaným osobám, vyberte položku **ktokoľvek** . 
+3. V **Kto** chcete, aby toto prepojenie bolo  pre vás k dispozícii, vyberte možnosť  Ktokoľvek, ak chcete, aby príjemcovia mohli zdieľať prepojenie, alebo možnosť Konkrétne osoby, aby prístup mohli poskytnúť iba ľuďom, ktorých zadáte. 
     
-    Ak tieto možnosti nie sú k dispozícii, je potrebné uistiť sa, že sú povolené pre vašu organizáciu a pre kolekciu lokalít. Ak to chcete urobiť, pozrite si tému [Zapnutie alebo vypnutie externého zdieľania v SharePointe Online](https://go.microsoft.com/fwlink/?linkid=866426).
+    Ak tieto možnosti nie sú k dispozícii, musíte sa uistiť, že sú povolené pre vašu organizáciu a pre kolekciu lokalít. Ak to chcete urobiť, pozrite [si časť Zapnutie alebo vypnutie externého zdieľania pre SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=866426)
     
 4. Kliknite na tlačidlo **Použiť**.
     
-5. Zadajte mená ľudí, s ktorými chcete zdieľať, a potom kliknite na položku **Odoslať**.
+5. Zadajte mená osôb, s ktorých chcete zdieľať, a potom kliknite na položku **Odoslať**.
     
 

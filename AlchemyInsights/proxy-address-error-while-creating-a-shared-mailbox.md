@@ -1,5 +1,5 @@
 ---
-title: Chyba adresy proxy pri vytváraní zdieľanej poštovej schránky
+title: Chyba proxy adresy pri vytváraní zdieľanej poštovej schránky
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: ab491e883ab294f08d0b5d2e686dc059b468d29f
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: 7c15d5db5445fbe4c3ec22878f180f48d2da4f90369f2e6f223916646eb19c12
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062923"
 ---
-# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Chyba adresy servera proxy pri vytváraní poštovej schránky alebo iného objektu s povoleným e-mailom
+# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Chyba adresy servera proxy pri vytváraní poštovej schránky alebo iného objektu s povolenou e-mailovou schránkou
 
-Ak ste sa pokúsili vytvoriť objekt s podporou e-mailu (poštová schránka, zdieľaná poštová schránka atď.) a zobrazilo sa chybové hlásenie "adresa proxy" SMTP:alias@domain.com "sa už používa...", vybratá e-mailová adresa je už v organizácii prijatá iným objektom s podporou e-mailu.
+Ak ste sa pokúsili vytvoriť objekt s podporou e-mailu (poštová schránka, zdieľaná poštová schránka atď.) a vyskytla sa chyba "Adresa servera proxy SMTP:alias@domain.com sa už používa...", e-mailová adresa, ktorú ste vybrali, sa už vo vašej organizácii nachádza v inom objekte s e-mailovou schránkou.
   
-Potrebujete nájsť používateľa, skupinu, zdieľanú poštovú schránku alebo verejný priečinok, ktorý má túto e-mailovú adresu, a odstrániť ho alebo zmeniť jeho e-mailovú adresu. Potom môžete vytvoriť nový objekt s podporou e-mailu s uvoľnenou e-mailovou adresou. Pomocou vyhľadávania na domovskej stránke ho vyhľadajte. Na jeho vyhľadanie môžete použiť aj tento príkaz prostredia Exchange Online PowerShell:
+Je potrebné vyhľadať používateľa, skupinu, zdieľanú poštovú schránku alebo verejný priečinok s touto e-mailovou adresou a odstrániť alebo zmeniť jeho e-mailovú adresu. Potom môžete vytvoriť nový objekt s podporou e-mailu s bezplatnou e-mailovou adresou. Vyhľadajte ju pomocou funkcie vyhľadávania na domovskej stránke. Ak ho chcete vyhľadať, môžete Exchange Online pomocou nasledujúceho príkazu v prostredí PowerShell:
 
 `
     Get-EXORecipient -Filter "EmailAddresses -eq 'email@contoso.onmicrosoft.com'"

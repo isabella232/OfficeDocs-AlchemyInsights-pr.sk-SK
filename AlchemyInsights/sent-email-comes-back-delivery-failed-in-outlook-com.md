@@ -1,5 +1,5 @@
 ---
-title: 8000044 odoslané e-maily sa vrátia ' doručenie zlyhalo ' v Outlook.com
+title: 8000044 odoslaných e-mailov sa vráti na lokalite Outlook.com "doručenie zlyhalo"
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1eeabc9ef499f870d3ce14507791fc11508f52f13830b706ad1044c98454c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942706"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Odoslanie e-mailu sa vráti "doručenie zlyhalo"
+# <a name="sent-email-comes-back-delivery-failed"></a>Odoslaný e-mail sa vráti s chybou "doručenie zlyhalo"
 
-Zlyhanie doručenia alebo e-mailové správy, ktoré sa vrátia ako Nedoručiteľné, sa môžu stať z niekoľkých dôvodov. Ďalšie informácie o najbežnejších chybových správach spolu s navrhovanými riešeniami nájdete v téme [odoslanie e-mailu v Outlook.com sa vráti "doručenie zlyhalo"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Neúspešné doručenia alebo e-mailové správy, ktoré sa vrátia ako nedoruiteľné, sa môžu stať z viacerých dôvodov. Ďalšie informácie o bežných chybových hláseniach a navrhovaných riešeniach nájdete v téme Odoslané e-maily na lokalite [Outlook.com sa vrátia ako "doručenie zlyhalo".](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
   

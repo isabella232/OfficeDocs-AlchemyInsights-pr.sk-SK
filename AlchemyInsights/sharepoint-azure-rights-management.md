@@ -1,5 +1,5 @@
 ---
-title: Obmedzenie prístupu v SharePointe alebo OneDrive
+title: Obmedzenie prístupu v SharePoint alebo OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,28 +8,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 71cfef0cedcc17833b19ed5f050a6510fe1371b58de9054eace2f29a46b3e06d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942148"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>Ochrana prostredníctvom správy prístupových práv k súborom SharePointu
+# <a name="irm-protection-to-sharepoint-files"></a>IrM Protection na SharePoint súborov
 
 
-V rámci SharePointu Online sa ochrana IRM použije na súbory na úrovni zoznamu a knižnice. Skôr ako vaša organizácia môže používať ochranu IRM, musíte najprv nastaviť správu prístupových práv. Správa prístupových práv k informáciám sa opiera o službu Azure Rights Management zo služby Azure Information Protection na šifrovanie a priradenie obmedzení používania. Niektoré predplatné služieb Microsoft 365 zahŕňa správu prístupových práv Azure, nie však všetky. 
+V SharePoint online sa ochrana IRM použije pre súbory na úrovni zoznamu a knižnice. Skôr ako bude vaša organizácia používať ochranu IRM, musíte najskôr nastaviť správu prístupových práv. Správa prístupových práv k informáciám (IRM) využíva službu Azure Rights Management od služby Azure Information Protection na šifrovanie a priraďovanie obmedzení používania. Niektoré Microsoft 365 sú Azure Rights Management, ale nie všetky. 
 
 Ďalšie informácie nájdete v témach:
 
-- [Ako aplikácie a služby balíka Office podporujú službu Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Ako Office a služieb podporuje Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [Nastavenie správy prístupových práv k informáciám (IRM) v centre spravovania služby SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [Nastavenie správy prístupových práv k informáciám (IRM) SharePoint spravovania.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
 
-- [IRM – povolenie knižníc a zoznamov dokumentov SharePointu](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [Zapnutie správy prístupových práv SharePoint knižniciach dokumentov a zoznamoch](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)pomocou správy prístupových práv k informáciám.
 
-- [Správa prístupových práv k informáciám v balíku Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Správa prístupových práv k informáciám v Office.](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)
 
-- [Správa prístupových práv k informáciám v službe Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).
+- [Správa prístupových práv k informáciám v Exchange Online.](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online)
 
 

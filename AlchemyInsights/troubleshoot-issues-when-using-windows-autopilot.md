@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov pri používaní funkcie Windows autopilot
+title: Riešenie problémov pri používaní funkcie Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008345"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Riešenie problémov pri používaní funkcie Windows autopilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Riešenie problémov pri používaní funkcie Windows AutoPilot
 
-Ak máte problém s funkciou autopilot, prečítajte si tému [Riešenie problémov s autopilotom](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) a [známe problémy](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+Ak máte problém s aplikáciou AutoPilot, pozrite si stránky [Riešenie problémov AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) a [Známe](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) problémy.
 
-Ak máte problém so zastavením funkcie autopilot systému Windows v priebehu fázy registrácie (ESP), prečítajte si nasledujúce informácie o tom, ako vyriešiť váš problém. [Porozumieť a riešiť problémy so stavom registrácie](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Ak máte problém s Windows AutoPilot, ktorý sa zastavil počas fázy stránky stavu registrácie (ESP), pozrite si nasledujúci dokument a pozrite si tipy na riešenie vášho problému. [Informácie o stránke stavu registrácie a riešenie jej problémov](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Ak chcete vyskúšať autopilot s HoloLens 2 zariadeniami, skontrolujte, či ste si prečítali dokumentáciu[systému Windows autopilot pre HoloLens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) . To vám pomôže pochopiť predpoklady a Odporúčané kroky na registráciu HoloLens 2 pomocou funkcie autopilot  
+Ak chcete vyskúšať AutoPilot so zariadeniami Hololens 2, skontrolujte dokumentáciu k Windows[AutoPilot pre HoloLens 2.](https://docs.microsoft.com/hololens/hololens2-autopilot) Pomôže vám to pochopiť predpoklady a odporúčané kroky pre registráciu Hololens 2 pomocou funkcie AutoPilot  
 
-Ďalšie informácie o nastavení služby Windows autopilot nájdete v téme [registrácia zariadení s Windowsom v službe Intune pomocou funkcie Windows autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Ďalšie informácie o nastavení funkcie Windows Autopilot nájdete v téme [Registrácia Windows zariadení v intune pomocou Windows AutoPilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

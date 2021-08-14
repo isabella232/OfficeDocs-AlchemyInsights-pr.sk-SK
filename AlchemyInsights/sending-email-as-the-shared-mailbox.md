@@ -14,18 +14,18 @@ ms.custom:
 - "622"
 - "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 0311a22e689f27868a2b0cd252af34926dad9902
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 562562e76f7eb93e5647641a327dd7a767ce590a1dabfaa67a89b3f4f53f35c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942742"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>Odoslanie e-mailu ako zdieľanej poštovej schránky
 
 Po vytvorení zdieľanej poštovej schránky môžu používatelia, ktorí sú členmi poštovej schránky, odosielať e-maily ako identitu zdieľanej poštovej  *schránky (info@contoso.com*  ). Pokyny nájdete v téme:
   
-[Otvorenie a používanie zdieľanej poštovej schránky v Outlooku 2016 a Outlooku 2013](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[Otvorenie a používanie zdieľanej poštovej schránky vo Outlook 2016 a Outlook 2013](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[Pridanie zdieľanej poštovej schránky do Outlooku na webe](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[Pridanie zdieľanej poštovej schránky do Outlook na webe](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   

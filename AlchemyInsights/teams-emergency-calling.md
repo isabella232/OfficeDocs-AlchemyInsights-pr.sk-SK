@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: 023d67ab0a055f97ed0e0f15cb4f9325aabcafba
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
+ms.openlocfilehash: 4e696ef434e8017e84b75632845eb20fdf201ccb7e80a5b07864b8848b891c69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008561"
 ---
 # <a name="teams-emergency-calling"></a>Núdzové volania cez aplikáciu Teams
 

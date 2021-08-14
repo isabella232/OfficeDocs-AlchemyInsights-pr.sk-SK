@@ -1,5 +1,5 @@
 ---
-title: Teams pre virtualizovanú infraštruktúru pracovnej plochy
+title: Teams pre Virtualized Desktop Infrastructure
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008525"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams pre virtualizovanú infraštruktúru pracovnej plochy
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams pre Virtualized Desktop Infrastructure
 
-Podrobné informácie o aplikácii Teams pre prostredia Virtualizovanej infraštruktúry pracovnej plochy nájdete v téme [Tímy pre virtualizovanú infraštruktúru pracovnej plochy.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
+Podrobné informácie o Teams prostredí Virtualized Desktop Infrastructure nájdete v téme Informácie Teams [pre Virtualizovanú infraštruktúru pracovnej plochy.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
 Známe problémy a obmedzenia v prostrediach VDI sú podrobne uvedené v časti Známe problémy a obmedzenia toho istého článku, ktorá obsahuje tieto témy: [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations)
  - Nasadenie, inštalácia a nastavenie klienta
