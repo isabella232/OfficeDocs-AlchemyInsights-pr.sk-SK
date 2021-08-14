@@ -1,5 +1,5 @@
 ---
-title: 8000049 v programe Outlook.com chýba ikona Skype
+title: 8000049 Skype na lokalite Outlook.com chýba ikona
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6864ffb57acf80ad3732826618bc2e2c0dc8823a9fc91593be0a3697cd110ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063535"
 ---
-# <a name="skype-icon-missing"></a>Ikona Skypeu chýba
+# <a name="skype-icon-missing"></a>Skype chýba ikona
 
-Dočasne sme odstránili ikonu Skypu z Outlook.com ako súčasť obnovenia návrhu a aktualizácie funkcií, ktoré sme si radi vyhľadali. Vážime si vašej trpezlivosti, zatiaľ čo my Pripravujeme nové a vylepšené prostredie.
+Dočasne sme odstránili ikonu pre Skype z lokality Outlook.com v rámci obnovenia návrhu a aktualizácie funkcií, s radosťou sa s tým snažíme zúčastniť. Ďakujeme vám za trpezlivosť a zároveň pripravujeme nové a vylepšené prostredie.
 
-Skype môžete používať aj prostredníctvom prehliadača na lokalite [web.Skype.com](https://web.skype.com).
+V prehliadači môžete Skype prehliadačom aj [naďalej web.skype.com](https://web.skype.com).

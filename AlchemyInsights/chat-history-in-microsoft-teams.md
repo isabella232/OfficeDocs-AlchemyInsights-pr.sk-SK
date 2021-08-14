@@ -1,5 +1,5 @@
 ---
-title: História chatov v aplikácii Microsoft Teams
+title: História chatu vo Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 92f1c902b36b78a8e3399420816c5699e3e0e5af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b1d6d10ecb38c75e7ef0553bc579e8a040bc38a8985e0700fe011e72e5f8c8b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949726"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>Zobrazenie histórie chatu v Aplikácii Microsoft Teams
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Zobrazenie histórie chatu v Microsoft Teams
 
-Ak chcete zobraziť históriu chatu aplikácie Teams, môžete použiť vyhľadávanie obsahu z Centra zabezpečenia [a dodržiavania](https://sip.protection.office.com/insightdashboard)súladu pre & , kde môžete vyhľadávať v poštovej schránke priradenej k skupine v Microsoft 365 alebo k tímu spoločnosti Microsoft. [](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 
+Ak chcete Teams zobraziť históriu konverzácie, môžete použiť vyhľadávanie obsahu z centra zabezpečenia [& dodržiavania](https://sip.protection.office.com/insightdashboard)súladu, kde môžete vyhľadávať poštovú schránku priradenú k skupine Microsoft 365 alebo tímu spoločnosti Microsoft. [](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) 
 
-Pozrite si časť Vyhľadávanie v aplikácii Microsoft Teams a skupinách [v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) a získajte informácie o možnostiach vyhľadávania z centra zabezpečenia a dodržiavania súladu. 
+Pozrite [si Microsoft Teams a Microsoft 365 skupín a](https://docs.microsoft.com/microsoft-365/compliance/content-search) získajte informácie o možnostiach vyhľadávania z Centra zabezpečenia a dodržiavania súladu. 
 
-**Poznámka:** Zálohovanie, exportovanie, tlač a archivácia histórie konverzácií v súčasnosti nie je k dispozícii priamo v aplikácii Microsoft Teams. Hlasujte o tejto možnosti vo [UserVoice.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20) 
+**Poznámka:** Zálohovanie, exportovanie, tlač a archivácia histórie konverzácií v súčasnosti nie sú k dispozícii priamo od Microsoft Teams. Hlasujte o tejto možnosti vo [UserVoice.](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20) 
