@@ -1,5 +1,5 @@
 ---
-title: Obnovenie odstránených videí z priečinka Kôš
+title: Obnovenie odstránených videí streamov z Koša
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959446"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Obnovenie odstránených videí z priečinka Kôš
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Obnovenie odstránených videí streamov z Koša
 
-Po odstránení videí v Microsoft streame sa presunie do 30-dňového koša.
+Po odstránení videí v Microsoft Streame sa videá prejdú do Koša na 30 dní.
 
-Kôš videa umožňuje obnoviť videá, ak boli omylom odstránené alebo natrvalo odstrániť videá, ktoré sa už nachádzajú v koši pred uplynutím 30-dňového limitu.
+Kôš videa vám umožňuje obnoviť videá v prípade, že boli omylom odstránené, alebo natrvalo odstrániť videá, ktoré sa už nachádzali v Koši pred limitom 30 dní.
 
-Ďalšie informácie nájdete v téme:
+Ďalšie informácie nájdete v téme:
 
-- [Obnovenie odstránených videí z koša](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [Kôš videa pre správcu prúdu údajov](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [Obnovenie odstránených videí z Koša](https://docs.microsoft.com/stream/portal-my-recycle-bin)
+- [Kôš videa pre správcu Streamu](https://docs.microsoft.com/stream/admin-recycle-bin)

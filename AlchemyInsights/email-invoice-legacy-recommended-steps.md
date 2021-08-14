@@ -1,5 +1,5 @@
 ---
-title: E-mailová faktúra – staršie
+title: E-mailová faktúra – staršia verzia
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003639"
 ---
-# <a name="e-mail-invoice---legacy"></a>E-mailová faktúra – staršie
+# <a name="e-mail-invoice---legacy"></a>E-mailová faktúra – staršia verzia
 
-**Prihlásenie na odber faktúr prostredníctvom e-mailu**
+**Prihlásenie na prijímanie faktúr za predplatné e-mailom**
 
-Ak chcete dostávať faktúru e-mailom, musíte mať rolu správcu konta v predplatnom alebo pláne podpory. E-mailové faktúry sú k dispozícii len pre predplatné a plány podpory, nie pre rezervácie ani nákupy služby Azure Marketplace. Po zapojení môžete pridať ďalších príjemcov, ktorí budú dostávať faktúru aj e-mailom.
+Ak sa chcete prihlásiť na prijímanie faktúry e-mailom, musíte mať rolu správcu konta v rámci predplatného alebo plán podpory. E-mailové faktúry sú k dispozícii len pre predplatné a plány podpory, nie pre rezervácie ani nákupy v službe Azure Marketplace. Po súhlase môžete pridať ďalších príjemcov, ktorí faktúru dostanú aj e-mailom.
 
-Ak chcete získať faktúry za predplatné prostredníctvom e-mailu, postupujte podľa týchto krokov:
+Ak chcete faktúry predplatného získať e-mailom, postupujte podľa týchto krokov:
 
-1. Prihláste sa na [portáli Azure](https://portal.azure.com/).
-2. Vyhľadajte **správu nákladov + Fakturácia**.
-3. Vyberte položku **faktúry** z možností na ľavej strane.
-4. Vyberte predplatné služby Azure predplatného alebo plánu podpory a potom vyberte položku **prijať faktúru e-mailom**.
-5. Kliknite na položku **e-mailová faktúra** a vyjadrite súhlas s podmienkami.
-6. Faktúra sa odošle do preferovaného komunikačného e-mailu. Ak chcete aktualizovať e-mail, vyberte položku **aktualizovať profil** .
+1. Prihláste sa na [portál Azure.](https://portal.azure.com/)
+2. Vyhľadajte **Cost Management + Billing** (Správa nákladov a fakturácia).
+3. V **možnostiach na ľavej** strane vyberte položku Faktúry.
+4. Vyberte predplatné na Azure alebo plán podpory a potom vyberte položku **Prijať faktúru e-mailom**.
+5. Kliknite na **položku Odoslať faktúru** e-mailom a vyjadrite súhlas s podmienkami.
+6. Faktúra sa odošle na preferovaný komunikačný e-mail. Výberom **položky Aktualizovať profil** aktualizujte e-mail.
 
-**Pridanie ďalších príjemcov na prijímanie faktúr**
+**Pridanie ďalších príjemcov na príjem faktúr**
 
-Ak chcete zdieľať faktúry za svoj plán predplatného a podpory každý mesiac s účtovným tímom alebo ich odoslať na jednu z vašich ďalších e-mailových adries:
+Ak chcete každý mesiac zdieľať faktúry s plánom predplatného a podpory s účtovným tímom alebo ich odoslať na niektorú z vašich ďalších e-mailových adries:
 
-1. Ak chcete najprv povoliť faktúru e-mailom a potom vyberte položku **Konfigurovať príjemcov,** postupujte podľa vyššie uvedených krokov.
-2. Zadajte e-mailovú adresu a potom vyberte položku **Pridať príjemcu**. Môžete pridať viac e-mailových adries.
-3. Po pridaní všetkých e-mailových adries vyberte položku **Done (Hotovo** ) v dolnej časti obrazovky.
+1. Podľa krokov uvedených vyššie najprv povoľte faktúru e-mailom a potom vyberte položku **Konfigurovať príjemcov.**
+2. Zadajte e-mailovú adresu a potom vyberte **položku Pridať príjemcu**. Môžete pridať viacero e-mailových adries.
+3. Po pridaní všetkých e-mailových adries vyberte **v dolnej** časti obrazovky položku Hotovo.
 
 **Povoliť ostatným stiahnutie faktúry predplatného**
 
-Ak chcete používateľom alebo skupinám povoliť prístup na úrovni predplatného na stiahnutie faktúry:
+Ak chcete povoliť používateľom alebo skupinám s prístupom na úrovni predplatného stiahnuť faktúru:
 
-1. Prihláste sa na [portáli Azure](https://portal.azure.com/) ako správca konta pre predplatné.
-2. Vyhľadajte **správu nákladov + Fakturácia**.
-3. Vyberte položku **faktúry** z možností na ľavej strane.
-4. Vyberte svoje predplatné Azure a potom kliknite na položku **Povoliť ostatným na stiahnutie faktúry**.
-5. Vyberte položku **zapnuté** a potom položku **Uložiť** v hornej časti stránky.
+1. Prihláste sa na [portál Azure](https://portal.azure.com/) ako správca konta pre predplatné.
+2. Vyhľadajte **Cost Management + Billing** (Správa nákladov a fakturácia).
+3. V **možnostiach na ľavej** strane vyberte položku Faktúry.
+4. Vyberte svoje predplatné na Azure a potom kliknite na **položku Povoliť ostatným stiahnutie faktúry**.
+5. Vyberte **možnosť** On (Dňa) **a potom** položku Save (Uložiť) v hornej časti stránky.
 
 > [!NOTE]
-Ak nie ste správcom konta, obráťte sa na správcu konta a postupujte podľa vyššie uvedených pokynov a prihláste sa, pridajte príjemcov alebo umožnite ostatným používateľom stiahnuť si faktúru.
+Ak nie ste správcom konta, obráťte sa na svojho správcu konta a postupujte podľa pokynov uvedených vyššie a prihláste sa, pridajte príjemcov alebo povoľte ostatným používateľom stiahnuť faktúru.

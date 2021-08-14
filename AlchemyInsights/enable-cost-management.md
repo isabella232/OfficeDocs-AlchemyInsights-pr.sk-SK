@@ -13,46 +13,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003584"
 ---
 # <a name="enable-cost-management"></a>Povolenie správy nákladov
 
-**Čo znamená, že náklady sú pre vašu organizáciu vypnuté?**
+**Čo znamenajú "neaktivované náklady pre vašu organizáciu"?**
 
-Organizácie, ktoré používajú kontá Enterprise Agreement (EA) alebo Microsoft Customer Agreement (MCA), môžu zablokovať prístup k informáciám o nákladoch a informáciám o cenách.
+Organizácie používajúce kontá zmluva Enterprise (EA) alebo zmluvy spoločnosti Microsoft so zákazníkom (MCA) môžu zakázať prístup k informáciám o nákladoch a cenovým informáciám.
 
-Po prihlasovaní na portál Azure môžete použiť fakturačné rozhrania API na programovanie faktúr (raz sa prihlásili) a Podrobnosti o používaní.
+Po prihlásení na portál Azure môžu využívať rozhrania API fakturácie na programové získanie faktúr (po prihlásení) a podrobností o používaní.
 
-**Povolenie ďalších používateľov na prístup k faktúram**
+**Povolenie prístupu k faktúre pre ďalších používateľov**
 
-1. Prejdite na položky **predplatné Blade** na portáli Azure Portal.
-2. Vyberte položku **faktúry** a potom **prístup k faktúram**.
-3. Zapnite Access a potom uložte zmeny a umožnite používateľom v rámci úloh v rámci predplatného preberať faktúry.
+1. Prejdite na **blade Predplatné na** portáli Azure.
+2. Vyberte **položku Faktúry** a potom položku Prístup k **faktúre**.
+3. Zapnite prístup a uložte zmeny, aby mohli používatelia s rolami v rámci predplatného sťahovať faktúry.
 
 > [!NOTE]
-> Správca konta môže tiež nakonfigurovať, aby sa faktúry odosielali e-mailom. Ďalšie informácie nájdete v téme [získanie faktúry prostredníctvom e-mailu](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+> Správca konta môže tiež nakonfigurovať, aby sa faktúry odosielali prostredníctvom e-mailu. Ďalšie informácie nájdete v téme [Ako odoslať faktúru e-mailom](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Pridanie používateľov do roly čítačky fakturácie**
 
-1. Prejdite na položky **predplatné Blade** na portáli Azure Portal.
-2. Vyberte položku **Access Control (IAM)** a potom kliknite na položku **Pridať**.
-3. Vyberte položku **čítačka fakturácie** na stránke **Vyberte rolu** .
-4. Zadajte e-mailovú adresu používateľa, ktorého chcete pozvať, a potom kliknite na **tlačidlo OK** , ak chcete pozvánku Odoslať.
-5. Ak sa chcete prihlásiť ako čítačka fakturácie, postupujte podľa pokynov uvedených v časti pozvať e-mail. Ďalšie informácie nájdete v téme [udelenie prístupu k fakturácii](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
+1. Prejdite na **blade Predplatné na** portáli Azure.
+2. Vyberte **položku Access control (IAM) (Ovládací prvok prístupu) a** potom kliknite na položku **Pridať**.
+3. Na **stránke Výber roly** vyberte **položku Čítačka fakturácie.**
+4. Zadajte e-mail používateľa, ktorého chcete pozvať, a kliknutím na tlačidlo **OK odošlite** pozvánku.
+5. Postupujte podľa pokynov uvedených v e-maile s pozvánkou a prihláste sa ako čítačka fakturácie. Ďalšie informácie nájdete v téme [Udelenie prístupu k fakturácii.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in)
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
-- [Povolenie zobrazenia DA a AO cez portál EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
-- [Náklady zahrnuté v správe nákladov](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
+- [Povolenie zobrazení DA a AO prostredníctvom portálu EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [Náklady zahrnuté v riadení nákladov](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
 - [Podporované ponuky služby Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
-- [Revízia nákladov na analýzu nákladov](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
-- [Poskytnutie prístupu k informáciám o fakturácii](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Kontrola prístupu k Zmluve o zákazníkovi spoločnosti Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Kontrola nákladov v analýze nákladov](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
+- [Poskytnutie prístupu k fakturačným údajom](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Kontrola prístupu k zmluve spoločnosti Microsoft so zákazníkom](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 
 

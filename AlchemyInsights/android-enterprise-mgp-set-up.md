@@ -1,5 +1,5 @@
 ---
-title: 'Chyba registrácie pre Android v podniku: zisťovanie nastavenia MGP'
+title: 'Chyba registrácie v Androide Enterprise: DETEKCIP – zisťovanie nastavenia'
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "8340"
-ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 9493d4cede39b4fb5aa41638c0f709b9025b2468ade322be6991bdad17e97d5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932868"
 ---
-# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Chyba registrácie pre Android v podniku: zisťovanie nastavenia MGP
+# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Chyba registrácie v Androide Enterprise: DETEKCIP – zisťovanie nastavenia
 
-Zistili sme, že spravovaný Google Play nie je nastavený alebo odpojený pre vaše konto. Môže to spôsobiť zlyhanie zapísať zariadenia do podnikových scenárov Androidu, kde sa vyžaduje spravované pripojenie služby Google Play.
+Zistili sme, že spravované prehrávanie Google Play nie je pre vaše konto nastavené ani odpojené. To môže spôsobiť zlyhanie registrácie zariadení v scenároch s Androidom Enterprise, pri ktorých sa vyžaduje spravované pripojenie Google Play.
 
-Stav pripojenia služby Google Play môžete skontrolovať v konzole MEM v časti **Správa nájomníkov > stav nájomníka > stav konektora** a prečítajte si nasledujúcu dokumentáciu, kde nájdete informácie o tom, ako prepojiť konto Intune s spravovaným kontom Google: **[Pripojenie konta služby Intune k spravovanému kontu Google Play](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**.
+Stav spravovaného pripojenia Cez Google Play môžete skontrolovať v konzole MEM v časti Správa nájomníkov > Stav nájomníka **> Stav** konektora a v nasledujúcej dokumentácii sa dozviete, ako pripojiť konto Intune k spravovanému kontu Google: Pripojenie vaše konto Intune do konta **[spravovaného google play.](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**

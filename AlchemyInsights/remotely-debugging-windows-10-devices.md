@@ -1,5 +1,5 @@
 ---
-title: Začíname s ladením zariadení s Windowsom 10 na diaľku
+title: Začíname s vzdialeným ladením Windows 10 zariadenia
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959410"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Začíname s ladením zariadení s Windowsom 10 na diaľku
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Začíname s vzdialeným ladením Windows 10 zariadenia
 
-Ak chcete na diaľku ladiť živý obsah v zariadení s Windowsom 10 z počítača s Windowsom alebo macOS:
+Ak chcete na diaľku ladiť živý obsah v Windows 10 zariadení z Windows alebo macOS:
 
-1. Nastavte zariadenie s Windowsom 10 na vzdialené ladenie a pripojte sa k neho z vývojového zariadenia.
-2. Skontrolujte a ladenie živého obsahu v zariadení s Windowsom 10 z vývojového stroja.
+1. Nastavte si Windows 10 na vzdialené ladenie a pripojte sa k nej z vývojového zariadenia.
+2. Kontrola a ladenie živého obsahu vo Windows 10 zariadení z vášho vývojového zariadenia.
 3. Screencast content from your Windows 10 device onto a DevTools instance on your development machine.
 
-Ďalšie informácie nájdete v téme [Začíname so vzdialeným ladením zariadení s Windowsom 10 pomocou Microsoft Edgeu.](https://go.microsoft.com/fwlink/?linkid=2142172)
+Ďalšie informácie nájdete v téme [Začíname zariadení so vzdialeným Windows 10 ladením pomocou Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)

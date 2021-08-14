@@ -1,5 +1,5 @@
 ---
-title: Povolenie a prehľadávanie denníka auditu
+title: Povolenie a vyhľadávanie v denníku auditu
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003659"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Povolenie a prehľadávanie denníka auditu
+# <a name="enable-and-search-the-audit-log"></a>Zapnutie a vyhľadávanie v denníku auditu
 
 **Microsoft 365**
 
-Ak chcete vyhľadať denník auditu v službe Microsoft 365, postupujte podľa [týchto krokov](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Ak chcete prehľadávať Microsoft 365 auditu, postupujte [podľa týchto krokov.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Aktivity správcu servera Exchange sú v predvolenom nastavení auditované.
+- Exchange aktivity správcu sú predvolene auditované.
 
-- Auditovanie poštových schránok je predvolene zapnuté v programe Microsoft 365. Ďalšie informácie nájdete v  [tomto článku](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
+- Auditovanie poštovej schránky je v predvolenom nastavení Microsoft 365. Ďalšie informácie nájdete v [tomto článku.](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
 
-- Poštové schránky skupiny Microsoft 365 a poštové schránky verejného priečinka v službe Exchange Online nepodporujú zapisovanie do denníka auditu.
+- Microsoft 365 Skupinové poštové schránky a poštové schránky verejných Exchange Online nepodporuje zapisovanie do denníka auditu.
 
 **SharePoint a OneDrive**
 
-- Na povolenie auditovania pre SharePoint a OneDrive nie je potrebná žiadna ďalšia konfigurácia.
+- Na povolenie auditovania pre SharePoint a OneDrive nie je potrebná žiadna OneDrive.
 
-- Služby SharePoint a OneDrive podporujú auditovanie nasledujúcich typov aktivít:
+- SharePoint a OneDrive podporu auditovania týchto typov aktivít:
 
-    - Aktivity týkajúce sa súborov, priečinkov a stránok
-    - Aktivity týkajúce sa zdieľania a žiadosti o prístup
-    - Aktivity týkajúce sa správy lokality
+    - Aktivity so súbormi, priečinkami a stránkami
+    - Aktivity súvisiace so zdieľaním a žiadosťou o prístup
+    - Aktivity správy lokality
     - Aktivity synchronizácie súborov
 
-- Informácie o auditovaných aktivitách v iných službách nájdete v  [tabuľke v tomto článku](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Informácie o auditových aktivitách v iných službách nájdete [v tabuľke v tomto článku.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Tu nájdete zoznam najčastejšie kladených otázok [najčastejšie otázky](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) o vyhľadávaní denníka auditu.
+- Tu je zoznam najčastejších otázok [o prehľadávaní](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) denníka auditu.

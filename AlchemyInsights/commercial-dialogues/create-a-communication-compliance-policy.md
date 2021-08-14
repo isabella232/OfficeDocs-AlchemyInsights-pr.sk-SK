@@ -1,5 +1,5 @@
 ---
-title: Vytvorenie politiky súladu komunikácie
+title: Vytvorenie politiky dodržiavania súladu s predpismi na komunikáciu
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995060"
 ---
-# <a name="create-a-communication-compliance-policy"></a>Vytvorenie politiky súladu komunikácie
+# <a name="create-a-communication-compliance-policy"></a>Vytvorenie politiky dodržiavania súladu s predpismi na komunikáciu
 
-Tento krok sa vyžaduje. Politiku dodržiavania súladu s oznámením môžete vytvoriť v centre dodržiavania súladu Microsoft 365. Postupujte takto:
+Tento krok je povinný. Politiku dodržiavania súladu s predpismi na komunikáciu môžete vytvoriť na Centrum dodržiavania súladu pre Microsoft 365. Postupujte takto:
 
-1. V [centre dodržiavania súladu pre Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130502)vyberte položku **súlad s komunikáciami**.
-2. Vyberte kartu **politiky** .
-3. Vyberte položku **vytvoriť politiku** a vytvorte a nakonfigurujte novú politiku zo šablóny alebo vytvorte a nakonfigurujte vlastnú politiku.
-4. Po dokončení vyberte položku **vytvoriť politiku** , ak používate šablónu alebo **Odoslať** , ak používate sprievodcu Custom Policy Wizard.
+1. V zozname [Centrum dodržiavania súladu pre Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130502)položku Súlad **komunikácie**.
+2. Vyberte **kartu** Politiky.
+3. Výberom **položky Vytvoriť** politiku môžete vytvoriť a nakonfigurovať novú politiku zo šablóny alebo vytvoriť a nakonfigurovať vlastnú politiku.
+4. Po dokončení vyberte položku **Vytvoriť politiku,** ak používate šablónu, alebo položku **Odoslať,** ak používate sprievodcu vlastnou politikou.
 
-Ďalšie informácie nájdete v téme [Vytvorenie politiky dodržiavania súladu](https://go.microsoft.com/fwlink/?linkid=2129079)s informáciami vrátane návodu na používanie Sprievodcu politikou a o zastaraní vstavaného zastavenia urážlivého jazyka.
+Ďalšie informácie vrátane informácií o používaní Sprievodcu politikami a o zastavení vstavaného klasifikátora urážlivého jazyka nájdete v téme Vytvorenie politiky na zabezpečenie [súladu s predpismi na komunikáciu.](https://go.microsoft.com/fwlink/?linkid=2129079)

@@ -1,5 +1,5 @@
 ---
-title: Otázky o používaní nástroja na nasadenie balíka Office (ODT)
+title: Otázky týkajúce sa používania nástroja Office na nasadenie (ODT)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d38866647c7bf286b5b5b21e7fdcc94af72ea1850bc40391af077aa230b8b4fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959698"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Otázky o používaní nástroja na nasadenie balíka Office (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Otázky týkajúce sa používania nástroja Office na nasadenie (ODT)
 
-Stiahnite si Nástroj na nasadenie balíka Office z [Centra sťahovania softvéru spoločnosti Microsoft.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
+Stiahnite si nástroj Office na nasadenie z Centra [sťahovania softvéru spoločnosti Microsoft.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
 Po stiahnutí súboru spustite samoobslužný spustiteľný súbor, ktorý obsahuje spustiteľný nástroj na nasadenie balíka Office (setup.exe) a vzorový konfiguračný súbor (configuration.xml).
   
- **Vylúčenie alebo odstránenie aplikácií Microsoft 365 pre podnikové produkty z klientskych počítačov:**
+ **Vylúčenie alebo odstránenie produktov Aplikácie Microsoft 365 pre veľké organizácie z klientskych počítačov:**
   
-Pri inštalácii aplikácií Microsoft 365 pre veľké podniky môžete vylúčiť konkrétne produkty. Postupujte podľa krokov na inštaláciu balíka Office s ODT, ale do konfiguračného súboru zahrňte prvok ExcludeApp. Týmto konfiguračným súborom sa napríklad nainštalujú všetky aplikácie Microsoft 365 pre podnikové produkty okrem Publishera:
+Pri inštalácii Aplikácie Microsoft 365 pre veľké organizácie môžete vylúčiť konkrétne produkty. Ak to chcete urobiť, postupujte podľa krokov na Office s ODT, ale do konfiguračného súboru zahrňte prvok ExcludeApp. Tento konfiguračný súbor napríklad nainštaluje všetky produkty Aplikácie Microsoft 365 pre veľké organizácie okrem Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ Pri inštalácii aplikácií Microsoft 365 pre veľké podniky môžete vylúči
 </Add>
 ```
 
-[Prehľad nástroja na nasadenie balíka Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Prehľad nástroja Office na nasadenie](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
