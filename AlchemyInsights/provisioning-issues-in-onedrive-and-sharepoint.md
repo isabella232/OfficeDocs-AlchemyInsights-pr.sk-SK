@@ -1,5 +1,5 @@
 ---
-title: Poskytovanie problémov vo OneDrive a SharePointe
+title: Problémy s poskytovaním vo OneDrive a SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,16 +7,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: aee565878fe2d879f0d74cd20dcff044e08abc12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5b416da323c1c02bde2a85b52027ba582aca7dc49bcf4db7fcede5100d0ed7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943786"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Poskytovanie problémov vo OneDrive a SharePointe
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Problémy s poskytovaním vo OneDrive a SharePoint
 
-Po pridaní používateľa k existujúcemu nájomníkovi sa môžu zobraziť ikony SharePointu Online alebo OneDrivu for Business, ktoré sú uvedené ako nastavenie, až kým sa neukončí proces poskytovania. Pre novovytvorené kontá sa používatelia musia prihlásiť do centra spravovania služby Microsoft 365 s vlastným kontom a potom kliknutím na položku OneDrive manuálne spustiť poskytovanie lokality OneDrive.
+Po pridaní používateľa do existujúceho nájomníka sa ikony služby SharePoint Online alebo OneDrive for Business môžu zobraziť ako Nastavenie dovtedy, kým sa proces zriaďovania nedokončí. V prípade novovytvorených kont sa musia používatelia prihlásiť do služby Centrum spravovania služby Microsoft 365 pomocou vlastného konta a potom kliknutím na položku OneDrive manuálne spustiť poskytovanie OneDrive lokality.
   
-Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prihláste prípad podpory. V mnohých prípadoch už pracujeme na riešení. Ak chcete vyplniť riešenie, poskytnite nám aspoň 24 hodín.
+Ak uplynulo viac než 24 hodín od toho, čo ste tento problém prvýkrát videli, prihláste sa do prípadu podpory. V mnohých prípadoch už pracujeme na riešení. Dajte nám aspoň 24 hodín na dokončenie riešenia.
   

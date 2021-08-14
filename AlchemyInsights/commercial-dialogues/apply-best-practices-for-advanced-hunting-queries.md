@@ -1,5 +1,5 @@
 ---
-title: Použitie najvhodnejších postupov pri rozšírených dotazoch na lov
+title: Použitie najvhodnejších postupov pre pokročilé dotazy na vlaňajšie
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd13e2e8801db3df91140ce371813d900d72e38b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e2a22563a840cd6017afd343bad108be216738742938a48ba5ceb1010fd16098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930148"
 ---
-# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Použitie najvhodnejších postupov pri rozšírených dotazoch na lov
+# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Použitie najvhodnejších postupov pre pokročilé dotazy na vlaňajšie
 
-Ak chcete rýchlejšie získavať výsledky a vyhnúť sa timeoutom pri spúšťaní zložitých dotazov, použite tieto najvhodnejšie postupy:
+Ak chcete získať výsledky rýchlejšie a vyhnúť sa časovým limitom počas spúšťania zložitých dotazov, použite tieto osvedčené postupy:
 
-- Pri pokuse o nové dotazy vždy použite limit, aby sa predišlo extrémne vysokým množinám výsledkov. Môžete tiež použiť `count` na vytvorenie počiatočného hodnotenia veľkosti množiny výsledkov.
-- Najprv použite časové filtre. V ideálnom prípade Obmedzte dotazy na sedem dní.
-- Na začiatku dotazu, hneď po uplynutí časového filtra, pridajte filtre, ktoré sa očakávajú na odstránenie väčšiny údajov.
-- Pri vyhľadávaní úplných tokenov použite `has` operátor skôr ako `contains` .
-- Spustite vyhľadávanie v konkrétnom stĺpci a nie vo všetkých stĺpcoch.
-- Pri pripájaní k tabuľkám najskôr zadajte tabuľku s menším počtom riadkov.
-- `project` iba potrebné stĺpce z tabuliek, ku ktorým ste sa pripojili.
+- Pri pokuse o nové dotazy vždy použite limit, aby ste sa vyhli príliš veľkým množinám výsledkov. Môžete tiež `count` vykonať počiatočné hodnotenie veľkosti súboru výsledkov.
+- Najskôr použite filtre času. V ideálnom prípade dotazy obmedzte na sedem dní.
+- Na začiatku dotazu hneď za filtrom času pridajte filtre, ktoré by mali odstrániť väčšinu údajov.
+- Pri hľadaní celých tokenov použite `has` operátor namiesto `contains` operátora .
+- Spustite radšej vyhľadávanie v konkrétnom stĺpci, nie vo všetkých stĺpcoch.
+- Pri spájaní tabuliek najprv zadajte tabuľku s menším počtom riadkov.
+- `project` len potrebné stĺpce z tabuliek, ktoré ste pripojili.
 
-Ďalšie informácie nájdete v téme [pokročilé postupy lovu v dotaze](https://go.microsoft.com/fwlink/?linkid=2144812).
+Ďalšie informácie nájdete v téme Osvedčené [postupy týkajúce sa rozšírených dotazov na vyhľadávanie.](https://go.microsoft.com/fwlink/?linkid=2144812)

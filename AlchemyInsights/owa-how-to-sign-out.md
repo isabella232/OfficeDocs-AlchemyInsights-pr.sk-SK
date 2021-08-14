@@ -1,5 +1,5 @@
 ---
-title: Ako sa odhlásiť z Outlooku na webe
+title: Ako sa odhlásiť z Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063175"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Ako sa odhlásiť z Outlooku na webe
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Ako sa odhlásiť z Outlook na webe
 
-Ak sa chcete odhlásiť z Outlooku na webe, vyberte svoje meno alebo obrázok v pravom hornom rohu a vyberte položku **odhlásiť sa**.
+Ak sa chcete z Outlook na webe, vyberte svoje meno alebo obrázok v pravom hornom rohu a vyberte položku **Odhlásiť sa**.
 
-Zastavenie automatického prihlásenia do pracovného alebo školského konta:
+Ak chcete zastaviť automatické prihlasovanie do pracovného alebo školského konta:
 
-1. Vyberte svoje meno alebo obrázok a vyberte položku **odhlásiť sa**.
-1. Prejdite na [Outlook.Office.com](https://outlook.office.com/) a vyberte položku **použiť iné konto**.
+1. Vyberte svoje meno alebo obrázok a vyberte položku **Odhlásiť sa**.
+1. Prejdite do [časti Outlook.office.com](https://outlook.office.com/) vyberte položku **Použiť iné konto**.
 1. Prihláste sa pomocou e-mailovej adresy, ktorú chcete použiť.
 
-Ďalšie informácie nájdete v téme [prihlásenie alebo odhlásenie z Outlooku na webe](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Ďalšie informácie nájdete v téme [Prihlásenie alebo odhlásenie z Outlook na webe.](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)

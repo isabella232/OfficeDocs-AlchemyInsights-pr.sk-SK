@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063031"
 ---
 # <a name="project-online-is-in-a-read-only-state"></a>Project Online je v stave iba na čítanie
 
-Existujú tri bežné dôvody, prečo Project Online môže dosiahnuť stav iba na čítanie:
+Existujú tri bežné dôvody, Project Online môžu mať stav iba na čítanie:
 
-1. Organizácie majú iba licencie na Project Online Essentials. Toto nestačí na to, aby sa lokalita nachádzala nažive a nakoniec sa obmedzila.Lokalita sa umiestni v stave iba na čítanie, aby správcovia vedeli, že je niečo zle a môže získať správne licencie. Správcovia budú musieť pridať licenciu na Project Online Professional alebo Premium. Lokalita bude z tohto miesta vychádzať iba na čítanie. Ďalšie informácie nájdete v téme [porovnanie riešení na riadenie projektov](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Dosiahla sa priradená kvóta. Ďalšie informácie nájdete v téme [kvóta webovej aplikácie Project Web App](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Ak chcete zistiť, ako môže zrnitosť zostavy ovplyvniť používanie kvóty, začiarknite políčko [Konfigurovať súhrn údajov s časovým usporiadaním údajov v Projecte Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) .
-3. Iba na čítanie môže byť veľmi dočasná podmienka, ktorá sa môže vyskytnúť počas údržby. Väčšina údržby si ani nevšimol naši zákazníci a nebudete ju často vidieť, ale sú chvíle, kedy sa vyskytli krátke obdobia iba na čítanie.
+1. Organizácie majú iba Project Online Essentials licencie na licencie na licenciu alebo licencie. Nie je to dostatočný priestor na to, aby ste lokalitu chceli žilať a nakoniec sa jej poskytovanie skončí. Lokalita sa umiestni do stavu iba na čítanie, aby správcovia vedeli, že niečo je v poriadku a môžu získať správne licencie. Správcovia budú musieť pridať licenciu Project Online Professional alebo Premium licencie. V tomto bode lokalita nebude v tomto bode k dispozícii iba na čítanie. Ďalšie informácie nájdete v téme [Porovnanie Project managementu](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Dosiahol sa priradená kvóta. Ďalšie informácie nájdete v téme [Project Web App kvóty.](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) Začiarknite [políčko Konfigurovať súhrn časovo nastavených](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) údajov zostáv v Project Online a zistite, ako môže granularita vykazovania ovplyvniť používanie kvóty.
+3. Iba na čítanie môže byť veľmi dočasná podmienka, ktorá sa môže vyskytnúť počas údržby. Naši zákazníci si ani nevšimnú väčšinu údržby, no často sa vám to nebude páčiť, no môže sa vyskytol problém s krátkym obdobím iba na čítanie.
