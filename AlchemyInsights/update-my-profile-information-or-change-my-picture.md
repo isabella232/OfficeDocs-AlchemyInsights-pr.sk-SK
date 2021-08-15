@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038199"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Aktualizácia informácií o profile alebo zmena obrázka
 
-Momentálne nie je možné upravovať a aktualizovať informácie v profile priamo z Outlooku pre iOS, ale je možné ich upravovať inde. 
+Momentálne nie je možné upravovať a aktualizovať informácie v profile priamo z balíka Outlook pre iOS, tieto informácie je však možné upravovať inde. 
 
-Svoj profil môžete aktualizovať v Outlooku pre Windows alebo v Outlooku na webe (OWA). 
+Svoj profil môžete aktualizovať buď v aplikácii Outlook for Windows alebo Outlook na webe (OWA). 
 
 **Outlook pre Windows:** 
 
-- **Súbor**  >  **Konto balíka Office**  >  **Informácie o používateľovi**  >  **O mne** (prináša vás na online profil služby Microsoft 365) > **Aktualizovať** profil alebo kliknutím na ikonu fotoaparátu zmeňte svoju fotografiu  
+- **Súbor**  >  **Office konto**  >  **Informácie o používateľovi**  >  **O mne** (privolá vás prístup Microsoft 365 online) > Aktualizovať profil alebo kliknutím na ikonu fotoaparátu zmeníte svoju fotografiu   
   
 **Outlook na webe (OWA):** 
 

@@ -1,5 +1,5 @@
 ---
-title: Odblokovanie e-mailu
+title: Odblokovanie e-mailov
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994736"
 ---
-# <a name="unblock-email"></a>Odblokovanie e-mailu
+# <a name="unblock-email"></a>Odblokovanie e-mailov
 
-Ak sa e-mailové konto používateľa blokuje pri odosielaní nevyžiadanej pošty, tu je postup, ako ho získať znova:
+Ak je e-mailové konto používateľa zablokované na odosielanie nevyžiadanej pošty, môžete ho znova spustiť takto:
 
-1. *Okamžite* vytvorte nové heslo pre príslušné konto. Neodosielajte používateľovi nové heslo prostredníctvom e-mailu. Týmto zabránite komukoľvek v prístupe k odosielaniu nevyžiadanej pošty.
-2. Prejdite do centra zabezpečenia & dodržiavania súladu a zistite, či sa konto nachádza v [zozname obmedzených používateľov](https://protection.office.com/#/restrictedusers).
-3. Vyberte ikonu **Hľadať** a zadajte meno používateľa s obmedzeným prístupom. Ak je napríklad e-mailová adresa používateľa *Rob@contoso.com*, stačí zadať príkaz **Rob**.
-4. Ak máte konto, vyberte položku **odblokovať**. Postupujte podľa krokov na table prebaľovacieho panela a potom vyberte možnosť **Áno** na potvrdenie.  
+1. Okamžite si obnovte heslo príslušného *konta.* Neposielajte nové heslo používateľovi e-mailom. Zabránite tak každému, aby k nej mohol získať prístup k nevyžiadanej pošte.
+2. Prejdite do Centra zabezpečenia & a zistite, či sa konto nachádza v zozname Obmedzený [používatelia.](https://protection.office.com/#/restrictedusers)
+3. Vyberte **ikonu** hľadať a zadajte meno používateľa s obmedzením. Ak napríklad máte e-mailovú adresu používateľa v *rob@contoso.com*, stačí zadať **meno používateľa rob**.
+4. Ak sa konto nachádza, vyberte položku **Odblokovať**. Postupujte podľa krokov na flyout table a potom výberom položky **Áno potvrďte.**  
     > [!NOTE]
-    > Po odblokovaní by konto malo byť schopné začať odosielať správy v 3-4 hodín.
+    > Po odblokovanie by malo mať konto možnosť začať odosielať správy o 3 – 4 hodiny.

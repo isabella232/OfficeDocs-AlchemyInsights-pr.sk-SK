@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955216"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Prístup odmietnutý pri zobrazení pracovného postupu
 
-Pracovné postupy SharePointu 2013, ktoré sa pokúšajú odoslať e-maily do skupiny SharePointu, môžu zlyhať s chybovým hlásením "prístup odmietnutý", ak členstvo v skupine SharePoint nie je nastavené na hodnotu všetci.
+Pracovné postupy balíka SharePoint 2013, ktoré sa pokúšajú odoslať e-mail skupine vo SharePoint, môžu zlyhať s chybým "Prístup odmietnutý", ak členstvo v skupine SharePoint nie je nastavené na možnosť Všetci.
   
- **Ak chcete tento problém vyriešiť, vykonajte tieto kroky:**
+ **Ak chcete tento problém vyriešiť, postupujte takto:**
   
- 1. Povoliť každému Zobraziť členov skupiny SharePoint.
+ 1. Umožniť všetkým zobraziť členov tejto SharePoint skupiny.
   
- 2. Odstráňte skupinu SharePointu z riadku Komu alebo kópia e-mailu.
+ 2. Odstráňte SharePoint e-mailu z riadka Komu alebo Kópia.
   
- 3. Ak nie je možné zmeniť viditeľnosť členstva v skupine SharePoint, explicitne Pridajte používateľov do riadku Komu alebo kópia.
+ 3. Explicitne pridajte používateľov do riadka Komu alebo Kópia, ak sa viditeľnosť členstva nedá zmeniť SharePoint skupiny.
   
-Ak chcete zobraziť ďalšie podrobnosti, prečítajte si [http neoprávnené na/_vti_bin/Client.SVC/SP.Utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Ak chcete zobraziť ďalšie podrobnosti, pozrite si časť HTTP Neoprávnené do [/_vti_bin/client.svc/sp.utilities.utility.SendEmail.](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)
   
