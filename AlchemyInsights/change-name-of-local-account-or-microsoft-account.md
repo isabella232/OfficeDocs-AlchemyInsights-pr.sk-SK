@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017831"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Zmena názvu lokálneho konta alebo konta Microsoft
 
-Ak na prihlásenie do Windowsu 10 používate len meno používateľa a heslo, používate lokálne konto. 
+Ak na prihlásenie do služby Windows 10 používate len meno používateľa a heslo, používate lokálne konto. 
 
 **Zmena názvu lokálneho konta:**
 
@@ -37,7 +37,7 @@ Ak na prihlásenie používate e-mailovú adresu a heslo, používate konto Micr
 
 **Zmena zobrazovaného mena konta Microsoft:**
 
-Zobrazované meno sa používa pri každom prihlásení do konta. Je to aj meno, ktoré sa zobrazí v zariadeniach s Windowsom 10, a je to meno, ktoré sa ľuďom zobrazí pri odosielaní e-mailov. Tento názov sa môže líšiť od zobrazovaného mena vášho lokálneho konta. Zobrazované meno zmeníte takto:
+Zobrazované meno sa používa pri každom prihlásení do konta. Je to aj meno, ktoré sa zobrazí vo Windows 10 zariadeniach a je to meno, ktoré sa ľuďom zobrazí pri odosielaní e-mailov. Tento názov sa môže líšiť od zobrazovaného mena vášho lokálneho konta. Zobrazované meno zmeníte takto:
 
 1. Prihláste sa na **stránku Vaše údaje** na webovej lokalite konta [Microsoft.](https://account.microsoft.com/)
 

@@ -1,5 +1,5 @@
 ---
-title: Riešenie nevyžiadanej pošty v Outlooku na webe
+title: Riešenie nevyžiadanej pošty v Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982604"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Označenie e-mailových správ ako nevyžiadanej pošty v Outlooku na webe
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Označenie e-mailových správ ako nevyžiadaných Outlook na webe
 
-Ak chcete označiť správu ako nevyžiadanú alebo nevyžiadanú poštu, vyberte správu v zozname správ **a vyberte položku Nevyžiadaná**  >  **Pošta**.
+Ak chcete označiť správu ako nevyžiadanú alebo nevyžiadanú poštu, vyberte správu v zozname správ a vyberte položku  >  **Nevyžiadaná pošta**.
 
-Ak chcete blokovať všetky správy z konkrétnej e-mailovej adresy, vyberte správu alebo správy v zozname správ a potom vyberte položku **Nevyžiadaná**  >  **blok**.
+Ak chcete blokovať všetky správy z konkrétnej e-mailovej adresy, vyberte správu alebo správy v zozname správ a potom vyberte položku **Blokovanie**  >  **nevyžiadanej pošty**.
 
-Ak omylom označíte správu ako nevyžiadanú, vyberte správu v priečinku Nevyžiadaná pošta a vyberte položku **nie je Nevyžiadaná**  >  **Not junk**. (*Poznámka:* položky v priečinku Nevyžiadaná pošta sa po uplynutí 30 dní odstránia.)
+Ak omylom označíte správu ako nevyžiadanú, vyberte správu v priečinku Nevyžiadaná pošta a vyberte možnosť Nie je  >  **nevyžiadaná.** (*Poznámka:* Položky v priečinku Nevyžiadaná pošta sa odstránia po 30 dňoch.)
 
-Získajte ďalšie informácie o tom [, ako zabezpečiť, aby sa Nevyžiadaná pošta z Outlooku v priečinku doručenej pošty.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Získajte ďalšie informácie o tom, ako udržať nevyžiadanú poštu z priečinka doručenej pošty [Outlook na webe doručenej pošty.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
