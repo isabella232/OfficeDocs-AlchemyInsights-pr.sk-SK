@@ -1,5 +1,5 @@
 ---
-title: Použitie služby Microsoft Intune na spravovanie prístupu na web v aplikácii Microsoft Edge pre iOS a Android
+title: Použitie Microsoft Intune na spravovanie prístupu na web v Microsoft Edge pre iOS a Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975872"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Použitie služby Microsoft Intune na spravovanie prístupu na web v aplikácii Microsoft Edge pre iOS a Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Použitie Microsoft Intune na spravovanie prístupu na web v Microsoft Edge pre iOS a Android
 
 Microsoft Edge pre iOS a Android umožňuje používateľovi prehľadávať web z viacerých úplne samostatných profilov.
 
-Keď sa prihlásite na odber balíka Enterprise Mobility + Security, ktorý zahŕňa funkcie Microsoft Intune a Azure Active Directory Premium, napríklad podmienený prístup, k dispozícii sú možnosti širokej ochrany údajov služby Microsoft 365. Budete chcieť nasadiť minimálne politiku podmieneného prístupu, ktorá (1) umožní používateľom pripojiť sa z mobilných zariadení k Microsoft Edgeu pre iOS a Android a (2) implementuje politiku ochrany aplikácie Microsoft Intune, ktorá poskytuje chránený zážitok z prehľadávania.
+Keď sa prihlásite na odber Microsoft 365 Enterprise Mobility + Security, ktorý obsahuje funkcie programov Microsoft Intune a Azure Active Directory Premium, ako je napríklad podmienený prístup, k dispozícii sú najširšie možnosti ochrany údajov. Budete chcieť nasadiť minimálne politiku podmieneného prístupu, ktorá (1) umožní používateľom pripojiť sa z mobilných zariadení k aplikácii Microsoft Edge pre iOS a Android a že (2) implementuje politiku ochrany aplikácie Microsoft Intune, ktorá poskytuje chránený zážitok z prehľadávania.
 
 Ak chcete porozumieť tomu, ako môžete používať podmienený prístup a politiky, pozrite si téme:
 
-[Použitie politík podmieneného prístupu v službe Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Použitie Azure Active Directory politiky podmieneného prístupu](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Vytvorenie politík ochrany aplikácií od Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Vytvorenie Microsoft Intune ochrany aplikácií](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Používanie jediného prihlásenia pre webové aplikácie pripojené k službe Azure Active Directory v prehliadačoch chránených politikami](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Používanie jediného prihlásenia pre webové Azure Active Directory aplikácie pripojené k politike v prehliadačoch chránených politikami](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Použitie konfigurácie aplikácie na spravovanie prehľadávania](https://go.microsoft.com/fwlink/?linkid=2132483)
 
@@ -43,6 +43,6 @@ Ak chcete porozumieť tomu, ako môžete používať podmienený prístup a poli
 
 [Nasadenie politík konfigurácie aplikácií na ochranu údajov](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Na nasadenie politík konfigurácie aplikácií použite Microsoft Endpoint Manager](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Použitie Microsoft Endpoint Manager na nasadenie politík konfigurácie aplikácií](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Informácie o prístupe k denníkom spravovaných aplikácií nájdete v téme Prístup k denníkom spravovaných aplikácií pomocou aplikácie [Microsoft Edge pre iOS a Android.](https://go.microsoft.com/fwlink/?linkid=2132578)
+Informácie o prístupe k denníkom spravovaných aplikácií nájdete v téme Microsoft Edge pre iOS a Android na prístup [k denníkom spravovaných aplikácií.](https://go.microsoft.com/fwlink/?linkid=2132578)

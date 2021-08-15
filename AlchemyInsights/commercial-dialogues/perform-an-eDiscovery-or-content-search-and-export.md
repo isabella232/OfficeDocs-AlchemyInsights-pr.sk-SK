@@ -1,5 +1,5 @@
 ---
-title: Vykonanie vyhľadávania eDiscovery a obsahu a exportu
+title: Vyhľadávanie eDiscovery/vyhľadávanie obsahu a exportovanie
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016643"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>Vykonanie vyhľadávania eDiscovery a obsahu a exportu
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>Vyhľadávanie eDiscovery/vyhľadávanie obsahu a exportovanie
 
-Tu je postup, ako vyhľadať obsah vo vašej organizácii a exportovať:
+Tu je postup vyhľadávania obsahu vo vašej organizácii a exportu:
 
-1. Prejdite do [Centra zabezpečenia & dodržiavania súladu](https://go.microsoft.com/fwlink/?linkid=2086958) a prejdite na položky **vyhľadávanie**  >  **obsahu** vyhľadávanie  >  **+ nové vyhľadávanie**.
+1. Prejdite do centra [zabezpečenia & súladu a](https://go.microsoft.com/fwlink/?linkid=2086958) prejdite na položku Vyhľadávanie **obsahu**  >  **+** nové  >  **vyhľadávanie.**
 1. Zadajte kľúčové slová a podmienky, ktoré chcete vyhľadať.
-1. V dolnej časti stránky špecifikujte umiestnenia, ktoré chcete vyhľadať (napríklad e-maily, správy o tímoch, lokality SharePoint), alebo kliknite na položku **všetky umiestnenia**.
-1. Kliknite na položku **uložiť & spustiť**. Pomenujte vyhľadávací dotaz a potom kliknite na tlačidlo **Uložiť**. Dotaz sa spustí a zobrazí výsledky.
+1. V dolnej časti stránky zadajte umiestnenia, v ktorých chcete vyhľadávať (napríklad e-maily, Teams správy, lokality alebo SharePoint lokality) alebo kliknite na **položku Všetky umiestnenia**.
+1. Kliknite **na položku & spustiť.** Zadajte názov vyhľadávacieho dotazu a potom kliknite na položku **Uložiť**. Dotaz sa spustí a zobrazí výsledky.
 
-Informácie o exportovaní výsledkov hľadania nájdete v téme [exportovanie výsledkov vyhľadávania obsahu](https://go.microsoft.com/fwlink/?linkid=2102118).
+Informácie o exportovaní výsledkov vyhľadávania nájdete v téme [Export výsledkov vyhľadávania obsahu.](https://go.microsoft.com/fwlink/?linkid=2102118)
 

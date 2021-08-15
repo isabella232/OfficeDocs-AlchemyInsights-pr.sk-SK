@@ -1,5 +1,5 @@
 ---
-title: Ďalšie informácie o označeniach citlivosti alebo ich riešenie
+title: Získajte informácie o označeniach citlivosti alebo ich riešenie problémov
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 27c08c071b2feb8458f03d2b01017a6c348111a3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: 898f1fcd189e2656dbdb9921f0c34a5d30976ac210766ca28284c455053dae50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016823"
 ---
-# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Ďalšie informácie o označeniach citlivosti alebo ich riešenie
+# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Získajte informácie o označeniach citlivosti alebo ich riešenie problémov
 
-Prehľad označení citlivosti nájdete v téme [informácie o označeniach citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Prehľad označení citlivosti nájdete v téme [Informácie o označeniach citlivosti.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Ak ste nakonfigurovali označenia citlivosti, ale nezobrazujú sa v aplikáciách balíka Office, vykonajte tieto úlohy:
+Ak ste nakonfigurovali označenia citlivosti, ale v aplikáciách balíka Office sa nezobrazujú, vykonajte tieto úlohy:
 
-- Skontrolujte, či je priradená licencia na Office 365 E3 alebo E5.
+- Uistite sa, Office 365 E3 priradená licencia na E5.
 
-- Potvrďte, že označenie citlivosti bolo zverejnené používateľom a skupinám, ktoré chcete.
+- Potvrďte, že označenie citlivosti bolo publikované pre používateľov a skupiny, ktoré chcete.
 
-- Overte, či používateľ používa aplikáciu, ktorá podporuje označenia citlivosti. Ďalšie informácie nájdete v téme [Použitie označení citlivosti na dokumenty a e-maily v rámci balíka Office](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9).
+- Potvrďte, že používateľ používa aplikáciu, ktorá podporuje označenia citlivosti. Ďalšie informácie nájdete v téme [Použitie označení citlivosti na dokumenty a e-maily v Office](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9).
 
-- Ak chcete migrovať označenia Azure Information Protection, prečítajte si tému [migrácia menoviek Azure Information Protection na zjednotené označenia citlivosti](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+- Ak chcete migrovať označenia Služby Azure Information Protection, pozrite si časť Migrácia označení služby Azure Information Protection do [zjednotených označení citlivosti.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)
 
-- Uistite sa, že je nainštalovaný klient Azure Information Protection. Ďalšie informácie nájdete v téme [Azure Information Protection Unified labeling client](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history).
+- Skontrolujte, či je nainštalovaný klient Azure Information Protection. Ďalšie informácie nájdete v téme [Zjednotené označovanie klienta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)azure Information Protection.
 
-Ak vyššie uvedené úlohy nepomohli vyriešiť problémy s menovkami citlivosti, prečítajte si tému [známe problémy s menovkami citlivosti v balíku Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Ak vám vyššie uvedené úlohy nepomázli pri riešení problémov s označeniami citlivosti, pozrite si časť Známe problémy s označeniami citlivosti [v Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969320"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Automatické použitie označení citlivosti
 
-Označenia citlivosti je možné manuálne použiť na obsah pre používateľov alebo ich môžete nakonfigurovať tak, aby sa automaticky aplikovali na obsah.
+Označenia citlivosti môžu používatelia použiť na obsah manuálne alebo ich môžete nakonfigurovať tak, aby sa automaticky použili na obsah.
 
-Automatické použitie označení citlivosti odstraňuje potrebu školiť používateľov o tom, ako klasifikovať obsah a je potrebné ich informovať o konfiguráciách politiky.
+Automatické použitie označení citlivosti odstraňuje potrebu školiť používateľov o klasifikácii obsahu a potrebe oznámení o konfiguráciách politík.
 
-Ak chcete použiť menovky automaticky, vyžaduje sa nasledovné:
+Ak chcete označenia použiť automaticky, je potrebné:
 
-- Predplatné na Azure Information Protection
-- [Stiahnutie a inštalácia jednotného označenia klienta Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Predplatné na Azure Information Protection P2
+- [Stiahnutie a inštalácia zjednoteného klienta označenia Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Pracujeme na natívnej podpore, ktorá v budúcnosti nemusí byť klientom Unified labeling Protection Azure Information Protection.
+Pracujeme na natívnej podpore, ktorá v budúcnosti nebude vyžadovať zjednotené označovanie klienta Azure Information Protection.
 
-V súčasnosti iba Windows podporuje Unified labeling Client.  Funkcia zatiaľ nie je podporovaná v systémoch Mac, iOS a Android.
+V súčasnosti jednotnú Windows podporuje iba podpora pre klienta so zjednotením označení.  Táto funkcia zatiaľ nie je podporovaná v Macu, iOS a Androide.
 
-Ďalšie informácie o označeniach citlivosti a ich použití automaticky na obsah nájdete v témach:
+Ďalšie informácie o označeniach citlivosti a ich automatickom použití v obsahu nájdete v téme:
 
 - [Prehľad označení citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 - [Automatické použitie označenia citlivosti na obsah](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
