@@ -1,5 +1,5 @@
 ---
-title: Potrebujem pomoc s mojím Outlook.com kontom
+title: Potrebujem pomoc s mojím kontom Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b2e5e92eb009f7027e9795e358485f3d22e979fb7126285694dd2b3a7ea70b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025769"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Potrebujem pomoc s mojím Outlook.com kontom
+# <a name="need-help-with-my-outlookcom-account"></a>Potrebujem pomoc s mojím kontom Outlook.com
 
-Ak potrebujete pomoc s týmto Outlook.com, venujeme vám pomoc. Získanie podpory priamo vo webovej aplikácii: 
+Ak potrebujete pomoc so serverom Outlook.com, venujeme vám pomoc. Získanie podpory priamo vo webovej aplikácii: 
 
 1. Kliknite na ? v pravej hornej časti obrazovky. 
 
