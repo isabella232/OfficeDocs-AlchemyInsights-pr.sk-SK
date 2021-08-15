@@ -1,5 +1,5 @@
 ---
-title: Aktualizácia predanej a fakturačnej adresy priradenej k vášmu doplnku MCA – Odporúčané kroky
+title: Aktualizácia predanej adresy a adresy na faktúru, ktorá je priradená k vášmu MCA – odporúčané kroky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001523"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aktualizácia predanej a fakturačnej adresy priradenej k vášmu doplnku MCA – Odporúčané kroky
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Aktualizácia predanej adresy a adresy na faktúru, ktorá je priradená k vášmu MCA – odporúčané kroky
 
-Môžete aktualizovať adresu predanej a fakturačnej adresy priradenú k vašej zmluve o zákazníkovi spoločnosti Microsoft (MCA). 
+Môžete aktualizovať dodanú a vyúčtovanú adresu priradenú k zmluve spoločnosti Microsoft so zákazníkom (MCA). 
 
 > [!NOTE]
-> Zmeny v informáciách používateľského profilu služby Azure Active Directory môže vykonávať len správca používateľa. Ak nemáte priradenú rolu správcu používateľov, obráťte sa na správcu vášho používateľa. Ďalšie informácie o zmene profilu používateľa nájdete v téme [Pridanie alebo aktualizácia informácií o profile používateľa pomocou služby Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Zmeny v používateľských profiloch môže Azure Active Directory správca používateľa. Ak nemáte priradenú rolu správcu používateľa, obráťte sa na správcu používateľov. Ďalšie informácie o zmene používateľského profilu nájdete v téme Pridanie alebo aktualizácia [informácií o profile používateľa pomocou Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Adresa predaná na** adresu – adresa na predávanie je adresa a kontaktné informácie organizácie alebo osoby, ktorá je zodpovedná za fakturačné konto. Zobrazí sa vo všetkých faktúrach vygenerovaných pre konto fakturácie.
+**Adresa na dodané** – dodaná adresa je adresa a kontaktné informácie organizácie alebo jednotlivca, ktorý je zodpovedný za fakturačné konto. Zobrazí sa vo všetkých faktúrach vygenerované pre fakturačné konto.
 
-**Adresa platiteľa** – adresa platiteľa je adresa a kontaktné informácie organizácie alebo osoby, ktorá je zodpovedná za faktúry vygenerované pre fakturačné konto. Pre fakturačné konto pre MCA je k dispozícii adresa platiteľa pre každý profil fakturácie a zobrazuje sa na faktúre vygenerovanej pre profil fakturácie.
+**Fakturačná adresa** – adresa faktúry je adresa a kontaktné informácie organizácie alebo jednotlivca, ktorá je zodpovedná za faktúry vytvorené pre fakturačné konto. V prípade fakturačného konta mca je k dispozícii fakturačná adresa pre každý fakturačný profil a zobrazuje sa na faktúre vygenerovanej pre fakturačný profil.
 
-**Aktualizácia predaného konta na fakturáciu MCA**:
+**Aktualizácia predanej adresy fakturačného konta MCA:**
 
-1. Prihláste sa na portáli Azure pomocou e-mailovej adresy, ktorej vlastníkom alebo prispievateľom je rola na fakturačnom konte MCA.
-1. Vyhľadanie   +  **fakturácie** správy nákladov.
-1. Kliknite na položku **Vlastnosti**  >  **predaných aktualizácií**.
+1. Prihláste sa na portál Azure pomocou e-mailovej adresy, ktorá má v fakturačnom konte MCA rolu vlastníka alebo prispievateľa.
+1. Vyhľadajte položku **Fakturácia správy**  +  **nákladov.**
+1. Kliknite **na položku** Aktualizácia vlastností  >  **predaná.**
 1. Zadajte novú adresu a kliknite na tlačidlo **Uložiť**.
 
-Niektoré kontá vyžadujú ďalšie overenie pred tým, ako sa môže aktualizovať adresa predané. Ak vaše konto vyžaduje manuálne schválenie, zobrazí sa výzva na kontaktovanie technickej podpory služby Azure.
+Niektoré kontá vyžadujú dodatočné overenie predtým, než je možné aktualizovať ich dodaú adresu. Ak vaše konto vyžaduje manuálne schválenie, zobrazí sa výzva na kontaktovanie podpory pre Azure.
 
-**Aktualizácia adresy fakturačného konta MCA**: 
+**Aktualizácia adresy fakturačného konta MCA:** 
 
-1. Prihláste sa na portáli Azure pomocou e-mailovej adresy, ktorej vlastníkom alebo prispievateľom je rola na fakturačné konto alebo profil fakturácie pre MCA.
-1. Vyhľadanie   +  **fakturácie** správy nákladov.
-1. Kliknite na položku **profily fakturácie** a vyberte položku vybrať profil fakturácie a aktualizujte fakturačnú adresu.
-1. Kliknite na položku **Vlastnosti**  >  **aktualizovať adresu**.
+1. Prihláste sa na portál Azure pomocou e-mailovej adresy, ktorá má vlastníka alebo prispievateľa vo fakturačnom konte alebo fakturačnom profile mca.
+1. Vyhľadajte položku **Fakturácia správy**  +  **nákladov.**
+1. Kliknite **na položku Fakturačné** profily a výberom fakturačného profilu aktualizujte fakturačnú adresu.
+1. Kliknite **na položku** Aktualizovať adresu  >  **vlastností.**
 1. Zadajte novú adresu a potom kliknite na tlačidlo **Uložiť**.
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
-[Zmena kontaktných informácií pre konto Azure fakturácie](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
-[Aktualizácia nastavenia fakturačného konta](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Informácie o správcovských rolách zmluvy o zákazníkovi spoločnosti Microsoft v službe Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Zmena kontaktných informácií pre fakturačné konto Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Aktualizácia nastavení fakturačného konta](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+[Informácie o rolách správcu zmluvy spoločnosti Microsoft so zákazníkom v Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)

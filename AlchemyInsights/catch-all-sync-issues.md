@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16240588ac763c9da180dad94cb1dcc3eb1ecdf3b65eff99aadf478331b91d59
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979616"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Základné riešenie problémov so synchronizáciou Outlooku
+# <a name="basic-outlook-sync-troubleshooting"></a>Riešenie problémov Outlook synchronizáciou základných zariadení
 
 Ak máte problémy so synchronizáciou, vyskúšajte tento postup:
 
 - Spustite [tento diagnostický nástroj](https://aka.ms/sara-outlooksendreceive) v vplyvneom počítači.
-- Znížte počet priečinkov v primárnej alebo zdieľanej poštovej schránke. Pozrite [si problémy s výkonom Outlooku v prípade,](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)že v režime s vyrovnávacou pamäťou je príliš veľa položiek alebo priečinkov.
+- Znížte počet priečinkov v primárnej alebo zdieľanej poštovej schránke. Pozrite Outlook problémy s výkonom v prípade priveľa položiek alebo priečinkov v režime s vyrovnávacou [pamäťou. Ost alebo .pst priečinok súborov.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)
 - Zakážte ukladanie všetkých zdieľaných priečinkov do vyrovnávacej pošty.
-- Zmeňte konfiguráciu sekundárnej poštovej schránky Exchange na druhé konto Exchange vo vašom profile.
+- Zmeňte konfiguráciu sekundárnej poštovej Exchange na druhé Exchange vo svojom profile.
 - Skontrolujte, či sa používateľ môže pripojiť na internet. 
 - [Overte, či ste online.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)
 - [Určite, či sa používa pravidlo](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Ak chcete **overiť, či je možnosť** Stiahnuť zdieľané priečinky zapnutá, v časti Nastavenie konta súboru   >    >  **vyberte**  >  **položku Ďalšie nastavenia**  >  **Rozšírené.**
+- Skontrolujte, **či je možnosť** Stiahnuť zdieľané priečinky zapnutá. Na karte  >  **Konto Nastavenia** vyberte  >  **Nastavenia**  >  **Ďalšie Nastavenia**  >  **Rozšírené.**

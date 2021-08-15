@@ -1,5 +1,5 @@
 ---
-title: 1829 – eDiscovery – problémy
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030440"
 ---
-# <a name="ediscovery-issues"></a>problémy s vyhľadávaním eDiscovery
+# <a name="ediscovery-issues"></a>Problémy s eDiscovery
 
-Hľadáte možnosti elektronického vyhľadávania? Pri opätovne navrhnutej navigácii v centre zabezpečenia dodržiavania súladu & sa už vaše možnosti elektronického vyhľadávania presunuli.  Možnosti elektronického vyhľadávania nájdete v týchto umiestneniach v centre zabezpečenia dodržiavania súladu & na základe toho, čo sa snažíte vykonať:
+Hľadáte možnosti vyhľadávania eDiscovery? Vďaka opätovne navrhnutej navigácii v Centre zabezpečenia a & súladu sa už možno vaše možnosti vyhľadávania eDiscovery presunuli.  Možnosti vyhľadávania eDiscovery nájdete v týchto umiestneniach v Centre zabezpečenia & súladu na základe toho, čo sa pokúšate urobiť:
 
-- Pomocou vyhľadávania obsahu môžete vo svojej organizácii vyhľadávať obsah v e-mailoch, dokumentoch, Skype for Business konverzáciách a potom exportovať údaje – prejsť na **vyhľadávanie > vyhľadávanie obsahu**
+- Použitie vyhľadávania obsahu na vyhľadávanie obsahu v organizácii na vyhľadávanie obsahu v e-mailoch, dokumentoch Skype for Business konverzáciách a exportovanie údajov – prejdite na položku **> vyhľadávania obsahu**
 
-- Vytvorenie prípadu elektronického vyhľadávania na vyhľadávanie obsahu a umiestňovanie umiestnení obsahu v podržaní – prechod na **ediscovery > eDiscovery**
+- Vytvorenie prípadu vyhľadávania eDiscovery na zadržanie obsahu a umiestnenia obsahu – prejdite na **eDiscovery > eDiscovery**
 
-- Pomocou nového komplexného pokročilého riešenia eDiscovery môžete identifikovať a komunikovať s opatrovníkmi, zachovať údaje o správcovi týkajúce sa prípadu, zhromažďovať údaje a pridať ho do súboru hodnotenia a znížiť hlasitosť údajov použitím analýzy na vyradenie nepotrebných údajov a zamerať sa na to, čo sa týka prípadu – prechod na **ediscovery > rozšírené elektronické vyhľadávanie**
+- Nové koncové riešenie pre Advanced eDiscovery používajte na identifikáciu a komunikáciu s custo najvhodnejšími údajmi, uchovanie údajov chystaných pre prípad, zhromažďovanie údajov a ich pridanie do súboru revízií a zníženie objemu údajov použitím analýzy na vynesenie zbytočných údajov a sústredenie sa na to, čo je pre prípad najdôležitejšie – prejdite na **eDiscovery > Advanced eDiscovery**
 
-Ďalšie informácie nájdete v téme:
+Ďalšie informácie nájdete v téme:
 
 - [Vyhľadávanie obsahu](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [prípady elektronického vyhľadávania v centre zabezpečenia & dodržiavania súladu](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Prípady eDiscovery v Centre zabezpečenia & dodržiavania súladu](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Rozšírené riešenie eDiscovery v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery riešenia v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

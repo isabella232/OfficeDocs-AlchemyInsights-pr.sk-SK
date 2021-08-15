@@ -1,21 +1,22 @@
 ---
 title: Problémy so Skypom for Business?
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: e6c07b00a87160ad34a7d8a855a911fd552f8d41b1911e0dc35109306d105977
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013619"
 ---
 # <a name="issue-with-skype-for-business"></a>Problémy so Skypom for Business?
 
