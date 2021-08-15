@@ -1,5 +1,5 @@
 ---
-title: Aktualizácia nastavení e-mailu v Outlooku pre PC
+title: Aktualizácia nastavení e-mailu v Outlook pre PC
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976988"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualizácia nastavení e-mailu v Outlooku pre PC
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualizácia nastavení e-mailu v Outlook pre PC
 
-1. Otvorte Outlook a vyberte položku **súbor > nastavenia konta > nastavenia konta**.
+1. Otvorte Outlook vyberte položky **Súbor > Konto Nastavenia > Konto Nastavenia**.
 
-2. Vyberte e-mailové konto, ktoré chcete zmeniť, a potom kliknite na položku **zmeniť**. 
+2. Vyberte e-mailové konto, ktoré chcete zmeniť, a potom kliknite na položku **Zmeniť**. 
 
-3. Na stránke **nastavenia** aktualizujte mená serverov prichádzajúcej a odchádzajúcej pošty, svoju e-mailovú adresu, meno, meno používateľa a heslo podľa potreby. Ak potrebujete zmeniť nastavenia protokolu SSL alebo nastavenia portu, kliknite na položku **Ďalšie nastavenia**. Najčastejšie nastavenia aktualizácie sa nachádzajú na karte **Server odosielanej pošty** a na karte **Spresnenie** .
+3. Na stránke **Nastavenia** aktualizujte názvy serverov prichádzajúcej a odchádzajúcej pošty, e-mailovú adresu, svoje meno, meno používateľa a heslo podľa potreby. Ak potrebujete zmeniť nastavenia protokolu SSL alebo nastavenia portu, kliknite na položku **Viac Nastavenia**. Najbežnejšie nastavenia na aktualizáciu sú **na karte Server odosielanej** pošty a **na karte** Rozšírené.
 
-4. Ak máte problémy s odosielaním e-mailov alebo prijímate správy o serveri odchádzajúcej pošty, skontrolujte, či je začiarknuté políčko **Server odchádzajúcej pošty (SMTP) vyžaduje overenie** .
+4. Ak máte problémy s odosielaním e-mailov alebo prijímate správy o serveri odchádzajúcej pošty, skontrolujte, či je začiarknuté políčko Server odosielanej pošty **(SMTP)** vyžaduje overenie.
 
-5. Ak potrebujete aktualizovať porty servera prichádzajúcej alebo odchádzajúcej pošty alebo nastavenia protokolu SSL, prejdite na kartu **Rozšírené** a vykonajte požadované zmeny.
+5. Ak potrebujete aktualizovať porty servera prichádzajúcej alebo odchádzajúcej  pošty alebo nastavenia protokolu SSL, prejdite na kartu Rozšírené a vykonajte požadované zmeny.
 
 > [!NOTE]
-> **Pre zákazníkov služby AOL a Verizon**: výberom položky **SSL/TLS** z rozbaľovacieho poľa v časti **prichádzajúce a odchádzajúce šifrované pripojenia** zaručíte, že budete môcť naďalej odosielať a dostávať e-maily po 7. novembra 2017.
+> Pre zákazníkov služieb AOL a **Verizon:** Výberom protokolu  **SSL/TLS** v rozbaľovacom poli v časti Šifrované pripojenia servera prichádzajúcej a odchádzajúcej pošty sa zabezpečí, že e-mail budete naďalej odosielať a prijímať aj po 7. novembri 2017.
 
-6. Po dokončení aktualizácie nastavení kliknite na tlačidlo **OK**, potom na položku **ďalej** a nakoniec na položku **Dokončiť**.
+6. Po dokončení aktualizácie nastavení kliknite na tlačidlo **OK,** kliknite na tlačidlo **Ďalej** a potom na tlačidlo **Dokončiť**.
 
 

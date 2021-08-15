@@ -1,5 +1,5 @@
 ---
-title: Nájomník je pilotné oddelenie podpory pre Outlook v aplikácii
+title: Nájomník pilotuje podporu v aplikácii pre Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991910"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>Podpora v aplikácii v Outlooku pre Windows
+# <a name="in-app-support-in-outlook-for-windows"></a>Podpora v aplikácii v Outlook pre Windows
 
-Ako správca nájomníkov môžete získať podporu v aplikáciách v Outlooku pre Windows. V Outlooku vyberte položku **pomoc**  >  **kontaktovať technickú podporu**. Zadajte svoju otázku a člen tímu technickej podpory pre Outlook pre Windows odpovie na vašu správu.
+Ako správca nájomníkov môžete získať podporu problémov v aplikácii pre Outlook pre Windows. V Outlook vyberte položku **Kontaktovať**  >  **podporu.** Zadajte svoju otázku a člen tímu podpory Outlook tejto Windows bude odpovedať na vašu správu.

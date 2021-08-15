@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51492148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014951"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Import obľúbených položiek z iného prehliadača ako Internet Explorer, Google Chrome alebo Mozilla Firefox
 
 1. V prehliadači, z ktorého chcete importovať obľúbené položky, uložte obľúbené položky do súboru HTML.
 
-1. Otvorte Microsoft Edge a potom vyberte položku **Nastavenia a ďalšie možnosti...**  >  **Nastavenia**  >  **Importovanie údajov prehliadača.**
+1. Otvorte Microsoft Edge a potom vyberte položku **Nastavenia a ďalšie možnosti ...**  >  **Nastavenia**  >  **Importovanie údajov prehliadača.**
 
 1. V ponuke **Importovať z** vyberte položku Obľúbené položky **alebo záložky súboru HTML** Vyberte súbor a potom vyberte súbor HTML s  >  obľúbenými položkami.
 

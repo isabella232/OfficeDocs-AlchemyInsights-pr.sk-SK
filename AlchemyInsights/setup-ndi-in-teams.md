@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023537"
 ---
 # <a name="turn-on-ndi-technology"></a>Zapnutie technológie NDI
 
-Technológia NDI vyžaduje, aby sa pre používateľa zapli dva kroky:
+Technológia NDI vyžaduje, aby používateľ zapol dva kroky:
 
-1. Správca nájomníkov musí povoliť vlastnosť AllowNDIStreaming v CsTeamsMeetingPolicy.
+1. Správca nájomníkov musí povoliť vlastnosť AllowNDIStreaming v časti CsTeamsMeetingPolicy.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Po vyplnení tejto zmeny musí koncový používateľ zapnúť technológiu NDI® pre konkrétneho klienta v **nastaveniach > povolení**.
+2. Po zaplnení tejto zmeny musí koncový používateľ zapnúť technológiu NDI® pre svojho konkrétneho klienta **z Nastavenia > povolení.**
 
-Ďalšie informácie nájdete v téme [Používanie technológie NDI v aplikácii Microsoft teams](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).
+Ďalšie informácie nájdete v téme [Používanie technológie NDI v Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)

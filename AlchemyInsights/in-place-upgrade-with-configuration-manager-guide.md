@@ -1,5 +1,5 @@
 ---
-title: Lokálna inovácia pomocou Sprievodcu konfiguráciou správcu
+title: Inovácia na mieste pomocou Sprievodcu správcom konfigurácie
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014771"
 ---
-# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Lokálna inovácia pomocou Sprievodcu konfiguráciou správcu
+# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Inovácia na mieste pomocou Sprievodcu správcom konfigurácie
 
-Lokálny proces inovácie zachová všetky údaje, nastavenia, aplikácie a ovládače z existujúcej verzie operačného systému. Je navrhnutá tak, aby bola veľmi spoľahlivá a má možnosť automaticky vrátiť sa do predchádzajúceho operačného systému, ak sa vyskytnú problémy.
+Proces inovácie na mieste zachováva všetky údaje, nastavenia, aplikácie a ovládače z existujúcej verzie operačného systému. Je navrhnutý tak, aby bol mimoriadne spoľahlivý a v prípade akýchkoľvek problémov sa automaticky vrátil do predchádzajúceho operačného systému.
 
-Pri inovácii zariadení s Windowsom 7 a Windowsom 8,1 na najnovšiu verziu Windowsu 10 použite [lokálnu inováciu v príručke Configuration Manager](https://admin.microsoft.com/adminportal/home#/win10upgrade) . Na kontrolu predpokladov použijete skript a automaticky nakonfigurujete inováciu na mieste.
+Pri [inovácii zariadení so](https://admin.microsoft.com/adminportal/home#/win10upgrade) systémom Windows 7 a Windows 8.1 na najnovšiu verziu systému použite príručku Na mieste inovácia pomocou Správcu Windows 10. Pomocou poskytnutého skriptu skontrolujete predpoklady a automaticky nakonfigurujete inováciu na mieste.
