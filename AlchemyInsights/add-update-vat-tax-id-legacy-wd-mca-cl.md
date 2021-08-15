@@ -1,5 +1,5 @@
 ---
-title: Pridať alebo aktualizovať DPH/DIČ – staršie číslo WD + MCA CL _ Odporúčané kroky
+title: Pridanie alebo aktualizácia IČ DPH/daní – Starší WD + MCA CL _ Odporúčané kroky
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679583"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953704"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Pridať alebo aktualizovať DPH/DIČ – staršie verzie WD + MCA CL – Odporúčané kroky
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Pridanie alebo aktualizácia IČ DPH/daní – starší WD + MCA CL – odporúčané kroky
 
-Daňová identifikácia sa používa na výpočet dane a zobrazuje sa na faktúre.
+IDENTÍT dane sa použije na výpočet oslobodenia od dane a zobrazí sa na faktúre.
 
-1. Prejdite na stránku [Správa nákladov + Fakturácia](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Na ľavej strane kliknite na položku **Vlastnosti** . 
-3. Kliknite na položku **Spravovať identifikátory dane** z tably **Daňová** identifikácia a zadajte novú daňovú identifikáciu.
-4. Kliknite na položku **aktualizovať**. 
+1. Prejdite na stránku [Správa nákladov + fakturácia.](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) 
+2. Na **ľavej** strane kliknite na položku Vlastnosti. 
+3. Kliknite **na položku Spravovať daňové** identifikačné údaje z **tably Identifikácie** daní a potom zadajte svoje nové DAŇOVÉ IDENTIFIKAČNÉ ČÍSLO.
+4. Kliknite na **položku Aktualizovať.** 
 
-Ak sa tabla **Daňová identifikácia** nezobrazuje, znamená to, že pre vaše konto nie sú pre vašu oblasť zhromaždené daňové identifikátory ani aktualizácia daňových identifikácií v portáli nie je podporovaná.
+Ak sa tabla  Id daní nepodporuje, znamená to, že daňové ID ešte nie sú zhromaždené pre vašu oblasť alebo aktualizácia identifikátorov daní na portáli nie je pre vaše konto podporovaná.
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
 [Podporované krajiny alebo oblasti a meny](https://azure.microsoft.com/pricing/faq/)
 

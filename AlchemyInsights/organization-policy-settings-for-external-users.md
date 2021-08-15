@@ -1,5 +1,5 @@
 ---
-title: Nastavenie politiky organizácie pre externých používateľov
+title: Nastavenia politiky organizácie pre externých používateľov
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769450"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011315"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Nastavenie politiky organizácie pre externých používateľov
+# <a name="organization-policy-settings-for-external-users"></a>Nastavenia politiky organizácie pre externých používateľov
 
-Pri pokuse o zdieľanie s externými používateľmi vašej organizácie sa používateľom môže zobraziť nasledovné upozorňujúce hlásenie: 
+Keď sa používatelia pokúsia zdieľať s externými používateľmi vašej organizácie, môže sa zobraziť nasledujúce upozornenie: 
 
-   **Politiky vašej organizácie vám neumožňujú zdieľať s týmito používateľmi. Prejdite na externé zdieľanie v centre spravovania služieb Microsoft 365, aby ste ho povolili.** 
+   **Politiky vašej organizácie nepovoľujú zdieľanie s týmito používateľmi. Ak ho chcete zapnúť, prejdite na Centrum spravovania služby Microsoft 365 zdieľanie.** 
 
-Tento postup sa často vyskytuje pri prvom pokuse o zdieľanie s externými používateľmi alebo pri zdieľaní s novými externými používateľmi. Ďalšie informácie nájdete v článku nižšie:
+Stáva sa to pri prvom pokuse o zdieľanie s externými používateľmi alebo pri zdieľaní s novými externými používateľmi. Ďalšie informácie nájdete v článku nižšie:
 
-[Politiky vašej organizácie neumožňujú zdieľať s týmito používateľmi](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Politiky vašej organizácie nepovoľujú zdieľanie s týmito používateľmi](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

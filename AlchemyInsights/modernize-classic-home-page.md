@@ -1,5 +1,5 @@
 ---
-title: Modernizácia klasickej domovskej stránky
+title: Modernizovanie klasickej domovskej stránky
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026093"
 ---
-# <a name="modernize-the-classic-home-page"></a>Modernizácia klasickej domovskej stránky
+# <a name="modernize-the-classic-home-page"></a>Modernizovanie klasickej domovskej stránky
 
-Posledná aktualizácia klasickej domovskej stránky tímovej lokality SharePoint ovplyvní domovskú stránku klasických tímových lokalít (STS # 0), keď Domovská stránka obsahuje len neaktívne *webové časti* , ako je napríklad Začíname, Knižnica dokumentov a informačný kanál s aktualizáciami.
+Nedávna aktualizácia klasických domovských stránok tímovej lokality SharePoint sa týka domovskej stránky klasických tímových lokalít (STS#0), keď domovská stránka obsahuje iba predvolené webové časti, ako napríklad Začíname, knižnica dokumentov a kanál s aktualizáciami. 
 
-Pozrite si prechod na zmeny [tu](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Tu si môžete pozrieť návod na [zmenu.](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
-**Poznámka: klasické tímové lokality, ktoré obsahujú prispôsobený obsah, sa automaticky neaktualizujú.**
+**Poznámka: Klasické tímové lokality, ktoré obsahujú prispôsobený obsah, sa automaticky neaktualizujú.**
 
-* Ďalšie informácie o kritériách aktualizácie na [klasickej modernizácii domovskej stránky](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Ďalšie informácie o kritériách aktualizácie nájdete [v klasickej domovskej stránke s modernizáciou](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
 
-* [Inovácia iných domovských stránok, ktoré neboli súčasťou automatickej modernizácie](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Inovujte ostatné domovské stránky, ktoré neboli súčasťou automatickej modernizácie.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* Vypnite túto inováciu na konkrétnych lokalitách pomocou [rutiny typu cmdlet prostredia PowerShell (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* Zakážte túto inováciu na konkrétnych lokalitách pomocou [rutiny typu cmdlet prostredia PowerShell SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)

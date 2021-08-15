@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7e6ece7d9f60cf6cd52b46bf87d21a5049c5b3c17c7c1da2241cab0bff3264
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011531"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Na vykonanie tejto akcie nie je dostatok pamäte
 
-Pri práci so súborom programu Microsoft Excel sa zobrazí niektoré z nasledujúcich hlásení:
+Pri práci s Microsoft Excel sa zobrazí niektoré z týchto hlásení:
 
-- Excel nedokáže dokončiť túto úlohu s dostupnými zdrojmi. Vyberte menej údajov alebo zavrite ostatné aplikácie.
+- Excel tejto úlohy nie je možné dokončiť s dostupnými zdrojmi. Vyberte menej údajov alebo zavrite ostatné aplikácie.
 - Mimo pamäte
 - Nie je k dispozícii dostatok systémových zdrojov na úplné zobrazenie
 - Na vykonanie tejto akcie nie je dostatok pamäte. Skúste použiť menej údajov alebo zavrieť ostatné aplikácie. Ak chcete zvýšiť dostupnosť pamäte, zvážte: 
-    - Pomocou 64-bitovej verzie Microsoft Excelu.
+    - Pomocou 64-bitovej verzie Microsoft Excel.
     - Pridanie pamäte do zariadenia.
 
-Informácie o riešení týchto chýb nájdete v [téme Riešenie chýb s dostupnými zdrojmi v Exceli.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
+Informácie o riešení týchto chýb nájdete v [téme Riešenie chýb s dostupnými zdrojmi v Excel.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)

@@ -1,5 +1,5 @@
 ---
-title: Pridanie používateľského konta vo Windowse 10
+title: Pridanie používateľského konta v Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f8275cc8197015e9146377bd8af979d79b32494f674b8bcab8df310d69e4a14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953668"
 ---
-# <a name="add-a-user-account-in-windows-10"></a>Pridanie používateľského konta vo Windowse 10
+# <a name="add-a-user-account-in-windows-10"></a>Pridanie používateľského konta v Windows 10
 
-Pridanie konta vo Windowse 10:
+Pridanie konta vo Windows 10:
 
-1. Prejdite na **položku** Nastavenie Štart, & iných ľudí (alebo iných ľudí, ak používate  >    >    >   Windows 10 Enterprise) a > pridať do **tohto počítača inú osobu.**
+1. Prejdite do **ponuky** Nastavenia Kontá & iných ľudí (alebo iných ľudí, ak používate  >    >    >   Windows 10 Enterprise)  a > pridať do tohto počítača niekoho iného .
 2. Podľa pokynov pridajte konto Microsoft alebo lokálne konto.
 
 [Ďalšie informácie o nastavovaní kont](https://support.microsoft.com/help/17197/)
