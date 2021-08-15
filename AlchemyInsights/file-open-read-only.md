@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029819"
 ---
 # <a name="file-open-read-only"></a>Súbor otvorený iba na čítanie
 
@@ -36,20 +36,20 @@ Vlastnosti súboru môžete skontrolovať kliknutím pravým tlačidlom myši na
   
 Súbory z internetu a z iných potenciálne nebezpečných umiestnení môžu obsahovať vírusy, červy a iné druhy malvéru, ktorý môže poškodiť počítač. Toto je tiež bežné v prípade príloh e-mailov alebo stiahnutých súborov. Na ochranu počítača sa súbory z potenciálne nebezpečných umiestnení otvárajú v chránenom zobrazení. Pomocou chráneného zobrazenia môžete čítať súbor, prezerať si jeho obsah a zároveň znižovať riziká. Ďalšie informácie o chránenom zobrazení a o tom, ako zmeniť nastavenia, nájdete v tomto článku: [Čo je chránené zobrazenie?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Je OneDrive plný?**
+ **Je OneDrive plná?**
   
-Ak je súbor uložený vo OneDrive a ukladací priestor vo OneDrive je plný, dokument bude možné uložiť, až keď budete v rámci svojho prideleného priestoru. Svoje voľné miesto vo OneDrive môžete skontrolovať kliknutím na ikonu OneDrive v centre oznámení a výberom položky Spravovať ukladací priestor alebo môžete prejsť na položku , prihlásiť sa a zaznamenať množstvo používaného miesta v ľavej dolnej časti [https://onedrive.live.com](https://onedrive.live.com) obrazovky.
+Ak je súbor uložený v OneDrive a ukladací priestor OneDrive je plný, dokument bude možné uložiť, až keď budete v rámci prideleného priestoru. Svoje voľné miesto v balíku OneDrive môžete skontrolovať kliknutím na ikonu OneDrive v centre oznámení a výberom položky Spravovať ukladací priestor alebo môžete prejsť na položku , prihlásiť sa a zaznamenať množstvo používaného miesta v ľavej dolnej časti [https://onedrive.live.com](https://onedrive.live.com) obrazovky.
   
- **Je balík Office aktivovaný?**
+ **Je Office aktivovaný?**
   
-Ak sa Office neaktivuje alebo platnosť vášho predplatného uplynula, môžete byť v režime iba na čítanie s obmedzenou funkčnosťou. Informácie o aktivácii balíka Office nájdete v téme: [Chyba produktu bez licencie a chyba aktivácie v Office.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Ak Office alebo platnosť vášho predplatného uplynula, môžete byť v režime iba na čítanie s obmedzenou funkčnosťou. Informácie o tom, ako aktivovať Office, nájdete v téme: Chyba produktu bez licencie a chyba [aktivácie vo Office.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
  **Ak všetko ostatné zlyhá...**
   
 - Skúste reštartovať počítač.
     
-- Inštalácia aktualizácií balíka Office
+- Inštalácia Office aktualizácií
     
-- Vykonanie online opravy balíka Office
+- Vykonanie online opravy Office
     
 

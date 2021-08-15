@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 44f06b429262e754e92cc348a1e58aa4916d10a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17558d5de8726a672887fd810760eade9528e5779edec0c98735df17d1e5ccc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993944"
 ---
-# <a name="delete-a-sharepoint-site"></a>Odstránenie lokality SharePoint
+# <a name="delete-a-sharepoint-site"></a>Odstránenie SharePoint lokality
 
-1. V novom centre spravovania služby SharePoint kliknite na stránke lokality na začiarkavacie políčko vedľa lokality, ktorú chcete odstrániť.
+1. V novom SharePoint spravovania kliknite na stránke Lokality na začiarkavacie políčko vedľa lokality, ktorú chcete odstrániť.
     
-2. Na paneli s nástrojmi pása s nástrojmi kliknite na položku **odstrániť**.
+2. Na paneli s nástrojmi na páse s nástrojmi kliknite na **položku Odstrániť**.
     
 

@@ -1,5 +1,5 @@
 ---
-title: Ako pridať alebo odstrániť delegáta v Outlooku na webe (OWA)
+title: Pridanie alebo odstránenie delegáta v aplikácii Outlook na webe (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993440"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Ako pridať alebo odstrániť delegáta v Outlooku na webe (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Pridanie alebo odstránenie delegáta v aplikácii Outlook na webe (OWA)
 
-Priradenie editora alebo prístup delegáta k vášmu kalendáru:
+Priradenie prístupu editora alebo delegáta ku kalendáru:
 
-1. V Outlooku na webe vyberte ikonu kalendár v dolnej časti stránky.
-2. V hornej časti stránky vyberte položku **zdieľať > kalendár**.
-3. Na stránke **Zdieľanie a povolenia** zadajte meno alebo e-mailovú adresu osoby, s ktorou chcete zdieľať svoj kalendár. Hoci môžete zdieľať kalendár s viacerými osobami, môžete naraz pridať len jednu osobu z Outlooku na webe.
-4. Po pridaní osoby, ktorej chcete spravovať svoj kalendár, vyberte rozbaľovací zoznam vedľa jeho mena a vyberte úroveň prístupu, ktorú majú mať.
+1. V Outlook na webe vyberte ikonu Kalendár v dolnej časti stránky.
+2. V hornej časti stránky vyberte položku **Zdieľať > Kalendár**.
+3. Na stránke **Zdieľanie a povolenia** zadajte meno alebo e-mailovú adresu osoby, s ktorú chcete kalendár zdieľať. Aj keď kalendár môžete zdieľať s viac ako jednou osobou, môžete z kalendára pridať len jednu Outlook na webe.
+4. Po pridaní osoby, ktorá má spravovať váš kalendár, vyberte rozbaľovací zoznam vedľa jej mena a potom vyberte úroveň prístupu, ktorú jej chcete pridať.
 
-    - Ak chcete udeliť povolenie na vykonávanie zmien v kalendári, vyberte možnosť **môže upravovať** .
-    - Ak chcete im poskytnúť rovnaké povolenie ako editor, vyberte možnosť **delegát** a v mene im budú doručené žiadosti o schôdzu a odpovede.
+    - Ak **im chcete poskytnúť** povolenie na vykonanie zmien v kalendári, vyberte položku Môže upravovať.
+    - Ak **chcete editorovi** poskytnúť rovnaké povolenie ako editor a navyše im chcete poskytnúť možnosť prijímať žiadosti o schôdzu a odpovedí na ne vo vašom mene, vyberte možnosť Delegát.
     > [!NOTE]
-    > Keď delegát odpovie na pozvanie na schôdzu vo vašom mene, odpoveď na pozvanie v priečinku doručenej pošty sa nezobrazí pri používaní Outlooku na webe. Schôdze, ktoré sú prijaté alebo nezáväzne prijaté, sa zobrazia v kalendári a zobrazí sa, že ich delegát akceptoval.
-    - Možnosti **môžu zobraziť, keď som zaneprázdnený**, **môžete zobraziť názvy a umiestnenia** a **Zobraziť všetky podrobnosti** umožňujú ostatným Zobraziť váš kalendár, ale nevykonávať v ňom zmeny. Prístup pre osoby mimo vašej organizácie je obmedzený na tieto možnosti.
+    > Keď delegát odpovie na pozvánku na schôdzu vo vašom mene, odpoveď na pozvánku sa v doručenej pošte pri použití tejto Outlook na webe. Prijaté alebo nezáväzne prijaté schôdze sa zobrazia vo vašom kalendári a zobrazia sa ako prijaté a zobrazia sa vám, že ich prijal váš delegát.
+    - Možnosti **Môže zobrazovať, kedy nemám** čas **,** Môže zobrazovať  názvy a miesta a Môže zobrazovať všetky podrobnosti umožňujú ostatným váš kalendár zobraziť, ale umožniť im vykonávať zmeny. Prístup pre osoby mimo vašej organizácie je obmedzený na tieto možnosti.
 
-5. Po dokončení pridávania osoby, s ktorou chcete zdieľať svoj kalendár, a vyberte povolenie, ktoré chcete im poskytnúť, vyberte položku **zdieľať**. Ak sa rozhodnete, že kalendár práve teraz nechcete zdieľať, vyberte položku **odstrániť**.
+5. Po pridaní osoby, s ktorou chcete zdieľať kalendár, a výbere povolenia, ktoré jej chcete poskytnúť, vyberte položku **Zdieľať**. Ak sa rozhodnete nezdieľať kalendár práve teraz, vyberte položku **Odstrániť**.
 
-Osoba, s ktorou zdieľate svoj kalendár, dostane e-mailovú správu s informáciami o ňom. Po výbere tlačidla **prijať** v pozvánke sa kalendár pridá do zoznamu kalendárov.
+Osoba, s ktorej ste zdieľali kalendár, dostane e-mailovú správu s o tom. Keď v **pozvánke** vyberie tlačidlo Prijať, váš kalendár sa pridá do jeho zoznamu kalendárov.
 
 > [!NOTE]
-> Položky kalendára označené ako **súkromné** sú chránené. Väčšina používateľov, s ktorými zdieľate svoj kalendár, zobrazuje len tie položky, ktoré sú označené ako **súkromné**, nie predmet, miesto alebo iné podrobnosti. Výnimkou je, ak začiarknete políčko **umožniť delegátovi Zobraziť súkromné udalosti** .
+> Položky, ktoré sú **v kalendári označené** ako Súkromné, sú chránené. Väčšine ľudí, s ktorých kalendár zdieľate, sa v prípade položiek označených ako Súkromné bude v prípade zobraziť iba **čas,** a to bez predmetu, miesta či ďalších podrobností. Výnimkou je, ak začiarknete **políčko Dovoľte delegátovi zobraziť súkromné** udalosti.
 
-Ak chcete odstrániť delegáta v Outlooku na webe (OWA):
+Odstránenie delegáta z Outlook na webe (OWA):
 
-1. V Outlooku na webe vyberte ikonu kalendár v dolnej časti stránky.
-2. V hornej časti stránky vyberte položku **zdieľať** a vyberte kalendár, ktorého zdieľanie chcete ukončiť.
-3. Vyberte položku **odstrániť** vedľa osoby, s ktorou chcete prestať zdieľať svoj kalendár.
+1. V Outlook na webe vyberte ikonu Kalendár v dolnej časti stránky.
+2. V hornej časti stránky vyberte položku **Zdieľať** a vyberte kalendár, ktorý chcete prestať zdieľať.
+3. Vyberte **položku** Odstrániť vedľa osoby, s ktorou chcete prestať zdieľať svoj kalendár.
