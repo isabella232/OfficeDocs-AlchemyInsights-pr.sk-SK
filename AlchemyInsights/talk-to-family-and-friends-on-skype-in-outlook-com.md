@@ -1,5 +1,5 @@
 ---
-title: 8000049 hovoriť s rodinou a priateľmi cez Skype v Outlook.com
+title: 8000049 porozprávajte sa s rodinou a priateľmi na Skype na Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956746"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Porozprávajte sa s rodinou a priateľmi cez Skype v Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Porozprávajte sa s rodinou a priateľmi Skype na Outlook.com
 
-Outlook.com zákazníci sa môžu rozprávať s priateľmi a rodinou pomocou chatu, hlasových funkcií a funkcií videa v Skype. Pri [zlučovaní kont Microsoft a Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)automaticky máte v Outlook.com prístup k Skypu na webe.
+Outlook.com sa môžu rozprávať s priateľmi a rodinou pomocou chatu, hlasových funkcií a video funkcií v Skype. Keď [zlúčite svoje kontá Microsoft Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), na lokalite Skype na webe budete mať automaticky prístup Outlook.com.
   
-Získajte ďalšie informácie o tom, ako sa [rozprávať s rodinou a priateľmi cez Skype v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Ďalšie informácie o tom, ako sa môžete porozprávať s rodinou a [priateľmi na Skype na lokalite Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409)
   
 

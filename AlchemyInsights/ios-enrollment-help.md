@@ -1,5 +1,5 @@
 ---
-title: Pomocník pre registráciu v systéme iOS
+title: Pomocník registrácie pre iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001415"
 ---
-# <a name="ios-enrollment-help"></a>Pomocník pre registráciu v systéme iOS
+# <a name="ios-enrollment-help"></a>Pomocník registrácie pre iOS
 
-Všimli sme si, že by ste mohli mať problém s registrovaným systémom iOS. Tu je niekoľko článkov, ktoré by sme mohli pomôcť: 
+Všimli sme si, že sa u vás môže nachádzať nejaký problém s registráciu v iOS. Tu je niekoľko článkov, ktoré by podľa vás mohli pomôcť: 
 
-[Bežné chyby a riešenia registrácie v systéme iOS](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Bežné chyby a riešenia registrácie v iOS](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[Začíname so službou Intune a iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Začíname pracovať s Intune a systémom iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Všeobecné riešenie problémov so zápisom](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Riešenie problémov so všeobecnými registráciami](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Používanie portálu na riešenie problémov so službou Intune na diagnostikovanie a riešenie bežných zlyhaní registrácie](https://docs.microsoft.com/intune/help-desk-operators)
+[Diagnostika a riešenie bežných zlyhaní registrácie pomocou portálu na riešenie problémov služby Intune](https://docs.microsoft.com/intune/help-desk-operators)

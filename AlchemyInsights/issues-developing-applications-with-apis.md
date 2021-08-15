@@ -1,5 +1,5 @@
 ---
-title: Problémy s vývojom aplikácií pomocou rozhrania API
+title: Problémy pri vývoji aplikácií s rozhraniami API
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013475"
 ---
-# <a name="issues-developing-applications-with-apis"></a>Problémy s vývojom aplikácií pomocou rozhrania API
+# <a name="issues-developing-applications-with-apis"></a>Problémy pri vývoji aplikácií s rozhraniami API
 
-Ak chcete začať používať rozhranie API služby Azure Active Directory Graph, pozrite si príručku rozhrania API rýchlych reklám v službe [Azure AD Graph](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) alebo zobrazenie [interaktívnej referenčnej dokumentácie rozhrania API služby Azure AD Graph](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
+Ak chcete začať používať rozhranie Azure Active Directory Graph API, pozrite si príručku so [stručným návodom](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) k rozhraniu Azure AD Graph API alebo si pozrite interaktívnu referenčnú dokumentáciu [k rozhraniu AZURE AD Graph API.](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)
 
-**Koniec podpory pre Azure Active Directory Authentication Library (ADAL) a Azure AD Graph API (AAD Graph)**
+**Ukončenie podpory pre Azure Active Directory overovanie (ADAL) a Azure AD Graph API (AAD Graph)**
 
-**Od 30. júna 2020**, už nebudeme pridávať žiadne nové funkcie do služby ADAL a Azure AD Graph. Budeme aj naďalej poskytovať technickú podporu a aktualizácie zabezpečenia, ale už nebudú poskytovať aktualizácie funkcií.
+**Od 30. júna 2020** už nebudeme do služieb ADAL a Azure AD Graph. Naďalej budeme poskytovať technickú podporu a aktualizácie zabezpečenia, ale už nebudeme poskytovať aktualizácie funkcií.
 
-**Od 30. júna 2022**, ukončíme podporu pre ADAL a Azure AD Graph a už nebude poskytovať technickú podporu ani aktualizácie zabezpečenia.
+**Od 30. júna 2022** ukončíme podporu pre ADAL a Azure AD Graph a už nebudeme poskytovať technickú podporu ani aktualizácie zabezpečenia.
 
-Aplikácie, ktoré používajú ADAL v existujúcich verziách operačného systému, budú fungovať aj po tomto čase, nebudú však mať žiadne technické podpory ani aktualizácie zabezpečenia.
+Aplikácie používajúce ADAL v existujúcich verziách operačného systému budú fungovať aj naďalej, ale nebudú mať k dispozícii žiadnu technickú podporu ani aktualizácie zabezpečenia.
 
-Aplikácie využívajúce Azure AD Graph po uplynutí tohto času už nemusia dostávať odpovede z koncového bodu služby Azure AD Graphu.
+Aplikácie používajúce Azure AD Graph po tomto čase už nemusia dostávať odpovede z koncového bodu služby Azure AD Graph Ad.
 
 **Migrácia ADAL**
 
-Odporúčame aktualizovať na [knižnicu Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ktorá obsahuje najnovšie funkcie a aktualizácie zabezpečenia.
+Odporúčame aktualizovať na [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) s najnovšími funkciami a aktualizáciami zabezpečenia.
 
-Ak používate aplikácie spoločnosti Microsoft, viem, že spoločnosť Microsoft je v procese migrácie svojich aplikácií, aby MSAL podľa termínu ukončenia podpory, čím zabezpečí, že budú profitovať z priebežných vylepšení zabezpečenia a funkcií MSAL.
+Ak používate aplikácie spoločnosti Microsoft, znamená to, že spoločnosť Microsoft do termínu ukončenia podpory migruje aplikácie do služby MSAL, čím sa zabezpečí, že budú môcť využívať vylepšenia priebežného zabezpečenia a funkcií spoločnosti MSAL.
 
-1. [Prečítajte si najčastejšie otázky o ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Zistite, ako migrovať aplikácie na základe jednotlivých platforiem](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Ak potrebujete pomoc s pochopením, ktoré z vašich aplikácií používajú ADAL, odporúčame vám skontrolovať všetky zdrojové kódy aplikácií a prípadne osloviť všetkých nezávislých poskytovateľov služieb alebo poskytovateľov aplikácií. Technická podpora spoločnosti Microsoft vám tiež môže poskytnúť zoznam všetkých aplikácií, ktoré nie sú Microsoft ADAL v nájomníkovi.
+1. [Prečítajte si najčastejšie otázky o službe ADAL.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. [Získajte informácie o migrácii aplikácií na báze platformy.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Ak potrebujete pomoc s tým, ktoré aplikácie používajú ADAL, odporúčame vám skontrolovať zdrojový kód všetkých aplikácií a ak je to možné, kontaktovať niektoré súbory ISVs alebo poskytovateľov aplikácií. Podpora spoločnosti Microsoft vám tiež môže poskytnúť zoznam všetkých aplikácií v nájomníkovi, ktoré nie sú aplikácie ADAL od spoločnosti Microsoft.
 
-**Migrácia grafu AAD**
+**Migrácia AAD Graph**
 
-V prípade aplikácií, ktoré používajú Azure AD Graph, postupujte podľa pokynov na migráciu [aplikácií služby Azure AD Graph do programu Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+V prípade aplikácií, ktoré používajú Azure AD Graph, postupujte podľa našich pokynov na migráciu aplikácií [Azure AD Graph do služby Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)
 
-1. [Náš kontrolný zoznam migrácie poskytuje bod začiatku](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. Na portáli registrácie aplikácie Azure sa zobrazuje, ktoré aplikácie používajú AAD Graph. Odporúčame, aby ste si prečítali všetky zdrojové kódy aplikácií a ak je to možné, Oslovte ľubovoľných poskytovateľov ISV alebo aplikácií. Technická podpora spoločnosti Microsoft vám tiež môže poskytnúť zoznam všetkých použití AAD grafov v nájomníkovi.
-1. Pre aplikáciu na prístup k údajom v programe Microsoft Graph musí používateľ alebo správca udeliť správne povolenia prostredníctvom procesu súhlasu. V [odkaze na povolenia programu Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) sú uvedené povolenia priradené k jednotlivým hlavným množinám rozhraní API programu Microsoft Graph. Poskytuje aj usmernenie o tom, ako používať povolenia.
+1. [Náš kontrolný zoznam migrácie obsahuje informácie na začiatok](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. Portál registrácie aplikácie Azure zobrazuje aplikácie, ktoré používajú AAD Graph. Odporúčame vám skontrolovať zdrojový kód všetkých aplikácií a v prípade potreby kontaktovať poskytovateľov internetových služieb alebo poskytovateľov aplikácií. Podpora spoločnosti Microsoft vám tiež môže poskytnúť zoznam všetkých použití služby AAD Graph v nájomníkovi.
+1. Na prístup k údajom v aplikácii Microsoft Graph musí používateľ alebo správca udeliť správne povolenia prostredníctvom procesu súhlasu. Odkaz [na povolenia Graph Microsoft](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) Obsahuje zoznam povolení priradených ku každej hlavnej množine rozhraní API Microsoft Graph Microsoft. Poskytuje tiež pokyny na používanie povolení.

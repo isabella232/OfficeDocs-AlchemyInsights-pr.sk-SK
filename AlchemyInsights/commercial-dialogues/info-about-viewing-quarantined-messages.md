@@ -1,5 +1,5 @@
 ---
-title: Informácie o zobrazovaní správ v karanténe
+title: Informácie o zobrazení správ v karanténe
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1027243d90562a9ad7389400b206a6d29845f71a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fb3c7afafab80f5f1801f30d6a1d16a7a8ea2ce5a268369cbfb41787e7a2cbc4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978932"
 ---
-# <a name="info-about-viewing-quarantined-messages"></a>Informácie o zobrazovaní správ v karanténe
+# <a name="info-about-viewing-quarantined-messages"></a>Informácie o zobrazení správ v karanténe
 
-Ak chcete zobraziť všetky správy v karanténe pre vašu organizáciu, použite centrum spravovania služby Microsoft 365. Tu je niekoľko tipov:
+Ak chcete zobraziť všetky správy v karanténe pre vašu organizáciu, použite Centrum spravovania služby Microsoft 365. Tu je niekoľko tipov:
 
-- Neexistuje žiadny spôsob, ako vytvoriť dennú alebo týždennú zostavu všetkých správ v karanténe odoslaných do poštovej schránky.
-- Môžete však nastaviť službu Microsoft 365 na odoslanie digestu používateľom o tom, ktoré z ich e-mailov sú v karanténe.
-- Správy s nevyžiadanou poštou a neoprávneným získavaním údajov sú predvolene uložené do karantény 15 dní. Správy, ktoré zodpovedajú pravidlu toku pošty, sú v karanténe 7 dní (nemôžete ho prispôsobiť). Keď Microsoft 365 odstráni správu z karantény, nie je ju možné vrátiť späť.
+- Neexistuje žiadny spôsob, ako denne alebo týždenné hlásenie o všetkých správach v karanténe odosielaných do poštovej schránky.
+- Môžete však nastaviť, aby Microsoft 365 používateľom prehľad o tom, ktoré ich e-maily sú v karanténe.
+- Predvolene sa správy s nevyžiadanou poštou, hromadnou poštou a neoprávneným získavaním údajov umiestnia do karantény 15 dní. Správy, ktoré zodpovedajú pravidle toku pošty, sú 7 dní v karanténe (toto nastavenie nie je možné prispôsobiť). Keď Microsoft 365 správu z karantény, nie je možné ju vrátiť späť.

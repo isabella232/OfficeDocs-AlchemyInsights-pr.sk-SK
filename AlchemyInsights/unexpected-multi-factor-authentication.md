@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d2b97175049bd9732b7444b029f7ea8610c3d5a2c02878ec5f20ded916baadd5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991154"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Neočakávané viacfaktorové overovanie
 

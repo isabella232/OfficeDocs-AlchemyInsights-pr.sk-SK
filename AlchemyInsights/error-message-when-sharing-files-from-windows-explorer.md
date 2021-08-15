@@ -1,5 +1,5 @@
 ---
-title: Pri zdieľaní súborov z Prieskumníka Windowsu sa zobrazí chybové hlásenie
+title: Chybové hlásenie pri zdieľaní súborov z Windows Prieskumníka
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030107"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Pri zdieľaní súborov z Prieskumníka Windowsu sa zobrazí chybové hlásenie
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Chybové hlásenie pri zdieľaní súborov z Windows Prieskumníka
 
 Pri pokuse o zdieľanie z Windows Prieskumníka sa môže zobraziť nasledujúce chybové hlásenie:
   
-Ľutujeme, momentálne sa nemôžeme dostať na server. Skúste to znova neskôr.
+Ľutujeme, nepodarilo sa nám pripojiť k serveru. Skúste to znova neskôr"
   
-Ak chcete odstrániť chybové hlásenie, v Internet Exploreri prejdite na položku **Nástroje** \> **internetu – možnosti** \> kliknite na kartu **Spresnenie** a potom zrušte začiarknutie políčka s názvom **neukladať šifrované stránky na disk**.
+Ak chcete vyriešiť chybové hlásenie,  v Internet Exploreri prejdite na položku Nástroje – možnosti siete Internet – možnosti kliknite na kartu Rozšírené a potom zrušte začiarknutie políčka s názvom Neuchovať \>  \> **zašifrované** stránky na disk . 
   
- **Poznámka**: Ak chcete, aby sa nastavenie prejavilo, pravdepodobne bude potrebné reštartovať prehliadač. Ďalšie informácie nájdete v téme [chybové hlásenie "nie je možné sa dostať na server práve teraz" pri zdieľaní súborov](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Poznámka:** Možno budete musieť reštartovať prehliadač, aby sa toto nastavenie prejaví. Ďalšie informácie nájdete v téme Chybové hlásenie Nepodarilo sa získať prístup na [server hneď pri zdieľaní súborov.](https://go.microsoft.com/fwlink/?linkid=2022914)
   

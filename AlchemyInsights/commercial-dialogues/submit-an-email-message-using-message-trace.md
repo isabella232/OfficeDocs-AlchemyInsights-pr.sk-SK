@@ -1,5 +1,5 @@
 ---
-title: Odoslanie e-mailovej správy pomocou sledovania správ
+title: Odoslanie e-mailovej správy pomocou sledovania správy
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a3d7edf0be0e7ddaf749399327868d7fdea9f980
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978860"
 ---
-# <a name="submit-an-email-message-using-message-trace"></a>Odoslanie e-mailovej správy pomocou sledovania správ
+# <a name="submit-an-email-message-using-message-trace"></a>Odoslanie e-mailovej správy pomocou sledovania správy
 
-1. Prejdite na [centrum dodržiavania súladu pre Office 365 Security &](https://go.microsoft.com/fwlink/p/?linkid=2077143)a potom prejdite na položku   >  [sledovanie správ](https://go.microsoft.com/fwlink/?linkid=2101048)toku pošty.
-2. Vyberte položku **+ Spustiť stopu**.
-3. Prechádzajte cez zobrazené možnosti. Vyberte príjemcov a odosielateľov a potom podľa potreby upravte rozsah dátumov. Môžete ponechať predvolené nastavenia zostávajúcich možností.
-4. Vyberte položku **Hľadať**. Zoznam e-mailových správ sa zobrazí na základe kritérií vyhľadávania. Dvakrát kliknite na správu, ktorú chcete odoslať, a potom vyberte položku **Odoslať správu**.
-5. Ďalšie informácie nájdete v téme [sledovanie správ v centre zabezpečenia & dodržiavania súladu](https://go.microsoft.com/fwlink/?linkid=2101557).
+1. Prejdite do Centra [Office 365 zabezpečenia & súladu a](https://go.microsoft.com/fwlink/p/?linkid=2077143)potom prejdite na položku Sledovanie **správ**  >  [toku pošty](https://go.microsoft.com/fwlink/?linkid=2101048).
+2. Vyberte **položku + Spustiť sledovanie.**
+3. Prejdite si prezentované možnosti. Vyberte príjemcov a odosielateľov a potom podľa potreby upravte rozsah dátumov. Predvolené nastavenia pre ostatné možnosti môžete ponechať.
+4. Vyberte **položku Hľadať**. Zoznam e-mailových správ sa zobrazí na základe kritérií vyhľadávania. Dvakrát kliknite na správu, ktorú chcete odoslať, a potom vyberte položku **Odoslať správu**.
+5. Ďalšie informácie nájdete v [téme Sledovanie správ v Centre & zabezpečenia a dodržiavania súladu.](https://go.microsoft.com/fwlink/?linkid=2101557)

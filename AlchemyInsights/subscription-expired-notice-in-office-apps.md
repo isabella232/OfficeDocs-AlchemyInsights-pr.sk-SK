@@ -1,5 +1,5 @@
 ---
-title: Upozornenie o uplynutí platnosti predplatného v aplikáciách Microsoft 365
+title: Upozornenie o uplynutej platnosti predplatného Microsoft 365 aplikáciách
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5070fe203d98a0953d7a353bfaf4d28d906ba8c8fb074bbed1e28916478cecd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956818"
 ---
-# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Upozornenie Uplynula platnosť predplatného v aplikáciách Microsoft 365
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Upozornenie Uplynula platnosť predplatného v Microsoft 365 aplikáciách
 
 - Na [stránke Stav služby](https://docs.microsoft.com/office365/enterprise/view-service-health) skontrolujte, či sa nevyskytujú známe problémy so službou.
 

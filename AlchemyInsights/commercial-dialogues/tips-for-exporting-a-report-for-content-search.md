@@ -1,5 +1,5 @@
 ---
-title: Tipy na exportovanie zostavy na vyhľadávanie obsahu
+title: Tipy exportovania zostavy na vyhľadávanie obsahu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978896"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Tipy na exportovanie zostavy na vyhľadávanie obsahu
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Tipy exportovania zostavy na vyhľadávanie obsahu
 
-Možno bude potrebné zobraziť zostavu vyhľadávania obsahu namiesto exportu úplných výsledkov vyhľadávania. Ak áno, môžete exportovať len zostavu výsledkov vyhľadávania. Tu je niekoľko tipov:
+Namiesto exportovania celých výsledkov hľadania bude možno potrebné zobraziť zostavu vyhľadávania obsahu. Ak áno, môžete exportovať iba zostavu výsledkov hľadania. Tu je niekoľko tipov:
 
-- Uistite sa, že vaše konto má priradenú rolu riadenia vyhľadávania súladu.
-- Uistite sa, že váš počítač spĺňa všetky [požiadavky](https://go.microsoft.com/fwlink/?linkid=2102407). Nie všetky prehliadače sú podporované, ako napríklad Chrome.
-- Zúžiť výsledky exportu na menej než 20TB, aby sa export nezlyhal. Skúste použiť menší rozsah dátumov alebo menej vyhľadávacích umiestnení.
-- Export zostavy sa započítava do maximálneho počtu zostáv, ktoré môžu byť spustené súčasne.
+- Uistite sa, že vášmu kontu je priradená rola správy vyhľadávania súladu.
+- Presvedčte sa, že váš počítač [spĺňa všetky požiadavky.](https://go.microsoft.com/fwlink/?linkid=2102407) Nie všetky prehliadače sú podporované, napríklad Chrome.
+- Zúžte výsledky exportu na menej ako 20 TB, aby export neuspel. Skúste použiť menší rozsah dátumov alebo menej miest vyhľadávania.
+- Export zostavy sa započítava do maximálneho počtu zostáv, ktoré možno spustiť naraz.
 
-Ďalšie informácie nájdete v téme [exportovanie zostavy vyhľadávania obsahu](https://go.microsoft.com/fwlink/?linkid=2102409)
+Ďalšie informácie nájdete v téme [Export zostavy vyhľadávania obsahu](https://go.microsoft.com/fwlink/?linkid=2102409)
