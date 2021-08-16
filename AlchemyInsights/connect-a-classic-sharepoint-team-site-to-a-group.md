@@ -1,5 +1,5 @@
 ---
-title: Pripojenie klasickej tímovej lokality SharePointu k skupine
+title: Pripojenie klasickú SharePoint tímovú lokalitu do skupiny
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: eead48ff389c1305d38b9e33f8d2bc9978363df9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9d357b50a8e3e7eb11c95717e5bcbef7126f409f184197edd3705c3039241bbe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033041"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-microsoft-365-groups"></a>Pripojenie klasických tímových lokalít SharePointu k novým skupinám Microsoft 365
+# <a name="connect-classic-sharepoint-team-sites-to-new-microsoft-365-groups"></a>Pripojenie klasické SharePoint lokalít tímu do nových Microsoft 365 skupín
 
-Ak chcete zistiť, či sú kolekcie lokalít SharePointu pripravené na pripojenie k skupinám Microsoft 365, použite [nástroj na modernizáciu služby SharePoint](https://go.microsoft.com/fwlink/?linkid=873066). Tento nástroj vám pomôže naplánovať stratégiu modernizácie lokality a vytvoriť hĺbkovú správu vrátane oblastí, ktoré si vyžadujú pozornosť.
+Ak chcete vyhodnotiť, SharePoint vaše kolekcie lokalít sú pripravené na pripojenie k Microsoft 365 Skupiny, použite [nástroj na SharePoint modernizácie .](https://go.microsoft.com/fwlink/?linkid=873066) Tento nástroj vám pomôže naplánovať stratégiu modernizácie lokality a vytvorí hĺbkovú zostavu vrátane oblastí, ktoré potrebujú pozornosť.
   
-Ak chcete povoliť správcom kolekcie lokalít pripojenie klasických tímových lokalít k novým skupinám z nového príkazu ponuky, ktorý pridávame, nemusíte robiť nič. Ak však chcete túto možnosť vypnúť, budete musieť zmeniť predvolené nastavenie. [Zistite, ako](https://go.microsoft.com/fwlink/?linkid=2004316)na to. Správcovia globálnej a SharePointu budú môcť vždy pripojiť lokality k novým skupinám pomocou rutiny typu cmdlet prostredia PowerShell alebo rozhrania API.
+Ak chcete povoliť správcom kolekcií lokalít pripojiť klasické tímové lokality k novým skupinám pomocou nového príkazu ponuky, ktorý pridávame, nemusíte urobiť nič. Ak však chcete túto možnosť vypnúť, budete musieť zmeniť predvolené nastavenie. [Zistite, ako na to.](https://go.microsoft.com/fwlink/?linkid=2004316) Všimnite si, že globálni SharePoint správcovia budú môcť vždy pripojiť lokality k novým skupinám pomocou rutiny typu cmdlet prostredia PowerShell alebo rozhrania API.
   
 
