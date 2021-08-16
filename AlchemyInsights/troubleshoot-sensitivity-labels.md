@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11017"
 - "9000181"
-ms.openlocfilehash: ae6829dbb16d5f76795325da939bf1591734c398
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
-ms.translationtype: MT
+ms.openlocfilehash: 6dc6a7776813b0a2a71b2d726b3c8af1dfd33e83b5c79376e7fbcfcc2a6ea0a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "52125317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020927"
 ---
 # <a name="troubleshoot-sensitivity-labels-not-appearing"></a>Riešenie problémov s nejavou menovkou citlivosti
 
 Ak ste nakonfigurovali označenia citlivosti, ale v aplikáciách balíka Office sa nezobrazujú, skontrolujte toto:
 
-- Skontrolujte, či je Office 365 E3 alebo E5 priradená.
+- Skontrolujte, či Office 365 E3 priradené licencie na E5.
 
 - Potvrďte, že označenie citlivosti bolo publikované pre používateľov a skupiny, ktoré chcete.
 

@@ -1,5 +1,5 @@
 ---
-title: Dostupnosť výučby v Microsoft Viva
+title: Microsoft Viva Vzdelávanie Dostupnosť
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097933"
 ---
-# <a name="microsoft-viva-learning-availability"></a>Dostupnosť výučby v Microsoft Viva
+# <a name="microsoft-viva-learning-availability"></a>Microsoft Viva Vzdelávanie Dostupnosť
 
-Vo februári 2021 sa zobrazuje náhľad aplikácie Viva learning pre teams s malým počtom zákazníkov a partnerov a očakáva sa, že ho zvyčajne sprístupní koncom tohto roka. Odporúčame vám zaregistrovať sa [tu](https://aka.ms/VivaLearningSignup) a získať ďalšie informácie o výučbe Viva vrátane ďalších podrobností o nových funkciách, ktoré budú k dispozícii.
+Od februára 2021 zobrazujeme ukážku aplikácie Viva Vzdelávanie pre Teams malým počtom zákazníkov a partnerov a očakávame, že ju bude všeobecne k dispozícii neskôr v tomto roku. Odporúčame vám zaregistrovať [sa tu a](https://aka.ms/VivaLearningSignup) získať ďalšie informácie o Viva Vzdelávanie vrátane ďalších podrobností o nových možnostiach hneď, ako budú k dispozícii.
 
-Ďalšie informácie nájdete v téme [oznámenie programu Microsoft Viva Learning Private Preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
+Ďalšie informácie nájdete v téme [Predstavenie Microsoft Viva Vzdelávanie súkromnej ukážky.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023)
