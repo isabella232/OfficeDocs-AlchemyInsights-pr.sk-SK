@@ -1,5 +1,5 @@
 ---
-title: Konto Outlook.com uzamknuté
+title: Outlook.com je zamknuté
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ff6abac5ed18750767f76aca158779c5cb3bba1324b0a451987cc37b4b0e239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063931"
 ---
 # <a name="account-locked"></a>Konto je uzamknuté
 
-Ak sa pri pokuse o prihlásenie do Outlook.com zobrazí hlásenie "vaše konto je uzamknuté", je to preto, lebo sme si všimli niektoré nezvyčajné aktivity vo vašom konte. Aby sme vám pomohli ochrániť sa pred možným podvodom alebo zneužitím, dočasne sme zavreli vaše konto. Vieme, že je to frustrujúce, ale my vám môžeme pomôcť vrátiť sa k vášmu kontu len pomocou niekoľkých krokov.
+Ak sa pri pokuse o prihlásenie do lokality Outlook.com zobrazí hlásenie Vaše konto bolo uzamknuté, je to spôsobené tým, že sme zaznamenali nezvyčajnú aktivitu vo vašom konte. Na ochranu pred potenciálnym podvodom alebo zneužitím sme dočasne zamkli vaše konto. Vieme, že to nie je frustrujúce, ale pomocou niekoľkých krokov vám pomôžeme vrátiť sa k vášmu kontu.
 
-1. Prejdite na [account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) a prihláste sa do svojho uzamknutého konta.Ak chcete odomknúť konto, musíte zadať bezpečnostný kód poskytnutý v textovej správe od spoločnosti Microsoft. Ak chcete získať textovú správu, musíte mať telefón, ktorý podporuje odosielanie textových správ. Ak váš telefón nepodporuje odosielanie textových správ, môžete požiadať priateľa alebo člena rodiny, aby používal svoj telefón. Spoločnosť Microsoft neukladá toto telefónne číslo, takže telefónne číslo, ktoré použijete na prijímanie tejto textovej správy, nemusí byť priradené k vášmu kontu.
-2. Ak sa zobrazí hlásenie "prekročený limit používania", prejdite na položku [obnovenie konta](https://go.microsoft.com/fwlink/?linkid=2090483)   a niektorý z našich agentov skontroluje vaše konto.
+1. Prejdite na [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) a prihláste sa do zamknutého konta. Ak chcete odomknúť svoje konto, musíte zadať bezpečnostný kód uvedený v textovej správe od spoločnosti Microsoft. Ak chcete dostať textovú správu, musíte mať telefón, ktorý podporuje posielanie textových správ. Ak váš telefón nepodporuje posielanie textových správ, môžete požiadať priateľa alebo člena rodiny o použitie jeho telefónu. Spoločnosť Microsoft toto telefónne číslo neuchová, takže telefónne číslo, ktoré používate na prijímanie tejto SMS správy, nemusí byť priradené k vášmu kontu.
+2. Ak sa zobrazí hlásenie Prekročený limit používania, prejdite na položku Opätovné [vynútenie](https://go.microsoft.com/fwlink/?linkid=2090483) konta a niektorý z našich zástupcov vám konto prehodnotí.
 
-Ak sa chcete dozvedieť viac, prečítajte si tému [Odblokovanie konta Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Ďalšie informácie nájdete v článku [Odblokovanie konta Outlook.com.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

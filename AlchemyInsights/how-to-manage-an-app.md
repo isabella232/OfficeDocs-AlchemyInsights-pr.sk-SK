@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002099"
 ---
 # <a name="how-to-manage-an-app"></a>Spravovanie aplikácie
 
-Ak chcete spravovať aplikáciu:
+Spravovanie aplikácie:
 
-- Začnite [Spravovať aplikácie](https://admin.teams.microsoft.com/policies/manage-apps) v centre spravovania služby Microsoft teams a pridajte aplikáciu pre vašu organizáciu.
-- [Politiky povolení aplikácie](https://admin.teams.microsoft.com/policies/app-permission) môžete použiť v centre spravovania služieb Microsoft teams a povoliť alebo zablokovať aplikáciu a priradiť ju používateľom.
-- Ak chcete zmeniť poradie zobrazovania aplikácie používateľom alebo pripnúť aplikáciu, použite [politiku nastavenia aplikácií](https://admin.teams.microsoft.com/policies/app-setup) v centre spravovania aplikácie Microsoft teams.
+- Začnite s [položku Spravovať](https://admin.teams.microsoft.com/policies/manage-apps) aplikácie v Microsoft Teams spravovania služieb a pridajte aplikáciu pre svoju organizáciu.
+- Pomocou politík povolení [aplikácie v Centre](https://admin.teams.microsoft.com/policies/app-permission) spravovania Microsoft Teams môžete povoliť alebo zablokovať aplikáciu a priradiť ju používateľom.
+- Ak chcete zmeniť poradie, v akom sa [](https://admin.teams.microsoft.com/policies/app-setup) aplikácia bude používateľom prezentovať alebo chcete pripnúť aplikáciu, použite politiky nastavenia aplikácie Microsoft Teams spravovania.
 
-Ďalšie informácie o vytváraní politík aplikácií pre vašu organizáciu nájdete v témach:
+Ďalšie informácie o vytváraní politík aplikácií pre vašu organizáciu nájdete v téme:
 
-- [Spravovanie aplikácií v centre spravovania aplikácie Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Správa politík povolení aplikácií v aplikácii Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Správa politík nastavenia aplikácií v aplikácii Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [Spravovanie aplikácií v Centre Microsoft Teams spravovania služieb](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Správa politík povolení aplikácií v Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Správa politík nastavenia aplikácií v Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
