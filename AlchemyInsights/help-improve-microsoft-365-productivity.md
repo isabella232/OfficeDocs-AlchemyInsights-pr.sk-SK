@@ -1,5 +1,5 @@
 ---
-title: Pomôžte zlepšiť produktivitu spoločnosti Microsoft 365
+title: Zvýšenie produktivity Microsoft 365 produktivite
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002207"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Pomôžte zlepšiť produktivitu spoločnosti Microsoft 365
+# <a name="help-improve-microsoft-365-productivity"></a>Zvýšenie produktivity Microsoft 365 produktivite
 
-Skóre produktivity podporuje digitálnu transformáciu vašej organizácie s prehľadmi o tom, ako sa používajú produkty spoločnosti Microsoft 365, ako aj technológie, ktoré za nimi stoja.
+Výsledky produktivity podporujú digitálnu transformáciu vašej organizácie s prehľadmi o Microsoft 365 používaní produktov a technológiách, ktoré sú za nimi.
 
 Ďalšie informácie nájdete v témach:
 
-- [spôsob výpočtu Skóre](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [interpretácia skóre vašej organizácie](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [Ovládacie prvky ochrany osobných údajov pre skóre produktivity](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
+- [how the score is calculated](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [ako interpretovať výsledky organizácie](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [ovládacie prvky na ochranu osobných údajov pre Výsledky produktivity](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-Ďalšie informácie nájdete v téme [Prehľad skóre produktivity spoločnosti Microsoft](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).
+Ďalšie podrobnosti nájdete v téme [Prehľad výsledkov produktivity spoločnosti Microsoft.](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)

@@ -1,5 +1,5 @@
 ---
-title: Pravidlo DLP pre US/UK Passport číslo nefunguje
+title: Pravidlo DLP pre USA/Číslo pasu Spojeného kráľovstva nefunguje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004961"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problémy s číslami služby DLP – US/UK Passport
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problémy s DLP – čísla pasu v USA alebo Spojenom kráľovstve
 
 **Dôležité**: V tejto výnimočnej situácií vykonávame kroky na to, aby sme zabezpečili, že služby SharePoint Online a OneDrive zostanú vysoko dostupné. Ďalšie informácie nájdete v téme [Dočasné úpravy funkcií SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Problémy s DLP s číslami o pasoch v USA a Spojenom kráľovstve**
+**Problémy S DLP číslami pasu USA alebo Spojeného kráľovstva**
 
-Vyskytli sa problémy s **prevenciou pred stratou údajov (DLP)** , ktorá nepracuje s obsahom, ktorý obsahuje **číslo cestovného pasu USA/UK** pri použití údajového typu DLP s citlivými informáciami v službe O365? Ak áno, uistite sa, že obsah obsahuje potrebné informácie o tom, čo politika DLP hľadá, keď je vyhodnotená.
+Máte problémy s ochrana pred stratou údajov **(DLP)** v obsahu obsahujúcom číslo pasu USA **alebo** Spojeného kráľovstva pri používaní typu citlivých informácií DLP v O365? Ak áno, uistite sa, že váš obsah obsahuje potrebné informácie o tom, čo politika DLP hľadá pri vyhodnocovaní.
   
-Napríklad pre politiku **číslo Passport USA/UK** nakonfigurovanú s úrovňou spoľahlivosti 75% sa vyhodnotia a pre pravidlo sa musí zistiť, či sa má spustiť
+Napríklad pre politiku čísla pasu USA **alebo** Spojeného kráľovstva nakonfigurovanej na úrovni spoľahlivosti 75 % sa vyhodnotí nasledovné a musí sa zistiť, aby sa toto pravidlo spustilo
   
 - **[Formát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Deväť číslic
 
-- **[Vzor:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Deväť po sebe idúcich číslic
+- **[Vzorka:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Deväť po sebe idúcich číslic
 
 - **[Kontrolný súčet:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nie, kontrolný súčet nie je k dispozícii
 
-- **[Definícia:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** Politika DLP je 75% presvedčená, že zistí tento typ citlivých informácií, ak v blízkosti 300 znakov:
+- **[Definícia:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** Politika DLP si je na 75% istá, že sa zistil tento typ citlivej informácie, ak v blízkosti 300 znakov:
 
-  - Funkcia Func_usa_uk_passport nájde obsah, ktorý zodpovedá vzoru.
+  - Funkcia vyhľadá Func_usa_uk_passport, ktorý zodpovedá vzoru.
 
-  - Nájde sa kľúčové slovo z Keyword_passport.
+  - Nájde sa kľúčové Keyword_passport kľúčové slovo z Tejto lokality.
 
-    Nasledujúca vzorka by napríklad spustila politiku **Passport pre USA a Veľkú Britániu** : US passport Number 123456789
+    Napríklad nasledujúca ukážka by spustila podmienky pre číslo pasu USA **alebo** Spojeného kráľovstva: číslo pasu v USA 123456789
 
-Ďalšie informácie o tom, čo sa vyžaduje pre číslo pasu USA/UK, ktoré sa má zistiť pre váš obsah, nájdete v nasledujúcej časti tohto článku: [Aké typy citlivých informácií vyhľadávajú číslo cestovného pasu pre USA alebo UK](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number) .
+Ďalšie informácie o tom, čo sa vyžaduje od čísla pasu USA alebo Spojeného kráľovstva v rámci vášho obsahu, nájdete v nasledujúcej časti tohto článku: Čo typy citlivých informácií vyzerajú ako číslo pasu USA alebo Spojeného [kráľovstva](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-Ak používate iný vstavaný typ citlivých informácií, prečítajte si v nasledujúcom článku informácie o tom, čo sa vyžaduje pre iné typy: [Aké typy citlivých informácií hľadajú](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Ak používate iný vstavaný typ citlivých informácií, informácie potrebné pre iné typy informácií nájdete v nasledujúcom článku: Čo [typy citlivých informácií hľadať](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

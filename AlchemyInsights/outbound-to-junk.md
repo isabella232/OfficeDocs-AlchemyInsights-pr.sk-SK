@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096673"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Odchádzajúce e-maily do priečinka Nevyžiadaná pošta
 
-Ak sa zobrazujú odchádzajúce správy označené ako nevyžiadané, vykonajte tieto kroky:
+Ak sa vám odchádzajúce správy označujú ako nevyžiadaná pošta, postupujte takto:
 
-- Ak ste tak ešte neurobili, zvážte možnosť [konfigurácie oznámení o politike odchádzajúcej pošty](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Ak ste tak ešte neurobili, zvážte [konfiguráciu upozornení politiky odchádzajúcej nevyžiadanej pošty](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Použite [sledovanie správ](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) a zistite, či výstupná správa obsahuje **nevyžiadanú poštu** v hodnote udalosti s ďalšími detailmi: **použite fond s vysokým rizikom doručenia**.
+- Pomocou [sledovania správ](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) zistite, či má odchádzajúce  správy hodnotu udalosti Nevyžiadaná pošta s ďalšími podrobnosťami: Používajte fond doručovania s **vysokým rizikom.**
 
-  Pri týchto správach skontrolujte obsah správy a zistite, čo môže byť považované za nevyžiadanú poštu. Podpisy môžu napríklad niekedy spôsobovať problémy pre mnohých používateľov.
+  V prípade týchto správ skontrolujte obsah správy, aby ste videli, čo sa môže považovať za nevyžiadanú poštu. Podpisy môžu napríklad niekedy spôsobiť problémy pre mnohých používateľov.
 
-  Ak máte viacero príkladov oprávnených odchádzajúcich správ, ktoré sú označené ako nevyžiadané, otvorte lístok technickej podpory a požiadajte agenta podpory, aby odoslal správy ako falošné pozitívy pre našich analytikov nevyžiadanej pošty. Buďte pripravení poskytnúť vzorové správy, ktoré obsahujú všetky hlavičky správ.
+  Ak máte viacero príkladov legitímnych odchádzajúcich správ, ktoré sú označené ako nevyžiadaná pošta, otvorte žiadosť o podporu a požiadajte agenta podpory, aby odoslal vaše správy našim analytikom nevyžiadanej pošty ako nesprávne pozitívne správy. Pripravte sa na poskytovanie vzorových správ, ktoré obsahujú všetky hlavičky správ.

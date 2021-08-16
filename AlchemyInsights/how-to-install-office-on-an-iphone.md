@@ -1,5 +1,5 @@
 ---
-title: Inštalácia balíka Office v iPhone
+title: Ako nainštalovať Office v iPhone
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 2ad07ce53aab2bc2dda0fed1479ece9b48b13553
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8317359c43e8fefe794168e9264d2dc031155a3a7f6aa4e619ce4925b783ef62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002289"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a>Inštalácia balíka Office v iPhone
+# <a name="how-to-install-office-on-an-iphone"></a>Ako nainštalovať Office v iPhone
 
-- Ťuknite na [prepojenie na stiahnutie Wordu,](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) Excelu, PowerPointu a OneNotu zo svojho mobilného zariadenia.
+- Ťuknite na [prepojenie na stiahnutie vo svojom](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) mobilnom zariadení – Word, Excel, PowerPoint a OneNote.
 
 - Ťuknite na položku Prihlásiť sa a zadajte **jeho pracovné** alebo školské poverenia, aby používateľ začal aplikáciu spúšťať.

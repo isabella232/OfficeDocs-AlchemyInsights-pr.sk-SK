@@ -1,5 +1,5 @@
 ---
-title: Pridanie Outlooku do webového konta do Outlooku pre Windows
+title: Pridanie Outlook na webe konta do Outlook for Windows
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,21 +10,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdb570c354c10798471eff282628b04400ad33abc9daea0abce6cb4bcc55e41d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010703"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Pridanie Outlooku do webového konta do Outlooku
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Pridajte svoje Outlook na webe konto do Outlook
 
-Tieto kroky sú rovnaké bez ohľadu na to, či do Outlooku pridáte prvé e-mailové konto alebo ďalšie e-mailové kontá.
+Tento postup je rovnaký bez ohľadu na to, či do konta pridávate svoje prvé e-mailové konto Outlook.
 
-1. Vyberte **položku**  >  **Pridať konto**.
-1. To, čo sa zobrazuje ďalej, závisí od vašej verzie Outlooku:
-    - Ak máte **Outlook pre Office 365** a **Outlook 2016**, zadajte svoju e-mailovú adresu a kliknite na položku **pripojiť**.
-    - V prípade **outlooku 2013** a **Outlooku 2010**zadajte svoje meno, e-mailovú adresu a heslo a kliknite na tlačidlo **ďalej**.
-1. Ak sa zobrazí výzva, znova zadajte svoje heslo a potom výberom položky **OK**  >  **Finish (dokončiť** ) Začnite používať e-mailové konto v Outlooku.
+1. Vyberte **položku Súbor** Pridať  >  **konto**.
+1. To, čo sa zobrazí ďalej, závisí od vašej verzie Outlook:
+    - Ak **Outlook pre Office 365 a** Outlook 2016 , zadajte **svoju** e-mailovú adresu a kliknite na **Pripojenie**.
+    - Do **Outlook 2013** **a Outlook 2010** zadajte svoje meno, e-mailovú adresu a heslo a kliknite na položku **Ďalej**.
+1. Ak sa zobrazí výzva, znova zadajte heslo a potom vyberte **tlačidlo OK** Finish a začnite používať svoje  >   e-mailové Outlook.
 
-Ďalšie informácie nájdete v téme [Pridanie e-mailového konta do Outlooku](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).
+Ďalšie informácie nájdete v téme [Pridanie e-mailového konta Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
