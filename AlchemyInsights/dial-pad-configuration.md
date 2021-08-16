@@ -1,5 +1,5 @@
 ---
-title: Konfigurácia klávesnice na vytáčanie služby Teams
+title: Teams Konfigurácia klávesnice na vytáčanie
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "6438"
-ms.openlocfilehash: aa45e8bbc13b93fe78e314276f654838c59df4c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c58bd636d485dc206b37ffc129e9db2f72880789c449003dd96db562c7a47542
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101929"
 ---
-# <a name="teams-dial-pad-configuration"></a>Konfigurácia klávesnice na vytáčanie služby Teams
+# <a name="teams-dial-pad-configuration"></a>Teams Konfigurácia klávesnice na vytáčanie
 
-V klientovi Teams umožňuje klávesnica na vytáčanie používateľom získať prístup k funkciám verejnej telefónnej siete (PSTN).  
+V klientskej Teams klávesnica na vytáčanie umožňuje používateľom prístup k funkciám verejnej telefónnej siete (PSTN).  
 
 Ďalšie informácie nájdete na stránke Konfigurácia klávesnice [na vytáčanie.](https://docs.microsoft.com/microsoftteams/dial-pad-configuration)

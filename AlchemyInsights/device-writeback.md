@@ -1,5 +1,5 @@
 ---
-title: Zápisom zariadenia
+title: Device Writeback
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101965"
 ---
-# <a name="device-writeback"></a>Zápisom zariadenia
+# <a name="device-writeback"></a>Device Writeback
 
-Zariadenie zápisom sa používa v nasledovných prípadoch:
+Zapisovanie do zariadenia sa používa v týchto scenároch:
 
-- Zapnutie [Windows Hello for Business s použitím nasadenia dôvery prostredníctvom hybridného certifikátu](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Povolenie podmieneného prístupu na základe zariadení na chránené aplikácie ADFS (2012 R2 alebo novšia verzia) (spoliehanie sa na strany trustov)
+- Povolenie [Windows Hello for Business pomocou hybridného nasadenia dôveryhodnosti certifikátov](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Povolenie podmieneného prístupu v zariadeniach s aplikáciami chránenými ADFS (2012 R2 alebo novšími verziami) (spoliehajúca sa strana dôvery)
 
     > [!NOTE]
-    > Na zápisom zariadenia sa vyžaduje predplatné na Azure AD Premium.
+    > Pre zariadenie writeback sa vyžaduje Premium Azure AD.
 
-Táto akcia poskytuje ďalšie zabezpečenie a istotu, že prístup k aplikáciám sa udelí len pre dôveryhodné zariadenia. Ďalšie informácie o podmienenom prístupe nájdete v téme [spravovanie rizika s podmieneným prístupom](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) a [Nastavenie lokálneho podmieneného prístupu pomocou registrácie zariadenia Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Poskytuje sa tým dodatočné zabezpečenie a zabezpečenie, že prístup k aplikáciám sa udeľuje len dôveryhodným zariadeniam. Ďalšie informácie o podmienenom prístupe nájdete v téme [Spravovanie rizika](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) pomocou podmieneného prístupu a Nastavenie lokálneho podmieneného prístupu [pomocou Azure Active Directory zariadenia.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Ďalšie informácie o povolení zariadenia zápisom pre zariadenia nájdete v téme [povolenie zariadenia zápisom](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Ďalšie informácie o povolení funkcie Writeback v zariadení pre zariadenia nájdete v téme [Povolenie funkcie Device Writeback.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)

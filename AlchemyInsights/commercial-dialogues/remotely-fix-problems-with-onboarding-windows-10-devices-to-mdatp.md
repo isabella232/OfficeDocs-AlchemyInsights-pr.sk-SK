@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s integrovaním zariadení s Windowsom 10 do rozšírenej ochrany pred hrozbami programu Microsoft Defender na diaľku
+title: Vzdialené riešenie problémov s onboardingom Windows 10 do rozšírenej ochrany pred hrozbami pre Microsoft Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034049"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Riešenie problémov s integrovaním zariadení s Windowsom 10 do rozšírenej ochrany pred hrozbami programu Microsoft Defender na diaľku
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Vzdialené riešenie problémov s onboardingom Windows 10 do rozšírenej ochrany pred hrozbami pre Microsoft Defender
 
-Ak máte prístup k vzdialenému počítaču, postupujte podľa týchto krokov:
+Ak máte prístup k vzdialenému počítaču, postupujte takto:
 
-1. Stiahnite si diagnostický nástroj [analyzátor pripojenia klienta](https://go.microsoft.com/fwlink/?linkid=2143466) .
-2. Extrahujte a spustite MDATPAnalyzer. cmd.
-3. Vyhľadajte diagnostický denník v priečinku MDATPClientAnalyzerResult, ktorý sa nachádza v tom istom priečinku, v ktorom bol nástroj analyzátor stiahnutý.
-4. Ak chcete nájsť problémy s pripojením alebo nastavením internetového servera proxy, skontrolujte súbor denníka MDATPClientAnalyzer.txt.
+1. Stiahnite [si diagnostický nástroj Analyzátor pripojenia](https://go.microsoft.com/fwlink/?linkid=2143466) klienta.
+2. Extrahujte a spustite MDATPAnalyzer.cmd.
+3. Vyhľadajte diagnostický denník v priečinku MDATPClientAnalyzerResult, čo je priečinok, v ktorom bol nástroj Analyzer stiahnutý.
+4. Ak chcete nájsť problémy s pripojením alebo nastavením internetového servera proxy, pozrite si informácie o MDATPClientAnalyzer.txt.
 
-Ďalšie informácie nájdete v téme [problémy s integrovanými strojmi](https://go.microsoft.com/fwlink/?linkid=2143634).
+Ďalšie informácie nájdete v téme [Problémy s onboardingami.](https://go.microsoft.com/fwlink/?linkid=2143634)
