@@ -1,5 +1,5 @@
 ---
-title: Outlook.com nemôže odosielať e-maily
+title: Outlook.com nie je možné odoslať e-mail
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,22 +13,22 @@ ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: adb6dd3cc5a6a526b87dc74a6552759cc8db46ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0852df594e4c87d2fb2c766c52ec0aa41d3fc1e89029c1ee4417cfffebbe7352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064471"
 ---
-# <a name="unable-to-send-email-in-outlookcom"></a>Nie je možné odosielať e-maily v Outlook.com
+# <a name="unable-to-send-email-in-outlookcom"></a>Nie je možné odoslať e-mail Outlook.com
 
-Ak máte problémy s odosielaním správ v Outlook.com, vyskúšajte tieto riešenia.
+Ak máte problémy s odosielaním správ na lokalite Outlook.com, vyskúšajte tieto riešenia.
 
-1. Skontrolujte [stav služby](https://go.microsoft.com/fwlink/p/?linkid=837482). 
-2. Skontrolujte, či nie je zapnutý príkaz [Späť Odoslať](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
-3. Ak je Doručená pošta plná, nebudete môcť odosielať ani dostávať nové správy. Vyprázdniť [nevyžiadanú](https://outlook.live.com/mail/junkemail) poštu kliknutím pravým tlačidlom myši na položku odstrániť **nevyžiadanú**poštu  >  **Delete all**.
-4. Skontrolujte, či sú e-mailové adresy ľudí, s ktorými sa pokúšate odoslať, správne naformátované.
-5. Ak máte viac ako 20 pripojených kont, nebudete môcť odosielať ani prijímať poštu.
-6. Vaše konto môže byť dočasne zablokované, pretože sme si všimli niektoré nezvyčajné prihlasovacie aktivity. Pozrite si tému [Odblokovanie konta Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Skontrolujte [stav služby.](https://go.microsoft.com/fwlink/p/?linkid=837482) 
+2. Skontrolujte, [či možnosť](https://outlook.live.com/mail/options/mail/messageContent/undoSend) Zrušiť odoslanie nie je prepla.
+3. Ak je doručená pošta plná, nebudete môcť odosielať ani prijímať nové správy. Vyprázdnite [nevyžiadanú poštu kliknutím](https://outlook.live.com/mail/junkemail) pravým tlačidlom myši na položku **Nevyžiadaná pošta** Odstrániť  >  **všetky**.
+4. Skontrolujte, či sú e-mailové adresy ľudí, ktorých sa pokúšate odoslať, správne naformátované.
+5. Ak máte viac než 20 pripojených kont, nebudete môcť odosielať ani prijímať poštu.
+6. Vaše konto môže byť dočasne zablokované, pretože sme zaznamenali nezvyčajnú aktivitu prihlásenia. Pozrite [si tému Odblokovanie Outlook.com.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)
 
-Ďalšie informácie o [oprave problémov so synchronizáciou e-mailu Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Získajte ďalšie informácie o riešení problémov [so synchronizáciou Outlook.com.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)

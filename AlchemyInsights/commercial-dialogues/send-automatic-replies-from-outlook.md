@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 8bd5170c164431d2b48e872f30f5a9a4bdee99ee867c5cd4c290f4abf1bc35ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0ed306ba7eec3256f6d25b642564a83bfd8ff5e9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966880"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295994"
 ---
 # <a name="send-automatic-replies-from-outlook"></a>Odosielanie automatických odpovedí Outlook
 
@@ -26,7 +26,6 @@ ms.locfileid: "53966880"
 1. Vyberte **položku Automatické** odpovede  >  **súborov**.
 2. V poli **Automatické odpovede** vyberte položku **Odosielať automatické odpovede**.
 3. Na karte **V rámci mojej organizácie** zadajte odpoveď, ktorú chcete odosielať spolupracovníkom a kolegom počas vašej neprítomnosti.
-4. Ak chcete odosielať automatické odpovede ľuďom mimo organizácie, môžete tiež vybrať  kartu Mimo mojej  organizácie, začiarknuť políčko Automatická odpoveď ľuďom mimo organizácie a potom zadať odpoveď, ktorú chcete odoslať počas vašej neprítomnosti. Vyberte, či sa majú odpovede odosielať **len mojim kontaktom** alebo Komukoľvek mimo **organizácie,** kto vám pošle správy.
+4. Ak chcete odosielať automatické odpovede ľuďom mimo organizácie, môžete tiež vybrať  kartu Mimo mojej  organizácie, začiarknuť políčko Automatická odpoveď ľuďom mimo organizácie a potom zadať odpoveď, ktorú chcete odoslať počas vašej neprítomnosti. Vyberte, či sa majú odpovede odosielať **len mojim kontaktom** alebo komukoľvek mimo **organizácie,** kto vám pošle správu.
 
-    > [!NOTE]
-    > Pri odosielaní automatických odpovedí **komukoľvek mimo organizácie** sa automatické odpovede budú odosielať na každý e-mail vrátane bulletinov, reklám a potenciálne aj na nevyžiadané e-maily. Ak chcete odosielať automatické odpovede tým mimo svojej organizácie, odporúčame vybrať možnosť **Len moje kontakty.**
+    **Poznámka:** Odosielanie automatických odpovedí komukoľvek mimo organizácie bude odosielať automatické odpovede na každý e-mail vrátane bulletinov, reklám a potenciálne aj na nevyžiadanú poštu.  Ak chcete odosielať automatické odpovede tým mimo svojej organizácie, odporúčame vybrať možnosť **Len moje kontakty.**
