@@ -1,5 +1,5 @@
 ---
-title: Povolenie alebo zakázanie pravidla denníka
+title: Zapnutie alebo vypnutie pravidla denníka
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058845"
 ---
-# <a name="enable-or-disable-a-journal-rule"></a>Povolenie alebo zakázanie pravidla denníka
+# <a name="enable-or-disable-a-journal-rule"></a>Zapnutie alebo vypnutie pravidla denníka
 
 Postupujte takto:
 
-1. V [centre spravovania pre Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)prejdite na položku pravidlá denníka **spravovania súladu**  >  .
-2. V zobrazení zoznamu v stĺpci **v** vedľa názvu pravidla začiarknutím políčka zapnite pravidlá alebo zrušte začiarknutie tohto pravidla.
+1. V centre [Exchange spravovania prejdite](https://go.microsoft.com/fwlink/p/?linkid=2059104)na tému Pravidlá **spravovania** súladu pre  >  **denník**.
+2. V zobrazení zoznamu začiarknite v stĺpci **ON** vedľa názvu pravidla políčko na zapnutie pravidiel alebo jeho začiarknutie zrušte, ak chcete pravidlo zakázať.

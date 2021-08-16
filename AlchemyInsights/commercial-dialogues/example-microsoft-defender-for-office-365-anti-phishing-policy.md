@@ -1,5 +1,5 @@
 ---
-title: Príklad Microsoft Defendera pre Office 365 anti-phishing Policy
+title: Príklad programu Microsoft Defender pre Office 365 politiky ochrany pred neoprávneným získavaním údajov
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035021"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Príklad Microsoft Defendera pre Office 365 anti-phishing Policy
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Príklad programu Microsoft Defender pre Office 365 politiky ochrany pred neoprávneným získavaním údajov
 
-Tieto nastavenia umožňujú politiku s názvom *domain and CEO*. Táto politika poskytuje ochranu používateľov aj domény pred zosobnením a potom použije politiku na všetky e-maily prijaté používateľmi v rámci domény. Najprv pridajte nasledujúce informácie na vytvorenie politiky:
+Tieto nastavenia povolia politiku s názvom Doména a *generálny riaditeľ.* Táto politika poskytuje ochranu používateľa aj domény pred zosobneením a potom použije politiku na všetky e-maily prijaté používateľmi v rámci domény. Najprv pridajte tieto informácie na vytvorenie politiky:
 
-- **Názov**: Domain and CEO **Popis**: zabezpečuje, že generálny riaditeľ a vaša doména nie sú zosobnené.
-  **Použiť na**: vyberte **doménu príjemcu**. V časti **niektoré z týchto** vyberte položku **vybrať** a potom vyberte doménu. Vyberte položku **+ Pridať**. Začiarknite políčko vedľa názvu domény v zozname (napríklad *contoso.com*) a potom vyberte položku **Pridať**. Vyberte položku **Hotovo**.
-- Po vytvorení politiky môžete politiku jemne doladiť pomocou nasledujúcich možností:
-  - **Pridanie používateľov na ochranu:** V tomto príklade pridajte e-mailovú adresu CEO na minimum.
-  - **Pridanie domén na ochranu**: Pridajte organizačnú doménu, ktorá obsahuje kanceláriu generálneho riaditeľa.
-  - **Vyberte položku akcie**: v **prípade odoslania e-mailu prostredníctvom zosobneného používateľa** vyberte položku **presmerovať správu na inú e-mailovú adresu** a potom zadajte e-mailovú adresu správcu zabezpečenia (napríklad *securityadmin@contoso.com*). **Ak je e-mail odoslaný** vybratou doménou, vyberte položku **karanténa správy**.
-  - **Poštová schránka inteligencia**: Táto možnosť je predvolene vybratá pri vytváraní novej politiky ochrany pred neoprávneným získavaním údajov. Ak chcete najlepšie výsledky, nechajte toto nastavenie **zapnuté** .
-  - **Pridanie dôveryhodných odosielateľov a domén:** V tomto príklade nedefinujte žiadne prepíše.
-- Po skontrolovaní nastavení vyberte v prípade potreby položku **vytvoriť túto politiku** alebo **Uložiť**.
+- **Názov:** Popis domény a **riaditeľa:** Zabezpečuje, že výkonný riaditeľ a vaša doména nie sú zosobňovaní.
+  **Použité na:** Vyberte **položku Doména príjemcu je**. V **časti Ktorýkoľvek z** týchto vyberte položku **Vybrať** a potom vyberte doménu. Vyberte **položku + Pridať**. Začiarknite políčko vedľa názvu domény v zozname (napríklad Názov contoso.com *)* a potom vyberte položku **Pridať**. Vyberte položku **Hotovo**.
+- Po vytvorení politiky môžete politiku doladiť pomocou týchto možností:
+  - **Pridanie používateľov na ochranu:** V tomto príklade pridajte minimálne e-mailovú adresu riaditeľa.
+  - **Pridanie domén na ochranu:** Pridajte doménu organizácie, ktorá obsahuje kanceláriu riaditeľa.
+  - **Výber akcií:** **Ak** e-mail odošle zosobnený používateľ , vyberte položku Presmerovať správu na inú e-mailovú adresu a potom zadajte e-mailovú adresu správcu zabezpečenia *(napríklad securityadmin@contoso.com*). Pre **položku Ak e-mail odosiela zosobnená doména**, vyberte položku **Umiestniť správu do karantény**.
+  - **Inteligencia poštovej** schránky: Táto možnosť je predvolene vybratá pri vytváraní novej politiky ochrany proti neoprávnenému získavaniu údajov. Ak chcete dosiahnuť najlepšie **výsledky,** ponechajte toto nastavenie aktívne.
+  - **Pridanie dôveryhodných odosielateľov a domén:** V tomto príklade nezadefinujte žiadne prepisy.
+- Po revízii nastavení vyberte podľa potreby položku **Vytvoriť túto politiku** alebo Uložiť. 
 
-Ďalšie informácie nájdete v téme [politiky ochrany pred neoprávneným získavaním údajov v Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Ďalšie informácie nájdete v téme Politiky [ochrany pred neoprávneným získavaním údajov v Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
