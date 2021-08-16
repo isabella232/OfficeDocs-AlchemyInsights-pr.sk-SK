@@ -1,5 +1,5 @@
 ---
-title: 9000234 Outlook.com Internal Server Error
+title: 9000234 Outlook.com – chyba interného servera
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024545"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Chyby interného servera v Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>Interné chyby servera na lokalite Outlook.com
 
-Ach nie! Ak sa zobrazí hlásenie Error 500 alebo Internal Server Error, je to nám a nie ste o tom ľúto.
+Ach nie! Ak sa zobrazí hlásenie "Chyba 500" alebo "Interná chyba servera", problém sme to my, a nie vy, ľutujeme.
 
-Pozrite si [stránku stavu služieb Office](https://portal.office.com/servicestatus) , aby ste sa uistili, že sa nič nestane, ale najlepším riešením je prerušenie niekoľkých minút, potom obnovte prehliadač stlačením **kombinácie klávesov CTRL** a **F5**.
+Pozrite si stránku Stav služby [Office](https://portal.office.com/servicestatus) a uistite sa, že sa ešte nič nedeje, ale najlepším riešením je niekoľko minút si urobiť prestávku a potom prehliadač obnoviť stlačením klávesov **CTRL** a **F5.**

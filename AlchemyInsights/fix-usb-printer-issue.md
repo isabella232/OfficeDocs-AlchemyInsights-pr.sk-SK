@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068467"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Riešenie problémov s pripojením USB tlačiarne
 
@@ -29,9 +29,9 @@ Vyskúšajte **tieto kroky na riešenie** problémov, aby USB tlačiareň opäť
 
 Ak to nepomôže, skúste odstrániť **a preinštalovať USB tlačiareň:**
 
-1. Odstráňte tlačiareň v nastaveniach:
+1. Odstráňte tlačiareň vo Nastavenia:
     1. Odpojte USB kábel tlačiarne od PC.
-    2. Vyberte **položku**  >  **Štart Nastavenie**  >  **zariadení** Tlačiarne &  >  **skenery**.
+    2. Vyberte **položku**  >  **Nastavenia**  >  **tlačiarne**  >  **& skenery**.
     3. V **časti tlačiarne & skenery vyberte** tlačiareň, s ktorú chcete vyriešiť. Vyberte **položku Odstrániť zariadenie**. Podľa pokynov úplne odstráňte tlačiareň.
 2. Odstráňte akýkoľvek softvér od výrobcu tlačiarne tretej strany:
     1. Vyberte **položku Štart**  >  **Nastavenia**  >  **Aplikácie**.

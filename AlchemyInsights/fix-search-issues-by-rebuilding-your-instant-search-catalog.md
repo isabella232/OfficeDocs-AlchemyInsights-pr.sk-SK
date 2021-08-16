@@ -1,5 +1,5 @@
 ---
-title: 1800005 riešenie problémov s vyhľadávaním pomocou obnovy katalógu okamžitého vyhľadávania
+title: 1800005 oprava problémov s vyhľadávaním zostavením katalógu okamžitého vyhľadávania
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,26 +13,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a51c7c24e63820a5abbfdc9d72f9f18554b9a9f42c5c804e944137df928efa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068533"
 ---
 # <a name="troubleshoot-search-issues"></a>Riešenie problémov s vyhľadávaním
 
-Ak máte problémy s vyhľadávaním v Outlooku, prečítajte si nižšie zobrazené prepojenia na pomoc a riešenie problémov.
+Ak máte problémy s vyhľadávaním v programe Outlook, pozrite si nižšie uvedené prepojenia na pomoc a riešenie problémov.
 
-Toto sú najbežnejšie problémy a je vhodné začať:
+Toto sú najbežnejšie problémy a môžete začať:
 
-- [Vyhľadávanie v Outlooku vráti žiadne výsledky](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Outlook Search vráti neúplné výsledky](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Vyhľadávanie v Outlooku nedokáže nájsť staršie e-maily](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook vyhľadávania nevráti žiadne výsledky](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook vyhľadávanie vráti neúplné výsledky](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook vyhľadávanie nemôže nájsť staršie e-maily](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-Možné riešenia pre menej bežné problémy nájdete tu:
+Možné riešenia menej bežných problémov nájdete tu:
 
-- [Iba Outlook 2016: karta Hľadať je sivá](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [Zdieľaná poštová schránka: problémy s výsledkami hľadania](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Chyba: výsledky vyhľadávania budú mať vplyv na problém s nakonfigurovaním Outlooku](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [Vyhľadávacie priečinky zobrazujú neočakávané PersonMetadata položky bez predmetu](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook 2016 vyhľadávania: karta Hľadať je neaktívna](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Zdieľaná poštová schránka: Problémy s výsledkami vyhľadávania](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Chyba: Výkon hľadania bude mať vplyv na problém s Outlook konfigurácie vyhľadávania](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Vo vyhľadávacích priečinkoch sa zobrazujú neočakávané položky metaúdajov osoby bez predmetu](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

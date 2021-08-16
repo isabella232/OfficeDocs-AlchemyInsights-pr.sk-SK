@@ -1,5 +1,5 @@
 ---
-title: Spravovanie skupiny bez licencie na Exchange
+title: Spravovanie skupiny bez Exchange licencie
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: 8a02362eb716e7e879deae7392d86ccc9f10ce5c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 949c37b035a85dd9996a741da73eb2e8a0dbfdcfc7dcef3905aa78e5759404e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099085"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Spravovanie skupiny bez licencie na Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Spravovanie skupiny bez Exchange licencie
 
-Ak konto správcu nemá poštovú schránku, pri pokuse o úpravu skupiny Microsoft 365 sa môže zobraziť chybové hlásenie o chýbajúcich licenciách na produkt.
+Ak vaše konto správcu nemá poštovú schránku, pri pokuse o úpravu poštovej schránky v skupine používateľov sa môže zobraziť chybové hlásenie o chýbajúcej Microsoft 365 produkt.
   
-Keďže ste správcom nájomníka, môžete skupinu upraviť aj napriek tomu, že nemáte licenciu na Exchange. Jednoducho prejdite na [skupiny Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **Groups** a spravujte skupinu Microsoft 365.
+Keďže ste správcom nájomníka, môžete skupinu upravovať aj napriek tomu, že nemáte Exchange licenciu. Stačí prejsť do [Exchange](https://outlook.office365.com/ecp.aspx) \> **spravovania a** spravovať skupinu Microsoft 365 správ.
   
-Ak chcete upraviť skupiny v centre spravovania, pridajte do svojho konta správcu licenciu na Exchange. Ak chcete upraviť skupinu, musíte počkať, kým sa poštová schránka úplne nevytvorí.
+Ak chcete upravovať skupiny v centre spravovania, pridajte licenciu Exchange do svojho konta správcu. Pred úpravou skupiny musíte počkať, kým sa poštová schránka úplne vytvorí.
   

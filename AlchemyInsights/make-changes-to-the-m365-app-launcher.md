@@ -1,5 +1,5 @@
 ---
-title: Zmeny v spúšťači aplikácií služby Microsoft 365
+title: Vykonajte zmeny v spúšťači Microsoft 365 aplikácií
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb7a524171d746f93ab3a15debc321af29cd30578c287f9bb05810491e604517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099157"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Zmeny v spúšťači aplikácií služby Microsoft 365
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Vykonajte zmeny v spúšťači Microsoft 365 aplikácií
 
-Do spúšťača aplikácií môžete pridať vlastné dlaždice, ktoré odkazovať na sharepointové lokality, externé lokality, staršie aplikácie a ďalšie.
+Do spúšťača aplikácií môžete pridať vlastné dlaždice, ktoré odkazovať na SharePoint, externé lokality, staršie aplikácie a ďalšie.
 
-1. [V centre spravovania pridajte vlastnú](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) dlaždicu do spúšťača aplikácií tak, že v  **nastaveniach > Organizácie a**  vyberiete  **kartu Profil** organizácie.
+1. [V Centre spravovania môžete do](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) spúšťača aplikácií pridať vlastnú dlaždicu tak, že Nastavenia > **položku Organizácia Nastavenia** potom vyberte kartu **Profil** organizácie.
 2. [Povýšte dlaždicu na Spúšťač aplikácií](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) **pripnutie aplikácie** do spúšťača.
 3. [Upravte alebo odstráňte vlastnú dlaždicu,](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) ak sa v aplikácii niečo zmenilo.
 

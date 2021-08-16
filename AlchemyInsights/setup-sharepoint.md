@@ -1,5 +1,5 @@
 ---
-title: Nastavenie SharePointu
+title: Nastavenie SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023465"
 ---
-# <a name="set-up-sharepoint"></a>Nastavenie SharePointu
+# <a name="set-up-sharepoint"></a>Nastavenie SharePoint
 
-[Sprievodca nastavením SharePointu](https://go.microsoft.com/fwlink/?linkid=2071425) pomáha nastaviť ukladací priestor dokumentov SharePointu a správu obsahu, vytvárať lokality, konfigurovať externé zdieľanie, migrovať údaje a konfigurovať rozšírené nastavenia a riadiť nasadenie používateľov a komunikáciu v rámci vašej organizácie.
+Sprievodca [SharePoint nastavením](https://go.microsoft.com/fwlink/?linkid=2071425) vám pomôže nastaviť ukladanie a správu obsahu dokumentov v SharePoint, vytvárať lokality, konfigurovať externé zdieľanie, migrovať údaje a konfigurovať rozšírené nastavenia a riadiť interakciu používateľov a komunikáciu v rámci organizácie.
 
-Budete postupovať podľa krokov na konfiguráciu politiky povolení na zdieľanie obsahu, výber nástrojov na synchronizáciu migrácie, ako aj povolenie nastavenia zabezpečenia pre prostredie SharePointu.
+Postupujte podľa krokov na konfiguráciu politík povolení zdieľania obsahu, vyberte nástroje na synchronizáciu migrácie a povoľte nastavenia zabezpečenia svojho SharePoint prostredia.

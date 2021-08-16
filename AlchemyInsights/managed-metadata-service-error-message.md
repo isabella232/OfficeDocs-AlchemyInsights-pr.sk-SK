@@ -12,16 +12,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58394b854877aaf2f537c33195193d23cc3891524cb2f867246ba4bf5f9e73a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099013"
 ---
 # <a name="managed-metadata-service-error-message"></a>Chybové hlásenie služby spravovaných metaúdajov
 
-Pri otváraní ukladacieho priestoru výrazov sa môže zobraziť chybové hlásenie: služba alebo pripojenie služby spravovaných metaúdajov momentálne nie je k dispozícii. Môže sa stať, že fond aplikácií alebo webová služba spravovaných metaúdajov nebola spustená. Obráťte sa na svojho správcu.
+Po otvorení ukladacieho priestoru výrazov sa môže zobraziť chybové hlásenie: Služba spravovaných metaúdajov alebo pripojenie momentálne nie je k dispozícii. Je možné, že webová služba fondu aplikácií alebo spravovaných metaúdajov sa neszačala. Obráťte sa na správcu."
   
-Ak uplynulo viac ako 24 hodín, pretože ste prvýkrát videli tento problém, prihláste prípad podpory. Chápeme, že 24 hodín sa môže zdať ako dlhý čas. V mnohých prípadoch už pracujeme na riešení, takže nám poskytnite minimálne 24 hodín.
+Ak uplynulo viac než 24 hodín od toho, čo ste tento problém prvýkrát videli, prihláste sa do prípadu podpory. Chápeme, že 24 hodín sa môže zdať príliš dlhý. V mnohých prípadoch už pracujeme na riešení, preto nám dajte aspoň 24 hodín.
   
