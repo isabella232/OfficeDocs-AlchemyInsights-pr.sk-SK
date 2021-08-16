@@ -1,5 +1,5 @@
 ---
-title: Vytvorenie politík a profilov služby Intune
+title: Vytvorenie politík a profilov intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994196"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Vytvorenie politiky a profilov služby Intune
+# <a name="creating-intune-policy-and-profiles"></a>Vytváranie politík a profilov intune
 
-V službe Intune môžete vytvoriť politiky a profily, ktoré majú rôzne možnosti.
+In Intune, you can create policies and profiles that do different things.
 
-- **Profily registrácie**: Predkonfigurovať zariadenia podľa platformy, povoliť afinitu používateľa, použiť viacnásobné overovanie a ďalšie informácie.
+- **Profily registrácie: vopred** nakonfigurujte svoje zariadenia podľa platformy, povoľte používateľskú afinitu, používajte viacfaktorové overovanie a oveľa viac.
 
-  [Čo je registrácia zariadenia](https://docs.microsoft.com/intune/device-enrollment)a vytváranie profilov registrácie pre [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)a [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sú dobrými zdrojmi.
+  [Čo je registrácia zariadenia a](https://docs.microsoft.com/intune/device-enrollment)vytvorenie profilov registrácie pre [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll) [a Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sú dobré zdroje informácií.
 
-- **Politiky dodržiavania súladu**: definujte pravidlá a nastavenia, ktoré musia zariadenia spĺňať, aby boli kompatibilné. Môžete tiež použiť politiku dodržiavania súladu na sledovanie zariadení a upozorniť používateľov na nesúlad.
+- **Politiky dodržiavania** súladu: Definujte pravidlá a nastavenia, ktoré musia zariadenia spĺňať, aby boli kompatibilné. Politiky dodržiavania súladu môžete použiť aj na monitorovanie zariadení a informovať používateľov o dodržiavaní súladu.
 
-  Začíname s [politikami dodržiavania súladu zariadení](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Politiky podmieneného prístupu**: zabezpečte organizačné zdroje v závislosti od podmienok, ktoré zadáte. Napríklad pre nevyhovujúce zariadenia použite podmienený prístup na obmedzenie prístupu k e-mailu a SharePointu.
+  Začíname s [politikami dodržiavania súladu pre zariadenia.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Politiky podmieneného prístupu:** Pomáha zabezpečiť organizačné zdroje v závislosti od zadávaných podmienok. V zariadeniach, ktoré nie sú kompatibilné, môžete napríklad použiť podmienený prístup na obmedzenie prístupu k e-mailom a SharePoint.
 
-  [Čo je podmienený prístup](https://docs.microsoft.com/intune/conditional-access) a [bežné spôsoby, ako používať podmienený prístup](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) , sú dobré zdroje informácií, ktoré je potrebné začať.
+  [Čo je podmienený prístup](https://docs.microsoft.com/intune/conditional-access) [a bežné spôsoby použitia podmieneného prístupu,](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sú dobrými zdrojmi na začiatok.
 
-- **Profily konfigurácie**: spravovanie funkcií a nastavení v zariadeniach vrátane nastavení e-mailu, Pridanie Wi-Fi siete, používanie vstavaných šablón, ovládanie funkcií iOS a macOS a ďalšie možnosti.
+- **Profily konfigurácie:** Spravujte funkcie a nastavenia v zariadeniach vrátane nastavení e-mailu, pridania WiFi siete, použitia vstavaných šablón, ovládania funkcií zariadení so systémom iOS a macOS a ďalších.
 
-  Začíname pracovať s [profilmi konfigurácie zariadenia](https://docs.microsoft.com/intune/device-profiles).
+  Začíname s [profilmi konfigurácie zariadenia.](https://docs.microsoft.com/intune/device-profiles)
 
 Užitočné prepojenia:
 
-- [Bežné otázky, problémy a rozlíšenia s politikami a profilmi zariadenia v službe Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Bežné otázky, problémy a riešenia s politikami a profilmi zariadení v intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Riešenie problémov s politikami a profilmi v službe Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Riešenie problémov s politikami a profilmi v intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

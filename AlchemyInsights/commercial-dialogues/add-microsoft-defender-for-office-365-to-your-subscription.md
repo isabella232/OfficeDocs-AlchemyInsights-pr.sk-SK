@@ -1,5 +1,5 @@
 ---
-title: Pridanie programu Microsoft Defender pre Office 365 k predplatnému
+title: Pridanie Microsoft Defendera Office 365 do predplatného
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5dbd3e3b7744f48c5737b0909765576453e8769e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ea3addc8bd1e7bb3026132512f75ecdbafcec06036ec14943fb3aed554e25757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006257"
 ---
-# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Pridanie programu Microsoft Defender pre Office 365 k predplatnému
+# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Pridanie Microsoft Defendera Office 365 do predplatného
 
-Postupujte takto:
+Ako na to:
 
-1. V centre spravovania prejdite na položku   >  [nákupné služby](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturácie.
-2. Na stránke **nákupné služby** stlačte **kombináciu klávesov CTRL + F** , čím sa otvorí vyhľadávacie pole, a potom vyhľadajte **Microsoft Defender pre Office 365**. Ak doplnok nenájdete, je to preto, že váš plán nepodporuje jeho Pridanie.
-3. Vyberte položku **Kúp teraz** a potom postupujte podľa pokynov na stránke.
+1. V centre spravovania prejdite na položku Služby **zakúpenia**  >  [fakturácie.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. Na stránke **Nákup služieb** stlačením **kombinácie klávesov CTRL** + F otvorte vyhľadávacie pole a vyhľadajte aplikáciu Microsoft **Defender, ktorá Office 365.** Ak doplnok nenájdete, je to preto, že váš plán nepodporuje jeho pridanie.
+3. Vyberte **položku Kúpiť** a potom postupujte podľa pokynov na stránke.

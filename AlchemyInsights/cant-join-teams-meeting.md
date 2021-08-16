@@ -1,5 +1,5 @@
 ---
-title: Nie je možné pridať sa k schôdzi tímu
+title: K schôdzi sa Teams nie je možné
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003566"
 - "6656"
-ms.openlocfilehash: bc00638af3364f7d843c5b00d42a60491c4d1859
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
-ms.translationtype: MT
+ms.openlocfilehash: b2d53c7c06264fc0c6a9e682ff0802b1fbc562b378b75cfb06ca330492dfcf22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019019"
 ---
-# <a name="cant-join-teams-meeting"></a>Nie je možné pridať sa k schôdzi tímu
+# <a name="cant-join-teams-meeting"></a>K schôdzi sa Teams nie je možné
 
 Návrhy na riešenie problémov:  
 
-- Možnosť  **Povoliť schôdzu teraz v**  rámci politiky kanála v centre spravovania môže byť vypnutá. Požiadajte správcu tímu o jeho kontrolu.
-- Otvorte aplikáciu teams Web App v prehliadači Google Chrome a potom sa pokúste o účasť na schôdzi.
-- Ak chcete, aby sa niekto na schôdzi pozvaný podľa pokynov v časti pozvať ľudí na  [začatie okamžitej schôdze v aplikácii teams](https://support.microsoft.com/office/start-an-instant-meeting-in-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5), Pozvite vás.
-- Presvedčte sa, že obrázok nie je poškodený.
+- Možnosť  **politiky Povoliť stretnúť sa teraz**  v kanáli v Centre spravovania môže byť vypnutá. Požiadajte správcu Teams o kontrolu.
+- Otvorte webovú Teams v prehliadači Google Chrome a potom sa skúste pripojiť k schôdzi.
+- Niekoho môžete pozvať do pozvánky na schôdzu podľa pokynov v časti Pozvanie ľudí v časti [Začatie okamžitej schôdze v Teams](https://support.microsoft.com/office/start-an-instant-meeting-in-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5).
+- Skontrolujte, či obrázok nie je poškodený.
