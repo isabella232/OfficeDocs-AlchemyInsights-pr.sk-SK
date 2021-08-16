@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: e99fcc49108c9e8f87ca204b9f3dfe7fcfdae97a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: cbc15645c71c8fe06065dacb1f38f6535e261a2ec265ca08f2e9aef1e9170fa7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100741"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Povolenie služieb Teams a Office 365 A1
 

@@ -1,5 +1,5 @@
 ---
-title: Úprava profilu fakturácie pre aplikácie
+title: Úprava fakturačného profilu aplikácií
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100849"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Úprava profilu fakturácie pre aplikácie
+# <a name="edit-billing-profile-for-apps"></a>Úprava fakturačného profilu aplikácií
 
-**Úprava profilov fakturácie**
+**Úprava fakturačných profilov**
 
-1. Prejdite na stránku **fakturačné**  >  **[faktúry & platby](https://go.microsoft.com/fwlink/p/?linkid=848039)** a potom kliknite na položku **profily fakturácie**.
+1. Prejdite na stránku **Faktúry**  >  **[za & platby a](https://go.microsoft.com/fwlink/p/?linkid=848039)** potom kliknite na položku **Fakturačné profily**.
 
-2. V zozname profilov fakturácie vyberte profil fakturácie, ktorý chcete upraviť.
+2. V zozname fakturačných profilov vyberte fakturačný profil, ktorý chcete upraviť.
 
-**Zmena profilu fakturácie v aplikáciách**
+**Zmena fakturačného profilu v aplikáciách**
 
-1. Prejdite na stránku **Fakturácia**  >  **[produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)** a potom kliknite na kartu **aplikácie** .
+1. Prejdite na stránku  >  **[Fakturácia vašich](https://go.microsoft.com/fwlink/p/?linkid=842054)** produktov a potom kliknite na **kartu** Aplikácie.
 
 2. Vyhľadajte a vyberte aplikáciu, ktorú chcete spravovať.  
 
-3. Vedľa položky **profil fakturácie** kliknite na položku **Upraviť** a vyberte profil fakturácie, ktorý chcete priradiť k aplikácii.
+3. Vedľa položky **Fakturačný profil** kliknite **na položku Upraviť** a vyberte fakturačný profil, ktorý chcete priradiť k aplikácii.

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 94651ca9efff3c6b7ab1ba858e092247195679f9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 55ee011c16fe9bd7a35cde1a73dd610d988f227c316f379adab0483973ab903d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070411"
 ---
 # <a name="set-up-online-services"></a>Nastavenie online služieb
 
 Ak chcete nastaviť online služby, vykonajte tieto kroky:
 
-1. Na stránke **Pridanie záznamov pre svoju webovú lokalitu** : a. Ak nemáte webovú lokalitu, kliknite na položku **ďalej**. Potom pristanete na stránke **aktualizovať nastavenia DNS** .
-    b. Ak máte webovú lokalitu, vyhľadajte záznam u svojho poskytovateľa hostiteľských služieb DNS. Potom ju skopírujte a prilepte na stránku.
-2. Kliknutím na tlačidlo **ďalej** prejdite na stránku **aktualizovať nastavenia DNS** .
+1. Na stránke **Pridanie záznamov pre vašu webovú** lokalitu: a. Ak **webovú** lokalitu nemáte, kliknite na tlačidlo Ďalej. Potom sa môžete zobraziť na **stránke Aktualizácia nastavení DNS.**
+    b. Vyhľadajte záznam u svojho poskytovateľa hostiteľských služieb DNS, ak máte webovú lokalitu. Potom ho skopírujte a prilepte na stranu.
+2. Kliknutím **na tlačidlo** Ďalej prejdite na stránku Aktualizácia nastavení **DNS.**

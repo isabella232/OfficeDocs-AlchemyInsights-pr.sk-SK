@@ -1,5 +1,5 @@
 ---
-title: Sprievodca nasadením balíka Office na vzdialených používateľov
+title: Nasadenie Office pre vzdialených používateľov
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031457"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Sprievodca nasadením balíka Office na vzdialených používateľov
+# <a name="deploy-office-to-remote-users-wizard"></a>Nasadenie Office pre vzdialených používateľov
 
-Teraz, keď pracujete na diaľku, je normou, používatelia potrebujú dostávať nastavenia balíka Office v organizácii, keď nie sú pripojení k internej sieti alebo pri používaní vlastných zariadení.
+Teraz, keď je práca na diaľku normou, musia používatelia získať nastavenia organizácie Office vtedy, keď nie sú pripojení k vašej internej sieti alebo keď používajú vlastné zariadenia.
 
-Pomocou Sprievodcu [nasadením balíka Office na vzdialených používateľov](https://go.microsoft.com/fwlink/?linkid=2149564) môžete vytvoriť prispôsobenú inštaláciu balíka Office a potom odoslať používateľom vytvorený skript prostredia PowerShell, ktorý bude bez problémov nainštalovať balík Office s konfiguráciou.
+Pomocou Sprievodcu [nasadením Office](https://go.microsoft.com/fwlink/?linkid=2149564) vzdialeným používateľom vytvorte prispôsobenú inštaláciu balíka Office a potom používateľom odošlite skript prostredia PowerShell, ktorý bez problémov nainštaluje Office s vašou konfiguráciou.
