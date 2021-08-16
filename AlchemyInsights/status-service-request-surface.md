@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9752"
 - "9005678"
-ms.openlocfilehash: 27ba522e299f552df582cd41e964a3e97f455cc8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 0f9f5e9af09f5c4de431ecd990e6d193df6224149d72c48946425824ad60dd23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021539"
 ---
 # <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Kontrola stavu žiadosti o servisnú objednávku pre Surface alebo Xbox
 
-Ak chcete zobraziť podrobnosti o objednávke (t. j. žiadosti o opravu), postupujte podľa týchto krokov:
+Ak chcete zobraziť podrobnosti servisnej objednávky (t. j. žiadosti o opravu), postupujte takto:
 
-1. Prejdite na položky služby zariadenia.
+1. Prejdite na služby zariadenia.
 
-1. Ak chcete zobraziť celú históriu a najnovšie aktualizácie, vyberte položku **Zobraziť podrobnosti** .
+1. Výberom **položky Zobraziť** podrobnosti zobrazíte úplnú históriu a najnovšie aktualizácie.
 
