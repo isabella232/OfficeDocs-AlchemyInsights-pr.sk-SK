@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov a chýb nástroja na migráciu SharePointu
+title: Riešenie SharePoint a chýb nástroja na migráciu
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020675"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Riešenie problémov a chýb nástroja na migráciu SharePointu
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Riešenie SharePoint a chýb nástroja na migráciu
 
-Pri používaní nástroja na migráciu SharePointu (SPMT) sa môžu vyskytnúť niektoré bežné problémy a chyby. Ďalšie informácie nájdete v odkaze na nižšie uvedené prepojenia.
+Pri používaní nástroja na migráciu údajov (SPMT) sa môžu vyskytnúť SharePoint bežné problémy a chyby. Ďalšie informácie získate po odkazoch nižšie.
 
-- [Riešenie bežných problémov s SPMT a chyby](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Riešenie bežných problémov a chýb SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
-- [Riešenie problémov s inštaláciou problémov s SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+- [Riešenie problémov s inštaláciou SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

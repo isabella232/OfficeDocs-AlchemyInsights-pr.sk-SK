@@ -1,5 +1,5 @@
 ---
-title: Usmernenie o inovácii pre tímy
+title: Teams o inovácii
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998706"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams používa viac počítačových zdrojov, než sa očakávalo
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams používa viac prostriedkov počítača, ako sa očakáva
 
-Veľký výkon a skúsenosti používateľov sú najvyššími obavami spoločnosti Microsoft. Obnovenie času tímu sa zlepšuje a budeme pokračovať v zlepšovaní tímov vrátane celkovej spotreby zdrojov.  
+Skvelý výkon a skúsenosti používateľov sú v spoločnosti Microsoft veľkými problémami. Teams sa čas spustenia vylepšuje a budeme pokračovať vo vylepšených Teams vrátane celkovej spotreby zdrojov.  
 
-Informácie o tímoch a používaní zdrojov nájdete v téme ako [sa v rámci schôdzí videa v prenosných počítačoch na 4k/HDR monitory](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k) [Microsoft teams používa pamäť](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) a tímy.
+Informácie o používaní Teams zdrojov nájdete v téme Ako [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) používa pamäť a Teams pomalé počas video schôdzí na prenosných počítačoch ukotvených na [monitoroch 4K/HDR.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)

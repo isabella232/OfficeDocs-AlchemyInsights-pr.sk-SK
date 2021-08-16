@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034445"
 ---
 # <a name="intune-app-deployment-process"></a>Proces nasadenia aplikácie Intune
 
-Nasadenie aplikácií so službou Intune sa riadi nižšie uvedeným procesom:
+Nasadenie aplikácií pomocou služby Intune:
 
-- Pridanie aplikácie – môžete pridať aplikáciu App Store alebo nahrať podnikovú aplikáciu.
+- Pridanie aplikácie – môžete pridať aplikáciu z obchodu App Store alebo nahrať aplikáciu Line of Business.
 - Priradenie aplikácie – určenie rozsahu nasadenia aplikácie.
-- Sledovanie aplikácií – zobrazte stav inštalácie aplikácií, zoznam nájdených aplikácií a spravujte aplikácie zakúpené v obchodoch s aplikáciami.
-- [Aplikácia zaviedla súpravu INTUNE SDK. Zoznam aplikácií, ktoré podporujú súpravu SDK, nájdete v téme chránené aplikácie v službe Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Monitorovanie aplikácií – môžete zobraziť stav inštalácie aplikácií, zobraziť zoznam vy objaviných aplikácií a spravovať aplikácie zakúpené z obchodov s aplikáciami.
+- [Táto aplikácia implementuje súpravu SDK služby Intune. Zoznam aplikácií, ktoré podporujú súpravu SDK, nájdete v Microsoft Intune chránených aplikácií.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Prečítajte si ďalšie informácie o nasadení a spravovaní aplikácie Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Prečítajte si ďalšie informácie o nasadení a riadení aplikácií služby Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)

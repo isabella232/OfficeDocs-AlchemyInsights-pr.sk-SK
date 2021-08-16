@@ -1,5 +1,5 @@
 ---
-title: Obmedzenie prístupu v SharePointe alebo OneDrive
+title: Obmedzenie prístupu v SharePoint alebo OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
@@ -9,22 +9,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7b68df2ae24b09fe9b01bd67c31a89e37f284a512bc1ecb097ef52fae5ae7d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075055"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Obmedzenie prístupu v SharePointe alebo OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Obmedzenie prístupu v SharePoint alebo OneDrive
 
-V SharePointe a OneDrive môžete obmedziť prístup k položkám, ako sú súbory, priečinky a zoznamy, udelením prístupu len skupinám alebo jednotlivcom, ktorým chcete mať prístup. Povolenia v SharePointe sú predvolene zdedené z vyššie uvedených hodnôt v hierarchii. Preto súbor dedí povolenia z priečinka, ktorý dedí povolenia z knižnice, ktorá dedí povolenia z lokality.
+V SharePoint a OneDrive prístup k položkám, ako sú súbory, priečinky a zoznamy, obmedzíte tak, že udelíte prístup len skupinám alebo jednotlivcom, ku ktorým chcete mať prístup. Predvolene sa povolenia v SharePoint v hierarchii dedia od vyššieho úrovne. Súbor teda dedí povolenia od priečinka, ktorý dedí povolenia z knižnice, a dedí z lokality povolenia.
   
-Ak nechcete zdieľať všetky položky na lokalite, môžete zdieľať na vyššej úrovni (napríklad zdieľaním celej lokality) a následným prerušením dedenia. Táto skutočnosť sa však neodporúča, pretože zabezpečuje, aby sa v budúcnosti zachovali povolenia zložitejšie a mätúce. Tu je to, čo by ste mohli urobiť namiesto toho:
+Ak nechcete zdieľať všetky položky na lokalite, môžete zdieľať položky na vyššej úrovni (napríklad zdieľaním celej lokality) a potom prerušiť dedenie. Toto však neodporúčame, pretože v budúcnosti je udržiavanie povolení zložitejšie a mätúce. Namiesto toho môžete urobiť toto:
   
-- Ak chcete napríklad zdieľať celý obsah priečinka s výnimkou jedného súboru, presuňte ho na nové miesto, ktoré nie je zdieľané.
+- Ak napríklad chcete zdieľať celý obsah priečinka okrem jedného súboru, premiestnite ho do nového umiestnenia, ktoré nie je zdieľané.
     
-- Ak máte v priečinku dva podpriečinky a chcete zdieľať jeden podpriečinok so skupinami a a B a povoliť len skupinový prístup k druhému podpriečinku, zdieľajte nadradený priečinok so skupinou A a pridajte skupinu B do prvého podpriečinka.
+- Ak máte v priečinku dva podpriečinky a chcete zdieľať jeden podpriečinok so skupinami A a B a povoliť len skupinu A k druhému podpriečinku, zdieľajte nadradený priečinok so skupinou A a pridajte skupinu B do prvého podpriečinka.
     
 [Ukončenie zdieľania súboru alebo priečinka ](https://go.microsoft.com/fwlink/?linkid=2008861)
   

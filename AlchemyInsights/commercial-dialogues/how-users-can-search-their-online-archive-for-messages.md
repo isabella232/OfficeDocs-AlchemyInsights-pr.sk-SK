@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034517"
 ---
 # <a name="how-users-can-search-their-online-archive-for-messages"></a>Ako môžu používatelia vyhľadávať správy v online archíve
 
-Online Archív je funkcia pre zákazníkov služieb Office 365 Enterprise, ktorí majú neobyčajne veľké poštové schránky. Online Archív používateľa funguje skôr ako druhé konto v Outlooku s vlastnou štruktúrou priečinkov. Vyhľadanie e-mailov v online archíve:
+Online archív je funkcia pre zákazníkov Office 365, ktorí majú neobvykle veľké poštové schránky. Online archív používateľa funguje podobne ako druhé konto v Outlook s vlastnou štruktúrou priečinkov. Vyhľadanie e-mailu v online archíve:
 
-1. Online Archív nie je zahrnutý v vyhľadávaniach vykonaných z priečinka Doručená pošta. Musíte prejsť do online archívu a potom vykonať vyhľadávanie.
-2. V Outlooku na webe sa Archív nazýva *archívny Archív*. Prejdite na In-Place archívna poštová schránka a potom vykonajte vyhľadávanie.
-3. V Outlooku 2016 sa nazýva *online Archív – <`name` >*. Prejdite do online archívnej poštovej schránky a potom vykonajte vyhľadávanie.
+1. Online archív sa nezahrnú do vyhľadávaní vykonaných v priečinku doručenej pošty. Musíte prejsť do online archívu a potom vykonať vyhľadávanie.
+2. V Outlook na webe sa archív nazýva *Archív na mieste.* Prejdite do poštovej In-Place Archív a vykonajte vyhľadávanie.
+3. Vo Outlook 2016 sa nazýva Online *archív – <. `name` >* Prejdite do poštovej schránky Online archív a vykonajte vyhľadávanie.
 
 > [!TIP]
-> Používatelia nemajú prístup k svojej online archívnej poštovej schránke pomocou Outlooku v mobilnom zariadení, ako je napríklad inteligentný telefón.
+> Používatelia získať prístup k svojej online archívnej poštovej schránke Outlook v mobilnom zariadení, ako je napríklad inteligentný telefón.
