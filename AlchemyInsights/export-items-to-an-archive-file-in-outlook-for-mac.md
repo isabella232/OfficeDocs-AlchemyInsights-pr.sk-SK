@@ -1,5 +1,5 @@
 ---
-title: Export položiek do archívneho súboru v Outlooku pre Mac
+title: Export položiek do archívneho súboru v Outlook pre Mac
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100417"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Export položiek do archívneho súboru v Outlooku pre Mac
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Export položiek do archívneho súboru v Outlook pre Mac
 
-Ak chcete zmenšiť veľkosť doručenej pošty, manuálne archivovanie e-mailových správ, kontaktov a ďalších položiek do údajového súboru Outlooku pre Mac (. olm). Súbor. olm môžete uložiť na ľubovoľné miesto v Macu alebo na iný stroj na úschovu.
+Ak chcete zmenšiť veľkosť doručenej pošty, manuálne archivujte e-mailové správy, kontakty a iné položky do údajového Outlook pre Mac súboru (.olm). Súbor .olm môžete uložiť na ľubovoľné miesto v Macu alebo inom zariadení, kde bude bezpečne uchováný.
 
-1. Na karte **Nástroje** kliknite na položku **Exportovať**.
+1. Na karte **Nástroje** kliknite na položku **Exportovať.**
 
 > [!NOTE]
-> Nezobrazuje sa tlačidlo **Exportovať** ? Uistite sa, že máte najnovšiu verziu Outlooku. V ponuke **Pomocník** pre Outlook kliknite na položku **Vyhľadať aktualizácie**. Ak sa použijú všetky aktualizácie Outlooku a tlačidlo **Exportovať** sa stále nezobrazuje, pozrite si tému **export** v ponuke **súbor** programu Outlook.
+> Tlačidlo Exportovať **sa** tlačidlo Exportovať zobraziť? Uistite sa, že máte najnovšiu verziu balíka Outlook. V ponuke Outlook **Pomocník** kliknite na **položku Vyhľadať aktualizácie**. Ak sa Outlook všetky aktualizácie a tlačidlo **Exportovať** sa stále tlačidlo Exportovať zobraziť, vyhľadajte položku **Exportovať** v Outlook **Súbor.**
 
-2. V poli **exportovať do archívneho súboru (. olm)** skontrolujte položky, ktoré chcete exportovať, a kliknite na položku **pokračovať**.
+2. V poli **Export do archívneho súboru (.olm)** začiarknite položky, ktoré chcete exportovať, a kliknite na položku **Pokračovať**.
 
-3. V poli **Uložiť ako** v časti **Obľúbené** vyberte priečinok **stiahnuté** položky a kliknite na tlačidlo **Uložiť**.
+3. V poli **Uložiť ako** v časti Obľúbené položky **vyberte** priečinok Stiahnuté súbory **a** kliknite na položku **Uložiť**.
 
-4. Po exporte údajov a získaní oznámenia kliknite na tlačidlo **Dokončiť**.
+4. Po exportovaní údajov a oznámení kliknite na tlačidlo **Dokončiť**.
 
-Informácie o tom, ako získať prístup k údajom uloženým v údajovom súbore Outlooku pre Mac (. olm), nájdete v téme [Importovanie e-mailových správ, kontaktov a ďalších položiek do outlooku 2016 pre Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+Informácie o prístupe k údajom uloženým v údajovom súbore programu Outlook pre Mac (.olm) nájdete v téme Importovanie e-mailových správ, kontaktov a iných [položiek do Outlook 2016 pre Mac.](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
 
-**Chcem exportovať do iCloudu alebo do iného typu archívneho súboru**
+**Chcem exportovať do služby iCloud alebo do iného typu archívneho súboru**
 
-Jedinou možnosťou exportovania, ktorá je k dispozícii v súčasnosti, je súbor archívu. olm. Ak chcete požiadať o ďalšie možnosti exportovania, prejdite do [poľa návrh Outlooku](https://outlook.uservoice.com/) a nechajte svoje pripomienky. Tím Outlooku aktívne monitoruje toto fórum.
+V tomto čase je možné exportovať iba archívny súbor .olm. Ak chcete požiadať o ďalšie možnosti exportu, [navštívte Outlook Okno s návrhmi](https://outlook.uservoice.com/) a ponechajte svoje pripomienky. Toto Outlook tím aktívne sleduje.
 
 **Pozrite tiež**
 
-- [Importovanie súboru. pst do Outlooku 2016 pre Mac z Outlooku pre Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [Importujte súbor .pst do Outlook 2016 pre Mac zo Outlook pre Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [Automatické Archivovanie alebo zálohovanie položiek v Outlooku 2016 pre Mac pomocou časového zariadenia](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Pomocou funkcie Time Machine automaticky archivujte alebo zálohujte položky v Outlook 2016 pre Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
