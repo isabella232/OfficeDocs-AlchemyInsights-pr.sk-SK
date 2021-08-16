@@ -1,5 +1,5 @@
 ---
-title: Požiadavky na politiku ochrany aplikácií
+title: Požiadavky politiky ochrany aplikácií
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995388"
 ---
-# <a name="application-protection-policy-requirements"></a>Požiadavky na politiku ochrany aplikácií
+# <a name="application-protection-policy-requirements"></a>Požiadavky politiky ochrany aplikácií
 
-Požiadavky na politiku ochrany aplikácií:
+Požiadavky politiky ochrany aplikácií:
 
-- Používateľ má licenciu služby Intune alebo EMS.
-- Používateľ patrí do skupiny, ktorá je zameraná na politiku ochrany aplikácií.
-- Iba jeden podnikový používateľ je prihlásený do chránených aplikácií v zariadení.
-- [Aplikácia zaviedla súpravu Intune SDK. Zoznam aplikácií, ktoré podporujú súpravu SDK, nájdete v téme chránené aplikácie v službe Microsoft Intune.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- Používateľ má licenciu na Intune alebo EMS.
+- Používateľ patrí do skupiny zameranej na politiky ochrany aplikácií.
+- Do chránených aplikácií v zariadení je prihlásený iba jeden podnikový používateľ.
+- [Táto aplikácia implementuje súpravu SDK služby Intune. Zoznam aplikácií, ktoré podporujú súpravu SDK, nájdete v Microsoft Intune chránených aplikácií.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [Ďalšie informácie...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)

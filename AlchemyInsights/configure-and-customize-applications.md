@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 30127beda85dd9824f7e3a7a4744d109e7ea874b
-ms.sourcegitcommit: aeb15e206865f61ff61a1e55c407e34eaa89b6d1
+ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045003"
 ---
 # <a name="configure-and-customize-applications"></a>Konfigurácia a prispôsobenie aplikácií
 
-**Konfigurácia aplikácií**
+**Konfigurovanie aplikácií**
 
-1. [QuickStart: Konfigurácia vlastností aplikácie v nájomníkovi služby Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) vám ukáže, ako nakonfigurovať niektoré vlastnosti aplikácie.
-2. Na pomoc pri integrácii aplikácií pomocou služby Azure Active Directory sme vytvorili [kolekciu kurzov](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) , ktoré vás prevedie konfiguráciou.
-3. [Konfigurovanie aplikácie proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) aplikácie vám pomôže pochopiť, ako nakonfigurovať aplikáciu proxy aplikácie v rámci služby Azure AD na odhalenie lokálnych aplikácií do cloudu.
-4. [Stiahnuť PingAccess a nakonfigurovať aplikáciu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): postupujte podľa pokynov v *téme Konfigurácia PINGACCESS pre Azure AD na ochranu aplikácií* publikovaných pomocou servera proxy aplikácie Microsoft Azure AD na webovej lokalite služby ping identity a Stiahnite si najnovšiu verziu programu PingAccess.
+1. [Rýchly štart: Konfigurácia vlastností aplikácie v nájomníkovi služby Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) vám ukáže, ako konfigurovať niektoré vlastnosti aplikácie.
+2. S cieľom integrovať vaše aplikácie so servermi Azure Active Directory sme vytvorili [kolekciu](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) kurzov, ktoré vás presťujú konfiguráciou.
+3. [Postup konfigurácie aplikácie proxy aplikácie](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) vám pomôže pochopiť, ako nakonfigurovať aplikáciu proxy aplikácie v Azure AD, aby sa vaše lokálne aplikácie vystavili cloudu.
+4. [Stiahnite si PingAccess](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)Microsoft Azure AD nakonfigurujte aplikáciu: Postupujte podľa pokynov v článku Konfigurácia *pingAccess* pre Azure AD na ochranu aplikácií publikovaných pomocou proxy aplikácie na webovej lokalite Ping Identity Microsoft Azure AD stiahnite si najnovšiu verziu príkazu PingAccess.
 
-**Nesprávne nakonfigurované chyby aplikácie (AADSTS650056)**
+**Chyby nesprávne nakonfigurovanej aplikácie (AADSTS650056)**
 
-1. Uistite sa, že pristupujete k aplikácii z prihlasovacej adresy, ktorú vám poskytol vlastník aplikácie. V opačnom zmysle sa prihláste do aplikácie prostredníctvom normálneho procesu. Vo väčšine prípadov sa táto funkcia automaticky vyrieši prirodzene. Ak to tak nie je, tento príspevok môže pomôcť pri riešení problémov a riešení tohto problému.
-2. **Ak vaša organizácia vlastní aplikáciu** (čo znamená, že registrácia aplikácie je vo vašej organizácii):
-    - Na minimum odporúčame, aby sa `User.Read` pridal alebo `openid` delegované povolenie z **Microsoft Graphu** .
-    - Uistite sa, že aplikácia a všetky jej povolenia súhlasia. Môžete to overiť tak, že sa pozriete na stĺpec **stav** v časti registrácia aplikácie v rámci **povolení rozhrania API**.
-    - V niektorých prípadoch môže byť aplikácia treťou stranou, avšak môže byť zaregistrovaná vo vašej organizácii. Potvrďte, či je táto aplikácia uvedená v žiadostiach o registráciu aplikácie (nie podnikové aplikácie).
-    - Ak sa toto chybové hlásenie zobrazuje aj naďalej. Potom možno bude potrebné vytvoriť URL adresu súhlasu opísanú v **kroku 4**.
-3. **Ak vaša organizácia nie je vlastníkom aplikácie a používate ju ako aplikáciu tretej strany**:
-    - Ak ste globálnym/firemným správcom, mali by ste vidieť obrazovku s súhlasu. Uistite sa, že začiarknete políčko **"súhlas v mene vašej organizácie"**.
-    - Ak sa nezobrazuje obrazovka súhlas, odstráňte podnikovú aplikáciu a skúste to znova.
-    - Ak sa toto chybové hlásenie zobrazuje aj naďalej. Potom možno bude potrebné vytvoriť URL adresu súhlasu opísanú v **kroku 4**.
-4. **Manuálne vytvorenie URL adresy súhlasu, ktorá sa má použiť**: Ak je aplikácia navrhnutá na prístup k určitému zdroju, pravdepodobne nebudete môcť použiť tlačidlá súhlasu z portálu Azure, budete musieť manuálne vytvoriť URL adresu s vlastným súhlasom a použiť ju.
-    - Budete musieť získať `{App-Id}` a `{App-Uri-Id}` od vlastníka aplikácie. `{Tenant-Id}` bude identifikátor nájomníka. Bude to buď `yourdomain.onmicrosoft.com` ID vášho adresára.
-    - Ak sa v rámci aplikácie pristupuje k zdroju, potom `{App-Id}` `{App-Uri-Id}` bude rovnaká.
-5. Ďalšie informácie nájdete v téme [problémy s prihlasovaním do jediného prihlásenia založeného na SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application).
+1. Uistite sa, že k aplikácii pristupuje z prihlasovacej adresy, ktorú vám poskytol vlastník aplikácie. V opačnom prípade sa prihláste do aplikácie bežným spôsobom. Vo väčšine prípadov sa to automaticky vyrieši prirodzene. Ak sa tak stane, tento príspevok vám pomôže pri riešení problémov a riešení.
+2. **Ak je aplikácia vo vašom vlastníctve vašej organizácie** (čo znamená, že registrácia aplikácie je vo vašej organizácii):
+    - Odporúčame minimálne pridať alebo `User.Read` delegovaný prístup `openid` od spoločnosti Microsoft **Graph** pridávať.
+    - Uistite sa, že aplikácia a všetky jej povolenia sú so súhlasom. Môžete to overiť tak, že si **prezeráte** stĺpec Stav registrácie aplikácie v rámci povolení **API.**
+    - V niektorých prípadoch môže byť aplikácia treťou stranou, ale môže byť zaregistrovaná vo vašej organizácii. Potvrďte, či je táto aplikácia uvedená v registráciách aplikácií (nie aplikácie Enterprise).
+    - Ak sa toto chybové hlásenie zobrazuje aj naďalej. Potom možno budete musieť zostaviť URL adresu súhlasu, ktorá je popísaná v **kroku 4.**
+3. **Ak vaša organizácia nie je vlastníkom aplikácie a používa ju ako aplikáciu tretej strany:**
+    - Ak ste správcom spoločnosti Global/Company, mala by sa vám zobraziť obrazovka so súhlasom. Uistite sa, že začiarknete **políčko "Súhlas v mene vašej organizácie".**
+    - Ak sa obrazovka so súhlasom zobraziť, odstráňte aplikáciu Enterprise a skúste to znova.
+    - Ak sa toto chybové hlásenie zobrazuje aj naďalej. Potom možno budete musieť zostaviť URL adresu súhlasu, ktorá je popísaná v **kroku 4.**
+4. Manuálne si vytvorte **URL** adresu súhlasu, ktorá sa má použiť: Ak je aplikácia navrhnutá na prístup ku konkrétnemu zdroju, možno nebudete môcť použiť tlačidlá Súhlas z portálu Azure, budete musieť manuálne vygenerovať svoju VLASTNÚ URL adresu súhlasu a použiť ju.
+    - Budete musieť získať a `{App-Id}` od `{App-Uri-Id}` vlastníka aplikácie. `{Tenant-Id}` bude vaším identifikátorom nájomníka. Buď, alebo `yourdomain.onmicrosoft.com` ID vášho adresára.
+    - Ak aplikácia používa pre zdroj samotný prístup, potom `{App-Id}` bude `{App-Uri-Id}` rovnaký.
+5. Ďalšie informácie nájdete v téme Problémy s prihlásením do aplikácií s konfiguráciou jediného prihlásenia na [základe saML.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)
 
 **Prispôsobenie aplikácií**
 
-- [Pridanie značky na prihlasovaciu stránku v službe Azure Active Directory vašej organizácie](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) – použite logo vašej organizácie a vlastné farebné schémy, ktoré vám poskytnú konzistentný vzhľad na prihlasovacej stránke služby Azure Active Directory (Azure AD).
-- [Pridanie vlastného názvu domény pomocou portálu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – každý nový nájomník služby Azure AD sa dodáva s počiatočným názvom domény. Pôvodný názov domény nie je možné zmeniť ani odstrániť, ale môžete pridať mená svojej organizácie. Pridanie vlastných názvov domén vám pomôže vytvoriť mená používateľov, ktoré sú známe vašim používateľom.
+- [Pridanie](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) značky na prihlasovaciu stránku organizácie Azure Active Directory – použite logo organizácie a vlastné farebné schémy a dodáte tak prihlasovacím stránkam Azure Active Directory (Azure AD) jednotný vzhľad Azure Active Directory (Azure AD).
+- [Pridajte vlastný názov domény pomocou portálu Azure Active Directory –](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) každý nový nájomník služby Azure AD má počiatočný názov domény. Počiatočný názov domény nie je možné zmeniť ani odstrániť, môžete však pridať názvy organizácie. Pridanie vlastných názvov domén vám pomôže vytvoriť mená používateľov, ktoré sú známe používateľom.
