@@ -1,5 +1,5 @@
 ---
-title: Konfigurovanie šifrovania správ pre hybridné prostredie
+title: Konfigurácia šifrovania správ v hybridnom prostredí
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 22c2468b7639680b447b6464431a79b69f7198c3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035237"
 ---
-# <a name="configure-message-encryption-for-a-hybrid-environment"></a>Konfigurovanie šifrovania správ pre hybridné prostredie
+# <a name="configure-message-encryption-for-a-hybrid-environment"></a>Konfigurácia šifrovania správ v hybridnom prostredí
 
-V prípade hybridných prostredí Exchange môžu Lokálni používatelia odosielať šifrované e-maily pomocou šifrovania správ balíka Office (OME) iba v prípade, že je e-mail smerovaný prostredníctvom služby Exchange Online.
+V prípade hybridných Exchange prostrediach môžu lokálni používatelia odosielať šifrované e Office-maily pomocou OME (Message Encryption) len v prípade, že e-maily smerujú Exchange Online.
 
 Ak chcete šifrovať e-maily pomocou OME, vykonajte tieto kroky:
 
-1. Ak chcete nastaviť hybridné prostredie, použite [Sprievodcu konfiguráciou hybridného](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) nasadenia. Na nastavenie šifrovania nie sú potrebné žiadne špeciálne kroky.
-2. [Nastavte pravidlá toku pošty na šifrovanie](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) , ako by ste mali normálne.
+1. Na nastavenie [hybridného prostredia](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) použite Sprievodcu hybridnou konfiguráciou. Na nastavenie šifrovania nie sú potrebné žiadne špeciálne kroky.
+2. [Nastavte pravidlá toku pošty na šifrovanie](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) rovnako ako zvyčajne.
 
 

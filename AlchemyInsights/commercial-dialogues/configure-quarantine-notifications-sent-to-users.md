@@ -1,5 +1,5 @@
 ---
-title: Konfigurácia oznámení karantény odoslaných používateľom
+title: Konfigurácia oznámení v karanténe odoslaných používateľom
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3e3e350f74b19420155c29cb282f065e7db6d4d7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fa38d893a8bd543e87c0239f1a88d9c1caa33153ced6e33ef31c309be8989e95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035201"
 ---
-# <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurácia oznámení karantény odoslaných používateľom
+# <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurácia oznámení v karanténe odoslaných používateľom
 
-Odoslanie oznámení používateľom o tom, čo je v karanténe:
+Ak chcete používateľom odoslať oznámenia o tom, čo je v karanténe:
 
-1. V centre spravovania prejdite do centra **spravovania**  >  **služby Exchange**  >  **Protection**  >  **Filter**.
+1. V centre spravovania prejdite do centier **spravovania a**  >  **Exchange**  >  **Ochrana**  >  **nevyžiadanej pošty.**
 2. Vyberte politiku filtrovania nevyžiadanej pošty, pre ktorú chcete zapnúť oznámenia.
-3. Na pravej table vyberte prepojenie **Konfigurovať oznámenia o nevyžiadanej pošte koncového používateľa** .
-4. V dialógovom okne Ďalšie vyberte položku **Povoliť oznámenia o nevyžiadanej pošte koncového používateľa**. Vyberte, či chcete povoliť oznámenia o nevyžiadanej pošte pre túto politiku.
-5. Pri **odosielaní oznámení o nevyžiadanej pošte koncového používateľa každých (dní)** zadajte, ako často sa majú odosielať upozornenia na nevyžiadanú poštu. Predvolená hodnota je 3 dni. Môžete zadať 1 až 15 dní. Ak zadáte napríklad 7 dní, oznámenie bude obsahovať zoznam všetkých správ určených pre daného používateľa v priebehu posledných 7 dní, ktoré boli odoslané do karantény nevyžiadanej pošty namiesto toho.
-6. V **jazyku oznámení** vyberte jazyk, v ktorom sa majú pre túto politiku písať oznámenia o nevyžiadanej pošte.
-7. Vyberte položku **Uložiť**.
+3. Na pravej table vyberte prepojenie **Konfigurovať upozornenia koncového používateľa na nevyžiadanú** poštu.
+4. V ďalšom dialógovom okne vyberte položku **Povoliť upozornenia koncového používateľa na nevyžiadanú poštu**. Túto možnosť vyberte, ak chcete povoliť upozornenia na nevyžiadanú poštu pre túto politiku.
+5. V **časti Odosielať upozornenia koncového používateľa na nevyžiadanú poštu každých (dni)** zadajte, ako často sa majú odosielať upozornenia používateľa na nevyžiadanú poštu. Predvolená hodnota je 3 dni. Môžete zadať hodnotu od 1 do 15 dní. Ak napríklad zadáte hodnotu 7 dní, oznámenie bude obsahovať zoznam všetkých správ určených pre tohto používateľa za posledných 7 dní, ktoré boli namiesto toho odoslané do karantény nevyžiadanej pošty.
+6. V **časti Jazyk oznámení** vyberte jazyk, v ktorom majú byť upozornenia používateľa na nevyžiadanú poštu pre túto politiku.
+7. Vyberte **položku Uložiť**.

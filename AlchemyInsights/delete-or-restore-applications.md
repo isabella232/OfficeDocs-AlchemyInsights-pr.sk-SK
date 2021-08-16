@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004335"
 - "7737"
-ms.openlocfilehash: 4df9a98644f6bc7a30f9009719c5198db591afc9
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 0c7be98650ca87f36b66f0bb38fb665fc81525b7f3410da14b99fb67468c1e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102586"
 ---
 # <a name="delete-or-restore-applications"></a>Odstránenie alebo obnovenie aplikácií
 
-**Ak chcete odstrániť aplikáciu zo svojho nájomníka služby Azure AD**:
+**Odstránenie aplikácie z nájomníka služby Azure AD:**
 
-1. Na **portáli Azure AD** vyberte položku **podnikové aplikácie**. Potom vyhľadajte aplikáciu, ktorú chcete odstrániť, a vyberte ju.
-2. V časti **Spravovať** na ľavej table vyberte položku **Vlastnosti**.
-3. Vyberte položku **odstrániť** a potom výberom položky **Áno** potvrďte, že chcete aplikáciu odstrániť zo svojho nájomníka služby Azure AD.
+1. Na **portáli Azure AD** vyberte položku **Podnikové aplikácie**. Potom vyhľadajte a vyberte aplikáciu, ktorú chcete odstrániť.
+2. V časti **Správa** na ľavej table vyberte položku **Vlastnosti**.
+3. Vyberte **položku Odstrániť** a potom **výberom položky Áno** potvrďte, že chcete aplikáciu odstrániť z nájomníka služby Azure AD.
 
-Ďalšie informácie o odstránení aplikácie nájdete v téme rýchly štart [: odstránenie aplikácie z nájomníka služby Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant).
+Ďalšie informácie o odstránení aplikácie nájdete v téme Rýchly štart: Odstránenie aplikácie z [nájomníka služieb Azure Active Directory (Azure AD).](https://docs.microsoft.com/azure/active-directory/manage-apps/delete-application-portal#delete-an-application-from-your-azure-ad-tenant)
 
-Rutina cmdlet [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) v prostredí PowerShell odstraňuje konfigurácie aplikačných serverov proxy z konkrétnej aplikácie v službe Azure Active Directory a môže ju úplne odstrániť, ak je určená.
+V prostredí PowerShell rutina typu cmdlet [Remove-AzureADApplicationProxyApplication](https://docs.microsoft.com/powershell/module/azuread/remove-azureadapplicationproxyapplication) odstráni konfigurácie proxy aplikácie z konkrétnej aplikácie v službe Azure Active Directory a môže úplne odstrániť aplikáciu, ak je to zadané.
 
-**Odstránenú aplikáciu môžete obnoviť** pomocou prostredia PowerShell. Po identifikácii aplikácie, ktorú chcete obnoviť, ju môžete obnoviť pomocou [obnovenia – AzureADDeletedApplication](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication).
+Odstránenú **aplikáciu môžete obnoviť pomocou** prostredia PowerShell. Po identifikovaní aplikácie, ktorú chcete obnoviť, ju môžete obnoviť pomocou možnosti [Obnoviť-AzureADDeletedApplication.](https://docs.microsoft.com/powershell/module/azuread/restore-azureaddeletedapplication)
