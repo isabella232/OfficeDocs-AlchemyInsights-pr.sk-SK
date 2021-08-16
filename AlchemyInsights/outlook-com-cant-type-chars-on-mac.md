@@ -1,5 +1,5 @@
 ---
-title: 9000071 nie je možné zadať symbol @ v Macu
+title: 9000071 v Macu nemožno zadať symbol @
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: a682ad3ebb196df818e894c129ded59cd0e2880a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01d4a3a2a59afe797d8b43c86bbe382ab19ba029a64b0f66be11201201b9d319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984584"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>Zadávanie špeciálnych znakov v Macu
+# <a name="how-to-type-special-characters-on-a-mac"></a>Ako v Macu písať špeciálne znaky
 
-Ak chcete zadať špeciálne znaky v Macu, otvorte ponuku **špeciálne znaky** pomocou klávesovej skratky CTRL + **Command**  +  **Control**  +  **Space**.
+Ak chcete v Macu písať špeciálne znaky, otvorte ponuku Špeciálne **znaky pomocou** klávesovej skratky **⌘** Command  +  **Control**  +  **Space**.
 
-Rýchla skratka pre @ je tiež **ALT**  +  **64**.
+Skratka na rýchlu skratku pre ikonu @ je tiež **ALT**  +  **64.**

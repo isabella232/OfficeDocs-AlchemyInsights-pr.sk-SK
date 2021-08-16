@@ -1,5 +1,5 @@
 ---
-title: Blokovanie odosielateľov v Outlook.com – španielčina
+title: Blokovanie odosielateľov v Outlook.com – ŠPANIELČINA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: b7397e69ea76bf195a2ce76a446df01faed3a69a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4339c5b9af181505877bfca689e7585dfe78a8cc65fdad48176dd64b6c728543
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064615"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes EN Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desblgentar remitentes sk Outlook.com
 
-Puede bloquear Los mensajes de Las direcciones de correo electrónico específica o dominio llegue a La Bandeja de Intrada. Cuando agrega UNA Dirección de correo electrónico o UN dominio a La Lista de remitentes bloqueados, Outlook.com mueve automáticamente Los mensajes de ESE remitente a La carpeta correo electrónico nie departmente Deseado.
+Puede bloquear los mensajes de las direcciones de correo electónico específica o dominio llegue a la Bandeja de entè. Cuando agrega una dirección de correo electónico o un dominio a la lista de remitentes bloqueados, Outlook.com mu sú automaticky automatickéáticamente los mensajes de ese remitente a la carpeta correo electoxnico no deseado.
 
-Para aprender más Leer [Ayudar a mantener El correo No departmente Deseado y El correo No departmente Deseado Fuera de la bandeja de zatrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de ent za Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

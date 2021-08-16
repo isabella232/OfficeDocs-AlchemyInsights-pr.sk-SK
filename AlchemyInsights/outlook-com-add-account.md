@@ -1,5 +1,5 @@
 ---
-title: 9000236 Outlook.com Pridanie konta
+title: 9000236 Outlook.com – pridanie konta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b34f74d662fab02f7ac8dad27b2d02c7ebb9db44efb614d6005741d4cebdb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064687"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Pridanie ďalších e-mailových kont do Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Pridanie ďalších e-mailových kont na Outlook.com
 
-Keď do Outlook.com pridáte ďalšie e-mailové kontá, môžete použiť Outlook.com na odosielanie a čítanie e-mailových správ z týchto kont bez toho, aby ste museli opustiť Outlook.com. Každé konto, ktoré pridáte do Outlook.com, sa nazýva pripojené konto.
+Keď na adresu Outlook.com pridáte ďalšie e-mailové kontá, môžete na odosielanie a čítanie e-mailových správ z týchto kont použiť webovú Outlook.com bez toho, aby ste museli opustiť Outlook.com. Každé konto, ktoré pridáte na Outlook.com, sa nazýva pripojené konto.
 
-Poznámka: synchronizácia z pripojeného konta k vášmu kontu Outlook.com je len jednosmerná. E-mail odoslaný z pripojeného konta pomocou Outlook.com sa v pripojenom konte nezobrazí.
+Poznámka: Synchronizácia z pripojeného konta do konta Outlook.com je len jednosmerná. E-mail odoslaný z pripojeného konta pomocou lokality Outlook.com sa nezobrazí v pripojenom konte Odoslaná pošta.
 
 Pridanie pripojeného konta:
 
-1. Otvorte [nastavenia e-mailu na synchronizáciu](https://go.microsoft.com/fwlink/?linkid=875264).
-2. V časti **pripojené kontá**vyberte položku **Gmail** alebo **iné e-mailové kontá**.
-3. Na stránke prepojiť konto Zadajte zobrazované meno (mená príjemcovia uvidia po prijatí e-mailovej správy) a úplnú e-mailovú adresu a heslo e-mailového konta, ktoré chcete pripojiť k vášmu kontu Outlook.com.
+1. Otvorte nastavenia [synchronizácie e-mailu.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. V **časti Pripojené kontá** vyberte položku Gmail **alebo** **Iné e-mailové kontá**.
+3. Na stránke Pripojenie konta zadajte zobrazované meno (meno, ktoré sa zobrazí príjemcom, keď od vás dostanú e-mailovú správu) a úplnú e-mailovú adresu a heslo e-mailového konta, ktoré chcete pripojiť ku kontu na Outlook.com.
 
-Môžete odosielať e-maily z ľubovoľného konta, ktoré ste pripojili k vášmu kontu Outlook.com. Pri vytváraní e-mailu vyberte položku **od** a vyberte e-mailovú adresu, ktorú chcete použiť, alebo [aktualizujte svoju predvolenú adresu](https://go.microsoft.com/fwlink/?linkid=875264).
+E-mail môžete odoslať z ľubovoľného konta, ktoré ste pripojili ku kontu Outlook.com. Pri e-maile vyberte položku **Od** a vyberte e-mailovú adresu, ktorú chcete použiť, alebo [aktualizujte predvolenú adresu](https://go.microsoft.com/fwlink/?linkid=875264)odosielateľa.
 
-Ďalšie informácie nájdete v téme [Pridanie ďalších e-mailových kont do Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v článku [Pridanie ďalších e-mailových kont na Outlook.com.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Ak chcete vytvoriť novú e-mailovú adresu, ktorá používa rovnaké konto Outlook.com, prečítajte si tému [Pridanie alebo odstránenie e-mailového aliasu](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Ak chcete vytvoriť novú e-mailovú adresu, ktorá používa rovnaké konto Outlook.com, prečítajte si článok Pridanie alebo odstránenie [e-mailového aliasu](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

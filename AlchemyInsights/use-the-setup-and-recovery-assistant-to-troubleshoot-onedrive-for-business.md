@@ -1,5 +1,5 @@
 ---
-title: Použitie funkcie Setup and Recovery Assistant na riešenie problémov s aplikáciou OneDrive for Business
+title: Použitie nástroj Setup and Recovery Assistant na riešenie OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 123c32a54ef3893448e8d149f35b9cb84fb10074
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46b0f5eefb3ba6170f39263b81d0d59d66622644df0cfa3871b1ce4cdd214818
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037839"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Riešenie problémov so synchronizáciou OneDrivu
+# <a name="fix-onedrive-sync-problems"></a>Riešenie synchronizačná aplikácia OneDrivu problémov
 
-Aplikácia Support and Recovery Assistant vám môže pomôcť identifikovať a vyriešiť bežné problémy so synchronizáciou súborov vo OneDrive. 
+Aplikácia Support and Recovery Assistant vám môže pomôcť identifikovať a vyriešiť bežné problémy so synchronizáciou OneDrive súborov. 
   
-[Stiahnite si nástroj Support and Recovery Assistant,](https://aka.ms/sara)prihláste sa pomocou svojho pracovného alebo školského konta a postupujte podľa pokynov v aplikácii na riešenie problémov s aplikáciou OneDrive for Business. 
+[Stiahnite si Support and Recovery Assistant](https://aka.ms/sara), prihláste sa pomocou svojho pracovného alebo školského konta a postupujte podľa pokynov v aplikácii na riešenie problémov s OneDrive for Business. 
   
 [Ďalšie kroky na riešenie problémov](https://go.microsoft.com/fwlink/?linkid=872097)
   
