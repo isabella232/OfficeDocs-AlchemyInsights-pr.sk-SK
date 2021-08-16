@@ -1,5 +1,5 @@
 ---
-title: Ďalšie informácie o progresívnych webových aplikáciách (PWAs) v prehliadači Microsoft Edge (chróm)
+title: Informácie o aplikáciách PWA (Progressive Web Apps) Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101461"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Ďalšie informácie o progresívnych webových aplikáciách (PWAs) v prehliadači Microsoft Edge (chróm)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Informácie o aplikáciách PWA (Progressive Web Apps) Microsoft Edge (Chromium)
 
-PWAs sa webové lokality postupne vylepšujú tak, aby fungovali ako natívne aplikácie na platformách, ktoré ich podporujú. PWAs kombinujú najlepšie vlastnosti webových a natívnych aplikácií.
+Aplikácie PWA sú webové lokality postupne vylepšené tak, aby fungovali ako natívne aplikácie na platformách, ktoré ich podporujú. PwA spája najlepšiu kvalitu webových a natívnych aplikácií.
 
-Z pohľadu webovej platformy je [PWAs v prehliadači Microsoft Edge (chróm)](https://go.microsoft.com/fwlink/?linkid=2135193) založený na normách. Umožňujú používateľom inštalovať aplikácie priamo z prehliadača a nevyžadujú nasadenie ani registráciu na základe Microsoft obchodu. Počítačové PWAs sú podporované na ľubovoľnej platforme, v ktorej je k dispozícii Microsoft Edge (chróm).
+Z pohľadu webovej platformy sú [aplikácie PWA na Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) založené na štandardoch. Umožňujú používateľom inštalovať aplikácie priamo z prehliadača a nevyžadujú si Microsoft Store nasadenie alebo registráciu. Počítačové aplikácie PWA sú podporované na každej platforme, Microsoft Edge (Chromium k dispozícii).
