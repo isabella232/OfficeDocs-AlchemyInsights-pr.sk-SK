@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988418"
 ---
 # <a name="enable-the-audit-log"></a>Povolenie denníka auditu
 
-Súlad s oznámením vyžaduje denníky auditu na zobrazenie upozornení a sledovanie nápravných akcií, ktoré vykonali recenzenti. Denníky auditu sú súhrnom všetkých aktivít priradených k definovanej organizačnej politike vrátane akejkoľvek zmeny politiky súladu komunikácie. Zapnutie zapisovania do denníka auditu:
+Súlad komunikácie vyžaduje denníky auditu na zobrazenie upozornení a sledovanie akcií s opravami, ktoré prijali recenzenti. Denníky auditu sú súhrnom všetkých aktivít súvisiacich s definovanou politikou organizácie vrátane vždy, keď sa zmení politika súladu s komunikáciou. Zapnutie zapisovania auditu do denníka:
 
-1. V [Centre zabezpečenia & dodržiavania súladu](https://go.microsoft.com/fwlink/?linkid=2101341)prejdite na vyhľadávanie   >  **Denník auditu** vyhľadávania.
-2. Vyberte položku **zapnúť auditovanie**.
+1. V Centre [zabezpečenia & zabezpečenia prejdite](https://go.microsoft.com/fwlink/?linkid=2101341)na položku Vyhľadávanie **v**  >  **denníku auditu vyhľadávania.**
+2. Vyberte **položku Zapnúť auditovanie.**
 
-    Po zapnutí auditovania sa zobrazí hlásenie s informáciou o tom, že denník auditu sa pripravuje a môžete spustiť vyhľadávanie v priebehu niekoľkých hodín po dokončení prípravy. Túto akciu budete musieť vykonať len raz.
+    Po zapnutí auditovania sa zobrazí hlásenie s hlásením, že sa pripravuje denník auditu a vyhľadávanie môžete spustiť v niekoľkých hodinách po dokončení prípravy. Túto akciu je potrebné urobiť len raz.
 
-Ďalšie informácie nájdete v téme [Zapnutie alebo vypnutie vyhľadávania denníka auditu](https://go.microsoft.com/fwlink/?linkid=2129077) a [Prehľadávanie denníka auditu](https://go.microsoft.com/fwlink/?linkid=2123729).
+Ďalšie informácie nájdete v téme [Zapnutie alebo vypnutie vyhľadávania denníka auditu](https://go.microsoft.com/fwlink/?linkid=2129077) [a Vyhľadávanie v denníku auditu.](https://go.microsoft.com/fwlink/?linkid=2123729)

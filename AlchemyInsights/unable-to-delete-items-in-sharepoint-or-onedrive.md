@@ -1,5 +1,5 @@
 ---
-title: Nie je možné odstrániť položky v SharePointe alebo vo OneDrive
+title: Nie je možné odstrániť položky vo SharePoint alebo OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038532"
 ---
 # <a name="unable-to-delete-items"></a>Nie je možné odstrániť položky
 
-- Politiky uchovávania údajov môžu spôsobiť, že je potrebné vypnúť alebo vylúčiť príslušné zadržanie, ktoré spôsobuje tento problém. Po odstránení politiky alebo zadržania uchovávania údajov môže zmena nadobudnúť až 24 hodín. Skontrolujte, či sa v položke nenachádza nastavenie [politiky uchovávania údajov](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) .
+- Politiky uchovávania údajov to môžu spôsobiť, je potrebné zakázať alebo vylúčiť príslušné zadržanie, ktoré tento problém spôsobuje. Po odstránení politiky uchovávania údajov alebo zadržania môže trvať až 24 hodín, kým sa zmena prejaví. Skontrolujte, či pre položku neexistuje [nastavenie](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) politiky uchovávania údajov.
 
-- Lokalita mohla prekročila limit ukladacieho priestoru, zvýšiť [kvótu lokality](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) a odstrániť ju.
+- Lokalita pravdepodobne prekročila limit ukladacieho priestoru, zväčší [kvótu lokality](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) a odstráni položku.
 
-- Uistite sa, že položka nie je [vzatá z projektu](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) inému používateľovi.
+- Skontrolujte, či položka nie je [vzatá z](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) sebe inému používateľovi.
 
-- Správcovia môžu nakoniec použiť [vzorce a postupy SharePointu](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), ktoré obsahujú knižnicu príkazov prostredia PowerShell, ktoré vám umožňujú vykonávať zložité akcie spravovania, ako je napríklad vynútiť odstraňovanie nepoddajných položiek.
+- Nakoniec môžu správcovia použiť [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), ktorá obsahuje knižnicu príkazov prostredia PowerShell, ktoré vám umožňujú vykonávať zložité akcie správy, ako je napríklad vynútenie odstránenia ťažko odstránia ťažko odstránianých položiek.
 - [Odstránenie súboru PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [Odstránenie priečinka PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [Odstránenie položky zoznamu PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [Odstrániť zoznam PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [Odstrániť pole PNP (stĺpec)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- [Odstránenie zoznamu PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [Odstránenie poľa PNP (stĺpca)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

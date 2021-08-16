@@ -1,5 +1,5 @@
 ---
-title: Nie je možné vytvoriť nový podpis
+title: Nový podpis sa nedá vytvoriť
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996501"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Nie je možné pridať alebo vytvoriť nový podpis v Outlooku
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Nový podpis sa v programe Outlook
 
-Toto je známy problém. Pracujeme na jeho oprave a stav sa aktualizuje v [Outlooku, keď kliknete na tlačidlo podpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Ide o známy problém. Pracujeme na jeho oprave a stav sa aktualizuje počas toho, ako Outlook po kliknutí [na tlačidlo Podpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Ak chcete tento problém obísť, najprv [vyskúšajte postup](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) na odinštalovanie vopred nainštalovaných počítačových aplikácií balíka Microsoft Office. 
+Ak chcete tento problém obísť, najprv [vyskúšajte kroky na](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) odinštalovanie predinštalových Microsoft Office počítačových aplikácií. 
 
-Ak to nepomôže v dotknutom počítači, vyskúšajte [alternatívne riešenie založené na databáze Registry](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Ak to nefunguje pre ovplyvnený počítač, vyskúšajte alternatívne riešenie založené na [databáze Registry.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)

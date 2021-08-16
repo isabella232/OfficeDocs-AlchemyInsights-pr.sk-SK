@@ -1,5 +1,5 @@
 ---
-title: Bežné problémy a rozlíšenia Microsoft Graphu
+title: Microsoft Graph bežné problémy a riešenia
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027281"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Bežné problémy a rozlíšenia Microsoft Graphu
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph bežné problémy a riešenia
 
-Podrobný zoznam známych problémov s programom Microsoft Graph nájdete v téme [známe problémy s aplikáciou Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Ďalšie otázky a zdroje informácií nájdete v hlavnej stránke s [dokumentáciou k programu Microsoft Graph](https://docs.microsoft.com/graph/) .
+Úplný zoznam známych problémov so softvérom Microsoft Graph nájdete v téme [Známe problémy so spoločnosťou Microsoft Graph.](https://docs.microsoft.com/graph/known-issues) Ďalšie otázky a zdroje informácií nájdete na hlavnej stránke [Dokumentácia lokality Graph Microsoft.](https://docs.microsoft.com/graph/)
 
-- [Microsoft Graph Rest API v 1.0 odkaz](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Zistite, čo sa zmenilo v rozhraní Microsoft Graph API zo [zmienok](https://docs.microsoft.com/graph/changelog). 
-- [Položte si otázku alebo poskytnite pripomienky k rozhraniam API a docs v grafe](https://aka.ms/GraphDeveloperSupport) pomocou tímu technickej podpory pre vývojárov.
+- [Microsoft Graph REST API v1.0 odkaz](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- Zistite, čo sa zmenilo v rozhraní API služby Microsoft Graph v [denníku Changelog.](https://docs.microsoft.com/graph/changelog) 
+- [Položte otázku alebo poskytnite pripomienky Graph rozhraní API a dokumentov tímu](https://aka.ms/GraphDeveloperSupport) podpory pre vývojárov.
 
-Unified support and Premier zákazníci môžu získať lístok technickej podpory pomocou tohto portálu. Ďalší používatelia majú k dispozícii bezplatnú podporu vývojára doplnku Microsoft Graph na [lokalite Microsoft Q&A](https://aka.ms/AskGraph).
+Unified Support a Premier Customers môžu získať lístok technickej podpory pomocou tohto portálu. Ostatní používatelia môžu získať prístup k bezplatnej podpore pre vývojárov Graph [Microsoft Q&A.](https://aka.ms/AskGraph)

@@ -1,5 +1,5 @@
 ---
-title: Spojnice Microsoft Graphu
+title: Konektory Microsoft Graph konektory
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724918"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027317"
 ---
-# <a name="microsoft-graph-connectors"></a>Spojnice Microsoft Graphu
+# <a name="microsoft-graph-connectors"></a>Konektory Microsoft Graph konektory
 
-Pomocou konektorov Microsoft Graph môže vaša organizácia indexovať údaje tretích strán, ktoré sa majú zobraziť vo výsledkoch vyhľadávania Microsoft.
+Pomocou spojníc Microsoft Graph môžete vo vašej organizácii indexovať údaje tretích strán, aby sa zobrazili Microsoft Search výsledkoch.
 
-- [Spojnice od spoločnosti Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Spojnice podľa našich partnerov](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Konektory od spoločnosti Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Konektory od našich partnerov](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Ďalšie informácie nájdete v téme  [Prehľad spojníc v Microsoft graphe](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Ďalšie informácie nájdete v téme [Prehľad konektorov Microsoft Graph.](https://docs.microsoft.com/microsoftsearch/connectors-overview)

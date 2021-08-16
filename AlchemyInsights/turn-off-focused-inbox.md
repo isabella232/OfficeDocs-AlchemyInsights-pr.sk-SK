@@ -1,5 +1,5 @@
 ---
-title: 8000001 vypnutie prioritnej doručenej pošty
+title: 8000001 Vypnutie priečinka doručenej pošty
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038712"
 ---
-# <a name="turn-off-focused-inbox"></a>Vypnutie prioritnej doručenej pošty
+# <a name="turn-off-focused-inbox"></a>Vypnutie priečinka doručenej pošty v priečinku Doručená pošta
 
-1. Vyberte položku **Nastavenie** \> **prioritnej doručenej pošty**.  
+1. Vyberte **Nastavenia** \> **priečinok doručenej pošty.**  
 
-2. V časti **po prijatí e-mailu**vyberte možnosť **netriediť správy**.
+2. V **časti Pri prijatí e-mailu** vyberte možnosť **Nestriediť správy**.
 
-3. Vyberte **tlačidlo OK**.
+3. Vyberte **tlačidlo OK.**
 
-Ďalšie informácie nájdete v téme [prioritná Doručená pošta v Outlooku](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v téme [Priečinok Focused Inbox pre Outlook.](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)

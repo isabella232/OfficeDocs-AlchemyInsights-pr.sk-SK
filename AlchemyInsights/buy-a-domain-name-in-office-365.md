@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: cf44a922bc248975ba2fcdb08aef2c2fde2416c7
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: b6c7e3717ceb9690db6dc7dacbe7469a698d2ed128deb5843291687814ba302e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996753"
 ---
 # <a name="buy-a-domain-name-in-microsoft-365"></a>Zakúpenie názvu domény v službe Microsoft 365
 

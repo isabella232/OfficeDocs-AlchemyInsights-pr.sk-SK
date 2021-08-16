@@ -1,5 +1,5 @@
 ---
-title: Kľúčové možnosti Windowsu Virtual Desktop
+title: Kľúčové možnosti počítačovej Windows počítačovej databázy
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067135"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Kľúčové možnosti Windowsu Virtual Desktop
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Kľúčové možnosti počítačovej Windows počítačovej databázy
 
-Windows Virtual Desktop je služba na virtualizáciu počítačov a Virtualizácia aplikácií, ktorá funguje v cloude. Pri spustení Windowsu Virtual Desktop v službe Azure môžete vykonať tieto činnosti:
+Windows Virtuálna pracovná plocha je služba virtualizácie pracovnej plochy a virtualizácie aplikácií, ktorá funguje v cloude. Toto môžete urobiť, keď v Azure spustíte Windows virtuálnu pracovnú plochu:
 
-- Nastavenie nasadenia s viacerými reláciami vo Windowse 10, ktoré prináša úplnú skúsenosť so systémom Windows 10 s škálovateľnosť
-- Virtualizácia aplikácií Microsoft 365 a optimalizácia jej spúšťania v virtuálnych scenároch s viacerými používateľmi
-- Poskytnutie virtuálnych počítačov s Windowsom 7 s bezplatnými aktualizáciami rozšíreného zabezpečenia (ESU)
-- Prenesenie existujúcich počítačov a aplikácií služby Remote Desktop Services (RDS) a Windows Server do ľubovoľného počítača
-- Spravovanie počítačov a aplikácií pre Windows 10, Windows Server a Windows 7 s jednotným prostredím správy
-- Vytvorenie úplného prostredia virtualizácie počítačov v rámci predplatného Azure bez nutnosti spustenia ďalších serverov brány
-- Publikujte toľko hostiteľských bazénov, koľko potrebujete na prispôsobenie rozmanitých pracovných zaťažení
-- V galérii Azure si prinesiete vlastné obrázky pre výrobné zaťaženia a testy
-- Zníženie nákladov pomocou združených zdrojov s viacerými reláciami
-- Poskytnutie individuálneho vlastníctva prostredníctvom osobných (perzistentných) pracovných plôch
+- Nastavenie nasadenia viacerých relácií Windows 10, ktoré poskytuje kompletný Windows 10 s škálovateľnosťou
+- Virtualizovať Aplikácie Microsoft 365 a optimalizovať ich spustenie vo virtuálnych scenároch viacerých používateľov.
+- Poskytovanie Windows 7 virtuálnych pracovných plôch pomocou bezplatných rozšírených aktualizácií zabezpečenia (ESU)
+- Prineste svoje existujúce služby vzdialenej pracovnej plochy (RDS) Windows servera do ľubovoľného počítača
+- Správa Windows 10, Windows Servera a Windows 7 pomocou jednotného spravovania
+- Vytvorenie celého prostredia desktop-virtualization v predplatnom služby Azure bez nutnosti spúšťať ďalšie servery brán
+- Publikovanie čo najviac hostiteľských fondov, ktoré sa musia zhodovať s rôznymi pracovnými záťažami
+- Zobrazenie vlastných obrázkov pre produkčné vyťaženie a testovanie z galérie Azure
+- Zníženie nákladov pomocou združených zdrojov s viacerými relácií
+- Poskytnutie individuálneho vlastníctva prostredníctvom osobných (trvalých) pracovných plôch
 
-Ďalšie informácie nájdete v téme [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) a [kľúčové možnosti](https://go.microsoft.com/fwlink/?linkid=2127033).
+Ďalšie informácie nájdete v téme [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) a Kľúčové [funkcie.](https://go.microsoft.com/fwlink/?linkid=2127033)
 

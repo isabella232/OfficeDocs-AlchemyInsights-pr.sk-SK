@@ -1,5 +1,5 @@
 ---
-title: Ako vytvoriť nový Outlook.com vyzerať ako ten starý
+title: Ako vytvoriť novú webovú Outlook.com ako starú
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067099"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Ako vytvoriť nový Outlook.com vyzerá ako pôvodná verzia
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Ako vytvoriť novú verziu Outlook.com ako starú verziu
 
-Tu je niekoľko nastavení, ktoré môžete zmeniť, aby sa nový Outlook.com vyzeral ako pôvodná verzia:
+Tu je niekoľko nastavení, ktoré môžete zmeniť, aby nová Outlook.com vyzerala ako staršia verzia:
 
-1. Prejdite na [položku Nastavenie rozloženia](https://outlook.live.com/mail/options/mail/layout).
-1. V časti **prioritná Doručená pošta**vyberte položku **netriediť moje správy**.
-1. V časti **organizácia správ**vyberte položku **najnovšie správy navrchu**.
-1. V časti **obrázok odosielateľa**vyberte možnosť Nezobrazovať **obrázky odosielateľa**.
-1. V časti **Tabla na čítanie**vyberte položku **Skryť tablu na čítanie**.
-1. V časti **text ukážky správ**vyberte položku **Zobraziť ukážku textu**.
-1. V časti **vnorené ukážky**vyberte možnosť **Nezobrazovať prílohy v zozname správ**.
+1. Prejdite na [položku Nastavenie rozloženia.](https://outlook.live.com/mail/options/mail/layout)
+1. V **časti Priečinka doručenej** pošty: Vyberte **položku Triediť moje správy**.
+1. V **časti Organizácia správ** vyberte položku Najnovšie správy v **hornej časti**.
+1. V **časti Obrázok odosielateľa** vyberte položku Zobrazovať **obrázky odosielateľov**.
+1. V **časti Tabla na čítanie** vyberte položku Skryť **tablu na čítanie**.
+1. V **časti Text ukážky správy** vyberte položku Zobraziť text **ukážky**.
+1. V **časti Vnorené** ukážky vyberte **možnosť Neukazovať prílohy v zozname správ**.
 
-Ak chcete zmeniť nastavenia pošty, aby váš priečinok doručenej pošty vyzeral a správal sa tak, ako chcete, pozrite si tému [Zmena vzhľadu poštovej schránky v programe Outlook.com a nového Outlooku na webe](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Ak chcete zmeniť nastavenia Pošty, aby doručená pošta vyzerala a správala sa tak, ako chcete, pozrite si časť Zmena vzhľadu poštovej schránky na lokalite [Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)a novom Outlook na webe.

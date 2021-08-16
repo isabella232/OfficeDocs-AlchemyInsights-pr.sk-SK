@@ -1,5 +1,5 @@
 ---
-title: Zakúpenie služby Azure Active Directory Premium P2
+title: Kúpiť Azure Active Directory Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996681"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Zakúpenie služby Azure Active Directory Premium P2
+# <a name="buy-azure-active-directory-premium-p2"></a>Kúpiť Azure Active Directory Premium P2
 
-Ak chcete vyskúšať alebo kúpiť službu Azure Active Directory Premium P2, postupujte podľa týchto krokov:
+Ak chcete vyskúšať alebo Azure Active Directory Premium P2, postupujte podľa týchto krokov:
 
-1. Prejdite na   >  položky zabezpečenie a identita **nákupných služieb** fakturácie  >  [](https://go.microsoft.com/fwlink/?linkid=2131946)a potom kliknite na položku **Azure Active Directory Premium P2**.
-Ak ste vybrali bezplatnú skúšobnú verziu, proces dokončite podľa pokynov na stránke. v opačnom prípade prejdite na krok 2.
-1. Na ďalšej stránke zadajte počet používateľských licencií a obdobia platby a potom kliknite na položku **vziať z projektu**.
-1. Na stránke **Pokladňa** skontrolujte informácie o cenách a potom kliknite na tlačidlo **ďalej**.
-1. Na ďalšej stránke zadajte informácie o platbe a adrese a potom umiestnite objednávku.
-1. Zadajte svoje telefónne číslo a potom kliknite na položku **text ja** alebo **zavolať mne**.
-1. Zadajte overovací kód, ktorý sme vám odoslali, a potom dokončite proces podľa pokynov na stránke.
+1. Prejdite na **položku Služby**  >  **zakúpenia**  >  [**fakturácie Zabezpečenie a identita**](https://go.microsoft.com/fwlink/?linkid=2131946)a potom kliknite **Azure Active Directory Premium P2**.
+Ak ste si vybrali bezplatnú skúšobnú verziu, dokončite proces podľa pokynov na stránke. V opačnom prípade pokračujte krokom 2.
+1. Na ďalšej stránke zadajte počet používateľských licencií a platobné obdobie a potom kliknite na položku **Pokladni ďalej**.
+1. Na stránke **Pokladňa** si pozrite informácie o cenách a potom kliknite na položku **Ďalej**.
+1. Na ďalšej stránke zadajte informácie o platbe a adrese a zadajte svoju objednávku.
+1. Zadajte svoje telefónne číslo a potom kliknite na položku **Odoslať mi SMS správu** alebo **Zavolať mi.**
+1. Zadajte overovací kód, ktorý sme vám odoslali, a podľa pokynov na stránke dokončite proces.
