@@ -1,5 +1,5 @@
 ---
-title: Problémy s licenciou Yammer
+title: Yammer problémy s licenciou
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ec764ece9cb7be933e9e2cd002379898522790528b0fa586ab501424b00cd7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989750"
 ---
-# <a name="yammer-licensing-issues"></a>Problémy s licenciou Yammer
+# <a name="yammer-licensing-issues"></a>Yammer problémy s licenciou
 
-Všetci používatelia musia mať licenciu na používanie podnikovej služby Yammer, ale predvolene Yammer nevyžaduje, aby mali používatelia licenciu na prístup k službe. Keď správca zmení nastavenie tak, aby blokoval používateľov služieb Microsoft 365 bez licencií na Yammer, používatelia, ktorí nemajú priradenú licenciu na Yammer Enterprise, nemôžu získať prístup k službe Yammer. Ďalšie informácie nájdete v téme [Správa používateľských licencií yammera v Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
+Všetci používatelia musia mať licenciu na používanie služby Yammer Enterprise, ale predvolene Yammer nevyžaduje, aby používatelia mali licenciu na prístup k službe. Keď správca zmení nastavenie blokovania Microsoft 365 používateľov bez Yammer, používatelia, ktorí nemajú priradenú licenciu na Yammer Enterprise, nebudú mať prístup Yammer služby. Ďalšie informácie nájdete v téme [Spravovanie Yammer používateľských licencií v Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
 
-Keď sa licencie odstránia od používateľov, dlaždica Yammer sa už nezobrazuje a ďalšie služby môžu pomocou odstraňovania licencií použiť na skrytie funkcií. V iných prípadoch sa funkcie môžu naďalej zobrazovať, ale vyžadujú, aby sa na ňu vyžadovalo nasadenie licencií.  
+Po odobraní licencií používateľom sa už Yammer nezobrazuje a iné služby môžu na skrytie funkcií použiť odstránenie licencií. V iných prípadoch sa funkcie môžu naďalej zobrazovať, ale na prevádzku sa vyžaduje priradenie licencie.  
 
-**Licencia sa používateľovi neaktualizuje**  
+**Používateľovi sa neaktualizuje licencia**  
 
-Niekedy je používateľovi priradená licencia, ale stále nie je možné získať prístup k Yammeru. Oneskorenie je pravdepodobnejšie, keď prebieha pridelenie hromadnej licencie. Používatelia yammera sa nemusia aktualizovať v rovnakom poradí, v akom sa licencie zmenia v službe Azure AD, pretože systém funguje asynchrónne. Počkajte až 24 hodín, kým sa neotvorí prípad podpory, aby sa nahlásili problémy so synchronizáciou licencií.  
+Niekedy je používateľovi priradená licencia, ale stále nemôže získať prístup k Yammer. Oneskorenia sa vyskytnú skôr, keď prebieha hromadné priradenie licencií. Yammer sa používatelia nemusia aktualizovať v rovnakom poradí ako licencie v Azure AD, pretože systém sa spúšťa asynchrónne. Ak chcete nahlásiť problémy so synchronizáciou licencií, počkajte do 24 hodín pred otvorením prípadu podpory.  
 
-**Priradenie hromadnej licencie**  
+**Hromadné priradenie licencie**  
 
-Licencie je možné priradiť prostredníctvom centra spravovania alebo skriptovania v prostredí PowerShell. Ďalšie informácie nájdete v téme [Priradenie licencií používateľom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) a [Priradenie licencií k používateľským kontám v prostredí Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
+Licencie je možné priradiť prostredníctvom Centra spravovania alebo skriptovania v prostredí PowerShell. Ďalšie informácie nájdete v téme [Priradenie licencií používateľom a](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) Priradenie licencií [k používateľským kontám pomocou Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell) 
 
-Technická podpora spoločnosti Microsoft neposkytuje pomoc pri vytváraní skriptov, ale dokumentácia o priradení licencií na Yammer je k dispozícii. Ďalšie informácie nájdete v téme [Správa licencií na Yammer pomocou prostredia Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).
+Podpora spoločnosti Microsoft neposkytuje pomoc s vytváraním skriptov, k dispozícii je však Yammer priradenie licencií. Ďalšie informácie nájdete v [téme Yammer licencií pomocou Windows PowerShell.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell)

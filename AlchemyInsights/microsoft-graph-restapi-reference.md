@@ -1,5 +1,5 @@
 ---
-title: Odkaz rozhrania Microsoft Graph REST API
+title: Microsoft Graph REST API – referencia
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012539"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Odkaz rozhrania Microsoft Graph REST API
+# <a name="microsoft-graph-rest-api-reference"></a>Odkaz na Graph REST API aplikácie Microsoft Graph
 
-Grafy API v grafe na koncovom bode v 1.0 sú v stave všeobecnej dostupnosti (GA) a prešli prísnym procesom revízií a pripomienok so zákazníkmi na účel splnenia praktických potrieb výroby.
+Množiny Graph API pre koncové body v1.0 majú všeobecný stav dostupnosti (GA) a prešli sme prísnym procesom revízií a pripomienok so zákazníkmi, ktorý spĺňa praktické potreby v praxi.
 
-- Ďalšie informácie o grafe API v 1.0 nájdete v téme [Microsoft Graph Rest API v 1.0 odkaz](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Ďalšie informácie o verzii API programu Graph verzie beta nájdete v téme [Microsoft Graph beta Endpoint Reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Ďalšie informácie o rozhraní Graph API v1.0 nájdete v téme [Microsoft Graph REST API v1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Ďalšie informácie o verzii Graph API vo verzii beta nájdete v téme Odkaz na [Graph beta verzie .](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Ďalšie informácie o programe Microsoft Graph nájdete v téme [dokumentácia k programu Microsoft Graph](https://docs.microsoft.com/graph/).
+Ďalšie informácie o Microsoft Graph nájdete v dokumentácii [k Graph Microsoft.](https://docs.microsoft.com/graph/)
 
-Zákazníci s podporou služieb Unified a Premier môžu získať lístok technickej podpory pomocou tohto portálu. Ak nemáte podporu Unified alebo Premier, máte k dispozícii bezplatnú podporu vývojára doplnku Microsoft Graph na lokalite Microsoft Q&A. Tu zverejníme svoju otázku: https://aka.ms/AskGraph
+Zákazníci so zjednotenou a premier podporou môžu získať lístok technickej podpory pomocou tohto portálu. Ak nemáte podporu Unified alebo Premier, môžete získať prístup k bezplatnej podpore pre vývojárov pre Microsoft Graph na lokalite Microsoft Q&A. Svoju otázku môžete uverejniť tu: https://aka.ms/AskGraph

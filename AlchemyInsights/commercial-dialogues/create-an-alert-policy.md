@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988346"
 ---
 # <a name="create-an-alert-policy"></a>Vytvorenie politiky upozornení
 
 Postup:
 
-1. Prejdite do Centra [zabezpečenia a dodržiavania & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Prejdite do Centra [Office 365 zabezpečenia & súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. Vyberte **položku Politiky**  >  [upozornení.](https://go.microsoft.com/fwlink/?linkid=2103208)
 1. Vyberte **položku + Nová politika upozornení.** Zobrazí sa leták.
 1. Podľa **svojich potrieb** **nastavte** **polia Názov**, Popis , **Závažnosť** a Kategória. Vyberte **položku Ďalej.**

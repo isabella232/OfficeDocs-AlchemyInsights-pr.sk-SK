@@ -1,5 +1,5 @@
 ---
-title: Použitie aplikácie Microsoft Edge na vzdialené ladenie zariadenia s Androidom z vývojového počítača
+title: Použitie Microsoft Edge na vzdialené ladenie zariadenia s Androidom z vývojového počítača
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "6983"
 - "10186"
 - "9005827"
-ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 1e7eca331ad0077d3c05e2a734ad02800192d4073efd9fc17431e11b7e691883
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024077"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Použitie aplikácie Microsoft Edge na vzdialené ladenie zariadenia s Androidom z vývojového počítača
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Použitie Microsoft Edge na vzdialené ladenie zariadenia s Androidom z vývojového počítača
 
 Ak chcete na diaľku ladiť živý obsah v zariadení s Androidom z počítača:
 

@@ -1,5 +1,5 @@
 ---
-title: Príručka na nastavenie vzdialenej práce
+title: Sprievodca nastavením vzdialenej práce
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024005"
 ---
-# <a name="remote-work-setup-guide"></a>Príručka na nastavenie vzdialenej práce
+# <a name="remote-work-setup-guide"></a>Sprievodca nastavením vzdialenej práce
 
-Ďalšie a ďalšie práce sa uskutočňujú na diaľku. Vaša Organizačná správa musí byť vybavená na spravovanie zvýšeného dopytu po vzdialenej práci.
+Pracujte na diaľku a vykonáva sa viac práce. Vaša organizácie musí byť vybavený, aby bolo možné spravovať zvýšené požiadavky na prácu na diaľku.
 
-Pomocou [Sprievodcu nastavením vzdialeného práce](https://go.microsoft.com/fwlink/?linkid=2142062) môžete povoliť základné funkcie zabezpečenia a skontrolovať ďalšie bezpečnostné odporúčania. Dostanete pokyny na obmedzenie zaťaženia infraštruktúry VPN a voliteľne nastavenie vzdialeného prístupu pre stolné počítače a aplikácie. Potom si prezrite možnosti nasadenia aplikácie Microsoft teams a aplikácií balíka Office.
+Pomocou [príručky na nastavenie vzdialenej práce povoľte](https://go.microsoft.com/fwlink/?linkid=2142062) základné funkcie zabezpečenia a pozrite si ďalšie odporúčania zabezpečenia. Získate pokyny na zmenšenie namáhania infraštruktúry VPN a voliteľne nastavenie vzdialeného prístupu pre pracovné plochy a aplikácie. Potom si pozrite možnosti nasadenia aplikácií Microsoft Teams Office aplikácií.

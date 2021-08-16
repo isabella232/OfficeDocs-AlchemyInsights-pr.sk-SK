@@ -1,5 +1,5 @@
 ---
-title: Odstrániť predchádzajúce verzie MSI balíka Office
+title: Odstránenie starších verzií balíka Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023789"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>Odstrániť predchádzajúce verzie MSI balíka Office
+# <a name="remove-prior-msi-versions-of-office"></a>Odstránenie starších verzií balíka Office
 
-Pred inštaláciou balíka Office 365 ProPlus odporúčame odstrániť predchádzajúce verzie balíka Office s Inštalátorom systému Windows (MSI). Postupujte takto:
+Pred inštaláciou balíka Windows odporúčam odstrániť predchádzajúce verzie Office Inštalátora (MSI) Office 365 ProPlus. Postup:
 
-1. Ak ste použili inštalátor MSI na inštaláciu balíka Office, môžete na odinštalovanie balíka Office použiť nástroj na nasadenie balíka Office (ODT). V súbore **configuration.xml** môžete použiť prvok RemoveMSI.
-1. Postupujte podľa pokynov v tomto článku: [centrum dodržiavania súladu & zabezpečenia balíka Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Ak ste na inštaláciu balíka Office používali msi, môžete na odinštalovanie použiť Office Deployment Tool (ODT) Office. Môžete použiť prvok RemoveMSI v **configuration.xml** súbore.
+1. Postupujte podľa pokynov v tomto článku: [Office 365 Centrum zabezpečenia & súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
