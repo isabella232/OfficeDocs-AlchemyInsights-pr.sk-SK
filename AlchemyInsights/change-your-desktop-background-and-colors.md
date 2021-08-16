@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045769"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Zmena pozadia a farieb pracovnej plochy
 
-Ak chcete zmeniť nastavenie farieb, prejdite na ponuku Štart Nastavenie prispôsobenia farieb a potom vyberte vlastnú farbu alebo nechajte Windows nastaviť farbu  >    >    >  motívu podľa pozadia.
+Ak chcete zmeniť nastavenie farieb, prejdite na Nastavenia Farba prispôsobenia a potom vyberte vlastnú farbu alebo nechajte Windows farbu motívu podľa  >    >    >  pozadia.
 
-![Prispôsobte si farby vo Windowse.](media/windows-personalization-colors.png)
+![Prispôsobte si farby v Windows.](media/windows-personalization-colors.png)
 
-Ak chcete zmeniť pozadie pracovnej plochy, prejdite na položku Nastavenie Štart Prispôsobenie pozadia a potom vyberte obrázok, plná farbu alebo  >    >    >  vytvorte prezentáciu obrázkov. 
+Ak chcete zmeniť pozadie pracovnej plochy, prejdite na Nastavenia Prispôsobenie na pozadí a potom vyberte obrázok, plná farba alebo  >    >    >  vytvorte prezentáciu obrázkov. 
 
-![Zmeňte pozadie pracovnej plochy Windowsu.](media/windows-desktop-background.png)
+![Zmeňte pozadie Windows pracovnej plochy.](media/windows-desktop-background.png)
 
-Chcete viac pozadí a farieb pracovnej plochy? Navštívte [Microsoft Obchod a](https://www.microsoft.com/store/collections/windowsthemes) vyberte si z desiatok bezplatných motívov.
+Chcete viac pozadí a farieb pracovnej plochy? Navštívte [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) a vyberte si z desiatok bezplatných motívov.
