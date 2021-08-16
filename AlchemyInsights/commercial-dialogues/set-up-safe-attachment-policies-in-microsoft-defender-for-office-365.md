@@ -1,5 +1,5 @@
 ---
-title: Nastavenie politík bezpečného pripojenia v programe Microsoft Defender pre Office 365
+title: Nastavenie Trezor príloh v programe Microsoft Defender pre Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 00b939a5ad9ee0349c85c162bf8279c5b1e1a0e5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058557"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Nastavenie politík bezpečného pripojenia v programe Microsoft Defender pre Office 365
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Nastavenie Trezor príloh v programe Microsoft Defender pre Office 365
 
-1. Prejdite na [centrum dodržiavania súladu & zabezpečenia služieb Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143) a vyberte položku   >    >  **bezpečné prílohy** politiky správy hrozieb.
-2. Ak chcete túto funkciu povoliť pre iné pracovné zaťaženia, vyberte položku **Zapnúť Microsoft Defender pre Office 365 pre SharePoint Online, OneDrive a Microsoft teams**.
-3. Ak chcete vytvoriť novú politiku, vyberte **novú** ikonu ( **+** ).
-4. Zadajte názov, popis a nastavenie politiky.
-5. Vyberte položku **Uložiť**.
+1. Prejdite do Centra [zabezpečenia Office 365 a dodržiavania & a](https://go.microsoft.com/fwlink/p/?linkid=2077143) vyberte položku Politika   >  **spravovania hrozieb**  >  **Trezor prílohy**.
+2. Ak chcete túto funkciu zapnúť pre iné pracovné vyťaženia, vyberte položku Zapnúť Microsoft Defender pre Office 365 pre **SharePoint Online, OneDrive a Microsoft Teams**.
+3. Ak chcete vytvoriť novú politiku, vyberte **ikonu Nové** **+** ().
+4. Zadajte názov, popis a nastavenia politiky.
+5. Vyberte **položku Uložiť**.

@@ -1,5 +1,5 @@
 ---
-title: Používanie prehliadača Microsoft Edge s prehliadačmi Chromium na exportovanie Ediscovery
+title: Používanie Microsoft Edge založené na Chromium prehliadačoch na exportovanie Ediscovery
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a583896b5aa8e73be5e932a729c380acc8092e73b2151647c999f9a7b69669b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998409"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Používanie prehliadača Microsoft Edge s prehliadačmi Chromium na exportovanie Ediscovery
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Používanie Microsoft Edge založené na Chromium prehliadačoch na exportovanie Ediscovery
 
-Z dôvodu nedávnej zmeny už nebudú mať prehliadače Microsoft Edge predvolene zapnutú podporu pre ClickOnce. Ak chcete pokračovať v používaní nástroja na exportovanie Microsoft 365 eDiscovery, budete musieť použiť Microsoft Internet Explorer alebo zapnúť podporu technológie ClickOnce v prehliadači Microsoft Edge. 
+V dôsledku nedávnej zmeny Microsoft Edge prehliadačov nebude ClickOnce predvolene povolená podpora. Ak chcete pokračovať v používaní Microsoft 365 eDiscovery, budete musieť použiť Microsoft Internet Explorer alebo povoliť podporu pre ClickOnce vo Microsoft Edge. 
 
-Zapnutie podpory ClickOnce v Microsoft Edgei na základe Chromia: 
+Zapnutie podpory ClickOnce v Microsoft Edge na základe Chromium: 
 1. V prehliadači Microsoft Edge prejdite na lokalitu edge://flags/#edge-click-once.
-2. Pre možnosť Podpora pre ClickOnce zmeňte hodnotu z Predvolené **alebo** Vypnuté **na** **Povolené.** 
+2. Pre možnosť ClickOnce podpory zmeňte hodnotu z Predvolené **alebo** Vypnuté **na** **Zapnuté.** 
 3. V dolnej časti okna prehliadača vyberte položku **Reštartovať**. <br>
- Zmena sa prejaví po reštartovaní Microsoft Edgeu. 
+ Zmena sa prejaví po reštartovaní Microsoft Edge. 
 
 Informácie o tomto článku a postup inštalácie nástroja na export nájdete v téme: [Export výsledkov vyhľadávania obsahu.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)

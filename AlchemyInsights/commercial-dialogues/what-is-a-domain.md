@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070015"
 ---
 # <a name="whats-a-domain"></a>Čo je doména
 
-Doména je súčasťou e-mailovej adresy, ktorá sa nachádza za symbolom @. Napríklad v adrese rob@contoso.com je doména **contoso.com**. Väčšina podnikov uprednostňuje v e-mailovej adrese používať vlastný názov domény.
+Doména je časť e-mailovej adresy, ktorá sa nachádza za symbolom @. Napríklad v časti Adresa rob@contoso.com sa doména **contoso.com.** Väčšina podnikov radšej používa vo svojej e-mailovej adrese vlastný názov domény.
 
-Nižšie sú uvedené niektoré tipy týkajúce sa domén:
+Tu je niekoľko tipov týkajúcich sa domén:
 
-- Názov domény môžete zakúpiť od spoločnosti Microsoft. Týmto spôsobom budete mať vlastnú e-mailovú adresu.
-- Alebo stačí pridať doménu, ktorú už vlastníte, do služieb Office 365.
+- Môžete si kúpiť názov domény od spoločnosti Microsoft. Týmto spôsobom budete mať vlastnú e-mailovú adresu.
+- Alebo môžete jednoducho pridať doménu, ktorú už vlastníte, do Office 365.
 
-Ďalšie informácie nájdete v [tomto skvelom videu](https://www.youtube.com/watch).
+Ďalšie informácie nájdete [v tomto skvelých videách.](https://www.youtube.com/watch)
