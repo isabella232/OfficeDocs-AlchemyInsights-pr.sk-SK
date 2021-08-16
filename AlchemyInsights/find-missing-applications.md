@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068935"
 ---
 # <a name="find-missing-applications"></a>Vyhľadanie chýbajúcich aplikácií
 
-- Rýchly štart [: zobrazenie zoznamu aplikácií, ktoré používajú nájomníka služby Azure Active Directory (Azure AD) pre správu identít](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) , vám ukáže, ako Zobraziť aplikácie, známe aj ako aplikácie, ktoré už sú nastavené tak, aby používali nájomníka služby Azure AD ako svojho poskytovateľa identity (IDP).
-- Ak chcete vyhľadať konkrétnu aplikáciu, prejdite do ponuky **typ aplikácie** , vyberte položku **všetky aplikácie** a potom vyberte položku **použiť**.
-  - Zadajte názov aplikácie, ktorú chcete vyhľadať. Ak bola aplikácia pridaná do nájomníka služby Azure AD, zobrazí sa vo výsledkoch vyhľadávania. Môžete zadať aj niekoľko prvých písmen názvu aplikácie.
-- [Riešenie bežných problémov s pridaním alebo odstránením aplikácie do služby Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) vám pomôže pochopiť bežné problémy, ktoré ľudia čelia zobrazovaniu aplikácií v službe Azure Active Directory.
+- Rýchly štart: V zobrazení zoznamu aplikácií, ktoré používajú vášho nájomníka [služieb Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) na spravovanie identít, sa zobrazí postup na zobrazenie aplikácií, známych aj ako aplikácie, ktoré sú už nastavené na používanie nájomníka služby Azure AD ako poskytovateľa identity (IdP).
+- Ak chcete vyhľadať konkrétnu aplikáciu, prejdite do ponuky **Typ aplikácie,** vyberte **položku Všetky aplikácie** a potom vyberte položku **Použiť**.
+  - Zadajte názov aplikácie, ktorú chcete nájsť. Ak bola aplikácia pridaná do vášho nájomníka služby Azure AD, zobrazí sa vo výsledkoch vyhľadávania. Môžete tiež zadať niekoľko prvých písmen názvu aplikácie.
+- [Riešenie bežných problémov s pridávaním alebo odstraňovaním](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) aplikácie v Azure Active Directory pomáha pochopiť bežné problémy, ktorým ľudia pri prezeraní aplikácií Azure Active Directory.
