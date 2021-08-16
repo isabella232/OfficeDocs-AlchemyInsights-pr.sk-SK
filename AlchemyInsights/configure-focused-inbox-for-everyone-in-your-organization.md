@@ -1,5 +1,5 @@
 ---
-title: 912 Konfigurácia prioritnej doručenej pošty pre všetkých používateľov vo vašej organizácii
+title: 912 Konfigurácia priečinka doručenej pošty v programe Focused Inbox pre všetkých vo vašej organizácii
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: c4cfd92d233f186de43ff9761b28b6d01a040e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43b8b478fac3c077520cf3f36193efd241598174b00eea27f13861de1a140954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044607"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Zapnutie alebo vypnutie prioritnej doručenej pošty pre všetkých používateľov
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Zapnutie alebo vypnutie priečinka doručenej pošty v priečinku Doručená pošta pre všetkých
 
-Pokyny nájdete v téme [Konfigurácia prioritnej doručenej pošty pre všetkých používateľov vo vašej organizácii](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Pokyny nájdete v téme [Konfigurácia priečinka doručenej pošty v programe Pre všetkých v organizácii.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)
 
-**Poznámka**: Tento postup vyžaduje prostredie Exchange Online PowerShell. Chcete túto možnosť použiť v centre spravovania služieb Microsoft 365? [Hlasujte tu!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Poznámka:** Tento postup vyžaduje Exchange Online PowerShell. Chcete to radšej urobiť v Centrum spravovania služby Microsoft 365? [Hlasujte tu!](https://go.microsoft.com/fwlink/p/?linkid=862489)

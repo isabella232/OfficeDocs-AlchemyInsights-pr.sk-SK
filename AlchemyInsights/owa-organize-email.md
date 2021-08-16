@@ -1,5 +1,5 @@
 ---
-title: Usporiadanie e-mailov v Outlooku na webe
+title: Usporiadanie e-mailov Outlook na webe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: c5a97cbeca4cfae1deac9171d7df4a81e33d88dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f776d830fc3e017c8611353f31af8f0164f2f0873d01d0d6bc5bc5f5c92eef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983108"
 ---
 # <a name="organize-your-email"></a>Usporiadanie e-mailov
 
-V Outlooku na webe môžete použiť príkazy ako **sweep** a **premiestniť na** automaticky odstrániť alebo premiestniť správy od určitého odosielateľa. Tieto príkazy sa zobrazia nad zoznamom správ, keď vyberiete správu v priečinku Doručená pošta.
+Vo Outlook na webe môžete na automatické odstraňovanie  alebo premiestňovanie **správ** od určitého odosielateľa použiť príkazy, ako napríklad Usporiadať a Premiestniť do. Tieto príkazy sa po výbere správy v doručenej pošte zobrazujú nad zoznamom správ.
 
-- **Upratania** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
- umožňuje rýchlo odstrániť správy v priečinku Doručená pošta. Môžete automaticky odstrániť všetky prichádzajúce e-maily od daného odosielateľa, ponechať len najnovší e-mail a zvyšok odstrániť alebo odstrániť e-mail starší ako 10 dní.
-- **Presun na** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> umožňuje presunutie správy o konkrétnu správu do iného priečinka.
+- **Usporiadať** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
+ umožňuje rýchle odstránenie správ v priečinku doručenej pošty. Môžete automaticky odstrániť všetky prichádzajúce e-maily od tohto odosielateľa, ponechať si len najnovší e-mail a odstrániť ostatné e-maily alebo odstrániť e-maily staršie ako 10 dní.
+- **Premiestniť do** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> umožňuje premiestniť konkrétnu správu do iného priečinka.
 
-Ďalšie informácie nájdete v téme [Práca s priečinkami so správami v Outlooku na webe](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Ďalšie informácie nájdete v téme [Práca s priečinkami so správami v Outlook na webe.](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)

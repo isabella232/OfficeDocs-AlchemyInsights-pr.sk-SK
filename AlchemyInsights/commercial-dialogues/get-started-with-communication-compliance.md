@@ -1,5 +1,5 @@
 ---
-title: Začíname s dodržiavaním súladu s komunikáciami
+title: Začíname pracovať so súladom komunikácie
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 704091ede595bfa7e721f8059241825daddb20db
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034697"
 ---
-# <a name="get-started-with-communication-compliance"></a>Začíname s dodržiavaním súladu s komunikáciami
+# <a name="get-started-with-communication-compliance"></a>Začíname pracovať so súladom komunikácie
 
-Skôr než začnete, vaša organizácia musí mať jeden z nasledujúcich predplatných alebo doplnkov:
+Skôr než začnete, vaša organizácia musí mať jedno z nasledujúcich predplatných alebo doplnkov:
 
-* Predplatné na Microsoft 365 E5 (platená alebo skúšobná verzia)
-* Predplatné na Microsoft 365 E3 + doplnok Microsoft 365 E5 Compliance
-* Predplatné na Microsoft 365 E3 + doplnok Microsoft 365 E5 Insider Risk Management
-* Predplatné na Microsoft 365 A5 (platená alebo skúšobná verzia)
-* Microsoft 365 a3 predplatné + doplnok Microsoft 365 A5 Compliance
-* Microsoft 365 a3 predplatné + doplnok Microsoft 365 A5 Insider Risk Management
-* Predplatné na Microsoft 365 G5 (platená alebo skúšobná verzia)
-* Predplatné na Microsoft 365 G5 + doplnok na dodržiavanie súladu s Microsoft 365 G5
-* Predplatné na Microsoft 365 G5 + Microsoft 365 G5 Insider Risk Management
-* Predplatné na Office 365 Enterprise E5 (platená alebo skúšobná verzia)
-* Predplatné na Office 365 Enterprise E3 + doplnok Office 365 Advanced Compliance (už nie je k dispozícii pre nové predplatné, pozrite si tému Poznámka)
+* Microsoft 365 E5 predplatné (platená alebo skúšobná verzia)
+* Microsoft 365 E3 predplatné + Microsoft 365 E5 Compliance doplnok
+* Microsoft 365 E3 predplatné + Microsoft 365 E5 Insider Risk Management
+* Microsoft 365 A5 predplatné (platená alebo skúšobná verzia)
+* Microsoft 365 A3 predplatné + Microsoft 365 A5 Compliance
+* Microsoft 365 A3 predplatné + Microsoft 365 A5 Insider Risk Management
+* Microsoft 365 Predplatné G5 (platená alebo skúšobná verzia)
+* Microsoft 365 Predplatné na G5 + Microsoft 365 G5 Compliance
+* Microsoft 365 Predplatné na G5 + Microsoft 365 G5 Insider Risk Management
+* Office 365 Enterprise Predplatné E5 (platená alebo skúšobná verzia)
+* Office 365 Enterprise Predplatné na E3 + Office 365 Advanced Compliance doplnok (už nie je k dispozícii pre nové predplatné, pozrite si poznámku)
 
     > [!NOTE]
-    > Ak nemáte existujúci plán služieb Office 365 Enterprise E5 a chcete vyskúšať správu rizika Insider, môžete [pridať Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) k existujúcemu predplatnému alebo zaregistrovať skúšobnú verziu balíka Office 365 Enterprise E5.
+    > Ak nemáte existujúci plán plánu [Office 365 Enterprise](https://go.microsoft.com/fwlink/?linkid=2130508) E5 a chcete vyskúšať riadenie rizík pre insiderov, môžete si Microsoft 365 pridať k existujúcemu predplatnému alebo si zaregistrovať skúšobnú verziu plánu Office 365 Enterprise E5.

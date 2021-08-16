@@ -1,5 +1,5 @@
 ---
-title: Oprava nastavení politiky používateľa alebo poštovej schránky
+title: Oprava nastavení politiky používateľa/poštovej schránky
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034733"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Oprava nastavení politiky používateľa alebo poštovej schránky
+# <a name="fix-user-policymailbox-settings"></a>Oprava nastavení politiky používateľa/poštovej schránky
 
-Nastavenia nevyžiadanej pošty v poštovej schránke ovplyvnili túto správu. Ak chcete skontrolovať nastavenia, postupujte takto:
+Toto hlásenie sa týka nastavení nevyžiadanej pošty v poštovej schránke. Ak chcete skontrolovať nastavenia, vykonajte nasledovné kroky:
 
-1. Spustite prostredie Exchange Management Shell. Ďalšie informácie nájdete v téme [Otvorenie prostredia Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Spustite tento príkaz (s použitím e-mailovej adresy používateľa):  **Get-mailboxjunkmailconfiguration-identity "user@domain.com"**
-3. Skontrolujte, či je e-mailová adresa odosielateľa súčasťou **TrustedSendersAndDomains** alebo **BlockedSendersAndDomains**. Ak sa e-mailová adresa nachádza v niektorom zo zoznamov, možno ju budete musieť odstrániť. Ďalšie informácie nájdete v téme [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. Spustite Exchange Management Shell. Ďalšie informácie nájdete v téme [Otvorenie Exchange správy e-Exchange.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Spustite tento príkaz (pomocou e-mailovej adresy používateľa):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Skontrolujte, či je e-mailová adresa odosielateľa súčasťou **trustedSendersAndDomains** alebo **BlockedSendersAndDomains.** Ak sa e-mailová adresa nachádza v jednom zo zoznamov, možno ju budete musieť odstrániť. Ďalšie informácie nájdete v téme [Set-MailboxJunkEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)

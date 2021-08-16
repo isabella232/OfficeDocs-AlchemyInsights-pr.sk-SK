@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: f2025f66adfe5ed4ed5093fb5768bc4826cfdeeeddb17a6276c56f633eea77c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026813"
 ---
 # <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
-- [MTP – Preh3/4Ad](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [MTP – prehľad](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Predpoklady](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [Licenčné požiadavky](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Zapnutie MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [Riešenie problémov s MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Povolenie funkcie MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Riešenie problémov MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Kontrola licencií: Ak chcete zobraziť licenciu, musíte mať priradenú rolu správca fakturácie alebo globálny čitateľ v službe Azure AD. Ak chcete zobraziť existujúce licencie, prejdite do [centra spravovania](https://admin.microsoft.com/) a prejdite na položky **fakturačné**  >  **licencie** .
+Kontrola licencií: Ak chcete zobraziť svoju licenciu, musíte mať priradenú rolu správcu fakturácie alebo roly globálneho čitateľa v Službe Azure AD. Prejdite do centra [spravovania,](https://admin.microsoft.com/) prejdite na **položku**  >  **Licencie na fakturáciu** a zobrazte svoje existujúce licencie.
