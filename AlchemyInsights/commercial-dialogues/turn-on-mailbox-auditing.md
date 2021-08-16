@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: aa0ff925ae891d28e31394ec66eb17c2d9710008
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 797dd57aaa43e879c015a36c79c8c9fb13e04ae894b33b0f7c6d9694d1ae1960
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058053"
 ---
 # <a name="turn-on-mailbox-auditing"></a>Zapnutie auditovania poštovej schránky
 
-Ak chcete zapnúť auditovanie poštovej schránky pre jedného používateľa alebo celú organizáciu, spustite nasledujúce rutiny typu cmdlet z vzdialeného prostredia PowerShell:
+Ak chcete zapnúť auditovanie poštovej schránky pre jedného používateľa alebo celú organizáciu, spustite túto rutinu typu cmdlet v prostredí Remote PowerShell:
 
-- **Jeden používateľ**: Set-Mailbox identita "Jane Dow" – AuditEnabled $True
-- **Organizácia**: Get-Mailbox-ResultSize Unlimited-filter {recipientTypeDetails-EQ "UserMailbox"} | Set-Mailbox – AuditEnabled $true
+- **Jeden používateľ:** Set-Mailbox identity "Jane Dow" -AuditEnabled $true
+- **Organizácia:** Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
 
-Ďalšie informácie nájdete v téme [Spravovanie auditovania poštovej schránky](https://go.microsoft.com/fwlink/?linkid=2103668).
+Ďalšie informácie nájdete v téme Správa [auditovania poštovej schránky.](https://go.microsoft.com/fwlink/?linkid=2103668)

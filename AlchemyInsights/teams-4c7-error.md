@@ -1,5 +1,5 @@
 ---
-title: Chyba aplikácie Teams 4c7
+title: Teams chyby 4c7
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea3e8f23c07103e604fc6b264047582b9c3e26b6b73237adc30eba574e06cfd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049323"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>Chyba 4c7 v aplikácii Microsoft Teams
+# <a name="4c7-error-in-microsoft-teams"></a>Chyba 4c7 v Microsoft Teams
 
-Táto chyba sa vyskytuje, pretože aplikácia Microsoft Teams vyžaduje overovanie formulárov. Keď nasadzujete Active Directory Federation Services (ADFS), overovanie formulárov nie je predvolene povolené pre intranet. Ak integrované overovanie systému Windows zlyhá, zobrazí sa výzva na prihlásenie pomocou overenia formulárov.
+Táto chyba sa vyskytuje, Microsoft Teams vyžaduje overovanie formulárov. Keď nasadzujete Active Directory Federation Services (ADFS), overovanie formulárov nie je predvolene povolené pre intranet. Ak Windows integrované overovanie zlyhá, zobrazí sa výzva na prihlásenie pomocou overenia formulárov.
 
 Ak chcete tento problém vyriešiť, povoľte overovanie formulárov pomocou modulu Microsoft Management Console (MMC) služby ADFS v počítači, ktorý obsahuje lokálnu kópiu služby Active Directory. Postupujte takto: 
 

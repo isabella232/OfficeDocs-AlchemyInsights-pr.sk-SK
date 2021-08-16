@@ -1,5 +1,5 @@
 ---
-title: Príprava prostredia pre služby Microsoft 365 a Office 365
+title: Príprava prostredia na Microsoft 365 a Office 365 služieb
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004182"
 - "7361"
-ms.openlocfilehash: ff96f2cdd52a54afd579e7c0e7db1b2a69825bb7
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: f22eafc68eac3e68ddf831d5a728b004590ee8aaa7da22e508716ceb257250b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040305"
 ---
-# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Príprava prostredia pre služby Microsoft 365 a Office 365
+# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Príprava prostredia na Microsoft 365 a Office 365 služieb
 
-[Príručka pripraviť prostredie](https://go.microsoft.com/fwlink/?linkid=2005213) vám pomôže pripraviť prostredie vašej organizácie pre služby Microsoft 365 a Office 365. Bez ohľadu na svoje ciele máte k dispozícii úlohy, ktoré je potrebné vykonať, aby sa zabezpečilo úspešné nasadenie.
+Príručka [Príprava prostredia vám](https://go.microsoft.com/fwlink/?linkid=2005213) pomôže pripraviť prostredie vašej organizácie na Microsoft 365 a Office 365 služieb. Bez ohľadu na svoje ciele budete musieť vykonať úlohy, ktoré zabezpečia úspešné nasadenie.
 
-Ak sa chcete vyhnúť problémom pri príprave prostredia, máte k dispozícii podrobné pokyny na pripojenie svojej domény, Pridanie používateľov, priradenie licencií, nastavenie e-mailu pomocou služby Exchange Online a inštalácia alebo nasadenie aplikácií balíka Office.
+Ak sa chcete vyhnúť problémom pri príprave prostredia, k dispozícii sú podrobné pokyny na pripojenie domény, pridanie používateľov, priradenie licencií, nastavenie e-mailu pomocou služieb Exchange Online a na inštaláciu alebo nasadenie Office aplikácií.

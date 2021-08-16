@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: f3294bb9d0f388e1003181b0b83f9fd6ccef6097
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 06352056740180c9f332dd85553a9373b0f25548e50222a1d4bf9d502f513dfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058197"
 ---
 # <a name="troubleshooting-the-intune-policy-and-profiles"></a>Riešenie problémov s politikou a profilmi služby Intune
 
-Ak chcete zobraziť existujúce politiky, riešiť problémy s konfliktmi, kontrolovať údaje denníka a Zobraziť bežné otázky a problémy, nasledujúce pokyny vám môžu pomôcť:
+Ak chcete zobraziť existujúce politiky, riešiť konflikty, prekontrolovať údaje denníka a zobraziť bežné otázky a problémy, môžu vám pomôcť nasledujúce príručky:
 
-- [Riešenie problémov s politikami a profilmi v službe Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
-- [Bežné otázky, problémy a rozlíšenia s politikami a profilmi zariadenia v službe Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
-- [Sledovanie profilov konfigurácie zariadenia a zobrazenie konfliktov v službe Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
-- [Riešenie problémov s dodržiavaním a podmieneným prístupom k zariadeniam v službe Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
-- [Monitorovanie politík dodržiavania súladu a zobrazenie konfliktov v službe Intune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
+- [Riešenie problémov s politikami a profilmi v intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Bežné otázky, problémy a riešenia s politikami a profilmi zariadení v intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
+- [Sledovanie konfiguračných profilov zariadenia a konfliktov zobrazenia v programe Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
+- [Riešenie problémov so súladom zariadení a podmieneným prístupom v intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [Monitorovanie politík dodržiavania súladu a zobrazenie konfliktov v programe Intune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
 
 [Ďalšie informácie...](https://docs.microsoft.com/mem/intune/configuration/device-profiles)

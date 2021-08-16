@@ -1,5 +1,5 @@
 ---
-title: Spravovanie ukladacieho priestoru SharePointu alebo OneDrivu
+title: Spravovanie SharePoint alebo OneDrive ukladacieho priestoru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077809"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Spravovanie ukladacieho priestoru SharePointu alebo OneDrivu
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Spravovanie SharePoint alebo OneDrive ukladacieho priestoru
 
  **SharePoint Online**
   
-Pre väčšinu organizácií sa ukladací priestor SharePointu automaticky spravuje, takže nie je potrebné nastaviť limity na kolekciu lokalít. Ak chcete zistiť, koľko ukladacieho priestoru SharePointu máte:
+Vo väčšine organizácií sa SharePoint automaticky spravuje ukladací priestor, takže nie je potrebné nastavovať obmedzenia pre jednu kolekciu lokalít. Ak chcete zistiť, koľko SharePoint máte k dispozícii:
   
-- V novom centre spravovania služby SharePoint v pravom hornom rohu stránky lokality vyhľadajte dostupný a celkový ukladací priestor.
+- V novom SharePoint spravovania v pravom hornom rohu stránky lokalít vyhľadajte dostupný a celkový ukladací priestor.
     
-Informácie o výpočte limitu nájdete v téme [limity SharePointu Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Ak si chcete kúpiť ďalší ukladací priestor, pozrite si tému [Zmena ukladacieho priestoru pre predplatné](https://go.microsoft.com/fwlink/?linkid=866428).
+Informácie o spôsobe výpočtu limitu nájdete v téme [SharePoint Online obmedzenia.](https://go.microsoft.com/fwlink/p/?LinkID=856113) Ak si chcete zakúpiť ďalší ukladací priestor, pozrite [si časť Zmena ukladacieho priestoru v predplatnom.](https://go.microsoft.com/fwlink/?linkid=866428)
   
  **OneDrive**
   
-Ak chcete zmeniť predvolený ukladací priestor pre nových a existujúcich používateľov OneDrivu:
+Zmena predvoleného ukladacieho priestoru pre nových a existujúcich OneDrive používateľov:
   
-- Prejdite na [stránku ukladacieho priestoru v centre spravovania pre OneDrive](https://admin.onedrive.com/?v=StorageSettings)a zadajte novú čiastku v GB.
+- Prejdite na stránku [Ukladací priestor v Centre spravovania OneDrive](https://admin.onedrive.com/?v=StorageSettings)a zadajte novú veľkosť v GB.
     
-Ak chcete zistiť, koľko ukladacieho priestoru používate vo vlastnom OneDrive, pozrite si tému [Správa ukladacieho priestoru vo OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=866429). Informácie o ukladacom priestore s každým plánom nájdete v téme [Popis služby OneDrive for Business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Ak chcete zistiť, koľko ukladacieho priestoru používate vo vlastnom OneDrive, pozrite si časť [Spravovanie OneDrive for Business ukladacieho priestoru](https://go.microsoft.com/fwlink/?linkid=866429). Informácie o ukladacom priestore, ktorý je súčasťou jednotlivých plánu, nájdete [v OneDrive for Business služby.](https://go.microsoft.com/fwlink/p/?LinkID=826071)
   
 
