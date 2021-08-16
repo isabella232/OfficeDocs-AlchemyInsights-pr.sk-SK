@@ -1,5 +1,5 @@
 ---
-title: Odklad odoslania v Outlook.com
+title: Odložené odosielanie na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041421"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Oneskorenie alebo naplánovanie odosielania e-mailových správ
+# <a name="delay-or-schedule-sending-email-messages"></a>Zdržanie alebo naplánovanie odoslania e-mailových správ
 
-Ľutujeme, ale odosielanie e-mailových správ v mobilnej aplikácii alebo webovom prehliadači nie je možné odložiť ani naplánovať. Ak to chcete urobiť, použite [Outlook pre Windows alebo Outlook pre Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Ľutujeme, odoslanie e-mailových správ v mobilnej aplikácii alebo webovom prehliadači nemožno odložiť ani naplánovať. Ak to chcete urobiť, [použite Outlook na Windows alebo Outlook pre Mac.](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
-**Späť Odoslať**
+**Zrušiť odoslanie**
 
-Nastavenia Outlook.com môžete zmeniť na oneskorenie odoslania správy až do 10 sekúnd. Odoslanie správy môžete zrušiť počas tohto obdobia. Ak chcete túto funkciu zapnúť, otvorte nastavenia [Odoslať späť](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Nastavenia lokality Outlook.com môžete zmeniť tak, aby odoslanie správy bolo oneskorené až na 10 sekúnd. Počas tohto obdobia môžete správu odoslať zrušiť. Ak chcete túto funkciu zapnúť, otvorte nastavenia [na zrušenie odosielania.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-Ďalšie informácie o [volaní e-mailu v Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie o [odvolaniach e-mailov na lokalite Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)

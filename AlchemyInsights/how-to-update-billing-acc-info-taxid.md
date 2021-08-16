@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015347"
 ---
 # <a name="how-to-update-billing-account-information"></a>Aktualizácia informácií o fakturačnom konte
 
-Pred zakúpením služieb, ktoré majú poplatok, je potrebné pridať alebo aktualizovať obchodnú adresu vašej organizácie, kontaktnú e-mailovú adresu a meno kontaktu.
+Pred nákupom služieb s poplatok je potrebné pridať alebo aktualizovať obchodnú adresu organizácie, kontaktnú e-mailovú adresu a meno kontaktu.
 
-Na výpočet dane z predaja a DPH sa používa obchodná adresa. Ak chcete aktualizovať číslo dane/DPH, vlastník fakturačného konta pre vašu zmluvu o zákazníkovi spoločnosti Microsoft môže vykonať tieto kroky:
+Adresa podniku sa používa na výpočet DPH z predaja a DPH. Ak chcete aktualizovať svoje ič DPH alebo DPH, vlastník fakturačného konta pre zmluvu so zákazníkom spoločnosti Microsoft to môže urobiť pomocou týchto krokov:
 
-**Ak chcete aktualizovať informácie o fakturačnom konte a aktualizovať svoj daňový identifikátor**:
+**Aktualizácia informácií o fakturačnom konte a aktualizácia daňového identifikačného čísla:**
 
-1. Prihláste sa do obchodu [Microsoft Store for Business](https://businessstore.microsoft.com/).
-1. Kliknite na položku **Spravovať**  >  **kontá fakturácie**.
-1. V **prehľade** kliknite na položku **Upraviť informácie o fakturačnom konte**.
+1. Prihláste sa do [Microsoft Store for Business](https://businessstore.microsoft.com/).
+1. Kliknite na **položku**  >  **Spravovať fakturačné kontá.**
+1. V **časti Prehľad** kliknite na položku Upraviť informácie o **fakturačnom konte**.
 1. Vykonajte aktualizácie a potom kliknite na tlačidlo **Uložiť**. 
 
-**Odporúčané dokumenty**
+**Odporučené dokumenty**
 
 - [Informácie o faktúre MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Zobrazenie a stiahnutie daňových dokumentov v službe Azure faktúra](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Zobrazenie a stiahnutie daňových dokumentov vo faktúre Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Aktualizácia nastavenia fakturačného konta](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Aktualizácia nastavení fakturačného konta](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

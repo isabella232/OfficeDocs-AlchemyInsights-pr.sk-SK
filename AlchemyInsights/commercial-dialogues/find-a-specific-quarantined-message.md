@@ -1,5 +1,5 @@
 ---
-title: Vyhľadanie konkrétnej karanténnej správy
+title: Vyhľadanie konkrétnej správy v karanténe
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3f9bd87a30bc7062afbe39dcc7df19b8eac37741
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967960"
 ---
-# <a name="find-a-specific-quarantined-message"></a>Vyhľadanie konkrétnej karanténnej správy
+# <a name="find-a-specific-quarantined-message"></a>Vyhľadanie konkrétnej správy v karanténe
 
-1. Prejdite do [Centra zabezpečenia & dodržiavania súladu](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Prejdite do   >    >  **karantény** Recenzie riadenia hrozieb.
-3. Vyberte položku **Hľadať**.
-4. Vyberte ľubovoľnú kombináciu podmienok začiarknutím políčok vedľa nich (v súčasnosti nie je možné použiť zástupné znaky).
+1. Prejdite do Centra [zabezpečenia & dodržiavania súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Prejdite do **karantény na správu**  >    >  **hrozieb a potom na možnosť Karanténa**.
+3. Vyberte **položku Hľadať**.
+4. Začiarknutím políčok vedľa podmienok môžete vybrať ľubovoľnú kombináciu podmienok (zástupné znaky v tejto dobe nie je možné použiť).

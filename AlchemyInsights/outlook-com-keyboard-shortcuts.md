@@ -1,5 +1,5 @@
 ---
-title: Klávesové skratky v 8000087 Outlook.com
+title: 8000087 Outlook.com Klávesové skratky
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: b40efccdb0c38c3b24919c36983d71814a4be7c4
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 875363cc21eb62ecd77c460991e3fe9773e4ec85268eb813da3dbd13bb6bb079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041457"
 ---
-# <a name="keyboard-shortcuts-in-outlookcom"></a>Klávesové skratky vo Outlook.com
+# <a name="keyboard-shortcuts-in-outlookcom"></a>Klávesové skratky na lokalite Outlook.com
 
-Vo Outlook.com môžete použiť rovnaké klávesové skratky ako e-mailovú službu, na ktorú ste zvyknutí pracovať, ako je napríklad Gmail, Yahoo Pošta alebo Outlook.com.
+V službe Outlook.com môžete používať rovnaké klávesové skratky ako e-mailová služba, s ktorú ste zvyknutí pracovať, ako je napríklad Gmail, Yahoo Mail alebo Outlook.com.
 
-Prejdite na **nastavenia** [zjednodušenia ovládania](https://go.microsoft.com/fwlink/?linkid=2080840) 
- > **Zobrazenie všetkých nastavení**  >  Outlooku **Všeobecné**  >  **Zjednodušenie ovládania**) a vyberte, ktoré klávesové skratky sa majú použiť.
+Prejdite na [Nastavenia zjednodušenia ovládania](https://go.microsoft.com/fwlink/?linkid=2080840) **Nastavenia** 
+ > **Zobrazenie všetkých Outlook nastavení**  >  **Všeobecné**  >  **Zjednodušenie ovládania**) a vyberte, ktoré klávesové skratky chcete použiť.
 
-Ak chcete zobraziť úplný zoznam klávesových skratiek, pozrite si tému [Klávesové skratky v Outlook.com](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd).
+Úplný zoznam klávesových skratiek nájdete v téme Klávesové [skratky Outlook.com.](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)

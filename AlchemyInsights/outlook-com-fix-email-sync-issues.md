@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov so synchronizáciou e-mailu Outlook.com
+title: Riešenie problémov Outlook.com synchronizácie e-mailov
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: f66e1365339d2a6939299b1fe05364a04ccea9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0aa87fb3b4907108a9a5cd418d447cdaac920b4e5f96754dec2d0bd354b92d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041385"
 ---
-# <a name="fix-outlookcom-email-sync-issues"></a>Riešenie problémov so synchronizáciou e-mailu Outlook.com
+# <a name="fix-outlookcom-email-sync-issues"></a>Riešenie problémov Outlook.com synchronizácie e-mailov
 
-Ak nemôžete odosielať alebo dostávať e-maily, najskôr skontrolujte [stav služby](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
+Ak nemôžete odosielať ani prijímať e-maily, najprv skontrolujte [stav služby.](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409)
   
-Ak neprijímate e-maily od konkrétneho odosielateľa, ako napríklad správy o vynulovaní hesla, najskôr sa presvedčte, že odosielateľ nie je v [zozname blokovaných odosielateľov a domén](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains).
+Ak vám e-mail od určitého odosielateľa, napríklad správy o obnovení hesla, nedosielate, najprv sa uistite, že odosielateľ nie je v zozname blokovaných odosielateľov a [domén.](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains)
   
-Ak odosielateľ nie je v zozname blokovaných odosielateľov, budete musieť kontaktovať odosielateľa a informovať vás, že neprijímate e-maily vo vašom konte Outlook.com. Požiadajte odosielateľa [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409) , aby vám mohol nájsť informácie o najvhodnejších postupoch, Odporúčané riešenie problémov a prepojenie na kontaktovanie tímu technickej podpory odosielateľa Outlook.com.
+Ak odosielateľ nie je vo vašom zozname blokovaných odosielateľov, budete sa musieť obrátiť na odosielateľa a dať mu vedieť, že sa e-maily do vášho konta Outlook.com nedoberajú. Obráťte sa na odosielateľa na , kde môže nájsť informácie o najvhodnejších postupoch, odporúčané riešenie problémov a prepojenie na kontaktovanie tímu podpory odosielateľa lokality [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409) Outlook.com.
   
-Ak neprijímate e-maily vôbec, pozrite si tému [Riešenie problémov so synchronizáciou e-mailu v Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+Ak vôbec nedo dostávate e-maily, pozrite si časť Riešenie problémov [Outlook synchronizáciou e-mailu na Outlook.com.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)
