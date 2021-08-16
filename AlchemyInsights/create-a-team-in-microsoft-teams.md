@@ -1,5 +1,5 @@
 ---
-title: Vytvorenie tímu v aplikácii Microsoft teams
+title: Vytvorenie tímu v Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9828"
 - "9004618"
-ms.openlocfilehash: 53e69c5ec5428da7d1469d3b25e242af9d659092
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 4889efc0a86ce7d7b4eeb8595160c0e3e3bb397e5f0d6c5395a54daece512465
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032213"
 ---
-# <a name="create-a-team-in-microsoft-teams"></a>Vytvorenie tímu v aplikácii Microsoft teams
+# <a name="create-a-team-in-microsoft-teams"></a>Vytvorenie tímu v Microsoft Teams
 
-Ak chcete vytvoriť tím v aplikácii Microsoft Teams, vykonajte tieto kroky:
+Ak chcete vytvoriť tím v Microsoft Teams, vykonajte tieto kroky:
 
-1. Na ľavej strane aplikácie teams kliknite na položku **teams**.
-2. V dolnej časti zoznamu tímov kliknite na položku **spojiť sa** alebo **vytvoriť tím**.
-3. Kliknite na položku **vytvoriť nový tím**.
+1. Na ľavej strane položky Teams na položku **Teams**.
+2. V dolnej časti zoznamu tímov kliknite na položku Pripojiť **sa k** tímu alebo **ho vytvoriť.**
+3. Kliknite **na položku Vytvoriť nový tím.**
 
-Ak máte problém s vytvorením tímu, môže sa použiť politika. Ďalšie informácie nájdete v téme [spravovanie osôb, ktoré môžu vytvárať skupiny Microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups).
+Ak máte problémy s vytvorením tímu, môže sa použiť politika. Ďalšie informácie nájdete v téme [Spravovanie osôb, ktoré môžu vytvárať Microsoft 365 skupiny.](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups)

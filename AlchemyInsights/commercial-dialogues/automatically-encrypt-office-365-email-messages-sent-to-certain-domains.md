@@ -1,5 +1,5 @@
 ---
-title: Automatické šifrovanie e-mailových správ v Office 365 odoslaných do určitých domén
+title: Automatické šifrovanie Office 365 e-mailových správ odoslaných do určitých domén
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082201"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Automatické šifrovanie e-mailových správ v Office 365 odoslaných do určitých domén
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Automatické šifrovanie Office 365 e-mailových správ odoslaných do určitých domén
 
-1. V [centre spravovania pre Exchange](https://outlook.office365.com/ecp/)vyberte položku **pravidlá toku pošty >**. 
-2. Kliknite na **novú ikonu (+)** a potom kliknite na položku **použiť šifrovanie správ v Office 365 a ochranu práv na správy**.
-3. Do poľa **názov** zadajte názov pravidla, napríklad *šifrovanie správ odoslaných do contoso.com*.
-4. **Ak chcete použiť toto pravidlo**, vyberte položku **príjemca > doména**. 
-5. Zadajte názov domény, napríklad **contoso.com**.
-6. Kliknite na ikonu **Pridať (+)** a potom kliknite na **tlačidlo OK**.
-7. Vedľa poľa **vykonať** toto políčko kliknite na položku **vybrať jeden**. 
-8. V rozbaľovacej ponuke **Šablóna RMS** vyberte položku **šifrovať** a potom kliknite na tlačidlo **OK**. (Ak sa táto možnosť nezobrazuje, znamená to, že váš plán nezahŕňa automatické šifrovanie. Môžete ju však pridať!)
-9. Vyberte ľubovoľný voliteľný výber (zo zoznamu voliteľných výberov, ktoré môžete vykonať v tomto bode, pričom mnohé z nich možno ponechať s predvoleným nastavením pre jednoduchosť).
+1. V Centre [Exchange vyberte](https://outlook.office365.com/ecp/)položku **Tok pošty a > správ**. 
+2. Kliknite na **ikonu Nové (+)** a potom kliknite na **položku Šifrovanie správ v Office 365 a ochranu prístupových práv na správy**.
+3. Do **poľa** Názov zadajte názov pravidla, napríklad Šifrovať správy *odoslané* contoso.com .
+4. V **časti Použiť toto pravidlo ak** vyberte položku Príjemca > **je**. 
+5. Zadajte názov domény, napríklad **contoso.com.**
+6. Kliknite na **ikonu Pridať (+)** a potom kliknite na tlačidlo **OK.**
+7. Vedľa poľa **Vykonajte nasledovné kliknite** na položku **Vybrať.** 
+8. V **rozbaľovacej ponuke šablóny RMS** vyberte položku **Zašifrovať a** potom kliknite na tlačidlo **OK.** (Ak sa táto možnosť zobraziť, znamená to, že váš plán nezahŕňa automatické šifrovanie. Môžete ho však pridať!)
+9. Vyberte ľubovoľnú voliteľnú možnosť (zo zoznamu voliteľných výberov, ktoré môžete v tomto momente vybrať, z ktorých mnohé môžete ponechať s predvoleným nastavením jednoduchosti).
 10. Kliknite na tlačidlo **Uložiť**.
 
 > [!IMPORTANT]
-> Vždy sa môžete vrátiť a upraviť toto pravidlo neskôr.
+> Toto pravidlo sa vždy môžete vrátiť a toto pravidlo upraviť neskôr.
 
-Ďalšie informácie o vytváraní pravidiel šifrovania nájdete v téme [definovanie pravidiel toku pošty na šifrovanie e-mailových správ v Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Ďalšie informácie o vytváraní pravidiel šifrovania nájdete v téme Definovanie pravidiel toku pošty na [šifrovanie e-mailových správ v Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

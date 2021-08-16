@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014231"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Inštalácia klientskych aplikácií balíka Office do PC alebo Macu
 
@@ -27,7 +27,7 @@ Ak chcete nainštalovať klientske aplikácie balíka Office, uistite sa, že m�
 
 Ak máte predplatné, ktoré zahŕňa aplikácie Microsoft 365, možnosť na jeho inštaláciu sa nezobrazí, ak nemáte [priradenú licenciu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ak ste správcom služieb Office 365 zodpovedným za priraďovanie licencií, pozrite si tému [Priradenie licencií používateľom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Môžete tiež použiť [nastavenia sťahovania softvéru balíka Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) a vybrať, či si používatelia budú môcť inštalovať aplikácie balíka ‎Office‎ do svojich zariadení.
 
-**Poznámka:** Zostava [o aktivácii balíka Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) poskytuje zobrazenie, ktoré používatelia nainštalovali a aktivovali svoje aplikácie Služby Microsoft 365 na aspoň jednom zariadení.
+**Poznámka:** Zostava [Office aktivácie](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) služieb poskytuje zobrazenie používateľov, ktorí si nainštalovali a aktivovali svoje Microsoft 365 aplikácie na aspoň jednom zariadení.
 
 Následné pokyny pre každého používateľa:
 

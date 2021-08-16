@@ -1,5 +1,5 @@
 ---
-title: Pripojenie k lokálnemu serveru Intune Exchange
+title: Ontune Exchange on-premise Connector
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013979"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Pripojenie k lokálnemu serveru Intune Exchange
+# <a name="intune-exchange-on-premise-connector"></a>Ontune Exchange on-premise Connector
 
-Podrobnosti o nastavení konektora medzi službou Intune a Exchangeom, ktorý je hosťovaný lokálne, nájdete v tejto dokumentácii:
+Podrobnosti o nastavení konektora medzi služby Intune a Exchange, ktorý je hosťovaný lokálne, nájdete v nasledujúcej dokumentácii:
 
-[Nastavenie lokálneho servera Exchange služby Intune v službe Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Nastavenie lokálneho konektora Intune Exchange v Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**FAQ**
+**Najčastejšie otázky:**
 
-Otázka: pri pokuse o nastavenie konektora Exchange sa zobrazí chyba, ako je napríklad "verzia konektora Exchange nie je podporovaná". Čo by mohlo byť príčinou?
+Otázka: Pri pokuse o nastavenie spojnice sa zobrazí chyba, ako je napríklad Exchange Exchange konektor, nie je podporovaný. Čo to môže byť príčina?
 
-A: konto, ktoré používate, je licencované správne – musí mať aktívnu licenciu služby Intune
+A: Konto, ktoré používate, má príslušnú licenciu – musí mať aktívnu licenciu služby Intune
 
-Otázka: je možné mať viacero konektorov Exchange?
+Otázka: Je možné mať viacero spojníc Exchange údajov?
 
-A: môžete nastaviť iba jeden konektor Exchange na nájomníka služby Intune na organizáciu Exchange. Spojnica môže byť nainštalovaná iba na jednom serveri v organizácii s viacerými servermi Exchange.
+A: Pre jednu organizáciu môžete nastaviť Exchange konektora pre jedného nájomníka služby Intun Exchange e. Konektor môže byť nainštalovaný len na jednom serveri v organizácii s viacerými servermi na výmenu.
 
-Nie je možné, že nie sú nakonfigurované spojnice pre lokálny Exchange aj Exchange Online konfigurované v tom istom nájomníkovi.
+Konektory nie je možné nakonfigurovať pre Exchange pre server a konektory Exchange Online nakonfigurované v tom istom nájomníkovi.
 
-Otázka: môže spojnica použiť pole CAS ako pripojenie k serveru Exchange?
+Otázka: Môže spojnica použiť pole CAS ako svoje pripojenie k Exchange?
 
-A: zadanie poľa CAS nie je podporovanou konfiguráciou v nastavení konektora. Mal by sa špecifikovať iba jeden server a mal by byť naprogramovaný v konfiguračnom súbore konektora, ktorý možno nájsť v
+A: Zadanie poľa CAS nie je podporovaná konfigurácia v nastavení konektora. Mal by byť zadaný len jeden server a mal by byť kódovaný v konfiguračnom súbore konektora, ktorý nájdete v časti
 
-Program data\microsoft\microsoft Intune na premise konektora Exchange \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Vyhľadajte nasledujúcu položku ```<ExchangeWebServiceURL />``` a nahraďte URL adresu serverom Exchange.
+Vyhľadajte nasledujúcu položku ```<ExchangeWebServiceURL />``` a nahraďte URL adresu Exchange Serverom.
 
-**Napríklad**
+**Príklad:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Ďalšie riešenie problémov nájdete v nasledujúcej dokumentácii: [Riešenie problémov s lokálnym konektorom Exchange služby Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Ďalšie riešenie problémov nájdete v nasledujúcej dokumentácii: [Riešenie problémov s lokálnym konektorom intune Exchange.](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Povolenie podrobného zapisovania do denníka pre konektor Exchange**
+**Povolenie zapisovania slovesného zapisovania do Exchange spojnice**
 
-1. Otvorte konfiguračný súbor sledovania doplnku Exchange Connector na úpravy.  
-Súbor je umiestnený na lokalite:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Na úpravy otvorte súbor Exchange Connector tracing.  
+Súbor sa nachádza na adrese : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Napríklad**
+**Príklad:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Vyhľadajte TraceSourceLine s nasledujúcim kľúčom: OnPremisesExchangeConnectorService  
+2. Vyhľadajte položku TraceSourceLine pomocou tohto kľúča: OnPremisesExchangeConnectorService  
   
-3. Zmeňte hodnotu uzla SourceLevel z informácií ActivityTracing (predvolené) na verbose ActivityTracing  
+3. Zmena hodnoty uzla SourceLevel z Information ActivityTracing (predvolené) na Verbose ActivityTracing  
 
-**Napríklad**
+**Príklad:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Súbor je umiestnený na lokalite:%ProgramData%\Microsoft\Windows Intune Exchang
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Reštartovanie služby Microsoft Intune Exchange  
-5. Úplná synchronizácia na portáli Intune dovtedy, kým sa nedokončí, a potom zmeňte XML späť na "Information ActivityTracing" a reštartujte službu Microsoft Intune Exchange.  
+4. Reštartujte službu Microsoft Intune Exchange zariadenia  
+5. Úplná synchronizácia na portáli Intune, kým sa nedokončí, a potom zmeňte XML súbor späť na information activitytracing a reštartujte Microsoft Intune Exchange služby.  
 6. Umiestnenie denníkov je: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

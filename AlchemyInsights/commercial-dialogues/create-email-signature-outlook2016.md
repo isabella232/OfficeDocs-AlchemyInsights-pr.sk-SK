@@ -1,5 +1,5 @@
 ---
-title: Vytvorenie podpisu e-mailu v Outlooku 2016
+title: Vytvorenie podpisu e-mailu v Outlook 2016
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f7e91169f06c5c0242cb7aaa0e1a0c266b5b30dc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 54f813eed229661e49058b46f2cc73c5900b506a4e72f6b4a6818603f18dbd29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045255"
 ---
-# <a name="create-an-email-signature-in-outlook-2016"></a>Vytvorenie podpisu e-mailu v Outlooku 2016
+# <a name="create-an-email-signature-in-outlook-2016"></a>Vytvorenie podpisu e-mailu v Outlook 2016
 
-Podpis e-mailu v Outlooku môže obsahovať text, obrázky, elektronickú vizitku, logo alebo dokonca aj obrázok vášho rukopisného podpisu.
+Vo Outlook e-mailového podpisu môže obsahovať text, obrázky, elektronickú vizitku, logo alebo dokonca obrázok vášho rukou písaného podpisu.
 
-1. Otvorte novú e-mailovú správu v Outlooku.
-2. Na karte **Správa** vyberte položku podpisy **podpisov**  >  .
-3. V časti **Vyberte podpis, ktorý chcete upraviť**, vyberte položku **nové** a potom zadajte názov podpisu.
-4. V časti **Upraviť podpis** vytvorte svoj podpis.
+1. Vo Outlook otvorte novú e-mailovú správu.
+2. Na karte **Správa** vyberte položku   >  **Podpisy podpisov**.
+3. V **časti Vyberte podpis, ktorý** sa má **upraviť** vyberte položku Nový a potom zadajte názov podpisu.
+4. V **časti Upraviť** podpis zostavte svoj podpis.
