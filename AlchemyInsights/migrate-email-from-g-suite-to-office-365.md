@@ -1,5 +1,5 @@
 ---
-title: Migrácia e-mailov z balíka G Suite do služieb Microsoft 365
+title: Migrácia e-mailov z G Suite do Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 2940a9667a52b50a502497b716480c50fa3850ba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8ac14dd4bf73f69ab340ceb7ae1dbeeb7c8b8c021d4a3a53151ab8c62eb268f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066029"
 ---
-# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Migrácia e-mailov z balíka G Suite do služieb Microsoft 365
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Migrácia e-mailov z G Suite do Microsoft 365
 
-Ak chcete migrovať e-maily z balíka G Suite do služby Microsoft 365, použite naše nástroje na migráciu e-mailov, kalendára a kontaktov: Vykonanie [migrácie služby G Suite.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
+Ak chcete migrovať e-maily z služby G Suite do služby Microsoft 365, použite nástroje na migráciu e-mailov, kalendára a kontaktov: Vykonanie [migrácie služby G Suite.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
   
