@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984656"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Nie je možné odhlásiť sa z Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Z lokality Outlook.com sa nedá odhlásiť
 
-Ak sa chcete odhlásiť z Outlook.com, vyberte svoje meno alebo obrázok v pravom hornom rohu obrazovky a potom vyberte položku **odhlásiť**sa.
+Ak sa chcete z Outlook.com odhlásiť, vyberte svoje meno alebo obrázok v pravom hornom rohu obrazovky a potom vyberte položku **Odhlásiť sa**.
 
-Ak sa obrázok v hornej časti obrazovky nezobrazuje, skontrolujte, či je zapnuté blokovanie reklám. Táto funkcia niekedy zabraňuje zobrazeniu obrázka.
+Ak sa v hornej časti obrazovky váš obrázok nachádza, skontrolujte, či nie je zapnutá blokovanie reklamy. Táto funkcia niekedy zabraňuje zobrazeniu obrázka.
 
-Ak sa stále nemôžete odhlásiť z Outlook.com, kliknite na položku  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) a potom na položku zatvorenie všetkých okien prehliadača.
+Ak sa stále nemôžete odhlásiť z webovej Outlook.com, kliknite na [https://login.live.com/logout.srf](https://login.live.com/logout.srf) položku a potom zavrite všetky okná prehliadača.

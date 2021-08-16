@@ -1,5 +1,5 @@
 ---
-title: Moderná lokalita ako Koreňová lokalita
+title: Moderná lokalita ako koreňová lokalita
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000407"
 ---
-# <a name="modern-site-as-root-site"></a>Moderná lokalita ako Koreňová lokalita
+# <a name="modern-site-as-root-site"></a>Moderná lokalita ako koreňová lokalita
 
-Začali sme zavádzať novú funkciu, ktorá vám umožní [vymieňať si klasickú koreňovú lokalitu lokality s modernou lokalitou](https://docs.microsoft.com/sharepoint/modern-root-site). Pri archivácii pôvodnej lokality môžete použiť [vyvolanie-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) na výmenu umiestnenia lokality s inou lokalitou. K dispozícii pre tímovú lokalitu (nie je pripojená k skupine) a na komunikačnú lokalitu.
+Začali sme s zavádzanie novej funkcie, ktorá vám umožní vymeniť klasickú koreňovú lokalitu [lokality s modernou stránkou.](https://docs.microsoft.com/sharepoint/modern-root-site) Ak chcete pri archivácii pôvodnej lokality vymeniť umiestnenie lokality s inou stránkou, použite možnosť [Invoke-SPOSiteSwap.](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) K dispozícii pre tímovú lokalitu (nie je pripojená ku skupine) aj pre komunikačnú lokalitu.
 
 >[!Important]
-> Neodstraňujte klasickú koreňovú lokalitu a vytvorte modernú komunikačnú lokalitu. Spoločnosť Microsoft to nepodporuje. Odstránením koreňovej lokality budú všetky lokality SharePoint vo vašej organizácii neprístupné pre všetkých používateľov, kým neobnovíte lokalitu alebo nevytvoríte novú lokalitu na rovnakej URL adrese. Túto funkciu budeme komunikovať prostredníctvom centra správ. V najbližšej dobe by ste mali očakávať, že funkcia bude v nájomníkovi zapnutá.
+> Ak chcete vytvoriť modernú komunikačnú lokalitu, neodstránijte klasickú koreňovú lokalitu. Spoločnosť Microsoft túto aplikáciu nepodporuje. Odstránením koreňovej lokality budú všetky lokality SharePoint vo vašej organizácii neprístupné pre všetkých používateľov, kým lokalitu obnoviť alebo vytvoriť novú lokalitu s rovnakou URL adresou. Túto funkciu budeme o tejto funkcii komunikovať prostredníctvom centra správ. Očakávate, že funkcia bude v nájomníkovi zakrátko zapnutá.
 
-## <a name="known-issues-with-swapping-sites"></a>Známe problémy pri výmene lokalít
-- Cieľová lokalita môže počas krátkeho časového obdobia vrátiť chybu not found (HTTP 404).
-- Ak chcete aktualizovať index vyhľadávania, bude potrebné prehľadať obsah. Tu nie je potrebný manuálny krok, tento postup sa vykoná automaticky.
-- Všetko, čo je závislé od statických prepojení (ako je napríklad synchronizácia súborov a OneNote), bude potrebné manuálne opraviť.
-- Lokality programu Project Server možno bude potrebné overiť, aby sa zabezpečilo, že sú stále priradení správne. 
+## <a name="known-issues-with-swapping-sites"></a>Známe problémy s výmenou lokalít
+- Cieľová lokalita môže na krátky čas vrátiť chybu "nenašiel sa" (HTTP 404).
+- Ak chcete aktualizovať index vyhľadávania, obsah sa bude musieť opätovne uchýliť. V tomto prípade nie je potrebný žiadny manuálny krok, táto postup sa vykonáva automaticky.
+- Všetko závislé od "statických" prepojení (napríklad synchronizácia súborov a odstránenie OneNote súborov) bude potrebné manuálne opraviť.
+- Project Na to, aby sa aj naďalej pridruželi správne, možno bude potrebné overiť lokality servera. 

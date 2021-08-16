@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 37a1c97793558c3842f62e43616a022d194611fb
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 67c2cbbb8b66cd4d1f6bce908569cc6a42a860e09f4b17f2d564aba724d0fc41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000587"
 ---
 # <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Získanie prehľadu o používaní e-mailových aplikácií vo vašej organizácii
 
-Tabuľa zostáv na lokalite Microsoft 365 zobrazuje prehľad aktivít v rámci produktov vo vašej organizácii. Ak chcete získať prehľad o aktivitách vykonaných v rámci jednotlivých produktov, môžete prejsť na jednotlivé zostavy na úrovni produktu. Tabuľu môžete napríklad použiť na kontrolu používania aplikácií Microsoft 365 v rámci platforiem. Ak chcete zobraziť zostavy, musíte byť globálnym správcom, globálnym čítačkám alebo čítačkami správ v službe Microsoft 365 alebo správcom služieb Microsoft Exchange, SharePoint, Teams, Team Communications alebo Skypu for Business.
+Tabuľa Microsoft 365 zostavy zobrazuje prehľad o aktivite v produktoch vo vašej organizácii. Ak chcete získať prehľad o aktivitách vykonaných v rámci jednotlivých produktov, môžete prejsť na detaily jednotlivých zostáv na úrovni produktov. Tabuľu môžete použiť napríklad na kontrolu používania Microsoft 365 na jednotlivých platformách. Ak chcete zobraziť zostavy, musíte byť globálnym správcom, globálnym čitateľom alebo čitateľom zostáv v službe Microsoft 365 alebo správcom služieb Microsoft Exchange, SharePoint, Teams Service, Teams Communications alebo Skype for Business.
 
-Správa o *používaní e-mailovej aplikácie* je súčasťou tabule a zobrazuje počet e-mailových aplikácií pripojených k službe Microsoft Exchange Online. Zobrazuje sa aj informácia o verzii aplikácie Microsoft Outlook, ktorá sa používa, aby ste mohli požiadať používateľov o prechod z nepodporovaných verzií na podporované verzie Outlooku.
+Zostava *Používanie e-mailových* aplikácií je súčasťou tabule a zobrazuje počet e-mailových aplikácií pripojených k Microsoft Exchange Online. Zobrazujú sa tu aj informácie o verzii používaných Outlook Microsoft Outlook, takže môžete požiadať používateľov, aby prešli z nepodporovaných na podporované verzie Outlook.
 
-Ak chcete získať prístup k správe o používaní e-mailovej aplikácie, postupujte podľa týchto krokov:
+Ak chcete získať prístup k zostave o používaní e-mailových aplikácií, postupujte takto:
 
-1. V centre spravovania pre Microsoft 365 vyberte položku  >  [použitie](https://go.microsoft.com/fwlink/?linkid=2140342)zostáv.
-2. V rozbaľovacej ponuke **Vybrať zostavu** vyberte položku   >  **Používanie e-mailovej aplikácie** Exchange.
+1. V zozname Centrum spravovania služby Microsoft 365 položku **Používanie**  >  [zostáv](https://go.microsoft.com/fwlink/?linkid=2140342).
+2. V **rozbaľovacej ponuke Vyberte zostavu** vyberte položku Používanie e-Exchange   >  **aplikácie.**
 
-Ďalšie informácie nájdete v téme [interpretácia zostavy e-mailových aplikácií](https://go.microsoft.com/fwlink/?linkid=2140508).
+Ďalšie informácie nájdete v téme [Interpretácia zostavy e-mailových aplikácií.](https://go.microsoft.com/fwlink/?linkid=2140508)

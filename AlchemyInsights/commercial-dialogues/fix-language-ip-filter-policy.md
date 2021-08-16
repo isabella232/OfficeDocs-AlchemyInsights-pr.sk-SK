@@ -1,5 +1,5 @@
 ---
-title: Oprava politiky filtrovania jazyka/IP
+title: Oprava politiky filtrovania jazyka/IP adresy
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7b4cbc70db75af36ce35160f39d06e51e21e7513
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017111"
 ---
-# <a name="fix-languageip-filter-policy"></a>Oprava politiky filtrovania jazyka/IP
+# <a name="fix-languageip-filter-policy"></a>Oprava politiky filtrovania jazyka/IP adresy
 
-Táto správa ovplyvnila vlastnú politiku ochrany pred nevyžiadanou poštou v nájomníkovi. Ak chcete skontrolovať politiku, postupujte takto:
+Toto hlásenie ovplyvnila vlastná politika ochrany pred nevyžiadanou poštou vo vašom nájomníkovi. Ak si chcete politiku prekontrolovať, vykonajte tieto kroky:
 
-1. Prejdite na [centrum dodržiavania súladu pre Office 365 Security &](https://go.microsoft.com/fwlink/p/?linkid=2077143)a potom **prejdite do časti**  >    >  [Ochrana pred nevyžiadanou poštou](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na karte **vlastné** vyberte **predvolenú politiku filtrovania nevyžiadanej pošty** alebo ľubovoľnú inú vlastnú politiku, ktorú ste vytvorili, a potom vyberte položku **upraviť politiku**.
-3. Rozbaľte možnosť **Medzinárodná Nevyžiadaná pošta** a skontrolujte nastavenia.
+1. Prejdite do Centra [Office 365 zabezpečenia & a](https://go.microsoft.com/fwlink/p/?linkid=2077143)potom prejdite na položku Politika správy **hrozieb**  >    >  [– ochrana pred nevyžiadanou poštou](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Na karte **Vlastné** vyberte položku Predvolená politika **filtrovania** nevyžiadanej pošty alebo akúkoľvek inú vlastnú politiku, ktorú ste vytvorili, a potom vyberte položku **Upraviť politiku**.
+3. Rozbaľte možnosť **Medzinárodná nevyžiadaná** pošta a skontrolujte nastavenia.
 
-Ďalšie informácie o konfigurácii politiky filtrovania nevyžiadanej pošty nájdete v téme [Konfigurácia vlastných nastavení politiky filtrovania nevyžiadanej pošty](https://go.microsoft.com/fwlink/?linkid=2101054).
+Ďalšie informácie o konfigurácii politík filtrovania nevyžiadanej pošty nájdete v téme [Konfigurácia nastavení vlastnej politiky filtrovania nevyžiadanej pošty.](https://go.microsoft.com/fwlink/?linkid=2101054)

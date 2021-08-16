@@ -1,5 +1,5 @@
 ---
-title: Pripojenie k schôdzi v Teams
+title: Pripojenie k Teams schôdzí
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054313"
 ---
 # <a name="join-a-meeting-in-teams"></a>Pripojenie k schôdzi v Teams
 
-Ak sa chcete pripojiť k schôdzi cez Teams, najprv nastavte politiky schôdzí a potom prismerte používateľov, aby sa pripojili z uprednostňovaných zariadení:
+Ak sa chcete pripojiť k Teams schôdze, najprv nastavte politiky schôdzí a potom prismerte používateľov, aby sa pripojili z uprednostňovaných zariadení:
 
 - Nastavte politiky schôdzí, ktoré riadia, kto sa bude môcť pripojiť k schôdzi [ako účastníci alebo hostia.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Na zmenu politiky použite rutiny typu cmdlet prostredia Microsoft Teams [PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)    
+- Na Microsoft Teams [powershell použite rutiny typu cmdlet prostredia PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)    
 
 **Poznámka:** Zmeny politiky sa prejavia do 24 hodín.

@@ -1,5 +1,5 @@
 ---
-title: Ďalšie informácie o funkciách nového prehliadača Microsoft Edge
+title: Získajte informácie o funkciách nového Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8226"
-ms.openlocfilehash: 9c139589d1ab6fef122acabe3341259ab3722b03
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: 1ecce6cde278b50c88405911336f24a4d4a59752c661afec62536d6dd824662e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054304"
 ---
-# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>Ďalšie informácie o funkciách nového prehliadača Microsoft Edge
+# <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>Získajte informácie o funkciách nového Microsoft Edge
 
-Microsoft Edge bol postavený s cieľom zabezpečiť kompatibilitu a výkonnosť na svetovej úrovni, zabezpečenie a ochranu osobných údajov, ktoré si zaslúžite, a funkcie, ktoré vám umožnia využiť čo najlepšie z webu:
+Microsoft Edge služba bola vstavaná tak, aby poskytovať kompatibilitu a výkon svetovej triedy, zabezpečenie a súkromie, ktoré si zaslúžite, a funkcie, ktoré vám môžu umožniť čo najlepšie služby na webe:
 
-- **Prehľadávajte s výkonom na svetovej úrovni:** Očakávajte rýchlosť, výkon a kompatibilitu s vašimi obľúbenými lokalitami a príponami.
-- **Stiahnite si teraz alebo počkajte na automatickú aktualizáciu:** Stiahnite si prehliadač alebo aktualizujte PC s Windowsom 10 a získajte nový Microsoft Edge nainštalovaný automaticky.
-- **Jednoduché spustenie:** Importujte obľúbené položky a heslá z iných prehliadačov, aby ste mali všetko, čo potrebujete na jednom mieste.
-- **Ušetrite peniaze s cenovým porovnaním:** Pomocou kolekcií Microsoft Edge môžete porovnať ceny medzi maloobchodníkmi jediným kliknutím.
-- **Prehľadávať Ďalšie informácie o ochrane osobných údajov a zabezpečení:**
-  - **Prevziať kontrolu nad vašimi údajmi:** Pozrite si tému nebezpečných sledovaných, hneď ako si prehliadač zablokuje.
-  - **Buďte v súkromí online:** Ak chcete zabezpečiť, aby sa História prehliadania a vyhľadávania neukladali do vášho konta alebo zariadenia, použite režim InPrivate.
-  - **Udržujte svoje online kontá v bezpečí:** Získajte upozornenie hneď, ako sú vaše poverenia ohrozené.
+- **Prehľadávajte s výkonom svetovej triedy:** Očakávajte rýchlosť, výkon a kompatibilitu so všetkými obľúbenými stránkami a rozšíreniami.
+- **Stiahnite si alebo počkajte na automatickú aktualizáciu:** Stiahnite si teraz prehliadač alebo aktualizujte svoj Windows 10 a získajte nový Microsoft Edge automaticky.
+- **Začnite bez problémov:** Importujte obľúbené položky a heslá z iných prehliadačov, aby ste mali všetko potrebné na jednom mieste.
+- **Ušetrite peniaze s porovnaním cien:** Pomocou Microsoft Edge Kolekcie môžete jediným kliknutím porovnať ceny rôznych predajcov.
+- **Prehľadávanie s ochranou osobných údajov a zabezpečením:**
+  - **Vezmite kontrolu nad údajmi:** Zobrazte si škodlivé trackers hneď po ich zablokovaní prehliadačom.
+  - **Zostaňte v súkromnom režime online:** Pomocou režimu InPrivate skontrolujte, či sa história prehľadávania a vyhľadávania neuložia vo vašom konte ani v zariadení.
+  - **Zabezpečenie online kont:** Dostať oznámenie o tom, že vaše poverenia boli zneužiné.
 
-- **Prehľadávať vo väčšine zariadení:** Prehľadávajte väčšinu zariadení, ktoré bežia na hlavných operačných systémoch.
+- **Prehľadávať vo väčšine zariadení:** Prehľadávajte vo väčšine zariadení, ktoré fungujú v hlavných operačných systémoch.
 
-Ďalšie informácie nájdete v téme [funkcie prehliadača Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2146817).
+Ďalšie informácie nájdete v téme [Funkcie balíka Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2146817)

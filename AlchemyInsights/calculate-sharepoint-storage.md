@@ -1,5 +1,5 @@
 ---
-title: Výpočet ukladacieho priestoru SharePointu
+title: Výpočet SharePoint ukladacieho priestoru
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046443"
 ---
-# <a name="calculate-sharepoint-storage"></a>Výpočet ukladacieho priestoru SharePointu
+# <a name="calculate-sharepoint-storage"></a>Výpočet SharePoint ukladacieho priestoru
 
-**Vzorec ukladacieho priestoru:** 1 TB plus [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 10 GB na licenciu na zakúpený oprávnený plán a akýkoľvek zakúpený doplnok Office **[365 Extra File Storage.](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)**
+**Vzorec ukladacieho priestoru:** 1 TB plus [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 10 GB na licenciu na zakúpený oprávnený plán a akýkoľvek zakúpený **[Office 365](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** ukladací priestor na súbory navyše.
 
-Ďalšie informácie nájdete v téme [Limity ukladacieho priestoru SharePointu podľa plánu.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+Ďalšie informácie nájdete v téme SharePoint [ukladacieho priestoru podľa plánu.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)

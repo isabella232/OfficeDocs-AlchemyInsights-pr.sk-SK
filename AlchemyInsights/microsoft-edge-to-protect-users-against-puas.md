@@ -1,5 +1,5 @@
 ---
-title: Ochrana používateľov pred PUA pomocou prehliadača Microsoft Edge
+title: Ochrana Microsoft Edge puA pomocou funkcie Ochrana pred puA
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000515"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Ochrana používateľov pred PUA pomocou prehliadača Microsoft Edge
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Ochrana Microsoft Edge puA pomocou funkcie Ochrana pred puA
 
-Microsoft Edge verzie 80.0.361.50 a novšie zablokujú sťahovanie potenciálne nechcených aplikácií (PUA) a priradených URL adries. Ak chcete túto funkciu zapnúť, postupujte takto:
+Microsoft Edge verzie 80.0.361.50 a novšie blokujú sťahovanie potenciálne nechcených aplikácií (PUA) a súvisiacich URL adries. Ak chcete zapnúť túto funkciu, vykonajte nasledovné:
 
-1. Prejdite na **položky Nastavenie**  >  **ochrany osobných údajov a služieb** v prehliadači.
+1. Prejdite na **Nastavenia**  >  **Ochrana osobných údajov a** služby v prehliadači.
 
-2. Posuňte sa nadol na časť **služby** a skontrolujte, či je **Filter SmartScreen programu Microsoft Defender** zapnutý a **blokuje potenciálne nechcené aplikácie** .
+2. Posuňte sa nadol **do časti** Služby a **skontrolujte, Microsoft Defender SmartScreen** a **Blokovať potenciálne** nechcené aplikácie sú zapnuté.
 
-    Pri ďalšom zablokovaní funkcie Filter SmartScreen v programe Microsoft Defender sa ho zablokuje a oznámi sa vám zodpovedajúcim spôsobom.
+    Keď nabudúce Microsoft Defender SmartScreen pua, zablokuje ho a podľa toho vás na to upozorní.
 
-    Ďalšie informácie nájdete v téme [blokovanie adries URL súvisiacich s PUA](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Ďalšie informácie nájdete v téme [Blokovanie url adries priradených k balíku PUA.](https://go.microsoft.com/fwlink/?linkid=2133024)
