@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978860"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874554"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Odoslanie e-mailovej správy pomocou sledovania správy
 
-1. Prejdite do Centra [Office 365 zabezpečenia & súladu a](https://go.microsoft.com/fwlink/p/?linkid=2077143)potom prejdite na položku Sledovanie **správ**  >  [toku pošty](https://go.microsoft.com/fwlink/?linkid=2101048).
+1. Prejdite do Centra spravovania Exchange (EAC) na stránke <https://admin.exchange.microsoft.com> \> **Sledovanie správ** \> **toku pošty.**
+
+   Ak chcete prejsť priamo na **stránku sledovania správy,** použite <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Vyberte **položku + Spustiť sledovanie.**
 3. Prejdite si prezentované možnosti. Vyberte príjemcov a odosielateľov a potom podľa potreby upravte rozsah dátumov. Predvolené nastavenia pre ostatné možnosti môžete ponechať.
 4. Vyberte **položku Hľadať**. Zoznam e-mailových správ sa zobrazí na základe kritérií vyhľadávania. Dvakrát kliknite na správu, ktorú chcete odoslať, a potom vyberte položku **Odoslať správu**.
-5. Ďalšie informácie nájdete v [téme Sledovanie správ v Centre & zabezpečenia a dodržiavania súladu.](https://go.microsoft.com/fwlink/?linkid=2101557)
+
+Ďalšie informácie nájdete v téme [Sledovanie správ v modernom EAC.](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac)
