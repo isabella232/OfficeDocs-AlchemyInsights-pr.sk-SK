@@ -1,5 +1,5 @@
 ---
-title: Nie je možné odstrániť fotografie ani súbory zo súborov vo Outlook.com
+title: Fotografie alebo súbory zo súborov na lokalite Outlook.com nie je možné odstrániť
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064327"
 ---
 # <a name="cant-delete-files-or-photos-from-files"></a>Nie je možné odstrániť súbory alebo fotografie zo súborov
 
-V Outlook.com sa v **súboroch** zobrazia súbory a fotografie pripojené k správam v poštovej schránke. Ak chcete odstrániť súbory a fotografie zo súborov, musíte odstrániť e-mailové správy, ku ktorým sú pripojené. Po odstránení správ je potrebné ich odstrániť aj z priečinka Odstránené položky.
+Na lokalite Outlook.com sa **v časti Súbory** zobrazujú súbory a fotografie priložené k správam v poštovej schránke. Ak chcete odstrániť súbory a fotografie zo súborov, musíte odstrániť e-mailové správy, ku ktoré sú priložené. Po odstránení je potrebné správy odstrániť aj z priečinka Odstránené položky.
 
-Ak chcete získať ďalšie informácie, prečítajte si tému [Odstránenie súborov alebo fotografií v Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v [časti Odstránenie súborov alebo fotografií na lokalite Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)

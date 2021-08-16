@@ -1,5 +1,5 @@
 ---
-title: Outlook.com nemôže prijať overovacie kódy
+title: Outlook.com nemôže prijímať overovacie kódy
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064219"
 ---
 # <a name="cant-get-verification-codes"></a>Nie je možné získať overovacie kódy
 
-Ak nie je možné získať prístup k e-mailu alebo telefónnemu číslu, prejdite na stránku [Základy zabezpečenia](https://account.microsoft.com/security) konta Microsoft, na stránke prihlásenia vyberte položku **nemám žiadne z týchto** položiek a postupujte podľa pokynov na nahradenie bezpečnostných informácií.
+Ak nemáte prístup k alternatívnemu e-mailu alebo telefónnemu číslu,  prejdite na stránku Základy zabezpečenia konta Microsoft, na prihlasovacej stránke vyberte položku Nič z toho nemám a postupujte podľa pokynov na nahradenie bezpečnostných informácií. [](https://account.microsoft.com/security)
 
-*Poznámka:* [Aplikácia Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) nevyžaduje internetové pripojenie na poskytnutie overovacieho kódu.
+*Poznámka:* Aplikácia [Microsoft Authenticator na](https://go.microsoft.com/fwlink/?linkid=2016117) poskytnutie overovacieho kódu nevyžaduje internetové pripojenie.
 
-Ďalšie informácie nájdete v téme [informácie o zabezpečení konta Microsoft a overovacie kódy](https://support.microsoft.com/help/12428/).
+Ďalšie informácie nájdete v článku [Bezpečnostné informácie a overovacie kódy konta Microsoft.](https://support.microsoft.com/help/12428/)
