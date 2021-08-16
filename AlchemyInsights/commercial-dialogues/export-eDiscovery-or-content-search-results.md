@@ -1,5 +1,5 @@
 ---
-title: Exportovanie výsledkov vyhľadávania eDiscovery a obsahu
+title: Export výsledkov vyhľadávania eDiscovery alebo vyhľadávania obsahu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988143"
 ---
-# <a name="export-ediscoverycontent-search-results"></a>Exportovanie výsledkov vyhľadávania eDiscovery a obsahu
+# <a name="export-ediscoverycontent-search-results"></a>Export výsledkov vyhľadávania eDiscovery alebo vyhľadávania obsahu
 
-Možno bude potrebné exportovať výsledky vyhľadávania do súboru PST (z e-mailu) alebo do natívnych dokumentov balíka Office (z lokalít SharePoint a OneDrive for Business). Ak áno, postupujte takto:
+Je možné, že budete musieť exportovať výsledky hľadania do súboru PST (z e-mailu) alebo do natívnych Office dokumentov (z SharePoint a OneDrive for Business lokalít). Ak áno, vykonajte nasledovné kroky:
 
-- Skontrolujte, či je vaše konto priradené k príslušným povoleniam na export. Ďalšie informácie nájdete v téme [Priradenie povolenia elektronického vyhľadávania](https://go.microsoft.com/fwlink/?linkid=2102406).
-- Skontrolujte, či váš počítač spĺňa všetky [požiadavky](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Nie všetky prehliadače sú podporované, ako napríklad Chrome.
-- Exportovanie z vyhľadávania obsahu: a. Prejdite do [Centra zabezpečenia & dodržiavania súladu](https://protection.office.com/contentsearch) a kliknite na položku **Hľadať** a potom vyberte položku **vyhľadávanie obsahu**. Na stránke **vyhľadávanie obsahu** vyberte uložené vyhľadávanie.
-    b. Na table s podrobnosťami kliknite v časti **exportovať výsledky do počítača** na položku **Spustiť export**. Ak exportujete viac než 100K poštových schránok, na stiahnutie výsledkov exportu budete musieť použiť prostredie PowerShell. Ďalšie informácie nájdete v téme [exportovanie výsledkov z viac než 100k poštových schránok](https://go.microsoft.com/fwlink/?linkid=2143861).
+- Skontrolujte, či máte v konte priradené správne povolenia na export. Ďalšie informácie nájdete v téme [Priradenie povolenia na eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2102406)
+- Skontrolujte, či váš počítač spĺňa [všetky požiadavky.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Nie všetky prehliadače sú podporované, napríklad Chrome.
+- Ak chcete exportovať z vyhľadávania obsahu: a. Prejdite do Centra [zabezpečenia & súladu a kliknite](https://protection.office.com/contentsearch) na položku Vyhľadávanie **a** potom vyberte položku **Vyhľadávanie obsahu**. Na **stránke Vyhľadávanie** obsahu vyberte uložené vyhľadávanie.
+    b. Na table Podrobnosti vyberte v časti **Export výsledkov do počítača položku** Spustiť **export**. Ak exportujete viac ako 100 000 poštových schránok, na stiahnutie výsledkov exportu bude potrebné použiť prostredie PowerShell. Ďalšie informácie nájdete v téme [Exportovanie výsledkov z viac ako 100 000 poštových schránok.](https://go.microsoft.com/fwlink/?linkid=2143861)
 
-Ďalšie informácie nájdete v téme [exportovanie výsledkov vyhľadávania obsahu](https://go.microsoft.com/fwlink/?linkid=2102118).
+Ďalšie informácie nájdete v téme [Exportovanie výsledkov vyhľadávania obsahu.](https://go.microsoft.com/fwlink/?linkid=2102118)

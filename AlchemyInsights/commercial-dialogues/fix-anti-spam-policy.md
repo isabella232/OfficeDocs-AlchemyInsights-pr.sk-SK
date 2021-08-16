@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749028"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988274"
 ---
 # <a name="fix-anti-spam-policy"></a>Oprava politiky ochrany pred nevyžiadanou poštou
 
-Táto správa ovplyvnila vlastnú politiku ochrany pred nevyžiadanou poštou v nájomníkovi. Ak chcete skontrolovať politiku, postupujte takto:
+Toto hlásenie ovplyvnila vlastná politika ochrany pred nevyžiadanou poštou vo vašom nájomníkovi. Ak si chcete politiku prekontrolovať, vykonajte tieto kroky:
 
-1. Prejdite na [centrum dodržiavania súladu pre Office 365 Security &](https://go.microsoft.com/fwlink/p/?linkid=2077143)a potom **prejdite do časti**  >    >  [Ochrana pred nevyžiadanou poštou](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na karte **vlastné** vyberte **predvolenú politiku filtrovania nevyžiadanej pošty** alebo ľubovoľnú inú vlastnú politiku, ktorú ste vytvorili, a potom vyberte položku **upraviť politiku**.
-3. Rozbaľte možnosť **Vlastnosti nevyžiadanej pošty** a skontrolujte **značku ako nastavenia nevyžiadanej pošty** .
+1. Prejdite do Centra [Office 365 zabezpečenia & a](https://go.microsoft.com/fwlink/p/?linkid=2077143)potom prejdite na položku Politika správy **hrozieb**  >    >  [– ochrana pred nevyžiadanou poštou](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Na karte **Vlastné** vyberte položku Predvolená politika **filtrovania** nevyžiadanej pošty alebo akúkoľvek inú vlastnú politiku, ktorú ste vytvorili, a potom vyberte položku **Upraviť politiku**.
+3. Rozbaľte možnosť **Vlastností nevyžiadanej** pošty a skontrolujte nastavenia **Označiť ako nevyžiadanú** poštu.
 
-Ďalšie informácie o konfigurácii politiky filtrovania nevyžiadanej pošty nájdete v téme [Konfigurácia vlastných nastavení politiky filtrovania nevyžiadanej pošty](https://go.microsoft.com/fwlink/?linkid=2101054).
+Ďalšie informácie o konfigurácii politík filtrovania nevyžiadanej pošty nájdete v téme [Konfigurácia nastavení vlastnej politiky filtrovania nevyžiadanej pošty.](https://go.microsoft.com/fwlink/?linkid=2101054)

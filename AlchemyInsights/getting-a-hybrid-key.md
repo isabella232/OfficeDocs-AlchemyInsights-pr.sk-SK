@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706862"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056541"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Získanie hybridného kľúča servera Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>Získanie Exchange hybridného kľúča
 
-Ak chcete prepojiť lokálnu organizáciu s Exchangeom online v službe Microsoft 365, je potrebné nastaviť aspoň jeden Exchange Server v lokálnej organizácii. Tento server sa používa na vytvorenie hybridného nasadenia spájajúceho lokálnu organizáciu servera Exchange so službou Exchange Online. Ak chcete získať hybridný kľúč pre tento server, postupujte podľa krokov v [Sprievodcovi distribúcia hybridného kódu Product Key pre Exchange](https://aka.ms/hybridkey).
+Ak chcete pripojiť lokálnu organizáciu k Exchange Online v Microsoft 365, musíte vo svojej lokálnej organizácii nastaviť aspoň jeden Exchange server. Tento server sa používa na vytvorenie hybridného nasadenia, ktoré pripojí lokálnu organizáciu Exchange k serveru Exchange Online. Ak chcete získať hybridný kľúč pre tento server, postupujte podľa krokov uvedených [v Exchange Sprievodcu distribúciou hybridného product key.](https://aka.ms/hybridkey)
   

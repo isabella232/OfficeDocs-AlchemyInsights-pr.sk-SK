@@ -1,5 +1,5 @@
 ---
-title: Správa povolení delegátov pre jeden priečinok v Outlooku pre Mac
+title: Spravovanie povolení delegátov pre jeden priečinok v Outlook pre Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 1d6e8c916a6910e4d0ad5fc3e8395d25399389fd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066811"
 ---
-# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Správa povolení delegátov pre jeden priečinok v Outlooku pre Mac
+# <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>Spravovanie povolení delegátov pre jeden priečinok v Outlook pre Mac
 
 1. Na navigačnej table vyberte priečinok, ktorý chcete zmeniť.
-2. Na karte **Usporiadať** vyberte položku **povolenia** v kalendári a vyberte položku **povolenia pre priečinok** v aplikácii Pošta alebo ľudia.
+2. Na karte **Usporiadať** vyberte položku Povolenia **v kalendári** a potom vyberte položku **Povolenia pre priečinok** v pošte alebo v časti Ľudia.
 3. Kliknite na meno osoby, ktorej povolenia chcete zmeniť.
-4. V zozname **úroveň povolení** vyberte požadovanú úroveň prístupu. Jednotlivé úrovne povolení sa automaticky vyplnia na základe vášho výberu v zozname.
+4. V **zozname Úroveň** povolení vyberte tú úroveň prístupu, ktorú chcete použiť. Úrovne jednotlivých povolení sa automaticky vypĺňajú na základe vášho výberu v zozname.
 
-Ak chcete prispôsobiť úrovne povolení, začiarknite políčka požadovaných položiek a potom v časti **Upraviť položky** a **odstrániť položky** vyberte požadovanú úroveň povolení.
+Ak chcete prispôsobiť úrovne povolení, začiarknite políčka pri položkách, ktoré potrebujete, a potom v časti Upraviť **položky** a Odstrániť položky vyberte želané úrovne povolení.
 
 > [!NOTE]
-> Ak nastavíte úroveň povolení na možnosť **žiadne**, delegát zostane v zozname, ktorý vám umožní neskôr rýchlo obnoviť povolenia. Ďalšie informácie o úrovniach povolení nájdete v téme [Zdieľanie a delegovanie](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).
+> Ak nastavíte úroveň povolení na **možnosť Žiadne,** delegát zostáva v zozname, ktorý umožňuje neskôr povolenia rýchlo obnoviť. Informácie o úrovniach povolení nájdete v téme Informácie [o zdieľaní a delegovaní](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).

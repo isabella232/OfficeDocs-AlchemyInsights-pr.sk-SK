@@ -1,5 +1,5 @@
 ---
-title: Čo robiť, ak nie je možné vytvoriť tím v aplikácii Microsoft teams
+title: Čo robiť, ak nemôžete vytvoriť tím v Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003963"
 - "7019"
-ms.openlocfilehash: 287416aac9034104272b4ddb453be04b2488f2f7
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: 439f00147f7d643fbb77fc4107c3664a4f4e0d6a58d31d2a5a33599fab16185f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048603"
 ---
-# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Čo robiť, ak nie je možné vytvoriť tím v aplikácii Microsoft teams
+# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Čo robiť, ak nemôžete vytvoriť tím v Microsoft Teams
 
-Požiadajte správcu tímu, aby vykonaním týchto krokov:
+Požiadajte Teams o tieto kroky:
 
-1. Vytvorte alebo zmeňte nastavenie skupiny zabezpečenia organizácie v službe Microsoft 365.
-2. Pridajte si do tejto skupiny zabezpečenia.
+1. Vytvorte alebo zmeňte nastavenia skupiny zabezpečenia organizácie v Microsoft 365.
+2. Pridajte vás do tejto skupiny zabezpečenia.

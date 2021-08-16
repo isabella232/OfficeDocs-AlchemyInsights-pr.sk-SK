@@ -1,5 +1,5 @@
 ---
-title: Zisťovanie lokality
+title: Zisťovanie lokalít
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
-ms.translationtype: MT
+ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50694558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030773"
 ---
-# <a name="do-site-discovery"></a>Zisťovanie lokality
+# <a name="do-site-discovery"></a>Zisťovanie lokalít
 
-Ak vaša organizácia stále používa staršie webové aplikácie a plány na používanie režimu Internet Explorer (ktoré väčšina zákazníkov robí), mali by ste vykonať ďalšie vyhľadávanie lokalít.
+Ak vaša organizácia stále používa staršie webové aplikácie a plánuje používať režim Internet Explorera (čo väčšina zákazníkov má), mali by ste urobiť niekoľko ďalších zisťovaní lokalít.
 
-**Už ste nasadili staršiu verziu prehliadača Microsoft Edge**
+**Už ste nasadili staršiu verziu Microsoft Edge**
 
-Ak ste už zoznam podnikových lokalít nakonfigurovali tak, aby fungoval pre staršiu verziu prehliadača Microsoft Edge, zisťovanie lokality je takmer hotové. Je možné, že je potrebné pridať neutrálne lokality.
+Ak ste už nakonfigurovali zoznam podnikových lokalít na prácu so staršou verziou balíka Microsoft Edge, zisťovanie lokality je už takmer hotové. Možno budete musieť urobiť len pridanie neutrálnych lokalít.
 
-Neutrálne lokality sú zvyčajne lokality, ktoré poskytujú jediné prihlásenie (SSO). Ak prejdete na neutrálne miesto v prehliadači Microsoft Edge, potom sa chcete vrátiť do prehliadača Microsoft Edge. Ak prejdete na neutrálnu lokalitu v režime Internet Explorer, v režime Internet Explorer sa chcete overiť.
+Neutrálne lokality sú zvyčajne lokality, ktoré poskytujú jediné prihlásenie. Ak prejdete na neutrálnu lokalitu z Microsoft Edge, potom chcete zostať pri Microsoft Edge overiť. Ak prejdete na neutrálnu lokalitu v režime Internet Explorera, potom chcete zostať v režime Internet Explorera a overiť ich.
 
-Identifikujte všetky SSO alebo iné neutrálne lokality, ktoré používate, a pridajte ich do zoznamu podnikových lokalít.
+Identifikujte všetky neutrálne lokality alebo lokality, ktoré používate, a pridajte ich do zoznamu podnikových lokalít.
 
-**Internet Explorer je predvoleným prehliadačom**
+**Predvolený prehliadač je Internet Explorer**
 
-Ak teraz používate Internet Explorer, možno neviete, ktoré lokality boli inovované na moderné webové štandardy a ktoré stále vyžadujú Internet Explorer. Tieto lokality budete chcieť nájsť a pridať do zoznamu podnikových lokalít, aby ste mohli používať režim Internet Explorera len pre tieto lokality.
+Ak teraz používate Iba Internet Explorer, možno neviete, ktoré lokality sú inovované na moderné webové štandardy a ktoré stále vyžadujú Internet Explorer. Tieto lokality budete chcieť vyhľadať a pridať do zoznamu podnikových lokalít, aby ste mohli používať režim Internet Explorera iba pre tieto lokality.
 
 > [!NOTE]
-> [Zisťovanie podnikovej lokality](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) zistí lokality, ktoré môžu potrebovať režim programu Internet Explorer. Môže zhromažďovať údaje v počítačoch s Windowsom Internet Explorerom 8 cez Internet Explorer 11 vo Windowse 10, Windowse 8,1 alebo Windowse 7.
+> [Podnikové zisťovanie](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) lokalít vyhľadáva lokality, ktoré by mohli potrebovať režim Internet Explorera. Môže zhromažďovať údaje v počítačoch s Windows Internet Explorerom 8 prostredníctvom Internet Explorera 11 v Windows 10, Windows 8.1 alebo Windows 7.
 
 **Analýza údajov**
 
-Po zhromaždení údajov lokality odporúčame, aby ste údaje analyzovali nasledujúcim procesom:
+Po zozbieraní údajov lokality odporúčame na analýzu údajov vykonať tieto štyri kroky:
 1. Zoraďte údaje podľa domény a potom podľa URL adresy.
-2. Definujte hranice aplikácie, ktorá sa má konfigurovať v režime Internet Explorer. Chcete zahrnúť všetky lokality a webové ovládacie prvky, ktoré definujú aplikáciu, ale nechcete zahrnúť ďalšie lokality a ovládacie prvky. Niektoré lokality môžu byť jednoduché, pretože *https://contoso.com/app1* iné môžu vyžadovať definovanie viacerých lokalít a stránok.
-3. Otestujte aplikáciu a overte, či nefungovala natívne. Mnoho lokalít ponúkne moderný obsah pri zisťovaní moderného prehliadača a ponúka iba starší obsah pri zisťovaní programu Internet Explorer.
-4. Ak zlyhá testovanie, pridajte aplikáciu do zoznamu podnikových lokalít.
+2. Definujte hranice aplikácie, ktoré sa majú konfigurovať pre režim Internet Explorera. Chcete zahrnúť všetky lokality a webové ovládacie prvky, ktoré definujú aplikáciu, ale nechcete do nich zahrnúť ďalšie lokality a ovládacie prvky. Niektoré lokality môžu byť rovnako jednoduché, *https://contoso.com/app1* zatiaľ čo iné môžu vyžadovať definovanie viacerých lokalít a stránok.
+3. Otestujte aplikáciu a overte, či nefunguje natívne. Mnohé lokality budú ponúkať moderný obsah, keď zistia moderný prehliadač a ponúknu starší obsah len vtedy, keď zistia Internet Explorer.
+4. Ak aplikácia zlyhá, pridajte ju do zoznamu podnikových lokalít.
 
 > [!NOTE]
-> Ako najvhodnejší postup sa zoskupujú všetky lokality, ktoré obsahujú aplikáciu. Týmto spôsobom je pri inovácii aplikácie jednoduchšie odstrániť celú lokalitu z režimu Internet Explorer a začať používať moderný prehliadač pre danú aplikáciu.
+> Najlepšie je zoskupiť všetky lokality, ktoré tvoria aplikáciu. Týmto spôsobom je pri inovácii aplikácie jednoduchšie odstrániť celú lokalitu z režimu Internet Explorera a začať používať moderný prehliadač pre túto aplikáciu.
 
-Po dokončení vyhľadávania lokality a analyzovaní údajov môžete začať pozerať na svoju stratégiu kanála.
+Po zistení lokality a analýze údajov môžete začať s analýze stratégie kanála.
 

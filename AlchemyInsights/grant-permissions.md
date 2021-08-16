@@ -1,5 +1,5 @@
 ---
-title: Udelenie povolení
+title: Udeliť povolenia
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056397"
 ---
-# <a name="grant-permissions"></a>Udelenie povolení
+# <a name="grant-permissions"></a>Udeliť povolenia
 
-1. **Udelenie súhlasu správcu na úrovni nájomníka**: [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) informácie o udelení súhlasu správcu v rámci celého nájomníka nájdete v téme podrobné pokyny na udelenie súhlasu správcu v celom nájomníkovi na portáli Azure pomocou prostredia Azure AD PowerShell alebo z výzvy na súhlas.
-1. **Udelenie súhlasu v mene konkrétneho používateľa**: namiesto udelenia súhlasu pre celú organizáciu môže správca tiež použiť [rozhranie Microsoft Graph API](https://docs.microsoft.com/graph/use-the-api) na udelenie súhlasu s delegovanými povoleniami v mene jedného používateľa. Ďalšie informácie nájdete v téme [získanie prístupu v mene používateľa](https://docs.microsoft.com/graph/auth-v2-user).
+1. Udelenie súhlasu správcu pre všetkých [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) nájomníkov: Podrobné pokyny na udelenie súhlasu správcu pre všetkých nájomníkov nájdete v téme Udelenie súhlasu správcu pre všetkých nájomníkov aplikácii, v téme Udelenie súhlasu správcu pre všetkých nájomníkov z portálu Azure, služby Azure AD PowerShell alebo z výzvy na súhlasiť.
+1. **Udelenie súhlasu** v mene konkrétneho používateľa: Namiesto udeľovania súhlasu pre celú organizáciu môže správca použiť aj rozhranie [MICROSOFT Graph API](https://docs.microsoft.com/graph/use-the-api) na udelenie súhlasu s delegovanými povoleniami v mene jedného používateľa. Ďalšie informácie nájdete v [téme Získanie prístupu v mene používateľa.](https://docs.microsoft.com/graph/auth-v2-user)

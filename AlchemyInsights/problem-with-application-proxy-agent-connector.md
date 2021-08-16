@@ -1,5 +1,5 @@
 ---
-title: Mám problém so zásuvkou agenta proxy aplikácie
+title: Mám problém s konektorom agenta proxy aplikácie
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039729"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Mám problém so zásuvkou agenta proxy aplikácie
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Mám problém s konektorom agenta proxy aplikácie
 
-1. Konektor proxy aplikácie služby Microsoft Azure Active Directory je vnútorná súčasť domény, ktorá používa odchádzajúce pripojenia na vytvorenie pripojenia z koncového bodu cloudu na internú doménu.
-1. Ak máte problémy s inštaláciou konektora agenta proxy aplikácie, postupujte podľa [týchto krokov](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) na riešenie problémov.
-1. Ak používate službu proxy aplikácie na vzdialený prístup k lokálnej webovej aplikácii, ale máte problémy s pripojením k aplikácii, použite [Tento článok](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) , ktorý vám pomôže vyriešiť problémy s konektormi servera proxy aplikácie Azure Active Directory (Azure AD).
+1. Microsoft Azure Active Directory Konektor proxy aplikácie je interná súčasť domény, ktorá používa výstupné pripojenia na vytvorenie pripojenia z cloudového koncového bodu k internej doméne.
+1. Ak máte problémy s inštaláciou konektora agenta proxy aplikácie, postupujte [podľa týchto](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) krokov na riešenie problémov.
+1. Ak na vzdialený prístup k lokálnej webovej aplikácii používate službu proxy aplikácie, ale máte problémy [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) s pripojením k aplikácii, tento článok vám pomôže pri riešení problémov s proxy konektormi aplikácie Azure Active Directory (Azure AD).

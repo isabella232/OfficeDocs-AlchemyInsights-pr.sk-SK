@@ -14,22 +14,22 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 551fc98b2b2053811a3b282edd03d6245ed7df26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ba373dc3a21e75870e30f6dd3fd60223738aab7b72e721cf7a1067aa69d829ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030728"
 ---
 # <a name="document-library-faq"></a>Knižnica dokumentov: najčastejšie otázky
 
 **Riešenie problémov s knižnicami dokumentov:**
 
-Prejdite na [riešenie problémov v SharePointe Online](https://docs.microsoft.com/sharepoint/troubleshoot/online) a položku Filtrovať podľa názvu alebo manuálne prejdite na články v časti Zoznamy a knižnice.
+Prejdite na [SharePoint riešenie problémov online](https://docs.microsoft.com/sharepoint/troubleshoot/online) a položku Filtrovať podľa názvu alebo manuálne prejdite na články v časti Zoznamy a knižnice.
 
 **Ďalšie informácie o knižniciach dokumentov:**
 
-- [Vytvorenie knižnice dokumentov v SharePointe](https://support.office.com/article/Create-a-document-library-in-SharePoint-306728fe-0325-4b28-b60d-f902e1d75939)
+- [Vytvorenie knižnice dokumentov v SharePoint](https://support.office.com/article/Create-a-document-library-in-SharePoint-306728fe-0325-4b28-b60d-f902e1d75939)
 - [Nahratie súborov do knižnice](https://support.office.com/article/upload-files-to-a-library-da549fb1-1fcb-4167-87d0-4693e93cb7a0)
 - [Úprava povolení pre zoznam alebo knižnicu](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 - [Premiestnenie alebo kopírovanie priečinka, súboru alebo prepojenia v knižnici dokumentov](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc)
