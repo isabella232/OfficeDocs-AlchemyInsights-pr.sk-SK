@@ -1,5 +1,5 @@
 ---
-title: Technická podpora pre Microsoft Obchod
+title: Microsoft Store Podpora
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005680"
 - "9751"
-ms.openlocfilehash: 87c5c263e138e0ee025248dc074b84c24496df0e
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c93bceab8d576f1658039f171ff4cf44a279b26c4773b8670cdad63f27bafbc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066271"
 ---
-# <a name="microsoft-store-support"></a>Technická podpora pre Microsoft Obchod
+# <a name="microsoft-store-support"></a>Microsoft Store Podpora
 
-Načúvame a chceme vám pomôcť. Ak potrebujete pomoc pri vyhľadávaní informácií o nákupe produktov, stave objednávky, problémoch s fakturáciou, špeciálnych akciách, vyhľadávaní informácií o produkte alebo podpore spoločnosti Microsoft Store, prečítajte si tému [kontaktovanie podpory pre Microsoft Obchod](https://support.microsoft.com/account-billing/contact-microsoft-store-support-4f615f2a-6bbd-fd69-6695-ae213d63eef0).
+Počúvame vás a chceme vám pomôcť. Ak potrebujete pomoc s hľadaním informácií o zakúpení produktu, stave objednávky, problémoch s fakturáciou, špeciálnych propagačných akciách, vyhľadaní informácií o produkte alebo o podpore pre Microsoft Store, pozrite si časť Kontaktovanie technickej podpory [Microsoft Store technickej podpory.](https://support.microsoft.com/account-billing/contact-microsoft-store-support-4f615f2a-6bbd-fd69-6695-ae213d63eef0)
 
-Ďalšie informácie o novo vydaných zariadeniach alebo pripravovaných produktoch spoločnosti Microsoft nájdete v téme [Microsoft Store](https://www.microsoft.com/?ql=1).
+Ďalšie informácie o nových vydaných zariadeniach a pripravovaných produktoch od spoločnosti Microsoft nájdete v [Microsoft Store.](https://www.microsoft.com/?ql=1)
 
 Ďakujeme, že ste zákazníkom spoločnosti Microsoft.

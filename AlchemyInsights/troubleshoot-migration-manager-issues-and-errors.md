@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov a chýb v správcovi migrácie
+title: Riešenie problémov a chýb správcu migrácie
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "7915"
-ms.openlocfilehash: 51e97fec700c239653a0da77ae879192697438e2
-ms.sourcegitcommit: 2500f4bfdf2383a968bd43b5d22286ef952093bf
-ms.translationtype: MT
+ms.openlocfilehash: 6b659ee67d00a9e225b438a063592b1e04d36c93149c113d302cb56e474db3a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021071"
 ---
-# <a name="troubleshoot-migration-manager-issues-and-errors"></a>Riešenie problémov a chýb v správcovi migrácie
+# <a name="troubleshoot-migration-manager-issues-and-errors"></a>Riešenie problémov a chýb správcu migrácie
 
-Ak máte problémy alebo chyby pri používaní správcu migrácie, navštívte stránku [Riešenie problémov a chyby správcu migrácie](https://docs.microsoft.com/sharepointmigration/mm-troubleshoot).
+Ak máte pri používaní správcu migrácie problémy alebo chyby, navštívte lokalitu Riešenie problémov a chýb [správcu migrácie.](https://docs.microsoft.com/sharepointmigration/mm-troubleshoot)
