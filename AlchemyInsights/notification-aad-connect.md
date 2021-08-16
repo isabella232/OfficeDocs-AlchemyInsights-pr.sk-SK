@@ -1,5 +1,5 @@
 ---
-title: Pripájanie k upozorneniam AAD
+title: Oznámenie pre AAD Pripojenie
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9326"
-ms.openlocfilehash: 832c9dd587cb023b5b1d87e905acb123df34237f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b8713700ee4fc8863a269c99b92954e1df45e1e647c491fb9b439ab83c49f2ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097321"
 ---
-# <a name="notification-aad-connect"></a>Pripájanie k upozorneniam AAD
+# <a name="notification-aad-connect"></a>Oznámenie pre AAD Pripojenie
 
-- Uistite sa, že máte oprávnenie na vykonanie operácie. Globálni správcovia majú predvolene prístup. Okrem toho môžete použiť [riadenie prístupu na základe rolí](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) na delegovanie povolenia na registráciu prispievateľovi.
-- Uistite sa, že sú povolené požadované koncové body a nie je blokovaný v dôsledku brány firewall. Podrobnosti nájdete v téme [požiadavky](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Uistite sa, že máte oprávnenie vykonávať operáciu. Globálni správcovia majú predvolene prístup. Okrem toho môžete použiť prístupový ovládací [prvok založený na rolách na](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) delegovanie registračného povolenia prispievateľa.
+- Zabezpečte, aby boli požadované koncové body povolené a nie sú blokované pre bránu firewall. Podrobnosti nájdete v časti [požiadavky](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
 - Registrácia môže zlyhať z dôvodu odchádzajúcej komunikácie, ktorá je podrobená kontrole SSL prostredníctvom sieťovej vrstvy.
-- Skontrolujte, či ste overili nastavenie oznámení pre službu Azure AD Connect Health a skontrolujte nastavenie. Ak chcete zistiť, ako nakonfigurovať nastavenia oznámení pre oznámenia o stave pripojenia služby Azure AD, pozrite si túto [príručku](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations).
-- Ak chcete získať ďalšie informácie o zostave synchronizácie so službou AAD Connect Health a o tom, ako si ju stiahnuť, pozrite si tému [synchronizácia na úrovni objektov](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Skontrolujte nastavenia oznámení služby Azure AD Pripojenie Stav a skontrolujte svoje nastavenie. Ak chcete zistiť, ako konfigurovať nastavenia oznámení pre oznámenia služby Azure AD Pripojenie Stav, pozrite si túto [príručku.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations)
+- Ďalšie informácie o zostave synchronizácie služby AAD Pripojenie Health a o tom, ako ju stiahnuť, nájdete v téme Správa o [synchronizácii na úrovni objektov.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Riešenie problémov s aplikáciou AAD Connect Health nájdete [v príručke na riešenie problémov s funkciou AAD pripojenie upozornení o stave údajov o zdraví](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) a v prípade najčastejšie kladených otázok sa nachádzajú v téme [bežné problémy pri inštalácii](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Ak chcete riešiť problémy s upozorneniami na stav služby AAD Pripojenie, postupujte podľa príručky na riešenie problémov s upozorneniami na stav a upozornení na stav [AAD Pripojenie](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) pre bežné otázky nájdete v téme Bežné otázky týkajúce sa inštalácie služby [AAD Pripojenie Health.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)

@@ -1,5 +1,5 @@
 ---
-title: Problémy s pohľadávkami a atribútmi tokenu
+title: Problémy s nárokmi a atribútmi tokenu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012899"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Problémy s pohľadávkami a atribútmi tokenu
+# <a name="issues-with-token-claims-and-attributes"></a>Problémy s nárokmi a atribútmi tokenu
 
-**Aktualizácia, konfigurovanie alebo odstránenie tokenov pohľadávok**
+**Aktualizácia, konfigurácia alebo odstránenie nárokov tokenov**
 
-1. Pomocou služby Azure Active Directory (Azure AD) môžete [prispôsobiť typ deklarácie pre nárok na rolu](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) v tokene odpovede, ktorý dostanete po povolení aplikácie.
-2. Vývojári aplikácií môžu vo svojich aplikáciách Azure AD použiť voliteľné nároky na určenie tvrdení, ktoré chcú v tokenoch odoslaných do ich aplikácie. Ďalšie informácie nájdete v téme [poskytovanie voliteľných nárokov v aplikácii](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-3. [Konfigurácia skupinových pohľadávok pre aplikácie so službou Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
-4. Ak používate bezproblémové jediné prihlásenie v aplikácii, pozrite si tému [Prispôsobenie pohľadávok vydaných v tokene SAML pre podnikové aplikácie](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
+1. Pomocou služby Azure Active Directory (Azure AD) [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) môžete prispôsobiť typ nároku na uplatnenie nároku na rolu v tokene odpovede, ktorý dostanete po oprávnení aplikácie.
+2. Vývojári aplikácií môžu vo svojich aplikáciách Azure AD použiť voliteľné nároky na určenie toho, ktoré nároky chcú v tokenoch odoslaných do ich aplikácie. Ďalšie informácie nájdete v téme [Poskytovanie voliteľných nárokov vo vašej aplikácii.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+3. [Konfigurácia skupinových nárokov na aplikácie pomocou Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. Ak sa vo vašej aplikácii používa bezproblémové jediné prihlásenie, pozrite si časť Prispôsobenie nárokov [vydaných v tokene SAML pre podnikové aplikácie.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
-**Priradenie atribútov pohľadávok**
+**Priradenie atribútov reklamácie**
 
-1. Ak chcete konfigurovať politiku priradenia pohľadávok pomocou prostredia PowerShell, pozrite si tému [Prispôsobenie pohľadávok emitovaných tokenmi pre konkrétnu aplikáciu v nájomníkovi (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-2. Atribúty prípony adresárovej schémy poskytujú spôsob ukladania ďalších údajov v službe Azure Active Directory na objekty používateľa a iné objekty adresárov, ako sú napríklad skupiny, Podrobnosti o nájomníkovi, princípy služby. Na vyžarovanie pohľadávok do aplikácií sa môžu použiť len atribúty prípony na používateľských objektoch. [Používanie atribútov prípony v adresárových schémach v žiadostiach](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) popisuje, ako používať atribúty prípony adresárovej schémy na odosielanie používateľských údajov do aplikácií v tokenových pohľadávkach.
+1. Ak chcete konfigurovať politiku priraďovania nárokov pomocou prostredia PowerShell, pozrite si časť Prispôsobenie nárokov, ktoré sa vynechajú v rámci tokenov pre konkrétnu aplikáciu [v nájomníkovi (verzia Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+2. Atribúty prípony schémy adresára poskytujú spôsob ukladania ďalších údajov vo Azure Active Directory objektoch používateľov a iných objektoch adresárov, ako sú napríklad skupiny, podrobnosti o nájomníkovi, hlavné mená služieb. Pri nárokoch na nároky na aplikácie možno v používateľských objektoch použiť iba rozšírené atribúty. [Použitie atribútov prípony adresára v nárokoch](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) popisuje, ako používať atribúty prípony adresára na odosielanie používateľských údajov do aplikácií v nárokoch tokenov.
 
-Ďalšie informácie o tokenových pohľadávkach nájdete v témach:
+Ďalšie informácie o nárokoch tokenov nájdete v téme:
 
-- [Pohľadávky v accessových tokenoch](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
+- [Nároky v prístupových tokenoch](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
 - [Nároky v id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Požiadavky](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) , ktoré možno očakávať v tokenoch identifikácie a prístupových tokenoch vydaných službou Azure AD B2C
-- [Odkaz na deklaráciu SAML tokenu](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
+- [Nároky,](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) ktoré môžete očakávať v ID tokenoch a prístupových tokenoch vydaných Azure AD B2C
+- [Odkaz na nároky tokenu SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
