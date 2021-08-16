@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4855d71152a158b94a19c36159b1ea9b055f626c680c43c875de1f258329c96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029387"
 ---
 # <a name="how-to-enroll-devices"></a>Registrácia zariadení
 
@@ -25,7 +25,7 @@ Nižšie sú uvedené základné informácie o registrácii:
 
 - Ďalšie informácie o registrácii služby Intune nájdete v téme [Čo je registrácia zariadenia v intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Podrobnejšie informácie o registrácii pre konkrétne platformy, príručky s podrobnými návodmi a kurzy nájdete v téme Registrácia [zariadení na portáli Microsoft Intune.](https://docs.microsoft.com/mem/intune/enrollment/)
+- Podrobnejšie informácie o registrácii pre konkrétne platformy, príručky s podrobnými návodmi a kurzy nájdete v téme Registrácia zariadení [Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) portáli.
 
 **Riešenie problémov s registráciu zariadenia**
 
@@ -33,9 +33,9 @@ Nižšie sú uvedené základné informácie o registrácii:
 
 - [Riešenie problémov s zaregistrovaním zariadenia so systémom iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Riešenie problémov s registráciu zariadenia s Windowsom](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Riešenie Windows problémov s registráciu zariadenia](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Riešenie problémov s automatickou registráciu vo Windowse 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Riešenie Windows 10 automatickej registrácie](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
 - [Riešenie problémov so zariadením s Androidom Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
