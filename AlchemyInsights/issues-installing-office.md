@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013151"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320770"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Riešenia problémov pri inštalácii balíka Office
 
@@ -30,7 +30,8 @@ Vyskúšajte tieto riešenia na vyriešenie problémov s balíkom Office:
 - Vyčistite akékoľvek predchádzajúce stopy po balíku Office a znova ho nainštalujte pomocou nástroja Support and Recovery Assistant (SaRA). 
 
     - Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy). Po otvorení v časti **Odinštalovať produkty Office** vyberte verziu, ktorú chcete odinštalovať (ak chcete) a kliknite na tlačidlo **Ďalej**. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač. Po reštartovaní počítača sa nástroj SaRA automaticky znova otvorí a dokončí proces odinštalovania.
-    - [Preinštalujte Office](https://aka.ms/sara-officeinstall) pomocou nástroja SaRA. **Poznámka**: Ak chcete nainštalovať Visio alebo Project pomocou nástroja SaRA, použite možnosti [Inštalovať Visio](https://aka.ms/SaRA-VisioSetupScenario) alebo [Inštalovať Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - [Preinštalujte Office](https://aka.ms/sara-officeinstall) pomocou nástroja SaRA. 
+    **Poznámka**: Ak chcete nainštalovať Visio alebo Project pomocou nástroja SaRA, použite možnosti [Inštalovať Visio](https://aka.ms/SaRA-VisioSetupScenario) alebo [Inštalovať Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - Nainštalujte Office pomocou [offline inštalátora balíka Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967960"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898335"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Vyhľadanie konkrétnej správy v karanténe
 
-1. Prejdite do Centra [zabezpečenia & dodržiavania súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Prejdite do **karantény na správu**  >    >  **hrozieb a potom na možnosť Karanténa**.
-3. Vyberte **položku Hľadať**.
-4. Začiarknutím políčok vedľa podmienok môžete vybrať ľubovoľnú kombináciu podmienok (zástupné znaky v tejto dobe nie je možné použiť).
+1. Na portáli Microsoft 365 Defender prejdite do <https://security.microsoft.com> karantény e-mailovej **& na** \> **revíziu e-mailu.** \> 
+
+   Ak chcete prejsť priamo na stránku **Karanténa,** použite <https://security.microsoft.com/quarantine> .
+
+2. Na stránke **Karanténa** overte, či je **vybratá karta** E-mail, a potom kliknite na položku **Filtrovať**.
+3. Výberom ľubovoľnej kombinácie vlastností správu filtrujte a vyhľadajte.
+
+Ďalšie informácie sa nachádzajú v týchto témach:
+
+- [Vyhľadanie a uvoľnenie správ v karanténe ako používateľa](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Spravovanie správ a súborov v karanténe ako správca](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

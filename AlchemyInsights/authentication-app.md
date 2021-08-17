@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082957"
 ---
 # <a name="authentication-app"></a>Aplikácia na overovanie
 
@@ -30,10 +30,10 @@ Ak ste globálny správca, pomocou diagnostických nástrojov na prihlásenie m�
 
 **Skontrolujte scenár, ktorý je k dispozícii:**
 
-1. Ak sa používateľovi v aplikácii Microsoft Authenticator nezobrazuje oznámenie bez oznámenia, overte, či sa nezobrazuje v časti Zablokovaní používatelia mfa, ako je to popísané v časti Blokovanie a [odblokovanie používateľov.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Ak používateľ nie je zablokovaný pre MFA, ale nedoručuje sa upozornenie, môže otvoriť aplikáciu Microsoft Authenticator, ktorá vytiahne čakajúce žiadosti o schválenie.
+1. Ak sa používateľovi v aplikácii na overenie Microsoft Authenticator nezobrazuje oznámenie, ako je to popísané v časti Blokovanie a odblokovanie používateľov, overte, či sa v mfa [blokovaných používateľoch nezobrazuje.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Ak používateľ nie je zablokovaný pre MFA, ale nedoručil oznámenie, môže otvoriť aplikáciu Microsoft Authenticator, ktorá vytiahne čakajúce žiadosti o schválenie.
 1. Ako alternatívny spôsob prihlásenia môže používateľ kliknúť aj na položku Prihlásiť sa iným spôsobom a vybrať si z mojej mobilnej aplikácie overovací kód.
-1. Aplikácia Microsoft Authenticator je jediným dostupným spôsobom pre mnohých používateľov. [Prečítajte si ďalšie informácie o predvolených nastaveniach](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)zabezpečenia, najčastejšie [otázky o aplikácii Authenticator a](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) zistite, ako ich vyriešiť.
+1. Aplikácia Microsoft Authenticator je jediným dostupným spôsobom pre mnohých používateľov. [Ďalšie informácie o predvolených nastaveniach](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)zabezpečenia nájdete [v Authenticator Najčastejšie](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) otázky o aplikácii a ich riešení.
  
 **Odporúčané videá**
 

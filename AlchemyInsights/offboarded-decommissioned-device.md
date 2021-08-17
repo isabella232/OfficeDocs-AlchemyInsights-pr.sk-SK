@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076668"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892018"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problémy s odstránením vyradeného alebo vyradeného zariadenia z inventára zariadení
 
@@ -32,11 +32,11 @@ Ak nechcete zobraziť niektoré zariadenia v zobrazení Inventár zariadení, sk
 
 Ďalšie informácie nájdete v téme:
 
-[Zariadenia s vypnutou mapou zo služby Microsoft Defender pre koncový bod](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Zariadenia s vypnutou mapou zo služby Microsoft Defender pre koncový bod](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Skóre expozície v Spravovanie hrozieb a rizík](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Skóre expozície v Spravovanie hrozieb a rizík](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Oprava nevhodných senzorov v aplikácii Microsoft Defender pre koncový bod](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Oprava nevhodných senzorov v aplikácii Microsoft Defender pre koncový bod](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Efektívne používanie označovania (časť 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 
