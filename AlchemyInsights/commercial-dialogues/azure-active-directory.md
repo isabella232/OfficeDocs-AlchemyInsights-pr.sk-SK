@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059205"
 ---
 # <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft Azure Active Directory (Azure AD) je cloudová identita a služba správy prístupu, ktorá pomáha zamestnancom prihlásiť sa a získať prístup k externým aj interným zdrojom. Ak sa chcete dozvedieť viac, pozrite si tieto zdroje informácií:
+Microsoft Azure Active Directory (Azure AD) je cloudová služba správy identity a prístupu, ktorá zamestnancom umožňuje externe aj interne sa prihlasovať a pristupovať k zdrojom. Ďalšie informácie nájdete v týchto zdrojoch:
 
 - [Čo je Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
-- [Integrácia Azure s balíkom Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [Bezplatná skúšobná verzia služby Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [Integrácia platformy Azure s Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
+- [Azure Active Directory bezplatná skúšobná verzia](https://go.microsoft.com/fwlink/?linkid=2081144)

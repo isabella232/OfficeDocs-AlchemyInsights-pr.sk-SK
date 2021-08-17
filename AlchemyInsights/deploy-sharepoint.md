@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007063"
 - "11926"
-ms.openlocfilehash: 12bd9e75a8623fd0c0f93b803c3d78d26acf131f831e8032651461fe80914c57
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3db3546bdcbb9737cbdff187b618c51e971035d395ca5cae8195bbc0e360b313
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914054"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889985"
 ---
 # <a name="deploy-sharepoint-in-microsoft-365"></a>Nasadenie SharePoint v Microsoft 365
 
-Ak chcete SharePoint nasadenie, pozrite si úvodné informácie o [SharePoint v Microsoft 365](/sharepoint/introduction). 
+Ak chcete SharePoint zdrojov informácií na pomoc pri nasadení, pozrite si úvodné [informácie o SharePoint v Microsoft 365](https://docs.microsoft.com/sharepoint/introduction). 
 
 Ďalšie zdroje: 
 
-- Ďalšie informácie o službách na nalaovanie a prijatie FastTrack alebo o vyhľadaní certifikovaného partnera pre SharePoint nájdete v téme Pozrite si, čo robia naši partneri so službami [SharePoint](/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support)alebo navštívte [komunitu spoločnosti SharePoint](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint). 
-- Ďalšie informácie o presune obsahu a vedomostí a aplikácií na spoluprácu v organizácii do SharePoint nájdete v téme Úvodné informácie [o SharePoint vo Microsoft 365.](/sharepoint/introduction#migration) 
-- Ďalšie informácie o začatech s možnosťami spolupráce, vytváraní moderného inteligentného intranetu a školiacich používateľov nájdete v téme Úvodné informácie [o SharePoint v Microsoft 365.](/sharepoint/introduction#collaboration) 
-- Informácie o pridávaní aplikácií alebo licencií na aplikácie nájdete v [téme Správa licencií na aplikácie pre SharePoint aplikácie.](/sharepoint/manage-app-licenses) 
+- Ak chcete získať FastTrack o službách zajania a prijatia alebo nájsť certifikovaného partnera pre SharePoint, pozrite si časť Pozrite si, čo robia naši partneri so službami [SharePoint](https://docs.microsoft.com/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support)alebo navštívte [komunitu spoločnosti SharePoint](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint). 
+- Ďalšie informácie o presune obsahu a vedomostí a aplikácií na spoluprácu v organizácii do SharePoint nájdete v téme Úvodné informácie [o SharePoint v Microsoft 365.](https://docs.microsoft.com/sharepoint/introduction#migration) 
+- Ďalšie informácie o začatech s možnosťami spolupráce, vytváraní moderného inteligentného intranetu a školiacich používateľov nájdete v téme Úvodné informácie [o SharePoint v Microsoft 365.](https://docs.microsoft.com/sharepoint/introduction#collaboration) 
+- Informácie o pridávaní aplikácií alebo licencií na aplikácie nájdete v [téme Správa licencií na aplikácie pre SharePoint aplikácie.](https://docs.microsoft.com/sharepoint/manage-app-licenses) 
 
 

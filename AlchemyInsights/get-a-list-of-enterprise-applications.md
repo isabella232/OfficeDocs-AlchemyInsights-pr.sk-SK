@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116743"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Získanie zoznamu podnikových aplikácií
 
@@ -52,9 +52,9 @@ ms.locfileid: "51405513"
 
 7. **Potrebujete exportovať zoznam nepoužívaných aplikácií Azure** – zostava auditu
 
-    Azure AD dokáže zobraziť denníky aplikácií až na 30 dní za predpokladu, že máte licenciu na Azure AD Premium.
+    Azure AD dokáže zobraziť denníky aplikácií až na 30 dní za predpokladu, že máte licenciu na Azure AD Premium Ad.
     Máte dve možnosti, ako uchovať údaje dlhšie ako 30 dní. Rozhrania API na vytváranie [zostáv Azure AD môžete](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) použiť na načítanie údajov pomocou programovania a ich uloženie do databázy. Denníky auditu môžete prípadne integrovať do systému SIEM tretej strany.
 
     Zoznam aplikácií si môžete stiahnuť aj pre všetky aplikácie a vlastnené aplikácie v časti Registrácia aplikácií Azure Active Directory>>Stiahnuť>Všetky aplikácie/Vlastnené aplikácie.
 
-    Ak chcete zobraziť zoznam aplikácií prostredníctvom MS Graphu, pozrite si časť Aplikácie zoznamu [– Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) a typ zdroja [aplikácie – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
+    Zoznam aplikácií prostredníctvom ms Graph nájdete v téme Aplikácie zoznamu [– Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) a typ prostriedkov [aplikácie – Microsoft Graph v1.0.](https://docs.microsoft.com/graph/api/resources/application)

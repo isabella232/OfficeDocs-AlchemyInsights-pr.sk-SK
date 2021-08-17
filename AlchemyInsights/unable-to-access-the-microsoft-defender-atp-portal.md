@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 71b82307b3491d5d9dbd6cf4325c33645e036475a3a8a5a563e6e84e921fe52a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7c89101624deec1aed566e833634917207204ad04021175a131a0f14f79317f6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020387"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899295"
 ---
 # <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Nie je možné získať prístup k portálu ATP aplikácie Microsoft Defender
 
-Ak dostanete **správu,** nemáte oprávnenie na prístup k portálu , uvedomte si, že spoločnosť Microsoft Defender ATP je produkt na monitorovanie zabezpečenia, skúmanie incidentov a reakcie na incidenty, ako aj prístup je obmedzený a ovládaný používateľom. 
+Ak dostanete **správu,** nemáte oprávnenie na prístup na portál , uvedomte si, že spoločnosť Microsoft Defender ATP je produkt monitorovania zabezpečenia, skúmania incidentov a reakcie na incidenty a používateľ má obmedzený a riadený prístup. 
 
-Ďalšie informácie nájdete v téme [Priradenie prístupu používateľa k Centrum zabezpečenia v programe Microsoft Defender.](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)
+Ďalšie informácie nájdete v téme [Priradenie prístupu používateľov k Centrum zabezpečenia v programe Microsoft Defender.](https://docs.microsoft.com/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)

@@ -14,26 +14,26 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 53c0b7aad5012afb2e923e6b52cb9ec4852f2e27d67dcbbf0845616a0a8e64ad
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503091"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58310946"
 ---
 # <a name="payment-faq"></a>Najčastejšie otázky o platbe
 
-Spravovanie platieb v **Centrum spravovania služby Microsoft 365**.
+Spravujte platby v **Centrum spravovania služby Microsoft 365**.
 
 - Prejdite na **položky Fakturácia > [Vaše produkty na](https://go.microsoft.com/fwlink/p/?linkid=842054)** priradenie alebo zmenu spôsobu platby za predplatné.
 - Prejdite na **položky > [spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806)** na pridanie, aktualizáciu, nahradenie alebo odstránenie spôsobov platby.
 
-- **Spôsoby úhrady** – ak platíte kreditnou kartou alebo prostredníctvom bankového účtu, faktúra sa na spôsob úhrady, ktorý je priradený k vášmu predplatnému, naúčtuje v priebehu niekoľkých dní po jej vytvorení. Ak platba zlyhá, aktualizujte spôsob úhrady. Ďalšie informácie nájdete v téme [Spravovať spôsoby úhrady](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+- **Spôsoby úhrady** – ak platíte kreditnou kartou alebo prostredníctvom bankového účtu, faktúra sa na spôsob úhrady, ktorý je priradený k vášmu predplatnému, naúčtuje v priebehu niekoľkých dní po jej vytvorení. Ak platba zlyhá, aktualizujte spôsob úhrady. Ďalšie informácie nájdete v téme [Spravovať spôsoby úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Upozornenia na úhrady po termíne splatnosti** – platba môže byť zamietnutá z niekoľkých dôvodov vrátane vypršania platnosti kreditnej karty. Kedykoľvek môžete použiť funkciu **Vyrovnať zostatok** a zmeniť informácie o kreditnej karte a okamžite odoslať platbu znova. Ďalšie informácie nájdete v téme [Čo ak mám nevyrovnaný zostatok?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- **Upozornenia na úhrady po termíne splatnosti** – platba môže byť zamietnutá z niekoľkých dôvodov vrátane vypršania platnosti kreditnej karty. Kedykoľvek môžete použiť funkciu **Vyrovnať zostatok** a zmeniť informácie o kreditnej karte a okamžite odoslať platbu znova. Ďalšie informácie nájdete v téme [Čo ak mám nevyrovnaný zostatok?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
-    **Dôležité**: po aktualizovaní spôsobu úhrady sa v prípade, že ste k predplatnému nepriradili spôsob platby, môžu vyskytnúť upozornenia na úhrady po termíne splatnosti alebo upozornenia na zamietnuté platby. Spôsob úhrady pre jedno alebo viacero predplatných môžete zmeniť. Ďalšie informácie nájdete v téme [Spravovať spôsoby úhrady](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+    **Dôležité**: po aktualizovaní spôsobu úhrady sa v prípade, že ste k predplatnému nepriradili spôsob platby, môžu vyskytnúť upozornenia na úhrady po termíne splatnosti alebo upozornenia na zamietnuté platby. Spôsob úhrady pre jedno alebo viacero predplatných môžete zmeniť. Ďalšie informácie nájdete v téme [Spravovať spôsoby úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Frekvencia platieb a fakturácie** – faktúry sa generujú mesačne alebo ročne podľa frekvencie fakturácie, ktorú ste si vybrali pri platení. Túto možnosť môžete kedykoľvek zmeniť. Ďalšie informácie nájdete v téme [Zmena frekvencie fakturácie](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+- **Frekvencia platieb a fakturácie** – faktúry sa generujú mesačne alebo ročne podľa frekvencie fakturácie, ktorú ste si vybrali pri platení. Túto možnosť môžete kedykoľvek zmeniť. Ďalšie informácie nájdete v téme [Zmena frekvencie fakturácie](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 
-Kompletný sprievodca plateným za predplatné nájdete v téme [Platba za predplatné.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Kompletný sprievodca plateným za predplatné nájdete v téme [Platba za predplatné.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116923"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Získajte kópiu faktúry alebo použitia
 
-**Stiahnite si faktúru azure (.pdf)**
+**Stiahnuť faktúru Azure (.pdf)**
 
 1. Vyberte svoje predplatné zo stránky [Predplatné na portáli](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Azure ako používateľ s prístupom k [faktúre a potom](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) vyberte položku **Faktúry**
 2. Kliknutím **na položku** Stiahnuť faktúru zobrazíte kópiu PDF faktúry. Ak sa zobrazí **správa Nie** je k dispozícii, pozrite si časť Prečo sa mi [faktúra za posledné fakturačné obdobie nevidím?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Svoje každodenné používanie môžete zobraziť aj kliknutím na fakturačné obdobie Ak chcete získať PDF súbor faktúry a kópiu vášho podrobného súboru denného používania (. CSV: [Získanie údajov o faktúre a používaní](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. Svoje každodenné používanie môžete zobraziť aj kliknutím na fakturačné obdobie Ak chcete získať PDF súbor faktúry a [](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support) kópiu svojho podrobného súboru denného používania (.CSV): Získanie údajov o faktúre a používaní
 
 **Získajte faktúru e-mailom (.pdf)**
 
@@ -47,10 +47,10 @@ Ak máte zmluvu spoločnosti [Microsoft so zákazníkom,](https://docs.microsoft
 
 Ak máte zmluvu spoločnosti Microsoft so zákazníkom, môžete sa prihlásiť na získanie faktúry e-mailom. Všetci vlastníci fakturačných profilov, prispievatelia, čitatelia a správcovia faktúr dostane faktúru e-mailom. Čitatelia nemôžu aktualizovať predvoľby e-mailovej faktúry
 
-- Vyhľadajte **Cost Management + Billing** (Správa nákladov a fakturácia). Vyberte **fakturačný profil.** V časti Nastavenia vyberte položku **Vlastnosti.**
+- Vyhľadajte **Cost Management + Billing** (Správa nákladov a fakturácia). Vyberte **fakturačný profil.** V Nastavenia vyberte položku **Vlastnosti**
 - V časti E-mailová faktúra vyberte **položku Aktualizovať predvoľby e-mailovej faktúry**. Vyberte možnosť Prihlásiť sa. Kliknite na **položku Aktualizovať.**
 
-**Zmluva Enterprise (EA)**
+**zmluva Enterprise (EA)**
 
 Ak chcete zobraziť a stiahnuť údaje o používaní ako zákazník EA, musíte byť podnikovým správcom, vlastníkom konta alebo správcom oddelenia so zapnutou politikou poplatkov za zobrazenie.
 
