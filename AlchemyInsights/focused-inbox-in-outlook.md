@@ -1,5 +1,5 @@
 ---
-title: 1800019 prioritnej doručenej pošty v Outlooku
+title: 1800019 priečinka Doručená pošta v Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a19bc27b04cdb5d1682f46087fb4286d8f0aeba13300a0dbf3ca549d9dd402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117031"
 ---
-# <a name="focused-inbox-in-outlook"></a>Prioritná Doručená pošta v Outlooku
+# <a name="focused-inbox-in-outlook"></a>Priečinok doručenej pošty v Outlook
 
-Prioritná Doručená pošta oddeľuje priečinok Doručená pošta do dvoch kariet – zameraných a iných. Najdôležitejšie správy sa nachádzajú na karte prioritné, zatiaľ čo zvyšok zostane jednoducho dostupný – ale nie – na karte iné.
+Priečinok doručenej pošty sa oddeľuje na dvoch kartách:Focused (Zameranie) a Other (Iné). Najdôležitejšie správy sa nachádza na karte Zameranie, zatiaľ čo ostatné ostávajú jednoducho prístupné – ale za cesty – na karte Iné.
   
 [Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook na webe](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 pre Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [Pošta pre Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-zistiť viac:
+Ďalšie informácie:
   
-- [Zobrazenie prioritnej doručenej pošty v akcii](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Pozrite si akciu Zaostrená doručená pošta](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Konfigurácia prioritnej doručenej pošty pre všetkých používateľov v organizácii pomocou prostredia PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Konfigurácia priečinka doručenej pošty v programe PowerShell pre všetkých vo vašej organizácii](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

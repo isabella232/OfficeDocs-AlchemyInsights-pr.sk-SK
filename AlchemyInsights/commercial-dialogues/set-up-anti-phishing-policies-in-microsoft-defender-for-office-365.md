@@ -1,5 +1,5 @@
 ---
-title: Nastavenie politík ochrany pred neoprávneným získavaním údajov v aplikácii Microsoft Defender pre Office 365
+title: Nastavenie politík ochrany pred neoprávneným získavaním údajov v aplikácii Microsoft Defender Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966808"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313442"
 ---
-# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Nastavenie politík ochrany pred neoprávneným získavaním údajov v aplikácii Microsoft Defender pre Office 365
+# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Nastavenie politík ochrany pred neoprávneným získavaním údajov v aplikácii Microsoft Defender Office 365
 
-1. Prejdite do Centra [Office 365 zabezpečenia & súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Vyberte položku **Politika správy**  >  **hrozieb**. Na stránke **Politika** vyberte možnosť [Microsoft Defender na Office 365 neoprávnené získavanie údajov](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. Na stránke **Anti-phishing** (Neoprávnené získavanie údajov) vykonajte niektorý z týchto krokov:
-    1. Ak chcete pridať novú politiku, vyberte položku **+ Vytvoriť**.
-    1. Ak chcete upraviť existujúcu politiku, vyberte názov politiky zo zoznamu zobrazeného na stránke **Ochrany pred neoprávneným získavaním** údajov. Na stránke, ktorá sa zobrazí, vyberte **položku** Upraviť vedľa nastavenia, ktoré chcete zmeniť. Spustí sa sprievodca, ktorý vám pomôže definovať politiku ochrany pred neoprávneným získavaním údajov.
-4. Ak vytvárate novú politiku, zadajte názov, popis a nastavenia politiky.
-5. Po revízii nastavení vyberte podľa potreby položku **Vytvoriť túto politiku** alebo Uložiť. 
+1. Na portáli Microsoft 365 Defender prejdite na položku <https://security.microsoft.com/>  \>  \>  \> **E-mailové**  zásady spolupráce pre & & Pravidlá pravidiel ochrany pred neoprávneným získavaním údajov v časti Politiky.
+
+   Ak chcete prejsť priamo na stránku **ochrany pred neoprávneným získavaním** údajov, použite <https://security.microsoft.com/antiphishing> .
+
+2. Na stránke **Anti-phishing** (Neoprávnené získavanie údajov) vykonajte niektorý z týchto krokov:
+   - Ak chcete pridať novú politiku, vyberte položku **+ Vytvoriť**. Spustí sa sprievodca, ktorý vám pomôže definovať nastavenia politiky.
+   - Ak chcete upraviť existujúcu politiku, vyberte politiku kliknutím na jej názov. V zobrazenej bubline s podrobnosťami vyberte položku **Upraviť** v sekcii obsahujúcej nastavenia, ktoré chcete konfigurovať.
+
+3. Po revízii nastavení vyberte položku Odoslať **(nové)** alebo **Uložiť** (upraviť).
+
+Ďalšie informácie nájdete v téme Konfigurácia [politík ochrany pred neoprávneným získavaním údajov v programe Microsoft Defender Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)

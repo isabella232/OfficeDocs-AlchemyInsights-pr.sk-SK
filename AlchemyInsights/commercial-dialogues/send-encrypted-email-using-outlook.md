@@ -1,5 +1,5 @@
 ---
-title: Odoslanie šifrovaného e-mailu pomocou Outlooku
+title: Odoslanie šifrovaného e-mailu pomocou Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59b6b6bae745edb18148b92e4a5514d62e2aa086
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081555"
 ---
-# <a name="send-encrypted-email-using-outlook"></a>Odoslanie šifrovaného e-mailu pomocou Outlooku
+# <a name="send-encrypted-email-using-outlook"></a>Odoslanie šifrovaného e-mailu pomocou Outlook
 
-Používatelia môžu šifrovať e-mailové správy na základe jednotlivých prípadov pomocou Outlooku bez ďalších nastavení. Ak to chcete urobiť, vykonajte tieto kroky:
+Používatelia môžu e-mailové správy podľa jednotlivých prípadov šifrovať Outlook bez ďalšieho nastavenia. Vykonáte to vykonaním týchto krokov:
 
-1. V aplikácii Outlook: a. Vytvorte e-mailovú správu a vyberte **možnosti > zašifrovať**. 
-    b. Kliknite na položku **iba zašifrovať** alebo **nepresmerovať**.
+1. V aplikácii Outlook: a. Vytvorte e-mailovú správu a vyberte **položky Možnosti > Šifrovať**. 
+    b. Kliknite na **položku Iba šifrovať** alebo **Nepreposielať**.
 
-2. V Outlooku na webe: a. Vytvorte e-mailovú správu a vyberte položku **> zašifrovať**.
-    b. Kliknite na položku **Zašifrovať** alebo **nepresmerovať**.
+2. Vo Outlook na webe: a. Vytvorte e-mailovú správu a vyberte **položku > Zašifrovať**.
+    b. Kliknite na položku **Zašifrovať** alebo **Nepreposielať.**
 
 > [!TIP]
-> Známe formáty súborov sú chránené. Súbory odoslané ako prílohy zo služby OneDrive for Business však nie sú šifrované. Zoznam všetkých podporovaných typov súborov nájdete v téme [typy súborov podporované klientom Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types).
+> Známe formáty súborov sú chránené. Súbory odoslané ako prílohy z OneDrive for Business však nie sú šifrované. Zoznam všetkých podporovaných typov súborov nájdete v téme [Typy súborov podporované klientom Azure Information Protection.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
 
-Ďalšie informácie nájdete v téme [odosielanie, zobrazovanie a odpovedanie na šifrované správy v Outlooku pre PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Ďalšie informácie nájdete v téme [Odosielanie, zobrazenie a odpovedanie na šifrované](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)správy v Outlook pre PC.
 
 
 

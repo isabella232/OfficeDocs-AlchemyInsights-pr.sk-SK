@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891694"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312702"
 ---
 # <a name="alert-policies"></a>Politiky upozornení
 
-Microsoft 365 obsahuje [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) predvolené politiky upozornení, ktoré spúšťajú upozornenia pre organizácie s predplatným na Microsoft 365 Enterprise alebo Microsoft 365 US Government E1/G1, E3/G3 alebo E5/G5. Správcovia preto môžu dostať e-mailové upozornenie odoslané Office365Alerts@microsoft.com s predmetom, ako je napríklad upozornenie s nízkou závažnosťou: názov politiky *upozornenia.* Upozornenia sa odosielajú pri spustení upozornení na bežné aktivity, napríklad vtedy, keď používatelia:
+Microsoft 365 obsahuje predvolené [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) politiky upozornení, ktoré spúšťajú upozornenia pre organizácie s predplatným na Microsoft 365 Enterprise alebo Microsoft 365 US Government E1/G1, E3/G3 alebo E5/G5. Správcovia preto môžu dostať e-mailové upozornenie odoslané Office365Alerts@microsoft.com s predmetom, ako je napríklad upozornenie s nízkou závažnosťou: názov politiky *upozornenia.* Upozornenia sa odosielajú pri spustení upozornení na bežné aktivity, napríklad vtedy, keď používatelia:
 
 - Vytvorte pravidlá pre doručenú poštu, ktoré preposiela e-maily.
 - Priraďte povolenia svojej poštovej schránke.
@@ -33,7 +33,7 @@ Ak chcete skontrolovať upozornenie a konať s upozornením:
 
 1. Vykonajte niektorý z týchto krokov:
    - V časti Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku **Upozornenia**. Ak chcete prejsť priamo na **stránku Upozornenia,** použite <https://compliance.microsoft.com/compliancealerts> .
-   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku Upozornenia na &  \> **incidentov**. Ak chcete prejsť priamo na **stránku Upozornenia,** použite <https://security.microsoft.com/alerts> .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Incidenty a &** \> **Upozornenia**. Ak chcete prejsť priamo na **stránku Upozornenia,** použite <https://security.microsoft.com/alerts> .
 2. Kliknutím na upozornenie zobrazíte flyout stránku s informáciami o upozornení.
 
 S upozornením môžete urobiť akciu, napríklad odstrániť podozrivé pravidlo [pre doručenú poštu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Upozornenie môžete jednoducho zavrieť aj kliknutím na položku **Vyriešiť** na stránke s upozornením.

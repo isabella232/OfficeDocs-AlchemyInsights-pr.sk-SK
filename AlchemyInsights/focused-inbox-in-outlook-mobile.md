@@ -1,5 +1,5 @@
 ---
-title: 1800019 prioritnej doručenej pošty v Outlooku Mobile
+title: 1800019 priečinka doručenej pošty v Outlook mobile
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117067"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Prioritná Doručená pošta pre Outlook Mobile
+# <a name="focused-inbox-for-outlook-mobile"></a>Priečinok doručenej pošty pre Outlook mobilné zariadenia
 
-[Čo je prioritná Doručená pošta?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Čo je priečinok Focused Inbox?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Ako upravím pravidlá, ktoré presúvajú e-maily do prioritnej doručenej pošty a mimo nej?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Ako upravím pravidlá premiestnenia e-mailov do priečinka doručenej pošty a zo služby Focused Inbox?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Ako vypnem prioritnú doručenú poštu alebo zmením, či sa môj počet odznak a oznámenia synchronizujú s prioritnou doručenou poštou?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Ako vypnem priečinok Focused Inbox alebo zmením, či sa môj počet na odznaku a oznámenia synchronizujú s priečinkaom doručenej pošty v zameranej doručenej pošte?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Ako vypnem prioritnú doručenú poštu alebo zmením, či sa oznámenia synchronizujú s prioritnou doručenou poštou?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Ako vypnem priečinok doručenej pošty v priečinku Doručená pošta alebo zmením, či sa oznámenia synchronizujú s priečinkaom Doručená pošta s zameranou poštou?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Ako prepínať medzi prioritami a inými?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Ako sa prepína medzi možnosťamiFocused (Zameranie) a Other (Iné)?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Ďalšie informácie: [získanie pomoci v aplikácii pre Outlook pre iOS a Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Ďalšie informácie: [Získanie pomoci v aplikácii pre Outlook pre iOS a Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

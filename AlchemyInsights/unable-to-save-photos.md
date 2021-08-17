@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11618"
 - "9001499"
-ms.openlocfilehash: 6583ea94b1169249571f57051c569ad3371edd72
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 53cb5b223536cee2fbd5c896f38ed8d1938d615200f9151170070422da229448
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52897377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091726"
 ---
 # <a name="unable-to-save-user-photos"></a>Fotografie používateľov sa nedajú uložiť
 
-Správcovia nemôžu nahrávať a ukladať fotografie používateľov v Centre Microsoft 365 spravovania.
+Správcovia nemôžu nahrať a uložiť fotografie používateľov v Centrum spravovania služby Microsoft 365.
 
 Najnovšie informácie nájdete v téme Informácie o stave služby [M0260481.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth/advisories/:/alerts/MO260481)
