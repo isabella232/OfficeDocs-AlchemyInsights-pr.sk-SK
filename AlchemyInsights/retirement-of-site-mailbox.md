@@ -1,5 +1,5 @@
 ---
-title: Odchod do dôchodku v poštovej schránke lokality
+title: Vyradenie poštovej schránky lokality
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004319"
 - "7703"
-ms.openlocfilehash: 9077fe8bb6744d42195e4a46b8492c498159d5d6
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: daea50e36ee672b119b5a351e04b1aba18c31754a06b2e59c792e2c748cfcca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49757333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074669"
 ---
-# <a name="retirement-of-site-mailbox"></a>Odchod do dôchodku v poštovej schránke lokality
+# <a name="retirement-of-site-mailbox"></a>Vyradenie poštovej schránky lokality
 
-Poštové schránky lokality boli zastarané späť v programe [2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) a vytvorenie nových poštových schránok lokality a prístup používateľov k poštovým schránkam lokality sa zastavili s následnými oznámeniami. Teraz sa spustil proces odchádzania poštových schránok lokality. Ďalšie podrobnosti a akcie, ktoré treba vykonať, nájdete na [tejto](https://aka.ms/SiteMailboxRetirement) stránke.
+Poštové schránky lokalít sa už v [roku 2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) prestali využívať a vytváranie nových poštových schránok lokalít a prístup používateľov k poštovým schránkam lokalít sa zastavilo s nasledujúcimi oznámeniami. Teraz sa začal proces vynechania poštových schránok lokalít. Ďalšie [podrobnosti](https://aka.ms/SiteMailboxRetirement) a akcie, ktoré je potrebné vykonať, nájdete na tejto stránke.

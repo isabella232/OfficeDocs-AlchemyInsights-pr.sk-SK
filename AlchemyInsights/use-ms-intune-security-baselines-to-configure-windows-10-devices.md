@@ -1,5 +1,5 @@
 ---
-title: Použitie pôvodných plánov zabezpečenia služby Microsoft Intune na konfiguráciu zariadení s Windowsom 10
+title: Konfigurácia Microsoft Intune zabezpečenia pomocou pôvodných Windows 10 zabezpečenia
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004135"
 - "7211"
-ms.openlocfilehash: 24257f1ac5752df1598d08fcfdb95ee2642adfea
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: a94c6b72df3874ee80413adac86d60306175734b6ff28b2e015e05eec6f3838b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104359"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Použitie pôvodných plánov zabezpečenia služby Microsoft Intune na konfiguráciu zariadení s Windowsom 10
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Konfigurácia Microsoft Intune zabezpečenia pomocou pôvodných Windows 10 zabezpečenia
 
-Základné údaje zabezpečenia služby Intune pomáhajú chrániť používateľov a zariadenia. Základné údaje zabezpečenia sú predkonfigurované skupiny nastavení Windowsu, ktoré sa používajú na použitie známej skupiny nastavení a predvolených hodnôt odporúčaných príslušnými tímami zabezpečenia. Vytvorením základného profilu zabezpečenia v službe Intune vytvoríte šablónu, ktorá sa skladá z viacerých profilov konfigurácie zariadenia.
+Základné hodnoty zabezpečenia služby Intune pomáhajú chrániť používateľov a zariadenia. Pôvodné hodnoty zabezpečenia Windows predkonfigurované skupiny nastavení na použitie známej skupiny nastavení a predvolených hodnôt odporúčaných príslušnými tímami zabezpečenia. Vytvorením profilu pôvodného plánu zabezpečenia v programe Intune vytvoríte šablónu, ktorá sa skladá z viacerých profilov konfigurácie zariadení.
 
-Keď nasadíte základné hodnoty zabezpečenia do skupín používateľov alebo zariadení, nastavenia sa použijú na zariadenia spustené vo Windowse 10 alebo novšom. Napríklad funkcia MDM Security Baseline automaticky (1) zapne funkciu BitLocker for vymeniteľných jednotiek, (2) vyžaduje heslo na odomknutie zariadenia a (3) zakáže základné overovanie. Ak predvolená hodnota v prostredí nie je funkčná, prispôsobte základnú čiaru tak, aby sa aplikovali potrebné nastavenia.
+Keď nasadzujete pôvodné hodnoty zabezpečenia skupinám používateľov alebo zariadení, nastavenia sa použijú na zariadenia, ktoré sú Windows 10 novšej verzie. Pôvodný plán zabezpečenia MDM automaticky (1) napríklad umožňuje šifrovanie BitLocker pre vymeniteľné jednotky, (2) vyžaduje heslo na odomknutie zariadenia a (3) vypne základné overovanie. Ak predvolená hodnota pre vaše prostredie nefunguje, prispôsobte pôvodný plán a použite potrebné nastavenia.
 
-Základné informácie o zabezpečení tiež pomáhajú pri vytváraní pracovného postupu koncového zabezpečenia v programe Microsoft 365. Nižšie sú uvedené niektoré výhody tohto:
+Pôvodné hodnoty zabezpečenia tiež pomáhajú vytvoriť end-to-end secure workflow v Microsoft 365. Prinášame vám niekoľko výhod:
 
-- Základná hodnota zabezpečenia obsahuje najvhodnejšie postupy a odporúčania pre nastavenia, ktoré majú vplyv na zabezpečenie. Keďže partneri služby Intune s tímom zabezpečenia systému Windows, ktorý vytvára základné hodnoty pre politiky skupiny, sú tieto odporúčania založené na solídnom poradenstve a rozsiahlych skúsenostiach.
-- Ak sa v službe Intune nachádzate a neviete, kde začať, základné informácie o zabezpečení vám pomôžu rýchlo vytvoriť a nasadiť zabezpečený profil.
-- Ak v súčasnosti používate skupinovú politiku, migrácia do služby Intune na účely správy je oveľa jednoduchšia so základmi zabezpečenia, pretože sú zabudované do služby Intune a obsahujú najmodernejšie možnosti spravovania.
+- Základná hodnota zabezpečenia obsahuje osvedčené postupy a odporúčania pre nastavenia, ktoré majú vplyv na zabezpečenie. Keďže partneri spoločnosti Intune s tímom zabezpečenia spoločnosti Windows, ktorí vytvárajú pôvodné hodnoty pre skupinové politiky, tieto odporúčania vychádzajú z rozsiahlych pokynov a rozsiahlej skúsenosti.
+- Ak so služby Intune iba začínate a nie ste si istí, kde začať, pôvodné hodnoty zabezpečenia vám pomôžu rýchlo vytvoriť a nasadiť zabezpečený profil.
+- Ak v súčasnosti používate skupinovú politiku, migrácia do služby Intune na účely správy je s pôvodnými plánmi zabezpečenia omnoho jednoduchšia, pretože sú zabudované do služby Intune a zahŕňajú špičkové možnosti správy.
 
-Ďalšie informácie nájdete v téme [základné informácie o zabezpečení systému Windows](https://go.microsoft.com/fwlink/?linkid=2141503) a [Správa mobilných zariadení](https://go.microsoft.com/fwlink/?linkid=2141701).
+Ďalšie informácie nájdete v téme Windows [zabezpečenia a správa](https://go.microsoft.com/fwlink/?linkid=2141503) [mobilných zariadení.](https://go.microsoft.com/fwlink/?linkid=2141701)

@@ -1,5 +1,5 @@
 ---
-title: 2609 – retenčné-alebo-eDiscovery
+title: 2609-retention-or-ediscovery-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074839"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nie je možné odstrániť položky v SharePointe Online alebo vo OneDrive for Business
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nie je možné odstrániť položky v SharePoint Online alebo OneDrive for Business
 
-Vy alebo vaši používatelia nie je možné odstrániť položky v SharePointe Online alebo vo OneDrive for Business, pretože politika uchovávania údajov, označenie uchovávania údajov alebo zadržanie eDiscovery sa použijú na lokalitu SharePoint na lokalite OneDrive alebo na konkrétnu položku. Toto zahŕňa neschopnosť odstrániť dokument, verziu dokumentu, priečinok, knižnicu dokumentov, zoznam, aplikáciu, lokalitu alebo kolekciu lokalít. 
+Vy alebo vaši používatelia možno nebude možné odstrániť položky v aplikácii SharePoint Online alebo v balíku OneDrive for Business, pretože politika uchovávania údajov, označenie uchovávania údajov alebo blokovanie vymazania eDiscovery sa použijú na SharePoint lokality OneDrive alebo na konkrétnu položku. To zahŕňa nemožnosť odstrániť dokument, verziu dokumentu, priečinok, knižnicu dokumentov, zoznam, aplikáciu, lokalitu alebo kolekciu lokalít. 
 
-Ak chcete odstrániť položky v niektorom z týchto scenárov, musí sa odstrániť politika uchovávania údajov, označenie uchovávania údajov alebo zadržanie eDiscovery (alebo lokalita musí byť vyňatá z politiky uchovávania údajov). Je potrebné vypnúť alebo vylúčiť príslušné zadržanie, ktoré spôsobuje tento problém. Po odstránení politiky alebo zadržania uchovávania údajov môže zmena nadobudnúť až 24 hodín. 
+Ak chcete odstrániť položky v jednom z týchto scenárov, treba politiku uchovávania údajov, označenie uchovávania údajov alebo blokovanie vymazania elektronického vyhľadávania odstrániť (alebo musí byť lokalita vylúčená z politiky uchovávania údajov). Je potrebné zakázať alebo vylúčiť príslušné zadržanie, ktoré tento problém spôsobuje. Po odstránení politiky uchovávania údajov alebo zadržania môže trvať až 24 hodín, kým sa zmena prejaví. 
 
-Ďalšie informácie o rôznych funkciách uchovávania a držania, ktoré možno použiť na lokalitách SharePoint a kontách OneDrive, nájdete v niektorej z týchto tém:
+Informácie o rôznych funkciách uchovávania údajov a uchovávania údajov, ktoré možno použiť na SharePoint a OneDrive údajov, nájdete v jednej z nasledujúcich tém.
 
 - [Prehľad politík uchovávania údajov](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 - [Prehľad označení uchovávania údajov](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Správa zadržaní v rozšírených Ediscoverách](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [uchovávanie eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Politiky ukončenia a odstraňovania starších lokalít](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Spravovanie zadržaných Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [Blokovanie eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Staršie politiky uzavretia a odstránenia lokality](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
-ms.openlocfilehash: 45cf6841641a75ea1d8ca8442c68a7fe778c37c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2157a468bf579e74a71f6b13eb66b075ea64fd0194e04055aadbea365eb2525b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104274"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>Vytvára sa poštová schránka používateľa
 
-Môže trvať až hodinu, kým bude Nová poštová schránka pripravená na použitie.
+Príprava novej poštovej schránky na použitie môže trvať až hodinu.
   
-Ak je poštová schránka používateľa "pripravuje sa" dlhšie ako hodinu, môžete skúsiť odstrániť a znova vytvoriť používateľa alebo použiť možnosť zavolať nám, aby ste sa mohli obrátiť na pracovníka technickej podpory.
+Ak sa poštová schránka používateľa pripravuje na použitie dlhšie ako hodinu, môžete sa pokúsiť odstrániť a znova vytvoriť používateľa alebo použiť možnosť Zavoláme vám a poraďte sa s technikom podpory.
   
 
