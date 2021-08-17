@@ -1,5 +1,5 @@
 ---
-title: Presuny tímov
+title: Teams Zmeny
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106513"
 ---
-# <a name="using-teams-shifts"></a>Používanie aplikácie Team shifts
+# <a name="using-teams-shifts"></a>Používanie Teams Zmeny
 
-Informácie o spravovaní aplikácie shifts vrátane nastavenia zmien, povoľte zmeny pre používateľov a spravovať aplikáciu shifts nájdete v témach:
+Informácie o spravovaní aplikácie Zmeny vrátane návodu na nastavenie pracovných zmeny, povolenie aplikácie Zmeny pre používateľov a spravovanie aplikácie Zmeny nájdete v téme:
  
-- [Spravujte aplikáciu shifts pre svoju organizáciu v aplikácii Microsoft teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Povolenie alebo zakázanie presunov pre konkrétnych používateľov vo vašej organizácii](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Spravujte aplikáciu Zmeny pre svoju organizáciu v Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Zapnutie alebo vypnutie funkcie Zmeny pre konkrétnych používateľov vo vašej organizácii.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Ďalšie informácie o zmenách v aplikácii teams vrátane spravovania plánu presunov nájdete [v téme zmeny v aplikácii teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Ďalšie informácie o Teams zmeny vrátane spravovania plánu v programe Zmeny nájdete v téme [Zmeny Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**Účinnosť 30. júna 2020**, Microsoft Staffhub bol vyradený. Ďalšie informácie nájdete v téme [Microsoft StaffHub](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)bol vyradený.
+**S účinnosťou od 30. júna 2020** sa aplikácia Microsoft Staffhub prestala. Ďalšie informácie nájdete v téme [Aplikácia Microsoft StaffHub bola vynecháná.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

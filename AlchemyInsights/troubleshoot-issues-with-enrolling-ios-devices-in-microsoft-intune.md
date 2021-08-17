@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047991"
 ---
 # <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Riešenie problémov s zaregistrovaním zariadení so systémom iOS v Microsoft Intune
 
@@ -27,7 +27,7 @@ Niektoré bežné chybové hlásenia a kroky na riešenie tohto problémov:
     
 - **Táto služba nie je podporovaná. Žiadna politika registrácie: Službu** spoločnosti Apple Push Notification Service (APNS) je potrebné nakonfigurovať alebo obnoviť. V [tomto dokumente](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) nájdete pokyny, ako to urobiť. 
     
-- **Typ používateľskej licencie Neplatný alebo Meno používateľa sa nerozpoznalo:** Používateľovi je potrebné priradiť licenciu na Intune alebo EMS. Ak chcete priradiť licenciu, pozrite si tieto dokumenty: [Centrum spravovania balíka Office](https://docs.microsoft.com/intune/licenses-assign) alebo portál [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
+- **Typ používateľskej licencie Neplatný alebo Meno používateľa sa nerozpoznalo:** Používateľovi je potrebné priradiť licenciu na Intune alebo EMS. Pozrite si tieto dokumenty a priraďte licenciu prostredníctvom: [Office spravovania alebo](https://docs.microsoft.com/intune/licenses-assign) [portálu Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Ďalšie zdroje informácií na vyriešenie problému:
   
@@ -35,6 +35,6 @@ Niektoré bežné chybové hlásenia a kroky na riešenie tohto problémov:
     
 2. V týchto dokumentoch nájdete zoznam bežných chýb, ktoré v každej z nich bránia registrácii a riešeniam: Príručka na [riešenie problémov](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) a Riešenie problémov [s dokumentom.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
     
-3. [Zistite, ako zaregistrovať zariadenia so systémom iOS v Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
+3. [Zistite, ako zaregistrovať zariadenia so systémom iOS vo Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 

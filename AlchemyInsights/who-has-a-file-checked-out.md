@@ -1,5 +1,5 @@
 ---
-title: Kto má súbor vzatý z projektu?
+title: Kto má súbor vzatý z sebe?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f22a3906f7a976ce607c0516be8b63dcfe472dd22f0b9c933e79950ba5e932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047847"
 ---
-# <a name="who-has-a-file-checked-out"></a>Kto má súbor vzatý z projektu?
+# <a name="who-has-a-file-checked-out"></a>Kto má súbor vzatý z sebe?
 
-Ak chcete zistiť, kto má súbor vzatý z projektu v SharePointe, môžete vykonať niektorý z týchto krokov:
+Ak chcete zistiť, kto má súbor vzatý z SharePoint, môžete vykonať niektorý z týchto krokov:
   
-1. Ukázaním kurzorom na možnosť **vzatie z projektu** zobrazíte Popis, v ktorom sa dozviete, kto súbor vzal z projektu. 
+1. Ukážte na položku **Vzaté z** súboru a zobrazí sa popis s o tom, kto má súbor vzatý z sebe. 
     
-2. Pridajte stĺpec **vzatý podľa** stĺpca do predvoleného zobrazenia knižnice. Takto môže každý jednoducho zistiť, kto má dokument vzatý z projektu. 
+2. Do **predvoleného zobrazenia knižnice pridajte** stĺpec Vzal z dokumentov. Týmto spôsobom môže každý jednoducho zistiť, kto má dokument vzatý z sebe. 
     
-Informácie o tom, ako pridať vzatý stĺpec do projektu v SharePointe, nájdete [v téme Vytvorenie stĺpca v zozname alebo knižnici](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Ak chcete zistiť, ako pridať stĺpec Vzal z SharePoint, pozrite si časť [Vytvorenie stĺpca v zozname alebo knižnici.](https://go.microsoft.com/fwlink/?linkid=2019591) 
   
-Pozrite si ďalšie najčastejšie otázky o vrátení do projektu alebo vzatí z projektu, pozrite si tému [najčastejšie otázky o vzatí z projektu, vrátenie do projektu](https://go.microsoft.com/fwlink/?linkid=2018786).
+Pozrite si ďalšie najčastejšie otázky týkajúce sa v pokladne alebo v pokladne, pozrite si najčastejšie otázky týkajúce sa v [pokladne, v pokladne.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 
