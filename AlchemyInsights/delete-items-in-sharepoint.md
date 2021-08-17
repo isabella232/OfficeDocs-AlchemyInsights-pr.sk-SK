@@ -1,5 +1,5 @@
 ---
-title: Odstránenie položiek v SharePointe
+title: Odstránenie položiek vo SharePoint
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 5899ba06d0da6141502c09fee1ce0d9c7aad38d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8318327bd9bea5de4e9e90709ce0f6ce9b060d6f88692f6e25921d863931c2e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102658"
 ---
-# <a name="delete-items-in-sharepoint"></a>Odstránenie položiek v SharePointe
+# <a name="delete-items-in-sharepoint"></a>Odstránenie položiek vo SharePoint
 
 [Odstránenie zoznamu](https://go.microsoft.com/fwlink/?linkid=869393)
   
@@ -31,6 +31,6 @@ ms.locfileid: "47745982"
   
 [Odstránenie stĺpca na strane](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[Odstránenie stĺpca v zozname alebo knižnici](https://go.microsoft.com/fwlink/?linkid=869396)
+[Odstránenie stĺpca zo zoznamu alebo knižnice](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

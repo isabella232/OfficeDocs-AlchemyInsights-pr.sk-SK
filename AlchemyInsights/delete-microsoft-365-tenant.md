@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002250"
 - "4355"
 ms.assetid: ''
-ms.openlocfilehash: c887c7889f7abc92ccf6603d51d71b454eff068a
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e50562c52325d3b4e938716833647dac0616b4e0fb2e643367a697e13f0b9ab2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102694"
 ---
 # <a name="delete-microsoft-365-tenant"></a>Odstránenie nájomníka Microsoft 365
 

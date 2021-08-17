@@ -1,5 +1,5 @@
 ---
-title: 744 vytváranie používateľov, keď je organizácia v hybridnom režime
+title: 744 Vytváranie používateľov v prípade organizácie v režime hybridného nasadenia
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce3e4698f19c882ac0034aacb3a1455973e7eeeb3bd38d4c28a0070d739405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102955"
 ---
 # <a name="create-users-in-hybrid-deployments"></a>Vytvorenie používateľov v hybridných nasadeniach
 
-Keď je vaša organizácia hybridným nasadením medzi lokálnym prostredím a Microsoft 365, je potrebné vytvoriť všetky objekty používateľov v lokálnej službe Active Directory. Objekty používateľa môžete vytvoriť v príslušnej organizačnej jednotke (OU) tak, aby sa synchronizovali s vašou organizáciou.
+Ak je vaša organizácia hybridným nasadením medzi lokálnym prostredím a prostredím Microsoft 365, musíte vo svojej lokálnej službe Active Directory vytvoriť všetky objekty používateľov. Objekty používateľa vytvoríte v príslušnej organizačnej jednotke tak, aby sa synchronizujú s vašou organizáciou.

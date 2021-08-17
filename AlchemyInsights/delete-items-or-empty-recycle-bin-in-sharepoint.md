@@ -1,5 +1,5 @@
 ---
-title: Odstránenie položiek Koša lokality SharePoint alebo jeho vyprázdnenie
+title: Odstránenie položiek Koša alebo vyprázdnenie Koša SharePoint lokality
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 3968f389675644cf5c0bd81eafcdb03b74a6dce5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 98b04875dd0b1a99e2624cd07dc24a9f5f93cbd43b9f087cfbd9709b39b3c5ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102730"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Odstránenie položiek Koša lokality SharePoint alebo jeho vyprázdnenie 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Odstránenie položiek Koša alebo vyprázdnenie Koša SharePoint lokality 
 
-Keď odstránite položku z knižnice dokumentov alebo zoznamu služby SharePoint, neodstráni sa hneď zo služby SharePoint. Odstránené položky sa na nejaký čas premietajú do Koša lokality. Počas tohto času môžete odstránené položky obnoviť do pôvodného umiestnenia alebo ich odstrániť a voľné miesto v ukladacom priestore.
+Keď odstránite položku z SharePoint dokumentu alebo zoznamu, okamžite sa neodstráni z SharePoint. Odstránené položky sa na nejaký čas premietajú do Koša lokality. Počas tohto času môžete odstránené položky obnoviť do pôvodného umiestnenia alebo ich odstrániť a voľné miesto v ukladacom priestore.
 
-[Odstránenie položiek Koša lokality SharePoint alebo jeho vyprázdnenie](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
+[Odstránenie položiek Koša alebo vyprázdnenie Koša SharePoint lokality](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

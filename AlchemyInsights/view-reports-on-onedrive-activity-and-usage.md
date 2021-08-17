@@ -1,5 +1,5 @@
 ---
-title: Zobrazenie zostáv o aktivite a používaní OneDrivu
+title: Zobrazenie zostáv o OneDrive aktivite a používaní
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037335"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Zobrazenie zostáv o aktivite a používaní OneDrivu
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Zobrazenie zostáv o OneDrive aktivite a používaní
 
-Prejdite na [stránku zostavy používania v centre spravovania služieb Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). V časti **vyberte zostavu** vyberte aktivitu služby OneDrive alebo zostavu používania.
+Prejdite na [stránku Zostavy používania v Centrum spravovania služby Microsoft 365.](https://admin.microsoft.com/AdminPortal/Home) V **časti Výber zostavy** vyberte položku OneDrive aktivity alebo zostavy používania.
 
-Ďalšie informácie nájdete v téme [zostavy OneDrivu](https://go.microsoft.com/fwlink/?linkid=875239).
+Ďalšie informácie nájdete v téme [Informácie OneDrive zostavy.](https://go.microsoft.com/fwlink/?linkid=875239)
