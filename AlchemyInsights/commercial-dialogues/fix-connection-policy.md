@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888421"
 ---
 # <a name="fix-connection-policy"></a>Oprava politiky pripojenia
 
-E-mail bol označený ako bezpečný a doručený do priečinka doručenej pošty používateľa, pretože odosielaná IP adresa bola v politike filtra pripojenia označená ako bezpečná. Ak si chcete politiku prekontrolovať, vykonajte tieto kroky:
+E-mail bol označený ako bezpečný a doručený do priečinka doručenej pošty používateľa, pretože zdrojová IP adresa bola v predvolenej politike filtra pripojenia označená ako bezpečná. Ak si chcete politiku prekontrolovať, postupujte takto:
 
-1. Prejdite do Centra [Office 365 zabezpečenia & a](https://go.microsoft.com/fwlink/p/?linkid=2077143)potom prejdite na položku Politika správy **hrozieb**  >    >  [– ochrana pred nevyžiadanou poštou](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na karte **Vlastné** vyberte politiku filtra **Pripojenie a** potom vyberte položku **Upraviť politiku**.
-3. Pozrite si **zoznam povolených IP** adries. Zistite, **Trezor zoznam povolený.**
+1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/>  \>  \>  \> **e-&**  na & Pravidlá politiky hrozieb Ochrana pred nevyžiadanou poštou v časti Politiky.
 
-    > [!NOTE]
-    > Spoločnosť Microsoft má predplatné na zdroje dôveryhodných odosielateľov tretích strán. Ak **Trezor zoznamu** povolený, títo dôveryhodní odosielatelia omylom nie sú označení ako nevyžiadaná pošta. Odporúčame vybrať túto možnosť, pretože sa zníži počet nesprávne pozitívnych e-mailov ( dobrej pošty, ktorá sa klasifikuje ako nevyžiadaná pošta), ktorú dostanete.
+   Ak chcete prejsť priamo na stránku **Politiky ochrany pred nevyžiadanou poštou,** <https://security.microsoft.com/antispam> použite .
+
+2. Na stránke **Politiky ochrany pred nevyžiadanou** poštou kliknutím na názov politiky vyberte politiku s názvom Politika filtra pripojenia **(predvolené).**
+
+3. V zobrazenej bubline podrobností kliknite v **časti Filtrovanie pripojenia na** položku Upraviť politiku **filtrovania** pripojenia.
+
+4. Skontrolujte položky v časti **Vždy povoliť správy z** nasledujúcich IP adries alebo rozsahu adries a pozrite sa, či je **vybratá možnosť Zapnúť bezpečné.**
+
+   > [!NOTE]
+   > Spoločnosť Microsoft má predplatné na zdroje dôveryhodných odosielateľov tretích strán. Ak je zoznam dôveryhodných odosielateľov povolený, títo dôveryhodní odosielatelia omylom nie sú označení ako nevyžiadaná pošta. Odporúčame vybrať túto možnosť, pretože sa zníži počet nesprávne pozitívnych e-mailov ( dobrej pošty, ktorá sa klasifikuje ako nevyžiadaná pošta), ktorú dostanete.
+
+Ďalšie informácie nájdete v téme [Konfigurácia filtrovania pripojenia.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)

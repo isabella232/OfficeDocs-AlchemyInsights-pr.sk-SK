@@ -14,25 +14,25 @@ ms.custom:
 - commerce_billing
 - "9002348"
 - "4574"
-ms.openlocfilehash: 815de782f7e5968135f199960b5c90466b083af208ff087ddd5688539c27b592
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 4115988c9ea6c3e07f4eff260442ee13838086b502e4457073307978c1e3e01b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501183"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889125"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Pridanie, aktualizácia alebo odstránenie spôsobov platby
 
-**Dôležité:** Platba prostredníctvom bankového účtu nie je v niektorých krajinách alebo oblastiach k dispozícii. Ďalšie informácie nájdete v [téme Spôsob platby za predplatné](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription). 
+**Dôležité:** Platba prostredníctvom bankového účtu nie je v niektorých krajinách alebo oblastiach k dispozícii. Ďalšie informácie nájdete v [téme Spôsob platby za predplatné](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription). 
 
 Produkty a služby od spoločnosti Microsoft si môžete zakúpiť pomocou kreditnej alebo debetnej karty alebo bankového účtu (inkasa).
 
-- Ak chcete ako spôsob platby pridať bankové konto, pozrite si tému [Pridanie spôsobu úhrady](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
+- Ak chcete ako spôsob platby pridať bankové konto, pozrite si tému [Pridanie spôsobu úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- Ak chcete aktualizovať informácie o bankovom konte, pozrite si tému [Aktualizácia existujúcieho spôsobu úhrady](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- Ak chcete aktualizovať informácie o bankovom konte, pozrite si tému [Aktualizácia existujúcieho spôsobu úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
 
-- Ak chcete zmeniť spôsob platby na bankové konto alebo z neho, pozrite si tému [Zmena spôsobu platby](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
+- Ak chcete zmeniť spôsob platby na bankové konto alebo z neho, pozrite si tému [Zmena spôsobu platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
 
-- Ak chcete bankové konto odstrániť ako spôsob platby, pozrite si tému [Odstránenie spôsobu platby](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
+- Ak chcete bankové konto odstrániť ako spôsob platby, pozrite si tému [Odstránenie spôsobu platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
 
-Ďalšie informácie nájdete v téme [Spravovať spôsoby úhrady](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ďalšie informácie nájdete v téme [Spravovať spôsoby úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
