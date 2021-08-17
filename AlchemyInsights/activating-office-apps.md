@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889269"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314255"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivácia Microsoft 365 aplikácií
 
-**Poznámka:** Ak používate staršiu verziu balíka Windows (napríklad Windows 7), uistite sa, že protokol TLS 1.2 je predvolene povolený. Ďalšie informácie nájdete v téme Aktualizácia na povolenie [tls 1.1 a TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)ako predvolených zabezpečených protokolov vo WinHTTP Windows.
+**Poznámka:** Ak používate staršiu verziu balíka Windows (napríklad Windows 7 SP1, Windows Server 2008 R2), zapnite protokol TLS 1.2 ako predvolený pomocou [jednoduchej opravy.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Ďalšie informácie nájdete v téme Aktualizácia na povolenie [tls 1.1 a TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)ako predvolených zabezpečených protokolov vo WinHTTP Windows.
 
 Postup aktivácie balíka Office nájdete v téme:
 
@@ -29,7 +29,7 @@ Postup aktivácie balíka Office nájdete v téme:
 
 - [Aktivácia balíka Office v Macu](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Poznámka:**  Uistite sa, že máte predplatné na Office 365 alebo Microsoft 365, ktoré zahŕňa klientske aplikácie služieb [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)napríklad Microsoft 365 Business Standard, Aplikácie Microsoft 365 pre podnikateľov alebo Aplikácie Microsoft 365 pre veľké organizácie. Skontrolujte tiež, či má používateľské konto, ktoré používate na prihlásenie do Office aplikácie, [priradenú licenciu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Poznámka:**  Uistite sa, že máte predplatné na Office 365 alebo Microsoft 365, ktoré zahŕňa klientske aplikácie balíka [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)napríklad Microsoft 365 Business Standard, Aplikácie Microsoft 365 pre podnikateľov alebo Aplikácie Microsoft 365 pre veľké organizácie. Skontrolujte tiež, či má používateľské konto, ktoré používate na prihlásenie do Office aplikácie, [priradenú licenciu.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Postup riešenia problémov s aktiváciou balíka Office nájdete v téme:
 
@@ -38,7 +38,7 @@ Postup riešenia problémov s aktiváciou balíka Office nájdete v téme:
 
 - [Čo skúsiť v prípade, ak sa Office pre Mac nedá nainštalovať alebo aktivovať](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Tip** Na zariadeniach s Windowsom pre vás môžeme diagnostikovať a automaticky opraviť niekoľko bežných problémov s prihlasovaním na do balíka Office. Stiahnite a spustite asistenta **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)**, aby ste mohli používať náš automatický nástroj.
+**Tip:** V Windows počítačoch môžeme diagnostikovať a automaticky vyriešiť Office problémy s prihlásením. Stiahnite a spustite asistenta **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)**, aby ste mohli používať náš automatický nástroj.
 
 Ak sa nemôžete prihlásiť do aplikácie Microsoft 365, postupujte podľa nasledujúcich krokov:
 

@@ -1,5 +1,5 @@
 ---
-title: Predplatné na 9000215 Outlook.com
+title: 9000215 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 584138b667f56053254b9aa5cdea764c041ecc4584aaaee683107f21b14d61e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111307"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Predplatné a odhlásenie
+# <a name="subscriptions-and-unsubscribing"></a>Predplatné a odhlásenie z odberu
 
-Ak chcete prestať dostávať bulletiny alebo propagačné akcie, môžete zrušiť odber v Outlook.com dvoma spôsobmi:
+Ak chcete zastaviť prijímanie bulletinov alebo propagačných akcií, odber z lokality Outlook.com môžete zrušiť dvoma spôsobmi:
 
-1. V priečinku doručenej pošty vyberte bulletin alebo propagačný e-mail. V hornej časti tably na čítanie vyberte položku **Zrušiť odoberanie**.
-2. Otvorte [nastavenia predplatného na Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**nastavenia**  >  **Zobraziť všetky nastavenia**  >  **e-mailu**v Outlooku  >  **Subscriptions**) a vyberte možnosť **Zrušiť odoberanie**.
+1. V priečinku doručenej pošty vyberte bulletin alebo propagačný e-mail. V hornej časti tably na čítanie vyberte položku **Zrušiť odber**.
+2. Otvorte nastavenia [predplatného na Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Nastavenia** Zobraziť všetky  >  **Outlook e-mailové** predplatné ) a vyberte  >    >  položku **Zrušiť odber**.
 
-Poznámok
+Poznámky:
 
-- Nie všetci zákazníci môžu túto funkciu využiť v súčasnosti.
-- Táto funkcia sa zobrazí len v prípade, že ste dostali e-mail od spoločnosti, ktorá odosiela e-mailové správy.
+- Momentálne nie je pre túto funkciu prínosom pre všetkých zákazníkov.
+- Táto funkcia sa zobrazí len v prípade, že ste dostali e-mail od spoločnosti, ktorý vám odoslal predplatený e-mail.

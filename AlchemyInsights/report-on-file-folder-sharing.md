@@ -1,5 +1,5 @@
 ---
-title: Nahlásenie zdieľania súborov a priečinkov na lokalitách SharePoint
+title: Nahlásenie zdieľania súborov a priečinkov na SharePoint lokalitách
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a4c2b4aedaa0ac88262e6c4f0c91af952441b6904971eabf774c2a8b7b58042
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110659"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Nahlásenie zdieľania súborov a priečinkov na lokalitách SharePoint
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Nahlásenie zdieľania súborov a priečinkov na SharePoint lokalitách
 
-Môžete vytvoriť CSV súbor s podrobnosťami o každom jedinečnom súbore, používateľovi, povolení a prepojení na danej lokalite SharePoint alebo v knižnici OneDrive. To vám pomôže zistiť, ako sa využíva zdieľanie, a či sa s hosťami zdieľajú súbory alebo priečinky.
+Môžete vytvoriť súbor CSV s podrobnosťami o každom jedinečnom súbore, používateľovi, povolení a prepojení na danej SharePoint alebo OneDrive knižnice. To vám pomôže zistiť, ako sa využíva zdieľanie, a či sa s hosťami zdieľajú súbory alebo priečinky.
 
-Ďalšie informácie nájdete v [článku Hlásenie o zdieľaní súborov a priečinkov na lokalite SharePoint.](https://docs.microsoft.com/sharepoint/sharing-reports)
+Ďalšie informácie nájdete v [článku Hlásenie o zdieľaní súborov a priečinkov na SharePoint lokalite.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
 > [!NOTE]
 > Táto funkcia je momentálne nasadená pre nájomníkov programu First Release a postupne sa nasadzuje všetkým nájomníkom Production.

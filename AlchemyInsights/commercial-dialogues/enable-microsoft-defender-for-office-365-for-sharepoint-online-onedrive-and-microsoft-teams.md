@@ -1,5 +1,5 @@
 ---
-title: Povoľte Microsoft Defender pre Office 365 pre SharePoint Online, OneDrive a Microsoft Teams
+title: Povoľte Trezor prílohy pre SharePoint Online, OneDrive a Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058881"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894478"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Povoľte Microsoft Defender pre Office 365 pre SharePoint Online, OneDrive a Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Povoľte Trezor prílohy pre SharePoint Online, OneDrive a Microsoft Teams
 
-1. Pomocou poverení globálneho správcu alebo správcu zabezpečenia sa prihláste do Centra [Office 365 zabezpečenia a dodržiavania súladu.](https://protection.office.com/)
-2. Na **ľavej table** vyberte položku Spravovanie hrozieb a potom vyberte **položku**  >  [Trezor prílohy](https://protection.office.com/safeattachment).
-3. Vyberte **položku Zapnúť Microsoft Defender pre Office 365 pre SharePoint, OneDrive a Microsoft Teams** a potom vyberte položku **Uložiť**.
+1. Pomocou poverení globálneho správcu alebo správcu zabezpečenia otvorte portál Microsoft 365 Defender v systéme a potom prejdite na položku Politiky & pravidlá hrozieb <https://security.microsoft.com>  \>  \> **a Trezor Prílohy v** **časti** Politiky
+
+   Ak chcete prejsť priamo na **Trezor prílohy,** použite <https://security.microsoft.com/safeattachmentv2> .
+
+2. Na stránke **Trezor Prílohy** kliknite na položku **Globálne nastavenia**.
+3. Na zobrazenom letáku vyberte položku Zapnúť Microsoft Defender pre Office 365 pre **SharePoint, OneDrive a Microsoft Teams** a potom vyberte položku **Uložiť**.
+
     > [!TIP]
     >
-    > - Ako globálny správca alebo správca služby SharePoint Online spustite nasledujúcu rutinu typu cmdlet prostredia PowerShell s **parametrom DisallowInfectedFileDownload** nastaveným na *hodnotu true:* [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Nastavenie upozornení pre zistené súbory](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Pomocou týchto krokov môžete vylepšiť ochranu osobných Trezor pre SharePoint, OneDrive a Microsoft Teams:
+    >
+    > - Ak chcete zabrániť používateľom v sťahovaní škodlivých súborov, použite hodnotu `$true` *parametra DisallowInfectedFileDownload* v rutine typu cmdlet **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** v prostredí SharePoint Online PowerShell. Ďalšie informácie nájdete v téme [Použitie SharePoint Online PowerShell na zabránenie používateľom v sťahovaní škodlivých súborov.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [Vytvorenie politiky upozornenia pre zistené súbory](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Ďalšie informácie nájdete v téme [Microsoft Defender pre Office 365 pre SharePoint, OneDrive a Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
+Ďalšie informácie nájdete v [téme Trezor prílohy pre Office 365 pre SharePoint, OneDrive a Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

@@ -13,20 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951688"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313939"
 ---
 # <a name="app-permission-policies"></a>Politiky povolení aplikácií
 
 Pomocou [politík povolení aplikácie](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)môžete:
-- Ako správca môžete spravovať politiky nastavenia aplikácií v Centre [spravovania Microsoft Teams spravovania](https://admin.teams.microsoft.com/policies/app-permission).
+- Ako správca môžete spravovať politiky nastavenia aplikácií v Centre [Microsoft Teams spravovania .](https://admin.teams.microsoft.com/policies/app-permission)
 - Pomocou globálnej politiky môžete kontrolovať, Microsoft Teams dostupné používateľom vo [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) vašej organizácii, alebo môžete vytvoriť a priradiť vlastné politiky na prispôsobenie a riadenie prístupu používateľov k aplikáciám. 
-> [!NOTE]
-> Nastavenia aplikácií pre celú organizácii prepíšu globálnu politiku a všetky vlastné politiky, ktoré vytvoríte a priradíte používateľom.
+**Poznámka:** Nastavenia aplikácií v celej organizácii prepíšu globálnu politiku a všetky vlastné politiky, ktoré vytvoríte a priradíte používateľom.
 - Politiky nastavenia aplikácií [môžete použiť na](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) prispôsobenie Microsoft Teams zvýraznenie aplikácií, ktoré sú pre vašich používateľov najdôležitejšie. 
 
 

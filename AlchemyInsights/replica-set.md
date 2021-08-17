@@ -1,5 +1,5 @@
 ---
-title: Množina replík
+title: Replika množiny
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110695"
 ---
-# <a name="replica-set"></a>Množina replík
+# <a name="replica-set"></a>Replika množiny
 
-AADDS sa nazýva aj spravovaná doména. Je to vlastne dva radiče domén, ktoré sú spustené a udržiavané backendom. Dva radiče domén zahŕňajú jednu hlavnú DC a jednu replikáciu DC. Zálohy v AADDS (spravovaná doména) sú automatizovaný proces spravovaný platformou Azure. V prípade problému s spravovanou doménou vám môže podpora Azure pomôcť pri obnove zo zálohy.
+AADDS sa nazýva aj spravovaná doména. Ide o dva radiče domén, ktoré sú spúšťané a udržiavané backendom. Tieto dva DCs obsahujú jeden hlavný dc a jeden replikáciu DC. Zálohy v službe AADDS (spravovaná doména) je automatizovaný proces spravovaný platformou Azure. V prípade problému so spravovanú doménou vám podpora pre Azure môže pomôcť pri obnovovaní zo zálohy.
 
-Vytvoríte každú skupinu replík vo virtuálnej sieti. Každá virtuálna sieť musí byť prispôsobená každej inej virtuálnej sieti, ktorá je hostiteľom množiny replík spravovanej domény. V tejto konfigurácii sa vytvorí Topológia siete Mesh, ktorá podporuje replikáciu adresárov. Virtuálna sieť môže podporovať viacero množín replík za predpokladu, že každá množina replík je v inej virtuálnej podsieti.
+Každú množinu repliky vytvoríte vo virtuálnej sieti. Každá virtuálna sieť musí byť peered s každou virtuálnou sieťou, ktorá hosťuje množinu repliky spravovanej domény. Táto konfigurácia vytvorí topológiu siete sieťovej siete, ktorá podporuje replikáciu adresárov. Virtuálna sieť môže podporovať viacero množín replik za predpokladu, že každá množina repliky je v inej virtuálnej podsieti.
 
-Ďalšie podrobnosti o skupine replík nájdete v téme [množiny replík konceptov](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Ďalšie informácie o množine repliky nájdete v téme [Množiny repliky konceptov.](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)

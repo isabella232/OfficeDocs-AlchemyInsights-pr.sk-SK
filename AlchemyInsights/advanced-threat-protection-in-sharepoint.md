@@ -13,12 +13,12 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 822407858ddbdcd8e7cae6286fce7893e3eae5cfcdef44b1c8ad332c67a3ee77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ac634375569cca71ec597929ecaedda529e47414
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882766"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313975"
 ---
 # <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender pre Office 365 v SharePoint a OneDrive
 
@@ -31,5 +31,5 @@ Pozrite si tieto téme:
 
 - [Zisťovanie vírusov v SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
 - [Šifrovanie údajov v odb a spo](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Zabezpečenie údajov vo SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [Zabezpečenie údajov v SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
 - [Detekcia ransomwaru a obnovenie súborov](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

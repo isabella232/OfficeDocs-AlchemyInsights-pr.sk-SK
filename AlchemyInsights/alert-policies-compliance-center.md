@@ -1,5 +1,5 @@
 ---
-title: Politiky upozornení v Centre zabezpečenia a dodržiavania súladu
+title: Politiky upozornení vo Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4bbdc8f9817655fec260e6f85de831a85f89e13f56d559534df68f79c5bed9a2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933516"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893642"
 ---
-# <a name="alert-policies-in-the-security-and-compliance-center"></a>Politiky upozornení v Centre zabezpečenia a dodržiavania súladu
+# <a name="alert-policies-in-microsoft-365"></a>Politiky upozornení vo Microsoft 365
 
-Politiky upozornení a nástroje tabule s upozorneniami v centrách zabezpečenia a dodržiavania súladu pre Microsoft 365 pomáhajú používateľom vytvárať politiky upozornení a potom zobrazovať vygenerované upozornenia, keď používatelia vykonávajú aktivity, ktoré spĺňajú podmienky politiky upozornenia. Niektoré predvolené politiky upozornení pomáhajú monitorovať aktivity, ako je napríklad priraďovanie oprávnení správcu v aplikácii Exchange Online, malvérové útoky, kampane neoprávneného získavania údajov a nezvyčajné úrovne odstraňovania súborov a externého zdieľania.
+Politiky upozornení a nástroje tabule s upozorneniami v aplikáciách Centrum dodržiavania súladu pre Microsoft 365 a portáli Microsoft 365 Defender pomáhajú správcom vytvárať politiky upozornení a potom zobrazovať upozornenia generované vtedy, keď používatelia vykonávajú aktivity, ktoré spĺňajú podmienky politiky upozornenia. Niektoré predvolené politiky upozornení pomáhajú monitorovať aktivity, ako je napríklad priraďovanie oprávnení správcu v spoločnosti Exchange Online, malvérové útoky, kampane neoprávneného získavania údajov a nezvyčajné úrovne odstraňovania súborov a externého zdieľania.
 
-Politiky upozornení umožňujú kategorizovať upozornenia spúšťané politikou, používať politiku pre všetkých používateľov vo vašej organizácii, nastaviť prahovú úroveň spustenia upozornenia a rozhodnúť sa, či sa majú prijímať e-mailové oznámenia pri spustení upozornení. Stránka Zobraziť upozornenia v Centre zabezpečenia a dodržiavania súladu umožňuje používateľom zobrazovať a filtrovať upozornenia, nastavovať stav upozornení na pomoc pri spravovaní upozornení a potom zrušiť upozornenia po vyriešení alebo vyriešení príslušného incidentu.
+Politiky upozornení umožňujú kategorizovať upozornenia spúšťané politikou, používať politiku pre všetkých používateľov v organizácii, nastaviť prahovú úroveň spustenia upozornenia a rozhodnúť sa, či sa majú prijímať e-mailové oznámenia pri spustení upozornení. Stránka **Upozornenia** umožňuje používateľom zobrazovať a filtrovať upozornenia, nastavovať stav upozornení na pomoc pri spravovaní upozornení a potom zrušiť upozornenia po vyriešení alebo vyriešení príslušného incidentu.
 
-Ďalšie informácie nájdete v téme [Politiky upozornení v Centre zabezpečenia a dodržiavania súladu.](/microsoft-365/compliance/alert-policies)
+Ďalšie informácie nájdete v téme [Politiky upozornení vo Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
