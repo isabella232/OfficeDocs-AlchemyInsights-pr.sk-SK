@@ -6,17 +6,18 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: 22c91df2ec8ac1af7b6e3eb8c33ab7764c07c344
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8fc2078836520016cd97677a03ed6d5e3ce9abfa65a5d815060630c222e1d3d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079891"
 ---
 # <a name="cutover-migrations"></a>Kompletné migrácie
 

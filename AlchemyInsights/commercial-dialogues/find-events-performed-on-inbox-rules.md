@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: deb83d278a2b398b4ea6fc31b043c33309b736e3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483703"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882650"
 ---
 # <a name="find-events-performed-on-inbox-rules"></a>Vyhľadanie udalostí vykonaných na základe pravidiel pre doručenú poštu
 
-Keď sa pravidlá pre doručenú poštu vytvoria, zmenia alebo odstránia, udalosti sa zaznamenávajú do denníka auditu. Tu je návod na ich preskúmanie:
+Po vytvorení, zmene alebo odstránení pravidiel pre doručenú poštu sa udalosti zaznamenajú do denníka auditu. Tu je návod na ich revíziu:
 
-1. Prejdite na [centrum dodržiavania súladu & zabezpečenia služieb Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Vyberte položku Hľadať > denník auditu.
+1. Vykonajte jednu z nasledujúcich akcií:
+   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešení.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Audit**. Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://security.microsoft.com/auditlogsearch> .
 
     > [!NOTE]
-    > Ak sa zobrazí oznámenie o tom, že je potrebné zapnúť auditovanie, pokračujte a teraz ho zapnite. Ak táto funkcia nie je zapnutá, výsledky hľadania nebudú môcť vytiahnuť údaje z predchádzajúcich dátumov.
-1. Vyberte pole aktivity a vyhľadajte položku aktivity poštovej schránky servera Exchange a potom vyberte položku New-InboxRule vytvoriť pravidlo pre doručenú poštu z aplikácie Outlook Web App. Po dokončení kliknite mimo tably na minimalizovanie tably aktivity.
-1. Zadajte rozsah dátumov a potom v poli používatelia vyberte meno používateľa, ktorého chcete preskúmať. Naraz môžete vybrať viac ako jedného používateľa.
-1. Vyberte položku Hľadať. Aktivity sa zobrazia v časti výsledky.
-1. Ak chcete zobraziť podrobnosti, vyberte aktivitu a potom vyberte položku Ďalšie informácie. V časti parametre sa zobrazuje názov pravidla, podmienky a akcie, ktoré bude mať pravidlo.
+    > Ak sa zobrazí upozornenie, že potrebujete zapnúť auditovanie, pokračujte a zapnite ho teraz. Ak táto funkcia nie je zapnutá, výsledky hľadania nebudú môcť získať údaje z predchádzajúcich dátumov.
 
-Ďalšie informácie nájdete v téme Vyhľadávanie v denníku auditu služieb Office 365 na riešenie bežných scenárov.
+2. Na **karte Hľadať** na stránke **Audit** nakonfigurujte tieto nastavenia:
+   - **Rozsah dátumu a času:** Vyberte rozsah dátumu a času v **poliach Začiatok** **a** Koniec.
+   - **Aktivity:** Výber položky **Nový-Doručená poštaRule Vytvorenie pravidla pre doručenú poštu Outlook Web App**
+
+3. Po dokončení kliknite na tlačidlo **Hľadať**. Aktivity sa zobrazia na novej **stránke Auditovanie.**
+
+4. Výberom aktivity vo výsledkoch otvorte výlet podrobností. V **časti** Parametre sa zobrazí názov pravidla, množiny podmienok a akcií, ktoré bude pravidlo pravidlo trvať.
+
+Ďalšie informácie nájdete v téme [Prehľadáte denník auditu a preskúmajte bežné problémy technickej podpory.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

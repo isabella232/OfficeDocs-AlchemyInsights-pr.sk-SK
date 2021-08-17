@@ -1,5 +1,5 @@
 ---
-title: 9001220 rozšírené vlastné zisťovanie s loveckou
+title: 9001220 rozšírené vlastné zisťovanie v oblasti športovej nádychu
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 17bee943a0a8e607758bafa0c42bf6580b858952c447c403207bebfba9d8d243
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952300"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882810"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Pokročilé vlastné zisťovanie s kľukateľou
 
 Na základe rozšírených dotazov na vlaňajšie sa môžete naučiť vytvárať a spravovať vlastné pravidlá zisťovania. Pomocou vlastných zistení môžete proaktívne monitorovať rôzne udalosti a stavy systému a reagovať na ne vrátane podozrivej aktivity porušenia a nesprávne nakonfigurovaných zariadení. Môžete tak urobiť pomocou prispôsobiteľných pravidiel zisťovania, ktoré automaticky spúšťajú upozornenia a akcie odpovedí
   
 Ak používate Microsoft Defender ATP, podrobnosti nájdete v nasledujúcich témach: 
-- [Prehľad vlastných zistení](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Vytvorenie pravidiel vlastného zisťovania](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Zobrazenie a správa vlastných pravidiel zisťovania](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+- [Prehľad vlastných zistení](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Vytvorenie pravidiel vlastného zisťovania](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Zobrazenie a správa vlastných pravidiel zisťovania](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Ak používate e Microsoft 365 Defender podrobnosti nájdete v nasledujúcich témach: 
-- [Prehľad vlastných zistení](/microsoft-365/security/mtp/custom-detections-overview)
-- [Vytvorenie a správa pravidiel vlastných zistení](/microsoft-365/security/mtp/custom-detection-rules)
+Ak používate e-Microsoft 365 Defender, podrobnosti nájdete v nasledujúcich témach: 
+- [Prehľad vlastných zistení](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
+- [Vytvorenie a správa pravidiel vlastných zistení](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

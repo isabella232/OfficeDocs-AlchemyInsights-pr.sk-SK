@@ -1,5 +1,5 @@
 ---
-title: Začíname so službou SharePoint Online
+title: Začíname s SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: d3af1cd3d4b22bf62c5748b16b605eaff225a5b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ba34694f0551ade14efd902cfbefc4a7f7d5a62b8d2ea4dbc70424efd772798
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107698"
 ---
-# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navigácia medzi lokalitami a stránkami na lokalitách SharePoint
+# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navigácia lokality a stránky na SharePoint lokalitách
 
-Základné princípy a osvedčené postupy navigácie na lokalite a na stránke sa rovnako vzťahujú na klasické aj moderné architektúry SharePointu. Možnosti implementácie navigácie sa však líšia na základe rámca pre lokality a intranet. Napríklad zdedené možnosti navigácie dostupné v klasických hierarchiách lokalít SharePointu (lokality s podlokalitami) nie sú v modernom prostredí k dispozícii, ale [lokality rozbočovačov](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) poskytujú skvelý spôsob, ako dosiahnuť funkcie navigácie medzi lokalitami, ktoré boli predtým k dispozícii v klasickej službe SharePoint.
+Základné princípy a dobré postupy navigácie na lokalite a na stránke sú rovnako platné pre klasické aj moderné SharePoint architektúry. Vaše možnosti implementácie navigácie sa však líšia na základe rámca pre vaše lokality a intranet. Zdedené funkcie navigácie, ktoré sú k dispozícii napríklad v klasických hierarchiách lokality SharePoint (lokality [](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) s podlokalitami), nie sú v modernom štýle k dispozícii, ale lokality centra poskytujú skvelý spôsob na dosiahnutie funkcií navigácie medzi lokalitami, ktoré boli predtým k dispozícii v spravovanej navigácii a hierarchiách lokality v klasickom SharePoint.
 
- Ďalšie informácie o možnostiach navigácie nájdete na prepojeniach nižšie.
+ Ďalšie informácie o možnostiach navigácie nájdete pomocou prepojení nižšie.
 
- - [Plánovanie navigácie pre moderné prostredie SharePointu](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
+ - [Plánovanie navigácie pre moderné SharePoint prostredie](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [Prispôsobenie navigácie na lokalite SharePoint](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [Prispôsobenie navigácie na SharePoint lokalite](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
-- [Možnosti navigácie v SharePointe Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
+- [Možnosti navigácie pre SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
-- [Usporiadanie lokalít SharePointu pomocou navigácie v MegaMenu](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
+- [Organizovanie webových SharePoint s megamenu navigáciou](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [Spravované metaúdaje a navigácia v SharePointe](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [Spravované metaúdaje a navigácia v SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 

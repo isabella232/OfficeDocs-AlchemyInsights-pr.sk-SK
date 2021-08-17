@@ -1,5 +1,5 @@
 ---
-title: Modernizácia lokalít SharePoint
+title: Modernizovanie SharePoint lokalít
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107851"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Modernizácia lokalít SharePoint
+# <a name="modernize-your-sharepoint-sites"></a>Modernizovanie SharePoint lokalít
 
-Podrobný prehľad modernizácie klasických lokalít SharePointu na moderné prostredie nájdete v téme [modernizácia klasických lokalít SharePointu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Podrobný prehľad o modernizovaní klasických webových lokalít v SharePoint modernejšie nájdete v téme [Modernizovanie](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)klasického SharePoint Lokality.
 
-* Ak chcete maximalizovať používanie moderných používateľských rozhraní pre stránky a stránky zoznamu a knižnice, pozrite si tému [modernizácia používateľského rozhrania](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Ďalšie informácie o tom, ako odblokovať zoznamy a knižnice pri používaní moderného používateľského rozhrania, nájdete v téme [maximalizovanie používania moderných zoznamov a knižníc](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Ďalšie informácie o pripojení k skupine Microsoft 365 a vykonávaní skupinových pripojení nájdete v téme [pripojenie k skupine microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Ak chcete maximalizovať použitie moderného používateľského rozhrania pre stránky lokality a stránky zoznamu a knižnice, pozrite si časť [Modernizovanie používateľského rozhrania.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)
+* Ďalšie informácie o tom, ako odblokovať zoznamy a knižnice pri používaní moderného používateľského rozhrania, nájdete v téme Maximalizovanie [používania moderných zoznamov a knižníc.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+* Ďalšie informácie o pripojení k Microsoft 365 k skupine a o vykonaní pripojenia skupiny nájdete v [Pripojenie pripojení k Microsoft 365 skupine.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
 
-**Dôležité**: Ak máte pocit, že stránka sa už zobrazí v modernom zobrazení a nie, prejdite na príslušnú stránku, skopírujte URL adresu a zadajte URL adresu ako súčasť podrobností o vašom vstupenke na podporu.
+**Dôležité:** Ak máte pocit, že vaša stránka by sa už mala zobraziť v modernom zobrazení a nie je, prejdite na stránku, na ktorú sa chcete pozrieť, skopírujte URL adresu a zadajte URL ako súčasť podrobností vašej lístka technickej podpory.

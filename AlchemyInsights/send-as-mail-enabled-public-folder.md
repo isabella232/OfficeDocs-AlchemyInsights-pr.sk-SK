@@ -1,5 +1,5 @@
 ---
-title: Verejný priečinok Odoslať ako E-mail v EXO
+title: Odoslať ako verejný priečinok s podporou e-mailu v EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48462071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052581"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>Verejný priečinok SendAs pošta
+# <a name="sendas-mail-enabled-public-folder"></a>Odoslať ako verejný priečinok s podporou e-mailu
 
-V nasledujúcom príklade sa priraďujú povolenia Odoslať ako pre verejný priečinok s podporou e-mailov pre NewPF1 používateľa Jason.
+V nasledujúcom príklade sa priraďujú povolenia "Odoslať ako" pre verejný priečinok s podporou e-mailu NewPF1 používateľovi Jason.
 
-Add-RecipientPermission-identita ' NewPF1 '-správca "Jason"-AccessRights ' SendAs '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Podrobné informácie o syntaxi a parametroch nájdete v téme [Priradenie povolení Odoslať ako alebo Odoslať v mene pre verejné priečinky s podporou e-mailu](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Podrobné informácie o syntaxi a parametroch nájdete v téme Priradenie povolení Odoslať ako alebo Odoslať v mene [pre verejné priečinky s podporou e-mailu.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 
