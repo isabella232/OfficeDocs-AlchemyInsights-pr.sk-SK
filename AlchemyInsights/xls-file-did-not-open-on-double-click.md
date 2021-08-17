@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047163"
 ---
-# <a name="excel-file-doesnt-open"></a>Excelový súbor sa neotvorí
+# <a name="excel-file-doesnt-open"></a>Excel sa súbor neotvorí
 
 Vyskúšajte niektorý z týchto návrhov:
 
-**Výber excelového súboru ako predvoleného**
+**Výber Excel ako predvoleného nastavenia**
 
-* Kliknite pravým tlačidlom myši na hárok, vyberte položku **Otvoriť v programe** a potom vyberte položku **Excel**
+* Kliknite pravým tlačidlom myši na hárok, vyberte **položku Otvoriť v** aplikácii a potom vyberte položku **Excel**
 
 **Spustenie rýchlej opravy**
 
 1. Prejdite do **ovládacieho panela a > Programy > Programy a súčasti.**
 
-2. Vyberte produkt balíka Office, ktorý chcete opraviť, a potom vyberte položku **Zmeniť**.
+2. Vyberte typ Office, ktorý chcete opraviť, a potom vyberte položku **Zmeniť**.
 
 3. Vyberte možnosť **Rýchla oprava** a potom položku **Opraviť**.
 
-**Odinštalovanie verzií balíka Office, ktoré používate**
+**Odinštalovanie Office ktoré používate**
 
-1. Prejdite do **ovládacieho panela > Odinštalovať program a** potom vyberte verziu balíka Office, ktorú chcete odstrániť.
+1. Prejdite do **ovládacieho panela > Odinštalovať program a** potom vyberte verziu balíka Office ktorú chcete odstrániť.
 
 2. Kliknite na **položku Odinštalovať**.
 
 3. Reštartujte počítač.
 
-**Spustite tohto poradcu pri riešení problémov a nastavte otváranie prípon súborov balíka Office v balíku Office**
+**Spustite tohto poradcu pri riešení problémov a nastavte Office súborov tak, aby sa otvárali v Office**
 
 1. Spustite tohto poradcu pri riešení problémov: https://aka.ms/diag_officefile .
 

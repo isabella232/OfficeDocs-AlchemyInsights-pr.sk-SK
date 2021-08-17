@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2fb5d7ca8e074e69dbb7c35aab35754c14508a5d91b12a1fc943fadda242040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047235"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Riešenie problémov s konvertovaním word dokumentu do formátu XPS alebo PDF
 
@@ -41,4 +41,4 @@ Tu je niekoľko riešení bežných problémov.
 
 2. V okne **Publikovať vo formáte PDF alebo XPS** vyberte **položku** Možnosti  >  **značiek štruktúry dokumentu na zjednodušenie ovládania**. Nastavte ďalšie požadované možnosti a vyberte tlačidlo **OK.**
 
-Ďalšie informácie o možnostiach konverzie súborov balíka Office do formátu XPS alebo PDF nájdete v téme [Uloženie alebo konvertovanie do FORMÁTU PDF alebo XPS.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)
+Ďalšie informácie o možnostiach konverzie súborov z Office do formátu XPS alebo PDF nájdete v téme Uloženie alebo [konvertovanie do formátu PDF alebo XPS.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

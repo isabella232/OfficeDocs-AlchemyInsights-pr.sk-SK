@@ -1,5 +1,5 @@
 ---
-title: Výrazy chýbajúce zo služby SharePoint Online term Store
+title: Chýbajúce výrazy v SharePoint online ukladacieho priestoru výrazov
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106441"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Povolenie šifrovania BitLocker so službou Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Povolenie šifrovania BitLocker v Intune
 
-Politika ochrany koncového bodu služby Intune sa môže použiť na konfigurovanie nastavení šifrovania Boitlocker pre zariadenia s Windowsom, ako je popísané v téme: windows10 (a novšie verzie) na ochranu zariadení pomocou služby Intune
+Politiku ochrany koncových bodov služby Intune možno použiť na konfiguráciu nastavení šifrovania BoitLocker pre Windows podľa popisu v nastaveniach Windowsu10 (a novších) na ochranu zariadení pomocou služby Intune.
 
-Mali by ste vedieť, že mnohé novšie zariadenia s Windowsom 10 podporujú automatické šifrovanie šifrovania BitLocker, ktoré je spustené bez použitia politiky MDM. Môže to mať vplyv na uplatňovanie politiky, ak nie sú nakonfigurované iné ako predvolené nastavenia. Ďalšie podrobnosti nájdete v téme Najčastejšie otázky.
-
-
-FAQ   Q: ktoré vydania systému Windows podporujú šifrovanie zariadenia pomocou politiky koncového bodu ochrany?
- A: nastavenie politiky ochrany koncového bodu služby Intune sa implementuje pomocou funkcie BitLocker CSP.Nie všetky vydania ani zostavy Windowsu nepodporujú funkciu BitLocker CSP. 
-      V tejto časovej verzii Windowsu: Enterprise; Podporované sú vzdelávacie, mobilné, mobilné podniky a profesionálna (od zostavy 1809).
+Mali by ste vedieť, že mnohé novšie zariadenia so Windows 10 podporujú automatické šifrovanie bitlocker, ktoré sa spúšťa bez použitia politiky MDM. Môže to mať vplyv na aplikáciu politiky, ak sú nakonfigurované iné ako predvolené nastavenia. Ďalšie podrobnosti nájdete v téme Najčastejšie otázky.
 
 
-
-
-Otázka: Ak je zariadenie už šifrované pomocou šifrovania BitLocker s použitím predvolených nastavení operačného systému pre metódu šifrovania a pevnosť šifrovania (XTS-AES-128), bude uplatňovať politiku s rôznymi nastaveniami automaticky spustiť opätovné šifrovanie jednotky s novým nastavením?
-
-Odpoveď: Nie. Ak chcete použiť nové nastavenia šifrovania, jednotka musí byť najprv dešifrovaná.
-
-Poznámka v prípade zariadení, ktoré sa zaregistrovali pomocou funkcie autopilot, automatické šifrovanie, ktoré sa vyskytne počas OOBE, sa nespustí, kým sa nevyhodnotí politika služby Intune, ktorá umožňuje použitie nastavení politiky na mieste predvolených hodnôt operačného systému.
+Najčastejšie otázky: Ktoré vydania balíka Windows podporujú šifrovanie zariadenia pomocou politiky Endpoint Protection?
+A: Nastavenia v politike Ochrany koncových bodov služby Intune sa implementuje pomocou šifrovania BitLocker CSP.  Nie všetky vydania ani zostavy šifrovania BitLocker Windows podporu pre šifrovanie BitLocker. V tejto Windows vydania: Enterprise; Podpora pre Vzdelávacie inštitúcie, Mobile, Mobile Enterprise a Professional (od zostavy 1809 od 1809).
 
 
 
 
-Otázka: Ak je zariadenie zašifrované ako dôsledok uplatňovania politiky služby Intune, po odstránení tejto politiky sa dešifruje?
+Otázka: Ak už je zariadenie šifrované pomocou šifrovania BitLocker pomocou predvolených nastavení operačného systému pre metódu šifrovania a silu šifrovanej jednotky (XTS-AES-128), použitie politiky s rôznymi nastaveniami automaticky spustí opätovné šifrovanie jednotky s novým nastavením?
 
-A: Odstránenie politiky súvisiacej s šifrovaním nevedie k dešifrovaniu jednotiek, ktoré boli nakonfigurované.
+Odpoveď: Nie. Ak chcete použiť nové nastavenia šifrovanej jednotky, musí sa jednotka najprv dešifrovať.
+
+Poznámka V zariadeniach zaregistrovaných pomocou funkcie Autopilot sa automatické šifrovanie, ktoré sa uskutoční počas funkcie OOBE, nespúšťa až po vyhodnotení politiky intune, ktorá umožňuje použitie nastavení na základe politiky namiesto predvolených nastavení operačného systému.
 
 
 
 
-Otázka: prečo politika v oblasti dodržiavania súladu so službou Intune zobrazuje, že moje zariadenie nemá zapnutú funkciu BitLocker, ale je to?
+Q Ak je zariadenie šifrované v dôsledku aplikácie politiky Intune, bude sa pri odstránení tejto politiky dešifrovať?
 
-A: nastavenie šifrovania BitLocker v politike kompatibility služby Intune využíva klienta Windows Health Atestation (DHA). Tento klient meria stav zariadenia v čase spúšťania. Ak sa už po dokončení šifrovania šifrovania BitLocker nereštartuje zariadenie, klient služby DHA neohlási ako aktívnu funkciu BitLocker.
+A: Odstránenie politiky súvisiacej so šifrovaním NEMÁ za následok dešifrovanie nakonfigurovaných jednotiek.
+
+
+
+
+Otázka: Prečo sa v politike dodržiavania súladu pre Intune zdá, že v mojom zariadení nie je zapnuté šifrovanie BitLocker, ale je to?
+
+A: Nastavenie šifrovania BitLocker povolené v politike dodržiavania súladu pre intune používa klienta Windows stavom zariadenia (DHA). Tento klient meria len stav zariadenia pri spustení. Ak sa teda zariadenie od šifrovania bitLocker dokončilo, služba klienta DHA nezadá šifrovanie bitLocker ako aktívne.

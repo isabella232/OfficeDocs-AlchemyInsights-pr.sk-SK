@@ -1,5 +1,5 @@
 ---
-title: Windows autopilot a zariadenia Surface X Pro
+title: Windows Autopilot a zariadenia Surface X Pro zariadenia
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047415"
 ---
-# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows autopilot a zariadenia Surface X Pro
+# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Autopilot a zariadenia Surface X Pro zariadenia
 
-Windows autopilot je technológia nasadenia v cloude vo Windowse 10. Pomocou funkcie Windows autopilot môžete vzdialene nasadiť a nakonfigurovať zariadenia priamo z poľa. Windows autopilot – registrované zariadenia sa identifikujú cez internet pri prvom spustení prostredníctvom jedinečného podpisu zariadenia nazývaného hash hardvéru. Sú nakonfigurované s použitím moderných riešení spravovania, ako je napríklad Azure Active Directory (Azure AD) a Microsoft Intune.
+Windows Autopilot je technológia cloudového nasadenia v Windows 10. Pomocou funkcie Windows Autopilot môžete zariadenia na vzdialene nasadiť a nakonfigurovať hneď vedľa zariadenia. Windows Zariadenia zaregistrované pomocou autopilota sa pri prvom spustení identifikujú prostredníctvom jedinečného podpisu zariadenia, ktorý sa nazýva hardvérová hash. Sú nakonfigurované pomocou moderných riešení správy, ako sú napríklad Azure Active Directory (Azure AD) a Microsoft Intune.
 
-Zariadenia môžete dodať priamo používateľom. Tento proces eliminuje opätovné zobrazenie počas nasadenia, vďaka čomu môžete implementovať nové, agilné metódy správy a distribúcie zariadení.
+Zariadenia možno odoslať priamo používateľom. Tento proces eliminuje opätovné spracovanie počas nasadzovania, čo vám umožní implementovať nové agilné metódy správy a distribúcie zariadení.
 
-Ďalšie informácie nájdete v téme [Windows autopilot a zariadenia Surface](https://go.microsoft.com/fwlink/?linkid=2135712).
+Ďalšie informácie nájdete v téme [Windows AutoPilot a zariadenia Surface.](https://go.microsoft.com/fwlink/?linkid=2135712)

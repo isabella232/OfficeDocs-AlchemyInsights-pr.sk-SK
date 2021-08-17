@@ -1,5 +1,5 @@
 ---
-title: Inštalácia aplikácií balíka Microsoft Office v zariadení s Androidom
+title: Inštalácia Microsoft Office aplikácií v zariadení s Androidom
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078061"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>Inštalácia aplikácií balíka Microsoft Office v zariadení s Androidom
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>Inštalácia Microsoft Office aplikácií v zariadení s Androidom
 
-V Chromebooku alebo telefóne alebo tablete s Androidom môžete nainštalovať aplikácie balíka Microsoft Office ako samostatné aplikácie alebo ako balík.
+V Chromebooku alebo telefóne alebo tablete s Androidom si môžete nainštalovať Microsoft Office ako samostatné aplikácie alebo balík.
 
-- [Inštalácia aplikácie balíka Office (balíka) z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Inštalácia aplikácie balíka Office (balíka) z internetového obchodu Chrome](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [Inštalácia Microsoft Wordu z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [Inštalácia Microsoft Excelu z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
-- [Inštalácia programu Microsoft PowerPoint z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [Inštalácia Microsoft OneNotu z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [Nainštalujte aplikácia Office (balík) z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [Nainštalujte aplikácia Office (balík) z Internetový obchod Chrome](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Inštalácia Microsoft Word z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [Inštalácia Microsoft Excel z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [Inštalácia aplikácie Microsoft PowerPoint z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137121)
+- [Inštalácia Microsoft OneNote z obchodu Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-Ďalšie informácie nájdete v téme [Inštalácia a nastavenie balíka Office v Androide](https://go.microsoft.com/fwlink/?linkid=2135287).
+Ďalšie informácie nájdete v téme [Inštalácia a nastavenie Office v Androide.](https://go.microsoft.com/fwlink/?linkid=2135287)
