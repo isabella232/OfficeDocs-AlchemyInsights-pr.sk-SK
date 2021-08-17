@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e1049f160a9b92040095b6725fa5771218a0956d17f99ea8a6e9cc279e7c73f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079717"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nefunguje podľa očakávania
 
@@ -26,28 +26,28 @@ ms.locfileid: "50707825"
 
  **Nastavenie DLP**
 
-Vyskytli sa problémy s **prevenciou pred stratou údajov (DLP)** v Office 365 nefunguje podľa očakávania? Ak áno, uistite sa, že **politika DLP** je nastavená správne a že vaše údaje obsahujú informácie o tom, čo **politika DLP** hľadá pri jej vyhodnocovaní.
+Máte problémy s **stratou údajov (DLP) v** prípade, Office 365 nefunguje podľa očakávaní? Ak áno, skontrolujte, či je politika **DLP** nastavená správne a či vaše údaje obsahujú to, čo hľadá politika **DLP** pri vyhodnocovaní.
   
-Politiky DLP vám umožňujú identifikovať a chrániť citlivé informácie vo vašej organizácii. Ak chcete nastaviť politiky DLP, použite informácie [tu](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template).
+Politiky DLP vám umožňujú identifikovať a chrániť citlivé informácie vo vašej organizácii. Ak chcete nastaviť politiky DLP, použite informácie [uvedené tu.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)
   
- **Čo politiky DLP hľadajú**
+ **Čo sa v politikách DLP vyhľadá**
   
-Pri používaní **vstavaných typov citlivých informácií** v centre zabezpečenia a dodržiavania súladu majú politiky DLP pri zisťovaní týchto citlivých typov vyhľadať konkrétne vzory a prvky.
+Pri používaní **vstavaných typov citlivých** informácií v centrách zabezpečenia a dodržiavania súladu sa v rámci politík DLP pri zisťovaní týchto citlivých typov budú hľadať konkrétne vzory a prvky.
   
 - **Vstavané typy citlivých informácií**
 
-    Informácie o vstavaných citlivých typoch a o tom, čo politika DLP vyhľadáva pri zisťovaní citlivého typu, nájdete v téme: [Aké typy citlivých informácií](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)vyhľadávajú.
+    Informácie o vstavaných typoch Citlivé a o tom, čo sa hľadá v rámci politiky DLP pri zisťovaní typu Citlivé, nájdete v téme: Čo vyhľadávajú typy [citlivých informácií.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
 - **Vlastné typy citlivých informácií**
 
-    Ak sa pokúšate vytvoriť vlastné typy citlivých informácií, použite nasledujúci článok, kde nájdete informácie o tom, ako vytvoriť vlastný typ citlivosti: [Vytvorenie vlastného typu citlivých informácií](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
+    Ak sa pokúšate vytvoriť vlastné typy citlivých informácií, v nasledujúcom článku nájdete informácie o tom, ako vytvoriť vlastný citlivý typ: Vytvorenie vlastného typu [citlivých informácií.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **Testovanie politiky DLP**
 
-Ak chcete otestovať údaje pomocou vstavaného alebo vlastného typu citlivých informácií, použite možnosť **testovať typ** v časti **klasifikácie**  >  **citlivé typy informácií**. Ďalšie informácie nájdete v téme [testovanie vlastných typov citlivých informácií](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Ak chcete údaje otestovať pomocou vstavaného alebo vlastného typu citlivých informácií, použite **možnosť Typ testu** v časti **Klasifikácie**  >  **Typy citlivých informácií.** Ďalšie informácie nájdete v téme [Testovanie vlastných typov citlivých informácií.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
 
  **Zostavy**
   
-- Získajte podrobné informácie o citlivých údajoch so [zostavami DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- Získajte prehľad o citlivých údajoch pomocou [zostáv DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Pozrite si konkrétne podrobnosti o udalosti s [hlásením incidentu](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
+- Pozrite si konkrétne podrobnosti udalosti so správou [o incidente.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)

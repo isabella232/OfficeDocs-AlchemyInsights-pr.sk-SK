@@ -1,5 +1,5 @@
 ---
-title: Podporovaná verzia nástroja na migráciu SharePointu
+title: Podporovaná verzia nástroja SharePoint migrácia
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: c89d9326bae649c3cf9384b1c47842a36399816a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3276d166d44798c2ffffad6f9504b73dfd81751e02cf3ba106ff6f89a9fc30b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107104"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Podporovaná verzia nástroja na migráciu SharePointu
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Podporovaná verzia nástroja SharePoint migrácia
 
 
 
-Nástroj na migráciu v súčasnosti podporuje iba migráciu z SharePointu 2013. Verzie 2010 a 2016 nie sú v súčasnosti podporované.
+Nástroj na SharePoint migráciu momentálne podporuje len migrácie z SharePoint 2013. Verzie 2010 a 2016 nie sú v tejto verzii podporované.
   
-Ďalšie informácie nájdete v téme [úvodné informácie o nástroji na migráciu SharePointu](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
+Ďalšie informácie nájdete v téme [Predstavujeme nástroj SharePoint migráciu](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
   
 

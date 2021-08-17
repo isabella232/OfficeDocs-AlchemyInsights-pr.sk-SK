@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107140"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Inventár softvéru chýba alebo je nepresný
 
-Inventár softvéru v Microsoft Defender ATP poskytuje názov produktu alebo dodávateľa, číslo jeho najnovšej verzie a zistené problémy a chyby. Ďalšie informácie nájdete v téme [Inventár softvéru – Spravovanie hrozieb a rizík.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
+Inventár softvéru v službe Microsoft Defender ATP poskytuje názov alebo dodávateľa produktu, číslo jeho najnovšej verzie a zistené úsečky a slabé miesta. Ďalšie informácie nájdete v téme [Inventár softvéru – Spravovanie hrozieb a rizík.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
 Pomocou týchto krokov môžete nahlásiť nejasné alebo neúplné informácie, nepresné čísla verzií alebo informácie o opravenom inventári softvéru.  
 

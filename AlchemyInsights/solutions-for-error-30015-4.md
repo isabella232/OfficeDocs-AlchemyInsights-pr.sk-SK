@@ -1,5 +1,5 @@
 ---
-title: Riešenie chyby 30015-4
+title: Riešenia chyby 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,26 +14,26 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 74aca1fb73e85bc7796047f7e77022f4f418ffc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34dbeb3bcfffe7ff79a8ee753f5187abdb5c58891f93bfac5fd8acb794f4f5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050277"
 ---
-# <a name="solutions-for-error-30015-4"></a>Riešenie chyby 30015-4
+# <a name="solutions-for-error-30015-4"></a>Riešenia chyby 30015-4
 
-- Reštartujte počítač a skúste [nainštalovať balík Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Reštartujte počítač a skúste [nainštalovať Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - Stiahnite a nainštalujte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Keď sa otvorí, v časti **Odinštalovanie produktov balíka Office** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **ďalej**.
+1. Keď sa otvorí, v časti **Odinštalovať Office produkty** vyberte verziu, ktorú chcete odinštalovať, a vyberte položku **Ďalej**.
 
 2. Postupujte cez jednotlivé obrazovky a po zobrazení výzvy reštartujte počítač.
 
-    Po reštartovaní sa automaticky znova otvorí nástroj support and Recovery Assistant, aby sa dokončil proces odinštalovania.
+    Po reštartovaní sa Support and Recovery Assistant znova otvorí, aby sa dokončil proces odinštalovania.
 
-3. Sledovanie zostávajúcich výziev a [Preinštalovanie balíka Office](https://portal.office.com/OLS/MySoftware.aspx) alebo zatvorenie Asistenta.
+3. Postupujte podľa ďalších pokynov a [znova](https://portal.office.com/OLS/MySoftware.aspx) Office alebo zatvorte asistenta.
 
-[Oprava chýb pri inštalácii balíka Office](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[Oprava Office inštalácie](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   

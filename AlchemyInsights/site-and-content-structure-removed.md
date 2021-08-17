@@ -1,5 +1,5 @@
 ---
-title: Odstránená štruktúra lokality a obsahu
+title: Štruktúra lokality a obsahu bola odstránená
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,20 +8,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 0e00cdc67a27afc210e3b017a7229b39a1598fab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ab61c0203b1e91e9851482ccf5b093ccb97db2588c6af424cbf24c51e7fbcda
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050457"
 ---
-# <a name="site-and-content-structure-removed"></a>Odstránená štruktúra lokality a obsahu
+# <a name="site-and-content-structure-removed"></a>Štruktúra lokality a obsahu bola odstránená
 
-Počnúc októbrom 2018 sa stránka obsahu a štruktúry lokality už nebude podporovať ani dostávať aktualizácie funkcií. Prepojenie nastavenie na stránku SiteManager. aspx sa odstráni zo služby SharePoint Online a priamy prístup sa obmedzí na správcov kolekcie lokalít až do marca 2019, v ktorom čase bude stránka obsah a štruktúra lokality úplne ukončená. 
+Od októbra 2018 už nebude stránka Obsah lokality a štruktúra podporovaná ani sa nebudú prijímať aktualizácie funkcií. Prepojenie nastavení na stránku SiteManager.aspx bude zo služby SharePoint Online odstránené a priamy prístup bude do marca 2019 obmedzený pre správcov kolekcie lokalít. V tomto čase bude stránka Obsah lokality a štruktúra úplne vynechá. 
 
-Poznámka: ako alternatívne riešenie, až kým funkcia nie je úplne ukončená, správcovia kolekcie lokalít môžu prejsť do centra spravovania služby Microsoft 365, vybrať dlaždicu SharePoint a pridať alebo upraviť URL adresu nahradením '/SharePoint.aspx ' s '/Sitemanager.aspx '. 
+Poznámka: Alternatívnym riešením je dovtedy, kým nebude táto funkcia úplne vynecháná, správcovia kolekcie lokalít môžu prejsť na Centrum spravovania služby Microsoft 365, vybrať dlaždicu SharePoint a pripojiť alebo upraviť URL adresu nahradením adresy '/Sharepoint.aspx' reťazcom '/Sitemanager.aspx'. 
 
 
-Ak chcete spravovať obsah a štruktúru lokality, použite premiestnenie a kopírovanie súboru. Ďalšie informácie nájdete v téme [Kopírovanie súborov a priečinkov medzi lokalitami OneDrive a SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Pomocou funkcie Premiestnenie a kopírovanie súboru môžete spravovať obsah a štruktúru lokality. Ďalšie informácie nájdete v téme [Kopírovanie súborov a priečinkov medzi OneDrive a SharePoint lokalít.](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f) 
 
-Ďalšie informácie nájdete v téme [Práca s obsahom a štruktúrou lokality](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Ďalšie informácie nájdete v časti Práca s [obsahom a štruktúrou lokality.](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f)

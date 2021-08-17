@@ -1,5 +1,5 @@
 ---
-title: Nepoužívajte vynútiť inováciu. Ako sa vrátim na predchádzajúcu verziu balíka Office?
+title: Nenútite ma inovovať. Ako sa vrátim na predchádzajúcu Office verziu?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812023"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079609"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Nepoužívajte vynútiť inováciu. Ako sa vrátim na predchádzajúcu verziu balíka Office?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Nenútite ma inovovať. Ako sa vrátim na predchádzajúcu Office verziu?
 
-Pri otváraní súboru balíka Office sa môže namiesto inej verzie otvoriť skúšobná verzia aplikácie balíka Office. Toto sa stane, ak máte skúšobnú verziu Microsoft 365.
+Pri otváraní Office sa môže otvoriť skúšobná verzia aplikácia Office verzie, a nie iná verzia. Stane sa to v prípade, že máte skúšobnú Microsoft 365 verziu.
   
-Pri inštalácii skúšobnej verzie balíka Microsoft 365 je nainštalovaná skúšobná verzia 2016 aplikácií. Tieto skúšobné verzie sa stávajú predvolenými na otváranie súborov Wordu, Excelu a PowerPointu. Ak máte napríklad nainštalovaný Excel 2013 a nainštalovali ste aj skúšobnú verziu Microsoft 365, zošity sa otvoria v skúšobnej verzii Excelu 2016.
+Po inštalácii skúšobnej Microsoft 365 sa nainštaluje skúšobná verzia aplikácií 2016. Tieto skúšobné verzie sa stanú predvolenými verziami na otváranie wordových, Excel a PowerPoint súborov. Ak ste napríklad nainštalovali Excel 2013 a nainštalovali ste aj skúšobnú verziu balíka Microsoft 365, zošity sa otvoria v skúšobnej verzii balíka Excel 2016.
   
-Ak máte tento problém, môžete [odinštalovať](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) aplikácie 2016 a použiť staršie verzie aplikácií, ktoré už máte nainštalované. Prípadne môžete [odinštalovať](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) staršie verzie aplikácií a inovovať na novšie verzie, ktoré sú súčasťou služby Microsoft 365.
+Ak máte tento problém, [](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) môžete odinštalovať aplikácie verzie 2016 a používať staršie verzie aplikácií, ktoré už máte nainštalované. Prípadne môžete [odinštalovať](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) staršie verzie aplikácií a inovovať na novšie verzie, ktoré sú súčasťou balíka Microsoft 365.
