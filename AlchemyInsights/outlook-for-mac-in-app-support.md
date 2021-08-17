@@ -1,5 +1,5 @@
 ---
-title: 1800009 Outlook pre Mac v aplikácii podpory pre aplikáciu
+title: 1800009 Outlook pre Mac v aplikácii
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33ec262ed3f6bd45424476fded5d88b62f59cdf31542e675923a030f1d6b8fa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053481"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Podpora v aplikácii v Outlooku pre Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Podpora v aplikácii v Outlook pre Mac
 
-Ak chcete získať podporu v aplikácii pre problémy s Outlookom pre Mac, Otvorte Outlook a kliknite na položku **pomoc** pri \> **kontakte s podporou**. Zadajte svoju otázku a člen tímu podpory pre Outlook pre Mac sa bude s vami skontaktovať. 
+Ak chcete získať podporu pre ďalšie problémy Outlook pre Mac aplikáciou, otvorte aplikáciu Outlook kliknite na **položku** \> **Kontaktovať podporu.** Napíšte svoju otázku a člen tímu podpory Outlook pre Mac sa s vami bude môcť s vami s vami stoto vrátiť. 
 
-Ďalšie informácie: [kontaktovanie podpory v rámci Outlooku pre Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Ďalšie informácie: [Kontaktovanie podpory v Outlook pre Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

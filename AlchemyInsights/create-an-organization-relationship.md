@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816143"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080365"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Vytvorenie vzťahu organizácie na umožnenie používateľom spolupracovať s inou organizáciou
 
-1. Na tabuli Centra spravovania služby Microsoft 365 prejdite na položku **Exchange**  >  **správcu.**
+1. Na tabuli Centrum spravovania služby Microsoft 365 prejdite na **položku**  >  **Správca Exchange.**
 2. Prejdite do **zdieľania**  >  **organizácie.**
 3. V **časti Zdieľanie organizácie** kliknite na položku **Nové** .
 4. V **novom organizačnom** vzťahu zadajte **do poľa Názov** vzťahu priateľský názov pre vzťah organizácie.
-5. Do poľa Domény na zdieľanie **zadajte** doménu pre externú organizáciu so službami Office 365 alebo Exchange lokálnou organizáciou, s ktorej chcete zobraziť kalendáre. Ak potrebujete zadať viac domén, oddeľte názvy domén čiarkami. Môžete napríklad contoso.com service.contoso.com.
+5. Do poľa Domény na zdieľanie **s** zadajte doménu pre externú Office 365 alebo Exchange organizáciu, s ktorej chcete zobraziť svoje kalendáre. Ak potrebujete zadať viac domén, oddeľte názvy domén čiarkami. Môžete napríklad contoso.com service.contoso.com.
 6. **Začiarknuť políčko Povoliť zdieľanie informácií o voľnom** čase v kalendári zapnete zdieľanie kalendára s doménami, ktoré sú uvedené v zozname. Nastavte úroveň zdieľania informácií o voľnom čase v kalendári a nastavte používateľov, ktorí môžu zdieľať informácie o voľnom čase z kalendára.  
 
 Ak chcete nastaviť úroveň prístupu k informáciám o voľnom čase, vyberte niektorú z týchto možností:
@@ -46,6 +46,6 @@ Kliknutím **na tlačidlo** Uložiť vytvoríte vzťah organizácie.
 
 **Podrobné informácie o tejto téme nájdete v článku:**
 
-- [Vytvorenie vzťahov v organizácii v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Úprava vzťahov v organizácii v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Odstránenie vzťahov organizácie v službe Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Vytvorenie vzťahov v organizácii v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Úprava vzťahov organizácie v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Odstránenie vzťahov organizácie v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

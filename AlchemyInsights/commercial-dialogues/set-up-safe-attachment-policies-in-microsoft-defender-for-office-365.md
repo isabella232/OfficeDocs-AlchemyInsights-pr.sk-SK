@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058557"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888385"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Nastavenie Trezor príloh v programe Microsoft Defender pre Office 365
 
-1. Prejdite do Centra [zabezpečenia Office 365 a dodržiavania & a](https://go.microsoft.com/fwlink/p/?linkid=2077143) vyberte položku Politika   >  **spravovania hrozieb**  >  **Trezor prílohy**.
-2. Ak chcete túto funkciu zapnúť pre iné pracovné vyťaženia, vyberte položku Zapnúť Microsoft Defender pre Office 365 pre **SharePoint Online, OneDrive a Microsoft Teams**.
-3. Ak chcete vytvoriť novú politiku, vyberte **ikonu Nové** **+** ().
-4. Zadajte názov, popis a nastavenia politiky.
-5. Vyberte **položku Uložiť**.
+1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/> **e-maily &** na \> **& Pravidlá** \>  \> **hrozieb Trezor prílohy v** **časti** Politiky.
+
+   Ak chcete prejsť priamo na **Trezor prílohy,** použite <https://security.microsoft.com/safeattachmentv2> .
+
+2. Na stránke **Trezor Prílohy** vykonajte niektorý z týchto krokov:
+   - Ak chcete pridať novú politiku, vyberte položku **+ Vytvoriť**. Spustí sa sprievodca, ktorý vám pomôže definovať nastavenia politiky.
+   - Ak chcete upraviť existujúcu politiku, vyberte politiku kliknutím na jej názov. V zobrazenej bubline s podrobnosťami vyberte položku **Upraviť** v sekcii obsahujúcej nastavenia, ktoré chcete konfigurovať.
+   - Ak chcete zapnúť alebo vypnúť Trezor prílohy pre SharePoint, OneDrive a Microsoft Teams, kliknite na položku Globálne nastavenia **,** zapnite alebo vypnite nastavenie a potom kliknite na položku **Uložiť**.
+
+3. Po revízii nastavení vyberte položku Odoslať **(nové)** alebo **Uložiť** (upraviť).
+
+Ďalšie informácie nájdete v nasledujúcich článkoch:
+
+- [Nastavenie Trezor príloh v aplikácii Microsoft Defender pre Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Zapnite Trezor prílohy pre SharePoint, OneDrive a Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

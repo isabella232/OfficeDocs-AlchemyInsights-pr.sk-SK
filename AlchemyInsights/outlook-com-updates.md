@@ -1,5 +1,5 @@
 ---
-title: Aktualizácie Outlook.com
+title: Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053517"
 ---
-# <a name="outlookcom-updates"></a>Aktualizácie Outlook.com
+# <a name="outlookcom-updates"></a>Outlook.com
 
 **Najnovšie aktualizácie**
 
-- Získajte viac zo svojho e-mailu s novým Outlook.com. Zjednodušili sme vyhľadávanie a jednoduchšie ako kedykoľvek predtým nájsť to, čo hľadáte. Nové funkcie, ako sú napríklad fotografie a ukážky príloh, vám umožňujú zobraziť obrázky a súbory bez opustenia priečinka doručenej pošty. A teraz môžete do správ pridať emoji a GIF. Ďalšie  [informácie o novom Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Získajte viac z e-mailu pomocou novej webovej Outlook.com. Zjednodušili sme vyhľadávanie, aby ste ešte ľahšie našli to, čo hľadáte. Nové funkcie ako Fotografie a ukážky príloh umožňujú zobraziť obrázky a súbory bez toho, aby bolo potrebné opustiť priečinok doručenej pošty. Teraz môžete do správ pridávať emoji a blogy GIF. [Ďalšie informácie o novej Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**Aktualizácie e-mailu**
+**Aktualizácie e-mailov**
 
-- Ak sa poštová schránka Outlook.com neaktualizuje, pozrite si tému [Riešenie problémov so synchronizáciou e-mailu Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Ak sa poštová Outlook.com nesynchronizuje, pozrite si časť Riešenie problémov [so Outlook.com e-mailom.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)
