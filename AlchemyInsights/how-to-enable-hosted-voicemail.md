@@ -1,5 +1,5 @@
 ---
-title: Povolenie hosťovanej hlasovej schránky
+title: Zapnutie hosťovanej hlasovej schránky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055569"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Povolenie hosťovanej hlasovej schránky
+# <a name="how-to-enable-hosted-voicemail"></a>Zapnutie hosťovanej hlasovej schránky
 
-Ak chcete povoliť hlasovú schránku, **HostedVoicemail** musí byť nastavená na možnosť $true.
+Ak chcete povoliť hlasovú schránku, musí byť služba **HostedVoicemail** nastavená na možnosť $true.
 
-Vlastnosť **HostedVoicemail** používateľa pomocou vzdialeného prostredia POWERSHELL (RPR).
+Vlastnosť **HostedVoicemail** používateľa pomocou prostredia Remote PowerShell (RPS).
 
-Ďalšie informácie o pripojení k RPR nájdete v téme [Microsoft teams PowerShell – prehľad](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) pre ďalšie informácie o pripájaní k RPR.
+Ďalšie informácie o pripojení k RPS nájdete v téme [Prehľad prostredia PowerShell Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) informácie o pripojení k RPS.
 
-1. Správca tímov by sa mal prihlásiť do vzdialeného prostredia PowerShell pre teams.
-1. Príkaz v prostredí PowerShell môže správca tímov spustiť **set-csuser user@contoso.com-HostedVoiceMail $True** , kde je identifikátor SIP URI príslušného používateľa.
+1. Správca Teams by mal byť prihlásený do prostredia Remote PowerShell pre Teams.
+1. V príkazovom riadku prostredia PowerShell môže správca Teams spustiť rutinu **set-csuser user@contoso.com -HostedVoiceMail $true,** kde je uri s sip uri v otázke.
 
 > [!NOTE]
-> Zmeny politiky môžu trvať až 24 hodín, kým sa replikujú.
+> Replikovať zmeny politík môžu trvať až 24 hodín.

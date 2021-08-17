@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931212"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890773"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Rušíte svoje Microsoft 365 predplatné?
 
@@ -31,6 +31,6 @@ Mrzí nás, že idete na vás. Tu sú kroky na zrušenie predplatného:
 3. Na **table Zrušiť** predplatné vyberte dôvod zrušenia. Prípadne môžete poskytnúť akékoľvek pripomienky.
 4. Vyberte **položku Uložiť**.
 
-Ďalšie informácie o zrušení predplatného alebo možnostiach nájdete v téme [Zrušenie predplatného.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Ďalšie informácie o zrušení predplatného alebo možnostiach nájdete v téme [Zrušenie predplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Ak chcete naďalej používať svoje predplatné počas trvania skúšobnej verzie, môžete vypnúť opakovanú fakturáciu predplatného. Postup nájdete v téme [Obnovenie Microsoft 365 pre podniky.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Ak chcete naďalej používať svoje predplatné počas trvania skúšobnej verzie, môžete vypnúť opakovanú fakturáciu predplatného. Postup nájdete v téme [Obnovenie Microsoft 365 pre podniky.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

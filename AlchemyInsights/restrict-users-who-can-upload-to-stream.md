@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: 76d389698f082608d2cf7e2f21033f764757873be24e330c0596e053b4a85ea6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d44d64b39e1fee2348f9831e153cab7805c1e8b4fd4bc6effa0968c71666d13
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943138"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890957"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>Obmedzenie používateľov, ktorí môžu nahrávať do služby Stream
 
 V organizácii môžete obmedziť zamestnancov, ktorí môžu nahrávať videá. Predvolene môžu videá nahrávať všetci v organizácii.
 
-- [Obmedzenie zamestnancov, ktorí môžu vytvárať obsah v Microsoft Streame](/stream/restrict-uploaders)
+- [Obmedzenie zamestnancov, ktorí môžu vytvárať obsah v Microsoft Streame](https://docs.microsoft.com/stream/restrict-uploaders)
