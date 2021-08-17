@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017147"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303592"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Vyhľadanie IP adresy v denníku auditu
 
-1. IP adresa, ktorá zodpovedá aktivite vykonanej používateľom alebo správcom, sa zobrazí v denníkoch auditu. Zapíšu sa aj informácie o klientovi. TU je postup na identifikáciu IP adresy:
+IP adresa, ktorá zodpovedá aktivite vykonanej používateľom alebo správcom, sa zobrazí v denníkoch auditu. Zapíšu sa aj informácie o klientovi. TU je postup na identifikáciu IP adresy:
 
-1. Prejdite do Centra [Office 365 zabezpečenia & súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Vyberte **položku Vyhľadávanie** v  >  **[denníku auditu.](https://go.microsoft.com/fwlink/?linkid=2103759)**
-    > [!NOTE]
-    > Ak sa zobrazí upozornenie, že potrebujete zapnúť auditovanie, pokračujte a zapnite ho teraz. Ak táto funkcia nie je povolená, výsledky hľadania nebudú môcť získať údaje z predchádzajúcich dátumov.
-1. Ak máte záujem o konkrétnu aktivitu, vyberte ju zo **zoznamu** Aktivity. V opačnom prípade sa predvolene vrátia všetky aktivity vybratého používateľa. Všimnite si, že niektoré aktivity možno nebudú k dispozícii na výber **v ponuke** Aktivity. Tieto položky auditu sa však vrátia, ak **vyberiete položku Zobraziť výsledky pre** všetky aktivity (predvolené nastavenie).
-1. Zadajte rozsah dátumov a v **poli Používatelia** vyberte meno používateľa, ktorého chcete preskúmať.
-1. Vyberte **položku Hľadať**. Aktivity sa zobrazia v časti **Výsledky.** Môžete zobraziť IP adresu pre každú aktivitu.
-1. Ak chcete zobraziť podrobnosti, vyberte aktivitu a potom vyberte položku **Ďalšie informácie**.
+1. Vykonajte jednu z nasledujúcich akcií:
+   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešenia.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Audit**. Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://security.microsoft.com/auditlogsearch> .
 
-Ďalšie informácie nájdete v téme Riešenie bežných [Office 365 vyhľadávaní v denníku auditu.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Poznámka:** Ak sa zobrazí upozornenie, že potrebujete zapnúť auditovanie, pokračujte a zapnite ho teraz. Ak táto funkcia nie je povolená, výsledky hľadania nebudú môcť získať údaje z predchádzajúcich dátumov.
+
+2. Na stránke **Audit** overte, či **je vybratá** karta Hľadať, a potom nakonfigurujte tieto nastavenia:
+   - **Rozsah dátumu a času:** Vyberte rozsah dátumu a času v **poliach Začiatok** **a** Koniec.
+   - **Aktivity:** Ak máte záujem o konkrétnu aktivitu, vyberte ju v zozname; V opačnom prípade sa vráti **predvolená hodnota Zobraziť výsledky pre** všetky aktivity, všetky aktivity. Všimnite si, že niektoré činnosti možno nebudú k dispozícii na výber. Tieto položky auditu sa však vrátia, ak **vyberiete položku Zobraziť výsledky pre** všetky aktivity.
+   - **Používatelia:** Prijmite prázdnu predvolenú hodnotu, aby sa vrátili výsledky pre všetkých používateľov, alebo zadajte jedného alebo viacerých používateľov.
+
+3. Po dokončení kliknite na tlačidlo **Hľadať**. Aktivity sa zobrazia na novej **stránke Auditovanie.**
+
+4. Vo výsledkoch kliknite na položku **Filtrovať výsledky** a do poľa filtra aktivity zadajte text **Set-Mailbox.**
+
+5. Výberom záznamu auditu vo výsledkoch otvorte **leták** Podrobnosti.
+
+Ďalšie informácie nájdete v téme [Vyhľadávanie v denníku auditu a preskúmanie bežných problémov technickej podpory.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

@@ -1,5 +1,5 @@
 ---
-title: Inovácia zo Skypu for Business Online na Teams
+title: Inovácia z Skype for Business Online na Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e1c292a415794c65cf6efa1f5f335be627759db64a6aa7b4918f05436502fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073579"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Inovácia zo Skypu for Business Online na Teams  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Inovácia z Skype for Business Online na Teams  
 
-Ak máte nasadený Skype for Business Online a chcete používateľov inovovať zo Skypu for Business na Teams, postupujte podľa pokynov v článku nižšie. Používateľov môžete inovovať postupne alebo všetky naraz na základe cesty inovácie, ktorú vybrala vaša organizácia, priradením vhodnej koexistencie a režimu inovácie používateľom.
+Ak ste nasadili služby Online a chcete inovovať používateľov z lokality Skype for Business Skype for Business na iné služby, postupujte podľa pokynov v Teams. Používateľov môžete inovovať postupne alebo všetky naraz na základe cesty inovácie, ktorú vybrala vaša organizácia, priradením vhodnej koexistencie a režimu inovácie používateľom.
 
-[Inovácia zo Skypu for Business Online na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Inovácia z Skype for Business Online na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
