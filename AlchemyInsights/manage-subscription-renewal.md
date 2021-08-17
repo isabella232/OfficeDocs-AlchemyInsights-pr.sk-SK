@@ -15,12 +15,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0e4c2607c5105d2811ed077dc269ae75f066efe1dd45bbb9936b2336a370a052
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd1b749a5798bcf0b42d12bfe0add2a7b3933f4dec2225bfd1d030a29f3edb0a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976556"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889845"
 ---
 # <a name="manage-subscription-renewal"></a>Spravovanie obnovenia predplatného
 
@@ -31,5 +31,5 @@ Ak chcete spravovať mesačné alebo ročné účtovanie, môžete zapnúť aleb
 3. Na table **Upraviť opakovanú fakturáciu** vyberte **možnosť On** **(Dňa) , On (Dňa), Obnova raz (obnova)** alebo **Off (Vypnuté).**
 4. Vyberte **položku Uložiť**.
 
-Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 

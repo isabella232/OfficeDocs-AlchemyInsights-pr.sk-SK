@@ -1,5 +1,5 @@
 ---
-title: Obnovenie odstránených súborov alebo priečinkov vo OneDrive
+title: Obnovenie odstránených súborov alebo priečinkov v OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109831"
 ---
-# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Obnovenie odstránených súborov alebo priečinkov vo OneDrive
+# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Obnovenie odstránených súborov alebo priečinkov v OneDrive
 
-Ak omylom odstránite súbor alebo priečinok vo OneDrive, možno ho budete môcť neskôr obnoviť z koša služby OneDrive.
+Ak v programe OneDrive odstránite súbor alebo priečinok, možno ho neskôr budete môcť obnoviť z koša OneDrive lokality.
 
-* [Obnovenie odstránených súborov alebo priečinkov vo OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+* [Obnovenie odstránených súborov alebo priečinkov v OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-Ak je veľa súborov vo OneDrive odstránených, prepísaných, poškodených alebo infikovaných malvérom, môžete celý OneDrive obnoviť na predchádzajúci raz.
+Ak sú mnohé OneDrive údajov odstránené, prepísané, poškodené alebo infikované malvérom, môžete obnoviť celý OneDrive do predchádzajúceho časového bodu.
 
-* [Obnovenie OneDrivu](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Obnovenie OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
