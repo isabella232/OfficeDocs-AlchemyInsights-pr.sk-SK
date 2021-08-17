@@ -1,5 +1,5 @@
 ---
-title: 'Chyba: zmeny sa nedajú nahrať ani stiahnuť, pretože platnosť poverení vo vyrovnávacej pamäti uplynula'
+title: 'Chyba: Nemôžeme nahrať alebo stiahnuť zmeny, pretože uplynula platnosť poverení vo vyrovnávacej pamäti'
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,22 +12,22 @@ ms.collection: ''
 ms.custom:
 - "3534"
 - "9001489"
-ms.openlocfilehash: 8105fa7b311bc932f95c8bff4d6b58ed9aabe74a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 623c2f1175ed2ab9638e742521395fe62ba9cad9d21b517f17426fb5c96a2d73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059457"
 ---
-# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Chyba: zmeny sa nedajú nahrať ani stiahnuť, pretože platnosť poverení vo vyrovnávacej pamäti uplynula
+# <a name="error-we-cant-upload-or-download-your-changes-because-your-cached-credentials-have-expired"></a>Chyba: Nemôžeme nahrať alebo stiahnuť zmeny, pretože uplynula platnosť poverení vo vyrovnávacej pamäti
 
-Pri ukladaní súborov do aplikácie OneDrive, ak sa zobrazí chyba, ktorá obsahuje slovné spojenie **"vaše poverenia s vyrovnávacou pamäťou uplynuli"**, vykonajte tieto kroky:
+Ak sa pri ukladaní súborov do OneDrive zobrazí chyba obsahujúca výraz "platnosť poverení vyrovnávacej pamäte **uplynula",** vykonajte tieto kroky:
 
-1. Ukončite všetky aplikácie balíka Office.
-1. Otvorte Správcu poverení a do vyhľadávacieho poľa na paneli úloh zadajte výraz **Správca poverení** a potom vyberte položku **Ovládací panel Správca poverení**.
-1. Vyberte položku **poverenia systému Windows**.
-1. Vyhľadajte ľubovoľnú položku, ktorá sa začína slovom **OneDrive**.
-1. Vyberte položku a potom stlačte kláves **odstrániť**.
-1. Ukončite správcu poverení, kliknite pravým tlačidlom myši na modrý oblak v systray a vyberte položku **zatvorenie OneDrivu**.
-1. Do vyhľadávacieho poľa na paneli úloh zadajte výraz **OneDrive** a výberom **aplikácie OneDrive** spustite OneDrive.
-1. Prihláste sa do služby OneDrive a potom sa pokúste súbor uložiť do služby OneDrive.
+1. Zavrite všetky Office aplikácie.
+1. Otvorte Správcu poverení, do **vyhľadávacieho** poľa na paneli úloh zadajte výraz Správca poverení a potom vyberte položku Ovládací panel **Správca poverení.**
+1. Vyberte **položku Windows poverenia .**
+1. Vyhľadajte všetky položky, ktoré sa začínajú **slovom OneDrive.**
+1. Vyberte položku a potom stlačte kláves **Odstrániť.**
+1. Zavrite Správcu poverení, kliknite pravým tlačidlom myši na modrý obláčik vo svojej systray a vyberte položku **Zavrieť OneDrive.**
+1. Zadajte **OneDrive** do vyhľadávacieho poľa na paneli úloh a výberom **položky OneDrive App** spustite OneDrive.
+1. Prihláste sa OneDrive a potom skúste súbor uložiť do OneDrive.

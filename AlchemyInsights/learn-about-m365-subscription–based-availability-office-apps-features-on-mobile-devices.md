@@ -1,5 +1,5 @@
 ---
-title: Ďalšie informácie o dostupnosti funkcií aplikácií balíka Office v mobilných zariadeniach na základe predplatného na Microsoft 365
+title: Získajte informácie Microsoft 365 dostupnosti funkcií Office v mobilných zariadeniach na základe predplatného
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087439"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Ďalšie informácie o dostupnosti funkcií aplikácií balíka Office v mobilných zariadeniach na základe predplatného na Microsoft 365
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Získajte informácie Microsoft 365 dostupnosti funkcií Office v mobilných zariadeniach na základe predplatného
 
-Všetky plány Microsoft 365 umožňujú zobraziť dokumenty vo Worde, Exceli, PowerPointe a OneNote v zariadeniach so systémom iOS, Android a Windows Mobile. Dostupnosť funkcií a súborov týchto aplikácií je však závislá od vášho predplatného – kvalifikačný plán programu Microsoft 365 alebo nekvalifikačný plán alebo jednorazový nákup balíka Office a veľkosť obrazovky mobilného zariadenia.
+Všetky Microsoft 365 aplikácie vám umožňujú zobrazovať dokumenty vo Worde, Excel, PowerPoint a OneNote v mobilných zariadeniach so systémom iOS, Android Windows Android. Dostupnosť funkcií a súborov týchto aplikácií však závisí od vášho predplatného , od oprávňujúceho plánu služieb Microsoft 365 alebo plánu, ktorý nie je oprávnený, alebo od jednočasové zakúpenia balíka Office – a od veľkosti obrazovky mobilného zariadenia.
 
-Ďalšie informácie nájdete v téme [Možnosti práce s aplikáciami balíka Office v mobilných zariadeniach s predplatným na Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Ďalšie informácie nájdete v téme [Čo môžete robiť v aplikáciách balíka Office v mobilných zariadeniach s predplatným Microsoft 365 predplatného.](https://go.microsoft.com/fwlink/?linkid=2135575) 

@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500031"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895506"
 ---
 # <a name="change-payment-method"></a>Zmena spôsobu úhrady
 
@@ -36,6 +36,6 @@ Spôsob úhrady môžete zmeniť z **Centrum spravovania služby Microsoft 365**
 6. Na table **Pridanie spôsobu úhrady** zadajte informácie o účte a potom vyberte položku **Uložiť**. Musíte použiť spôsob úhrady z tej istej krajiny, ako je váš nájomník.
 7. Nový spôsob úhrady je už vybratý v rozbaľovacom zozname. Vyberte položku **Nahradiť**.
 
-Ak chcete zistiť, ako pridať, aktualizovať, nahradiť alebo odstrániť spôsoby úhrady, pozrite si časť [Spravovanie spôsobov úhrady.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Ak chcete zistiť, ako pridať, aktualizovať, nahradiť alebo odstrániť spôsoby úhrady, pozrite si časť [Spravovanie spôsobov úhrady.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Ak chcete zistiť, ako zmeniť spôsoby úhrady, pozrite [si časť Platba za predplatné](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Ak chcete zistiť, ako zmeniť spôsoby úhrady, pozrite [si časť Platba za predplatné](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
