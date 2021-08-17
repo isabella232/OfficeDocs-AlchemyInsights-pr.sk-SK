@@ -1,5 +1,5 @@
 ---
-title: Kód chyby 550 5.7.705 prístup odmietnutý, nájomník prekročil prahovú hodnotu
+title: Kód chyby 550 5.7.705 Prístup odmietnutý, nájomník prekročil prahovú hodnotu
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044211"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 prístup odmietnutý, nájomník prekročil prahovú hodnotu
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Prístup odmietnutý, nájomník prekročil prahovú hodnotu
 
-Toto hlásenie sa vyskytuje, keď vaša organizácia odoslala príliš veľa nevyžiadanej pošty alebo hromadnej pošty a umiestnime do odchádzajúcej pošty blok.
-Bežné príčiny sú ohrozené lokálne servery alebo ohrozené kontá správcu, ktoré boli použité na vytvorenie spojníc. Každá podmienka môže povoliť, aby Nevyžiadaná pošta prešla vašou organizáciou.
+Toto hlásenie sa zobrazí, keď vaša organizácia odoslala príliš veľa nevyžiadanej alebo hromadnej pošty a do odchádzajúcej pošty sa umiestni blok.
+Bežné príčiny sú zneužiné lokálne servery alebo zneužiné kontá správcu, ktoré sa použili na vytvorenie konektorov. Ktorá z týchto podmienok môže povoliť prechod nevyžiadanej pošty do organizácie.
 
-Ak chcete odstrániť tento blok, musíte pochopiť a vysvetliť príčinu agentovi podpory, ako aj opraviť základný problém.
-Kliknite na položku **kontaktujte nás** nižšie, keď ste pripravení.
+Ak chcete odstrániť toto blokovanie, musíte porozumieť jeho príčine a vysvetliť ju agentovi podpory, ako aj odstrániť základný problém.
+Keď **budete pripravení,** kliknite na položku Kontaktujte nás.
