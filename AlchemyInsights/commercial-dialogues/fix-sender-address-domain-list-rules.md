@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930040"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896126"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Oprava pravidiel pre adresu alebo zoznam domén odosielateľa
 
-Toto hlásenie ovplyvnila politika ochrany pred nevyžiadanou poštou vo vašom nájomníkovi. Odosielateľ správy sa našiel v zozname povolených alebo blokovaných odosielateľov. Ak si chcete politiku prekontrolovať, vykonajte tieto kroky:
+Toto hlásenie ovplyvnila jedna z vašich politík ochrany pred nevyžiadanou poštou. Odosielateľ správy sa našiel v zozname povolených alebo blokovaných odosielateľov. Ak chcete skontrolovať politiky, postupujte takto:
 
-1. Prejdite do Centra [Office 365 zabezpečenia & a](https://go.microsoft.com/fwlink/p/?linkid=2077143)potom prejdite na položku Politika správy **hrozieb**  >    >  [– ochrana pred nevyžiadanou poštou](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Ak je **povolené** štandardné nastavenie, **na karte** Štandardné začiarknite políčka **Zoznamy povolených a** **Blokovaných zoznamov.**
-3. Ak je na **karte** Vlastné povolené **vlastné** nastavenia,  skontrolujte politiky výberom položky Upraviť politiku a začiarknutím položiek Zoznamy povolených **a** **Blokované zoznamy.**
+1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/>  \>  \>  \> **e-&**  na & Pravidlá politiky hrozieb Ochrana pred nevyžiadanou poštou v časti Politiky.
 
-Ďalšie informácie o konfigurácii politík filtrovania nevyžiadanej pošty nájdete v [téme Konfigurácia politík filtrovania nevyžiadanej pošty.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Ak chcete prejsť priamo na stránku **Politiky ochrany pred nevyžiadanou poštou,** <https://security.microsoft.com/antispam> použite .
+
+2. Na stránke Politiky **ochrany** pred nevyžiadanou poštou vyberte politiku kliknutím na  názov politiky **(**  Typ je Vlastná politika ochrany pred nevyžiadanou poštou alebo Názov je politika prichádzajúcej pošty proti nevyžiadanej pošte **(predvolená možnosť)).**
+3. V zobrazenej bubline podrobností vyberte **položku** Upraviť povolených a blokovaných odosielateľov a domény v časti Povolení a blokovaní **odosielatelia a** domény.
+4. V časti **Povolené** skontrolujte odosielateľov a domény kliknutím na položku **Spravovať \<nn\> odosielateľov alebo** Povoliť **domény.**
+
+Ďalšie informácie nájdete v téme [Konfigurácia politík ochrany pred nevyžiadanou poštou v systéme EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

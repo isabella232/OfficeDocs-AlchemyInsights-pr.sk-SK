@@ -1,5 +1,5 @@
 ---
-title: Modernizácia klasického prostredia SharePointu
+title: Modernizujte svoje klasické SharePoint prostredie
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a6ea80b64d98f8def1831297768a33e65d0b3891bce564385631ad01a5a2602
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085459"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizácia klasického prostredia SharePointu
+# <a name="modernize-your-classic-sharepoint-experience"></a>Modernizujte svoje klasické SharePoint prostredie
 
-Ak chcete prejsť na moderné používateľské rozhranie, prečítajte si tieto zdroje informácií:
+Ak chcete prejsť na moderné používateľské rozhranie, pozrite si tieto zdroje informácií:
 
-- [Vytvorenie **moderných lokalít** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (Tímová lokalita alebo lokalita komunikácie). Použite [sharepointovú knihu](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) na vytvorenie krásneho a výkonného intranetu, ktorý spája pracovisko. Pozrite si [príklady](https://lookbook.microsoft.com/) a získajte [pokyny na návrh](https://spdesign.azurewebsites.net/).
-- [Pripojte svoju lokalitu k **skupine Microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) a zvýšte spoluprácu v rámci Microsoft 365.
-- Transformácia na **moderný zážitok zo zoznamu a knižnice** prostredníctvom [povolenia zoznamov a knižníc, ktoré sa majú zobraziť v modernom používateľskom rozhraní](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-- Transformácia **stránok lokality** z klasickej **wiki**, **webovej časti**a **domovských** stránok na [moderné stránky na strane klienta](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). [Skener na modernizáciu SharePointu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) poskytuje informácie o používaní stránok o aktuálnych stránkach wiki a webových častí, ktoré vám pomôžu uprednostniť transformáciu stránky.
+- [Vytvorenie **moderných lokalít**](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (tímová lokalita alebo komunikačná lokalita). Pomocou SharePoint [Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) môžete vytvoriť nádherný a výkonný intranet, ktorý sa prepojí s pracoviskom. Pozrite [si príklady](https://lookbook.microsoft.com/) a získajte pomoc s [návrhmi.](https://spdesign.azurewebsites.net/)
+- [Pripojenie lokalitu do skupiny pre **Microsoft 365 a zvýšte**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) tak spoluprácu v rámci Microsoft 365.
+- Transformujte moderné **prostredie zoznamu a knižnice povolením** zoznamov a knižníc tak, aby sa v [modernom používateľskom rozhraní nachádzali.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- Transformujte **stránky lokalít** z klasickej **stránky wiki,** **webovej** časti a **domovskej** stránky [na moderné stránky na strane klienta.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) Tento [SharePoint modernizačný skener poskytuje](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) informácie o použití stránok wiki a webových časti, ktoré vám pomôžu určiť prioritu transformácie stránky.
 
 Ďalšie informácie:
 
-- Podrobný prehľad modernizácie klasickej služby SharePoint v modernej verzii nájdete v téme [modernizácia klasického používania SharePointu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
-- Pozrite si sprievodcu s [modernými skúsenosťami](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
-- Pozrite si tému [Klasická a moderná práca v SharePointe](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- Podrobný prehľad o modernizovaní klasických a moderných SharePoint nájdete v téme Modernizovanie klasického [SharePoint zážitku.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- Pozrite si sprievodcu [modernými skúsenosťami.](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
+- Pozrite [si SharePoint klasické a moderné funkcie.](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)

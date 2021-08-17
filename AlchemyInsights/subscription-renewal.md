@@ -16,12 +16,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 974f5b26bd8e8846db7501239d8fd140f2bd56c132b0256c3166dbf2c2c8b138
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aeabecf82e22369ed78f00a7e32a99fa7cf9b5f9a8e3a0f5f84ea68bdbc33642
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53981776"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894926"
 ---
 # <a name="subscription-recurring-billing"></a>Opakovaná fakturácia predplatného
 
@@ -33,4 +33,4 @@ Ak chcete zistiť, kedy je vaše mesačné alebo  ročné predplatné fakturovan
 4. Na table **Upraviť opakovanú fakturáciu** vyberte **možnosť On** **(Dňa) , On (Dňa) , Renew once (Obnoviť raz)** alebo **Off (Vypnuté).**
 5. Vyberte **položku Uložiť**.
 
-Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Ďalšie informácie nájdete v téme [Vypnutie a zapnutie opakovanej fakturácie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

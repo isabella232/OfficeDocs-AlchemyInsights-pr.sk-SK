@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091147"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895134"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Nahlásenie podozrivých e-mailov, URL adries alebo príloh
 
-Rozumiem, že potrebujete pomoc pri skúmaní podozrivého e-mailu alebo nesprávne filtrovaného e-mailu. Môžem vám pomôcť odoslať problém na analýzu pomocou Prieskumníka odosielania, ktorý vám poskytne okamžité pripomienky. Tu je súhrn krokov:
+Rozumiem, že potrebujete pomoc pri skúmaní podozrivého e-mailu alebo nesprávne filtrovaného e-mailu. Môžem vám pomôcť odoslať problém na analýzu pomocou portálu **odosielania,** ktorý vám poskytne okamžité pripomienky. Tu je súhrn krokov:
 
-1. Prejdite do Centra [Office 365 zabezpečenia & dodržiavania súladu](https://go.microsoft.com/fwlink/p/?linkid=2077143)a potom prejdite na položku Odosielanie žiadostí o **správu**  >  [hrozieb](https://go.microsoft.com/fwlink/?linkid=2101521).
-2. Vyberte **položku + Nové odosielanie**. Zobrazí sa leták s možnosťou odoslať e-mail, URL adresu alebo súbor.
-    > [!NOTE]
-    > Informujte používateľov, že by mali pomocou doplnku Nahlásiť správu nahlásiť akúkoľvek podozrivú správu vo svojom [priečinku doručenej pošty spoločnosti](https://go.microsoft.com/fwlink/?linkid=2092385)Microsoft.
+1. Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku Odosielanie **e-&** \> **odosielania e-mailov.**
+
+   Ak chcete prejsť priamo na **stránku Odosielanie,** <https://security.microsoft.com/reportsubmission> použite .
+
+2. Na stránke **Odosielania overte,** či **je vybratá karta** Odoslané na analýzu a potom kliknite na položku + **Odoslať do spoločnosti Microsoft na analýzu.**
+
+3. Zobrazí sa leták s možnosťou odoslať e-mail, URL adresu alebo súbor.
+
+Ďalšie informácie nájdete v téme Použitie [odosielania správy na odosielanie podozrivých nevyžiadanej pošty, phish, URL adries a súborov do spoločnosti Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+> [!NOTE]
+> Informujte používateľov, že by mali nahlásiť podozrivé správy vo svojom priečinku doručenej pošty pomocou doplnku Nahlásiť správu alebo nahláste neoprávnené [získavanie údajov.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

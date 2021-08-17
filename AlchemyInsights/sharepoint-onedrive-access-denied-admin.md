@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s hlásením odmietnutia prístupu
+title: Riešenie problémov s hláseniami o odmietnutí prístupu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9acde72f82a27c9f2faa2cf4d0417374aa5a294234da96080dc0498d07639248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085243"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Riešenie problémov s prístupom odmietnutých správ v centre spravovania SharePointu a OneDrivu
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Riešenie problémov s hláseniami o odmietnutí prístupu v Centre spravovania služby SharePoint OneDrive lokality
 
-Ak sa pri pokuse o vyhľadanie v centre spravovania služby SharePoint/OneDrive zobrazuje hlásenie o odmietnutí prístupu, skontrolujte, či ste [používateľom priradili licenciu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Ak má používateľ licenciu, mali by ste tiež uistiť, že im je [priradená rola správcu](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) , ktorá môže získať prístup k centru spravovania.
+Ak sa pri pokuse o vyhľadanie Centra spravovania služby SharePoint/OneDrive zobrazí hlásenie o odmietnutí prístupu, uistite sa, že používateľovi priradíte [licenciu.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) Ak má používateľ licenciu, mali by ste sa uistiť, že má priradenú rolu [správcu,](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) ktorá má prístup do centier spravovania.
 
-Tento problém sa môže vyskytnúť aj po odstránení používateľa a opätovnom vytvorení s rovnakým hlavným menom používateľa (UPN). Nové konto sa vytvorí s použitím inej hodnoty PUID (jedinečného ID konta Passport). Keď sa používateľ pokúsi získať prístup k kolekcii lokalít alebo k ich OneDrivu, má používateľ nesprávny PUID. Druhý scenár zahŕňa synchronizáciu adresárov s organizačnou jednotkou služby Active Directory (OU). Ak sa používatelia už prihlásili do SharePointu a potom sa prenesú do inej OU a opätovne sa synchronizujú so SharePointom, tento problém sa môže vyskytnúť.
+Tento problém sa môže vyskytnúť aj pri odstránení a vytvorení používateľa s rovnakým hlavným menom používateľa (UPN). Nové konto sa vytvorí pomocou inej hodnoty PUID (Passport Unique ID). Keď sa používateľ pokúsi získať prístup ku kolekcii lokalít alebo OneDrive, používateľovi sa zobrazí nesprávna identifikácia PUID. Druhý scenár zahŕňa synchronizáciu adresárov s organizačnou jednotkou služby Active Directory. Ak sa používatelia už prihlásili do služby SharePoint a potom sa presunú do inej poštovej schránky a znova synchronizujú s SharePoint, môže sa im zobraziť tento problém.
 
-Ak chcete tento problém vyriešiť, mali by ste obnoviť pôvodné meno používateľa podľa krokov v článku a [obnoviť používateľa v službe Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Ak chcete tento problém vyriešiť, je potrebné obnoviť pôvodné používateľské meno používateľa pomocou krokov uvedených v článku Obnovenie [používateľa v Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
 
-Poznámka: Ak centrum spravovania služby OneDrive alebo SharePoint nie je k dispozícii viacerým používateľom, ktorí mali predtým prístup, môže sa vyskytnúť dočasný problém so službou.  [Skontrolujte tabuľu stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
+Poznámka: Ak centrum OneDrive alebo SharePoint spravovania nie je k dispozícii viacerým používateľom, ktorí predtým mali prístup, môže sa vyskytnúť dočasný problém so servisom.  [Skontrolujte tabuľu stavu služby.](https://portal.office.com/adminportal/home#/servicehealth)
 
 

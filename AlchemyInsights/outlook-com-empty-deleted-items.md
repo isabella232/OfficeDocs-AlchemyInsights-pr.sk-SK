@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111811"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Vyprázdnenie priečinka Odstránené položky
 
-1. Otvorte priečinok Odstránené položky a vyberte možnosť **Vyprázdniť priečinok**.
-2. Vyberte položku **využiteľné položky** v hornej časti stránky a znova vyberte položku **Vyprázdniť priečinok** .
+1. Otvorte priečinok Odstránené položky a vyberte položku **Vyprázdniť priečinok**.
+2. V **hornej časti** stránky vyberte položku Obnoviteľné položky a potom znova **vyberte položku Vyprázdniť** priečinok.
 
 **Nie je možné vyprázdniť priečinok Odstránené položky**
 
-- Ak ste odstránili veľa e-mailov, môže to chvíľu trvať, kým sa tieto položky premiestnia do priečinka Odstránené položky alebo sa odstránia. Počas odstránenia sa otvorí okno prehliadača.
-- Ak sa e-mail stále neodstráni správne, vyberte menšiu dávku, ktorú chcete odstrániť.
-- Ak sa odstránený e-mail vráti späť, môže to byť spôsobené tým, že ste nedávno odstránili veľa e-mailov. Skúste to znova neskôr.
+- Ak ste odstránili veľa e-mailov, môže trvať určitý čas, než sa tieto položky presunú do priečinka Odstránené položky alebo sa z neho odstránia. Počas odstraňovania nechajte okno prehliadača otvorené.
+- Ak sa e-maily ani tak neodstránia správne, vyberte menšiu dávku na odstránenie.
+- Ak sa odstránené e-maily vrátia späť, môže to byť spôsobené tým, že ste nedávno odstránili veľa e-mailov. Skúste to znova neskôr.

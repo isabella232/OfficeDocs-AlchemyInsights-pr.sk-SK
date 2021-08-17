@@ -1,5 +1,5 @@
 ---
-title: Možnosti migrácie do SharePointu Online
+title: Možnosti migrácie do SharePoint Online
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 6483d888205b9e9aec988210ad322fe5e0e46316
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f481a8dd0eb9562241f69282004001e427fda565c59a60c4473f5e3a878aade8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085495"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Možnosti migrácie do SharePointu Online
+# <a name="migrate-options-to-sharepoint-online"></a>Možnosti migrácie do SharePoint Online
 
 Existujú rôzne možnosti migrácie obsahu do SharePointu Online, a to v závislosti od veľkosti a množstva súborov, ktoré je potrebné premiestniť. Zoznam možností nájdete na [tomto prepojení](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 

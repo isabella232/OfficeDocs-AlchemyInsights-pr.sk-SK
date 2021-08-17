@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893070"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314931"
 ---
 # <a name="billing-and-payment"></a>Fakturácia a platba
 
@@ -46,8 +46,7 @@ Ak ste pridali novú kartu a na starej kreditnej karte sa stále zobrazuje ozná
 
 4. Ak chcete použiť existujúci spôsob úhrady, vyberte ho v rozbaľovacom zozname a potom vyberte položku **Nahradiť**.
 
-    > [!NOTE]
-    > Ak máte predplatné priradené k profilu fakturácie, na ich platenie môžete použiť len kreditnú alebo debetnú kartu. Ak máte na stránke **Spôsoby platby** uvedené bankové účty, nie sú k dispozícii na výber v rozbaľovacom zozname.
+    **Poznámka:** Ak máte predplatné priradené k fakturačným profilom, na ich platenie môžete použiť len kreditnú alebo debetnú kartu. Ak máte na stránke **Spôsoby platby** uvedené bankové účty, nie sú k dispozícii na výber v rozbaľovacom zozname.
 
 5. Ak chcete pridať nový spôsob úhrady, vyberte položku **Pridať spôsob úhrady**.
 

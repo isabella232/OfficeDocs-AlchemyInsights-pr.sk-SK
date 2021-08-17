@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314859"
 ---
 # <a name="fix-connection-policy"></a>Oprava politiky pripojenia
 
@@ -33,7 +33,6 @@ E-mail bol označený ako bezpečný a doručený do priečinka doručenej pošt
 
 4. Skontrolujte položky v časti **Vždy povoliť správy z** nasledujúcich IP adries alebo rozsahu adries a pozrite sa, či je **vybratá možnosť Zapnúť bezpečné.**
 
-   > [!NOTE]
-   > Spoločnosť Microsoft má predplatné na zdroje dôveryhodných odosielateľov tretích strán. Ak je zoznam dôveryhodných odosielateľov povolený, títo dôveryhodní odosielatelia omylom nie sú označení ako nevyžiadaná pošta. Odporúčame vybrať túto možnosť, pretože sa zníži počet nesprávne pozitívnych e-mailov ( dobrej pošty, ktorá sa klasifikuje ako nevyžiadaná pošta), ktorú dostanete.
+   **Poznámka:** Spoločnosť Microsoft má predplatné na zdroje dôveryhodných odosielateľov tretích strán. Ak je zoznam dôveryhodných odosielateľov povolený, títo dôveryhodní odosielatelia omylom nie sú označení ako nevyžiadaná pošta. Odporúčame vybrať túto možnosť, pretože sa zníži počet nesprávne pozitívnych e-mailov ( dobrej pošty, ktorá sa klasifikuje ako nevyžiadaná pošta), ktorú dostanete.
 
 Ďalšie informácie nájdete v téme [Konfigurácia filtrovania pripojenia.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)

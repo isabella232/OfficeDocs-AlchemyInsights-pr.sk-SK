@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081445"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895022"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Odblokovanie konta prostredníctvom správy hrozieb
 
-Postup: 
+Postup:
 
-1. Prejdite do Centra [Office 365 zabezpečenia & súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Vyberte položku **Revízia správy**  >  **hrozieb**. Na stránke **Revízia** vyberte položku Obmedzení **[používatelia.](https://go.microsoft.com/fwlink/?linkid=2103514)**
-1. Ak sa zneužiné konto zobrazí v zozname, kliknite na položku **Odblokovať konto**. Konto by malo mať možnosť znova odosielať správy, zvyčajne do hodiny.
+1. Prejdite na portál E-Microsoft 365 Defender na <https://security.microsoft.com> \> **revíziu &** \> **spolupráca – obmedzení** \> **používatelia.**
+
+   Ak chcete prejsť priamo na **stránku Obmedzení používatelia,** použite <https://security.microsoft.com/restrictedusers> .
+
+2. Ak sa používateľ nachádza v zozname, vyberte používateľa a potom vyberte položku **Odblokovať**. Postupujte podľa krokov na flyout table a potom výberom položky **Áno potvrďte.**
+
+   Konto by malo mať možnosť znova odosielať správy, zvyčajne do hodiny.
+
+Ďalšie informácie nájdete v téme [Odstránenie blokovaných používateľov z portálu obmedzených používateľov.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)
