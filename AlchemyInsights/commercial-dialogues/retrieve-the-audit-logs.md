@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483168"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893606"
 ---
 # <a name="retrieve-the-audit-logs"></a>Načítanie denníkov auditu
 
-Pri prvom otvorení denníka auditu bude prázdne. Ak chcete zistiť, čo sa tam nachádza, musíte vykonať vyhľadávanie. Tu je návod na všeobecné vyhľadávanie všetkých aktivít:
+Denník auditu bude pri prvom otvorení prázdny. Ak chcete zistiť, čo sa v tejto oblasti nachádza, musíte urobiť vyhľadávanie. Všeobecné vyhľadávanie všetkých aktivít:
 
-1. Prejdite na [stránku vyhľadávania denníkov auditu](https://protection.office.com/#/unifiedauditlog) (alebo prejdite do centra **spravovania**  >  **zabezpečenia & centrum dodržiavania súladu**  >  **vyhľadávanie & prieskum**  >  **auditu vyhľadávania**).
-1. V poli **aktivity** prijmite predvolené a zobrazia sa **výsledky pre všetky aktivity**.
-1. Zadajte rozsah dátumov a v poli **Používatelia** prijmite predvolené hodnoty, aby sa vrátili výsledky pre všetkých používateľov, alebo vyberte meno používateľa, ktorého chcete preskúmať.
-1. Kliknite na položku **Hľadať**. Aktivity sa zobrazia v časti **výsledky**.
-1. Ak chcete zobraziť podrobnosti, kliknite na aktivitu a potom vyberte položku **Ďalšie informácie**. Zobrazia sa ďalšie informácie, ako napríklad klient, používateľ, ktorý vykonal akciu, atď.
+1. Vykonajte jednu z nasledujúcich akcií:
+   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešení.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Audit**. Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://security.microsoft.com/auditlogsearch> .
+
+2. Na **karte Hľadať** na stránke **Audit** nakonfigurujte tieto nastavenia:
+   - **Rozsah dátumu a času:** Vyberte rozsah dátumu a času v **poliach Začiatok** **a** Koniec.
+   - **Aktivity:** Je **začiarknuté políčko Overiť položku Zobraziť výsledky pre** všetky aktivity.
+   - **Používatelia:** Prijmite prázdnu predvolenú hodnotu, aby sa vrátili výsledky pre všetkých používateľov, alebo zadajte jedného alebo viacerých používateľov.
+
+3. Po dokončení kliknite na tlačidlo **Hľadať**. Aktivity sa zobrazia na novej **stránke Auditovanie.**
+
+4. Výberom aktivity vo výsledkoch otvorte výlet podrobností. Zobrazí sa viac informácií, ako napríklad Klient, Používateľ, ktorý vykonal akciu atď.
+
+Ďalšie informácie nájdete v téme [Prehľadáte denník auditu a preskúmajte bežné problémy technickej podpory.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
