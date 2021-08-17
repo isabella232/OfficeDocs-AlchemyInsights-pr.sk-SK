@@ -1,5 +1,5 @@
 ---
-title: Excel zlyhanie?
+title: Excel zlyhávajú?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,25 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918482"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312774"
 ---
 # <a name="frequent-excel-crashes"></a>Často sa Excel zlyhania?
 
-Časté zlyhania Excel môžu byť spôsobené chybný doplnok. Doplnok pre Excel môžete vypnúť podľa týchto pokynov:
+Časté zlyhania v Excel môžu byť spôsobené chybný doplnok. Doplnok pre Excel môžete vypnúť podľa týchto pokynov:
   
 1. Vyberte  \> **položku** Možnosti \> **súboru , Doplnky**.
 
 2. V **poli Správa** vyberte položku **Doplnky com a potom** kliknite na tlačidlo **Spustiť**.
 
-3. V dialógovom Add-Ins k dispozícii zrušte začiarknutie políčka vedľa doplnku, ktorý chcete vypnúť, a potom kliknite na tlačidlo **OK**.
+3. V Add-Ins k dispozícii zrušte začiarknutie políčka vedľa doplnku, ktorý chcete vypnúť, a potom kliknite na tlačidlo **OK.**
 
-> [!NOTE]
-> Ak Excel počas spustenia zlyhá, spustite ho v Trezor stlačením a podržaním klávesu Ctrl počas spúšťania programu.
+**Poznámka:** ak Excel počas spustenia zlyhá, spustite ho v režime Trezor počas spúšťania programu stlačením a podržaním klávesu Ctrl.
   
 Ak problémy aj naďalej pretrváva, pozrite si tieto články:
   
@@ -37,4 +36,4 @@ Ak problémy aj naďalej pretrváva, pozrite si tieto články:
 
 - [Riešenie problémov so zlyhaním a nereagovaním na Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel nereaguje, zastaví sa, mrzne alebo prestane fungovať](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel nereaguje, zastaví sa, mrzne alebo prestáva fungovať](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

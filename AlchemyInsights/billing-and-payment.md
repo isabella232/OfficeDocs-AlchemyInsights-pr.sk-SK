@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502407"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893070"
 ---
 # <a name="billing-and-payment"></a>Fakturácia a platba
 
-Faktúry nájdete na karte Fakturácia  >  [& platby.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Predvolene sa zobrazujú posledné 3 mesiace faktúr.  Ak chcete zobraziť staršie faktúry, upravte filter.  Kliknutím na **prepojenie Stiahnuť faktúru vo** formáte PDF zobrazíte faktúru.
+Faktúry nájdete na karte Faktúry  >  [a & platby.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Predvolene sa zobrazujú posledné 3 mesiace faktúr.  Ak chcete zobraziť staršie faktúry, upravte filter.  Kliknutím na **prepojenie Stiahnuť faktúru vo** formáte PDF zobrazíte faktúru.
 
 **Prijímanie faktúr e-mailom**
 
@@ -55,10 +55,10 @@ Ak ste pridali novú kartu a na starej kreditnej karte sa stále zobrazuje ozná
 
 7. Nový spôsob úhrady je už vybratý v rozbaľovacom zozname. Vyberte položku **Nahradiť**.
 
-Ďalšie informácie nájdete v téme [Spravovanie spôsobov úhrady](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ďalšie informácie nájdete v téme [Spravovanie spôsobov úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frekvencia fakturácie**
 
 Faktúry sa generujú mesačne alebo ročne v závislosti od frekvencie fakturácie zvolenej pri pokladni.  
 
-**Poznámka:** Ak sa vykonali zmeny, ako je napríklad pridanie alebo odstránenie licencií, objednávky s ročnom fakturáciou môžu dostávať faktúry uprostred obdobia. [Zmeňte frekvenciu fakturácie.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Poznámka:** Ak sa vykonali zmeny, napríklad pridanie alebo odstránenie licencií, objednávky s ročnom fakturáciou môžu dostávať faktúry uprostred obdobia. [Zmeňte frekvenciu fakturácie.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

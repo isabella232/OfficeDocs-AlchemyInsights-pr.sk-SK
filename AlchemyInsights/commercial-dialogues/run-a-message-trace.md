@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081805"
 ---
 # <a name="run-a-message-trace"></a>Spustenie sledovania správy
 
-Sledovanie správ môžete spustiť z Exchange **správy na** portáli Microsoft 365 Defender na lokalite <https://security.microsoft.com> .
+Sledovania správ sa spúšťajú v časti Tok pošty v Centre zabezpečenia Office 365 a dodržiavania & súladu.
 
-Ďalšie informácie nájdete v [časti Sledovanie správ na portáli Microsoft 365 Defender správy.](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
+Ak chcete zistiť, ako spustiť sledovanie správy, pozrite [si sledovanie správy v Centre zabezpečenia Office 365 & súladu.](https://go.microsoft.com/fwlink/?linkid=2103855)

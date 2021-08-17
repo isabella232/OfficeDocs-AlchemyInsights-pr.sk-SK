@@ -16,19 +16,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6db785eb860498dacc4330f8e3e4558e58da0fe82b2701ffce8abe615678275a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 31b3cfed4b5cadd2b5b2290fc8ed6e203225a0235be141140b5ecbd01efc2f98
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501615"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892702"
 ---
 # <a name="declined-credit-card"></a>Odmietnutá kreditná karta
 
 Ak platíte kreditnou kartou a kreditná karta bola zamietnutá, dostanete e-mail s o tom, že sa nám nepodarilo spracovať platbu. Prekontrolujte, či sú podrobnosti o kreditnej karte [–](https://go.microsoft.com/fwlink/p/?linkid=842054) číslo karty, dátum uplynutia platnosti, meno na kreditnej karte a adresa vrátane mesta, štátu a PSČ – uvedené presne tak ako na kreditnej karte a na výpise ku kreditnej karte. Informácie o kreditnej karte môžete aktualizovať a okamžite odoslať platbu pomocou možnosti Vyúčtovanie **zostatku** na **stránke**  >  [Fakturácia Vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
 
-Ďalšie informácie nájdete v časti Čo robiť, ak uplynula platnosť kreditnej karty a úhrada je po termíne splatnosti? v [časti Zaplatenie predplatného Microsoft 365 for business](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Ďalšie informácie nájdete v časti Čo robiť, ak uplynula platnosť kreditnej karty a úhrada je po termíne splatnosti? v [časti Zaplatenie predplatného Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Ak sa bude hlásenie o odmietnuní naďalej zobrazuje, obráťte sa na svoju banku. Je možné, že kreditná karta nie je aktívna, napríklad ak ste v poslednej dobe dostali kreditnú kartu poštou s aktualizovaným dátumom uplynutia platnosti, možno ju budete musieť aktivovať. Vaša banka vám môže tiež povedať, že kreditná karta nie je schválená na online, medzinárodné alebo opakované transakcie.
   
-Ďalšie informácie nájdete v téme [Spravovanie spôsobov platby.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Ďalšie informácie nájdete v téme [Spravovanie spôsobov platby.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
