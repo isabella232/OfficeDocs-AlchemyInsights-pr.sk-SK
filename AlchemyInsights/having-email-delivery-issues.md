@@ -1,19 +1,20 @@
 ---
 title: Máte problémy s doručením e-mailov?
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 54e5e807911e365bdec848625d89774782978573
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 38fafde0a892fbdd9e657a395d933e806beac08d328a7cf86b006e53975e7a52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078673"
 ---
 # <a name="having-email-delivery-issues"></a>Máte problémy s doručením e-mailov?
 
