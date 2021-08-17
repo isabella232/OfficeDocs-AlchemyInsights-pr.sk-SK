@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976880"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891310"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifikácia aktivity pravidla doručenej pošty v denníkoch auditu
 
-Pomocou vyhľadávania denníka auditu v Centre zabezpečenia a Microsoft 365 zabezpečenia & môžete zobraziť udalosti pravidla doručenej pošty (vytvorenie, úprava a odstránenie pravidiel pre doručenú poštu).
+Pomocou vyhľadávania denníka auditu v vyhľadávaciemu Centrum dodržiavania súladu pre Microsoft 365 na zobrazenie udalostí pravidla pre doručenú poštu (vytvorenie, úprava a odstránenie pravidiel pre doručenú poštu).
 
-1. Prihláste sa do [Centra Microsoft 365 súladu](https://protection.office.com/).
+1. Vykonajte niektorý z týchto krokov:
+   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešenia.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Audit**. Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://security.microsoft.com/auditlogsearch> .
 
-2. Prejdite na stránku **vyhľadávania denníka**  >  **auditu vyhľadávania.**
+2. Na **karte Hľadať** na stránke **Audit** nakonfigurujte tieto nastavenia:
+   - **Rozsah dátumu a času:** Vyberte rozsah dátumu a času v **poliach Začiatok** **a** Koniec.
+   - **Aktivity:** Vyberte jednu alebo viac z nasledujúcich hodnôt:
+     - **New-InboxRule Create inbox rule from Outlook Web App**
+     - **Set-InboxRule Modify rule from Outlook Web App**.
+     - **Aktualizácia pravidiel pre doručenú poštu Outlook klienta**
 
-3. Vyberte rozsah dátumov v **poliach Počiatočný dátum** **a Dátum ukončenia.**
+3. Po dokončení kliknite na tlačidlo **Hľadať**. Aktivity sa zobrazia na novej **stránke Auditovanie.**
 
-4. V **Exchange aktivity poštovej** schránky  overte, či je pole Aktivity nastavené na možnosť Nový-Priečinok Doručená **poštaPravivá Vytvorenie/úprava/povolenie/zakázanie pravidla pre doručenú poštu.**
+4. Výberom aktivity vo výsledkoch otvorte výlet podrobností. V poli Parametre sa zobrazujú informácie o nastaveniach pravidla **pre doručenú** poštu.
 
-5. Kliknite na **tlačidlo Hľadať**.
-
-Vo výsledkoch vyberte záznam auditu. V letáku s podrobnosťami kliknite na položku **Ďalšie informácie**. V poli Parametre sa zobrazujú informácie o nastaveniach pravidla **pre doručenú** poštu.
-
-Ďalšie informácie nájdete v téme [Určenie, či používateľ vytvoril pravidlo pre doručenú poštu](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Ďalšie informácie nájdete v téme [Určenie, či používateľ vytvoril pravidlo pre doručenú poštu.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)

@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057261"
 ---
 # <a name="enable-external-sharing"></a>Povolenie externého zdieľania
 
- Ak chcete zabezpečiť, aby bolo zdieľanie povolené pre SharePoint Online:
+ Ak chcete zabezpečiť, aby bolo zdieľanie povolené SharePoint Online:
   
 - **Globálne zdieľanie**
     
-  - Portal – \> externé zdieľanie – \> Prehľad zdieľania – lokality, umožňujú externým osobám prístup k vašim lokalitám: zapnuté
+  - Portál – \> Externé zdieľanie – prehľad zdieľania – \> lokality, externé osoby môžu získať prístup k vašim lokalitám: JE
     
-  - Portál – \> externé zdieľanie – \> lokality – začiarkavacie políčko umožniť externým používateľom prístup k vašim lokalitám
+  - Portál – \> externé zdieľanie – lokality – začiarkavacie políčko \> Nechajte externých ľudí prístup k vašim lokalitám
     
-- **Zdieľanie administratívy – centrum spravovania služby SharePoint**
+- **Zdieľanie spravovania – SharePoint spravovania**
     
-    Externé zdieľanie – Skontrolujte, či sú vybraté obe možnosti:
+    Externé zdieľanie – skontrolujte, či je vybratá niektorá z týchto dvoch možností:
     
-  - Povoliť externých používateľov, ktorí akceptujú pozvánky na zdieľanie a prihlasujú sa ako overení používatelia
+  - "Allow external users who accept sharing invitations and sign in as authenticated users"
     
-  - "Povoliť externým používateľom, ktorí akceptujú pozvánky na zdieľanie a anonymné hosťovské prepojenia"
+  - "Allow both external users who accept sharing invitations and anonymous guest links"
     
 - **Jednotlivé kolekcie lokalít**
     
-  - Kolekcie lokalít – vyberte príslušnú kolekciu lokalít a potom kliknite na položku Zdieľanie – na páse s nástrojmi – \> Skontrolujte, či sú vybraté možnosti zdieľania.
+  - Kolekcie lokalít – Vyberte s otázkou kolekciu lokalít a potom na páse s nástrojmi kliknite na položku Zdieľanie – skontrolujte, \> či sú vybraté všetky možnosti zdieľania.
     
-Ďalšie informácie o zapnutí externého zdieľania nájdete [v téme Zapnutie alebo vypnutie externého zdieľania v SharePointe Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Ďalšie informácie o tom, ako zapnúť externé zdieľanie, nájdete v téme Zapnutie alebo vypnutie [externého zdieľania pre SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

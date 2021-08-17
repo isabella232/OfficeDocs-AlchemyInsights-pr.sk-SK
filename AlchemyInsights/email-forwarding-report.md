@@ -1,5 +1,5 @@
 ---
-title: Zostava preposielania e-mailov
+title: Zostava o automatických preposlaných správach
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030143"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891466"
 ---
-# <a name="email-forwarding-report"></a>Zostava preposielania e-mailov
+# <a name="auto-forwarded-messages-report"></a>Zostava o automatických preposlaných správach
 
-Ak chcete zobraziť zostavu o počte automaticky preposlaných správ vo vašej organizácii, pozrite si tému [Prehľad automaticky preposlaných správ v centre zabezpečenia a dodržiavania súladu](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) v [centre zabezpečenia &amp; dodržiavania súladu pre Microsoft 365](https://protection.office.com/#/homepage).
-  
-Poznámka: V prípade, že sa prihlasujete do centra zabezpečenia &amp;súladu, možno bude potrebné po niekoľkých minútach aktualizovať prehliadač, aby sa zobrazili všetky dostupné možnosti.
+Ak chcete zobraziť zostavu o koľkých automaticky preposlaných správach vo vašej organizácii, skontrolujte zostavu Automatické preposielané správy v Centre spravovania pre Exchange (EAC) v téme Tok pošty [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) <https://admin.exchange.microsoft.com/> \>  \> **zostáv.** Alebo ak chcete prejsť priamo na stránku Automatické **preposielanie** správ, použite <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
   

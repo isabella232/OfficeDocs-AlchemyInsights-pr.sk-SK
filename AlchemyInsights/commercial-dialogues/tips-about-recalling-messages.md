@@ -1,5 +1,5 @@
 ---
-title: Tipy na vyvolanie správ
+title: Tipy o odvolaniach správ
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081481"
 ---
-# <a name="tips-about-recalling-messages"></a>Tipy na vyvolanie správ
+# <a name="tips-about-recalling-messages"></a>Tipy o odvolaniach správ
 
-Tu je miesto, kde môžete a nemôžete odvolať správy:
+V tomto prípade môžete a nemôžete odvolať správy:
 
-* Ako správca môžete v mene používateľov odvolať správy pomocou prostredia PowerShell. Správy nemožno odvolať z centra spravovania.
-* Môžete vyvolať iba správy, ktoré sa odosielajú ľuďom vo vašej organizácii. Ak bola správa odoslaná na adresu služby Gmail, môžete ju napríklad vyvolať.
-* **Môžete odvolať len správy odoslané z outlooku 2016 pre PC**. Ak používateľ odošle správu pomocou Outlooku pre Mac alebo Outlooku na webe, nemôžete ju vyvolať.
+* Ako správca môžete správy v mene používateľov odvolať pomocou prostredia PowerShell. V Centre spravovania nie je možné odvolať správy.
+* Odvolať možno len správy odoslané ľuďom vo vašej organizácii. Ak bola správa odoslaná napríklad na adresu služby Gmail, nemôžete ju odvolať.
+* **Odvolať môžete len správy odoslané z Outlook 2016 počítača.** Ak používateľ odošle správu pomocou Outlook pre Mac alebo Outlook na webe, nemôžete ju odvolať.
