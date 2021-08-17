@@ -1,5 +1,5 @@
 ---
-title: 8000089 Outlook.com dôveryhodných odosielateľov
+title: 8000089 Outlook.com Trezor odosielateľov
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2235a7ae246122b62e77adf34a0d022e3137cb8d4d2edb7d5b5db4d78bc42e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111415"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Zastavenie odosielania správ do priečinka Nevyžiadaná pošta
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Zastavenie presmerovania správ do priečinka Nevyžiadaná pošta
 
-Ak nechcete, aby sa v priečinku Nevyžiadaná pošta v Outlook.com nezobrazovali správy od konkrétnej osoby alebo domény. Správy z adries alebo domén v zozname dôveryhodných odosielateľov sa nepresunú do priečinka Nevyžiadaná pošta.
+Niekedy nechcete, aby správy od konkrétnej osoby alebo domény skončili v priečinku Nevyžiadaná pošta na lokalite Outlook.com. Správy z adries alebo domén v zozname dôveryhodných odosielateľov sa nepremiestňujú do priečinka Nevyžiadaná pošta.
 
-1. Otvorte [nastavenia dôveryhodných odosielateľov](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. V časti **Dôveryhodní odosielatelia a domény**zadajte e-mailovú adresu alebo doménu, ktorú chcete pridať, a vyberte položku **Pridať**.
-3. Ak chcete do dôveryhodných odosielateľov Pridať poštový zoznam, zadajte poštový zoznam v časti **bezpečné poštové zoznamy** a vyberte položku **Pridať**.
-4. Vyberte položku **Uložiť**.
+1. Otvorte nastavenia [Trezor odosielateľov.](https://go.microsoft.com/fwlink/?linkid=2035804)
+2. V **Trezor odosielateľov a domén zadajte e-mailovú** adresu alebo doménu, ktorú chcete pridať, a vyberte položku **Pridať**.
+3. Ak chcete pridať poštový zoznam pre dôveryhodných odosielateľov, zadajte poštový zoznam v **Trezor adries** a vyberte položku **Pridať**.
+4. Vyberte **položku Uložiť**.
 
-Ďalšie informácie nájdete v téme [blokovanie alebo odblokovanie odosielateľov v Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete [v časti Blokovanie alebo odblokovanie odosielateľov v Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
