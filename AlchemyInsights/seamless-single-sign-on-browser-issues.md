@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s bezproblémovým jediným prihlásením (SSO) v prehliadači
+title: Riešenie problémov s bezproblémového jediného prihlásenia (SSO) prehliadača
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074299"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Riešenie problémov s bezproblémovým jediným prihlásením (SSO) v prehliadači
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Riešenie problémov s bezproblémového jediného prihlásenia (SSO) prehliadača
 
-Väčšina používateľov dokáže vyriešiť problém s bezproblémovým prehliadačom SSO pomocou krokov uvedených nižšie:
+Väčšina používateľov dokáže vyriešiť bezproblémový problém s prehliadačom jediného prihlásenia pomocou nasledujúcich krokov:
 
-1. Uistite sa, že váš prehliadač je aktualizovaný.
-2. Odstráňte súbory cookie z prehliadača a odstráňte neplatnú reláciu SSO a skúste sa prihlásiť znova.
+1. Skontrolujte, či je prehliadač aktuálny.
+2. Odstránenie súborov cookie z prehliadača na odstránenie neplatnej relácie jediného prihlásenia a skúste sa znova prihlásiť.
 3. Skúste sa prihlásiť pomocou iného prehliadača.
 
 **Známe problémy s prehliadačom**
 
-- Bezproblémové SSO nefunguje v režime súkromného prehliadania v prehliadači Firefox.
-- Bezproblémové SSO v Internet Exploreri nefunguje, keď je zapnutý rozšírený chránený režim.
-- Bezproblémové SSO nefunguje v režime súkromného prehliadania v prehliadači Microsoft Edge (staršia verzia).
-- Bezšvíkové SSO nefunguje v mobilných prehliadačoch v systémoch iOS a Android.
+- Bezproblémové jediné prihlásenie nefunguje v súkromnom režime prehľadávania vo Firefoxe.
+- Bezproblémové jediné prihlásenie v Internet Exploreri nefunguje, keď je zapnutý režim rozšíreného chráneného systému.
+- Bezproblémové jediné prihlásenie nefunguje v súkromnom režime prehľadávania v Microsoft Edge (staršia verzia).
+- Bezproblémové jediné prihlásenie nefunguje v mobilných prehliadačoch so systémom iOS a Android.
 
-Bezproblémové SSO podporuje nasledujúcu verziu Microsoft Edge na základe chrómu a funguje v režime InPrivate a v režime hosťa návrhom.
+Bezproblémové jediné prihlásenie podporuje ďalšiu verziu e-Microsoft Edge na základe Chromium a funguje v režime InPrivate a v režime hosťovania na základe návrhu.
 
-**Poradný**
+**Poradenstvo**
 
-Ak chcete vykonať žiadosti o funkcie alebo požiadať o technické otázky týkajúce sa bezproblémového SSO, pozrite si tému [Microsoft Q&](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Ak chcete požiadať o funkcie alebo klásť technické otázky o bezproblémovom jediného prihlásenia, pozrite si [časť Microsoft Q&A.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

@@ -1,5 +1,5 @@
 ---
-title: Blokovanie e-mailových podpisov vytvorených používateľmi
+title: Blokovanie podpisov e-mailov tvorených používateľom
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103567"
 ---
-# <a name="block-user-made-email-signatures"></a>Blokovanie e-mailových podpisov vytvorených používateľmi
+# <a name="block-user-made-email-signatures"></a>Blokovanie podpisov e-mailov tvorených používateľom
 
-Nasledujúce riešenie sa vzťahuje len na podpisy e-mailov vytvorené v Outlooku na webe. Podpis môžete blokovať len v aplikácii Outlook, ak máte lokálny Exchange Server.
+Nasledujúce riešenie sa vzťahuje len na podpisy e-mailov vytvorené vo Outlook na webe. Podpisy v aplikácii Outlook môžete blokovať len vtedy, ak máte lokálny Exchange Server.
 
-1. V centre spravovania vyberte položku **Exchange centra spravovania**  >  .
-2. Kliknite na položku **povolenia**  >  **politiky aplikácie Outlook Web App**.
-3. Vyberte politiku a potom kliknite na ikonu ceruzky, ktorú chcete upraviť.
-4. Kliknite na položku **funkcie**  >  **Ďalšie možnosti**.
-5. V časti **používateľské prostredie** zrušte začiarknutie políčka **podpis e-mailu** a potom kliknite na tlačidlo **Uložiť**.
+1. V centre spravovania vyberte položku **Centrá spravovania**  >  **Exchange**.
+2. Kliknite **na položku** Outlook Web App  >  **politiky.**
+3. Vyberte politiku a potom ju upravte kliknutím na ikonu ceruzky.
+4. Kliknite **na položku** Funkcie Ďalšie  >  **možnosti**.
+5. V **časti Používateľské prostredie** zrušte **začiarknutie políčka Podpis e-mailu** a potom kliknite na položku **Uložiť**.
 
-**Dôležité:** Ak ste pred zrušením začiarknutia tohto políčka pridali podpis, používateľ ho bude môcť naďalej používať. Požiadajte ich, aby ho odstránili.
+**Dôležité:** Ak bol podpis pridaný pred zrušením začiarknutia tohto políčka, používateľ ho bude môcť aj naďalej používať. Požiadajte ich, aby ju odstránili.
