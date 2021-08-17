@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov s bezproblémovým jediným prihlásením na OIDC (SSO)
+title: Riešenie problémov s bezproblémovo jediným prihlásením pomocou OIDC
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9375"
-ms.openlocfilehash: e4ddde6176d9ab021b93e23b3cb363e10b1c1048
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 5880ee37a2fcc98b34231cc9960fb3f87fa184b07bd81ccd37d0ea5a78170af0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105793"
 ---
-# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Riešenie problémov s bezproblémovým jediným prihlásením na OIDC (SSO)
+# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Riešenie problémov s bezproblémovo jediným prihlásením pomocou OIDC
 
-- Ak chcete zistiť, ako pridať aplikáciu OIDC do nájomníka Azure, pozrite si tému rýchly [Štart: nastavenie jediného prihlásenia na OIDC (SSO) pre aplikáciu v nájomníkovi služby Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso).
-- Ďalšie informácie o aplikáciách, ktoré používajú funkciu OpenID Connect Standard na implementáciu jediného prihlásenia, nájdete v téme [vysvetlenie jediného prihlásenia založeného na OIDC](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on).
-- Informácie v prípade, že sa rozhodnete napísať svoj kód priamym odoslaním a spracovaním HTTP požiadaviek alebo pomocou knižnice s otvorenými zdrojmi tretej strany namiesto použitia niektorého z našich otvorených knižníc, pozrite si tému [OAuth 2,0 a OpenID Connect Protocols na platforme Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols).
+- Informácie o pridaní aplikácie typu OIDC do nájomníka služby Azure nájdete v téme Rýchly štart: Nastavenie jediného prihlásenia [(SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso)založeného na OIDC pre aplikáciu v nájomníkovi služieb Azure Active Directory (Azure AD).
+- Ďalšie informácie o aplikáciách, ktoré používajú štandard OpenID Pripojenie na implementáciu jediného prihlásenia, nájdete v téme Informácie o jedinom prihlásení pomocou funkcie [OIDC.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on)
+- Informácie pre prípad, že sa rozhodnete vytvoriť kód priamo odoslaním a spracovaním požiadaviek HTTP alebo použijete knižnicu open-source tretej strany namiesto použitia jednej z našich knižníc s otvoreným zdrojovým kódom, pozrite si balíky [OAuth 2.0 a Protokoly OpenID Pripojenie](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols)na serveri Microsoft identity platform.
 
 **Protokoly**
 
-1. [Platforma Microsoft identity a implicitný tok grantov](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) – určujúca vlastnosť implicitnej subvencie je, že tokeny (tokeny identifikácie alebo Prístupové tokeny) sa vracajú priamo z koncového bodu/Authorize namiesto koncového bodu/token. Tento postup sa často používa ako súčasť toku kódu povolenia, v ktorom sa nazýva **"hybridný tok" – načítanie tokenu ID na žiadosť o/Authorize spolu s kódom autorizácie**. V tomto článku sa popisuje, ako program priamo v protokole v aplikácii požadovať tokeny zo služby Azure AD.
-2. [Microsoft Identity Platform a oauth 2,0 autorizačný kód flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) – OAuth 2,0 autorizačný kód grant možno použiť v aplikáciách, ktoré sú nainštalované v zariadení na získanie prístupu k chráneným zdrojom, ako sú napríklad webové rozhrania API. Pomocou aplikácie Microsoft Identity Platform implementácia OAuth 2,0 môžete **pridať prihlásenie a API prístup k mobilnej a počítačovej aplikácii**. V tomto článku sa popisuje, ako naprogramovať priamo protokol v aplikácii pomocou ľubovoľného jazyka.
-3. [Platforma Microsoft identity a OpenID Connect Protocol](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) – Ak používate aplikáciu OpenID na pripojenie platformy Microsoft identity, môžete do svojich aplikácií pridať prihlasovacie rozhranie a prístup k nim. V tomto článku je znázornené, ako to urobiť nezávisle od jazyka a popisuje spôsob **odosielania a prijímania správ http bez použitia akýchkoľvek knižníc s otvorenými zdrojmi Microsoft**.
-4. [Microsoft Identity Platform a tok poverení klienta oauth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) – môžete použiť poverenia klienta OAuth 2,0, ktoré sú uvedené v dokumente RFC 6749, niekedy sa nazývajú **dva-legged OAuth**, na prístup k webovým zdrojom s použitím totožnosti aplikácie. Tento typ grantu sa bežne používa pre interakcie medzi servermi a servermi, ktoré musia byť spustené na pozadí bez nutnosti okamžitej interakcie s používateľom. Tieto typy aplikácií sa často označujú ako **démoni** alebo **kontá služby**. V tomto článku sa popisuje, ako naprogramovať priamo voči protokolu v aplikácii.
+1. Microsoft identity platform a [implicitné](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) udelenie – definovanou charakteristikou implicitného grantu je, že tokeny (ID tokeny alebo prístupové tokeny) sa vracajú priamo z koncového bodu /authorize namiesto koncového bodu /token. Tento postup sa často používa ako súčasť toku kódu oprávnenia v tzv. hybridnom toku – načítava sa ID token v žiadosti **/authorize** spolu s kódom oprávnenia . Tento článok popisuje, ako programovať priamo voči protokolu v aplikácii a požiadať o tokeny zo služby Azure AD.
+2. [Microsoft identity platform a OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) – tok kódu oprávnenia OAuth 2.0 sa môže používať v aplikáciách nainštalovaných v zariadení na získanie prístupu k chráneným zdrojom, ako je napríklad webové APIs. Pomocou Microsoft identity platform OAuth 2.0 môžete pridať prihlásenie a prístup rozhrania API k mobilným a počítačových **aplikáciám.** Tento článok popisuje, ako programovať priamo voči protokolu vo vašej aplikácii pomocou ľubovoľného jazyka.
+3. Microsoft identity platform protokol [Pripojenie OpenID](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) – pri implementácii protokolu OpenID Pripojenie Microsoft identity platform pre Microsoft identity platform môžete pridať prihlásenie a prístup k aplikáciám pomocou rozhrania API. Tento článok popisuje postup nezávisle od jazyka a popisuje, ako odosielať a prijímať správy HTTP bez použitia knižníc **s otvoreným zdrojovým zdrojom od spoločnosti Microsoft.**
+4. Microsoft identity platform a tok poverení klienta [OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) – na prístup k zdrojom hosťovaných na webe pomocou identity aplikácie môžete použiť poskytnutie poverení klienta OAuth 2.0 zadané v RFC 6749, niekedy nazývané aj **OAuth** s dvomi tvormi. Tento typ grantu sa bežne používa na interakciu medzi servermi, ktoré sa musia spúšťať na pozadí bez okamžitej interakcie s používateľom. Tieto typy aplikácií sa často označujú ako **služba daemons** alebo **kontá služieb.** Tento článok popisuje, ako programovať priamo s protokolom vo vašej aplikácii.

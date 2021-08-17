@@ -1,5 +1,5 @@
 ---
-title: Potrebujete pomoc s aplikáciou Microsoft 365 Business Premium Voice?
+title: Potrebujete pomoc s Microsoft 365 Business Premium hlasom?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f8b02eb71adf56fe221d9ae7e9ace4c3566da0bdc03a93698746e938a36a283
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077269"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Potrebujete pomoc s aplikáciou Microsoft 365 Business Premium Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Potrebujete pomoc s Microsoft 365 Business Premium hlasom?
 
-Microsoft 365 Business Premium Voice umožňuje malým a stredným organizáciám jednoducho zmeniť aplikáciu Microsoft Teams na výkonný a flexibilný telefónny systém. Ďalšie informácie o business voice nájdete v téme [Čo je Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Pomocou hlasu môžu malé a stredné organizácie jednoducho zmeniť Microsoft Teams výkonný a flexibilný telefónny systém. Ďalšie informácie o hlase Business Voice nájdete v [téme Čo je Microsoft 365 Business Premium hlasom?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Ak ste už získali Microsoft 365 [](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) Business Premium Voice, pomôže vám to sprievodca Začíname. 
+Ak ste už získali Microsoft 365 Business Premium Voice, sprievodca [Začíname vám](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) pomôže s u vám začať. 
