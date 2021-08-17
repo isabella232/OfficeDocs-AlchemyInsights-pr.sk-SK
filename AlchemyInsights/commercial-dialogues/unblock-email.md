@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 662bf9929ebe2dd7a13d6fe355760bfaff58103ae599949282f86da4b7e2a8e7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994736"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890537"
 ---
 # <a name="unblock-email"></a>Odblokovanie e-mailov
 
 Ak je e-mailové konto používateľa zablokované na odosielanie nevyžiadanej pošty, môžete ho znova spustiť takto:
 
-1. Okamžite si obnovte heslo príslušného *konta.* Neposielajte nové heslo používateľovi e-mailom. Zabránite tak každému, aby k nej mohol získať prístup k nevyžiadanej pošte.
-2. Prejdite do Centra zabezpečenia & a zistite, či sa konto nachádza v zozname Obmedzený [používatelia.](https://protection.office.com/#/restrictedusers)
-3. Vyberte **ikonu** hľadať a zadajte meno používateľa s obmedzením. Ak napríklad máte e-mailovú adresu používateľa v *rob@contoso.com*, stačí zadať **meno používateľa rob**.
-4. Ak sa konto nachádza, vyberte položku **Odblokovať**. Postupujte podľa krokov na flyout table a potom výberom položky **Áno potvrďte.**  
-    > [!NOTE]
-    > Po odblokovanie by malo mať konto možnosť začať odosielať správy o 3 – 4 hodiny.
+1. Okamžite si obnovte heslo príslušného *konta.* Neposielajte používateľovi nové heslo e-mailom. Zabránite tak každému, aby k nej mohol získať prístup k nevyžiadanej pošte.
+2. Ak chcete zistiť, či Microsoft 365 Defender v zozname, prejdite na & Microsoft 365 Defender e-mailový portál na revíziu spolupráce – <https://security.microsoft.com> \>  \>  \>  Obmedzení používatelia. V prípade potreby **vyhľadajte** používateľa v zozname pomocou poľa Hľadať.
+3. Ak sa používateľ nachádza v zozname, vyberte používateľa a potom vyberte položku **Odblokovať**. Postupujte podľa krokov na flyout table a potom výberom položky **Áno potvrďte.**
+
+   > [!NOTE]
+   > Po odblokovanie by malo mať konto možnosť začať odosielať správy o 3 – 4 hodiny.
+
+Ďalšie informácie nájdete v téme [Odstránenie blokovaných používateľov z portálu obmedzených používateľov.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)
