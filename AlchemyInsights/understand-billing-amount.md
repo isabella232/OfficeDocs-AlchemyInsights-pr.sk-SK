@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919654"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304348"
 ---
 # <a name="understand-billing-amount"></a>Informácie o fakturovanej sume
 
@@ -26,9 +26,9 @@ ms.locfileid: "53919654"
 - Pomoc s revíziou faktúry a jej pochopenie nájdete v tejto časti: [Kurz: Kontrola individuálnej faktúry za Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Informácie o podmienkach na faktúre: [Vysvetlenie podmienok faktúry služby Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Informácie o podmienkach v poplatkoch za používanie Azure: [Vysvetlenie podmienok používania](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Ak chcete získať PDF súbor faktúry a kópiu podrobného súboru denného používania (.CSV): Získanie [údajov o faktúre a používaní](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Získanie PDF súboru faktúry a kópie podrobného súboru denného používania (.CSV): Získanie údajov [o faktúre a používaní](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Poznámka:** Ak zrušíte predplatné alebo zdroj v priebehu fakturačného obdobia, môže sa vám aj naďalej zobraziť poplatok, ktorý by bol za akékoľvek používanie v predchádzajúcom mesiaci. Ak ste napríklad obdobie fakturácie prechádzali od 26. dňa každého mesiaca do 25. dňa v nasledujúcom mesiaci & predplatné ste pozastavili 23. dňa, čo je 28 dní v fakturačnom cykle za jún, môže sa vám zobraziť poplatok za 28 dní používania. Ak sa vám zobrazí poplatok za zrušenie predplatného, uistite sa, že nemáte žiadne iné plány podpory, ktoré sú príčinou poplatku. Ak áno, pokračujte a plán zrušte.
+**Poznámka:** Ak zrušíte predplatné alebo zdroj v priebehu fakturačného obdobia, môže sa vám aj naďalej zobraziť poplatok, ktorý by bol za akékoľvek používanie v predchádzajúcom mesiaci. Ak ste napríklad obdobie fakturácie prechádzali od 26. dňa každého mesiaca do 25. dňa v nasledujúcom mesiaci & predplatné ste pozastavili 23. dňa, čo je 28 dní v fakturačnom cykle za jún, môže sa vám zobraziť poplatok za 28 dní používania. Ak sa vám poplatok zobrazí aj po zrušení predplatného, uistite sa, že nemáte žiadne iné plány podpory, ktoré sú príčinou poplatku. Ak áno, pokračujte a plán zrušte.
 
 **Zmluva spoločnosti Microsoft so zákazníkom (MCA):**
 
@@ -46,15 +46,15 @@ ms.locfileid: "53919654"
 
 **zmluva Enterprise (EA)**
 
-- Ak si chcete faktúru skontrolovať a porozumieť jej, pozrite si časť: Informácie o [vašej faktúre za Azure zmluva Enterprise.](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Ak ste zákazníkom Platformy Azure so zákazníkom zmluva Enterprise (zákazníkom EA), nemôžete si stiahnuť faktúry organizácie. Faktúry sa odosielajú tomu, kto je nastavený na prijímanie faktúr za registráciu, môžete si stiahnuť používanie na [portáli Azure.](https://portal.azure.com/)
+- Ak potrebujete pomoc s revíziou faktúry a jej pochopenie, pozrite si časť: Informácie o [faktúre za Azure zmluva Enterprise faktúru](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Ak ste zákazníkom Azure s kontom zmluva Enterprise (zákazníkOM EA), nemôžete si stiahnuť faktúry organizácie. Faktúry sa odosielajú tomu, kto je nastavený na prijímanie faktúr za registráciu, môžete si stiahnuť používanie na [portáli Azure.](https://portal.azure.com/)
 
 Skontrolujte nadmernú faktúru služby:
 
 - Prihláste sa na **portál Enterprise.** Vyberte **položku Zostavy**
 - V pravom hornom rohu karty prepnite zobrazenie z **M** na **C** a zhodný s obdobím na faktúre
-- Celková suma **za** používanie by sa mala zhodovať  s celkovou rozšírenou čiastkou na faktúre za nadmernú sumu služby.
-- Ďalšie informácie **o vašich poplatkoch** nájdete v > stiahnutie zostavy o používaní na stiahnutie. **Poznámka:** Táto zostava neobsahuje dane, poplatky za rezervácie ani poplatky na trhu
+- Celková suma **za používanie** by sa mala zhodovať s celkovou rozšírenou čiastkou na faktúre za nadmernú sumu služby. 
+- Ďalšie informácie **o vašich poplatkoch** nájdete v > stiahnutie zostavy o používaní na stiahnutie. **Poznámka:** Táto zostava nezahŕňa dane, poplatky za rezervácie ani poplatky na trhu
 
 **Azure Marketplace**
 
@@ -62,16 +62,18 @@ Skontrolujte nadmernú faktúru služby:
 
 Skontrolovať faktúru zo služby Marketplace:
 
-Porovnajte celkový súčet zo služby Azure Marketplace na > súhrnu používania na portáli Enterprise s faktúrou zo služby Marketplace. Faktúra na lokalite Marketplace sa vzťahuje len na nákupy a používanie lokality Azure Marketplace. Čiastky v súhrne používania nezahŕňajú daň.
+Porovnajte celkový súčet zo služby Azure Marketplace na > súhrn o používaní na portáli Enterprise s faktúrou zo služby Marketplace. Faktúra na lokalite Marketplace sa vzťahuje len na nákupy a používanie lokality Azure Marketplace. Čiastky v súhrne používania nezahŕňajú daň.
 
 - Prihláste sa na **portál Enterprise.** Vyberte **položku Zostavy**
 - V pravom hornom rohu karty prepnite zobrazenie z **M** na **C** a zhodný s obdobím na faktúre
 - Súčet **lokality Azure Marketplace** by sa mal zhodovať s **celkovým predajom** na faktúre zo služby Marketplace
-- Ďalšie informácie **o poplatkoch** na základe používania nájdete v článku Stiahnutie používania. V **časti Poplatky na** lokalite Marketplace vyberte položku **Stiahnuť** **poznámku:** Táto zostava nezahŕňa dane ani zobrazovať jednonásošné nákupy
+- Ďalšie informácie **o poplatkoch** na základe používania nájdete v článku Stiahnutie používania. V **časti Poplatky na lokalite** Marketplace vyberte položku **Stiahnuť** 
+
+**Poznámka:** Táto zostava neobsahuje dane ani zobrazovať jednočasové nákupy
 
 **Cloud Solution Provider (CSP)**
 
-- Ďalšie informácie o tom, ako funguje fakturácia v Cloud Solution Provider (Azure CSP): [Fakturácia CSP služby Azure](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Ďalšie informácie o tom, ako funguje fakturácia v programe Azure Cloud Solution Provider (Azure CSP): [Fakturácia CSP služby Azure](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Informácie o čítaní faktúry CSP a porozumenie jej [faktúre: Azure CSP invoice](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Odporučené dokumenty**

@@ -1,5 +1,5 @@
 ---
-title: 932 inovácia AADConnect
+title: 932 Inovácia AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104827"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Inovácia služby Azure AD Connect
+# <a name="upgrade-azure-ad-connect"></a>Inovácia služby Azure AD Pripojenie
 
-Predvolene je povolená Automatická inovácia pre službu Azure AD Connect, ktorá pomáha zabezpečiť, že máte nainštalovanú najnovšiu verziu. Ak chcete overiť nastavenia automatickej inovácie, použite rutinu typu cmdlet **Get-ADSyncAutoUpgrade** v prostredí Azure AD PowerShell. Rutina typu cmdlet vráti jednu z nasledujúcich hodnôt:
+Automatická inovácia je predvolene povolená pre Azure AD Pripojenie, čo pomáha zabezpečiť, že používate najnovšiu verziu. Ak chcete overiť nastavenia automatickej inovácie, použite rutinu typu cmdlet **Get-ADSyncAutoUpgrade** v prostredí Azure AD PowerShell. Rutina typu cmdlet vráti jednu z nasledujúcich hodnôt:
 
-- **Povolené**: Automatická inovácia je povolená.
+- **Povolené:** Automatická inovácia je povolená.
 
-- **Vypnuté**: Automatická inovácia je zakázaná.
+- **Vypnuté:** Automatická inovácia je vypnutá.
 
-- **Pozastavené**: systém už nie je oprávnený prijímať automatické inovácie. Túto hodnotu nie je možné nakonfigurovať. je nastavený systémom.
+- **Pozastavené:** Systém už nie je oprávnený na prijímanie automatických aktualizácií. Túto hodnotu nie je možné nakonfigurovať. je nastavený systémom.
 
-Ďalšie informácie nájdete v téme [Automatická inovácia](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Ďalšie informácie nájdete v téme [Automatická inovácia.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-Ak si chcete stiahnuť najnovšiu verziu služby Azure AD Connect, prejdite na položku [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Ak si chcete stiahnuť najnovšiu verziu služby Azure AD Pripojenie, prejdite [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) na .

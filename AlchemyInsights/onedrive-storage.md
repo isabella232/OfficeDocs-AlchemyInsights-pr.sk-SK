@@ -1,5 +1,5 @@
 ---
-title: Ukladací priestor vo OneDrive
+title: OneDrive ukladacieho priestoru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,17 +15,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: a47d53ea985ca3809396bcd741d20cb8ed639b26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ef5fe2dfa6f223b3b87ba5018ece36e9f673566b840bb8b7a0ed700f7bc94a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075752"
 ---
-# <a name="manage-your-onedrive-storage"></a>Spravovanie ukladacieho priestoru vo OneDrive
+# <a name="manage-your-onedrive-storage"></a>Spravovanie OneDrive ukladacieho priestoru
 
-Ak chcete zistiť, koľko miesta používate a uvoľniť miesto, môžete spravovať svoje služby OneDrive for Business.  Ďalšie informácie nájdete na prepojeniach nižšie.
+Môžete spravovať OneDrive for Business a zistiť, koľko miesta používate, a voľné miesto.  Ďalšie informácie nájdete na nasledujúcich prepojeniach.
 
-- [Spravovanie ukladacieho priestoru vo OneDrive for Business](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
-- [Zmena ukladacieho priestoru vo OneDrive konkrétneho používateľa](https://docs.microsoft.com/onedrive/change-user-storage)
-- [Nastavenie predvoleného ukladacieho priestoru pre používateľov OneDrivu](https://docs.microsoft.com/onedrive/set-default-storage-space)
+- [Spravovanie OneDrive for Business ukladacieho priestoru](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Zmena ukladacieho priestoru OneDrive konkrétneho používateľa](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Nastavenie predvoleného ukladacieho priestoru pre OneDrive používateľov](https://docs.microsoft.com/onedrive/set-default-storage-space)
