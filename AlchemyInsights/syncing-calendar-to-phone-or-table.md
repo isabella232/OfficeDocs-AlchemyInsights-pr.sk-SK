@@ -1,5 +1,5 @@
 ---
-title: 1600036 synchronizácia kalendára s telefónom alebo tabuľkou
+title: 1600036 synchronizácie kalendára s telefónom alebo stolom
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: 83f3be839ea6f2f23911860ecc4fbde46485ff02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f97661468310a1241fbe0616657ccebac7677401a235561ca27020be6e27cbbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700362"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106924"
 ---
-# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Problémy so synchronizáciou kalendára Outlooku so zariadeniami
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Problémy so synchronizáciou Outlook kalendára do zariadení
 
-Ak chcete riešiť problémy so synchronizáciou kalendára so zariadeniami, pozrite si tému [nie je možné synchronizovať kalendár a kontakty s telefónom alebo tabletom](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).
+Ak chcete vyriešiť problémy so synchronizáciou kalendára do zariadení, pozrite si tému Nie je možné synchronizovať kalendár a kontakty s telefónom [alebo tabletom.](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx)
   
 

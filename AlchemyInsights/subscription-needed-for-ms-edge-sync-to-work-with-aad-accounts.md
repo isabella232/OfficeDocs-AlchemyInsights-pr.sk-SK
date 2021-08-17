@@ -1,5 +1,5 @@
 ---
-title: Predplatné potrebné na synchronizáciu Microsoft Edge s cieľom pracovať s kontami služby Azure Active Directory
+title: Predplatné potrebné na Microsoft Edge na prácu s Azure Active Directory kontami
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049620"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Predplatné potrebné na synchronizáciu Microsoft Edge s cieľom pracovať s kontami služby Azure Active Directory
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Predplatné potrebné na Microsoft Edge na prácu s Azure Active Directory kontami
 
-Synchronizácia bude fungovať s niektorým z nasledujúcich predplatných:
+Synchronizácia bude fungovať s jedným z nasledujúcich predplatných:
 
 1. Azure Active Directory Premium (P1 a P2)
 1. Microsoft 365 Business Premium
-1. Office 365 E3 a novší
+1. Office 365 E3 a vyššie
 1. Azure Information Protection (P1 a P2)
-1. Všetky predplatné služieb Office 365 Education:
-    - Aplikácie spoločnosti Microsoft pre študentov alebo vyučujúcich
-    - Exchange Online pre študentov alebo vyučujúcich
-    - Office 365 a1 alebo novší
-    - Microsoft 365 a1 alebo novší
-    - Azure Information Protection P1 alebo P2 pre študentov alebo vyučujúcich
+1. Všetky Office 365 Education predplatné:
+    - Aplikácie spoločnosti Microsoft pre študentov alebo vyučuľu
+    - Exchange Online for Students or Faculty
+    - Office 365 A1 alebo vyššie
+    - Microsoft 365 A1 alebo vyššie
+    - Azure Information Protection P1 or P2, for Students or Faculty
