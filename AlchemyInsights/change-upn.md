@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082417"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332450"
 ---
 # <a name="change-a-users-email-address"></a>Zmena e-mailovej adresy používateľa
 
 Zmena e-mailovej adresy je jednoduchá. Stačí postupovať podľa týchto krokov:
   
-1. V pracovnom Centrum spravovania služby Microsoft 365 prejdite na [stránku Používatelia](https://go.microsoft.com/fwlink/p/?linkid=834822) alebo vyberte položku  \> **Aktívni používatelia Používatelia.**
+1. V časti Centrum spravovania služby Microsoft 365 prejdite na stránku [Používatelia](https://go.microsoft.com/fwlink/p/?linkid=834822) alebo vyberte položku  \> **Aktívni používatelia používatelia.**
     
 2. Vyberte používateľa.
     
@@ -31,9 +31,9 @@ Zmena e-mailovej adresy je jednoduchá. Stačí postupovať podľa týchto kroko
     
 4. Do poľa **Alias** zadajte nový e-mail a potom vyberte položku **Pridať**.
     
-    **DÔLEŽITÉ:** Ak sa zobrazí chybové hlásenie " Nedá sa nájsť parameter, ktorý zodpovedá názvu parametra **EmailAddresses**", znamená to, že Spoločnosť Microsoft trochu dlhšie dokonči nastavenie nájomníka alebo vašej vlastnej domény, ak ste si ju nedávno pridali. Dokončenie inštalačného procesu môže trvať až 4 hodiny. Chvíľu počkajte, aby sa proces inštalácie dokončil, a potom to skúste znova. Ak problém pretrváva, zavolajte na technickú podporu, ktorá umožní úplnú synchronizáciu za vás.
+    **Dôležité:** Ak sa zobrazí chybové hlásenie " Nedá sa nájsť parameter, ktorý zodpovedá názvu parametra **EmailAddresses**", znamená to, že Microsoft trochu dlhšie dokonči nastavenie nájomníka alebo vašej vlastnej domény, ak ste si ju nedávno pridali. Dokončenie inštalačného procesu môže trvať až 4 hodiny. Chvíľu počkajte, aby sa proces inštalácie dokončil, a potom to skúste znova. Ak problém pretrváva, zavolajte na technickú podporu, ktorá bude mať úplnú synchronizáciu za vás.
     
-    Ak sa zobrazí chybové hlásenie **" Ľutujeme, používateľa sa nepodarilo upraviť. Skontrolujte informácie o používateľovi** a skúste to znova, čo znamená, že nie ste globálnym správcom a nemáte povolenia na zmenu mena používateľa.
+    Ak sa zobrazí chybové hlásenie **"Ľutujeme, používateľa sa nepodarilo upraviť. Skontrolujte informácie o používateľovi** a skúste to znova, čo znamená, že nie ste globálnym správcom a nemáte povolenia na zmenu mena používateľa.
     
 5. Vyberte **položku Nastaviť ako primárnu** pre e-mailovú adresu, ktorú chcete pre osobu nastaviť ako primárnu. Ak ste si predplatné zakúpili od spoločnosti GoDaddy, na nastavenie primárnej e-mailovej adresy sa musíte prihlásiť do jeho riadiacej konzoly. 
     

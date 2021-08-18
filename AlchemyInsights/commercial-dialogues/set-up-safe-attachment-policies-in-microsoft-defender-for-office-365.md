@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b76b3f2f96a1c086c7eb7de830908965d7207c0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888385"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333398"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Nastavenie Trezor príloh v programe Microsoft Defender pre Office 365
 
-1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/> **e-maily &** na \> **& Pravidlá** \>  \> **hrozieb Trezor prílohy v** **časti** Politiky.
+1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/> **e-maily &** pre \> **& Pravidlá** \>  \> **hrozieb Trezor prílohy v** **časti** Politiky.
 
-   Ak chcete prejsť priamo na **Trezor prílohy,** použite <https://security.microsoft.com/safeattachmentv2> .
+   Ak chcete prejsť priamo na **Trezor prílohy,** <https://security.microsoft.com/safeattachmentv2> použite .
 
 2. Na stránke **Trezor Prílohy** vykonajte niektorý z týchto krokov:
    - Ak chcete pridať novú politiku, vyberte položku **+ Vytvoriť**. Spustí sa sprievodca, ktorý vám pomôže definovať nastavenia politiky.

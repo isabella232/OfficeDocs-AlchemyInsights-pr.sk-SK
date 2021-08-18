@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973856"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338975"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Povolenia potrebné na vyhľadávanie eDiscovery
 
-Na vyhľadávanie obsahu v Centre dodržiavania súladu pre & zabezpečenia musí byť používateľ aspoň členom skupiny rolí eDiscovery Manager, ktorá im umožňuje vykonávať vyhľadávania a blokovania údajov o poštových schránkach, SharePoint lokalitách a OneDrive miestach. Členovia môžu tiež vytvárať a spravovať prípady eDiscovery, pridávať a odstraňovať členov do prípadu, vytvárať a upravovať vyhľadávania obsahu a získať prístup k údajom prípadu v Advanced eDiscovery.
+Ak chcete v Centre dodržiavania súladu pre & obsah vykonať xearches, používateľ musí byť aspoň členom skupiny rolí eDiscovery Manager.
 
-Ak chcete In-Place vyhľadávania eDiscovery v Centre spravovania pre Exchange (EAC), používateľ musí byť členom skupiny rolí Správa zisťovania v Exchange Online.
+Na vyhľadávanie obsahu v Centrum dodržiavania súladu pre Microsoft 365 musí používateľ byť aspoň členom skupiny rolí eDiscovery Manager.  
 
-Ďalšie informácie o povoleniach na eDiscovery nájdete v téme: 
+Priradenie povolení:
 
-- [Priradenie povolení na eDiscovery v Centre & zabezpečenia a dodržiavania súladu](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Priradenie povolení na eDiscovery v Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Prejdite na [Centrum dodržiavania súladu pre Microsoft 365](https://compliance.microsoft.com/)  >  **Povolení**.
+1. V **časti Centrum dodržiavania** súladu **vyberte položku Roly** a potom vyberte **položku eDiscovery Manager**.
+1. Na letáku pridajte používateľa do požadovanej roly výberom položky **Upraviť** vedľa položky Správca vyhľadávania eDiscovery alebo roly správcu vyhľadávania eDiscovery.
 
 **Poznámka:** Po priradení povolení na eDiscovery bude možno potrebné niekoľko minút počkať, kým sa povolenia môžu rozšíriť.
+
+Ďalšie informácie o povoleniach na eDiscovery nájdete v téme [Priradenie povolení na eDiscovery v Centrum dodržiavania súladu pre Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)

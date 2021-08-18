@@ -13,19 +13,19 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899899"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331174"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Určenie, kedy je v poštových schránkach nakonfigurované preposielanie externých e-mailov
 
-Keď používateľ Microsoft 365 externý preposielanie e-mailov v poštovej schránke, aktivita sa audituje ako súčasť rutiny typu cmdlet **Set-Mailbox.** Aktivitu môžete zobraziť pomocou vyhľadávania denníka auditu. Tu je postup.
+Keď používateľ Microsoft 365 nakonfiguruje preposielanie externých e-mailov v poštovej schránke, aktivita sa audituje ako súčasť rutiny typu cmdlet **Set-Mailbox.** Aktivitu môžete zobraziť pomocou vyhľadávania denníka auditu. Tu je postup.
 
 1. Vykonajte niektorý z týchto krokov:
-   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešení.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
+   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešenia.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
    - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Audit**. Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. Na stránke **Audit** overte, či **je vybratá** karta Hľadať, a potom nakonfigurujte tieto nastavenia:

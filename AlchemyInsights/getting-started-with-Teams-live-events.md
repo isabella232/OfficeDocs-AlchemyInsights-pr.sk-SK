@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088879"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333174"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Začíname so živými podujatiami v Teams
 
@@ -25,9 +25,11 @@ ms.locfileid: "54088879"
 
 Ak chcete vytvoriť živé podujatie, budete potrebovať nasledovné:
 
-- Najskôr potvrďte, že Teams Živé podujatia [sú k dispozícii vo vašej krajine a oblasti](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Živé podujatia zatiaľ nie sú v niektorých krajinách podporované.  Ak ste priradili licencie a nastavili politiky, ale stále nie je možné vytvoriť živé podujatie Teams, je pravdepodobné, že sa nachádzate v krajine alebo oblasti, kde živé podujatia ešte nie sú k dispozícii.
+- Najskôr potvrďte, Teams živé podujatia sú [k dispozícii vo vašej krajine a oblasti](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Živé podujatia zatiaľ nie sú v niektorých krajinách podporované.  Ak ste priradili licencie a nastavili politiky, ale stále nie je možné vytvoriť živé podujatie Teams Live, pravdepodobne sa nachádzate v krajine alebo oblasti, kde živé podujatia ešte nie sú k dispozícii.
 
-- [Licenciu na Office 365 Enterprise E1, E3 alebo E5 alebo licenciu na Office 365 A3 alebo A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Poznámka**: V dôsledku nedávneho nárastu využívania aplikácie Teams sa môže stať, že keď používateľovi priradíte licenciu na Teams, úplné nastavenie môže trvať až 24 hodín. Dovtedy im nebudete môcť priradiť politiky Teams a nemusia mať prístup k niektorým funkciám aplikácie Teams, ako sú napríklad hovory a zvukové konferencie.
+- [Licenciu na Office 365 Enterprise E1, E3 alebo E5 alebo licenciu na Office 365 A3 alebo A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Poznámka**: V dôsledku nedávneho nárastu využívania aplikácie Teams sa môže stať, že keď používateľovi priradíte licenciu na Teams, úplné nastavenie môže trvať až 24 hodín. Dovtedy im nebudete môcť priradiť politiky Teams a nemusia mať prístup k niektorým funkciám aplikácie Teams, ako sú napríklad hovory a zvukové konferencie.
 
 - Povolenie na [vytváranie živých podujatí v centre spravovania pre Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

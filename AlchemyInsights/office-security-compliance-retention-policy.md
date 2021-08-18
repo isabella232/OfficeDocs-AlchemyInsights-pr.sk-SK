@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985652"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331908"
 ---
 # <a name="more-info-about-retention-policies"></a>Ďalšie informácie o politikách uchovávania údajov
 
@@ -27,13 +27,13 @@ Vo väčšine organizácií sa zvyšuje objem a zložitosť ich údajov denne �
 
 ## <a name="a-from-security-and-compliance-center"></a>A) Z Centra zabezpečenia a dodržiavania súladu
 
-- Prejdite na kartu Zabezpečenie a dodržiavanie súladu > riadenia údajov > uchovávania údajov
+- Prejdite na položku Zabezpečenie a dodržiavanie súladu > Riadenie údajov > uchovávania údajov
   - Pozrite [si tento](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) článok
 
 - Prejdite na kartu Zabezpečenie a dodržiavanie súladu > eDiscovery> Advanced eDiscovery 
   - Pozrite [si tento](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) článok
 
-- Prejsť na kartu Zabezpečenie a > klasifikácie > uchovávania údajov
+- Prejdite na kartu Zabezpečenie a dodržiavanie > Klasifikácie > uchovávania údajov
   - Pozrite si tieto články
     - [Označenia citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
     - [Prehľad označení](https://docs.microsoft.com/microsoft-365/compliance/labels)
@@ -52,5 +52,4 @@ Vo väčšine organizácií sa zvyšuje objem a zložitosť ich údajov denne �
   - [IrM v zozname/knižnici](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [Prehľad správy prístupových práv k informáciám](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> Dôrazne odporúčame prechod na politiky zabezpečenia a dodržiavania súladu, ak stále používate politiky uzavretia a odstránenia starších eDiscovery alebo IRM alebo lokality.
+**Poznámka:** Ak stále používate politiky týkajúce sa staršieho eDiscovery alebo správy prístupových práv k informáciám alebo politiky uzavretia a odstránenia lokality, dôrazne odporúčame prechod na politiky zabezpečenia a dodržiavania súladu.
