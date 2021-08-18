@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898907"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330423"
 ---
 # <a name="change-your-billing-address"></a>Zmena fakturačnej adresy
 
@@ -35,7 +35,7 @@ Faktúra obsahuje tri adresy.
 3. Na stránke **Podrobnosti o spôsobe platby** kliknite na položku **Upraviť**.
 4. Aktualizujte svoju fakturačnú adresu a potom kliknite **na položku Uložiť > Hotovo**.
 
-Ďalšie informácie o zmenách adries a oznámení nájdete v [téme Zmena fakturačnej adresy pre Microsoft 365 pre podniky.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Ďalšie informácie o zmenách adries a oznámení nájdete v [téme Zmena fakturačnej adresy Microsoft 365 pre podniky.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Zmena informácií o fakturačnom konte**
 

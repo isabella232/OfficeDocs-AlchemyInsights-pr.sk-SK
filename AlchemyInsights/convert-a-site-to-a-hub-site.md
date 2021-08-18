@@ -12,23 +12,22 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8cfa98a71764a566158cc316e844f88f3fd29804
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929824"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329887"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Vytvorenie SharePoint lokality
+# <a name="create-a-sharepoint-hub-site"></a>Vytvorenie SharePoint centra
 
-1. V novom Centre SharePoint v časti Lokality **kliknite na** položku **Aktívne lokality**.
+1. V novom Centre spravovania SharePoint kliknite v časti **Lokality na** položku **Aktívne lokality**.
 
 2. Vyberte lokalitu, ktorá má byť centrom, kliknite na položku **Centrum lokality** a potom kliknite na položku **Zaregistrovať ako lokalitu centra**.
 
 3. Zadajte zobrazovaný názov lokality centra a zadajte jednotlivých používateľov alebo skupiny zabezpečenia, ktoré chcete povoliť na priradenie lokalít k rozbočovaču.
 
-    > [!NOTE]
-    >  Odporúčame vybrať lokalitu na komunikáciu alebo tímovú lokalitu, ktorá používa novú šablónu. Ak používate klasickú tímovú lokalitu, navigácia v centre sa zobrazí len na moderných stránkach a nastavenie centra lokality sa zobrazí len na moderných stránkach. Lokality, ktoré už sú priradené k inému rozbočovaču, nie je možné zaregistrovať ako lokalitu centra.
+    **Poznámka:** Odporúčame vybrať lokalitu na komunikáciu alebo tímovú lokalitu, ktorá používa novú šablónu. Ak používate klasickú tímovú lokalitu, navigácia v centre sa zobrazí len na moderných stránkach a nastavenie centra lokality sa zobrazí len na moderných stránkach. Lokality, ktoré už sú priradené k inému rozbočovaču, nie je možné zaregistrovať ako lokalitu centra.
   
 [Ďalšie informácie o lokalitách centra](https://go.microsoft.com/fwlink/?linkid=869149)
   

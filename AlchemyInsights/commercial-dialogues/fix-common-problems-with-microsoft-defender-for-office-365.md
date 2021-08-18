@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898259"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330075"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Riešenie bežných problémov s programom Microsoft Defender pre Office 365
 
@@ -25,7 +25,7 @@ Tu je niekoľko riešení bežných problémov s programom Microsoft Defender pr
 
 - **Oneskorenie správy:**
 
-  Oneskorenia v doručovaní e-mailov môžu spôsobovať Trezor Kontrola príloh správ. Ďalšie informácie nájdete v téme [Trezor nastavenia politiky prílohy.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Oneskorenia v doručovaní e-mailov môžu spôsobovať Trezor Kontrola príloh správ. Ďalšie informácie nájdete v téme [nastavenia Trezor prílohy.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Hlásenie nesprávne pozitívnych alebo záporných výsledkov:**
 
@@ -33,7 +33,7 @@ Tu je niekoľko riešení bežných problémov s programom Microsoft Defender pr
 
 - **Zapnúť Trezor prepojenie:**
 
-  1. Na portáli Microsoft 365 Defender prejdite na položku E-mailové politiky spolupráce pre & e-mailom & Pravidlá pravidiel <https://security.microsoft.com/>  \>  \>  \> **hrozieb Trezor Prepojenia** v **časti** Politiky.
+  1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/> **e-&** e-maily & Pravidlá hrozieb \>  \>  \> **Trezor Prepojenia** v **časti** Politiky.
 
      Ak chcete prejsť priamo na **Trezor prepojenia,** <https://security.microsoft.com/safelinksv2> použite .
 

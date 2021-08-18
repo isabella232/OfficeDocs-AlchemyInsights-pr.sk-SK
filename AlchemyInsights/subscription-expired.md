@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891914"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328351"
 ---
 # <a name="subscription-expired"></a>Platnosť predplatného uplynula
 
@@ -29,9 +29,8 @@ Ak platnosť vášho predplatného uplynula, bolo vypnuté spoločnosťou Micros
 **Opätovná aktivácia predplatného**
 
 1. V centre spravovania prejdite na stránku  >  [Fakturácia produktov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Na karte **Produkty** vyhľadajte predplatné, ktoré chcete opätovne **aktivovať,** vyberte tri bodky (ďalšie akcie) a potom vyberte položku Znova aktivovať toto predplatné .
-    > [!NOTE]
-    > Ak sa toto predplatné znova **neaktivuje, obráťte sa** na oddelenie technickej podpory.
+2. Na karte **Produkty** vyhľadajte predplatné, ktoré chcete znova aktivovať, vyberte tri bodky (ďalšie akcie) a potom vyberte položku Znovu aktivovať **toto predplatné**.\
+    **Poznámka:** Ak sa toto predplatné znova **neaktivuje, obráťte** sa na oddelenie technickej podpory.
 3. Na table **Znova aktivovať toto** predplatné vyberte z rozbaľovacieho zoznamu spôsob úhrady alebo vyberte položku **Pridať spôsob úhrady**.
 4. Vyberte **položku Uložiť**.
 

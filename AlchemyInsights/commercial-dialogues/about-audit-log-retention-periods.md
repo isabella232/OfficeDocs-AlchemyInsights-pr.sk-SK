@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3dd312da2064d3dd0a6d37cb074c0d9b39a20b12
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006335"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330111"
 ---
 # <a name="about-audit-logs-retention-periods"></a>Informácie o obdobiach uchovávania denníkov auditu
 
@@ -27,8 +27,8 @@ Obdobie uchovávania denníkov auditu závisí od vášho predplatného Office 3
 - **Office 365 E3:** 90 dní.
 - **Office 365 E5:** 365 dní. Ročné uchovávanie je momentálne vo ukážke.
 - **E3 a Office 365 Advanced Compliance doplnok:** 365 dní. Ročné uchovávanie je momentálne vo ukážke.
-- Ak sa chcete zaregistrovať do programu Preview, zapíšte žiadosť s podporou spoločnosti Microsoft a uveďte ako popis toho, s čím potrebujete pomôcť: Office 365 ukážku denníka **auditu ako súkromnú**.
-> [!NOTE]
-> Obdobie uchovávania je založené na licenciách podľa používateľa. Ak má napríklad používateľ vo vašej organizácii licenciu na E3, záznamy auditu pre aktivity vykonané týmto používateľom sa uchovajú 90 dní. Ak má iný používateľ licenciu na E5, ich záznamy auditu sa uchovávajú na jeden rok.
+- Ak sa chcete zaregistrovať do programu Preview, zapíšte žiadosť s podporou spoločnosti Microsoft a ako popis toho, s čím potrebujete pomôcť, uveďte nasledujúce informácie: Office 365 **ukážku** denníka auditu ako súkromnú .
+
+**Poznámka:** Obdobie uchovávania je založené na licenciách podľa používateľa. Ak má napríklad používateľ vo vašej organizácii licenciu na E3, záznamy auditu pre aktivity vykonané týmto používateľom sa uchovajú 90 dní. Ak má iný používateľ licenciu na E5, ich záznamy auditu sa uchovávajú na jeden rok.
 
 Ďalšie informácie nájdete v týchto najčastejších [otázkach.](https://go.microsoft.com/fwlink/?linkid=2115336)
