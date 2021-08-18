@@ -1,5 +1,5 @@
 ---
-title: Konfigurácia nastavení politiky Microsoft Edge pre Windows 10 pomocou služby Microsoft Intune
+title: Použitie Microsoft Intune na konfiguráciu Microsoft Edge politiky pre Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114151"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Konfigurácia nastavení politiky Microsoft Edge pre Windows 10 pomocou služby Microsoft Intune
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Použitie Microsoft Intune na konfiguráciu Microsoft Edge politiky pre Windows 10
 
-Politiky a nastavenia prehliadača Microsoft Edge môžete nakonfigurovať pridaním profilu konfigurácie zariadenia do služby Microsoft Intune. Toto je ekvivalentné s konfiguráciou skupinových politík služby Microsoft Azure Active Directory alebo lokálnych nastavení objektu skupinovej politiky (GPO) v používateľských zariadeniach.
+Nakonfigurovať môžete Microsoft Edge politiky a nastavenia pridaním profilu konfigurácie zariadenia do Microsoft Intune. Toto je ekvivalentné s konfiguráciou Microsoft Azure Active Directory skupinových politík alebo lokálnych nastavení objektu skupinovej politiky (GPO) v používateľských zariadeniach.
 
-Ďalšie informácie nájdete v téme [Vytvorenie profilu na spravovanie nastavení v Microsoft Edme pre Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
+Ďalšie informácie nájdete v téme [Vytvorenie profilu na spravovanie nastavení vo Microsoft Edge pre Windows 10.](https://go.microsoft.com/fwlink/?linkid=2133700)
 
-Tento článok sa vzťahuje na verzie Microsoft Edge 77 a novšie.
+Tento článok sa vzťahuje Microsoft Edge verzie 77 a novšie.

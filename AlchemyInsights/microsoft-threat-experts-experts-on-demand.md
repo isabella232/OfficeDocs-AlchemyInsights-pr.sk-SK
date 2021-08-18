@@ -1,5 +1,5 @@
 ---
-title: Experti na spoločnosť Microsoft Threat – experti na dopyt
+title: Microsoft Threat Experts – Odborníci na požiadanie
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113935"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Experti na spoločnosť Microsoft Threat – experti na dopyt
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts – Odborníci na požiadanie
 
-Experti na dopyt sú Druhou možnosťou expertov na Microsoft Threat. Na tomto mieste sa môžete dostať k nám, keď potrebujete konzultácie o relevantných otázkach týkajúcich sa odhaľovania a protivníkov.
+Experti na požiadanie sú druhou Microsoft Threat Experts možnosť tlače. Tu sa môžete na nás kontaktovať, keď potrebujete mať konzultáciu s príslušnými otázkami týkajúcimi sa zisťovania a prísloviek.
 
-Ak už používate program Defender pre zákazníkov koncového bodu, môžete sa obrátiť na zástupcu spoločnosti Microsoft a prihlásiť sa na odber odborníkov z lokality Microsoft Threat experti na požiadanie.
+Ak už ste zákazníkom aplikácie Defender for Endpoint, môžete sa obrátiť na zástupcu spoločnosti Microsoft a prihlásiť sa na odber aplikácie Microsoft Threat Experts Experts on Demand.
 
-Možnosť **konzultovať odborníka** v oblasti ohrozenia je k dispozícii v týchto ponukách na portáli, v ktorom sa môžete zapojiť s odborníkmi v súvislosti s vyšetrovaním:
+Možnosť Poradiť sa **s odborníkom na hrozbu** je k dispozícii v nasledujúcich ponukách na portáli, kde môžete v kontexte svojho skúmania spolupracovať s odborníkmi:
 
-- Ponuka Pomocník a technická podpora
-- Ponuka akcie stránky zariadenia
-- Ponuka akcie stránky upozornení
-- Ponuka akcie stránky súboru
+- Ponuka Pomoci a podpory
+- Ponuka akcií stránky zariadenia
+- Alerts page actions menu
+- Ponuka Akcie strany súboru
 
-Ďalšie informácie nájdete v téme [Konfigurácia a Správa možností odborníkov spoločnosti Microsoft na hrozby](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Ďalšie informácie nájdete v [téme Konfigurácia a správa Microsoft Threat Experts možností vyhľadávania.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

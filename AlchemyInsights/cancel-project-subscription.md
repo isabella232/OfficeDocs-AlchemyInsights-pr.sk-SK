@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900443"
 ---
 # <a name="cancel-project-subscription"></a>Zrušenie Project predplatného
 
@@ -30,6 +30,6 @@ Správcovia môžu zrušiť Project predplatné pre svoju organizáciu v Centrum
 3. Na **table Zrušiť** predplatné vyberte dôvod zrušenia. Prípadne môžete poskytnúť akékoľvek pripomienky.
 4. Vyberte **položku Uložiť**.
 
-**Refundácia:** V rámci nasledujúceho fakturačného obdobia vám bude vrátený akýkoľvek profesionálne kredit.
+**Refundácia:** V priebehu nasledujúceho fakturačného obdobia vám bude vrátený akýkoľvek profesionálne kredit.
 
-Ďalšie informácie nájdete v téme [Zrušenie predplatného.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Ďalšie informácie nájdete v téme [Zrušenie predplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

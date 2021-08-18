@@ -1,5 +1,5 @@
 ---
-title: 127 získanie chyby TenantAccessBlockedException pri prístupe k e-mailu?
+title: 127 Zobrazuje sa pri prístupe k e-mailu chyba TenantAccessBlockedException?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089455"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Zobrazuje sa chyba TenantAccessBlockedException pri prístupe k e-mailu?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Zobrazuje sa pri prístupe k e-mailu chyba TenantAccessBlockedException?
 
-Existuje niekoľko rôznych dôvodov, prečo sa môže zobraziť Táto chyba. Príklad:
+Existuje niekoľko rôznych dôvodov, prečo sa môže zobraziť táto chyba. Príklad:
 
-- Overte, či je vaše predplatné platné na stránke **Fakturácia** \> **[produktov](https://portal.office.com/adminportal/home#/subscriptions)** v centre spravovania služby Microsoft 365.
+- Overte, či je vaše predplatné platné **na** \> **[stránke Fakturácia](https://portal.office.com/adminportal/home#/subscriptions)** Vaše produkty v Centrum spravovania služby Microsoft 365.
 
-- Skontrolujte, či sú všetky predchádzajúce oznámenia o **fakturácii na stránke Fakturácia** \> **[& platby](https://portal.office.com/adminportal/home#/billoverview)** v centre spravovania služieb Microsoft 365.
+- Na stránke Faktúry a platby  v & skontrolujte, či ste Centrum spravovania služby Microsoft 365 \> **[](https://portal.office.com/adminportal/home#/billoverview)** po termíne.
 
-- Ak boli fakturácie a predplatné pre vaše konto naposledy aktualizované, môže to trvať dlhšie, kým sa zmeny rozšíria. Skúste to znova o niekoľko minút a ak problém pretrváva, obráťte sa na nás.
+- Ak sa nedávno aktualizovali fakturácie a predplatné pre vaše konto, rozšírenie zmien môže nejaký čas trvať. Skúste to znova o niekoľko minút a ak problém pretrváva, kontaktujte nás.

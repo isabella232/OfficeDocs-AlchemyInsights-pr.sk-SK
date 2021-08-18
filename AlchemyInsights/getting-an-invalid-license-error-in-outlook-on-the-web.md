@@ -1,5 +1,5 @@
 ---
-title: 125 v Outlooku na webe sa zobrazuje chyba neplatnej licencie?
+title: 125 Zobrazuje sa vám vo Windowse chyba neplatnej Outlook na webe?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 825d91cd81646767b100e6fc964d7a94b8bc6879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 357e57d20e3b6f56d3058bc1c782c3da7598520c29c5c29bfba6eec614fc5248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089275"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Zobrazuje sa chyba neplatnej licencie v Outlooku na webe?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Zobrazuje sa vám chyba o neplatnej licencii Outlook na webe?
 
-Ak používate Outlook na webe a **zobrazí sa hlásenie o chybe** , ktorá obsahuje **X-OWA-error: Microsoft. Exchange. Data. Storage. InvalidLicenseException**, vaša licencia na Exchange Online nie je správne priradená alebo nedávno uplynula. Váš správca vám môže priradiť licenciu pomocou týchto krokov:
+Ak používate aplikáciu Outlook na webe zobrazí sa chybové hlásenie **Vyskytla** sa chyba, ktorá obsahuje chybu **X-OWA-Error: Microsoft.Exchange. Data.Storage.InvalidLicenseException**, Exchange Online licencie nie sú správne priradené alebo uplynula nedávno. Správca vám môže priradiť licenciu pomocou týchto krokov:
   
-1. Otvorte [centrum spravovania pre Microsoft 365](https://portal.office.com/adminportal/home#/homepage) a v časti **aktívni používatelia**vyberte položku **Upraviť používateľa**.
+1. Otvorte dialógové [Centrum spravovania služby Microsoft 365](https://portal.office.com/adminportal/home#/homepage) v časti **Aktívni používatelia** vyberte **položku Upraviť používateľa**.
 
-2. Na stránke **Úprava používateľa** , ktorá sa otvorí, vyberte používateľa. Na stránke vlastností používateľa, ktorá sa otvorí, kliknite na položku **Upraviť** pre **licencie na produkty**.
+2. Na stránke **Úprava používateľa,** ktorá sa otvorí, vyberte používateľa. Na stránke používateľských vlastností, ktorá sa otvorí, **kliknite na položku** Upraviť licencie na **produkty**.
 
-3. Na stránke **licencie na produkty** , ktorá sa otvorí, vyberte príslušnú hodnotu **umiestnenia** a priraďte licenciu, ktorá obsahuje Exchange Online (rozšírenie licencie, aby sa zobrazili jej Podrobnosti). Po dokončení kliknite na tlačidlo **Uložiť**.
+3. Na stránke **Licencie na produkty,** ktorá  sa otvorí, vyberte príslušnú hodnotu Umiestnenie a priraďte licenciu, ktorá obsahuje Exchange Online (rozbaľte licenciu a zobrazte jej podrobnosti). Po dokončení kliknite na tlačidlo **Uložiť**.

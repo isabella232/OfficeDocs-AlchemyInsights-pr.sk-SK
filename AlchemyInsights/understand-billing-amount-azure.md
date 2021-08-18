@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020099"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317155"
 ---
 # <a name="understand-billing-amount"></a>Informácie o fakturovanej sume
 
@@ -70,7 +70,9 @@ Nie. Zákazníci získajú pevne určený počet služieb bezplatnej úrovne a k
 
 **Ako overím, či sú bezplatné služby aktivované a kedy im vyprší platnosť?**
 
-V časti Ibiza Portal > Predplatné > Prehľad > prejdite dolu na Bezplatné služby na 12 mesiacov a kliknite na ikonu informácií. Týmto sa zobrazí dátum vypršania platnosti bezplatných služieb **Poznámka**: Služby V1 sú súčasťou bezplatných zahrnutých služieb Azure Free Included Services. Najnovší zoznam bezplatných služieb nájdete v časti [Ktoré produkty sú bezplatné na 12 mesiacov](http://www.microsoftazuresponsorships.com/)
+V časti Ibiza Portal > Predplatné > Prehľad > prejdite dolu na Bezplatné služby na 12 mesiacov a kliknite na ikonu informácií. Zobrazí sa dátum uplynutia platnosti bezplatných služieb
+
+**Poznámka:** Žiadne služby V1 nie sú súčasťou bezplatných služieb Azure. Najnovší zoznam bezplatných služieb nájdete v časti [Ktoré produkty sú bezplatné na 12 mesiacov](http://www.microsoftazuresponsorships.com/)
 
 Ďalšie najčastejšie otázky: [Najčastejšie otázky o bezplatnom konte](https://azure.microsoft.com/free/free-account-faq/)
 
