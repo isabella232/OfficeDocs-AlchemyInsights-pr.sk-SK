@@ -1,5 +1,5 @@
 ---
-title: Ikona kalendára sa nezobrazuje v klientovi Microsoft teams
+title: Ikona kalendára sa nezobrazuje v Microsoft Teams klientovi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120019"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Ikona kalendára sa nezobrazuje v klientovi Microsoft teams
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Ikona kalendára sa nezobrazuje v Microsoft Teams klientovi
 
-Karta **Kalendár** v aplikácii teams vyžaduje prístup k poštovej schránke programu Exchange prostredníctvom webových služieb Exchange Web Services. Poštová schránka Exchange môže byť online alebo lokálne. V prípade online používateľov, ktorí nezobrazujú kartu **Kalendár** , skontrolujte, či majú [licenciu na poštovú schránku služby Exchange Online a či je poštová schránka povolená](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Ak sú vaši používatelia doma lokálne, musíte potvrdiť, že vaša hybridná konfigurácia je zdravá. Ak chcete riešiť problémy, použite [Sprievodcu hybridnou konfiguráciou](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent). Upozorňujeme, že [aplikácia Teams vyžaduje Exchange 2016 CU3 alebo novší](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+Karta **Kalendár** v Teams vyžaduje prístup k poštovej schránke Exchange cez Exchange Web Services. Poštová Exchange môže byť online alebo lokálna. Používateľom online, ktorí kartu  Kalendár nemajú, skontrolujte, či majú licenciu na poštovú schránku služby Exchange Online a či [je poštová schránka povolená.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) Ak sú vaši používatelia v domácnosti lokálne, musíte potvrdiť, že vaša hybridná konfigurácia je v poriadku. Ak chcete riešiť problémy, použite [Sprievodcu hybridnou konfiguráciou](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent). Upozorňujeme, že [aplikácia Teams vyžaduje Exchange 2016 CU3 alebo novší](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-Ďalšie informácie a kroky na riešenie problémov nájdete v téme [Riešenie problémov s interakciou aplikácie Microsoft teams a Exchange servera](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Ďalšie informácie a kroky na riešenie problémov nájdete v [téme Riešenie Microsoft Teams problémov Exchange Server s interakciou.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

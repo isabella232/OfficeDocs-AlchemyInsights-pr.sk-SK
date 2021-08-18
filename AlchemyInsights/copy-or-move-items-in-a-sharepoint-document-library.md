@@ -14,12 +14,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ec198c6f00cd8cee2eed9ade62f7632eb5114
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119155"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325700"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopírovanie alebo premiestňovanie položiek v SharePoint knižnici dokumentov
 
@@ -27,22 +27,19 @@ Súbory, priečinky a prepojenia môžete kopírovať a presúvať do rôznych u
   
 1. V prehliadači vyhľadajte súbory, priečinky alebo prepojenia, ktoré chcete premiestniť, a potom kliknite na položku Kopírovať **do** alebo **Premiestniť do**.
 
-    > [!NOTE]
-    > **Funkcie Kopírovať** **do a** Premiestniť do nie sú k dispozícii, ak používate klasické prostredie služby SharePoint Online.
+    **Poznámka:** **Funkcie Kopírovať** **do a** Premiestniť do nie sú k dispozícii, ak používate klasické prostredie služby SharePoint Online.
   
 2. V **časti Vyberte cieľové** umiestnenie vyberte umiestnenie, kam chcete skopírovať alebo premiestniť položky, alebo kliknite na položku Prehľadávať lokality, ak chcete zobraziť úplný zoznam lokalít. 
 
-    > [!NOTE]
-    > Ak sa pri kopírovaní položiek ostatné lokality v zozname nenachádzajú, kopírovanie na rôznych lokalitách nie je nakonfigurované. Ak ho chcete zapnúť, prejdite na stránku nastavení Centra spravovania SharePoint a kliknite na tlačidlo **OK.**
+    **Poznámka:** Ak sa pri kopírovaní položiek iné lokality v zozname nenachádzajú, kopírovanie na rôznych lokalitách nie je nakonfigurované. Ak ho chcete zapnúť, prejdite na stránku nastavení Centra spravovania SharePoint a kliknite na tlačidlo **OK.**
   
     Ak chcete vytvoriť nový priečinok, vyberte umiestnenie v hierarchii priečinkov, kliknite na položku Nový priečinok **,** zadajte názov priečinka a kliknutím na znak začiarknutia názov uložte.
 
 3. Kliknite na **položku Kopírovať sem** **alebo Premiestniť sem.**
 
-    > [!NOTE]
-    > Naraz môžete skopírovať až 500 MB súborov a priečinkov. > Pri kopírovaní dokumentov s históriou verzií sa skopíruje iba najnovšia verzia. Pri premiestňovaní dokumentov sa tiež premiestni ich história.
+    **Poznámka:** Môžete skopírovať až 500 MB súborov a priečinkov naraz. > Pri kopírovaní dokumentov s históriou verzií sa skopíruje iba najnovšia verzia. Pri premiestňovaní dokumentov sa tiež premiestni ich história.
   
- Keď sa súbor premiestňujú, aj naďalej sa bude zobrazovať v zdrojovom adresári dovtedy, kým sa úplne nepresunie do cieľového umiestnenia a potom sa odstráni. Po dokončení premiestnenia zostane súbor v Koši zdrojových lokalít a bude sa na ne vzťahuje bežný plán koša, pokiaľ ho používateľ nevykoná v Koši.
+ Pri premiestňovaní sa súbor bude naďalej zobrazovať v zdrojovom adresári, až kým sa úplne nepresunie do cieľového umiestnenia a potom sa odstráni. Po dokončení premiestnenia zostane súbor v Koši zdrojových lokalít a bude sa na ne vzťahuje bežný plán koša, pokiaľ ho používateľ nevykoná v Koši.
 
 Ďalšie informácie nájdete v téme:
 

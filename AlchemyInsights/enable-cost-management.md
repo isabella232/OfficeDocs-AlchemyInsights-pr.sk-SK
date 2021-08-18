@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003584"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325478"
 ---
 # <a name="enable-cost-management"></a>Povolenie správy nákladov
 
 **Čo znamenajú "neaktivované náklady pre vašu organizáciu"?**
 
-Organizácie používajúce kontá zmluva Enterprise (EA) alebo zmluvy spoločnosti Microsoft so zákazníkom (MCA) môžu zakázať prístup k informáciám o nákladoch a cenovým informáciám.
+Organizácie používajúce kontá zmluva Enterprise (EA) alebo zmluvy Microsoft Customer Agreement (MCA) môžu prístup k informáciám o nákladoch a cenovým informáciám zakázať.
 
 Po prihlásení na portál Azure môžu využívať rozhrania API fakturácie na programové získanie faktúr (po prihlásení) a podrobností o používaní.
 
@@ -34,8 +34,7 @@ Po prihlásení na portál Azure môžu využívať rozhrania API fakturácie na
 2. Vyberte **položku Faktúry** a potom položku Prístup k **faktúre**.
 3. Zapnite prístup a uložte zmeny, aby mohli používatelia s rolami v rámci predplatného sťahovať faktúry.
 
-> [!NOTE]
-> Správca konta môže tiež nakonfigurovať, aby sa faktúry odosielali prostredníctvom e-mailu. Ďalšie informácie nájdete v téme [Ako odoslať faktúru e-mailom](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Poznámka:** Správca konta môže tiež nakonfigurovať, aby sa faktúry odosielali e-mailom. Ďalšie informácie nájdete v téme Ako [odoslať faktúru e-mailom](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Pridanie používateľov do roly čítačky fakturácie**
 

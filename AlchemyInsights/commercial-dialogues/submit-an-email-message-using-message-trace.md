@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874554"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324540"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Odoslanie e-mailovej správy pomocou sledovania správy
 
-1. Prejdite do Centra spravovania Exchange (EAC) na stránke <https://admin.exchange.microsoft.com> \> **Sledovanie správ** \> **toku pošty.**
+1. Prejdite do Centra spravovania Exchange (EAC) na stránke Sledovanie <https://admin.exchange.microsoft.com> \> **správ** \> **toku pošty.**
 
    Ak chcete prejsť priamo na **stránku sledovania správy,** použite <https://admin.exchange.microsoft.com/#/messagetrace> .
 

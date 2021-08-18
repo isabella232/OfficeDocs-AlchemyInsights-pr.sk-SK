@@ -9,21 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 07c6acf1457964ab9b8f26007b25a23621dfc433e1a062122bd67039d793e350
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 410f835c85d7c9f8ec5197a3d06ff591626cd990
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118969"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323857"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>Vytvorenie tímovej Microsoft 365 pripojenej ku skupine
 
-1. V ľavom hornom rohu kliknite na spúšťač aplikácií a vyberte položku **SharePoint**. Ak sa vám dlaždica Aplikácie SharePoint, kliknite na **položku Všetky aplikácie**.
+1. Kliknite na spúšťač aplikácií v ľavom hornom rohu a vyberte položku **SharePoint**. Ak sa vám dlaždica Aplikácie SharePoint, kliknite na položku **Všetky aplikácie**.
     
 2. V hornej časti domovskej SharePoint lokality kliknite na **položku Vytvoriť lokalitu** a vyberte možnosť **Tímová** lokalita. 
     
-    > [!NOTE]
-    > Ak sa príkaz Vytvoriť lokalitu zobraziť, vytváranie lokalít možno nie je vo vašej organizácii povolené. Ak ju chcete zapnúť, pozrite [si časť Správa vytvárania lokalít.](https://go.microsoft.com/fwlink/?linkid=2009644) 
+    **Poznámka:** Ak sa príkaz Vytvoriť lokalitu nedá zobraziť, vytváranie lokalít nie je vo vašej organizácii povolené. Ak ju chcete zapnúť, pozrite [si časť Správa vytvárania lokalít.](https://go.microsoft.com/fwlink/?linkid=2009644) 
   
 3. Podľa krokov na obrazovke zadajte názov lokality a vytvorte e-mailovú adresu Microsoft 365 skupiny a potom kliknite na tlačidlo **Ďalej**. Môžete tiež pridať ďalších vlastníkov a členov skupiny. Kliknite na **tlačidlo Dokončiť.**
   

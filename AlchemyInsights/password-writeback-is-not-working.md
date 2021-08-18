@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 679dea6d488cf74f51baee2b3b498dc64b95530e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999759"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324938"
 ---
 # <a name="password-writeback-is-not-working"></a>Password Writeback is not working
 
@@ -26,28 +26,27 @@ ms.locfileid: "53999759"
 - Funkcia Password writeback je prémiová funkcia.
 - Uistite sa, že rozumiete licenčným požiadavkám:
   - Musíte mať vo svojej organizácii priradenú aspoň jednu licenciu
-  - **Len používatelia v cloude** – všetky Office 365 (O365) platené SKU alebo Azure AD Basic
+  - **Len používatelia v cloude** – Office 365 (O365) platené SKU alebo Azure AD Basic
   - **Cloud a/alebo** lokálni používatelia – Azure AD Premium P1 alebo P2, Enterprise Mobility + Security (EMS) alebo Secure Productive Enterprise (SPE)
     - Ďalšie informácie o licenčných požiadavkách nájdete v téme [Licenčné požiadavky na samoobslužné vytvorenie nového](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing) hesla pre Azure AD.
 - Máte aspoň jedno konto správcu a jedno skúšobné používateľské konto s jednou z príslušných licencií.
-- Ak chcete, aby funguje služba writeback hesla Pripojenie Azure AD Pripojenie k primárnemu emulátorovi radiča domény. Azure AD Pripojenie môžete nakonfigurovať na používanie primárneho radiča  domény kliknutím pravým tlačidlom myši na vlastnosti konektora synchronizácie služby Active Directory a výberom položky Konfigurovať oblasti **adresára.** Tu vyhľadajte časť s nastaveniami **pripojenia radiča** domény a začiarknite políčko s názvom **Používať iba preferované radiče domén.**
-  > [!NOTE]
-  > Ak preferované DC nie je emulátor PDC, Azure AD Pripojenie bude aj naďalej kontaktovať službu PDC na zápis hesla.
+- Ak chcete, aby funguje služba writeback hesla Pripojenie Azure AD Pripojenie k emulátoru primárneho radiča domény. Azure AD Pripojenie môžete nakonfigurovať na používanie primárneho radiča  domény kliknutím pravým tlačidlom myši na vlastnosti konektora synchronizácie služby Active Directory a výberom položky Konfigurovať oblasti **adresára.** Tu vyhľadajte časť s nastaveniami **pripojenia radiča** domény a začiarknite políčko s názvom **Používať iba preferované radiče domén.**
+    **Poznámka:** Ak preferované DC nie je emulátor PDC, Azure AD Pripojenie bude aj naďalej kontaktovať službu PDC na zápis hesla.
 - V nájomníkovi bolo nakonfigurované a povolené vytvorenie nového hesla. Ďalšie informácie nájdete v téme [Povolenie používateľom obnoviť heslá v službe Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
 - Skontrolujte, či konto správcu používané na povolenie funkcie Password Writeback je konto správcu cloudu (vytvorené v Azure AD nie v lokálnej službe AD)
 - Máte jedno alebo viac doménové nasadenie AD spustené Windows Server 2008 R2, Windows Server 2012 alebo Windows Server 2012 R2 s nainštalovanými najnovšími balíkmi Service Pack
-- Máte nainštalovaný nástroj Azure AD Pripojenie a pripravili ste prostredie AD na synchronizáciu do cloudu. Pred testovaním funkcie writeback hesiel skontrolujte, či ste najprv dokončili úplnú synchronizáciu importu a úplnej synchronizácie zo služby AD a Azure AD v službe Azure AD Pripojenie.
+- Máte nainštalovaný nástroj Azure AD Pripojenie a pripravili ste prostredie AD na synchronizáciu s cloudom. Pred testovaním funkcie writeback hesiel skontrolujte, či ste najprv dokončili úplnú synchronizáciu importu a úplnej synchronizácie zo služby AD a Azure AD v službe Azure AD Pripojenie.
 - Ďalšie informácie nájdete v téme Postup úplnej synchronizácie a [úplného importu v službe Azure AD Pripojenie](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
 **Mám problém s pripojiteľnosťou funkcie WriteBack pre heslo**
 
 1. Stiahnite si a povoľte najnovšiu [verziu služby Azure AD Pripojenie](https://www.microsoft.com/download/details.aspx?id=47594)
-2. Konfigurácia brány firewall: Nástroj Azure AD Pripojenie (1.1.443 a novší) bude potrebovať prístup **HTTPS** odchádzajúcich údajov na:
+2. Konfigurácia brány firewall: Nástroj Azure AD Pripojenie (1.1.443 a novší) bude potrebovať prístup **HTTPS** odchádzajúcej služby na:
     - passwordreset.microsoftonline.com
     - servicebus.windows.networks
-3. Povolenie nečinnosti pripojení pretrvajú minimálne 2 – 3 minúty
+3. Povolenie nečinných pripojení pretrvajú minimálne 2 – 3 minúty
 
 **Stále sa mi nená pomýlili problémy s písaním hesla**
 
-- Ak problémy aj naďalej pretrváva, skúste vypnúť a znova zapnúť službu zapisovania hesiel v nástroji Azure AD Pripojenie.
+- Ak problémy aj naďalej pretrváva, skúste vypnúť a znova zapnúť službu spätného zápisu hesiel v nástroji Azure AD Pripojenie.
 - Ďalšie informácie nájdete v téme Ako [vypnúť a znova zapnúť funkciu writeback hesla.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

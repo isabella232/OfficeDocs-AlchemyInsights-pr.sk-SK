@@ -1,5 +1,5 @@
 ---
-title: 402 kalendár – O365Groups
+title: 402 Kalendár – Skupiny v O365
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 3306a1d68d44b8b2e6b64ae4f591107d4f4559f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f61207351b25589213c140b2607cac05edfcfcf7024140a0b8e0619f5a32051
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119875"
 ---
-# <a name="calenders-in-microsoft-365-groups"></a>Kalendáre v skupinách v službe Microsoft 365
+# <a name="calenders-in-microsoft-365-groups"></a>Ukladanie do vyrovnávacej Microsoft 365 skupín
 
-Ďalšie informácie o kalendároch v skupinách v službe Microsoft 365 nájdete v téme [informácie o skupinách microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).
+Ďalšie informácie o kalendároch v aplikácii Microsoft 365 skupiny nájdete v téme [Informácie o Microsoft 365 skupinách.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)

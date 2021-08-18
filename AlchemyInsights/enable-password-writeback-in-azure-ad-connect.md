@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118219"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325402"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Aktivácia spätného zápisu hesiel v službe Azure AD Connect
 
@@ -42,5 +42,4 @@ Keď máte v službe Azure AD Connect aktivovaný spätný zápis hesiel, nakonf
 
 Ďalšie informácie nájdete v téme [Aktivácia spätného zápisu samoobslužného resetovania hesla v službe Azure Active Directory v lokálnom prostredí](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
-> [!NOTE]
->  Keď správca resetuje heslo používateľa na portáli Azure a daný používateľ je externý alebo má synchronizovanú hodnotu hash hesla, heslo sa v lokálnom systéme spätne zapíše. Táto funkcia vyžaduje licenciu Azure Premium (P1 alebo P2) a aktuálne ju portál Office Admin nepodporuje
+**Poznámka:** Keď správca obnoví heslo používateľa na portáli Azure, ak je tento používateľ federovaný alebo synchronizovaný hash hesiel, heslo sa zapíše späť do lokálneho systému. Táto funkcia vyžaduje licenciu Azure Premium (P1 alebo P2) a aktuálne ju portál Office Admin nepodporuje

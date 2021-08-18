@@ -15,18 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900971"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323653"
 ---
 # <a name="purchase-power-bi"></a>Zakúpenie služby Power BI
 
 Power BI si môžete zakúpiť v **službe Centrum spravovania služby Microsoft 365.**
 
-1. Prejdite na stránku **fakturácie > [nákup](https://go.microsoft.com/fwlink/p/?linkid=868433)** služieb.
+1. Prejdite na stránku **fakturácie > [nákup služieb.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 2. Pomocou vyhľadávacieho poľa vyhľadajte výraz "Power BI".
 3. Vyberte plán služby Power BI, ktorý chcete kúpiť, vyberte položku **Podrobnosti** a potom vyberte položku **Kúpiť**.
 4. Zadajte počet licencií, ktoré potrebujete, a vyberte, či budete platiť mesačne alebo za celý rok. Vyberte, či chcete automaticky priradiť licencie každému, kto licenciu momentálne nemá. Potom vyberte **položku Pokladne .**

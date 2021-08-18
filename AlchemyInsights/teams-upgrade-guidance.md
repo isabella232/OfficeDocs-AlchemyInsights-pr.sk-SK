@@ -1,5 +1,5 @@
 ---
-title: Teams pokyny na inováciu
+title: Teams o inovácii
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901195"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324331"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams aktualizácie
 
-Bez ohľadu na to, či ešte len začínate používať Teams, už používate Teams spolu s balíkom Skype for Business alebo ste pripravení na inováciu, chceme vám zabezpečiť, aby ste mali všetko, čo potrebujete na to, aby ste sa úspešne cestou Teams. Ďalšie informácie nájdete na nasledujúcich prepojeniach.
+Bez ohľadu na to, či ešte len začínate používať Teams, už používate Teams spolu s balíkom Skype for Business alebo ste pripravení na inováciu, chceme vám zaistiť, že budete mať všetko, čo potrebujete na to, aby ste sa úspešne cestou Teams. Ďalšie informácie nájdete na nasledujúcich prepojeniach.
 
-[Začíname s inováciou Microsoft Teams aktualizáciou](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Začíname s inováciou Microsoft Teams počítača](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Plánovanie inovácie](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
