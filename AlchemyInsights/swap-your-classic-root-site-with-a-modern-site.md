@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940834"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316155"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Výmena klasickej koreňovej lokality s modernou stránkou
 
@@ -28,8 +28,8 @@ Ak bolo vaše prostredie nastavené pred aprílom 2019, koreňovú lokalitu mô�
     - Ak chcete pri archivácii pôvodnej lokality vymeniť umiestnenie lokality s inou stránkou, použite možnosť [Invoke-SPOSiteSwap.](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) K dispozícii pre tímovú lokalitu (nie je pripojená ku skupine) aj pre komunikačnú lokalitu. 
 
 - Čoskoro sa zavedia ďalšie možnosti, ktoré vám umožnia naďalej používať obsah lokality, ale skonvertujú existujúcu lokalitu na komunikačnú lokalitu. 
->[!Important]
->Tieto možnosti sa budú zavádzať postupne. Pokračujte v kontrole aktualizácií v Centre správ. 
+
+**Dôležité:** Tieto možnosti sa budú zavádzať postupne. Pokračujte v kontrole aktualizácií v Centre správ. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Známe problémy s výmenou lokalít
 

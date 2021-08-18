@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 54a671586a48b03c1bb98224e284bf725b78c8659cd6cdc428218cde5d99b841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4e78226046f16352b140b12a00178094b9ada68b58ec21ca0d974792c8e3068
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54093775"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897178"
 ---
 # <a name="sharepoint-online-backup-information"></a>Informácie o zálohovaní v SharePointe Online
 
-Ďalšie informácie o SharePoint a OneDrive odolnosťou nájdete v téme:
+Ďalšie informácie o SharePoint a OneDrive nájdete v téme:
 
 - [SharePoint a OneDrive údajov v Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
 
-> [!NOTE]
-> SharePoint Online uchováva zálohy všetkého obsahu počas ďalších 14 dní od samotného odstránenia. Ak obsah nie je možné obnoviť prostredníctvom [Koša](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) alebo obnovenia [súborov,](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)správca môže kontaktovať podporu spoločnosti Microsoft a požiadať o obnovu kedykoľvek v rámci 14-dňoového okna. Obnovenie zo záloh je možné vykonať len pre kolekcie lokalít alebo podlokality, nie pre konkrétne súbory, zoznamy alebo knižnice.
+**Poznámka:** SharePoint online uchováva zálohy všetkého obsahu počas 14 ďalších dní po aktuálnom odstránení. Ak obsah nie je možné obnoviť prostredníctvom [Koša](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) alebo obnovenia [súborov,](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)správca môže kontaktovať podporu spoločnosti Microsoft a požiadať o obnovu kedykoľvek v rámci 14-dňoového okna. Obnovenie zo zálohovania je možné dokončiť iba pre kolekcie lokalít alebo podlokalcie, nie pre konkrétne súbory, zoznamy ani knižnice.

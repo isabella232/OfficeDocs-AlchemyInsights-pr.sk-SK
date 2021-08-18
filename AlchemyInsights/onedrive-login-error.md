@@ -1,5 +1,5 @@
 ---
-title: Chyba prihlásenia do služby OneDrive AADSTS50011
+title: OneDrive prihlásenia AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112927"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Chyba prihlásenia do služby OneDrive AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive prihlásenia AADSTS50011
 
-Ak sa pri prihlasovaní do aplikácie OneDrive zobrazí chybové hlásenie "AADSTS50011: URL odpoveď zadaná v požiadavke, skontrolujte nasledovné:
+Ak sa pri prihlasovaní do aplikácie OneDrive zobrazí chyba "AADSTS50011: URL adresa odpovede zadaná v žiadosti nezodpovedá odpovedi", skontrolujte, či:
 
-Vaša verzia služby OneDrive musí byť rovnaká alebo väčšia ako verzia 20.052. XXXX. XXXX. Ak chcete skontrolovať svoju verziu, kliknite na modrú ikonu OneDrivu v oblasti oznámení, vyberte položku **pomocník & nastavenia > >**.
+Vaša OneDrive musí byť rovnaká alebo novšia ako verzia 20.052.XXXX.XXXX. Ak chcete skontrolovať svoju verziu, kliknite na OneDrive ikonu oznámení v oblasti oznámení, vyberte položku **Pomocník a & Nastavenia > Nastavenia > Informácie.**
 
-Sieť môže blokovať prenosy na **g.Live.com** a **oneclient.SFX.MS**. Ak je tento prenos blokovaný, OneDrive sa nemôže aktualizovať sám. Pracujte so správcom siete, aby ste mali prístup k týmto URL adresám. [Tieto koncové body](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) by mali byť dosiahnuteľné pre zákazníkov, ktorí používajú plány Microsoft 365.
+Sieť môže blokovať prenos údajov **do služieb g.live.com** a **oneclient.sfx.ms**. Ak je prenos zablokovaný, OneDrive nemôže aktualizovať. Ak chcete zabezpečiť prístup k týmto URL adresách, pracujte so správcom siete. [Tieto koncové body](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) by mali byť dostupné pre zákazníkov, ktorí používajú Microsoft 365 plány.
 
-Ak potrebujete manuálne získať aktuálnu verziu služby OneDrive, navštívte stránku [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Ak potrebujete získať aktuálnu verziu Balíka Office OneDrive, navštívte lokalitu [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .

@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016463"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897058"
 ---
 # <a name="review-or-act-on-an-alert"></a>Kontrola upozornenia alebo správanie sa na upozornenie
 
 Vykonajte nasledujúce kroky:
 
-1. Prejdite do Centra [zabezpečenia & zabezpečenia a dodržiavania súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Kliknite na **položku Upozornenia**  >  **[Zobraziť upozornenia.](https://go.microsoft.com/fwlink/?linkid=2103301)**
-1. Kliknite na upozornenie. Na table s podrobnosťami zobrazte, čo spustilo upozornenie.
-1. Ak chcete s upozornením urobiť akciu, kliknite na poskytnuté prepojenie v blízkosti podrobností.
-1. Ak **chcete** upozornenie zavrieť, kliknite na položku Vyriešiť.
+1. Vykonajte jednu z nasledujúcich akcií:
+   - V časti Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku **Upozornenia**. Prípadne si stránku môžete otvoriť priamo v zariadení <https://compliance.microsoft.com/compliancealerts> .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Upozornenia**. Prípadne si stránku môžete otvoriť priamo v zariadení <https://security.microsoft.com/alerts> .
+2. Vyberte upozornenie. Na zobrazenej bubline s podrobnosťami zobrazte, čo spustilo upozornenie.
+3. Ak chcete s upozornením urobiť akciu, kliknite na poskytnuté prepojenie.
+4. Ak **chcete** upozornenie zavrieť, kliknite na položku Vyriešiť.
 
-Ďalšie informácie o spravovaní upozornení nájdete v téme [Politiky upozornení v centre zabezpečenia a dodržiavania súladu.](https://go.microsoft.com/fwlink/?linkid=2103211)
-
+Ďalšie informácie o spravovaní upozornení nájdete v téme [Politiky upozornení v Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

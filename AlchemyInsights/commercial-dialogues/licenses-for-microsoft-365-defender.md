@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967996"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315701"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Licencie pre Microsoft 365 Defender
 
-Nasledujúce licencie poskytujú bezplatný prístup k Microsoft 365 Defender funkciám v Centre Microsoft 365 zabezpečenia:
+Nasledujúce licencie poskytujú bezplatný prístup k funkciám Microsoft 365 Defender v Centre Microsoft 365 zabezpečenia:
 
 - Microsoft 365 E5 alebo A5
 - Microsoft 365 E5 Security alebo A5
@@ -33,8 +33,7 @@ Nasledujúce licencie poskytujú bezplatný prístup k Microsoft 365 Defender fu
 - Microsoft Cloud App Security
 - Microsoft Defender pre Office 365 (Plan 2)
 
-    > [!NOTE]
-    > V tejto dobe skúšobné licencie pre Office 365 neposkytujú prístup k Microsoft 365 Defender.
+    **Poznámka:** V tejto dobe skúšobné licencie pre Office 365 neposkytujú prístup k Microsoft 365 Defender.
 
 Ďalšie informácie nájdete v téme [porovnanie Microsoft 365 Enterprise plány](https://go.microsoft.com/fwlink/?linkid=2143458).
 
