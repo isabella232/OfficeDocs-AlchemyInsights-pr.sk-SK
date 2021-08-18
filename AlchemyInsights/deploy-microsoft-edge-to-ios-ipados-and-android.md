@@ -1,5 +1,5 @@
 ---
-title: Nasadenie prehliadača Microsoft Edge do systému iOS, iPadOS a Android
+title: Nasadenie Microsoft Edge do iOS, iPadOS a Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,32 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194588"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316889"
 ---
-# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Nasadenie prehliadača Microsoft Edge do systému iOS, iPadOS a Android
+# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Nasadenie Microsoft Edge do iOS, iPadOS a Android
 
-Scenár so sprievodcom, ktorý je zhrnutý nižšie, vám pomôže priradiť Microsoft Edge používateľom zariadení so systémom iOS, iPadOS a Android.
+Nižšie uvedený scenár nápovedy vám pomôže priradiť Microsoft Edge používateľom zariadení so systémom iOS, iPadOS a Android.
 
-> [!NOTE]
-> Ak ste zablokovaní používateľov zaregistrovaným v mobilných zariadeniach, tento interaktívny scenár nebude fungovať a používatelia budú musieť nainštalovať Microsoft Edge sami.
+**Poznámka:** Ak ste používateľom zablokovali zaregistrovať mobilné zariadenia, tento scenár nebude fungovať a používatelia si budú musieť Microsoft Edge sami.
 
 Scenár so sprievodcom zahŕňa tieto kroky:
 
 1. [Predpoklady](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
-2. [Zavedenie](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
-3. [Základy](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
-4. [Konfigurácie](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
+2. [Úvod](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
+3. [Základné informácie](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
+4. [Konfigurácia](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
 5. [Úlohy](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
-6. [Revízia a vytvorenie](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
+6. [Revízia a vytváranie](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-Po dokončení krokov v scenári so sprievodcom vám politiky služby Microsoft Intune umožnia tieto funkcie Microsoft Edge for Business:
+Po dokončení krokov v scenári so sprievodcom Microsoft Intune politiky zapnite pre podniky Microsoft Edge funkcií:
 
-- Dvojitá identita
-- Integrácia s politikou ochrany aplikácie Microsoft Intune
-- Integrácia so serverom proxy aplikácie služby Azure Active Directory
-- Prepojenia spravovaných obľúbených položiek a domovských stránok
+- Duálna identita
+- Integrácia s Microsoft Intune politika ochrany aplikácií
+- Integrácia s proxy Azure Active Directory aplikácie
+- Spravované obľúbené položky a klávesové skratky na domovskej stránke

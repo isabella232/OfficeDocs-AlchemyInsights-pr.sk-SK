@@ -14,12 +14,12 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897483"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315889"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blokovanie alebo odblokovanie automatického preposielania e-mailov
 
@@ -29,4 +29,4 @@ Správcovia môžu riadiť externé preposielanie pre organizáciu pomocou [poli
 
 Ak sa zobrazí nasledujúca chyba: **"550 5.7.520 Prístup odmietnutý,** Vaša organizácia nepovoľuje externé preposielanie", uistite sa, že politika je nakonfigurovaná tak, aby umožňovala externé automaticky preposielané správy.
 
-**Poznámka:** Odporúčame predvolenú hodnotu Automaticky **–**  systém ovládaný nastavením pravidiel automatického presmerovania v predvolenej politike filtrovania odchádzajúcej nevyžiadanej pošty (automatické externé preposielanie je blokované, interné automatické preposielanie stále funguje). Mali by ste vytvoriť vlastné politiky filtrovania odchádzajúcej nevyžiadanej pošty a použiť hodnotu Zapnuté **–** preposielanie je povolené iba pre používateľov, ktorí potrebujú externé automatické preposielanie e-mailov. Ďalšie informácie nájdete v téme Konfigurácia [preposielanie externých e-mailov Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Poznámka:** Odporúčame predvolenú hodnotu Automaticky **–**  systém ovládaný nastavením pravidiel automatického presmerovania v predvolenej politike filtrovania odchádzajúcej nevyžiadanej pošty (automatické externé preposielanie je blokované, interné automatické preposielanie stále funguje). Mali by ste vytvoriť vlastné politiky filtrovania odchádzajúcej nevyžiadanej pošty a použiť hodnotu Zapnuté **–** preposielanie je povolené iba pre používateľov, ktorí potrebujú externé automatické preposielanie e-mailov. Ďalšie informácie nájdete v téme Konfigurácia [preposielania externých e-mailov Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

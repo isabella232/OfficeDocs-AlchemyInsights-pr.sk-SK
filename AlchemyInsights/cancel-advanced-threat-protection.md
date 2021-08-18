@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894038"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317027"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Zrušenie rozšírenej ochrany pred hrozbou
 
@@ -30,6 +30,6 @@ Správcovia môžu zrušiť predplatné rozšírenej ochrany pred hrozbami pre s
 3. Na **table Zrušiť** predplatné vyberte dôvod zrušenia. Prípadne môžete poskytnúť akékoľvek pripomienky.
 4. Vyberte **položku Uložiť**.
 
-**Refundácia:** V priebehu nasledujúceho fakturačného obdobia vám bude vrátený akýkoľvek profesionálne kredit.
+**Refundácia:** V rámci nasledujúceho fakturačného obdobia vám bude vrátený akýkoľvek profesionálne kredit.
 
 Ďalšie informácie nájdete v téme [Zrušenie predplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

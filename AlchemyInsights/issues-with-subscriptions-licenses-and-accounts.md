@@ -1,5 +1,5 @@
 ---
-title: Problémy s predplatným, licenciami a účtami
+title: Problémy s predplatným, licenciami a kontami
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087979"
 ---
-# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Problémy s predplatným, licenciami a účtami
+# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Problémy s predplatným, licenciami a kontami
 
-1. Všetci používatelia v službe Azure AD Free nájomníka môžu použiť viacnásobné overovanie Azure použitím [predvolených nastavení zabezpečenia](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
-1. Oboznámte sa s [funkciami a licenciami na overovanie viacerých faktorov v službe Azure AD](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing).
-1. Zistite, ako [priradiť alebo pridať predplatné Azure k nájomníkovi služby Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-1. Ak chcete [preniesť predplatné Azure do iného adresára služby Azure AD](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription), postupujte podľa týchto krokov.
-1. Ďalšie informácie o priradení alebo odstraňovaní licencií od používateľov nájdete [v téme Priradenie alebo odobratie licencií na portáli Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) .
+1. Všetci používatelia v nájomníkovi bezplatnej služby Azure AD môžu používať viacfaktorové overovanie Azure [pomocou predvolených nastavení zabezpečenia.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. Informácie [o funkciách a licenciách pre viacfaktorové overovanie Azure AD.](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
+1. Zistite, ako [priradiť alebo pridať predplatné na Azure k nájomníkovi služby Azure Active Directory Azure.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+1. Ak chcete preniesť predplatné [služby Azure do iného adresára služby Azure AD, postupujte podľa týchto krokov.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
+1. Pokyny [na priradenie alebo odobranie licencií používateľom Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) nájdete v téme Priradenie alebo odobranie licencií na portáli Presmerujte používateľov.

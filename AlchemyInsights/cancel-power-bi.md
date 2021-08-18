@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045907"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899555"
 ---
 # <a name="cancel-power-bi"></a>Zrušenie služby Power BI
 
@@ -34,6 +34,6 @@ Power BI je možné zrušiť v Centrum spravovania služby Microsoft 365.
 **Refundácia: V rámci nasledujúceho fakturačného obdobia vám bude vrátená každá refundácia zhodnoteného kreditu.**
 
 > [!NOTE]
-> Ak sa vám možnosť na zrušenie možnosť zrušiť, výberom predplatného zobrazte stránku s podrobnosťami. V časti **Predplatné a nastavenia platby** vyberte položku Zrušiť **predplatné**.
+> Ak sa možnosť na zrušenie možnosť zrušiť, výberom predplatného zobrazte stránku s podrobnosťami. V časti **Predplatné a nastavenia platby** vyberte položku Zrušiť **predplatné**.
 
-Ďalšie informácie nájdete v téme [Zrušenie predplatného.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Ďalšie informácie nájdete v téme [Zrušenie predplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 946c7d86068026620163868463c4bb37108b1d60c4495ec548dc36043bce8414
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: e2e619b56eb8f17801b36b536dae61a359115bae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898759"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316619"
 ---
 # <a name="get-business-assist"></a>Získať podnikovú pomoc
 
-1. V prvej Centrum spravovania služby Microsoft 365 prejdite na stránku [Služby Business Assist for Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2158423), vyberte frekvenciu fakturácie a potom vyberte položku **Kúpiť**.
+1. V Centrum spravovania služby Microsoft 365 prejdite na stránku [Business Assist for Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2158423), vyberte frekvenciu fakturácie a potom vyberte položku **Kúpiť**.
 2. Postupujte podľa krokov a pozrite si ich.
 
-Ďalšie informácie nájdete v téme [Business Assist pre Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist)
+Ďalšie informácie nájdete v téme [Business Assist pre Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist).
