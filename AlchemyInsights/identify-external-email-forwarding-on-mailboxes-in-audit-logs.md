@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028767"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899899"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Určenie, kedy je v poštových schránkach nakonfigurované preposielanie externých e-mailov
 
-Keď používateľ Microsoft 365 externý preposielanie e-mailov v poštovej schránke, aktivita sa audituje ako súčasť rutiny typu cmdlet **Set-Mailbox.** Aktivitu môžete zobraziť pomocou vyhľadávania denníka auditu v Centre dodržiavania & zabezpečenia.
+Keď používateľ Microsoft 365 externý preposielanie e-mailov v poštovej schránke, aktivita sa audituje ako súčasť rutiny typu cmdlet **Set-Mailbox.** Aktivitu môžete zobraziť pomocou vyhľadávania denníka auditu. Tu je postup.
 
-1. Prihláste sa do [Centra Microsoft 365 súladu](https://protection.office.com/).
+1. Vykonajte niektorý z týchto krokov:
+   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešení.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Audit**. Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://sip.security.microsoft.com/auditlogsearch> .
 
-2. Prejdite na stránku **vyhľadávania denníka**  >  **auditu vyhľadávania.**
+2. Na stránke **Audit** overte, či **je vybratá** karta Hľadať, a potom nakonfigurujte tieto nastavenia:
+   - Vyberte rozsah dátumu a času v **poliach Začiatok** **a** Koniec.
+   - **Overte, či** pole Aktivity **obsahuje položku Zobraziť výsledky pre všetky aktivity.**
 
-3. Vyberte rozsah dátumov v **poliach Počiatočný dátum** **a Dátum ukončenia.** Meno používateľa nie je potrebné zadať. Skontrolujte, **či je** pole Aktivity nastavené na hodnotu Zobraziť výsledky pre všetky **aktivity.**
+3. Po dokončení kliknite na tlačidlo **Hľadať**. Aktivity sa zobrazia na novej **stránke Auditovanie.**
 
-4. Kliknite na **tlačidlo Hľadať**.
+4. Vo výsledkoch kliknite na položku **Filtrovať výsledky** a do poľa filtra aktivity zadajte text **Set-Mailbox.**
 
-Vo výsledkoch kliknite na položku **Filtrovať výsledky** a do poľa filtra aktivity zadajte text **Set-Mailbox.** Vo výsledkoch vyberte záznam auditu. Na **letáku** Podrobnosti kliknite na položku **Ďalšie informácie**. Ak chcete zistiť, či aktivita súvisí s preposielanie e-mailov, musíte si pozrieť podrobnosti každého záznamu auditu.
+5. Vo výsledkoch vyberte záznam auditu. Na **letáku** Podrobnosti kliknite na položku **Ďalšie informácie**. Ak chcete zistiť, či aktivita súvisí s preposielanie e-mailov, musíte si pozrieť podrobnosti každého záznamu auditu.
 
-- **ObjectId:** Hodnota aliasu poštovej schránky, ktorá bola upravená.
+   - **ObjectId:** Hodnota aliasu poštovej schránky, ktorá bola upravená.
+   - **Parametre:** _ForwardingSmtpAddress označuje_ cieľovú e-mailovú adresu.
+   - **UserId:** Používateľ, ktorý nakonfiguroval preposielanie e-mailov v poštovej schránke **v poli ObjectId.**
 
-- **Parametre:** _ForwardingSmtpAddress označuje_ cieľovú e-mailovú adresu.
-
-- **UserId:** Používateľ, ktorý nakonfiguroval preposielanie e-mailov v poštovej schránke **v poli ObjectId.**
-
-Ďalšie informácie nájdete v téme Určenie [osoby, ktorá nastavila preposielanie e-mailov v poštovej schránke.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Ďalšie informácie nájdete v téme Určenie [osoby, ktorá nastavila preposielanie e-mailov v poštovej schránke.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

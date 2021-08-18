@@ -1,5 +1,5 @@
 ---
-title: Úprava Microsoft Edge pomocou premenných adresára údajov, nie napevno cesty
+title: Úprava Microsoft Edge pomocou premenných adresára údajov namiesto pevných ciest
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113431"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Úprava Microsoft Edge pomocou premenných adresára údajov, nie napevno cesty
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Úprava Microsoft Edge pomocou premenných adresára údajov namiesto pevných ciest
 
-Ak chcete napríklad v systéme Windows uložiť údaje profilu v rámci miestnych údajov aplikácie používateľa namiesto v predvolenom umiestnení, nastavte politiku **UserDataDir** na hodnotu **$ {local_app_data} \Edge\Profile**. 
+Ak napríklad Windows uložiť údaje profilu pod údajmi lokálnej aplikácie používateľa, a nie do predvoleného umiestnenia, nastavte politiku **UserDataDir** na **${local_app_data}\Edge\Profile**. 
 
-Ďalšie informácie nájdete v téme [Vytvorenie premenných adresárov používateľských údajov v prehliadači Microsoft Edge](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Ďalšie informácie nájdete v téme [Vytvorenie Microsoft Edge premenných adresára používateľov](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).

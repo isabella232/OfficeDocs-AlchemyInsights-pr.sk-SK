@@ -1,5 +1,5 @@
 ---
-title: Dostupnosť podrobností o Microsoft Viva
+title: Microsoft Viva Prehľady Dostupnosť
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8337"
-ms.openlocfilehash: 141a896fe181a554ae2b5ace46b6f09b6006692f
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 5744a83b5652bc9ef39b81ba98352cfa5c7401143057fc5d51d164757413a6d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113791"
 ---
-# <a name="microsoft-viva-insights-availability"></a>Dostupnosť podrobností o Microsoft Viva
+# <a name="microsoft-viva-insights-availability"></a>Microsoft Viva Prehľady Dostupnosť
 
-Microsoft Viva Insights je teraz k dispozícii v ukážke.
+Microsoft Viva Prehľady dispozícii v ukážke.
 
-[Stiahnuť](https://aka.ms/InsightsDocumentation) Prehľady Viva v aplikácii Microsoft teams.
+[Stiahnuť](https://aka.ms/InsightsDocumentation) Viva Prehľady v Microsoft Teams.
 
-Ďalšie [informácie](https://aka.ms/VivaInsights) o tom, ako Viva prehľady pomáhajú vytvoriť kultúru, v ktorej môžu ľudia a podniky prosperovať.
+[Získajte ďalšie](https://aka.ms/VivaInsights) informácie o tom, ako Prehľady Viva pomáha vytvárať kultúru, v ktorej ľudia a podniky môžu proživiť.
 
-Ďalšie informácie nájdete v téme informácie o tom, ako [Microsoft Viva prehľady pomáha ľuďom starať sa o zdravie a byť najlepší](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).
+Ďalšie informácie nájdete v Microsoft Viva Prehľady, ako môžete pomôcť ľuďom pri úchybe a [o to, aby boli najlepší.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)

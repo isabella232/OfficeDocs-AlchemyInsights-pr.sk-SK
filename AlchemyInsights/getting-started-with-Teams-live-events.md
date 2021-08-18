@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088879"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Začíname so živými podujatiami v Teams
 
@@ -25,7 +25,7 @@ ms.locfileid: "51811975"
 
 Ak chcete vytvoriť živé podujatie, budete potrebovať nasledovné:
 
-- Najskôr potvrďte, že živé podujatia Teams sú [k dispozícii vo vašej krajine a oblasti](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Živé podujatia zatiaľ nie sú v niektorých krajinách podporované.  Ak ste priradili licencie a nastavili politiky, ale stále nie je možné vytvoriť živé podujatie Teams, je pravdepodobné, že sa nachádzate v krajine alebo oblasti, kde živé podujatia ešte nie sú k dispozícii.
+- Najskôr potvrďte, že Teams Živé podujatia [sú k dispozícii vo vašej krajine a oblasti](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Živé podujatia zatiaľ nie sú v niektorých krajinách podporované.  Ak ste priradili licencie a nastavili politiky, ale stále nie je možné vytvoriť živé podujatie Teams, je pravdepodobné, že sa nachádzate v krajine alebo oblasti, kde živé podujatia ešte nie sú k dispozícii.
 
 - [Licenciu na Office 365 Enterprise E1, E3 alebo E5 alebo licenciu na Office 365 A3 alebo A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Poznámka**: V dôsledku nedávneho nárastu využívania aplikácie Teams sa môže stať, že keď používateľovi priradíte licenciu na Teams, úplné nastavenie môže trvať až 24 hodín. Dovtedy im nebudete môcť priradiť politiky Teams a nemusia mať prístup k niektorým funkciám aplikácie Teams, ako sú napríklad hovory a zvukové konferencie.
 
