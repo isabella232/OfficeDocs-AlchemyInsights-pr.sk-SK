@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e13c9e5fbfa6ade065c2810150687085c1a9daae1a11c134688ec9a83ad37d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115663"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Denníky auditu pre odstránené e-mailové správy
 
@@ -34,6 +34,6 @@ Od januára 2019 spoločnosť Microsoft predvolene zapína zapisovanie auditu po
 
 Vo výsledkoch vyberte záznam auditu. V letáku s podrobnosťami kliknite na položku **Ďalšie informácie**. Ďalšie informácie o odstránenej položke (napríklad riadok predmetu a umiestnenie položky v prípade jej odstránení) sa zobrazia v poli **Ovplyvnené položky.** Vlastnosť **ClientInfoString** sa zobrazí, ak sa odstránenie vyskytlo v Outlook, Outlook na webe (predtým známe ako Outlook Web App) alebo akomkoľvek inom zariadení.
 
-Ďalšie informácie nájdete v téme Určenie [osoby, ktorá nastavila preposielanie e-mailov v poštovej schránke.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Ďalšie informácie nájdete v téme Určenie [osoby, ktorá nastavila preposielanie e-mailov v poštovej schránke.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Poznámka:** Odstránené položky nemožno načítať pomocou funkcie denníka auditu. Ak chcete v Outlooku obnoviť odstránené Outlook na webe, pozrite si [časť Obnovenie odstránených položiek v Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)

@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317491"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902059"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Vykonávanie vyhľadávania obsahu a vyhľadávania eDiscovery
 
@@ -29,9 +29,10 @@ ms.locfileid: "58317491"
 2. Vyberte **položku > Vyhľadávanie obsahu**.
 3. Vyberte **položku Nové** vyhľadávanie a vytvorte nové vyhľadávanie.
 4. Zadajte požadované podmienky vyhľadávania vrátane kľúčových slov a umiestnení obsahu.
-5. Ak **chcete &, spustite** ho a potom zobrazte ukážku výsledkov, vyberte položku Uložiť a spustite ho.
+5. Ak **chcete &, spustite** vyhľadávanie, spustite ho a potom zobrazte ukážku výsledkov.
 
-**Poznámka:** V **Microsoft 365 Compliance Center**  >  **Solutions** rozbaľte položku **eDiscovery** a vyberte požadovaný nástroj eDiscovery.
+> [!NOTE]
+> V **Microsoft 365 Compliance Center** Solutions  >  **rozbaľte** položku **eDiscovery** a vyberte požadovaný nástroj eDiscovery.
 
 Podrobné pokyny o vyhľadávaní obsahu, exporte výsledkov a vytváraní prípadov vyhľadávania [](https://docs.microsoft.com/microsoft-365/compliance/content-search) eDiscovery na blokovanie údajov nájdete v téme Vyhľadávanie obsahu a prípady [vyhľadávania eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

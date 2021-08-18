@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976988"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318395"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualizácia nastavení e-mailu v Outlook pre PC
 
@@ -25,15 +25,14 @@ ms.locfileid: "53976988"
 
 2. Vyberte e-mailové konto, ktoré chcete zmeniť, a potom kliknite na položku **Zmeniť**. 
 
-3. Na stránke **Nastavenia** aktualizujte názvy serverov prichádzajúcej a odchádzajúcej pošty, e-mailovú adresu, svoje meno, meno používateľa a heslo podľa potreby. Ak potrebujete zmeniť nastavenia protokolu SSL alebo nastavenia portu, kliknite na položku **Viac Nastavenia**. Najbežnejšie nastavenia na aktualizáciu sú **na karte Server odosielanej** pošty a **na karte** Rozšírené.
+3. Na stránke **Nastavenia** aktualizujte názvy serverov prichádzajúcej a odchádzajúcej pošty, e-mailovú adresu, svoje meno, meno používateľa a heslo podľa potreby. Ak potrebujete zmeniť nastavenia protokolu SSL alebo nastavenia portu, kliknite na položku **Ďalšie Nastavenia.** Najbežnejšie nastavenia na aktualizáciu sú **na karte Server odosielanej** pošty a **na karte** Rozšírené.
 
 4. Ak máte problémy s odosielaním e-mailov alebo prijímate správy o serveri odchádzajúcej pošty, skontrolujte, či je začiarknuté políčko Server odosielanej pošty **(SMTP)** vyžaduje overenie.
 
 5. Ak potrebujete aktualizovať porty servera prichádzajúcej alebo odchádzajúcej  pošty alebo nastavenia protokolu SSL, prejdite na kartu Rozšírené a vykonajte požadované zmeny.
 
-> [!NOTE]
-> Pre zákazníkov služieb AOL a **Verizon:** Výberom protokolu  **SSL/TLS** v rozbaľovacom poli v časti Šifrované pripojenia servera prichádzajúcej a odchádzajúcej pošty sa zabezpečí, že e-mail budete naďalej odosielať a prijímať aj po 7. novembri 2017.
+    **Poznámka:** Pre zákazníkov služieb **AOL** a Verizon: Výberom  protokolu **SSL/TLS** v rozbaľovacom poli v časti Šifrované pripojenia na server prichádzajúcej a odchádzajúcej pošty sa zabezpečí, že e-maily môžete naďalej odosielať a prijímať aj po 7. novembri 2017.
 
-6. Po dokončení aktualizácie nastavení kliknite na tlačidlo **OK,** kliknite na tlačidlo **Ďalej** a potom na tlačidlo **Dokončiť**.
+6. Po dokončení aktualizácie nastavení kliknite na tlačidlo **OK,** potom na tlačidlo **Ďalej** a na položku **Dokončiť.**
 
 
