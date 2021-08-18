@@ -1,5 +1,5 @@
 ---
-title: Zmena mena e-mailu v Outlook.com
+title: Zmena mena e-mailu na lokalite Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,27 +13,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 17c75293103a924dd76fdaf171ad04f5b3252b23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64b9cd0d61d07aeeb69c83f7f35086ec23fa917b2c90665c567245fe4915abe1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112531"
 ---
-# <a name="change-your-email-name"></a>Zmena názvu e-mailu
+# <a name="change-your-email-name"></a>Zmena mena e-mailu
 
-Ak máte jednu e-mailovú adresu Outlook.com a chcete zmeniť meno, príjemcovia uvidia v správach:
+Ak máte jednu e-Outlook.com a chcete zmeniť meno, ktoré sa príjemcom zobrazí v správach:
   
 1. Vyberte obrázok konta v pravom hornom rohu stránky.
-2. Vyberte položku **môj profil**.
-3. Vyberte položku **Upraviť názov** , ak chcete vykonať zmeny, a vyberte položku **Uložiť**.
+2. Vyberte **položku Môj profil**.
+3. Ak **chcete vykonať zmeny,** vyberte položku Upraviť názov a vyberte **položku Uložiť**.
 
-Ak chcete, aby sa zmeny názvu profilu prejavili, počkajte až 24 hodín.
+Zmeny názvu profilu sa prejavia do 24 hodín.
   
-Ak máte viac ako jeden e-mailový alias alebo adresu pripojenú k vášmu kontu Outlook.com, môžete vybrať možnosť odoslania e-mailu z ľubovoľnej adresy.
+Ak máte ku kontu služby Outlook.com pripojených viac e-mailových aliasov alebo adresu, môžete odosielať e-maily z ľubovoľnej adresy.
   
-1. Pri vytváraní správy vyberte položku "..." v dolnej časti okna na vytvorenie správy.
-1. Výberom položky **Zobraziť od** sa zobrazí položka od.
-1. Nad riadkom komu vyberte položku **od** a vyberte e-mailovú adresu, ktorú chcete použiť.
+1. Pri správe vyberte položku ... v dolnej časti okna na napísať.
+1. Ak **chcete zobraziť riadok** Od, vyberte položku Zobraziť od.
+1. Nad riadokom Do vyberte položku Od **a vyberte** e-mailovú adresu, ktorú chcete použiť.
 
-Ďalšie informácie nájdete v téme [odoslanie e-mailu z inej adresy v Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Ďalšie informácie nájdete v téme [Odoslanie e-mailu z inej adresy na lokalite Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)

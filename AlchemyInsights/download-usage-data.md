@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004277"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315599"
 ---
 # <a name="download-usage-data"></a>Stiahnutie údajov o používaní
 
@@ -26,8 +26,7 @@ Vybrali ste predplatné priradené k zmluve Azure Enterprise.
 
 Ak chcete zobraziť a stiahnuť údaje o používaní ako zákazník platformy Enterprise Azure (EA), vykonajte tieto kroky:
 
-> [!NOTE]
-> Musíte byť správcom podniku, vlastníkom konta alebo správcom oddelenia, s povolenou politikou poplatkov za zobrazenie. 
+**Poznámka:** Politiku poplatkov za zobrazenie môžete zapnúť len v prípade, že ste podnikovým správcom, vlastníkom konta alebo správcom oddelenia. 
 
 1. Prihláste sa na portál Azure a vyhľadajte položku **Správa nákladov + fakturácia.**
 2. Vyberte fakturačný profil a kliknite na **položku Používanie + poplatky**.

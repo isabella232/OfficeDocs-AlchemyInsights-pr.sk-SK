@@ -1,5 +1,5 @@
 ---
-title: Nastavenie ochrany v službe Exchange Online
+title: Nastavenie Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085891"
 ---
-# <a name="set-up-exchange-online-protection"></a>Nastavenie ochrany v službe Exchange Online
+# <a name="set-up-exchange-online-protection"></a>Nastavenie Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) je služba na filtrovanie e-mailov v cloude na ochranu pred nevyžiadanou poštou a malvérom s funkciami na ochranu vašej organizácie pred porušovaním pravidiel na výmenu správ.
+Microsoft Exchange Online Protection (EOP) je cloudová služba filtrovania e-mailov na ochranu pred nevyžiadanou poštou a malvérom, ktorá obsahuje funkcie na ochranu organizácie pred porušením pravidiel výmeny správ.
 
-Pomocou [Sprievodcu nastavením ochrany služby Exchange Online](https://go.microsoft.com/fwlink/?linkid=2071067) nastavte EOP výberom z troch scenárov nasadenia – lokálnych poštových schránok, hybridných (mix lokálnych a cloudových) poštových schránok alebo všetkých poštových schránok v cloude – ktoré vyhovujú vašej organizácii. Príručka poskytuje informácie a zdroje informácií a zdrojov na nastavenie EOP a kontrolu licencií používateľa, priraďovanie povolení v centre spravovania služieb Microsoft 365 a konfigurovanie politík ochrany pred malvérom a nevyžiadanej pošty v organizácii v centre zabezpečenia & dodržiavania súladu.
+Pomocou Sprievodcu [nastavením služby Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) nastavte službu EOP výberom z troch scenárov nasadenia – lokálnych poštových schránok, hybridných (kombinácie lokálnych a cloudových) poštových schránok alebo všetkých cloudových poštových schránok, ktoré sa hodia pre vašu organizáciu. Príručka poskytuje informácie a zdroje na nastavenie služby EOP a kontrolu používateľských licencií, priradenie povolení v rámci služby Centrum spravovania služby Microsoft 365 a konfiguráciu politík organizácie na ochranu proti malvéru a nevyžiadanej pošte v Centre dodržiavania súladu pre & zabezpečenia.

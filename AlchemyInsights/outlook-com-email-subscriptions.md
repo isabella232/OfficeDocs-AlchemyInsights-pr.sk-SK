@@ -1,5 +1,5 @@
 ---
-title: Outlook.com e-mailové predplatné
+title: Outlook-mailové predplatné na Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111919"
 ---
-# <a name="email-subscriptions"></a>Predplatné e-mailu
+# <a name="email-subscriptions"></a>E-mailové predplatné
 
-Prečo sa mi zobrazujú e-maily v zoznamoch predplatného?
+Prečo sa mi v zoznamoch predplatných zobrazuje e-mail?
 
-Outlook.com zistil, že e-mailová správa obsahuje informácie o predplatnom, vrátane možnosti zrušiť odber v správe. Outlook.com sa automaticky nepripojil na odber žiadnych bulletinov.
+Outlook.com zistila, že e-mailová správa obsahuje informácie o predplatnom vrátane zrušenia odberu v správe. Outlook.com vás automaticky neuplatní na odber žiadnych bulletinov.
 
-Ak chcete prestať dostávať bulletiny alebo propagačné akcie, môžete zrušiť odber pomocou Outlook.com dvoma spôsobmi:
-1. V priečinku doručenej pošty vyberte bulletin alebo propagačný e-mail. V hornej časti tably na čítanie vyberte položku **Zrušiť odoberanie**.
-2. Otvorte nastavenia [predplatného na Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) a vyberte možnosť **Zrušiť odber**.
+Ak chcete zastaviť prijímanie bulletinov alebo propagačných akcií, odber z odberu na webovej Outlook.com môžete zrušiť dvoma spôsobmi:
+1. V priečinku Doručená pošta vyberte bulletin alebo propagačný e-mail. V hornej časti tably na čítanie vyberte položku **Zrušiť odber**.
+2. Otvorte nastavenia [predplatného na Outlook.com a](https://go.microsoft.com/fwlink/?linkid=2110887) vyberte **položku Zrušiť odber**.
 
-Poznámky: Táto funkcia sa zobrazí len v prípade, že ste dostali e-mail od spoločnosti, ktorá odosiela e-maily s odoberanou poštou.
-Ak máte dotaz o službe Microsoft 365 platené predplatné, prejdite na [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   [lokalitu alebo si prečítajte viac o programe Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Poznámky: Táto funkcia sa zobrazí len v prípade, že ste dostali e-mail od spoločnosti, ktorý vám poslal predplatené e-maily.
+Ak sa váš dotaz venuje Microsoft 365 plateným predplatným, prejdite na [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) položku alebo Ďalšie informácie o [Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   
