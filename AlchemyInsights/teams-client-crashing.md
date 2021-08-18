@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890353"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321640"
 ---
 # <a name="teams-client-crashing"></a>Teams klient zlyháva
 
@@ -31,15 +31,17 @@ Ak váš klient Teams zlyháva, vyskúšajte tento postup:
 
 - Odinštalovanie a opätovné nainštalovanie Teams aplikácie
     - Prejdite do priečinka %appdata%\Microsoft\Teams\ v počítači a odstráňte všetky súbory z tohto adresára.
-    - [Stiahnite](https://www.microsoft.com/microsoft-teams/download-app)a nainštalujte Teams App a ak je to možné, nainštalujte Teams ako správca (kliknite pravým tlačidlom myši na inštalátor balíka Teams a vyberte položku Spustiť ako **správca,** ak je k dispozícii).
+    - [Stiahnite a nainštalujte aplikáciu Teams](https://www.microsoft.com/microsoft-teams/download-app)a ak je Teams možné, nainštalujte ako správcu (kliknite pravým tlačidlom myši na inštalátor balíka Teams a vyberte položku Spustiť ako **správca,** ak je k dispozícii).
 
 Ak Teams klienta stále zlyháva, pokúste sa problém reprodukovať. Ak môžete:
 
 1. Pomocou diktafónu krokov zaznamenajte svoje kroky.
     - Zavrite všetky nepotrebné alebo dôverné aplikácie.
     - Spustite záznam krokov a reprodukovať problém, keď ste prihlásení pomocou príslušného používateľského konta.
-    - [Zhromaždite záznamy o tímoch, ktoré zaznamenávajú zaznamenané kroky opätovného zabezpečenia.](https://docs.microsoft.com/microsoftteams/log-files) **Poznámka:** Nezabudnite zaznamenať prihlasovaciu adresu o vplyve používateľa.
-    - Zhromaždenie informácií o výpise alebo chybe kontajnera (Windows). Spustite Windows PowerShell v počítači, v ktorom sa vyskytuje zlyhanie, a spustite nasledujúce príkazy (po každom príkaze stlačte kláves Enter):
+    - [Zhromaždite záznamy o tímoch, ktoré zaznamenávajú zaznamenané kroky opätovného zabezpečenia.](https://docs.microsoft.com/microsoftteams/log-files) 
+    
+    **Poznámka:** Nezabudnite zaznamenať prihlasovaciu adresu o vplyve používateľa.
+    - Zhromaždenie informácií o výpise alebo chybe kontajnera (Windows). Spustite Windows Powershell v počítači, v ktorom sa vyskytuje zlyhanie, a spustite nasledujúce príkazy (po každom príkaze stlačte kláves Enter):
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
     `notepad .\FaultBuckets.txt`

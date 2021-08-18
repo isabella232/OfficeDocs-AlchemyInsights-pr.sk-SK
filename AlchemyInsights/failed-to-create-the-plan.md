@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: 27b5a2a88a82d837ae953f88866cf778fd74a2b6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5b3ded474f8fd6589d8a9e324a0bab72818d4a14893d5855502088c448bab150
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117679"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Chyba Nepodarilo sa vytvoriť plán pri pokuse o vytvorenie karty Planner v aplikácii Microsoft Teams
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Chyba "Nepodarilo sa vytvoriť plán" pri pokuse o vytvorenie karty Planner v programe Microsoft Teams
 
-Ak sa pri pokuse o vytvorenie karty Planner v Aplikácii Microsoft Teams zobrazí chyba Nepodarilo sa vytvoriť plán, pomocou týchto krokov skontrolujte, či je správca členom skupiny:
+Ak sa pri pokuse o vytvorenie karty Planner v programe Microsoft Teams zobrazí chyba Nepodarilo sa vytvoriť plán, pomocou týchto krokov skontrolujte, či je správca členom skupiny:
 
 1. V centre spravovania prejdite na položku **Skupiny.**  >  [](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups) 
 2. Vyberte skupinu a potom na karte **Členovia vyberte** položku Zobraziť všetkých a **spravovať členov**.

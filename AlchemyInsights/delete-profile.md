@@ -14,12 +14,12 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005537"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320173"
 ---
 # <a name="delete-a-profile"></a>Odstránenie profilu
 
@@ -31,13 +31,12 @@ Ak chcete odstrániť profil, postupujte podľa nasledujúcich krokov.
 
 3. V **dialógovom** okne Pošta vyberte profil, ktorý chcete odstrániť, a potom kliknite na položku **Odstrániť**.
 
-    > [!NOTE]
-    > Outlook vás môže upozorniť, že odstránením profilu sa odstránia údaje v režime offline. Nestratíte žiadne informácie uložené v údajových súboroch Outlook (.pst) ani informácie uložené v online kontách, ako sú napríklad kontá Outlook.com, Exchange alebo Microsoft 365.
+    **Poznámka:** Outlook vás môže upozorniť, že odstránením profilu sa odstránia údaje v režime offline. Nestratíte žiadne informácie uložené v údajových súboroch Outlook (.pst) ani žiadne informácie uložené v online kontách, napríklad kontá Outlook.com, Exchange alebo Microsoft 365.
   
 Ďalšie **Outlook pre Mac** profilu nájdete v téme [Spravovanie profilov alebo identít v Outlook pre Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) alebo postupujte podľa nasledujúcich krokov.
   
 1. Vo Finderi otvorte **priečinok** Aplikácie.
 
-2. Stlačte kláves Ctrl a kliknite alebo kliknite pravým tlačidlom **myši Outlook** Microsoft a potom vyberte položku Zobraziť **obsah balíka**.
+2. Stlačte kláves Ctrl a kliknite alebo kliknite pravým tlačidlom **myši na položku Microsoft Outlook** a potom vyberte položku Zobraziť obsah **balíka**.
 
-3. Vyberte **položku** \> **Zdieľaná podpora** obsahu a potom spustite Outlook Profile Manager **(Správca profilov).**
+3. Vyberte **položku** \> **Zdieľaná podpora** obsahu a potom **spustite Outlook profile .**

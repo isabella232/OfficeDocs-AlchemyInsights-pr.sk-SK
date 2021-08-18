@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890449"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321768"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Zapnutie overovania SMTP a riešenie problémov
 
@@ -33,13 +33,13 @@ Ak chcete zapnúť overenie SMTP pre poštovú schránku alebo sa vám zobrazuje
 
 2. [Povoľte odosielanie klientskeho SMTP](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) servera v licencovanej poštovej schránke.
 
-    a. V Centrum spravovania služby Microsoft 365 prejdite na **položku Aktívni používatelia** a vyberte používateľa.<BR/>
+    a. V Centrum spravovania služby Microsoft 365 prejdite na **položku Aktívni** používatelia a vyberte používateľa.<BR/>
     b. Prejdite na kartu Pošta a v časti **E-mailové aplikácie vyberte** položku Spravovať **e-mailové aplikácie**.<BR/>
     d. Skontrolujte, **či je začiarknuté políčko** Overený SMTP server (zapnuté).<BR/>
     e. Vyberte **položku Save changes (Uložiť zmeny).**<BR/>
 
 3. [V licencovanej poštovej schránke vypnite](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) viacfaktorové overovanie.
 
-    a. Prejdite na navigačnú Centrum spravovania služby Microsoft 365 a v ľavej navigačnej ponuke vyberte položku **Používatelia**  >  **Aktívni používatelia.**<BR/>
+    a. Prejdite na navigačnú Centrum spravovania služby Microsoft 365 a v ľavej navigačnej ponuke vyberte položku **Používatelia**  >  **Aktívni používatelia**.<BR/>
     b. Vyberte **položku Viacfaktorové overovanie.**<BR/>
     c. Vyberte používateľa a vypnite **možnosť Viacfaktorové overovanie.**<BR/>

@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893606"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320458"
 ---
 # <a name="retrieve-the-audit-logs"></a>Načítanie denníkov auditu
 
 Denník auditu bude pri prvom otvorení prázdny. Ak chcete zistiť, čo sa v tejto oblasti nachádza, musíte urobiť vyhľadávanie. Všeobecné vyhľadávanie všetkých aktivít:
 
 1. Vykonajte jednu z nasledujúcich akcií:
-   - V Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku  \> **Audit riešení.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
+   - V časti Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku **Kontrola** \> **riešení.** Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://compliance.microsoft.com/auditlogsearch> .
    - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku **Audit**. Alebo ak chcete prejsť priamo na **stránku Auditu,** použite <https://security.microsoft.com/auditlogsearch> .
 
 2. Na **karte Hľadať** na stránke **Audit** nakonfigurujte tieto nastavenia:

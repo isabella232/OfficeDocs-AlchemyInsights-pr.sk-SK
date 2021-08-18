@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900148"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321696"
 ---
 # <a name="suspend-or-pause-licenses"></a>Odstavenie alebo pozastavenie licencií
 
 **POZRITE SI video,** ktoré vám ukáže, ako na to: [Odstránenie existujúcich licencií](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Ak chcete dočasne pozastaviť alebo pozastaviť používanie licencie, môžete zo zariadenia Centrum spravovania služby Microsoft 365 licencie odstrániť a neskôr ich znova pridať.
+Ak chcete dočasne pozastaviť alebo pozastaviť používanie licencie, môžete licencie zo zariadenia Centrum spravovania služby Microsoft 365 odobrať a neskôr ich znova pridať.
 
 1. Pred odobratím licencií z predplatného musíte [najprv odobrať používateľom licencie.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Potom prejdite na stránku  >  [Fakturácia Vašich](https://go.microsoft.com/fwlink/p/?linkid=842054) produktov.
