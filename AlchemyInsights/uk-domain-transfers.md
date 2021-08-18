@@ -1,5 +1,5 @@
 ---
-title: UK transfery domén
+title: Prenosy domén .uk
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092327"
 ---
-# <a name="uk-domain-transfers"></a>UK transfery domén
+# <a name="uk-domain-transfers"></a>Prenosy domén .uk
 
-Obráťte sa na oddelenie technickej podpory spoločnosti Microsoft a požiadajte o **zmenu značky IPS** , aby zodpovedal registrátorovi, ktorému chcete spravovať svoju doménu. Po zmene značky sa doména okamžite presunie na nového registrátora. Potom budete musieť pracovať s novým registrátorom, aby ste dokončili prenos, pravdepodobne zaplatili poplatky za prenos a pridali prenesené domény do vášho konta u svojho nového registrátora.
+Obráťte sa na oddelenie podpory spoločnosti Microsoft a požiadajte o zmenu značky **IPS** tak, aby zodpovedala registrátorovi, ktorý chcete spravovať svoju doménu, aby sa ďalej zhodovať s vaším registrátorom. Po zmene značky sa doména okamžite prenesie k novému registrátorovi. Na dokončenie prenosu budete musieť spolupracovať s novým registrátorom, pravdepodobne platiť poplatky za prenos a pridať do svojho konta prenesenú doménu u nového registrátora.
 
-Ďalšie informácie o prenosoch domén nájdete v téme [prenos domény od spoločnosti Microsoft do iného hostiteľa](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+Ďalšie informácie o prenosoch domén nájdete v téme [Prenos domény od spoločnosti Microsoft k inému hostiteľovi](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
 
-Buďte pripravení poskytnúť IP značku nového Registrátora, ktorý nájdete na adrese https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Byť pripravení poskytnúť novému registrátorovi značku IPS, ktorú nájdete na adrese https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .

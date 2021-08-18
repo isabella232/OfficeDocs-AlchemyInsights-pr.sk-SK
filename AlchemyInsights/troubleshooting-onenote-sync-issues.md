@@ -1,5 +1,5 @@
 ---
-title: Riešenie problémov so synchronizáciou OneNotu
+title: Riešenie OneNote synchronizácie
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: b59105a5c47d7f2b119d017c2b3dc35729dbbdd7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f35bc1b8097d0de5a84bb499d50dd1de88139fc3fd40eafae9d3f4ad17d84d2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092533"
 ---
-# <a name="troubleshoot-onenote-sync-issues"></a>Riešenie problémov so synchronizáciou OneNotu
+# <a name="troubleshoot-onenote-sync-issues"></a>Riešenie OneNote synchronizácie
 
-* Ak chcete vyriešiť najbežnejšie problémy týkajúce sa synchronizácie OneNotu, postupujte podľa krokov v časti Riešenie [problémov, keď nie je možné synchronizovať OneNote.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)
+* Ak chcete vyriešiť najbežnejšie problémy týkajúce sa OneNote synchronizácie, postupujte podľa krokov v časti Riešenie problémov, [keď nemôžete synchronizovať OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-Ak je poznámkový blok, ktorý sa nedá synchronizovať, uložený vo OneDrive alebo v novších verziách SharePointu, skúste ho otvoriť vo OneNote pre web (na lokalite www.onenote.com). Tento môže pomôcť určiť, či problém spôsobuje server alebo OneNote.
+Ak je poznámkový blok, ktorý sa nedá synchronizovať, uložený vo OneDrive alebo v novších verziách balíka SharePoint, skúste ho otvoriť v OneNote pre web (na lokalite www.onenote.com). Tento môže pomôcť určiť, či problém spôsobuje server alebo OneNote.
 
-1. Vo OneNote kliknite na položku **Informácie o**  >  **súbore.**
+1. V OneNote kliknite na položku **Informácie o**  >  **súbore**.
 
 2. Kliknite pravým tlačidlom myši na URL adresu pod názvom príslušného poznámkového bloku a kliknite na položku **Kopírovať**.
 
 3. Vo webovom prehliadači kliknite na pole Adresa a stlačením kombinácie klávesov **Ctrl + V** prilepte skopírovanú URL adresu.
 
-4. Stlačením **klávesu Enter** načítajte potom poznámkový blok vo OneNote pre web.
+4. Stlačením **klávesu Enter** načítajte poznámkový blok OneNote pre web.
 
-Ak sa poznámkový blok nedá otvoriť vo OneNote pre web a zobrazujú sa zmeny, problém môže spôsobovať počítačová verzia OneNotu. Zatvorením a obnovením poznámkového bloku sa pripojenie zvyčajne vymaže a úspešne obnoví.
+Ak poznámkový blok nie je možné otvoriť v aplikácii OneNote pre web a vykonané zmeny sa zobrazia, problém môže spôsobovať počítačová verzia aplikácie OneNote. Zatvorením a obnovením poznámkového bloku sa pripojenie zvyčajne vymaže a úspešne obnoví.
 
-* Pri inštalácii najnovších aktualizácií OneNotu do počítača odporúčame inštalovať aktualizácie balíka Office podľa krokov uvedených v časti Inštalácia aktualizácií balíka [Office.](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) Ak používate Mac, postupujte podľa krokov v časti Automatické [kontrola aktualizácií balíka Office pre Mac.](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)
+* Odporúčame vám nainštalovať si do počítača [Office inštaláciu](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) najnovších aktualizácií balíka OneNote inštaláciu aktualizácií balíka Office. Ak používate Mac, postupujte podľa krokov v časti Automatické [Office pre Mac aktualizácie.](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)

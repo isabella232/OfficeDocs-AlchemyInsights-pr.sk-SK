@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087223"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319907"
 ---
 # <a name="your-payment-was-declined"></a>Vaša platba bola zamietnutá
 
@@ -35,8 +35,7 @@ Spoločnosť Microsoft sa pokúsi stiahnuť si platbu z karty viackrát v obdob�
 
 4. Ak chcete použiť existujúci spôsob úhrady, vyberte ho v rozbaľovacom zozname a potom vyberte položku **Nahradiť**.
 
-    > [!NOTE]
-    > Ak máte predplatné priradené k profilu fakturácie, na ich platenie môžete použiť len kreditnú alebo debetnú kartu. Ak máte na stránke **Spôsoby platby** uvedené bankové účty, nie sú k dispozícii na výber v rozbaľovacom zozname.
+    **Poznámka:** Ak máte predplatné priradené k fakturačným profilom, na ich platenie môžete použiť len kreditnú alebo debetnú kartu. Ak máte na stránke **Spôsoby platby** uvedené bankové účty, nie sú k dispozícii na výber v rozbaľovacom zozname.
 
 5. Ak chcete pridať nový spôsob úhrady, vyberte položku **Pridať spôsob úhrady**.
 
