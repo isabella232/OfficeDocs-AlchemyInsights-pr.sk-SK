@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5dddd01139d40f4ce97e0e8a18c1a98ac9dbd8aefd01ca7f27c9b30eb532701a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: edc41ecc9db1b3d163d1b44a669dd72fcdfef3ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090976"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326740"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>Vypnutie alebo odstránenie politík upozornení
 
 Postup:
 
-1. Prejdite do Centra [Office 365 zabezpečenia & súladu.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Vyberte **položku Politiky**  >  [upozornení.](https://go.microsoft.com/fwlink/?linkid=2103208)
-1. Ak ide o vlastnú politiku, vyberte ju v zozname a potom vyberte položku **Odstrániť politiku**. Výberom viacerých vlastných politík v zozname môžete naraz povoliť, zakázať alebo odstrániť viacero vlastných politík.
+1. Vykonajte jednu z nasledujúcich akcií:
+   - V časti Centrum dodržiavania súladu pre Microsoft 365 prejdite <https://compliance.microsoft.com> na položku **Politiky** \> **upozornení v** **časti** Upozornenie. Alebo ak chcete prejsť priamo na **stránku Politika upozornení,** <https://compliance.microsoft.com/alertpolicies> použite .
+   - Na portáli Microsoft 365 Defender prejdite <https://security.microsoft.com> na položku Politiky a & pravidlá  \> **upozornenia**. Alebo ak chcete prejsť priamo na **stránku Politika upozornení,** <https://security.microsoft.com/alertpolicies> použite .
+2. Ak ide o vlastnú politiku, vyberte ju v zozname a potom vyberte položku **Odstrániť politiku**. Výberom viacerých vlastných politík v zozname môžete naraz povoliť, zakázať alebo odstrániť viacero vlastných politík.
 
-> [!NOTE]
-> Ak ide o systémovú politiku, nemožno ju odstrániť, môžete ju však povoliť alebo zakázať a potom vytvoriť novú politiku, ktorá vyhovuje vašim potrebám.
+**Poznámka:** Ak ide o systémovú politiku, nemožno ju odstrániť, môžete ju však povoliť alebo zakázať a potom vytvoriť novú politiku, ktorá vyhovuje vašim potrebám.

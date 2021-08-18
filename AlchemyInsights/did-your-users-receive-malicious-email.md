@@ -14,16 +14,16 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893418"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326722"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Dostali vaši používatelia škodlivé e-maily?
 
-Teraz môžete odoslať škodlivé e-maily do spoločnosti Microsoft [pomocou odoslania na Microsoft 365 Defender portáli](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
+Škodlivé e-maily môžete teraz spoločnosti Microsoft nahlásiť [pomocou odoslania na Microsoft 365 Defender portáli](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
 
 Správy odoslané v [odoslaných správach správcu sa](https://security.microsoft.com/reportsubmission?viewid=admin) skenujú a v detailnej bubline sa zobrazia nasledujúce výsledky:
 

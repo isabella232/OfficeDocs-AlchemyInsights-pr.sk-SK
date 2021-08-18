@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896090"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326812"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Oprava politiky nájomníka (prepísanie akcie)
 
 Toto hlásenie ovplyvnila jedna z vašich politík ochrany pred nevyžiadanou poštou. Ak chcete skontrolovať politiky, postupujte takto:
 
-1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/>  \>  \>  \> **e-&**  na & Pravidlá politiky hrozieb Ochrana pred nevyžiadanou poštou v časti Politiky.
+1. Na portáli Microsoft 365 Defender prejdite na položku Politiky spolupráce pre <https://security.microsoft.com/>  \>  \>  \> **e-& e-maily** &  Pravidlá politiky hrozieb ochrana pred nevyžiadanou poštou v časti Politiky.
 
    Ak chcete prejsť priamo na stránku **Politiky ochrany pred nevyžiadanou poštou,** <https://security.microsoft.com/antispam> použite .
 
@@ -36,6 +36,6 @@ Toto hlásenie ovplyvnila jedna z vašich politík ochrany pred nevyžiadanou po
    - **Odstrániť správu**
    - **Žiadna akcia**
 
-   Je možné, že štandardné nastavenia **sa použijú na** všetkých zákazníkov Exchange Online Protection správu ovplyvnili.
+   Je možné, že štandardné nastavenia **sa použijú na** všetkých zákazníkov, Exchange Online Protection správu ovplyvnili.
 
 Ďalšie informácie nájdete v téme [Konfigurácia politík ochrany pred nevyžiadanou poštou v systéme EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

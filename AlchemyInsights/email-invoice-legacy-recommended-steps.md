@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003639"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326520"
 ---
 # <a name="e-mail-invoice---legacy"></a>E-mailová faktúra – staršia verzia
 
@@ -36,7 +36,7 @@ Ak chcete faktúry predplatného získať e-mailom, postupujte podľa týchto kr
 
 **Pridanie ďalších príjemcov na príjem faktúr**
 
-Ak chcete každý mesiac zdieľať faktúry s plánom predplatného a podpory s účtovným tímom alebo ich odoslať na niektorú z vašich ďalších e-mailových adries:
+Ak chcete faktúry pre plán predplatného a podpory zdieľať každý mesiac s účtovným tímom alebo ich odoslať na niektorú z vašich ďalších e-mailových adries:
 
 1. Podľa krokov uvedených vyššie najprv povoľte faktúru e-mailom a potom vyberte položku **Konfigurovať príjemcov.**
 2. Zadajte e-mailovú adresu a potom vyberte **položku Pridať príjemcu**. Môžete pridať viacero e-mailových adries.
@@ -52,5 +52,4 @@ Ak chcete povoliť používateľom alebo skupinám s prístupom na úrovni predp
 4. Vyberte svoje predplatné na Azure a potom kliknite na **položku Povoliť ostatným stiahnutie faktúry**.
 5. Vyberte **možnosť** On (Dňa) **a potom** položku Save (Uložiť) v hornej časti stránky.
 
-> [!NOTE]
-Ak nie ste správcom konta, obráťte sa na svojho správcu konta a postupujte podľa pokynov uvedených vyššie a prihláste sa, pridajte príjemcov alebo povoľte ostatným používateľom stiahnuť faktúru.
+**Poznámka:** Ak nie ste správcom konta, obráťte sa na svojho správcu konta a postupujte podľa pokynov uvedených vyššie a prihláste sa, pridajte príjemcov alebo umožňte ostatným používateľom stiahnuť faktúru.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2a48a49ec52a585e450edf448bc9203cd9c3f935
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887455"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326276"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Indikátory nefungujú v prehliadači Edge
 
@@ -35,7 +35,7 @@ Po vytvorení indikátora sa jej neminie Aplikácia Edge (Smartscreen). Ďalšie
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Krok 2: Riešenie potenciálneho problému
 
 - Uistite sa, že klient spĺňa požiadavky. Podrobnosti nájdete v téme [Vytváranie indikátorov IP adries a URL adries alebo domén.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
-- Uistite sa, že používate najnovšiu verziu prehliadača Edge. Ak chcete zistiť najnovšiu verziu, pozrite si [časť Zistite, ktorú verziu balíka Microsoft Edge používate.](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)
+- Uistite sa, že používate najnovšiu verziu prehliadača Edge. Ak chcete zistiť najnovšiu verziu, pozrite si [časť Zistite, ktorú verziu Microsoft Edge máte.](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)
 - Reštartujte prehliadač Edge.
 - Prejdite na lokalitu, pre ktorú máte nastavenie indikátora. Ak sa lokalita nezobrazuje podľa očakávania, pokračujte krokom 3. 
 

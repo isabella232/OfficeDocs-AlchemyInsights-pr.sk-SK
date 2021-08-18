@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025517"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327572"
 ---
 # <a name="monitor-intune-conditional-access"></a>Monitorovanie podmieneného prístupu v Intune
 
@@ -39,5 +39,4 @@ Ak používatelia zameraní na podmienený prístup nespĺňajú požiadavky va�
 - [Politika riešenia problémov](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [Monitorovanie dodržiavania súladu zariadení so intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> Tieto kroky sú užitočné len pri riešení problémov Azure Active Directory podmieneného prístupu. K dispozícii je tiež možnosť umiestniť do karantény prístup zariadenia blokujúcemu e-mail s Exchange politiky. Ďalšie informácie o Exchange zariadení nájdete [**tu.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+**Poznámka:** Tieto kroky sú užitočné len pri riešení problémov Azure Active Directory s podmieneným prístupom. Zo zariadenia, ktoré blokuje prístup k e-mailu, možno umiestniť do karantény aj s Exchange politiky. Ďalšie informácie o Exchange zariadení nájdete [**tu.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

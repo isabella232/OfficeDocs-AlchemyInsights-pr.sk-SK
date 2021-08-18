@@ -12,18 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 435877f24ca9d7213b45a896f0598c76696d54a9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53944614"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326148"
 ---
 # <a name="the-open-with-explorer-button-is-disabled"></a>Tlačidlo Otvoriť v programe Prieskumník je neaktivované
 
-- Prejdite do umiestnenia SharePoint alebo OneDrive v Internet Explorer 10 Internet Exploreri 11. Tlačidlo nie je kompatibilné s inými webovými prehliadačmi.
+- Prejdite na umiestnenie SharePoint alebo OneDrive v Internet Explorer 10 Internet Exploreri 11. Tlačidlo nie je kompatibilné s inými webovými prehliadačmi.
     
-> [!NOTE]
-> Otvorenie knižnice v Prieskumníkovi je užitočné, ak potrebujete kopírovať alebo premiestniť viacero súborov a priečinkov raz, ale ak chcete v knižnici pravidelne pracovať, odporúčame ju synchronizovať. Ďalšie informácie a riešenie ďalších problémov s otvorením v Prieskumníkovi nájdete v téme [Otvorenie v Prieskumníkovi.](https://go.microsoft.com/fwlink/?linkid=871665) Informácie o nastavení synchronizácie nájdete v téme [Synchronizácia SharePoint súborov s novým synchronizačná aplikácia OneDrivu klientom](https://go.microsoft.com/fwlink/?linkid=871666). 
+**Poznámka:** Otvorenie knižnice v Prieskumníkovi je užitočné, ak potrebujete skopírovať alebo premiestniť viacero súborov a priečinkov raz, ale ak chcete v knižnici pravidelne pracovať, odporúčame ju synchronizovať. Ďalšie informácie a riešenie ďalších problémov s otvorením v Prieskumníkovi nájdete v téme [Otvorenie v Prieskumníkovi.](https://go.microsoft.com/fwlink/?linkid=871665) Informácie o nastavení synchronizácie nájdete v téme [Synchronizácia SharePoint pomocou nového klienta synchronizačná aplikácia OneDrivu synchronizácie.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

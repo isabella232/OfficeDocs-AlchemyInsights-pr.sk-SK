@@ -16,23 +16,22 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501003"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327266"
 ---
 # <a name="trying-to-find-a-trial"></a>Pokúšate sa vyhľadať skúšobnú verziu?
 
-Ak chcete vyskúšať novú službu, zoznam predplatných, ktoré sú k dispozícii na skúšobné verzie, nájdete v Centrum spravovania služby Microsoft 365.
+Ak chcete vyskúšať novú službu, zoznam predplatných, ktoré sú k dispozícii pre skúšobnú verziu, nájdete v Centrum spravovania služby Microsoft 365.
   
 1. V centre spravovania prejdite  na stránku Služby \> [zakúpenia fakturácie.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
 2. Vyberte predplatné, ktoré zodpovedá vašim potrebám, a potom vyberte položku  **Získať bezplatnú skúšobnú verziu**.
 
-    > [!NOTE]
-    > Nie všetky predplatné sú k dispozícii ako skúšobná verzia. Ak sa tlačidlo Získať bezplatnú skúšobnú verziu **v** prípade, že myšou používate predplatné, skúšobná verzia nie je k dispozícii.
+    **Poznámka:** Niektoré predplatné nie sú k dispozícii ako skúšobná verzia. Ak sa tlačidlo Získať bezplatnú skúšobnú verziu **v** prípade, že myšou používate predplatné, skúšobná verzia nie je k dispozícii.
   
 3. Môže sa zobraziť výzva na zadanie kreditnej karty alebo iného spôsobu úhrady na poskytnutie ďalšieho overenia v rámci bezpečnostného opatrenia. Za túto bezplatnú skúšobnú verziu vám nebude účtovaný poplatok. Vaše informácie o platbe uchováme a nebudeme ich používať na žiadny nákup bez vášho súhlasu.
 
