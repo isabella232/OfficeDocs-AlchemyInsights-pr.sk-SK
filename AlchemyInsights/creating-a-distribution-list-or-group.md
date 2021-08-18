@@ -1,5 +1,5 @@
 ---
-title: 711 vytvorenie distribučného zoznamu alebo skupiny
+title: 711 Vytvorenie distribučného zoznamu alebo skupiny
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 179b3738f65b08fc81cf224393445717e4d4773f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 023a7646430bbbe176f9675721a6154d62269bcb866aa5b7413f7e6973947ae1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090211"
 ---
 # <a name="create-distribution-groups"></a>Vytvorenie distribučných skupín
 
-Distribučné skupiny (známe aj ako distribučné zoznamy) sa používajú na doručovanie e-mailových správ skupinám ľudí v organizácii aj mimo nej. Vytváranie je jednoduché. Pokyny nájdete v téme [Vytvorenie distribučných zoznamov v centre spravovania služieb Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
+Distribučné skupiny (známe aj ako distribučné zoznamy) sa používajú na poskytovanie e-mailových správ skupinám ľudí v rámci organizácie aj mimo nej. Ich vytváranie je jednoduché. Pokyny nájdete v téme [Vytvorenie distribučných zoznamov v Centrum spravovania služby Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists)
 
-**Poznámka**: správca potrebuje spravovať členstvo v distribučnej skupine. Ak chcete, aby používatelia mohli spravovať svoje vlastné zoznamy členstva v skupinách, môžete namiesto toho zvážiť [skupiny v službe Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .
+**Poznámka:** Správca musí spravovať členstvo v distribučnej skupine. Ak chcete, aby používatelia sprav mohli spravovať svoje vlastné zoznamy členov v skupine, mali by ste namiesto toho [zvážiť Microsoft 365 skupín.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

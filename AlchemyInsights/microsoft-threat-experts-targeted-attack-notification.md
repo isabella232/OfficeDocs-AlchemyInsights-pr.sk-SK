@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012143"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901483"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts – upozornenie zamerané na útok
 
@@ -26,7 +26,7 @@ Oznámenie o cielených útokoch je jednou z Microsoft Threat Experts možností
 
 Ak ste zákazníkom aplikácie Microsoft Defender pre koncový bod, musíte požiadať o aplikáciu Microsoft Threat Experts – cielené oznámenia o útokoch, aby ste mohli získať špeciálne prehľady a analýzu, ktoré vám pomôžu identifikovať najdôležitejšie hrozby, aby ste na ne mohli rýchlo reagovať.
 
-Ak sa chcete zaregistrovať Microsoft Threat Experts – výhody oznámení o cielených útokoch, prejdite na Nastavenia všeobecné rozšírené funkcie Microsoft Threat Experts – pre cielené oznámenia o  >    >    >   útokoch. Po prijatí získate výhody oznámení o cielených útokoch.
+Ak sa chcete zaregistrovať Microsoft Threat Experts – výhody pre cielené oznámenia útokov, prejdite na Nastavenia všeobecné rozšírené funkcie Microsoft Threat Experts – pre cielené oznámenia o  >    >    >   útokoch. Po prijatí získate výhody oznámení o cielených útokoch.
 
 Upozornenie o cielených útokoch môžete Microsoft Threat Experts prostredníctvom nasledujúceho média:
 
@@ -34,8 +34,8 @@ Upozornenie o cielených útokoch môžete Microsoft Threat Experts prostredníc
 - Tabuľa Upozornenia na portáli Defendera pre koncový bod
 - OData s upozornením rozhrania API a rozhrania REST API
 - Tabuľka DeviceAlertEvents v rozšírených možnostiach
-- Váš e-mail, ak sa rozhodnete ho nakonfigurovať
+- váš e-mail, ak sa rozhodnete ho nakonfigurovať,
 
 Ak chcete dostávať oznámenia o cielených útokoch prostredníctvom e-mailu, vytvorte pravidlo pre e-mailové oznámenie. 
 
-Podrobnosti [nájdete v téme konfigurácia Microsoft Threat Experts spravovanie možností](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) vyhľadávania.
+Podrobnosti [nájdete v Microsoft Threat Experts a spravovanie možností](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) vyhľadávania.
