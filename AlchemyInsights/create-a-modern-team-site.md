@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 47a27269ca4a3e92723b79fbe306c28a4a43838e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07c6acf1457964ab9b8f26007b25a23621dfc433e1a062122bd67039d793e350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118969"
 ---
-# <a name="create-a-microsoft-365-group-connected-team-site"></a>Vytvorenie tímovej lokality pripojenej ku skupine Microsoft 365
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Vytvorenie tímovej Microsoft 365 pripojenej ku skupine
 
-1. Kliknite na spúšťač aplikácií v ľavom hornom rohu a vyberte položku **SharePoint**. Ak sa dlaždica SharePoint nezobrazuje, kliknite na položku **všetky aplikácie**.
+1. V ľavom hornom rohu kliknite na spúšťač aplikácií a vyberte položku **SharePoint**. Ak sa vám dlaždica Aplikácie SharePoint, kliknite na **položku Všetky aplikácie**.
     
-2. V hornej časti domovskej stránky SharePointu kliknite na položku **vytvoriť lokalitu** a vyberte možnosť **Tímová lokalita** . 
+2. V hornej časti domovskej SharePoint lokality kliknite na **položku Vytvoriť lokalitu** a vyberte možnosť **Tímová** lokalita. 
     
     > [!NOTE]
-    > Ak sa príkaz vytvoriť lokalitu nezobrazuje, vytváranie lokalít nemusí byť vo vašej organizácii povolené. Ak ju chcete povoliť, prečítajte si tému [spravovanie vytvárania lokalít](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Ak sa príkaz Vytvoriť lokalitu zobraziť, vytváranie lokalít možno nie je vo vašej organizácii povolené. Ak ju chcete zapnúť, pozrite [si časť Správa vytvárania lokalít.](https://go.microsoft.com/fwlink/?linkid=2009644) 
   
-3. Podľa krokov na obrazovke pomenujte lokalitu a vytvorte e-mailovú adresu skupiny Microsoft 365 a potom kliknite na tlačidlo **ďalej**. Môžete pridať aj ďalších vlastníkov a členov skupiny. Kliknite na tlačidlo **Dokončiť**.
+3. Podľa krokov na obrazovke zadajte názov lokality a vytvorte e-mailovú adresu Microsoft 365 skupiny a potom kliknite na tlačidlo **Ďalej**. Môžete tiež pridať ďalších vlastníkov a členov skupiny. Kliknite na **tlačidlo Dokončiť.**
   
- **Poznámka:** Ak chcete vytvoriť tímovú lokalitu bez pripojenej skupiny, postupujte podľa krokov uvedených vyššie, namiesto toho však vyberte tímovú lokalitu v kroku 2. Vyberte položku Ďalšie možnosti. Prevedie vás tým, že vytvoríte tímovú lokalitu bez skupiny. 
+ **Poznámka:** Ak chcete vytvoriť tímovú lokalitu bez pripojenia k skupine, postupujte podľa krokov uvedených vyššie, v kroku 2 však namiesto výberu tímovej lokality. vyberte položku Ďalšie možnosti. Týmto vás prevedieme vytvorením tímovej lokality bez skupiny. 
     
 

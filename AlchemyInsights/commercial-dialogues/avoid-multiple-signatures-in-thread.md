@@ -1,5 +1,5 @@
 ---
-title: Zamedzenie pridávania viacerých podpisov do e-mailovej konverzácie
+title: Zabránenie pridaniu viacerých podpisov do e-mailovej konverzácie
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483958"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119335"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Zamedzenie pridávania viacerých podpisov do e-mailovej konverzácie
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Zabránenie pridaniu viacerých podpisov do e-mailovej konverzácie
 
-Ak chcete získať odmietnutie zodpovednosti alebo podpis iba raz za e-mailové vlákno, budete musieť zmeniť nastavenie v centre spravovania pre Exchange.
+Ak chcete získať vyhlásenie alebo podpis pridaný iba raz do e-mailového vlákna, budete musieť zmeniť nastavenie v centre spravovania Exchange správu.
 
-1. Prejdite do [centra spravovania pre Exchange.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. Vyberte položku **Ďalšie možnosti** , ak chcete pridať výnimku, ktorá vyhľadá jedinečný text v disclaimer. Tým sa zabezpečí, že odmietnutie zodpovednosti sa pridá iba do pôvodnej správy.
+1. Prejdite do Centra [Exchange spravovania.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. Ak **chcete pridať výnimku,** ktorá hľadá jedinečný text vo vašom vyhlásení, vyberte položku Ďalšie možnosti. Tým sa zabezpečí, že vyhlásenie sa pridá len do pôvodnej správy.
 

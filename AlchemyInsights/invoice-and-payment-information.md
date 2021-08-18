@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892142"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321978"
 ---
 # <a name="invoice-and-payment-information"></a>Informácie o faktúre a platbe
 
@@ -31,7 +31,7 @@ Pri zakúpením predplatného Microsoft 365 for business priamo od spoločnosti 
 
 **Faktúra alebo faktúra**
 
-Faktúry nájdete a stiahnite na stránke Faktúry  >  [a & platby.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+Faktúry môžete nájsť a stiahnuť na stránke **Fakturácia**  >  [& platby.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **Poznámka:** Ak sa nezobrazujú žiadne faktúry, pravdepodobne bude potrebné upraviť filter rozsahu dátumov.  Predvolene sa zobrazujú posledné 3 mesiace faktúr.
 

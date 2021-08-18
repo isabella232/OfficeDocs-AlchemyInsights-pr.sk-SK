@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054813"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321922"
 ---
 # <a name="issues-with-links-and-urls"></a>Problémy s prepojeniami a URL adresami
 
@@ -42,15 +42,13 @@ Ak chcete pridať URL adresu odpovede, prejdite na kartu **Overovanie** na strá
     - platformy (iOS/Android/UWP)
     - informácií využité na zostavenie aplikácie ako napríklad ID balíka v iOS, názov balíka a odtlačok hash podpisu v Androide. Registrácia aplikácie na portáli Microsoft Azure vám pomôže. Viac informácií nájdete na [Konfigurácia platformy a URI identifikátory presmerovania](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Webové API a niektoré tiché spôsoby získavania tokenov (IWA a meno používateľa/heslo) si nevyžadujú URI identifikátor presmerovania.
+**Poznámka:** Webové rozhrania API a niektoré z tichých spôsobov získania tokenov (IWA a meno používateľa/heslo) nevyžadujú identifikátor URI na presmerovanie.
 
 **Nasadil som svoju webovú aplikáciu a keď ju testujem, zobrazí sa správa, že URL adresa odpovede sa nezhoduje**
 
 Pridať URI identifikátory presmerovaní pre všetky lokality, na ktoré nasadzujete svoju webovú aplikáciu. Viac informácií nájdete v téme [Registrácia webovej aplikácie pomocou portálu Microsoft Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Pridať URI identifikátor presmerovania pre lokalitu okamžite po nasadení aplikácie na danej lokalite.
+**Poznámka:** Identifikátor URI presmerovania môžete pridať do umiestnenia hneď po nasadení aplikácie v tomto umiestnení.
 
 **Nemôžem zaregistrovať dostatočné množstvo URL adries odpovede**
 

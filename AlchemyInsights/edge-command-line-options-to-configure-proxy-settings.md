@@ -1,5 +1,5 @@
 ---
-title: Konfigurácia nastavení servera proxy v Microsoft Edgei pomocou možností príkazového riadka
+title: Konfigurácia nastavení servera proxy v programe Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118429"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Konfigurácia nastavení servera proxy v Microsoft Edgei pomocou možností príkazového riadka
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Konfigurácia nastavení servera proxy v programe Microsoft Edge
 
-V Microsoft Edgei verzie 77 a novšej používa sieťový zásobník predvolene systémové nastavenia siete. V hybridných scenároch, keď používatelia požiadajú o alternatívu, Microsoft Edge podporuje možnosti príkazového riadka na konfiguráciu vlastných nastavení servera proxy. Podrobnosti nájdete v téme:
+V Microsoft Edge 77 a novších verziách sieťový zásobník predvolene používa sieťové nastavenia systému. V hybridných scenároch, kedy používatelia požiadajú o alternatívu, Microsoft Edge možnosť príkazového riadka na konfiguráciu vlastných nastavení servera proxy. Podrobnosti nájdete v téme:
 
 1. [Systémové nastavenia siete](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [Možnosti príkazového riadka pre nastavenia servera proxy](https://go.microsoft.com/fwlink/?linkid=2134292)

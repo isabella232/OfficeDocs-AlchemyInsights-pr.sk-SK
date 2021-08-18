@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e050074f26025906561237c9ef487ed4743f93b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988850"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322264"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Automatické šifrovanie niektorých e-mailových správ zo služieb Office 365
 
-1. V Centre [Exchange vyberte](https://outlook.office365.com/ecp/)položku **Tok pošty a > správ**. 
-2. Kliknite na **ikonu Nové (+)** a potom kliknite na **položku Šifrovanie správ v Office 365 a ochranu prístupových práv na správy**.
+1. V Centre [spravovania Exchange vyberte](https://outlook.office365.com/ecp/)položku **Pravidlá toku > pošty**. 
+2. Kliknite na **ikonu Nové (+)** a potom na položku **Použiť Šifrovanie správ v Office 365 práva na správy.**
 3. Do **poľa** Názov zadajte názov pravidla, napríklad *Šifrovať všetky správy*.
 4. V **časti Použiť toto pravidlo, ak** vyberte položku **[Použiť na všetky správy]**. 
 5. Vedľa poľa **Vykonajte nasledovné kliknite** na položku **Vybrať.** 
@@ -33,8 +33,7 @@ ms.locfileid: "53988850"
 9. Vyberte ľubovoľnú voliteľnú možnosť (zo zoznamu voliteľných výberov, ktoré môžete v tomto momente vybrať, z ktorých mnohé môžete ponechať s predvoleným nastavením jednoduchosti).
 10. Kliknite na tlačidlo **Uložiť**.
 
-> [!IMPORTANT]
-> Toto pravidlo sa vždy môžete vrátiť a toto pravidlo upraviť neskôr.
+**Dôležité:** Toto pravidlo môžete vždy vrátiť a upraviť neskôr.
 
-Ďalšie informácie o vytváraní pravidiel šifrovania nájdete v téme Definovanie pravidiel toku pošty na [šifrovanie e-mailových správ v Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Ďalšie informácie o vytváraní pravidiel šifrovania nájdete v téme Definovanie pravidiel toku pošty na [šifrovanie e-mailových správ vo Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 
