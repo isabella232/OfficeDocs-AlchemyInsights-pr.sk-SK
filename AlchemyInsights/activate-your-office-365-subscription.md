@@ -3,6 +3,7 @@ title: Aktivácia predplatného na Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2020
+ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314291"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450938"
 ---
 # <a name="activate-your-subscription"></a>Aktivácia predplatného
 
@@ -25,7 +28,7 @@ ms.locfileid: "58314291"
 
 - Ak chcete používateľom poskytnúť prístup k službe, priraďte im licenciu. Postup nájdete v téme [Priradenie licencií používateľom.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Ak už máte priradenú licenciu, aplikácie, ktoré môžete stiahnuť, nájdete na [stránke Moje konto.](https://portal.office.com/account/#installs) Na tejto stránke sa nachádza zoznam aplikácií, ktoré sú k dispozícii na stiahnutie na základe priradených licencií.
-- Ak ste už stiahli aplikácie balíka Office, možno sa budete musieť prihlásiť do aplikácií pomocou svojho pracovného alebo školského konta. Môžete to urobiť v ľubovoľnej Office aplikácii (Word, Excel atď.) výberom položky **Súbor > Konto** (v dolnej časti). V časti Informácie o používateľovi vyberte **položku Prepnúť konto**. Ďalšie informácie nájdete v téme [Inštalácia aplikácií balíka Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Ak ste už stiahli aplikácie balíka Office, možno sa budete musieť prihlásiť do aplikácií pomocou svojho pracovného alebo školského konta. Môžete to urobiť v ľubovoľnej Office aplikácie (Word, Excel atď.) výberom položky **Súbor > Konto** (v dolnej časti). V časti Informácie o používateľovi vyberte **položku Prepnúť konto**. Ďalšie informácie nájdete v téme [Inštalácia aplikácií balíka Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Opätovná aktivácia predplatného**
 
@@ -40,5 +43,5 @@ Ak platnosť vášho predplatného uplynula, bolo vypnuté spoločnosťou Micros
 
 **Aktivácia nového predplatného pomocou kódu Product Key**
 
-- Ak chcete aktivovať nové predplatné Microsoft 365 pomocou kľúča Product Key, pozrite si [časť Kde zadať Office Product Key.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Ak chcete aktivovať nové predplatné Microsoft 365 pomocou kľúča Product Key, pozrite si časť Kde [zadať Office Product Key.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Zadajte kód Product Key pre Microsoft 365 a podľa pokynov aktivujte predplatné. Ak máte s aktiváciou problémy, pozrite si tento [zoznam bežných chýb s kódom Product Key a riešení](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

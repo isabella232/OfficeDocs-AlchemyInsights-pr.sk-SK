@@ -3,8 +3,7 @@ title: Maloobchodná predplatená karta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +14,16 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321004"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451937"
 ---
 # <a name="retail-prepaid-card"></a>Maloobchodná predplatená karta
 
-Ak ste predplatné Microsoft 365 Business Standard v maloobchodnej predajni, pomocou nasledujúcich krokov môžete predĺžiť dátum uplynutia platnosti alebo pridať licenciu k existujúcemu predplatnému.
+Ak ste si Microsoft 365 Business Standard v maloobchodnej predajni, pomocou nasledujúcich krokov môžete predĺžiť dátum uplynutia platnosti alebo pridať licenciu k existujúcemu predplatnému.
 
 **Poznámka:** Ak chcete použiť kód Product Key na predĺženie dátumu uplynutia platnosti alebo pridať licenciu k existujúcemu predplatnému služieb Microsoft 365 Business Standard, budete potrebovať nový a nepoužitý kód pre rovnaké Microsoft 365 predplatné. Zadávanie pôvodného Microsoft 365 Product Key nebude fungovať, pretože kód, ktorý už bol uplatnený, nie je možné znova použiť.
 
