@@ -3,7 +3,6 @@ title: Zakúpenie ďalších licencií
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/27/2021
+ms.openlocfilehash: 6a00dd03114e7b393a8bbe45da10773ccbb77bc9
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313749"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679242"
 ---
 # <a name="buy-additional-licenses"></a>Zakúpenie ďalších licencií
 
@@ -35,4 +35,4 @@ ms.locfileid: "58313749"
 
 **Ďalšie zdroje informácií**
 
-[Priradenie licencií pre používateľov vo Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+[Priradenie licencií používateľom vo Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
