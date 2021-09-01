@@ -3,7 +3,6 @@ title: Najčastejšie otázky o platbe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +13,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895722"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841916"
 ---
 # <a name="payment-faq"></a>Najčastejšie otázky o platbe
 
 Spravujte platby v **Centrum spravovania služby Microsoft 365**.
 
-- Prejdite na **položky Fakturácia > [Vaše produkty na](https://go.microsoft.com/fwlink/p/?linkid=842054)** priradenie alebo zmenu spôsobu platby za predplatné.
+- Prejdite na **položky Fakturácia > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)** na priradenie alebo zmenu spôsobu platby za predplatné.
 - Prejdite na **položky > [spôsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806)** na pridanie, aktualizáciu, nahradenie alebo odstránenie spôsobov platby.
 
 - **Spôsoby úhrady** – ak platíte kreditnou kartou alebo prostredníctvom bankového účtu, faktúra sa na spôsob úhrady, ktorý je priradený k vášmu predplatnému, naúčtuje v priebehu niekoľkých dní po jej vytvorení. Ak platba zlyhá, aktualizujte spôsob úhrady. Ďalšie informácie nájdete v téme [Spravovať spôsoby úhrady](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
