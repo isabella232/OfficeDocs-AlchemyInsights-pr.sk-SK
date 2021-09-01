@@ -3,7 +3,6 @@ title: Multilicenčné zmluvy Enterprise aktivované v nesprávnom konte
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_licensing
 - "463"
 - "1500021"
-ms.openlocfilehash: e1885ffba9d1df1fba0fcca2f2b792bc218f7ab2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 64073e8133d0a88a56a74cc6934025451e312205
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323499"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843969"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Multilicenčné zmluvy Enterprise aktivované v nesprávnom konte alebo prenos licencií z jedného konta do druhého
 
-Ak zistíte, že vaše predplatné zakúpené prostredníctvom multilicenčné **služby zmluva Enterprise** boli aktivované v  nesprávnom nájomníkovi **alebo** chcete preniesť licencie z jedného nájomníka do druhého, obráťte sa na oddelenie [podpory.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+Ak zistíte, že vaše predplatné zakúpené cez multilicenčné **služby zmluva Enterprise** boli aktivované v  nesprávnom nájomníkovi **alebo** chcete preniesť licencie z jedného nájomníka do druhého, obráťte sa na oddelenie [podpory.](https://go.microsoft.com/fwlink/p/?linkid=518322)
