@@ -1,26 +1,29 @@
 ---
 title: Licencia chýba alebo zmizne z centra spravovania
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708100"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844545"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>Licencia chýba alebo zmizne z centra spravovania
 
+Ak vaše licencie zmizli, overte, či neuplynula platnosť vášho predplatného. Ak chcete skontrolovať dátum uplynutia platnosti, prejdite na položku **Fakturácia** > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-Ak sa vaše licencie stratili, overte, či platnosť predplatného neuplynula. Ak chcete skontrolovať dátum **Billing**vypršania platnosti, prejdite do časti   >   **[Fakturácia produktov](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-V závislosti od zobrazenia sa dátum uplynutia platnosti zobrazí v úplne pravom stĺpci s označením **Dátum** alebo v **časti Fakturácia** s podrobnosťami predplatného vedľa položky **Vypršaní platnosti**.
+Dátum uplynutia platnosti sa zobrazí v stĺpci **Stav predplatného**.

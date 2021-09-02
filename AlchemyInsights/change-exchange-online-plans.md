@@ -1,31 +1,32 @@
 ---
 title: Zmena plánov služby Exchange Online
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706878"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841988"
 ---
 # <a name="change-exchange-online-plans"></a>Zmena plánov služby Exchange Online
 
-Správcovia musia zmeniť plány manuálne. Podrobné informácie nájdete v téme [Manuálna zmena plánov služieb Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Správcovia musia plány zmeniť manuálne v Centre spravovania služby Microsoft 365. Úplný postup nájdete v téme [Manuálna zmena plánov](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
-1. Kúpte si nový plán predplatného. V Centre spravovania Microsoft 365 prejdite na položky **Fakturácia > [Služby zakúpenia](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Najjednoduchšie je použiť vyhľadávacie pole na vyhľadanie plánov služby Exchange.
-
-2. Skontrolujte svoje nové predplatné a licencie. V Centre spravovania Microsoft 365 prejdite na položky **Fakturácia > [Predplatné](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Ak nové predplatné nie je uvedené alebo nie je aktívne, pozrite sa [sem](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
-
-3. Opätovne priraďte licencie používateľom. V centre spravovania služby Microsoft 365 prejdite na položku **Používatelia > [Aktívni používatelia](https://go.microsoft.com/fwlink/p/?linkid=834822)** a priraďte licencie.
-
-4. [Zrušte predplatné alebo odstráňte licencie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional), ktoré už nepotrebujete.
+1. **Kúpte si nový plán predplatného.** Prejdite na stránku **Fakturácia** > [Zakúpiť služby](https://go.microsoft.com/fwlink/p/?linkid=868433) a kúpte si nové predplatné.
+2. **Skontrolujte svoje nové predplatné a licencie.** Prejdite na stránku **Fakturácia** > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054) a overte, či je nové predplatné uvedené v zozname a či má správny počet licencií.
+3. **Opätovne priraďte licencie používateľom.** Prejdite na stránku **Používatelia** > [Aktívni používatelia](https://go.microsoft.com/fwlink/p/?linkid=834822) a priraďte licencie.
+4. [Zrušte predplatné](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) alebo [odstráňte licencie](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses), ktoré už nepotrebujete.
