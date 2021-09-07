@@ -9,33 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 67d041da543dc1ac3668190faacefe4207d6c8eb30af4c19a5ff0833a3b46538
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea00bfb368cca514c2b4732667cfb55509f9a3f5
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985609"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923749"
 ---
 # <a name="sync-a-users-profile-picture"></a>Synchronizácia profilového obrázka používateľa
 
-Svoju profilovú fotografiu môžete pridať alebo zmeniť na lokalite Microsoft 365 na lokalite Office.com, prípadne pri používaní aplikácií spoločnosti Microsoft v počítači alebo v prehliadači v telefóne. Fotografia sa zobrazí všade v kruhu na profilovej fotografii Microsoft 365.
-
-Pridanie profilovej fotografie do Microsoft 365 for business:
-
-1. Vyhľadajte fotografiu, ktorú chcete použiť, a uložte ju do počítača, OneDrive alebo na iné miesto, kam máte prístup.
-
-2. Prihláste sa Microsoft 365 pomocou svojho pracovného alebo školského konta na [office.com](https://www.office.com).
-
-3. V pravom hornom rohu stránky vyberte kruh, ktorý zobrazuje vaše iniciály alebo ikonu osoby.
-
-4. Na table Moje kontá vyberte kruh, ktorý zobrazuje vaše iniciály alebo ikonu osoby. V zobrazenom kontextovom okne zmeňte svoju fotografiu.
-
-**Poznámka:** Ak sa profilový obrázok používateľa v aplikácii SharePoint líši od ostatných aplikácií od spoločnosti Microsoft, na vykonanie týchto krokov treba mať používateľa:
-
-1. Otvorte súkromnú reláciu prehliadača (InPrivate alebo inkognito).
-1. Prejdite na [Microsoft Office 365](https://www.office.com).
-1. Vyberte ikonu SharePoint ikonu .
-1. Prejdite na lokalitu alebo stránku, kde sa fotografia neaktualizuje, alebo stránku, na ktorej je používateľ zahrnutý do webovej časti Ľudia.
+Váš SharePoint profilový obrázok online sa na webových SharePoint alebo vo webových častiach Ľudia nezobrazuje. Ak chcete zobraziť svoj profilový obrázok, postupujte podľa krokov v časti [Obrázok profilu, ktorý sa nezobrazuje v SharePoint Online.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/profile-picture-not-showing)
 
 Ďalšie informácie nájdete v téme [Informácie o synchronizácii obrázkov profilu Microsoft 365.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 
