@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060871"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446670"
 ---
 # <a name="set-up-insider-risk-management"></a>Nastavenie riadenia rizík spôsobených insidermi
 
-Ak chcete získať prístup k riadeniu rizík spôsobených insidermi, vaša organizácia **musí** mať niektoré z nasledujúcich predplatných:
+Ak chcete získať prístup k riadeniu rizík spôsobených insidermi, vaša organizácia musí mať niektoré z nasledujúcich predplatných:
 
-- Predplatné **Microsoft 365 E5**.
+- Microsoft 365 Predplatné G5 (platená alebo skúšobná verzia)
+- Microsoft 365 G3 predplatné + Microsoft 365 G5 Compliance
+- Microsoft 365 G3 predplatné + Microsoft 365 G5 Insider Risk Management
+- Office 365 E3 predplatné + Enterprise Mobility a Security E3 + Microsoft 365 E5 Compliance doplnok
 
-- Predplatné **Microsoft 365 E3** s doplnkom Microsoft E5 Compliance.
+Ak nemáte existujúci plán na Microsoft 365 E5 a chcete vyskúšať riadenie rizík pre insiderov, môžete Microsoft 365 pridať k existujúcemu predplatnému alebo si zaregistrovať skúšobnú verziu plánu Microsoft 365 Enterprise E5.
 
-Ak nemáte plán **Microsoft 365 E5** a chcete vyskúšať riadenie rizík spôsobených insidermi, môžete do existujúceho predplatného pridať Microsoft 365 alebo si zaregistrovať skúšobnú verziu plánu Microsoft 365 Enterprise E5.
+**Tipy:**
 
-> [!TIPY]
-- > Použitie šablóny Úniky údajov: Skontrolujte, či máte nakonfigurovanú aspoň jednu politiku DLP.
-- > Správcovi sa nezobrazujú upozornenia: Skontrolujte, či je používateľ priradený k jednej z týchto skupín:
-    - >**Analytici spravovania rizík zvnútra**
-    - >**Vyšetrovatelia spravovania rizík zvnútra**
+- Pomocou šablóny Úniky údajov skontrolujte, či máte nakonfigurované aspoň jednu politiku ochrany pred únikom údajov (DLP). K dispozícii je však nová možnosť spúšťača, ktorá nevyžaduje konfiguráciu politiky DLP.
 
-Ďalšie informácie o tom, ako môžu politiky rizík spôsobených insidermi pomôcť pri riadení rizík vo vašej organizácii, nájdete v téme [Riadenie rizík spôsobených insidermi v službe Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Globálni správcovia predvolene nemajú prístup k portálu správy rizík programu Insider. Musí im byť priradená jedna z rolí programu Insider Risk Management.
+
+- Ak sa správcovi upozornenia nevidí, uistite sa, že je používateľom priradená niektorá z týchto skupín:
+
+    Analytici spravovania rizík zvnútra
+
+    Vyšetrovatelia spravovania rizík zvnútra
+
+Ďalšie informácie o tom, ako vám môžu pomôcť opatrenia týkajúce sa rizík insiderov v organizácii pri riadení rizík, nájdete v téme Informácie o riadení rizík [insiderov v Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management)
