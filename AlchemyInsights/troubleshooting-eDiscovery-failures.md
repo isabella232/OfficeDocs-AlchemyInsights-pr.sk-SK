@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105583"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481820"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Riešenie chýb vyhľadávania obsahu
 
 Vyskytujú sa pri exporte výsledkov hľadania problémy s vyhľadávaním obsahu alebo sa vyskytujú zlyhania?
+Zobrazí sa vám napríklad po spustení vyhľadávania nasledovné?
 
-Dostávate napríklad nasledujúce informácie pri spustení vyhľadávania?
-
-- Chyby CS008 alebo CS012
+- Chyby CS007, CS008 alebo CS012
 
 - Chyby zaneprázdnenia a časového limitu servera
 
 - Vyskytla sa chyba aplikácie
 
-Alebo sa vám pri vyhľadávaní alebo exporte výsledkov z veľkého počtu poštových schránok (viac ako 100 000 poštových schránok) vyskytujú chyby pri exporte?
+Alebo sa vám pri vyhľadávaní alebo exportovaní výsledkov z veľkého počtu (viac ako 100 000) poštových schránok vyskytujú chyby exportu?
 
-Pri týchto typoch chýb skúste znova vyhľadať umiestnenia obsahu, ktoré sa nepodarilo vyhľadať. Ďalšie  [informácie nájdete v](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) tomto článku.
+V prípade týchto chýb skúste znova vyhľadať umiestnenia obsahu, ktoré sa nepodarilo vyhľadať, alebo aktualizovať vyhľadávanie obmedzením zložitosti vyhľadávacieho dotazu. Napríklad zástupné vyhľadávanie pomocou zástupných kariet môže vrátiť príliš veľa výsledkov procesu, čo spôsobuje chybu CS007.   
 
-Ak exportujete viac ako 100 000 poštových schránok, na stiahnutie výsledkov exportu budete musieť použiť toto prostredie PowerShell: Export výsledkov z viac ako  [100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)poštových schránok.
+Ďalšie informácie nájdete v téme [Zopakovanie](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) vyhľadávania obsahu na vyriešenie chyby umiestnenia obsahu alebo Skúmanie, riešenie a riešenie bežných problémov [s vyhľadávaním eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Ak exportujete viac ako 100 000 poštových schránok, bude potrebné stiahnuť výsledky exportu. Podrobnosti nájdete v téme [Exportovanie výsledkov vyhľadávania obsahu.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
