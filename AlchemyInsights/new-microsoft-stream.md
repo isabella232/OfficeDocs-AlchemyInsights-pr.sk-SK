@@ -1,5 +1,5 @@
 ---
-title: Migrácia zo služby Microsoft Stream (klasická verzia) do novej služby Microsoft Stream
+title: Migrácia z Microsoft Stream (Classic) do nového Microsoft Streamu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097393"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482683"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream je podniková videoslužba, v ktorej môžu ľudia vo vašej organizácii bezpečne nahrávať, pozerať a zdieľať videá. Môžete zdieľať záznamy hodín, schôdzí, prezentácií, školení a ďalšie videá, ktoré môžu pomôcť tímu spolupracovať.  
+Nová predstava pre Microsoft Stream používateľom umožňuje vytvárať, zdieľať, objavovať a spravovať video rovnako ako akýkoľvek iný súbor. Ďalšie informácie nájdete v téme:
 
-- [Nový Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (klasický)](https://docs.microsoft.com/stream/overview)
-- [Migrácia zo služby Microsoft Stream (klasická verzia) do novej služby Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (vstavaný SharePoint), nová verzia služby Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Prehľad migrácie z Microsoft Stream (Classic) do Streamu (vstavané na SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
