@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103927"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131909"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Fronty hovorov v Microsoft Teams a Skype for Business 
 
-Ak chcete začať používať fronty hovorov, pozrite si tieto prepojenia.
+Fronty hovorov vyžadujú konkrétne licencie a kontá zdrojov. Podrobnosti nájdete v téme [Plán pre Teams automatických telefónnych systému a frontov hovorov: Predpoklady]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [Vytvorenie cloudového frontu hovorov](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Odpovedzte na automatický telefónny systém a hovory vo fronte priamo z Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Ďalšie informácie o vytváraní a nastavovaní frontov hovorov vo Microsoft Teams téme [Vytvorenie frontu hovorov.](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) 
+
+Ďalšie informácie nájdete v téme [Odpovedanie na hovory vo automatickom telefóne a vo fronte hovorov priamo Teams.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 
