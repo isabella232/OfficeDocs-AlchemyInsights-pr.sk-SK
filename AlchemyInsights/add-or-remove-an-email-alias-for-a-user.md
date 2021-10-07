@@ -12,16 +12,14 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: bd398ebe9200615044f30304b6bd4cd61e00c8c2bbfac027ad50c9f5489b1734
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a1559d0f1c87481ae55d29940c23c4532bd7ae3a
+ms.sourcegitcommit: 68b50235d10ebb92b594ac3224c55cf0e8452ac9
 ms.translationtype: MT
 ms.contentlocale: sk-SK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954028"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60226143"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Pridanie alebo odstránenie e-mailovej adresy používateľa
 
-[Ak chcete začať,](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) Centrum spravovania služby Microsoft 365 podľa týchto krokov uvedených v tomto článku.
-
- **Poznámka:** Môžete mať viac ako jednu e-mailovú adresu používateľa, ale ďalšie  *e-mailové aliasy*  možno použiť len na prijímanie e-mailov. Ak potrebujete odoslať e-mail pomocou aliasu, vytvorte zdieľanú [poštovú schránku.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) Tak budete mať alias na odosielanie a prijímanie pošty.
+Môžete mať viac ako jednu e-mailovú adresu používateľa, ale ďalšie  *e-mailové aliasy*  možno použiť len na prijímanie e-mailov. Ak potrebujete odoslať e-mail pomocou aliasu, vytvorte zdieľanú [poštovú schránku.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) Tak budete mať alias na odosielanie a prijímanie pošty.
   
